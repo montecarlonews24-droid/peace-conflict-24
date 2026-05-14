@@ -433,6 +433,16 @@ select{background:var(--bg3);border:1px solid var(--border);border-radius:8px;pa
 .pdf-generating{text-align:center;padding:20px;font-family:var(--font-mono);font-size:11px;color:var(--muted)}
 
 </style>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/peace-conflict-24/sw.js')
+          .then(reg => console.log('[P&C24] SW registered'))
+          .catch(err => console.log('[P&C24] SW failed:', err));
+      });
+    }
+  </script>
 </head>
 <body>
 <div id="root">
@@ -4704,6 +4714,16 @@ async function generatePDFReport() {
   .badge-orange{background:#fff0e0;color:#c60}
   .badge-yellow{background:#fffde0;color:#880}
 </style>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/peace-conflict-24/sw.js')
+          .then(reg => console.log('[P&C24] SW registered'))
+          .catch(err => console.log('[P&C24] SW failed:', err));
+      });
+    }
+  </script>
 </head>
 <body>
 <div class="header">
