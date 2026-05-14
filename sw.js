@@ -1,28 +1,21 @@
-// Peace & Conflict 24 — Service Worker
-const CACHE_NAME = 'pc24-v1';
-const urlsToCache = [
-  '/peace-conflict-24/PeaceConflict_v6.html',
-  '/peace-conflict-24/manifest.json'
-];
+// Peace & Conflict 24 — Service Worker v2 (cache-busting)
+const CACHE_NAME = 'pc24-v2';
 
 self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(urlsToCache))
-  );
-});
-
-self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request).then(response => {
-      return response || fetch(event.request);
-    })
-  );
+  self.skipWaiting(); // Force immediate activation
 });
 
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(keys =>
-      Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))
-    )
+      Promise.all(keys.map(k => caches.delete(k))) // Clear ALL old caches
+    ).then(() => self.clients.claim())
+  );
+});
+
+// Network-first: always fetch fresh content
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    fetch(event.request).catch(() => caches.match(event.request))
   );
 });
