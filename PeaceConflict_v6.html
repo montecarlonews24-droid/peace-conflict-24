@@ -437,9 +437,9 @@ select{background:var(--bg3);border:1px solid var(--border);border-radius:8px;pa
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/peace-conflict-24/sw.js')
+        navigator.serviceWorker.register('./sw.js', {scope: './'})
           .then(reg => console.log('[P&C24] SW registered'))
-          .catch(err => console.log('[P&C24] SW failed:', err));
+          .catch(err => console.log('[P&C24] SW skipped:', err.message));
       });
     }
   </script>
@@ -4692,7 +4692,7 @@ async function generatePDFReport() {
 <head>
 <meta charset="UTF-8">
 <title>Peace & Conflict 24 — Intelligence Report ${date}</title>
-<style>
+<sty"+"le>
   body{font-family:Arial,sans-serif;color:#1a1a2e;margin:0;padding:20px;background:#fff}
   .header{background:linear-gradient(135deg,#0d1929,#1a2d4a);color:#fff;padding:20px;border-radius:8px;margin-bottom:20px}
   .header h1{margin:0;font-size:22px;color:#fca311}
@@ -4713,17 +4713,17 @@ async function generatePDFReport() {
   .badge-red{background:#ffe0e0;color:#c00}
   .badge-orange{background:#fff0e0;color:#c60}
   .badge-yellow{background:#fffde0;color:#880}
-</style>
+<\/style>
 
-  <script>
+  <scr"+"ipt>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/peace-conflict-24/sw.js')
+        navigator.serviceWorker.register('./sw.js', {scope: './'})
           .then(reg => console.log('[P&C24] SW registered'))
-          .catch(err => console.log('[P&C24] SW failed:', err));
+          .catch(err => console.log('[P&C24] SW skipped:', err.message));
       });
     }
-  </script>
+  <\/script>
 </head>
 <body>
 <div class="header">
@@ -4798,7 +4798,6 @@ async function generatePDFReport() {
     showToast('⚠️ Please allow popups to download the report');
   }
 }
-
 </script>
 
 <!-- ── AI ANALYSIS MODAL ── -->
@@ -5130,6 +5129,7 @@ async function generatePDFReport() {
   style="position:fixed;right:14px;bottom:calc(110px + env(safe-area-inset-bottom));z-index:300;background:linear-gradient(135deg,#0d1929,#1a2d4a);border:1.5px solid var(--amber);border-radius:14px;padding:7px 12px;cursor:pointer;display:flex;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(252,163,17,.2);font-family:var(--font-mono);font-size:10px;color:var(--amber);font-weight:700">
   🛡️ ASK AI
 </button>
+
 
 <!-- ── FEATURE 1: CONFLICT COMPARISON MODAL ── -->
 <div id="compare-modal" class="hidden">
