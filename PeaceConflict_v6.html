@@ -3435,24 +3435,54 @@ Generate a structured JSON briefing (no markdown, valid JSON only):
 }`;
 
   try {
+    // Try with stored API key first
+    const storedKey = localStorage.getItem('pc24_api_key') || '';
+    const headers = {'Content-Type': 'application/json'};
+    if (storedKey) {
+      headers['x-api-key'] = storedKey;
+      headers['anthropic-version'] = '2023-06-01';
+      headers['anthropic-dangerous-direct-browser-access'] = 'true';
+    }
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
-      headers: {'Content-Type': 'application/json'},
+      headers,
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-haiku-4-5-20251001',
         max_tokens: 1000,
         messages: [{role:'user', content: prompt}]
       })
     });
+    if (!res.ok) throw new Error('API error: ' + res.status);
     const data = await res.json();
     const raw = data.content?.[0]?.text || '';
     const clean = raw.replace(/```json|```/g,'').trim();
     briefingCache = JSON.parse(clean);
     renderBriefingContent(briefingCache);
   } catch(e) {
-    document.getElementById('briefing-loading').innerHTML = `
+    // Fallback: generate static briefing from local data
+    try {
+      const top5 = [...CONFLICTS].sort((a,b) => (b.riskScore||0) - (a.riskScore||0)).slice(0,3);
+      const fallbackBriefing = {
+        headline: `Global tension remains HIGH — ${top5[0]?.loc || 'Multiple zones'} leads with ${top5[0]?.riskScore || 85}/100 risk score`,
+        threat_level: "HIGH",
+        top_risks: top5.map((c,i) => ({
+          rank: i+1,
+          conflict: c.loc || c.name || 'Unknown',
+          score: c.riskScore || 70,
+          alert: c.desc || 'Situation remains volatile. Monitor developments closely.'
+        })),
+        key_development: getActiveHeadlines()[0]?.text || 'Multiple active conflict zones require monitoring.',
+        market_impact: 'Ongoing conflicts continue to pressure energy markets and global supply chains.',
+        analyst_note: 'SENTINEL AI offline mode active. Briefing generated from local intelligence data. Connect to network for live AI analysis.',
+        outlook_24h: 'Monitor high-risk zones for escalation. Stay updated with live news feeds.'
+      };
+      briefingCache = fallbackBriefing;
+      renderBriefingContent(briefingCache);
+    } catch(e2) {
+      document.getElementById('briefing-loading').innerHTML = `
       <div style="color:var(--muted);font-size:12px">⚠️ Could not generate briefing<br><br>
       <button onclick="openDailyBriefing()" class="btn btn-primary" style="width:auto;padding:8px 20px">Retry</button></div>`;
+    }
   }
 }
 
