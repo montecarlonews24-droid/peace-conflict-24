@@ -1,4 +1,16 @@
-// Override seedInitialAlerts before it runs
+// Block breaking news older than 24 hours
+const _origBreaking = window.showBreaking;
+window.showBreaking = function(text, dur) {
+  if (!text) return;
+  const key = 'bn_' + btoa(unescape(encodeURIComponent(text))).slice(0, 20);
+  const now = Date.now();
+  const saved = localStorage.getItem(key);
+  if (saved && (now - parseInt(saved)) < 86400000) return; // skip if < 24h
+  localStorage.setItem(key, now);
+  if (typeof _origBreaking === 'function') _origBreaking(text, dur);
+};
+
+// Also override seedInitialAlerts to skip old hardcoded headlines
 window.seedInitialAlerts = function() {
   let attempts = 0;
   const iv = setInterval(() => {
@@ -14,16 +26,7 @@ window.seedInitialAlerts = function() {
       const keywords = ['nuclear','war','invasion','airstrike','missile','attack','siege'];
       const pick = unseen.find(h => keywords.some(k => h.text.toLowerCase().includes(k)))
         || (unseen.length > 0 ? unseen[0] : null);
-      if (pick) setTimeout(() => showBreaking(pick.text, 9000), 3500);
+      if (pick) setTimeout(() => window.showBreaking(pick.text, 9000), 3500);
     }
   }, 800);
-};
-
-// Block static breaking news banner
-const _orig = window.showBreaking;
-const BLOCKED = ['Iran / US-Israel War — Risk Level', 'Breaking: North Korea', 'Breaking: Lebanon'];
-window.showBreaking = function(text, dur) {
-  if (!text) return;
-  if (BLOCKED.some(b => text.includes(b))) return;
-  if (typeof _orig === 'function') _orig(text, dur);
 };
