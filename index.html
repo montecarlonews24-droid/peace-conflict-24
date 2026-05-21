@@ -2527,23 +2527,19 @@ function getActiveHeadlines() {
 const _origRenderTicker = typeof renderTicker === 'function' ? renderTicker : null;
 
 function renderTickerLive() {
-  const el = document.getElementById('ticker-wrap');
+  const el = document.getElementById('ticker-inner');
   if (!el) return;
   const headlines = getActiveHeadlines();
   const total = headlines.length;
   if (total === 0) return;
-  const offset = (tickerOffset || 0) % total;
-  const items = [
-    ...headlines.slice(offset),
-    ...headlines.slice(0, offset)
-  ];
 
   const now = new Date();
   const timeStr = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ' UTC';
 
+  // Show ALL headlines - doubled for seamless loop
   const html = [
     `<span class="tick-item"><span class="tick-src" style="color:#22c55e;font-size:10px">⟳ ${timeStr}</span><span class="tick-sep">◆</span></span>`,
-    ...items.map(h => {
+    ...[...headlines, ...headlines].map(h => {
       const col = h.col || getSourceColor(h.src);
       const timeLabel = h.date ? getRelativeTime(h.date) : '';
       const srcLabel = rssLoaded ? `<span style="color:${col};font-weight:700;font-size:9px">[${h.src}]</span> ` : '';
@@ -2552,6 +2548,12 @@ function renderTickerLive() {
     })
   ].join('');
   el.innerHTML = html;
+
+  // Reset animation
+  el.style.animation = 'none';
+  el.offsetHeight;
+  const speed = Math.max(60, Math.round(total * 2));
+  el.style.animation = 'ticker 800s linear infinite';
 }
 
 function getRelativeTime(dateStr) {
