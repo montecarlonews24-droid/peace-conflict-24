@@ -30,3 +30,56 @@ window.seedInitialAlerts = function() {
     }
   }, 800);
 };
+
+// ── ROOMS FIX ──
+document.addEventListener('DOMContentLoaded', function() {
+  setTimeout(function() {
+
+    var roomsBtn = document.getElementById('ptab-rooms');
+    var newsBtn  = document.getElementById('ptab-news');
+    var liveBtn  = document.getElementById('ptab-live');
+
+    if (newsBtn)  newsBtn.onclick  = function(){ pressSwitchTab('news'); };
+    if (roomsBtn) roomsBtn.onclick = function(){ pressSwitchTab('rooms'); };
+    if (liveBtn)  liveBtn.onclick  = function(){ pressSwitchTab('live'); };
+
+    window.pressSwitchTab = function(tab) {
+      var feed  = document.getElementById('press-feed');
+      var rooms = document.getElementById('press-rooms');
+      var live  = document.getElementById('press-live');
+
+      if(feed)  feed.style.display  = tab==='news'  ? 'flex':'none';
+      if(rooms) rooms.style.display = tab==='rooms' ? 'flex':'none';
+      if(live)  live.style.display  = tab==='live'  ? 'flex':'none';
+
+      [newsBtn,roomsBtn,liveBtn].forEach(function(b){ if(b) b.classList.remove('active'); });
+      if(tab==='news'  && newsBtn)  newsBtn.classList.add('active');
+      if(tab==='rooms' && roomsBtn) roomsBtn.classList.add('active');
+      if(tab==='live'  && liveBtn)  liveBtn.classList.add('active');
+
+      if(tab==='rooms' && typeof renderChatRooms==='function') renderChatRooms();
+    };
+
+    // Create chat-room-list inside press-rooms if missing
+    var pressRooms = document.getElementById('press-rooms');
+    if(pressRooms && !document.getElementById('chat-room-list')) {
+      var chatList = document.createElement('div');
+      chatList.id = 'chat-room-list';
+      chatList.style.cssText = 'flex:1;overflow-y:auto;padding:12px;width:100%';
+      pressRooms.appendChild(chatList);
+    }
+
+    // Create active-chat if missing
+    if(!document.getElementById('active-chat')) {
+      var activeChat = document.createElement('div');
+      activeChat.id = 'active-chat';
+      activeChat.className = 'hidden';
+      activeChat.style.cssText = 'position:absolute;inset:0;background:var(--bg0);z-index:50;display:none;flex-direction:column';
+      var scr = document.getElementById('scr-chat');
+      if(scr) scr.appendChild(activeChat);
+    }
+
+    if(typeof renderChatRooms==='function') renderChatRooms();
+
+  }, 700);
+});
