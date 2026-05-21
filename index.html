@@ -1761,13 +1761,14 @@ function buildTicker(){
   const el=document.getElementById('ticker-inner');
   if(!el) return;
 
+  const headlines = getActiveHeadlines();
   const cycle = STATE.refreshCycle || 0;
-  const total = LIVE_HEADLINES.length;
+  const total = headlines.length;
   // Each 5-min cycle shifts by 8 headlines — shows completely different block
   const offset = (cycle * 8) % total;
   const rotated = [
-    ...LIVE_HEADLINES.slice(offset),
-    ...LIVE_HEADLINES.slice(0, offset)
+    ...headlines.slice(offset),
+    ...headlines.slice(0, offset)
   ];
 
   // GMT timestamp shown on every refresh
@@ -2393,6 +2394,17 @@ const RSS_FEEDS = [
   {name:'Euronews',      col:'#6366f1', url:'https://feeds.feedburner.com/euronews/en/news/'},
   {name:'CNA',           col:'#84cc16', url:'https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml'},
   {name:'Chatham House', col:'#a78bfa', url:'https://www.chathamhouse.org/rss.xml'},
+  {name:'BBC World',     col:'#bb1919', url:'https://feeds.bbci.co.uk/news/world/rss.xml'},
+  {name:'Reuters',       col:'#ff8000', url:'https://feeds.reuters.com/reuters/worldNews'},
+  {name:'AP News',       col:'#cc0000', url:'https://rsshub.app/apnews/topics/world-news'},
+  {name:'The Guardian',  col:'#005689', url:'https://www.theguardian.com/world/rss'},
+  {name:'Foreign Policy',col:'#1a73e8', url:'https://foreignpolicy.com/feed/'},
+  {name:'Middle East Eye',col:'#00a651', url:'https://www.middleeasteye.net/rss'},
+  {name:'Arab News',     col:'#006400', url:'https://www.arabnews.com/rss.xml'},
+  {name:'Jerusalem Post',col:'#0057b7', url:'https://www.jpost.com/Rss/RssFeedsWorld.aspx'},
+  {name:'Defense News',  col:'#4a4a4a', url:'https://www.defensenews.com/arc/outboundfeeds/rss/'},
+  {name:'War on Rocks',  col:'#8b0000', url:'https://warontherocks.com/feed/'},
+  {name:'Bellingcat',    col:'#ff6b35', url:'https://www.bellingcat.com/feed/'},
 ];
 
 let liveHeadlines = [];
