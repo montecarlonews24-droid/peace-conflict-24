@@ -2534,7 +2534,7 @@ function renderTickerLive() {
   const items = [
     ...headlines.slice(offset),
     ...headlines.slice(0, offset)
-  ].slice(0, 20);
+  ];
 
   const now = new Date();
   const timeStr = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ' UTC';
