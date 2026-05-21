@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
   setTimeout(function() {
     var ticker = document.querySelector('.ticker-inner');
     if (ticker) {
-      ticker.style.animationDuration = '1200s';
+      ticker.style.cssText = 'animation-duration: 1200s !important; animation-name: ticker !important; animation-timing-function: linear !important; animation-iteration-count: infinite !important;';
     }
   }, 300);
 });
