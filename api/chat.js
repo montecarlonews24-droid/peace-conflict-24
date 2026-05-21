@@ -9,23 +9,23 @@ export default async function handler(req, res) {
     const { contents } = req.body;
     const userMessage = contents?.[0]?.parts?.[0]?.text || '';
 
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': process.env.ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01'
+        'Authorization': `Bearer ${process.env.GROQ_API_KEY}`
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        system: 'You are SENTINEL AI, a geopolitical intelligence analyst.',
-        messages: [{ role: 'user', content: userMessage }]
+        model: 'llama-3.3-70b-versatile',
+        messages: [
+          { role: 'system', content: 'You are SENTINEL AI, a geopolitical intelligence analyst.' },
+          { role: 'user', content: userMessage }
+        ]
       })
     });
 
     const data = await response.json();
-    const text = data.content?.[0]?.text || 'No response';
+    const text = data.choices?.[0]?.message?.content || 'No response';
 
     res.status(200).json({
       candidates: [{ content: { parts: [{ text }] } }]
