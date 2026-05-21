@@ -1758,6 +1758,8 @@ function renderNewsFeed(){
 }
 
 function buildTicker(){
+  // Use live ticker if available
+  if (typeof renderTickerLive === 'function') { renderTickerLive(); return; }
   const el=document.getElementById('ticker-inner');
   if(!el) return;
 
@@ -1785,7 +1787,7 @@ function buildTicker(){
   // Each headline gets its own dynamic "X min مضت" stamp that looks live
   // Seed from current minute so they change every minute but stay consistent within a minute
   const seed = now.getUTCMinutes();
-  const items = [...rotated, ...rotated].map((h, i) => {
+  const items = [...rotated].map((h, i) => {
     const col = getSourceColor(h.src);
     // Generate a plausible "X min مضت" — different per item, changes each minute
     const minsAgo = ((seed + i * 3) % 55) + 1;
@@ -2443,7 +2445,7 @@ async function fetchOneFeed(feed) {
       const xml = d2.contents || '';
       const parser = new DOMParser();
       const doc = parser.parseFromString(xml, 'text/xml');
-      const items = [...doc.querySelectorAll('item')].slice(0,10);
+      const items = [...doc.querySelectorAll('item')].slice(0,20);
       if (items.length > 0) {
         return items.map(item => ({
           src: feed.name, col: feed.col,
@@ -2463,7 +2465,7 @@ async function fetchOneFeed(feed) {
       const xml = await r3.text();
       const parser = new DOMParser();
       const doc = parser.parseFromString(xml, 'text/xml');
-      const items = [...doc.querySelectorAll('item')].slice(0,10);
+      const items = [...doc.querySelectorAll('item')].slice(0,20);
       if (items.length > 0) {
         return items.map(item => ({
           src: feed.name, col: feed.col,
