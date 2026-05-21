@@ -124,7 +124,7 @@ window.seedInitialAlerts = function() {
         var rooms = document.getElementById('press-rooms');
         var live  = document.getElementById('press-live');
         if (feed)  feed.style.display  = tab==='news'  ? 'flex':'none';
-        if (rooms) rooms.style.display = tab==='rooms' ? 'flex':'none';
+        if (rooms) rooms.style.display = tab==='rooms' ? 'block':'none';
         if (live)  live.style.display  = tab==='live'  ? 'flex':'none';
         [newsBtn,roomsBtn,liveBtn].forEach(function(b){if(b)b.classList.remove('active');});
         if (tab==='news'  && newsBtn)  newsBtn.classList.add('active');
