@@ -140,7 +140,7 @@ window.seedInitialAlerts = function() {
 // Slow down ticker to news channel speed
 document.addEventListener('DOMContentLoaded', function() {
   setTimeout(function() {
-    var ticker = document.querySelector('.ticker-inner');
+    var style = document.createElement('style'); style.innerHTML = '.ticker-inner { animation-duration: 1200s !important; }'; document.head.appendChild(style);
     if (ticker) {
       ticker.style.cssText = 'animation-duration: 1200s !important; animation-name: ticker !important; animation-timing-function: linear !important; animation-iteration-count: infinite !important;';
     }
