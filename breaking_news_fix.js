@@ -136,3 +136,13 @@ window.seedInitialAlerts = function() {
     }, 500);
   });
 })();
+
+// Slow down ticker to news channel speed
+document.addEventListener('DOMContentLoaded', function() {
+  setTimeout(function() {
+    var ticker = document.querySelector('.ticker-inner');
+    if (ticker) {
+      ticker.style.animationDuration = '700s';
+    }
+  }, 300);
+});
