@@ -1230,6 +1230,10 @@ CONFLICT
     <div class="ticker-wrap">
       <div class="ticker-inner" id="ticker-inner"></div>
     </div>
+    <div style="display:flex;align-items:center;gap:2px;padding:0 6px;flex-shrink:0">
+      <button onclick="tickerSlower()" style="background:rgba(255,255,255,.08);border:none;color:var(--muted);font-size:11px;width:20px;height:20px;border-radius:4px;cursor:pointer;display:flex;align-items:center;justify-content:center;line-height:1">🐢</button>
+      <button onclick="tickerFaster()" style="background:rgba(255,255,255,.08);border:none;color:var(--muted);font-size:11px;width:20px;height:20px;border-radius:4px;cursor:pointer;display:flex;align-items:center;justify-content:center;line-height:1">🐇</button>
+    </div>
   </div>
 
   <!-- BOTTOM NAV -->
@@ -2900,7 +2904,7 @@ function pushNotif({icon='🔔', title, body, level='info', source=''}) {
   showFlash(icon, title, body, level);
 
   // Request browser notification if permitted
-  if (Notification.permission === 'granted') {
+  if (typeof Notification !== 'undefined' && Notification.permission === 'granted') {
     try {
       new Notification('⚡ ' + title, {
         body: body,
@@ -4657,6 +4661,7 @@ async function setupPushNotifications() {
     // Register service worker
     const reg = await navigator.serviceWorker.register('#', {scope: '/'}).catch(() => null);
     // Just use browser Notification API as fallback (works when app is open)
+    if (typeof Notification === 'undefined') return;
     const perm = await Notification.requestPermission();
     if (perm === 'granted') {
       showToast('✅ Push notifications enabled!');
@@ -5187,5 +5192,15 @@ async function generatePDFReport() {
   </div>
 </div>
 <script src="breaking_news_fix.js"></script>
+<script>
+let tickerSpeed = 800;
+function setTickerSpeed(s) {
+  tickerSpeed = Math.max(100, Math.min(3000, s));
+  const el = document.getElementById('ticker-inner');
+  if (el) el.style.animationDuration = tickerSpeed + 's';
+}
+function tickerFaster() { setTickerSpeed(tickerSpeed - 150); }
+function tickerSlower() { setTickerSpeed(tickerSpeed + 150); }
+</script>
 </body>
 </html>
