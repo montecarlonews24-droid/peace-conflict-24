@@ -39,7 +39,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 #ticker-bar{background:rgba(4,8,18,.98);border-top:1px solid rgba(230,57,70,.6);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:26px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
 .ticker-live-tag{background:var(--red);color:#fff;font-family:var(--font-mono);font-size:9px;font-weight:700;letter-spacing:.08em;padding:0 10px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
-.ticker-inner{display:flex;align-items:center;animation:ticker 800s linear infinite;white-space:nowrap;will-change:transform}
+.ticker-inner{display:flex;align-items:center;animation:ticker 3000s linear infinite;white-space:nowrap;will-change:transform}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:10px;color:var(--muted)}
 .tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
@@ -2559,7 +2559,7 @@ function renderTickerLive() {
   el.style.animation = 'none';
   el.offsetHeight;
   const speed = Math.max(60, Math.round(total * 2));
-  el.style.animation = 'ticker 800s linear infinite';
+  el.style.animation = 'ticker 3000s linear infinite';
 }
 
 function getRelativeTime(dateStr) {
@@ -5251,7 +5251,7 @@ async function generatePDFReport() {
 <script>
 let tickerSpeed = 3000;
 function setTickerSpeed(s) {
-  tickerSpeed = Math.max(100, Math.min(3000, s));
+  tickerSpeed = Math.max(100, Math.min(9000, s));
   let st = document.getElementById('ticker-speed-style');
   if (!st) { st = document.createElement('style'); st.id = 'ticker-speed-style'; document.head.appendChild(st); }
   st.textContent = '.ticker-inner{animation-duration:' + tickerSpeed + 's!important}';
