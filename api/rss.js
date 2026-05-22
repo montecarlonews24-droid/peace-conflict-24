@@ -19,7 +19,6 @@ export default async function handler(req, res) {
 
     const xml = await response.text();
 
-    // Parse XML manually
     const items = [];
     const itemRegex = /<item[^>]*>([\s\S]*?)<\/item>/gi;
     let match;
@@ -44,7 +43,7 @@ export default async function handler(req, res) {
       if (items.length >= 20) break;
     }
 
-    res.setHeader('Cache-Control', 's-maxage=300');
+    res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate');
     return res.status(200).json({ status: 'ok', items });
 
   } catch (err) {
