@@ -42,7 +42,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 .ticker-inner{display:flex;align-items:center;animation:ticker 800s linear infinite;white-space:nowrap;will-change:transform}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:10px;color:var(--muted)}
-.tick-src{display:none}
+.tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
 .tick-sep{color:var(--border2)}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 
@@ -2407,6 +2407,18 @@ const RSS_FEEDS = [
   {name:'Defense News',  col:'#4a4a4a', url:'https://www.defensenews.com/arc/outboundfeeds/rss/'},
   {name:'War on Rocks',  col:'#8b0000', url:'https://warontherocks.com/feed/'},
   {name:'Bellingcat',    col:'#ff6b35', url:'https://www.bellingcat.com/feed/'},
+  {name:'VOA News',      col:'#1565c0', url:'https://www.voanews.com/api/z-mgqemveiq'},
+  {name:'Radio Free Europe', col:'#c62828', url:'https://www.rferl.org/api/epiqquuvle'},
+  {name:'Al-Monitor',   col:'#00796b', url:'https://www.al-monitor.com/rss'},
+  {name:'ACLED',         col:'#e65100', url:'https://acleddata.com/feed/'},
+  {name:'ICG',           col:'#4527a0', url:'https://www.crisisgroup.org/rss.xml'},
+  {name:'NATO News',     col:'#003087', url:'https://www.nato.int/cps/en/natolive/news.htm?selectedLocale=en&nid=&type=topic&subtype=&smi='},
+  {name:'Times of India',col:'#d84315', url:'https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms'},
+  {name:'South China MP',col:'#b71c1c', url:'https://www.scmp.com/rss/91/feed'},
+  {name:'Middle East Monitor', col:'#2e7d32', url:'https://www.middleeastmonitor.com/feed/'},
+  {name:'African Arguments', col:'#f9a825', url:'https://africanarguments.org/feed/'},
+  {name:'Asia Times',    col:'#6a1b9a', url:'https://asiatimes.com/feed/'},
+  {name:'The Wire',      col:'#1b5e20', url:'https://thewire.in/feed'},
 ];
 
 let liveHeadlines = [];
@@ -2488,7 +2500,7 @@ function renderTickerLive() {
     ...[...headlines, ...headlines].map(h => {
       const col = h.col || getSourceColor(h.src);
       const timeLabel = h.date ? getRelativeTime(h.date) : '';
-      const srcLabel = rssLoaded ? `<span style="color:${col};font-weight:700;font-size:9px">[${h.src}]</span> ` : '';
+      const srcLabel = h.src ? `<span style="color:var(--red);font-weight:700;font-size:9px">[${h.src}]</span> ` : '';
       const link = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
       return `<span class="tick-item" ${link}>${srcLabel}<span style="color:var(--dim);font-size:9px;margin-right:4px">${timeLabel}</span>${h.text}<span class="tick-sep">◆</span></span>`;
     })
