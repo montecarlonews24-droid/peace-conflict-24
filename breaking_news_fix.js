@@ -5,7 +5,7 @@ window.showBreaking = function(text, dur) {
   const key = 'bn_' + btoa(unescape(encodeURIComponent(text))).slice(0, 20);
   const now = Date.now();
   const saved = localStorage.getItem(key);
-  if (saved && (now - parseInt(saved)) < 86400000) return;
+  if (saved && (now - parseInt(saved)) < 7200000) return;
   localStorage.setItem(key, now);
   if (typeof _origBreaking === 'function') _origBreaking(text, dur);
 };
@@ -137,12 +137,4 @@ window.seedInitialAlerts = function() {
   });
 })();
 
-// Slow down ticker to news channel speed
-document.addEventListener('DOMContentLoaded', function() {
-  setTimeout(function() {
-    var style = document.createElement('style'); style.innerHTML = '.ticker-inner { animation-duration: 1200s !important; }'; document.head.appendChild(style);
-    if (ticker) {
-      ticker.style.cssText = 'animation-duration: 1200s !important; animation-name: ticker !important; animation-timing-function: linear !important; animation-iteration-count: infinite !important;';
-    }
-  }, 300);
-});
+// Ticker speed controlled by user buttons (🐢🐇)
