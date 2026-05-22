@@ -1878,7 +1878,7 @@ function renderMapMarkers(){
     const col=riskScoreColor(score);
     const glow=riskScoreGlow(score);
     const sel=STATE.mapZone===c.id;
-    const bs=(5+Math.floor(score/20))*markerScale;
+    const bs=(2+Math.floor(score/25))*markerScale;
     const r1=sel?bs*2.8:bs*2.2;
     const r2=sel?bs*1.8:bs*1.3;
     const r3=sel?bs*1.1:bs*0.75;
