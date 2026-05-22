@@ -1870,17 +1870,19 @@ function riskScoreGlow(score){
 function renderMapMarkers(){
   const el=document.getElementById('conflict-markers');
   if(!el) return;
+  const zs = window._mapZoomScale || 1;
+  const markerScale = Math.max(0.3, 1/zs);
   el.innerHTML=CONFLICTS.map(c=>{
     const p=project(c.lat,c.lng);
     const score=c.riskScore||50;
     const col=riskScoreColor(score);
     const glow=riskScoreGlow(score);
     const sel=STATE.mapZone===c.id;
-    const bs=5+Math.floor(score/20);
+    const bs=(5+Math.floor(score/20))*markerScale;
     const r1=sel?bs*2.8:bs*2.2;
     const r2=sel?bs*1.8:bs*1.3;
     const r3=sel?bs*1.1:bs*0.75;
-    const bx=p.x-14; const by=p.y+r3+3;
+    const bx=p.x-14*markerScale; const by=p.y+r3+3*markerScale;
     const delta=c.riskDelta||0;
     const arrow=delta>0?'▲':delta<0?'▼':'';
     const arrowCol=delta>0?'#e63946':'#2dc653';
@@ -1891,11 +1893,11 @@ function renderMapMarkers(){
         <animate attributeName="fill-opacity" values="0.07;0.02;0.07" dur="${dur}" repeatCount="indefinite"/>
       </circle>
       <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r2.toFixed(1)}" fill="${glow}0.18)" stroke="${col}" stroke-width="0.7" stroke-opacity="0.5"/>
-      <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r3.toFixed(1)}" fill="${col}" stroke="rgba(255,255,255,.8)" stroke-width="1"/>
-      <rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="28" height="13" rx="3" fill="rgba(4,8,18,.9)" stroke="${col}" stroke-width="0.8"/>
-      <text x="${p.x.toFixed(1)}" y="${(by+9).toFixed(1)}" text-anchor="middle" fill="${col}" font-size="7.5" font-weight="700" font-family="Share Tech Mono,monospace">${score}${arrow?` ${arrow}`:''}</text>
-      ${sel?`<rect x="${(p.x-72).toFixed(1)}" y="${(p.y-46).toFixed(1)}" width="144" height="22" rx="5" fill="rgba(4,8,18,.95)" stroke="${col}" stroke-width="1"/>
-      <text x="${p.x.toFixed(1)}" y="${(p.y-30).toFixed(1)}" text-anchor="middle" fill="${col}" font-size="9" font-weight="700" font-family="Share Tech Mono,monospace">${c.loc.length>20?c.loc.slice(0,19)+'…':c.loc}</text>`:''}
+      <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r3.toFixed(1)}" fill="${col}" stroke="rgba(255,255,255,.8)" stroke-width="${markerScale}"/>
+      <rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${(28*markerScale).toFixed(1)}" height="${(13*markerScale).toFixed(1)}" rx="3" fill="rgba(4,8,18,.9)" stroke="${col}" stroke-width="0.8"/>
+      <text x="${p.x.toFixed(1)}" y="${(by+9*markerScale).toFixed(1)}" text-anchor="middle" fill="${col}" font-size="${(7.5*markerScale).toFixed(1)}" font-weight="700" font-family="Share Tech Mono,monospace">${score}${arrow?` ${arrow}`:''}</text>
+      ${sel?`<rect x="${(p.x-72*markerScale).toFixed(1)}" y="${(p.y-46*markerScale).toFixed(1)}" width="${(144*markerScale).toFixed(1)}" height="${(22*markerScale).toFixed(1)}" rx="5" fill="rgba(4,8,18,.95)" stroke="${col}" stroke-width="1"/>
+      <text x="${p.x.toFixed(1)}" y="${(p.y-30*markerScale).toFixed(1)}" text-anchor="middle" fill="${col}" font-size="${(9*markerScale).toFixed(1)}" font-weight="700" font-family="Share Tech Mono,monospace">${c.loc.length>20?c.loc.slice(0,19)+'…':c.loc}</text>`:''}
     </g>`;
   }).join('');
 }
@@ -5147,7 +5149,7 @@ async function generatePDFReport() {
 </div>
 
 <button id="ai-chat-fab" onclick="openAIChat()"
-  style="position:fixed;right:14px;bottom:calc(110px + env(safe-area-inset-bottom));z-index:300;background:linear-gradient(135deg,#0d1929,#1a2d4a);border:1.5px solid var(--amber);border-radius:14px;padding:7px 12px;cursor:pointer;display:flex;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(252,163,17,.2);font-family:var(--font-mono);font-size:10px;color:var(--amber);font-weight:700">
+  style="position:fixed;left:14px;bottom:calc(140px + env(safe-area-inset-bottom));z-index:300;background:linear-gradient(135deg,#0d1929,#1a2d4a);border:1.5px solid var(--amber);border-radius:14px;padding:7px 12px;cursor:pointer;display:flex;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(252,163,17,.2);font-family:var(--font-mono);font-size:10px;color:var(--amber);font-weight:700">
   🛡️ ASK AI
 </button>
 
@@ -5210,6 +5212,82 @@ function setTickerSpeed(s) {
 }
 function tickerFaster() { setTickerSpeed(tickerSpeed - 150); }
 function tickerSlower() { setTickerSpeed(tickerSpeed + 150); }
+</script>
+<script>
+(function() {
+  var scale=1, panX=0, panY=0;
+  var startDist=0, startScale=1, startPanX=0, startPanY=0;
+  var lastT=null, lastTap=0;
+  var VW=1000, VH=500;
+
+  function clamp(v,a,b){return Math.max(a,Math.min(b,v));}
+
+  function applyViewBox() {
+    scale = clamp(scale, 1, 6);
+    var w = VW/scale, h = VH/scale;
+    var maxX = VW-w, maxY = VH-h;
+    panX = clamp(panX, 0, maxX);
+    panY = clamp(panY, 0, maxY);
+    if (scale===1){panX=0;panY=0;}
+    var vb = panX.toFixed(1)+' '+panY.toFixed(1)+' '+w.toFixed(1)+' '+h.toFixed(1);
+    var s1=document.getElementById('world-map-base');
+    var s2=document.getElementById('world-map-svg');
+    if(s1) s1.setAttribute('viewBox', vb);
+    if(s2) s2.setAttribute('viewBox', vb);
+    window._mapZoomScale = scale;
+    if(typeof renderMapMarkers==='function') renderMapMarkers();
+  }
+
+  function dist(t){return Math.hypot(t[0].clientX-t[1].clientX,t[0].clientY-t[1].clientY);}
+  function mid(t){return{x:(t[0].clientX+t[1].clientX)/2,y:(t[0].clientY+t[1].clientY)/2};}
+
+  document.addEventListener('DOMContentLoaded', function(){
+    var c=document.querySelector('.map-container');
+    if(!c) return;
+
+    c.addEventListener('touchstart',function(e){
+      if(e.touches.length===2){
+        e.preventDefault();
+        startDist=dist(e.touches);
+        startScale=scale; startPanX=panX; startPanY=panY;
+      }
+      lastT=Array.from(e.touches);
+    },{passive:false});
+
+    c.addEventListener('touchmove',function(e){
+      e.preventDefault();
+      if(e.touches.length===2){
+        var d=dist(e.touches);
+        var ns=startScale*(d/startDist);
+        var m=mid(e.touches);
+        var r=c.getBoundingClientRect();
+        var fx=(m.x-r.left)/r.width; // 0-1
+        var fy=(m.y-r.top)/r.height;
+        var svgX=startPanX+fx*(VW/startScale);
+        var svgY=startPanY+fy*(VH/startScale);
+        panX=svgX-fx*(VW/ns);
+        panY=svgY-fy*(VH/ns);
+        scale=ns;
+        applyViewBox();
+      } else if(e.touches.length===1&&scale>1&&lastT&&lastT.length>=1){
+        var dx=e.touches[0].clientX-lastT[0].clientX;
+        var dy=e.touches[0].clientY-lastT[0].clientY;
+        var r2=c.getBoundingClientRect();
+        panX -= dx/r2.width*(VW/scale);
+        panY -= dy/r2.height*(VH/scale);
+        applyViewBox();
+      }
+      lastT=Array.from(e.touches);
+    },{passive:false});
+
+    c.addEventListener('touchend',function(e){
+      lastT=Array.from(e.touches);
+      var now=Date.now();
+      if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
+      lastTap=now;
+    },{passive:true});
+  });
+})();
 </script>
 </body>
 </html>
