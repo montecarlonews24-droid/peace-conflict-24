@@ -5196,8 +5196,9 @@ async function generatePDFReport() {
 let tickerSpeed = 800;
 function setTickerSpeed(s) {
   tickerSpeed = Math.max(100, Math.min(3000, s));
-  const el = document.getElementById('ticker-inner');
-  if (el) el.style.animationDuration = tickerSpeed + 's';
+  let st = document.getElementById('ticker-speed-style');
+  if (!st) { st = document.createElement('style'); st.id = 'ticker-speed-style'; document.head.appendChild(st); }
+  st.textContent = '.ticker-inner{animation-duration:' + tickerSpeed + 's!important}';
 }
 function tickerFaster() { setTickerSpeed(tickerSpeed - 150); }
 function tickerSlower() { setTickerSpeed(tickerSpeed + 150); }
