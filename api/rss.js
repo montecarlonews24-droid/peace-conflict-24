@@ -40,7 +40,7 @@ export default async function handler(req, res) {
         items.push({ title, link, pubDate: date });
       }
 
-      if (items.length >= 20) break;
+      if (items.length >= 50) break;
     }
 
     res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate');
