@@ -2300,9 +2300,48 @@ document.addEventListener('DOMContentLoaded',()=>{
       const gratEl=document.createElementNS(ns,'path');
       gratEl.setAttribute('d',path(grat));
       gratEl.setAttribute('fill','none');
-      gratEl.setAttribute('stroke','#0b1927');
-      gratEl.setAttribute('stroke-width','0.5');
+      gratEl.setAttribute('stroke','#1a3050');
+      gratEl.setAttribute('stroke-width','0.8');
+      gratEl.setAttribute('opacity','0.7');
       frag.appendChild(gratEl);
+
+      // Fine graticule (10 degrees)
+      const gratFine=d3.geoGraticule().step([10,10])();
+      const gratFineEl=document.createElementNS(ns,'path');
+      gratFineEl.setAttribute('d',path(gratFine));
+      gratFineEl.setAttribute('fill','none');
+      gratFineEl.setAttribute('stroke','#0d1f35');
+      gratFineEl.setAttribute('stroke-width','0.4');
+      gratFineEl.setAttribute('opacity','0.5');
+      frag.appendChild(gratFineEl);
+
+      // Lat/Lng labels
+      const lats = [-60,-30,0,30,60];
+      const lngs = [-150,-120,-90,-60,-30,0,30,60,90,120,150];
+      lats.forEach(lat => {
+        const pt = proj([0, lat]);
+        const label = document.createElementNS(ns,'text');
+        label.setAttribute('x', 3);
+        label.setAttribute('y', pt[1]+3);
+        label.setAttribute('fill','#2d6a9f');
+        label.setAttribute('font-size','7');
+        label.setAttribute('font-family','Share Tech Mono,monospace');
+        label.setAttribute('opacity','0.8');
+        label.textContent = lat+'°';
+        frag.appendChild(label);
+      });
+      lngs.forEach(lng => {
+        const pt = proj([lng, 0]);
+        const label = document.createElementNS(ns,'text');
+        label.setAttribute('x', pt[0]-8);
+        label.setAttribute('y', H/2-2);
+        label.setAttribute('fill','#2d6a9f');
+        label.setAttribute('font-size','7');
+        label.setAttribute('font-family','Share Tech Mono,monospace');
+        label.setAttribute('opacity','0.8');
+        label.textContent = lng+'°';
+        frag.appendChild(label);
+      });
 
       // Equator
       const eq=document.createElementNS(ns,'line');
@@ -2342,6 +2381,10 @@ document.addEventListener('DOMContentLoaded',()=>{
       // Swap in
       svg.innerHTML='';
       svg.appendChild(frag);
+      // Restore zoom viewBox if active
+      if (window._mapZoomScale && window._mapZoomScale > 1 && typeof window._applyViewBox === 'function') {
+        window._applyViewBox();
+      }
       console.log('[P&C24] World map rendered via Natural Earth 110m');
     } catch(e){
       console.warn('[P&C24] D3 render failed, keeping static map',e);
@@ -5235,7 +5278,8 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 150); }
     if(s1) s1.setAttribute('viewBox', vb);
     if(s2) s2.setAttribute('viewBox', vb);
     window._mapZoomScale = scale;
-    if(typeof renderMapMarkers==='function') renderMapMarkers();
+    window._applyViewBox = applyViewBox;
+    if(typeof renderMapMarkers==='function') setTimeout(renderMapMarkers, 0);
   }
 
   function dist(t){return Math.hypot(t[0].clientX-t[1].clientX,t[0].clientY-t[1].clientY);}
