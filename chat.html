@@ -7,13 +7,14 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;height:100dvh;min-height:-webkit-fill-available;display:flex;flex-direction:column}
-.header{background:linear-gradient(135deg,#0b1424,#070d1a);border-bottom:1px solid rgba(252,163,17,.3);padding:12px 16px;display:flex;align-items:center;gap:10px}
+.header{background:linear-gradient(135deg,#0b1424,#070d1a);border-bottom:1px solid rgba(252,163,17,.3);padding:12px 16px;display:flex;align-items:center;gap:10px;flex-shrink:0}
 .header h1{font-size:16px;color:#fca311;font-weight:700}
 .header span{font-size:11px;color:#4a6080}
-.rooms{padding:10px;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #1e3050}
+.rooms{padding:10px;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #1e3050;flex-shrink:0}
 .room-btn{background:#0b1424;border:1px solid #1e3050;color:#8fa8c8;padding:8px 14px;border-radius:20px;cursor:pointer;font-size:12px}
 .room-btn.active{background:rgba(252,163,17,.15);border-color:#fca311;color:#fca311}
-.messages{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px}
+.status{font-size:11px;color:#4a6080;padding:4px 8px;text-align:center;flex-shrink:0}
+.messages{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px;-webkit-overflow-scrolling:touch}
 .msg-in{align-self:flex-start;max-width:75%}
 .msg-out{align-self:flex-end;max-width:75%}
 .msg-user{font-size:10px;color:#fca311;margin-bottom:3px}
@@ -22,19 +23,19 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 .msg-time{font-size:9px;opacity:.6;margin-top:3px;text-align:right}
 .input-area{padding:10px 12px calc(10px + env(safe-area-inset-bottom));border-top:1px solid #1e3050;display:flex;gap:8px;background:#070d1a;flex-shrink:0}
 .input-area input{flex:1;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:10px 14px;color:#e8edf5;font-size:14px;outline:none}
-.input-area button{background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;width:44px;height:44px;cursor:pointer;font-size:18px}
+.input-area button{background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;width:44px;height:44px;cursor:pointer;font-size:18px;flex-shrink:0}
 .login{position:fixed;inset:0;background:#040810;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;z-index:100}
 .login h2{color:#fca311;font-size:24px;margin-bottom:20px}
 .login input{width:100%;max-width:300px;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:12px;color:#e8edf5;font-size:16px;margin-bottom:10px;outline:none}
 .login button{width:100%;max-width:300px;background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;padding:12px;color:#040810;font-size:16px;font-weight:700;cursor:pointer}
-.status{font-size:11px;color:#4a6080;padding:4px 8px;text-align:center}
 </style>
 </head>
 <body>
 
 <div class="login" id="login-screen">
   <h2>⚡ P&C24 Chat</h2>
-  <input id="username-input" placeholder="اختر اسم مستخدم" maxlength="20"/>
+  <input id="username-input" placeholder="اختر اسم مستخدم" maxlength="20"
+    onkeypress="if(event.key==='Enter')doLogin()"/>
   <button onclick="doLogin()">دخول</button>
 </div>
 
@@ -46,17 +47,18 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 </div>
 
 <div class="rooms">
-  <button class="room-btn active" onclick="switchRoom('r1','Global Analysis Hub')">🌐 Global Hub</button>
-  <button class="room-btn" onclick="switchRoom('r2','Diplomatic Solutions')">🤝 Diplomatic</button>
-  <button class="room-btn" onclick="switchRoom('r3','Humanitarian Response')">❤️ Humanitarian</button>
-  <button class="room-btn" onclick="switchRoom('r4','Intelligence Briefing')">📡 Intel</button>
+  <button class="room-btn active" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
+  <button class="room-btn" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
+  <button class="room-btn" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
+  <button class="room-btn" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
 </div>
 
-<div class="status" id="status">متصل</div>
+<div class="status" id="status">جاري الاتصال...</div>
 <div class="messages" id="messages"></div>
 
 <div class="input-area">
-  <input id="msg-input" placeholder="اكتب رسالة..." onkeypress="if(event.key==='Enter')sendMessage()"/>
+  <input id="msg-input" placeholder="اكتب رسالة..."
+    onkeypress="if(event.key==='Enter')sendMessage()"/>
   <button onclick="sendMessage()">➤</button>
 </div>
 
@@ -77,13 +79,13 @@ function doLogin() {
   startPolling();
 }
 
-function switchRoom(id, name) {
+function switchRoom(id, name, btn) {
   currentRoom = id;
   currentRoomName = name;
   renderedKeys = new Set();
   document.getElementById('messages').innerHTML = '';
   document.querySelectorAll('.room-btn').forEach(b => b.classList.remove('active'));
-  event.target.classList.add('active');
+  btn.classList.add('active');
   startPolling();
 }
 
@@ -95,13 +97,16 @@ async function sendMessage() {
   const now = new Date();
   const time = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
   try {
-    await fetch(DB + '/rooms/' + currentRoom + '/messages.json', {
+    const res = await fetch(DB + '/rooms/' + currentRoom + '/messages.json', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({user: username, text, time})
+      body: JSON.stringify({user: username, text: text, time: time})
     });
+    if (!res.ok) {
+      document.getElementById('status').textContent = '❌ خطأ في الإرسال: ' + res.status;
+    }
   } catch(e) {
-    document.getElementById('status').textContent = 'خطأ في الإرسال';
+    document.getElementById('status').textContent = '❌ خطأ: ' + e.message;
   }
 }
 
@@ -116,17 +121,23 @@ async function poll() {
     const url = DB + '/rooms/' + currentRoom + '/messages.json?limitToLast=30';
     const res = await fetch(url);
     const data = await res.json();
-    if (!data) return;
+
+    if (!data || typeof data !== 'object') {
+      document.getElementById('status').textContent = '● متصل - ' + currentRoomName + ' (لا رسائل)';
+      return;
+    }
+
     const area = document.getElementById('messages');
     const keys = Object.keys(data).sort();
+
     keys.forEach(k => {
       if (renderedKeys.has(k)) return;
       renderedKeys.add(k);
       const m = data[k];
       if (!m || typeof m !== 'object') return;
-      const user = String(m.user || m.username || m.name || '').trim() || 'مجهول';
-      const text = String(m.text || m.message  || m.msg  || '').trim();
-      const time = String(m.time || m.timestamp || '').trim();
+      const user = String(m.user || m.username || '').trim() || 'مجهول';
+      const text = String(m.text || m.message  || '').trim();
+      const time = String(m.time || '').trim();
       if (!text || text === 'undefined') return;
       const isMe = user === username;
       const div = document.createElement('div');
@@ -138,9 +149,10 @@ async function poll() {
       area.appendChild(div);
       area.scrollTop = area.scrollHeight;
     });
+
     document.getElementById('status').textContent = '● متصل - ' + currentRoomName;
   } catch(e) {
-    document.getElementById('status').textContent = 'خطأ في الاتصال: ' + e.message;
+    document.getElementById('status').textContent = '❌ خطأ اتصال: ' + e.message;
   }
 }
 </script>
