@@ -2037,7 +2037,6 @@ function renderActiveChat(){
 }
 
 function sendMsg(){
-  alert('sendMsg called! user=' + (STATE.user ? STATE.user.username : 'NULL') + ' room=' + (STATE.currentRoom ? STATE.currentRoom.id : 'NULL'));
   const inp=document.getElementById('chat-draft');
   if(!inp||!inp.value.trim()) return;
   const r=STATE.currentRoom;
@@ -5345,15 +5344,13 @@ window._lastMsgKey = null;
 window.fbSendMsg = async function(roomId, msg) {
   try {
     const url = `${FB_URL}/rooms/${roomId}/messages.json`;
-    alert('Sending to: ' + url + '\nUser: ' + msg.user + '\nText: ' + msg.text);
     const res = await fetch(url, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(msg)
     });
-    const data = await res.json();
-    alert('Firebase response: ' + JSON.stringify(data));
-  } catch(e) { alert('Send failed: ' + e.message); }
+    await res.json();
+  } catch(e) { console.error('Send failed:', e.message); }
 };
 
 window.fbStartPolling = function(roomId, username, isPriv) {
@@ -5376,10 +5373,16 @@ window.fbStartPolling = function(roomId, username, isPriv) {
       keys.forEach(k => {
         if(window._lastMsgKey && k <= window._lastMsgKey) return;
         const m = data[k];
-        const out = m.user === username;
+        // robust parse
+        const user = String(m.user || m.username || m.name || '').trim() || 'مجهول';
+        const text = String(m.text || m.message  || m.msg  || '').trim();
+        const time = String(m.time || m.timestamp || '').trim();
+        if(!text || text === 'undefined') return;
+        if(user === 'undefined') return;
+        const out = user === username;
         const div = document.createElement('div');
         div.className = out ? 'msg-out' : 'msg-in';
-        div.innerHTML = `${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}</div></div>`;
+        div.innerHTML = `${!out?`<div class="msg-user">${user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${text}</div><div class="msg-meta">${time}</div></div>`;
         area.appendChild(div);
         area.scrollTop = area.scrollHeight;
         window._lastMsgKey = k;
