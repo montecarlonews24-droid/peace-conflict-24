@@ -667,15 +667,13 @@ CONFLICT
 
       <!-- MAP VIEW -->
       <div id="mv-map">
-      <div class="map-update-bar">
-        <div style="display:flex;align-items:center;gap:6px">
-          <div class="update-dot"></div>
-          <span class="update-txt">Live conflict data</span>
-          <span id="rss-status-dot" style="font-family:var(--font-mono);font-size:9px;color:var(--muted)">· checking RSS...</span>
-        </div>
-        <span class="update-txt" id="map-refresh-txt">Refreshed just now</span>
-      </div>
       <div class="map-container">
+        <div style="position:absolute;top:6px;left:50%;transform:translateX(-50%);z-index:10;background:rgba(4,8,18,.75);border:1px solid rgba(255,255,255,.08);border-radius:8px;padding:3px 10px;display:flex;align-items:center;gap:8px;pointer-events:none">
+          <div class="update-dot"></div>
+          <span class="update-txt" style="font-size:9px">Live conflict data</span>
+          <span id="rss-status-dot" style="font-family:var(--font-mono);font-size:9px;color:var(--muted)">· checking RSS...</span>
+          <span class="update-txt" id="map-refresh-txt" style="font-size:9px">Refreshed just now</span>
+        </div>
                 <div style="position:relative;width:100%;padding-bottom:50%;background:#060d1a;overflow:hidden;line-height:0">
           <svg id="world-map-base" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" style="position:absolute;top:0;left:0;width:100%;height:100%;background:#060d1a" draggable="false">
             <defs><style>.land{fill:#1c2e42;stroke:#253f58;stroke-width:0.6;stroke-linejoin:round;stroke-linecap:round}
