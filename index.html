@@ -1987,28 +1987,26 @@ function openRoom(id, type, name){
   listEl.classList.add('hidden');
   chatEl.classList.remove('hidden');
   renderActiveChat();
-  // Start Firebase listener
-  if(window._fbUnsubscribe) window._fbUnsubscribe();
+  if(window._fbUnsubscribe){ window._fbUnsubscribe(); window._fbUnsubscribe=null; }
   if(window._fbDb){
-    const msgsRef=window._fbQuery(window._fbRef(window._fbDb,'rooms/'+id+'/messages'),window._fbLimitToLast(50));
-    window._fbUnsubscribe=window._fbOnChildAdded(msgsRef,(snap)=>{
+    const msgsRef=window._fbDb.ref('rooms/'+id+'/messages').limitToLast(50);
+    const handler=msgsRef.on('child_added',(snap)=>{
       const m=snap.val();
-      if(!STATE.chatMessages[id]) STATE.chatMessages[id]=[];
-      STATE.chatMessages[id].push(m);
+      if(!STATE.currentRoom||STATE.currentRoom.id!==id) return;
       const area=document.getElementById('msg-area');
       if(area){
         const out=m.user===STATE.user.username;
-        const isPriv=STATE.currentRoom&&STATE.currentRoom.type==='private';
+        const isPriv=type==='private';
+        const empty=area.querySelector('[data-empty]');
+        if(empty) empty.parentElement.remove();
         const div=document.createElement('div');
         div.className=out?'msg-out':'msg-in';
-        div.innerHTML=`${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}${isPriv?' 🔐':''}</div></div>`;
-        // Remove empty state if present
-        const empty=area.querySelector('[data-empty]');
-        if(empty) empty.remove();
+        div.innerHTML=`${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}</div></div>`;
         area.appendChild(div);
         area.scrollTop=area.scrollHeight;
       }
     });
+    window._fbUnsubscribe=()=>msgsRef.off('child_added',handler);
   }
 }
 
@@ -2067,11 +2065,7 @@ function sendMsg(){
   inp.value='';
   inp.style.height='';
   if(window._fbDb){
-    window._fbPush(window._fbRef(window._fbDb,'rooms/'+r.id+'/messages'),msg);
-  } else {
-    if(!STATE.chatMessages[r.id]) STATE.chatMessages[r.id]=[];
-    STATE.chatMessages[r.id].push(msg);
-    renderActiveChat();
+    window._fbDb.ref('rooms/'+r.id+'/messages').push(msg);
   }
 }
 
@@ -5362,17 +5356,12 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
       if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
       lastTap=now;
 <!-- Firebase Realtime Database -->
-<script type="module">
-  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
-  import { getDatabase, ref, push, onChildAdded, query, limitToLast } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js';
-  const app = initializeApp({ databaseURL: "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com" });
-  const db = getDatabase(app);
-  window._fbDb = db;
-  window._fbRef = ref;
-  window._fbPush = push;
-  window._fbOnChildAdded = onChildAdded;
-  window._fbQuery = query;
-  window._fbLimitToLast = limitToLast;
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+<script>
+  const _fbApp = firebase.initializeApp({ databaseURL: "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com" });
+  const _fbDatabase = firebase.database();
+  window._fbDb = _fbDatabase;
   window._fbUnsubscribe = null;
   window._fbReady = true;
 </script>
