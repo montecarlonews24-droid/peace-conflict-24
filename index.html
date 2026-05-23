@@ -656,18 +656,17 @@ CONFLICT
 
       <!-- ─── MAP SCREEN ─── -->
     <div id="scr-map" class="screen scroll-area" style="background:var(--bg0)">
-      <!-- MAP TOOLBAR -->
-      <div style="display:flex;gap:6px;padding:6px 10px;background:rgba(4,8,18,.95);border-bottom:1px solid var(--border);overflow-x:auto;-webkit-overflow-scrolling:touch">
-        <button id="map-view-map" class="region-tab active" onclick="setMapView('map')">🗺️ Map</button>
-        <button id="map-view-lb"  class="region-tab" onclick="setMapView('leaderboard')">🏆 Leaderboard</button>
-        <button id="map-view-heat" class="region-tab" onclick="setMapView('heatmap')">🔥 Heatmap</button>
-        <button class="region-tab" onclick="openCompare()">⚔️ Compare</button>
-        <button class="region-tab" onclick="openWatchlist()">📍 Watchlist</button>
-      </div>
-
       <!-- MAP VIEW -->
       <div id="mv-map">
       <div class="map-container">
+        <!-- MAP TOOLBAR as overlay -->
+        <div style="position:absolute;top:6px;left:50%;transform:translateX(-50%);z-index:20;display:flex;gap:6px;background:rgba(4,8,18,.85);border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:4px 8px;overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:95%">
+          <button id="map-view-map" class="region-tab active" onclick="setMapView('map')">🗺️ Map</button>
+          <button id="map-view-lb"  class="region-tab" onclick="setMapView('leaderboard')">🏆 Leaderboard</button>
+          <button id="map-view-heat" class="region-tab" onclick="setMapView('heatmap')">🔥 Heatmap</button>
+          <button class="region-tab" onclick="openCompare()">⚔️ Compare</button>
+          <button class="region-tab" onclick="openWatchlist()">📍 Watchlist</button>
+        </div>
         <div style="position:absolute;top:6px;left:50%;transform:translateX(-50%);z-index:10;background:rgba(4,8,18,.75);border:1px solid rgba(255,255,255,.08);border-radius:8px;padding:3px 10px;display:flex;align-items:center;gap:8px;pointer-events:none">
           <div class="update-dot"></div>
           <span class="update-txt" style="font-size:9px">Live conflict data</span>
