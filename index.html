@@ -2223,6 +2223,7 @@ function goScreen(name){
   STATE.currentScreen=name;
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
+  if(name==='chat'){ window.open('chat.html','_blank'); return; }
   if(name==='chat'){ setPressTab('news'); renderChatRooms(); }
   if(name==='profile') renderProfile();
 }
