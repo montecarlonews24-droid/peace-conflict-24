@@ -2189,12 +2189,17 @@ function sendSupport(){
   const sub=document.getElementById('support-subject').value;
   const msg=document.getElementById('support-msg').value;
   if(!sub||!msg){showToast('Please fill in all fields.');return;}
+  fetch('https://formspree.io/f/mkoebpoj',{
+    method:'POST',
+    headers:{'Content-Type':'application/json','Accept':'application/json'},
+    body:JSON.stringify({subject:'[P&C24 Support] '+sub,message:msg})
+  }).then(r=>{
+    if(r.ok){showToast('✅ Message sent! We will reply within 24h');}
+    else{showToast('❌ Failed to send. Try again.');}
+  }).catch(()=>showToast('❌ Failed to send. Try again.'));
   closeSupport();
-  showToast('✅ Message sent! We will reply within 24h');
   document.getElementById('support-subject').value='';
   document.getElementById('support-msg').value='';
-  // In production: mailto:support@peaceconflict.app or API call
-  window.location.href=`mailto:montecarlo.news24@gmail.com?subject=${encodeURIComponent('[P&C24 Support] '+sub)}&body=${encodeURIComponent(msg)}`;
 }
 
 // ═══════════════════════════════════════════════════════ LANG
