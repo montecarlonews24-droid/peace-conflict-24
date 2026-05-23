@@ -5355,6 +5355,10 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
       var now=Date.now();
       if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
       lastTap=now;
+    },{passive:true});
+  });
+})();
+</script>
 <!-- Firebase Realtime Database -->
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
