@@ -1981,16 +1981,35 @@ function showPremiumBlock(plan){
 
 function openRoom(id, type, name){
   STATE.currentRoom={id,type,name};
-  if(!STATE.chatMessages[id]) STATE.chatMessages[id]=type==='public'?[
-    {user:'IntelOps_6614',text:'Monitoring developing situation closely.',time:'14:23',in:true},
-    {user:'CrisisWatcher_4419',text:'AP just published a new report.',time:'14:25',in:true},
-  ]:[];
-  
+  STATE.chatMessages[id]=[];
   const listEl=document.getElementById('chat-room-list');
   const chatEl=document.getElementById('active-chat');
   listEl.classList.add('hidden');
   chatEl.classList.remove('hidden');
   renderActiveChat();
+  // Start Firebase listener
+  if(window._fbUnsubscribe) window._fbUnsubscribe();
+  if(window._fbDb){
+    const msgsRef=window._fbQuery(window._fbRef(window._fbDb,'rooms/'+id+'/messages'),window._fbLimitToLast(50));
+    window._fbUnsubscribe=window._fbOnChildAdded(msgsRef,(snap)=>{
+      const m=snap.val();
+      if(!STATE.chatMessages[id]) STATE.chatMessages[id]=[];
+      STATE.chatMessages[id].push(m);
+      const area=document.getElementById('msg-area');
+      if(area){
+        const out=m.user===STATE.user.username;
+        const isPriv=STATE.currentRoom&&STATE.currentRoom.type==='private';
+        const div=document.createElement('div');
+        div.className=out?'msg-out':'msg-in';
+        div.innerHTML=`${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}${isPriv?' 🔐':''}</div></div>`;
+        // Remove empty state if present
+        const empty=area.querySelector('[data-empty]');
+        if(empty) empty.remove();
+        area.appendChild(div);
+        area.scrollTop=area.scrollHeight;
+      }
+    });
+  }
 }
 
 function renderActiveChat(){
@@ -2017,7 +2036,7 @@ function renderActiveChat(){
     <div class="chat-messages" id="msg-area">
       ${msgs.length===0?`<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--dim);font-size:12px;gap:6px;padding:20px 0">
         ${isPriv?'<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--dim)" stroke-width="1.5"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>':'<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--dim)" stroke-width="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>'}
-        <span>${isPriv?'Encrypted session active. Only participants can read.':'No messages yet. Start the conversation.'}</span>
+        <span data-empty="1">${isPriv?'Encrypted session active. Only participants can read.':'No messages yet. Start the conversation.'}</span>
       </div>`:msgs.map(m=>{
         const out=m.user===STATE.user.username;
         return `<div class="${out?'msg-out':'msg-in'}">
@@ -2042,13 +2061,18 @@ function sendMsg(){
   const inp=document.getElementById('chat-draft');
   if(!inp||!inp.value.trim()) return;
   const r=STATE.currentRoom;
-  if(!STATE.chatMessages[r.id]) STATE.chatMessages[r.id]=[];
   const now=new Date();
   const t=`${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
-  STATE.chatMessages[r.id].push({user:STATE.user.username,text:inp.value.trim(),time:t,in:false});
+  const msg={user:STATE.user.username,text:inp.value.trim(),time:t};
   inp.value='';
   inp.style.height='';
-  renderActiveChat();
+  if(window._fbDb){
+    window._fbPush(window._fbRef(window._fbDb,'rooms/'+r.id+'/messages'),msg);
+  } else {
+    if(!STATE.chatMessages[r.id]) STATE.chatMessages[r.id]=[];
+    STATE.chatMessages[r.id].push(msg);
+    renderActiveChat();
+  }
 }
 
 function scrollChat(){
@@ -5337,9 +5361,20 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
       var now=Date.now();
       if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
       lastTap=now;
-    },{passive:true});
-  });
-})();
+<!-- Firebase Realtime Database -->
+<script type="module">
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
+  import { getDatabase, ref, push, onChildAdded, query, limitToLast } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js';
+  const app = initializeApp({ databaseURL: "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com" });
+  const db = getDatabase(app);
+  window._fbDb = db;
+  window._fbRef = ref;
+  window._fbPush = push;
+  window._fbOnChildAdded = onChildAdded;
+  window._fbQuery = query;
+  window._fbLimitToLast = limitToLast;
+  window._fbUnsubscribe = null;
+  window._fbReady = true;
 </script>
 </body>
 </html>
