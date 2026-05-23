@@ -5342,19 +5342,17 @@ window._chatPollInterval = null;
 window._lastMsgKey = null;
 
 window.fbSendMsg = async function(roomId, msg) {
-  var dbg=document.getElementById('debug-bar');
-  if(!dbg){dbg=document.createElement('div');dbg.id='debug-bar';dbg.style='position:fixed;top:0;left:0;right:0;background:red;color:white;padding:10px;z-index:9999;font-size:14px';document.body.appendChild(dbg);}
   try {
-    const url = FB_URL+'/rooms/'+roomId+'/messages.json';
-    dbg.textContent='Sending to Firebase: '+url;
+    const url = `${FB_URL}/rooms/${roomId}/messages.json`;
+    alert('Sending to: ' + url + '\nUser: ' + msg.user + '\nText: ' + msg.text);
     const res = await fetch(url, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(msg)
     });
     const data = await res.json();
-    dbg.textContent='Firebase OK: '+JSON.stringify(data);
-  } catch(e) { dbg.textContent='Firebase ERROR: '+e.message; dbg.style.background='darkred'; }
+    alert('Firebase response: ' + JSON.stringify(data));
+  } catch(e) { alert('Send failed: ' + e.message); }
 };
 
 window.fbStartPolling = function(roomId, username, isPriv) {
