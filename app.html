@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
-<meta charset="UTF-8"/><script>if("serviceWorker"in navigator){navigator.serviceWorker.getRegistrations().then(r=>{r.forEach(sw=>sw.unregister())});caches.keys().then(k=>{k.forEach(c=>caches.delete(c))})}</script>
+<meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
 <meta name="mobile-web-app-capable" content="yes"/>
@@ -5342,17 +5342,19 @@ window._chatPollInterval = null;
 window._lastMsgKey = null;
 
 window.fbSendMsg = async function(roomId, msg) {
+  var dbg=document.getElementById('debug-bar');
+  if(!dbg){dbg=document.createElement('div');dbg.id='debug-bar';dbg.style='position:fixed;top:0;left:0;right:0;background:red;color:white;padding:10px;z-index:9999;font-size:14px';document.body.appendChild(dbg);}
   try {
-    const url = `${FB_URL}/rooms/${roomId}/messages.json`;
-    alert('Sending to: ' + url + '\nUser: ' + msg.user + '\nText: ' + msg.text);
+    const url = FB_URL+'/rooms/'+roomId+'/messages.json';
+    dbg.textContent='Sending to Firebase: '+url;
     const res = await fetch(url, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(msg)
     });
     const data = await res.json();
-    alert('Firebase response: ' + JSON.stringify(data));
-  } catch(e) { alert('Send failed: ' + e.message); }
+    dbg.textContent='Firebase OK: '+JSON.stringify(data);
+  } catch(e) { dbg.textContent='Firebase ERROR: '+e.message; dbg.style.background='darkred'; }
 };
 
 window.fbStartPolling = function(roomId, username, isPriv) {
