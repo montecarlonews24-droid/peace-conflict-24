@@ -1980,15 +1980,7 @@ function showPremiumBlock(plan){
 }
 
 function openRoom(id, type, name){
-  STATE.currentRoom={id,type,name};
-  STATE.chatMessages[id]=[];
-  const listEl=document.getElementById('chat-room-list');
-  const chatEl=document.getElementById('active-chat');
-  listEl.classList.add('hidden');
-  chatEl.classList.remove('hidden');
-  renderActiveChat();
-  window.fbStopPolling();
-  window.fbStartPolling(id, STATE.user.username, type==='private');
+  window.location.href = 'chat.html?room=' + id + '&name=' + encodeURIComponent(name);
 }
 
 function renderActiveChat(){
