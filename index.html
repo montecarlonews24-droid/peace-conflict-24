@@ -1987,27 +1987,8 @@ function openRoom(id, type, name){
   listEl.classList.add('hidden');
   chatEl.classList.remove('hidden');
   renderActiveChat();
-  if(window._fbUnsubscribe){ window._fbUnsubscribe(); window._fbUnsubscribe=null; }
-  if(window._fbDb){
-    const msgsRef=window._fbDb.ref('rooms/'+id+'/messages').limitToLast(50);
-    const handler=msgsRef.on('child_added',(snap)=>{
-      const m=snap.val();
-      if(!STATE.currentRoom||STATE.currentRoom.id!==id) return;
-      const area=document.getElementById('msg-area');
-      if(area){
-        const out=m.user===STATE.user.username;
-        const isPriv=type==='private';
-        const empty=area.querySelector('[data-empty]');
-        if(empty) empty.parentElement.remove();
-        const div=document.createElement('div');
-        div.className=out?'msg-out':'msg-in';
-        div.innerHTML=`${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}</div></div>`;
-        area.appendChild(div);
-        area.scrollTop=area.scrollHeight;
-      }
-    });
-    window._fbUnsubscribe=()=>msgsRef.off('child_added',handler);
-  }
+  window.fbStopPolling();
+  window.fbStartPolling(id, STATE.user.username, type==='private');
 }
 
 function renderActiveChat(){
@@ -2064,9 +2045,7 @@ function sendMsg(){
   const msg={user:STATE.user.username,text:inp.value.trim(),time:t};
   inp.value='';
   inp.style.height='';
-  if(window._fbDb){
-    window._fbDb.ref('rooms/'+r.id+'/messages').push(msg);
-  }
+  window.fbSendMsg(r.id, msg);
 }
 
 function scrollChat(){
@@ -2074,6 +2053,7 @@ function scrollChat(){
 }
 
 function closeRoom(){
+  window.fbStopPolling();
   STATE.currentRoom=null;
   document.getElementById('chat-room-list').classList.remove('hidden');
   document.getElementById('active-chat').classList.add('hidden');
@@ -5355,19 +5335,59 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
       var now=Date.now();
       if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
       lastTap=now;
-    },{passive:true});
-  });
-})();
-</script>
-<!-- Firebase Realtime Database -->
-<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+<!-- Firebase REST Chat -->
 <script>
-  const _fbApp = firebase.initializeApp({ databaseURL: "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com" });
-  const _fbDatabase = firebase.database();
-  window._fbDb = _fbDatabase;
-  window._fbUnsubscribe = null;
-  window._fbReady = true;
+const FB_URL = "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com";
+window._chatPollInterval = null;
+window._lastMsgKey = null;
+
+window.fbSendMsg = async function(roomId, msg) {
+  try {
+    await fetch(`${FB_URL}/rooms/${roomId}/messages.json`, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(msg)
+    });
+  } catch(e) { console.error('Send failed:', e); }
+};
+
+window.fbStartPolling = function(roomId, username, isPriv) {
+  if(window._chatPollInterval) clearInterval(window._chatPollInterval);
+  window._lastMsgKey = null;
+
+  const poll = async () => {
+    try {
+      const url = window._lastMsgKey
+        ? `${FB_URL}/rooms/${roomId}/messages.json?orderBy="$key"&startAfter="${window._lastMsgKey}"&limitToLast=20`
+        : `${FB_URL}/rooms/${roomId}/messages.json?limitToLast=30`;
+      const res = await fetch(url);
+      const data = await res.json();
+      if(!data) return;
+      const area = document.getElementById('msg-area');
+      if(!area) return;
+      const empty = area.querySelector('[data-empty]');
+      if(empty) empty.parentElement.remove();
+      const keys = Object.keys(data).sort();
+      keys.forEach(k => {
+        if(window._lastMsgKey && k <= window._lastMsgKey) return;
+        const m = data[k];
+        const out = m.user === username;
+        const div = document.createElement('div');
+        div.className = out ? 'msg-out' : 'msg-in';
+        div.innerHTML = `${!out?`<div class="msg-user">${m.user}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${m.text}</div><div class="msg-meta">${m.time}</div></div>`;
+        area.appendChild(div);
+        area.scrollTop = area.scrollHeight;
+        window._lastMsgKey = k;
+      });
+    } catch(e) {}
+  };
+  poll();
+  window._chatPollInterval = setInterval(poll, 2000);
+};
+
+window.fbStopPolling = function() {
+  if(window._chatPollInterval) { clearInterval(window._chatPollInterval); window._chatPollInterval = null; }
+};
 </script>
 </body>
 </html>
