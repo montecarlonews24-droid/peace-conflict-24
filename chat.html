@@ -24,6 +24,7 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 .input-area{padding:10px 12px calc(10px + env(safe-area-inset-bottom));border-top:1px solid #1e3050;display:flex;gap:8px;background:#070d1a;flex-shrink:0}
 .input-area input{flex:1;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:10px 14px;color:#e8edf5;font-size:14px;outline:none}
 .input-area button{background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;width:44px;height:44px;cursor:pointer;font-size:18px;flex-shrink:0}
+.debug-btn{background:#1e3050;border:1px solid #fca311;color:#fca311;font-size:11px;padding:4px 10px;border-radius:10px;cursor:pointer;margin:4px auto;display:block}
 .login{position:fixed;inset:0;background:#040810;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;z-index:100}
 .login h2{color:#fca311;font-size:24px;margin-bottom:20px}
 .login input{width:100%;max-width:300px;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:12px;color:#e8edf5;font-size:16px;margin-bottom:10px;outline:none}
@@ -47,13 +48,14 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 </div>
 
 <div class="rooms">
-  <button class="room-btn active" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
-  <button class="room-btn" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
-  <button class="room-btn" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
-  <button class="room-btn" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
+  <button class="room-btn active" data-room="r1" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
+  <button class="room-btn" data-room="r2" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
+  <button class="room-btn" data-room="r3" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
+  <button class="room-btn" data-room="r4" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
 </div>
 
 <div class="status" id="status">جاري الاتصال...</div>
+<button class="debug-btn" onclick="debugFirebase()">🔍 اختبر Firebase</button>
 <div class="messages" id="messages"></div>
 
 <div class="input-area">
@@ -64,11 +66,20 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 
 <script>
 const DB = 'https://peace-conflict-24-154e8-default-rtdb.firebaseio.com';
+
+// Read room from URL if opened from index.html
+const _params = new URLSearchParams(window.location.search);
 let username = '';
-let currentRoom = 'r1';
-let currentRoomName = 'Global Analysis Hub';
+let currentRoom = _params.get('room') || 'r1';
+let currentRoomName = _params.get('name') ? decodeURIComponent(_params.get('name')) : 'Global Analysis Hub';
 let renderedKeys = new Set();
 let pollInterval = null;
+
+// Highlight correct room button
+document.querySelectorAll('.room-btn').forEach(b => {
+  b.classList.remove('active');
+  if (b.getAttribute('data-room') === currentRoom) b.classList.add('active');
+});
 
 function doLogin() {
   const val = document.getElementById('username-input').value.trim();
@@ -113,6 +124,18 @@ async function sendMessage() {
   }
 }
 
+// DEBUG: fetch raw Firebase data and show it
+async function debugFirebase() {
+  try {
+    const url = DB + '/rooms/' + currentRoom + '/messages.json?orderBy="$key"&limitToLast=5';
+    document.getElementById('status').textContent = 'جاري الجلب من: ' + url.slice(0,50) + '...';
+    const res = await fetch(url);
+    const data = await res.json();
+    document.getElementById('status').textContent = 'Firebase رد: ' + JSON.stringify(data).slice(0,120);
+  } catch(e) {
+    document.getElementById('status').textContent = '❌ debug error: ' + e.message;
+  }
+}
 
 function startPolling() {
   if (pollInterval) clearInterval(pollInterval);
