@@ -5343,12 +5343,16 @@ window._lastMsgKey = null;
 
 window.fbSendMsg = async function(roomId, msg) {
   try {
-    await fetch(`${FB_URL}/rooms/${roomId}/messages.json`, {
+    const url = `${FB_URL}/rooms/${roomId}/messages.json`;
+    alert('Sending to: ' + url + '\nUser: ' + msg.user + '\nText: ' + msg.text);
+    const res = await fetch(url, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(msg)
     });
-  } catch(e) { console.error('Send failed:', e); }
+    const data = await res.json();
+    alert('Firebase response: ' + JSON.stringify(data));
+  } catch(e) { alert('Send failed: ' + e.message); }
 };
 
 window.fbStartPolling = function(roomId, username, isPriv) {
