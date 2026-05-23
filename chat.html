@@ -35,9 +35,9 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 
 <div class="login" id="login-screen">
   <h2>⚡ P&C24 Chat</h2>
-  <input id="username-input" placeholder="اختر اسم مستخدم" maxlength="20"
+  <input id="username-input" placeholder="Choose username" maxlength="20"
     onkeypress="if(event.key==='Enter')doLogin()"/>
-  <button onclick="doLogin()">دخول</button>
+  <button onclick="doLogin()">Enter</button>
 </div>
 
 <div class="header">
@@ -48,43 +48,44 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 </div>
 
 <div class="rooms">
-  <button class="room-btn active" data-room="r1" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
-  <button class="room-btn" data-room="r2" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
-  <button class="room-btn" data-room="r3" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
-  <button class="room-btn" data-room="r4" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
+  <button class="room-btn active" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
+  <button class="room-btn" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
+  <button class="room-btn" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
+  <button class="room-btn" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
 </div>
 
-<div class="status" id="status">جاري الاتصال...</div>
+<div class="status" id="status">Connecting...</div>
 <button class="debug-btn" onclick="debugFirebase()">🔍 اختبر Firebase</button>
 <div class="messages" id="messages"></div>
 
 <div class="input-area">
-  <input id="msg-input" placeholder="اكتب رسالة..."
+  <input id="msg-input" placeholder="Type a message..."
     onkeypress="if(event.key==='Enter')sendMessage()"/>
   <button onclick="sendMessage()">➤</button>
 </div>
 
 <script>
 const DB = 'https://peace-conflict-24-154e8-default-rtdb.firebaseio.com';
-
-// Read room from URL if opened from index.html
-const _params = new URLSearchParams(window.location.search);
 let username = '';
-let currentRoom = _params.get('room') || 'r1';
-let currentRoomName = _params.get('name') ? decodeURIComponent(_params.get('name')) : 'Global Analysis Hub';
+let currentRoom = 'r1';
+let currentRoomName = 'Global Analysis Hub';
 let renderedKeys = new Set();
 let pollInterval = null;
-
-// Highlight correct room button
-document.querySelectorAll('.room-btn').forEach(b => {
-  b.classList.remove('active');
-  if (b.getAttribute('data-room') === currentRoom) b.classList.add('active');
-});
 
 function doLogin() {
   const val = document.getElementById('username-input').value.trim();
   if (!val) return;
   username = val;
+  localStorage.setItem('pc24_username', username);
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('user-display').textContent = '👤 ' + username;
+  startPolling();
+}
+
+// Auto-login if username saved
+const _saved = localStorage.getItem('pc24_username');
+if (_saved) {
+  username = _saved;
   document.getElementById('login-screen').style.display = 'none';
   document.getElementById('user-display').textContent = '👤 ' + username;
   startPolling();
@@ -150,7 +151,7 @@ async function poll() {
     const data = await res.json();
 
     if (!data || typeof data !== 'object') {
-      document.getElementById('status').textContent = '● متصل - لا رسائل بعد';
+      document.getElementById('status').textContent = '● Connected - no messages yet';
       return;
     }
 
@@ -162,7 +163,7 @@ async function poll() {
       renderedKeys.add(k);
       const m = data[k];
       if (!m || typeof m !== 'object') return;
-      const user = String(m.user || m.username || '').trim() || 'مجهول';
+      const user = String(m.user || m.username || '').trim() || 'Unknown';
       const text = String(m.text || m.message || '').trim();
       const time = String(m.time || '').trim();
       if (!text || text === 'undefined') return;
@@ -177,7 +178,7 @@ async function poll() {
       area.scrollTop = area.scrollHeight;
     });
 
-    document.getElementById('status').textContent = '● متصل - ' + currentRoomName;
+    document.getElementById('status').textContent = '● Live - ' + currentRoomName;
   } catch(e) {
     document.getElementById('status').textContent = '❌ ' + e.message;
   }
