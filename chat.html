@@ -118,7 +118,7 @@ async function sendMessage() {
 // DEBUG: fetch raw Firebase data and show it
 async function debugFirebase() {
   try {
-    const url = DB + '/rooms/' + currentRoom + '/messages.json?limitToLast=5';
+    const url = DB + '/rooms/' + currentRoom + '/messages.json?orderBy="$key"&limitToLast=5';
     document.getElementById('status').textContent = 'جاري الجلب من: ' + url.slice(0,50) + '...';
     const res = await fetch(url);
     const data = await res.json();
@@ -136,7 +136,7 @@ function startPolling() {
 
 async function poll() {
   try {
-    const url = DB + '/rooms/' + currentRoom + '/messages.json?limitToLast=30';
+    const url = DB + '/rooms/' + currentRoom + '/messages.json?orderBy="$key"&limitToLast=30';
     const res = await fetch(url);
     const data = await res.json();
 
