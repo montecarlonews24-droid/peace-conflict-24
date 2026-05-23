@@ -2037,6 +2037,7 @@ function renderActiveChat(){
 }
 
 function sendMsg(){
+  alert('sendMsg called! user=' + (STATE.user ? STATE.user.username : 'NULL') + ' room=' + (STATE.currentRoom ? STATE.currentRoom.id : 'NULL'));
   const inp=document.getElementById('chat-draft');
   if(!inp||!inp.value.trim()) return;
   const r=STATE.currentRoom;
