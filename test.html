@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Firebase Test</title></head>
+<body style="background:#000;color:#fff;padding:20px;font-size:18px">
+<h2>Firebase Test</h2>
+<input id="msg" placeholder="اكتب رسالة" style="width:80%;padding:10px;font-size:16px"><br><br>
+<button onclick="sendTest()" style="padding:15px 30px;font-size:18px;background:green;color:white;border:none">أرسل</button>
+<div id="result" style="margin-top:20px;padding:10px;background:#333"></div>
+<div id="messages" style="margin-top:20px"></div>
+
+<script>
+const DB = "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com";
+
+async function sendTest() {
+  const msg = document.getElementById('msg').value;
+  document.getElementById('result').textContent = 'جاري الإرسال...';
+  try {
+    const res = await fetch(DB + '/test-chat.json', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({text: msg, time: new Date().toISOString()})
+    });
+    const data = await res.json();
+    document.getElementById('result').textContent = 'نجح: ' + JSON.stringify(data);
+    document.getElementById('result').style.background = 'green';
+  } catch(e) {
+    document.getElementById('result').textContent = 'فشل: ' + e.message;
+    document.getElementById('result').style.background = 'red';
+  }
+}
+
+// Poll for messages every 2 seconds
+setInterval(async () => {
+  try {
+    const res = await fetch(DB + '/test-chat.json?limitToLast=5');
+    const data = await res.json();
+    if(!data) return;
+    const div = document.getElementById('messages');
+    div.innerHTML = '<h3>الرسائل:</h3>' + Object.values(data).map(m => 
+      '<div style="background:#333;margin:5px;padding:8px">' + m.text + ' - ' + m.time + '</div>'
+    ).join('');
+  } catch(e) {}
+}, 2000);
+</script>
+</body>
+</html>
