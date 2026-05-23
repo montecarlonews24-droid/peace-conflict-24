@@ -13,7 +13,7 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 .rooms{padding:10px;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #1e3050;flex-shrink:0}
 .room-btn{background:#0b1424;border:1px solid #1e3050;color:#8fa8c8;padding:8px 14px;border-radius:20px;cursor:pointer;font-size:12px}
 .room-btn.active{background:rgba(252,163,17,.15);border-color:#fca311;color:#fca311}
-.status{font-size:11px;color:#4a6080;padding:4px 8px;text-align:center;flex-shrink:0}
+.status{font-size:11px;color:#4a6080;padding:4px 8px;text-align:center;flex-shrink:0;word-break:break-all}
 .messages{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px;-webkit-overflow-scrolling:touch}
 .msg-in{align-self:flex-start;max-width:75%}
 .msg-out{align-self:flex-end;max-width:75%}
@@ -24,6 +24,7 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 .input-area{padding:10px 12px calc(10px + env(safe-area-inset-bottom));border-top:1px solid #1e3050;display:flex;gap:8px;background:#070d1a;flex-shrink:0}
 .input-area input{flex:1;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:10px 14px;color:#e8edf5;font-size:14px;outline:none}
 .input-area button{background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;width:44px;height:44px;cursor:pointer;font-size:18px;flex-shrink:0}
+.debug-btn{background:#1e3050;border:1px solid #fca311;color:#fca311;font-size:11px;padding:4px 10px;border-radius:10px;cursor:pointer;margin:4px auto;display:block}
 .login{position:fixed;inset:0;background:#040810;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;z-index:100}
 .login h2{color:#fca311;font-size:24px;margin-bottom:20px}
 .login input{width:100%;max-width:300px;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:12px;color:#e8edf5;font-size:16px;margin-bottom:10px;outline:none}
@@ -54,6 +55,7 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 </div>
 
 <div class="status" id="status">جاري الاتصال...</div>
+<button class="debug-btn" onclick="debugFirebase()">🔍 اختبر Firebase</button>
 <div class="messages" id="messages"></div>
 
 <div class="input-area">
@@ -102,11 +104,27 @@ async function sendMessage() {
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({user: username, text: text, time: time})
     });
-    if (!res.ok) {
-      document.getElementById('status').textContent = '❌ خطأ في الإرسال: ' + res.status;
+    const result = await res.json();
+    if (result && result.name) {
+      document.getElementById('status').textContent = '✅ أُرسلت! ID: ' + result.name.slice(-6);
+    } else {
+      document.getElementById('status').textContent = '❌ فشل: ' + JSON.stringify(result).slice(0,60);
     }
   } catch(e) {
-    document.getElementById('status').textContent = '❌ خطأ: ' + e.message;
+    document.getElementById('status').textContent = '❌ ' + e.message;
+  }
+}
+
+// DEBUG: fetch raw Firebase data and show it
+async function debugFirebase() {
+  try {
+    const url = DB + '/rooms/' + currentRoom + '/messages.json?limitToLast=5';
+    document.getElementById('status').textContent = 'جاري الجلب من: ' + url.slice(0,50) + '...';
+    const res = await fetch(url);
+    const data = await res.json();
+    document.getElementById('status').textContent = 'Firebase رد: ' + JSON.stringify(data).slice(0,120);
+  } catch(e) {
+    document.getElementById('status').textContent = '❌ debug error: ' + e.message;
   }
 }
 
@@ -123,7 +141,7 @@ async function poll() {
     const data = await res.json();
 
     if (!data || typeof data !== 'object') {
-      document.getElementById('status').textContent = '● متصل - ' + currentRoomName + ' (لا رسائل)';
+      document.getElementById('status').textContent = '● متصل - لا رسائل بعد';
       return;
     }
 
@@ -136,7 +154,7 @@ async function poll() {
       const m = data[k];
       if (!m || typeof m !== 'object') return;
       const user = String(m.user || m.username || '').trim() || 'مجهول';
-      const text = String(m.text || m.message  || '').trim();
+      const text = String(m.text || m.message || '').trim();
       const time = String(m.time || '').trim();
       if (!text || text === 'undefined') return;
       const isMe = user === username;
@@ -152,7 +170,7 @@ async function poll() {
 
     document.getElementById('status').textContent = '● متصل - ' + currentRoomName;
   } catch(e) {
-    document.getElementById('status').textContent = '❌ خطأ اتصال: ' + e.message;
+    document.getElementById('status').textContent = '❌ ' + e.message;
   }
 }
 </script>
