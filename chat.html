@@ -124,13 +124,14 @@ async function poll() {
     keys.forEach(k => {
       if (lastKey && k <= lastKey) return;
       const m = data[k];
+      if (!m.user || !m.text) return; // skip invalid messages
       const isMe = m.user === username;
       const div = document.createElement('div');
       div.className = isMe ? 'msg-out' : 'msg-in';
       div.innerHTML = (!isMe ? '<div class="msg-user">' + m.user + '</div>' : '') +
         '<div class="' + (isMe ? 'bubble-out' : 'bubble-in') + '">' +
         '<div>' + m.text + '</div>' +
-        '<div class="msg-time">' + m.time + '</div></div>';
+        '<div class="msg-time">' + (m.time || '') + '</div></div>';
       area.appendChild(div);
       area.scrollTop = area.scrollHeight;
       lastKey = k;
