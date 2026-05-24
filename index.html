@@ -660,12 +660,12 @@ CONFLICT
       <div id="mv-map">
       <div class="map-container">
         <!-- MAP TOOLBAR as overlay -->
-        <div style="position:absolute;top:6px;left:50%;transform:translateX(-50%);z-index:20;display:flex;gap:6px;background:rgba(4,8,18,.85);border:1px solid rgba(255,255,255,.08);border-radius:20px;padding:4px 8px;overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:95%;scrollbar-width:none">
-          <button id="map-view-map" class="region-tab active" onclick="setMapView('map')">🗺️ Map</button>
-          <button id="map-view-lb"  class="region-tab" onclick="setMapView('leaderboard')">🏆 Leaderboard</button>
-          <button id="map-view-heat" class="region-tab" onclick="setMapView('heatmap')">🔥 Heatmap</button>
-          <button class="region-tab" onclick="openCompare()">⚔️ Compare</button>
-          <button class="region-tab" onclick="openWatchlist()">📍 Watchlist</button>
+        <div style="position:absolute;top:6px;left:0;right:0;z-index:20;display:flex;justify-content:center;gap:4px;padding:0 6px">
+          <button id="map-view-map" class="region-tab active" onclick="setMapView('map')" style="padding:4px 7px;font-size:9px">🗺️ Map</button>
+          <button id="map-view-lb"  class="region-tab" onclick="setMapView('leaderboard')" style="padding:4px 7px;font-size:9px">🏆 Board</button>
+          <button id="map-view-heat" class="region-tab" onclick="setMapView('heatmap')" style="padding:4px 7px;font-size:9px">🔥 Heat</button>
+          <button class="region-tab" onclick="openCompare()" style="padding:4px 7px;font-size:9px">⚔️ Compare</button>
+          <button class="region-tab" onclick="openWatchlist()" style="padding:4px 7px;font-size:9px">📍 Watch</button>
         </div>
         <div style="position:absolute;bottom:6px;left:6px;z-index:10;background:rgba(4,8,18,.75);border:1px solid rgba(255,255,255,.08);border-radius:8px;padding:3px 10px;display:flex;align-items:center;gap:8px;pointer-events:none">
           <div class="update-dot"></div>
