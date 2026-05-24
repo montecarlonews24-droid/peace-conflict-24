@@ -1747,17 +1747,22 @@ function renderNewsChips(){
 function renderNewsFeed(){
   const el=document.getElementById('news-feed');
   if(!el) return;
-  const shuffled=[...LIVE_HEADLINES].sort(()=>Math.random()-.5).slice(0,6);
-  el.innerHTML=shuffled.map((h,i)=>{
-    const col=getSourceColor(h.src);
-    const mins=[1,2,3,4,5,7,8,10,12,15][i]||Math.floor(Math.random()*20)+1;
-    return `<div class="news-item fade-in" style="--src-col:${col};animation-delay:${i*.06}s">
-      <div style="display:flex;justify-content:space-between;margin-bottom:3px">
-        
-        <span class="news-time">${mins}m ago</span>
+  const headlines = getActiveHeadlines();
+  const sorted = [...headlines].sort((a,b) => new Date(b.date||0) - new Date(a.date||0)).slice(0, 30);
+  el.innerHTML = sorted.map((h, i) => {
+    const col = getSourceColor(h.src) || '#f59e0b';
+    const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : (i+1)*2;
+    const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
+    const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
+    return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'}">
+      <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+          <span style="color:${col};font-weight:700;font-size:10px">${h.src||'P&C24'}</span>
+          <span style="color:var(--muted);font-size:9px;font-family:var(--font-mono)">${timeLabel}</span>
+        </div>
+        <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.45">${h.text}</div>
       </div>
-      <div class="news-headline">${h.text}</div>
-      <div class="news-region">🌐 Conflict Zone Update</div>
     </div>`;
   }).join('');
 }
@@ -2598,17 +2603,32 @@ let liveHeadlines = [];
 let rssLoaded = false;
 
 async function fetchOneFeed(feed) {
-  const api = 'https://peace-conflict-24.vercel.app/api/rss?url=' + encodeURIComponent(feed.url);
-  const r = await fetch(api, {signal: AbortSignal.timeout(10000), cache: 'no-store'});
-  if (!r.ok) throw new Error('HTTP ' + r.status);
-  const d = await r.json();
-  if (!d.items || d.items.length === 0) throw new Error('No items');
-  return d.items.map(item => ({
-    src: feed.name, col: feed.col,
-    text: (item.title || '').replace(/<[^>]+>/g,'').trim(),
-    link: item.link || '',
-    date: item.pubDate || new Date().toISOString(),
-  })).filter(h => h.text.length > 5);
+  // Try primary proxy first, then fallback
+  const proxies = [
+    'https://peace-conflict-24.vercel.app/api/rss?url=',
+    'https://api.rss2json.com/v1/api.json?rss_url='
+  ];
+
+  for (const proxy of proxies) {
+    try {
+      const api = proxy + encodeURIComponent(feed.url);
+      const r = await fetch(api, {signal: AbortSignal.timeout(8000), cache: 'no-store'});
+      if (!r.ok) continue;
+      const d = await r.json();
+      // Handle both proxy formats
+      const items = d.items || (d.feed && d.items) || [];
+      if (!items || items.length === 0) continue;
+      return items.map(item => ({
+        src: feed.name, col: feed.col,
+        text: (item.title || '').replace(/<[^>]+>/g,'').trim(),
+        link: item.link || item.url || '',
+        date: item.pubDate || item.published || new Date().toISOString(),
+      })).filter(h => h.text.length > 5);
+    } catch(e) {
+      continue;
+    }
+  }
+  throw new Error('All proxies failed for ' + feed.name);
 }
 
 async function loadAllRSSFeeds() {
