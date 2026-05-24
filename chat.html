@@ -75,10 +75,6 @@ function doLogin() {
   if (!val) return;
   username = val;
   localStorage.setItem('pc24_username', username);
-  // Admin detection
-  if (username.toLowerCase() === 'moe') {
-    localStorage.setItem('pc24_admin', 'montecarlo.news24@gmail.com');
-  }
   document.getElementById('login-screen').style.display = 'none';
   document.getElementById('user-display').textContent = '👤 ' + username;
   startPolling();
@@ -101,19 +97,6 @@ function switchRoom(id, name, btn) {
   document.querySelectorAll('.room-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   startPolling();
-}
-
-async function deleteMsg(key) {
-  if (!confirm('حذف هذه الرسالة؟')) return;
-  try {
-    await fetch(DB + '/rooms/' + currentRoom + '/messages/' + key + '.json', {
-      method: 'DELETE'
-    });
-    renderedKeys.delete(key);
-    poll(); // refresh
-  } catch(e) {
-    alert('فشل الحذف: ' + e.message);
-  }
 }
 
 async function sendMessage() {
@@ -160,8 +143,7 @@ async function poll() {
     const area = document.getElementById('messages');
     const keys = Object.keys(data).sort();
     const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
-    const isAdmin = localStorage.getItem('pc24_username') === 'Moe' ||
-                    localStorage.getItem('pc24_admin') === 'montecarlo.news24@gmail.com';
+    const isAdmin = localStorage.getItem('pc24_username') === 'Moe';
 
     keys.forEach(k => {
       if (renderedKeys.has(k)) return;
@@ -180,15 +162,21 @@ async function poll() {
       const div = document.createElement('div');
       div.className = isMe ? 'msg-out' : 'msg-in';
 
-      // Delete button for admin only
-      const deleteBtn = isAdmin
-        ? `<button onclick="deleteMsg('${k}')" style="background:none;border:none;color:#ef4444;font-size:10px;cursor:pointer;opacity:0.6;padding:0 4px" title="Delete">🗑</button>`
+      // Delete button for admin — shows on ALL messages including own
+      const delBtn = isAdmin
+        ? `<span onclick="deleteMsg('${k}', this)" style="cursor:pointer;font-size:11px;opacity:0.5;margin-right:4px" title="Delete">🗑</span>`
         : '';
 
-      div.innerHTML = (!isMe ? '<div class="msg-user">' + user + deleteBtn + '</div>' : '') +
-        '<div class="' + (isMe ? 'bubble-out' : 'bubble-in') + '">' +
-        '<div>' + text + '</div>' +
-        '<div class="msg-time">' + time + '</div></div>';
+      if (isMe) {
+        div.innerHTML =
+          '<div style="display:flex;justify-content:flex-end;align-items:center;margin-bottom:2px">' + delBtn + '</div>' +
+          '<div class="bubble-out"><div>' + text + '</div><div class="msg-time">' + time + '</div></div>';
+      } else {
+        div.innerHTML =
+          '<div class="msg-user">' + delBtn + user + '</div>' +
+          '<div class="bubble-in"><div>' + text + '</div><div class="msg-time">' + time + '</div></div>';
+      }
+
       area.appendChild(div);
       area.scrollTop = area.scrollHeight;
     });
@@ -196,6 +184,21 @@ async function poll() {
     document.getElementById('status').textContent = '● Live - ' + currentRoomName;
   } catch(e) {
     document.getElementById('status').textContent = '❌ ' + e.message;
+  }
+}
+
+async function deleteMsg(key, el) {
+  try {
+    const url = DB + '/rooms/' + currentRoom + '/messages/' + key + '.json';
+    const res = await fetch(url, { method: 'DELETE' });
+    if (res.ok) {
+      // Remove the message div from UI
+      const msgDiv = el.closest('.msg-out, .msg-in');
+      if (msgDiv) msgDiv.remove();
+      renderedKeys.delete(key);
+    }
+  } catch(e) {
+    alert('Delete failed: ' + e.message);
   }
 }
 </script>
