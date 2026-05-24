@@ -5660,8 +5660,8 @@ function openHeatmapModal() {
       <div style="display:flex;flex-wrap:wrap;gap:4px">
         ${cs.sort((a,b)=>b.score-a.score).map(c=>`
           <span onclick="document.getElementById('heatmap-modal').classList.add('hidden');openZone(${c.id},'map');goScreen('map')"
-            style="font-size:9px;padding:3px 7px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);border-radius:4px;font-family:var(--font-mono);cursor:pointer;color:${c.riskScore>=85?'#ef4444':c.riskScore>=70?'#f97316':'var(--text)'}">
-            ${c.loc.length>16?c.loc.slice(0,15)+'…':c.loc} <b>${c.riskScore}</b>
+            style="font-size:12px;padding:4px 10px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:6px;font-family:var(--font-mono);cursor:pointer;color:${c.riskScore>=85?'#ef4444':c.riskScore>=70?'#f97316':'var(--text)'}">
+            ${c.loc.length>20?c.loc.slice(0,19)+'…':c.loc} <b>${c.riskScore}</b>
           </span>`).join('')}
       </div>
     </div>`;
