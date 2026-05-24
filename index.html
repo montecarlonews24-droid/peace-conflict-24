@@ -5326,6 +5326,11 @@ function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
       var now=Date.now();
       if(now-lastTap<300){scale=1;panX=0;panY=0;applyViewBox();}
       lastTap=now;
+    },{passive:true});
+  });
+})();
+</script>
+
 <!-- Firebase REST Chat -->
 <script>
 const FB_URL = "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com";
