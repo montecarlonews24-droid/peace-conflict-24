@@ -39,7 +39,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 #ticker-bar{background:rgba(4,8,18,.98);border-top:1px solid rgba(230,57,70,.6);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:26px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
 .ticker-live-tag{background:var(--red);color:#fff;font-family:var(--font-mono);font-size:9px;font-weight:700;letter-spacing:.08em;padding:0 10px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
-.ticker-inner{display:flex;align-items:center;animation:ticker 3000s linear infinite;white-space:nowrap;will-change:transform}
+.ticker-inner{display:flex;align-items:center;animation:ticker 120s linear infinite;white-space:nowrap;will-change:transform}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:10px;color:var(--muted)}
 .tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
@@ -2682,14 +2682,17 @@ const _origRenderTicker = typeof renderTicker === 'function' ? renderTicker : nu
 function renderTickerLive() {
   const el = document.getElementById('ticker-inner');
   if (!el) return;
-  const headlines = getActiveHeadlines();
+  const allHeadlines = getActiveHeadlines();
+  if (allHeadlines.length === 0) return;
+
+  // Limit to 40 most recent headlines for speed
+  const headlines = allHeadlines.slice(0, 40);
   const total = headlines.length;
-  if (total === 0) return;
 
   const now = new Date();
   const timeStr = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ' UTC';
 
-  // Show ALL headlines - doubled for seamless loop
+  // Show headlines doubled for seamless loop
   const html = [
     `<span class="tick-item"><span class="tick-src" style="color:#22c55e;font-size:10px">⟳ ${timeStr}</span><span class="tick-sep">◆</span></span>`,
     ...[...headlines, ...headlines].map(h => {
@@ -2702,11 +2705,10 @@ function renderTickerLive() {
   ].join('');
   el.innerHTML = html;
 
-  // Reset animation
+  // Speed: 120 seconds for 40 headlines = readable pace
   el.style.animation = 'none';
   el.offsetHeight;
-  const speed = Math.max(60, Math.round(total * 2));
-  el.style.animation = 'ticker 3000s linear infinite';
+  el.style.animation = 'ticker 120s linear infinite';
 }
 
 function getRelativeTime(dateStr) {
