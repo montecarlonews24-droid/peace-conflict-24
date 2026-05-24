@@ -2727,19 +2727,25 @@ function renderNewsFeedLive() {
   const el = document.getElementById('news-feed');
   if (!el) return;
   const headlines = getActiveHeadlines();
-  const shuffled = [...headlines].sort((a,b) => new Date(b.date||0) - new Date(a.date||0)).slice(0, 8);
-  el.innerHTML = shuffled.map((h, i) => {
+  // Sort by date newest first, show 30 headlines
+  const sorted = [...headlines]
+    .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
+    .slice(0, 30);
+
+  el.innerHTML = sorted.map((h, i) => {
     const col = h.col || getSourceColor(h.src);
-    const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : [1,2,3,4,5,7,8,10][i];
+    const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : i+1;
     const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
-    const clickable = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
-    return `<div class="news-item fade-in" style="--src-col:${col};animation-delay:${i*.06}s" ${clickable}>
-      <div style="display:flex;justify-content:space-between;margin-bottom:3px">
-        <span style="color:${col};font-weight:700;font-size:9px">${h.src}</span>
-        <span class="news-time">${timeLabel}</span>
+    const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
+    return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'};transition:background .15s" onmouseover="this.style.background='rgba(255,255,255,.03)'" onmouseout="this.style.background=''">
+      <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+          <span style="color:${col};font-weight:700;font-size:10px;white-space:nowrap">${h.src||''}</span>
+          <span style="color:var(--muted);font-size:9px;font-family:var(--font-mono)">${timeLabel}</span>
+        </div>
+        <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.45">${h.text}</div>
       </div>
-      <div class="news-headline">${h.text}</div>
-      <div class="news-region" style="color:${col}40">🌐 ${rssLoaded ? 'Live' : 'Conflict Zone Update'}</div>
     </div>`;
   }).join('');
 }
