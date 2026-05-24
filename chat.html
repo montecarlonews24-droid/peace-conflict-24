@@ -237,7 +237,7 @@ async function deleteMsg(key, el) {
       const res = await fetch('https://peace-conflict-24-154e8-default-rtdb.firebaseio.com/rooms/' + room + '/messages.json?orderBy="$key"&limitToLast=20');
       const data = await res.json();
       if (!data) return 0;
-      return Object.values(data).filter(m => !m.bot).length;
+      return Object.values(data).filter(m => !m.bot && m.user !== username).length;
     } catch(e) { return 0; }
   }
 
