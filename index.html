@@ -1844,6 +1844,70 @@ function renderMapConflictList(){
     </button>`).join('');
 }
 
+// ═══════════════════════════════════════════════════════ MAP PINCH ZOOM
+(function(){
+  let svg, vb, scale=1, tx=0, ty=0;
+  let lastDist=0, lastTx=0, lastTy=0;
+  let isPinching=false, isDragging=false;
+  let startX=0, startY=0;
+
+  function getVB(){ return {x:0,y:-60,w:1000,h:560}; }
+
+  function applyTransform(){
+    if(!svg) return;
+    scale = Math.max(1, Math.min(8, scale));
+    const vbW = 1000/scale, vbH = 560/scale;
+    const maxTx = (1000-vbW)/2, maxTy = (560-vbH)/2;
+    tx = Math.max(-maxTx, Math.min(maxTx, tx));
+    ty = Math.max(-maxTy-60, Math.min(maxTy-30, ty));
+    svg.setAttribute('viewBox', `${tx} ${ty-60} ${vbW} ${vbH}`);
+  }
+
+  function dist(t){ return Math.hypot(t[0].clientX-t[1].clientX, t[0].clientY-t[1].clientY); }
+  function mid(t){ return {x:(t[0].clientX+t[1].clientX)/2, y:(t[0].clientY+t[1].clientY)/2}; }
+
+  function init(){
+    svg = document.getElementById('world-map-base');
+    if(!svg) return;
+    const el = svg.parentElement;
+
+    el.addEventListener('touchstart', e=>{
+      if(e.touches.length===2){
+        isPinching=true; isDragging=false;
+        lastDist=dist(e.touches);
+        lastTx=tx; lastTy=ty;
+      } else if(e.touches.length===1 && scale>1){
+        isDragging=true;
+        startX=e.touches[0].clientX-tx*(el.offsetWidth/1000);
+        startY=e.touches[0].clientY-ty*(el.offsetHeight/560);
+      }
+    },{passive:true});
+
+    el.addEventListener('touchmove', e=>{
+      if(isPinching && e.touches.length===2){
+        e.preventDefault();
+        const d=dist(e.touches), m=mid(e.touches);
+        scale *= d/lastDist; lastDist=d;
+        applyTransform();
+      } else if(isDragging && e.touches.length===1){
+        e.preventDefault();
+        tx = (e.touches[0].clientX - startX) / (el.offsetWidth/1000) * -1;
+        ty = (e.touches[0].clientY - startY) / (el.offsetHeight/560) * -1;
+        applyTransform();
+      }
+    },{passive:false});
+
+    el.addEventListener('touchend', e=>{
+      if(e.touches.length<2) isPinching=false;
+      if(e.touches.length===0) isDragging=false;
+    },{passive:true});
+  }
+
+  // Init after DOM ready
+  document.addEventListener('DOMContentLoaded', init);
+  setTimeout(init, 1000);
+})();
+
 // ═══════════════════════════════════════════════════════ MAP MARKERS
 function project(lat,lng){
   const x=((lng+180)/360)*1000;
