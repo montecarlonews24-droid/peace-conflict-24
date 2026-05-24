@@ -1748,18 +1748,24 @@ function renderNewsFeed(){
   const el=document.getElementById('news-feed');
   if(!el) return;
   const headlines = getActiveHeadlines();
-  const sorted = [...headlines].sort((a,b) => new Date(b.date||0) - new Date(a.date||0)).slice(0, 30);
+  const sorted = [...headlines]
+    .map(h => ({...h, importance: getImportanceScore(h.text)}))
+    .sort((a,b) => b.importance !== a.importance ? b.importance - a.importance : new Date(b.date||0) - new Date(a.date||0))
+    .slice(0, 30);
   el.innerHTML = sorted.map((h, i) => {
     const col = getSourceColor(h.src) || '#f59e0b';
     const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : (i+1)*2;
     const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
     const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
+    const impBadge = h.importance >= 6 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
+                     h.importance >= 4 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
     return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'}">
       <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
       <div style="flex:1;min-width:0">
-        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+        <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;flex-wrap:wrap">
           <span style="color:${col};font-weight:700;font-size:10px">${h.src||'P&C24'}</span>
           <span style="color:var(--muted);font-size:9px;font-family:var(--font-mono)">${timeLabel}</span>
+          ${impBadge}
         </div>
         <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.45">${h.text}</div>
       </div>
@@ -2743,13 +2749,30 @@ function getRelativeTime(dateStr) {
 }
 
 // Override renderNewsFeed to use live data
+function getImportanceScore(text) {
+  const t = (text || '').toLowerCase();
+  let score = 0;
+  // High priority keywords
+  const critical = ['war','attack','strike','missile','nuclear','bomb','explosion','killed','dead','coup','invasion','ceasefire','sanctions','nato','un security','emergency'];
+  const high = ['conflict','military','troops','forces','government','president','minister','crisis','threat','tension','iran','russia','ukraine','israel','china','north korea'];
+  const medium = ['protest','election','deal','agreement','talks','diplomat','economic','oil','gas','sanction'];
+  critical.forEach(k => { if (t.includes(k)) score += 3; });
+  high.forEach(k => { if (t.includes(k)) score += 2; });
+  medium.forEach(k => { if (t.includes(k)) score += 1; });
+  return score;
+}
+
 function renderNewsFeedLive() {
   const el = document.getElementById('news-feed');
   if (!el) return;
   const headlines = getActiveHeadlines();
-  // Sort by date newest first, show 30 headlines
+  // Sort by importance score first, then by date for equal scores
   const sorted = [...headlines]
-    .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
+    .map(h => ({...h, importance: getImportanceScore(h.text)}))
+    .sort((a,b) => {
+      if (b.importance !== a.importance) return b.importance - a.importance;
+      return new Date(b.date||0) - new Date(a.date||0);
+    })
     .slice(0, 30);
 
   el.innerHTML = sorted.map((h, i) => {
@@ -2757,12 +2780,15 @@ function renderNewsFeedLive() {
     const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : i+1;
     const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
     const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
+    const impBadge = h.importance >= 6 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
+                     h.importance >= 4 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
     return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'};transition:background .15s" onmouseover="this.style.background='rgba(255,255,255,.03)'" onmouseout="this.style.background=''">
       <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
       <div style="flex:1;min-width:0">
-        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+        <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;flex-wrap:wrap">
           <span style="color:${col};font-weight:700;font-size:10px;white-space:nowrap">${h.src||''}</span>
           <span style="color:var(--muted);font-size:9px;font-family:var(--font-mono)">${timeLabel}</span>
+          ${impBadge}
         </div>
         <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.45">${h.text}</div>
       </div>
