@@ -2612,30 +2612,49 @@ async function fetchOneFeed(feed) {
 }
 
 async function loadAllRSSFeeds() {
-  const results = await Promise.allSettled(RSS_FEEDS.map(f => fetchOneFeed(f)));
   const headlines = [];
   let loaded = 0;
-  results.forEach((r, i) => {
-    if (r.status === 'fulfilled') {
-      headlines.push(...r.value);
-      loaded++;
+  const results = new Array(RSS_FEEDS.length).fill({status:'pending'});
+
+  // Load in batches of 15 to avoid overwhelming the network
+  const BATCH_SIZE = 15;
+  for (let i = 0; i < RSS_FEEDS.map.length || i < RSS_FEEDS.length; i += BATCH_SIZE) {
+    const batch = RSS_FEEDS.slice(i, i + BATCH_SIZE);
+    const batchResults = await Promise.allSettled(batch.map(f => fetchOneFeed(f)));
+    batchResults.forEach((r, j) => {
+      results[i + j] = r;
+      if (r.status === 'fulfilled') {
+        headlines.push(...r.value);
+        loaded++;
+        // Update UI progressively after each batch
+        if (headlines.length > 0) {
+          headlines.sort((a,b) => new Date(b.date) - new Date(a.date));
+          liveHeadlines = [...headlines];
+          rssLoaded = true;
+          renderTicker();
+          renderNewsFeed();
+          renderNewsChips();
+        }
+      }
+    });
+    // Small delay between batches to avoid rate limiting
+    if (i + BATCH_SIZE < RSS_FEEDS.length) {
+      await new Promise(r => setTimeout(r, 300));
     }
-  });
+  }
+
   if (headlines.length > 0) {
-    // Sort by date, newest first
     headlines.sort((a,b) => new Date(b.date) - new Date(a.date));
     liveHeadlines = headlines;
     rssLoaded = true;
-    // Update NEWS_SOURCES display
     updateNewsSourcesUI(results);
-    // Re-render ticker and news feed with live data
     renderTicker();
     renderNewsFeed();
     renderNewsChips();
     showToast('🔴 LIVE — ' + liveHeadlines.length + ' headlines · ' + loaded + ' sources');
     console.log('[RSS] Loaded', liveHeadlines.length, 'headlines from', loaded, 'sources');
   } else {
-    showToast('⚠️ RSS failed — ' + results.filter(r=>r.status==='rejected').length + ' errors');
+    showToast('⚠️ RSS failed — using cached data');
     console.warn('[RSS] All feeds failed');
   }
 }
