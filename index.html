@@ -1337,7 +1337,8 @@ const NEWS_SOURCES = [
   {id:'ch',   name:'Chatham House', col:'#a78bfa', fullname:'Chatham House'},
 ];
 
-const CONFLICTS = [
+window.CONFLICTS = window.CONFLICTS || [];
+const CONFLICTS = window.CONFLICTS = [
   {id:1, riskScore:91, riskDelta:3,  region:'Eastern Europe', loc:'Ukraine / Russia',    status:'critical', lat:52.1, lng:30.9,  news:28, upd:'1m',  desc:'Active armed conflict. Artillery exchanges reported along eastern front lines.'},
   {id:2, riskScore:88, riskDelta:-1,  region:'Middle East',    loc:'Gaza / Israel',       status:'critical', lat:31.9, lng:35.2,  news:35, upd:'2m',  desc:'Ongoing military operations. Humanitarian corridor negotiations continuing.'},
   {id:3, riskScore:62, riskDelta:5,  region:'South Asia',     loc:'Kashmir',             status:'high',     lat:33.7, lng:76.4,  news:14, upd:'5m',  desc:'Cross-border shelling incidents. Diplomatic talks at stalemate.'},
@@ -3758,7 +3759,7 @@ function renderLeaderboard() {
   const el = document.getElementById('lb-list');
   if (!el) return;
 
-  const sorted = [...CONFLICTS].sort((a,b) => (b.riskScore||0) - (a.riskScore||0));
+  const sorted = [...(window.CONFLICTS||[])].sort((a,b) => (b.riskScore||0) - (a.riskScore||0));
   const maxScore = sorted[0]?.riskScore || 100;
 
   // Header
@@ -5422,9 +5423,9 @@ function openLeaderboardModal() {
   const modal = document.getElementById('leaderboard-modal');
   const content = document.getElementById('lb-modal-content');
   if (!modal || !content) return;
-  const sorted = [...CONFLICTS].sort((a,b) => b.score - a.score);
+  const sorted = [...(window.CONFLICTS||[])].sort((a,b) => b.riskScore - a.riskScore);
   content.innerHTML = sorted.map((c,i) => {
-    const col = c.score>=85?'#ef4444':c.score>=70?'#f97316':'#f59e0b';
+    const col = c.riskScore>=85?'#ef4444':c.riskScore>=70?'#f97316':'#f59e0b';
     const medal = i===0?'🥇':i===1?'🥈':i===2?'🥉':'';
     return `<div onclick="document.getElementById('leaderboard-modal').classList.add('hidden');openZone(${c.id},'map');goScreen('map')"
       style="display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--bg1);border:1px solid var(--border);border-radius:10px;margin-bottom:8px;cursor:pointer">
@@ -5433,7 +5434,7 @@ function openLeaderboardModal() {
         <div style="font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.loc}</div>
         <div style="font-size:10px;color:var(--muted);font-family:var(--font-mono)">${c.region}</div>
       </div>
-      <div style="font-family:var(--font-mono);font-size:22px;font-weight:900;color:${col}">${c.score}</div>
+      <div style="font-family:var(--font-mono);font-size:22px;font-weight:900;color:${col}">${c.riskScore}</div>
     </div>`;
   }).join('');
   modal.classList.remove('hidden');
@@ -5443,10 +5444,10 @@ function openHeatmapModal() {
   const modal = document.getElementById('heatmap-modal');
   const content = document.getElementById('hm-modal-content');
   if (!modal || !content) return;
-  const regions = [...new Set(CONFLICTS.map(c=>c.region))];
+  const regions = [...new Set((window.CONFLICTS||[]).map(c=>c.region))];
   content.innerHTML = regions.map(r => {
-    const cs = CONFLICTS.filter(c=>c.region===r);
-    const avg = Math.round(cs.reduce((s,c)=>s+c.score,0)/cs.length);
+    const cs = (window.CONFLICTS||[]).filter(c=>c.region===r);
+    const avg = Math.round(cs.reduce((s,c)=>s+c.riskScore,0)/cs.length);
     const col = avg>=85?'#ef4444':avg>=70?'#f97316':avg>=50?'#f59e0b':'#22c55e';
     return `<div style="background:var(--bg1);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:10px">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
@@ -5459,8 +5460,8 @@ function openHeatmapModal() {
       <div style="display:flex;flex-wrap:wrap;gap:4px">
         ${cs.sort((a,b)=>b.score-a.score).map(c=>`
           <span onclick="document.getElementById('heatmap-modal').classList.add('hidden');openZone(${c.id},'map');goScreen('map')"
-            style="font-size:9px;padding:3px 7px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);border-radius:4px;font-family:var(--font-mono);cursor:pointer;color:${c.score>=85?'#ef4444':c.score>=70?'#f97316':'var(--text)'}">
-            ${c.loc.length>16?c.loc.slice(0,15)+'…':c.loc} <b>${c.score}</b>
+            style="font-size:9px;padding:3px 7px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);border-radius:4px;font-family:var(--font-mono);cursor:pointer;color:${c.riskScore>=85?'#ef4444':c.riskScore>=70?'#f97316':'var(--text)'}">
+            ${c.loc.length>16?c.loc.slice(0,15)+'…':c.loc} <b>${c.riskScore}</b>
           </span>`).join('')}
       </div>
     </div>`;
