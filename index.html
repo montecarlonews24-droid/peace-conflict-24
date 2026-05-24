@@ -55,7 +55,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 
 /* HEADER */
 .app-header{background:linear-gradient(180deg,rgba(4,8,18,1) 0%,rgba(8,15,30,.98) 100%);border-bottom:1px solid rgba(252,163,17,.15);padding:10px 12px;flex-shrink:0;display:flex;justify-content:space-between;align-items:center;position:relative;box-sizing:border-box;width:100%;gap:6px;box-shadow:0 2px 20px rgba(0,0,0,.4)}
-.app-header::after{content:'';position:absolute;bottom:-1px;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,var(--amber),transparent)}
+.app-header::after{display:none}
 .app-title{font-family:var(--font-head);font-size:22px;font-weight:900;letter-spacing:.05em;background:linear-gradient(135deg,#ffd166,var(--amber),var(--orange));-webkit-background-clip:text;-webkit-text-fill-color:transparent;line-height:1}
 .app-sub{font-size:9px;color:var(--dim);letter-spacing:.1em;text-transform:uppercase;margin-top:2px;font-family:var(--font-mono)}
 
@@ -2425,7 +2425,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 
 // ═══════════════════════════════════════════════════════════
-// LIVE RSS NEWS SYSTEM — 12 free global sources
+// LIVE RSS NEWS SYSTEM — 150+ free global sources
 // Uses rss2json.com as CORS proxy (free, no key needed)
 // ═══════════════════════════════════════════════════════════
 const RSS_FEEDS = [
@@ -2466,6 +2466,132 @@ const RSS_FEEDS = [
   {name:'African Arguments', col:'#f9a825', url:'https://africanarguments.org/feed/'},
   {name:'Asia Times',    col:'#6a1b9a', url:'https://asiatimes.com/feed/'},
   {name:'The Wire',      col:'#1b5e20', url:'https://thewire.in/feed'},
+  /* ── NEW SOURCES ── */
+  {name:'Foreign Affairs',  col:'#1a237e', url:'https://www.foreignaffairs.com/rss.xml'},
+  {name:'CFR',              col:'#0d47a1', url:'https://www.cfr.org/rss/rss-all.xml'},
+  {name:'Brookings',        col:'#1565c0', url:'https://www.brookings.edu/feed/'},
+  {name:'RAND',             col:'#283593', url:'https://www.rand.org/blog.xml'},
+  {name:'Wilson Center',    col:'#4a148c', url:'https://www.wilsoncenter.org/rss.xml'},
+  {name:'Carnegie Endowment',col:'#880e4f',url:'https://carnegieendowment.org/rss/solr/articles/'},
+  {name:'IISS',             col:'#bf360c', url:'https://www.iiss.org/rss'},
+  {name:'Global Issues',    col:'#33691e', url:'https://www.globalissues.org/news/feed'},
+  {name:'Defense One',      col:'#37474f', url:'https://www.defenseone.com/rss/all/'},
+  {name:'19FortyFive',      col:'#4e342e', url:'https://www.19fortyfive.com/feed/'},
+  {name:'Kyiv Independent', col:'#0057b7', url:'https://kyivindependent.com/feed/'},
+  {name:'Moscow Times',     col:'#b71c1c', url:'https://www.themoscowtimes.com/rss/news'},
+  {name:'Dawn Pakistan',    col:'#004d40', url:'https://www.dawn.com/feeds/home'},
+  {name:'The Hindu',        col:'#880e4f', url:'https://www.thehindu.com/news/international/feeder/default.rss'},
+  {name:'Haaretz',          col:'#1a237e', url:'https://www.haaretz.com/cmlink/1.628764'},
+  {name:'Turkey Tribune',   col:'#e65100', url:'https://www.turkeytribune.com/feed/'},
+  {name:'Arab Weekly',      col:'#1b5e20', url:'https://thearabweekly.com/feed'},
+  {name:'Africa Report',    col:'#f57f17', url:'https://www.theafricareport.com/feed/'},
+  {name:'AllAfrica',        col:'#2e7d32', url:'https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf'},
+  {name:'Latin America Rep',col:'#6a1b9a', url:'https://www.latinnews.com/feed/'},
+  {name:'RSIS Singapore',   col:'#0277bd', url:'https://www.rsis.edu.sg/rss/'},
+  {name:'East Asia Forum',  col:'#00695c', url:'https://www.eastasiaforum.org/feed/'},
+  {name:'The Conversation', col:'#4527a0', url:'https://theconversation.com/global/articles.atom'},
+  {name:'Just Security',    col:'#bf360c', url:'https://www.justsecurity.org/feed/'},
+  {name:'Lawfare',          col:'#1a237e', url:'https://www.lawfaremedia.org/feed'},
+  {name:'PassBlue (UN)',    col:'#0277bd', url:'https://www.passblue.com/feed/'},
+  {name:'Inter Press Service',col:'#2e7d32',url:'http://www.ipsnews.net/news/feed/'},
+  {name:'Responsible Statecraft',col:'#880e4f',url:'https://responsiblestatecraft.org/feed/'},
+  {name:'The New Arab',     col:'#e65100', url:'https://www.newarab.com/rss.xml'},
+  {name:'OCHA ReliefWeb',   col:'#0288d1', url:'https://reliefweb.int/updates/rss.xml'},
+  {name:'MSF',              col:'#e53935', url:'https://www.msf.org/rss'},
+  {name:'Human Rights Watch',col:'#c62828',url:'https://www.hrw.org/rss/en'},
+  {name:'Amnesty Intl',     col:'#ffeb3b', url:'https://www.amnesty.org/en/feed/'},
+  {name:'ICRC',             col:'#e53935', url:'https://www.icrc.org/en/rss'},
+  {name:'NATO Watch',       col:'#1565c0', url:'https://natowatch.org/feed'},
+  {name:'EU Observer',      col:'#1a237e', url:'https://euobserver.com/rss.xml'},
+  {name:'Politico Europe',  col:'#c62828', url:'https://www.politico.eu/feed/'},
+  {name:'EURACTIV',         col:'#003399', url:'https://www.euractiv.com/feed/'},
+  {name:'Nikkei Asia',      col:'#e53935', url:'https://asia.nikkei.com/rss/feed/nar'},
+  {name:'Japan Times',      col:'#c62828', url:'https://www.japantimes.co.jp/feed/'},
+  {name:'Straits Times',    col:'#e65100', url:'https://www.straitstimes.com/news/world/rss.xml'},
+  /* ── BATCH 3: 70 MORE SOURCES ── */
+  /* Americas */
+  {name:'NY Times World',   col:'#333333', url:'https://rss.nytimes.com/services/xml/rss/nyt/World.xml'},
+  {name:'Washington Post',  col:'#000000', url:'https://feeds.washingtonpost.com/rss/world'},
+  {name:'Miami Herald',     col:'#c62828', url:'https://www.miamiherald.com/news/nation-world/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true'},
+  {name:'Americas Quarterly',col:'#1565c0',url:'https://www.americasquarterly.org/feed/'},
+  {name:'NACLA',            col:'#e65100', url:'https://nacla.org/rss.xml'},
+  /* Europe */
+  {name:'EUobserver',       col:'#003399', url:'https://euobserver.com/rss.xml'},
+  {name:'Deutsche Welle Pol',col:'#10b981',url:'https://rss.dw.com/rdf/rss-en-pol'},
+  {name:'The Local Europe', col:'#2196f3', url:'https://www.thelocal.com/feed/'},
+  {name:'Balkan Insight',   col:'#e53935', url:'https://balkaninsight.com/feed/'},
+  {name:'EurAsia Daily',    col:'#7b1fa2', url:'https://eadaily.com/en/rss'},
+  {name:'Intellinews',      col:'#1a237e', url:'https://www.intellinews.com/rss/'},
+  /* Russia & CIS */
+  {name:'TASS English',     col:'#1565c0', url:'https://tass.com/rss/v2.xml'},
+  {name:'RT World',         col:'#c62828', url:'https://www.rt.com/rss/news/'},
+  {name:'Meduza',           col:'#6200ea', url:'https://meduza.io/rss/all'},
+  {name:'Eurasianet',       col:'#00695c', url:'https://eurasianet.org/rss.xml'},
+  /* Middle East */
+  {name:'Al Arabiya',       col:'#c62828', url:'https://english.alarabiya.net/tools/rss'},
+  {name:'The National UAE', col:'#1565c0', url:'https://www.thenationalnews.com/rss'},
+  {name:'Gulf News',        col:'#e65100', url:'https://gulfnews.com/rss'},
+  {name:'Jordan Times',     col:'#1b5e20', url:'https://www.jordantimes.com/rss/feeds'},
+  {name:'Lebanon Daily Star',col:'#c62828',url:'https://www.dailystar.com.lb/rss/latestnews.xml'},
+  {name:'Kurdistan 24',     col:'#f57f17', url:'https://www.kurdistan24.net/en/rss.xml'},
+  {name:'Iran International',col:'#1a237e',url:'https://www.iranintl.com/en/rss'},
+  {name:'Yemen Monitor',    col:'#2e7d32', url:'https://www.yemenmonitor.com/feed/'},
+  /* Africa */
+  {name:'Mail & Guardian',  col:'#1b5e20', url:'https://mg.co.za/feed/'},
+  {name:'Daily Maverick',   col:'#c62828', url:'https://www.dailymaverick.co.za/feed/'},
+  {name:'The East African', col:'#f57f17', url:'https://www.theeastafrican.co.ke/tea/feed'},
+  {name:'Premium Times NG', col:'#1565c0', url:'https://www.premiumtimesng.com/feed'},
+  {name:'Sahel Eye',        col:'#e65100', url:'https://saheleye.com/feed/'},
+  {name:'ISS Africa',       col:'#6a1b9a', url:'https://issafrica.org/rss'},
+  /* Asia Pacific */
+  {name:'The Irrawaddy',    col:'#c62828', url:'https://www.irrawaddy.com/feed'},
+  {name:'Benar News',       col:'#1565c0', url:'https://www.benarnews.org/rss'},
+  {name:'Radio Free Asia',  col:'#0288d1', url:'https://www.rfa.org/english/rss2.xml'},
+  {name:'Pakistan Tribune', col:'#1b5e20', url:'https://tribune.com.pk/feed/'},
+  {name:'Afghan Voice',     col:'#c62828', url:'https://www.khaama.com/feed/'},
+  {name:'Tibetan Review',   col:'#e65100', url:'https://www.tibetanreview.net/feed/'},
+  {name:'Taiwan News',      col:'#1565c0', url:'https://www.taiwannews.com.tw/en/rss'},
+  {name:'38 North (Korea)', col:'#37474f', url:'https://www.38north.org/feed/'},
+  /* Think Tanks & Analysis */
+  {name:'USIP',             col:'#1565c0', url:'https://www.usip.org/rss.xml'},
+  {name:'Atlantic Council', col:'#003087', url:'https://www.atlanticcouncil.org/feed/'},
+  {name:'ECFR',             col:'#003399', url:'https://ecfr.eu/feed/'},
+  {name:'SIPRI',            col:'#1b5e20', url:'https://www.sipri.org/rss.xml'},
+  {name:'Stimson Center',   col:'#6a1b9a', url:'https://www.stimson.org/feed/'},
+  {name:'CSIS',             col:'#1565c0', url:'https://www.csis.org/feed'},
+  {name:'Jamestown Found',  col:'#c62828', url:'https://jamestown.org/feed/'},
+  {name:'FPRI',             col:'#1a237e', url:'https://www.fpri.org/feed/'},
+  {name:'Small Wars Journal',col:'#37474f',url:'https://smallwarsjournal.com/rss.xml'},
+  {name:'Modern War Institute',col:'#4e342e',url:'https://mwi.westpoint.edu/feed/'},
+  /* Intelligence & Security */
+  {name:'Recorded Future',  col:'#e53935', url:'https://www.recordedfuture.com/feed'},
+  {name:'Cipher Brief',     col:'#1a237e', url:'https://www.thecipherbrief.com/feed'},
+  {name:'Spytalk',          col:'#37474f', url:'https://www.spytalk.co/feed'},
+  {name:'Intel Today',      col:'#0288d1', url:'https://silview.media/feed/'},
+  /* Humanitarian & Rights */
+  {name:'ReliefWeb Updates',col:'#0288d1', url:'https://reliefweb.int/headlines/rss.xml'},
+  {name:'UNHCR News',       col:'#00bcd4', url:'https://www.unhcr.org/rss.xml'},
+  {name:'WFP News',         col:'#ff9800', url:'https://www.wfp.org/rss'},
+  {name:'Crisis Group Alert',col:'#4527a0',url:'https://www.crisisgroup.org/crisiswatch/rss.xml'},
+  /* Energy & Economy */
+  {name:'OilPrice.com',     col:'#37474f', url:'https://oilprice.com/rss/main'},
+  {name:'Energy Monitor',   col:'#2e7d32', url:'https://www.energymonitor.ai/feed/'},
+  {name:'Sanctions & Law',  col:'#1a237e', url:'https://www.sanctionsnews.com/feed/'},
+  /* Special Focus */
+  {name:'Nuclear Threat',   col:'#c62828', url:'https://www.nti.org/feed/'},
+  {name:'Arms Control Assoc',col:'#1565c0',url:'https://www.armscontrol.org/rss.xml'},
+  {name:'Cybersecurity News',col:'#37474f',url:'https://cybersecuritynews.com/feed/'},
+  {name:'Dark Reading',     col:'#000000', url:'https://www.darkreading.com/rss.xml'},
+  {name:'The Sentry',       col:'#e65100', url:'https://thesentry.org/feed/'},
+  {name:'Organized Crime',  col:'#880e4f', url:'https://globalinitiative.net/feed/'},
+  {name:'Drug Enforcement', col:'#1b5e20', url:'https://www.insigtcrime.org/feed/'},
+  {name:'Global Witness',   col:'#2e7d32', url:'https://www.globalwitness.org/en/feed/'},
+  {name:'Open Democracy',   col:'#6200ea', url:'https://www.opendemocracy.net/en/rss.xml'},
+  {name:'Project Syndicate',col:'#1a237e', url:'https://www.project-syndicate.org/rss'},
+  {name:'The Interpreter',  col:'#0288d1', url:'https://www.lowyinstitute.org/the-interpreter/rss'},
+  {name:'Al Monitor Iraq',  col:'#00796b', url:'https://www.al-monitor.com/rss/topics/iraq'},
+  {name:'Geopolitical Intel',col:'#1a237e',url:'https://geopoliticalintelligence.com/feed/'},
+  {name:'Security Council Rep',col:'#0288d1',url:'https://www.securitycouncilreport.org/feed/'},
 ];
 
 let liveHeadlines = [];
