@@ -23,7 +23,7 @@
   --font-body:'Exo 2','Segoe UI',Arial,sans-serif;
   --font-mono:'Share Tech Mono','Courier New',monospace;
 }
-html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--font-body);overflow:hidden;touch-action:manipulation}
+html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--font-body);overflow:hidden;touch-action:pan-x pan-y}
 
 /* SCROLLBAR */
 ::-webkit-scrollbar{width:3px;height:3px}
@@ -120,7 +120,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 @keyframes cpulse{0%,100%{opacity:1;box-shadow:0 0 0 0 currentColor}50%{opacity:.6;box-shadow:0 0 6px 3px currentColor}}
 
 /* MAP */
-.map-container{background:#0d1117;position:relative;flex-shrink:0;width:100%;overflow:hidden;max-width:100%}
+.map-container{background:#0d1117;position:relative;flex-shrink:0;width:100%;overflow:hidden;max-width:100%;touch-action:pinch-zoom}
 .map-container svg{display:block;width:100%;max-width:100%}
 .map-overlay-legend{padding:8px 12px;background:rgba(7,13,26,.95);border-bottom:1px solid var(--border);display:flex;flex-wrap:wrap;gap:10px}
 .leg-item{display:flex;align-items:center;gap:5px;font-family:var(--font-mono);font-size:10px;color:var(--muted)}
