@@ -352,9 +352,10 @@ select{background:var(--bg3);border:1px solid var(--border);border-radius:8px;pa
 /* ── PRESS SCREEN ── */
 .region-tab{flex-shrink:0;padding:6px 12px;background:rgba(17,28,51,.7);border:1px solid var(--border);border-radius:20px;font-family:var(--font-mono);font-size:10px;color:var(--muted);cursor:pointer;transition:.2s;white-space:nowrap}
 .region-tab.active{background:rgba(252,163,17,.15);border-color:var(--amber);color:var(--amber)}
-.press-item{background:linear-gradient(135deg,rgba(12,21,40,.9),rgba(8,15,30,.8));border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:12px 14px;margin-bottom:8px;cursor:pointer;transition:.2s}
+.press-item{display:block;width:100%;box-sizing:border-box;background:linear-gradient(135deg,rgba(12,21,40,.9),rgba(8,15,30,.8));border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:12px 14px;margin-bottom:8px;cursor:pointer;transition:.2s}
 .press-item:active{transform:scale(.99)}
 .press-source-badge{font-family:var(--font-mono);font-size:9px;font-weight:700;padding:2px 7px;border-radius:4px;letter-spacing:.04em}
+#press-feed{display:block !important}
 
 /* ── BREAKING BANNER ── */
 #breaking-banner{position:fixed;top:0;left:0;right:0;z-index:1200;background:linear-gradient(90deg,#7b0000,#e63946,#7b0000);padding:8px 14px;display:flex;align-items:center;gap:10px;transform:translateY(-100%);transition:transform .4s cubic-bezier(.4,0,.2,1)}
@@ -772,7 +773,7 @@ CONFLICT
 /* ── PRESS SCREEN ── */
 .region-tab{flex-shrink:0;padding:6px 12px;background:rgba(17,28,51,.7);border:1px solid var(--border);border-radius:20px;font-family:var(--font-mono);font-size:10px;color:var(--muted);cursor:pointer;transition:.2s;white-space:nowrap}
 .region-tab.active{background:rgba(252,163,17,.15);border-color:var(--amber);color:var(--amber)}
-.press-item{background:linear-gradient(135deg,rgba(12,21,40,.9),rgba(8,15,30,.8));border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:12px 14px;margin-bottom:8px;cursor:pointer;transition:.2s}
+.press-item{display:block;width:100%;box-sizing:border-box;background:linear-gradient(135deg,rgba(12,21,40,.9),rgba(8,15,30,.8));border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:12px 14px;margin-bottom:8px;cursor:pointer;transition:.2s}
 .press-item:active{transform:scale(.99)}
 .press-source-badge{font-family:var(--font-mono);font-size:9px;font-weight:700;padding:2px 7px;border-radius:4px;letter-spacing:.04em}
 
@@ -4143,6 +4144,21 @@ function renderPressFeed() {
     return;
   }
 
+  // ترتيب حسب heat (riskScore النزاع المرتبط) + الأهمية + التاريخ
+  const getHeatScore = (h) => {
+    const conflict = CONFLICTS.find(c =>
+      h.text.toLowerCase().includes(c.loc.toLowerCase().split('/')[0].trim().slice(0,5))
+    );
+    const riskScore = conflict ? (conflict.riskScore || 0) : 0;
+    const imp = typeof getImportanceScore === 'function' ? getImportanceScore(h.text) : 0;
+    // heat = riskScore النزاع (الوزن الأكبر) + imp*3 كعامل ثانوي
+    return riskScore + (imp * 3);
+  };
+
+  filtered = filtered
+    .map(h => ({...h, heatScore: getHeatScore(h), importance: typeof getImportanceScore === 'function' ? getImportanceScore(h.text) : 0}))
+    .sort((a, b) => b.heatScore !== a.heatScore ? b.heatScore - a.heatScore : new Date(b.date||0) - new Date(a.date||0));
+
   const sourceColors = {
     'Al Jazeera':'#f59e0b','Anadolu Agency':'#e11d48','UN News':'#3b82f6',
     'DW World':'#10b981','France 24':'#ef4444','Sky News':'#06b6d4',
@@ -4159,14 +4175,19 @@ function renderPressFeed() {
       h.text.toLowerCase().includes(c.loc.toLowerCase().split('/')[0].trim().slice(0,5))
     );
     const link = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
+    const imp = h.importance || 0;
+    const heat = h.heatScore || 0;
+    const impBadge = imp >= 6 || heat >= 85 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🔴 CRITICAL</span>` :
+                     imp >= 4 || heat >= 65 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🟠 HIGH</span>` : '';
 
     return `<div class="press-item" ${link}>
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
-        <div style="display:flex;align-items:center;gap:6px">
+        <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
           ${h.src ? `<span class="press-source-badge" style="background:${col}18;color:${col};border:1px solid ${col}30">${h.src}</span>` : ''}
           ${relatedConflict ? `<span style="font-family:var(--font-mono);font-size:8px;color:${riskScoreColor(relatedConflict.riskScore||50)};background:${riskScoreGlow(relatedConflict.riskScore||50)}0.1);border-radius:4px;padding:1px 5px">${relatedConflict.riskScore}</span>` : ''}
+          ${impBadge}
         </div>
-        <span style="font-family:var(--font-mono);font-size:9px;color:var(--dim)">${timeLabel}</span>
+        <span style="font-family:var(--font-mono);font-size:9px;color:var(--dim);white-space:nowrap;margin-left:6px">${timeLabel}</span>
       </div>
       <div style="font-size:13px;font-weight:600;color:var(--text);line-height:1.5">${h.text}</div>
       ${h.link ? `<div style="font-family:var(--font-mono);font-size:9px;color:var(--muted);margin-top:5px">↗ Read full article</div>` : ''}
