@@ -662,8 +662,8 @@ CONFLICT
         <!-- MAP TOOLBAR as overlay -->
         <div style="position:absolute;top:6px;left:0;right:0;z-index:20;display:flex;justify-content:center;gap:4px;padding:0 6px">
           <button id="map-view-map" class="region-tab active" onclick="setMapView('map')" style="padding:4px 7px;font-size:9px">🗺️ Map</button>
-          <button id="map-view-lb"  class="region-tab" onclick="setMapView('leaderboard')" style="padding:4px 7px;font-size:9px">🏆 Leaderboard</button>
-          <button id="map-view-heat" class="region-tab" onclick="setMapView('heatmap')" style="padding:4px 7px;font-size:9px">🔥 Heat</button>
+          <button id="map-view-lb"  class="region-tab" onclick="openLeaderboardModal()" style="padding:4px 7px;font-size:9px">🏆 Leaderboard</button>
+          <button id="map-view-heat" class="region-tab" onclick="openHeatmapModal()" style="padding:4px 7px;font-size:9px">🔥 Heat</button>
           <button class="region-tab" onclick="openCompare()" style="padding:4px 7px;font-size:9px">⚔️ Compare</button>
           <button class="region-tab" onclick="openWatchlist()" style="padding:4px 7px;font-size:9px">📍 Watch</button>
         </div>
@@ -5393,5 +5393,76 @@ window.fbStopPolling = function() {
   if(window._chatPollInterval) { clearInterval(window._chatPollInterval); window._chatPollInterval = null; }
 };
 </script>
+
+<!-- Leaderboard Modal -->
+<div id="leaderboard-modal" style="display:none;position:fixed;inset:0;z-index:950;background:#040810;flex-direction:column">
+  <div style="background:var(--bg1);border-bottom:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;flex-shrink:0">
+    <div style="font-family:var(--font-head);font-size:15px;font-weight:700;color:var(--amber)">🏆 Risk Leaderboard</div>
+    <button onclick="document.getElementById('leaderboard-modal').style.display='none'" style="margin-left:auto;background:none;border:none;color:var(--muted);font-size:22px;cursor:pointer;line-height:1">✕</button>
+  </div>
+  <div id="lb-modal-content" style="flex:1;overflow-y:auto;padding:12px"></div>
+</div>
+
+<!-- Heatmap Modal -->
+<div id="heatmap-modal" style="display:none;position:fixed;inset:0;z-index:950;background:#040810;flex-direction:column">
+  <div style="background:var(--bg1);border-bottom:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;flex-shrink:0">
+    <div style="font-family:var(--font-head);font-size:15px;font-weight:700;color:var(--amber)">🔥 Risk Heatmap</div>
+    <button onclick="document.getElementById('heatmap-modal').style.display='none'" style="margin-left:auto;background:none;border:none;color:var(--muted);font-size:22px;cursor:pointer;line-height:1">✕</button>
+  </div>
+  <div id="hm-modal-content" style="flex:1;overflow-y:auto;padding:12px"></div>
+</div>
+
+<script>
+function openLeaderboardModal() {
+  const modal = document.getElementById('leaderboard-modal');
+  const content = document.getElementById('lb-modal-content');
+  if (!modal || !content) return;
+  const sorted = [...CONFLICTS].sort((a,b) => b.score - a.score);
+  content.innerHTML = sorted.map((c,i) => {
+    const col = c.score>=85?'#ef4444':c.score>=70?'#f97316':'#f59e0b';
+    const medal = i===0?'🥇':i===1?'🥈':i===2?'🥉':'';
+    return `<div onclick="document.getElementById('leaderboard-modal').style.display='none';openZone(${c.id},'map');goScreen('map')"
+      style="display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--bg1);border:1px solid var(--border);border-radius:10px;margin-bottom:8px;cursor:pointer">
+      <div style="font-family:var(--font-mono);font-size:14px;font-weight:900;color:var(--muted);min-width:30px;text-align:center">${medal||'#'+(i+1)}</div>
+      <div style="flex:1;min-width:0">
+        <div style="font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${c.loc}</div>
+        <div style="font-size:10px;color:var(--muted);font-family:var(--font-mono)">${c.region}</div>
+      </div>
+      <div style="font-family:var(--font-mono);font-size:22px;font-weight:900;color:${col}">${c.score}</div>
+    </div>`;
+  }).join('');
+  modal.style.display = 'flex';
+}
+
+function openHeatmapModal() {
+  const modal = document.getElementById('heatmap-modal');
+  const content = document.getElementById('hm-modal-content');
+  if (!modal || !content) return;
+  const regions = [...new Set(CONFLICTS.map(c=>c.region))];
+  content.innerHTML = regions.map(r => {
+    const cs = CONFLICTS.filter(c=>c.region===r);
+    const avg = Math.round(cs.reduce((s,c)=>s+c.score,0)/cs.length);
+    const col = avg>=85?'#ef4444':avg>=70?'#f97316':avg>=50?'#f59e0b':'#22c55e';
+    return `<div style="background:var(--bg1);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:10px">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <div style="font-size:13px;font-weight:700">${r}</div>
+        <div style="font-family:var(--font-mono);font-size:18px;font-weight:900;color:${col}">${avg}</div>
+      </div>
+      <div style="height:8px;background:rgba(255,255,255,.07);border-radius:4px;overflow:hidden;margin-bottom:8px">
+        <div style="height:100%;width:${avg}%;background:${col};border-radius:4px"></div>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:4px">
+        ${cs.sort((a,b)=>b.score-a.score).map(c=>`
+          <span onclick="document.getElementById('heatmap-modal').style.display='none';openZone(${c.id},'map');goScreen('map')"
+            style="font-size:9px;padding:3px 7px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);border-radius:4px;font-family:var(--font-mono);cursor:pointer;color:${c.score>=85?'#ef4444':c.score>=70?'#f97316':'var(--text)'}">
+            ${c.loc.length>16?c.loc.slice(0,15)+'…':c.loc} <b>${c.score}</b>
+          </span>`).join('')}
+      </div>
+    </div>`;
+  }).join('');
+  modal.style.display = 'flex';
+}
+</script>
+
 </body>
 </html>
