@@ -1847,76 +1847,69 @@ function renderMapConflictList(){
 // ═══════════════════════════════════════════════════════ MAP PINCH ZOOM
 (function(){
   let scale=1, tx=0, ty=0;
-  let startDist=0, startScale=1;
-  let startTx=0, startTy=0, startMidX=0, startMidY=0;
+  let startDist=0, startScale=1, startTx=0, startTy=0;
   let dragStartX=0, dragStartY=0, dragTx=0, dragTy=0;
   let isDragging=false, isPinching=false;
+  let target=null, container=null;
 
-  function apply(el){
-    el.style.transform = `translate(${tx}px,${ty}px) scale(${scale})`;
-    el.style.transformOrigin = '0 0';
+  function apply(){
+    if(!target) return;
+    target.style.transform = `translate(${tx}px,${ty}px) scale(${scale})`;
+    target.style.transformOrigin = '0 0';
   }
 
-  function clamp(el){
+  function clamp(){
+    if(!container) return;
     scale = Math.max(1, Math.min(8, scale));
-    const maxX = el.offsetWidth*(scale-1);
-    const maxY = el.offsetHeight*(scale-1);
+    const maxX = container.offsetWidth*(scale-1);
+    const maxY = container.offsetHeight*(scale-1);
     tx = Math.max(-maxX, Math.min(0, tx));
     ty = Math.max(-maxY, Math.min(0, ty));
   }
 
   function init(){
-    const container = document.querySelector('.map-container');
+    container = document.querySelector('.map-container');
+    // Target is the div wrapping the SVG (position:relative div)
     const svg = document.getElementById('world-map-base');
     if(!container || !svg) return;
-
-    // Wrap SVG in zoomable div
-    const wrap = svg.parentElement;
-    wrap.style.overflow = 'hidden';
-    svg.style.transition = 'none';
-    svg.style.willChange = 'transform';
+    target = svg.parentElement; // the position:relative wrapper
+    target.style.willChange = 'transform';
 
     container.addEventListener('touchstart', e=>{
       if(e.touches.length===2){
-        isPinching = true; isDragging = false;
+        isPinching=true; isDragging=false;
         startDist = Math.hypot(
-          e.touches[0].clientX - e.touches[1].clientX,
-          e.touches[0].clientY - e.touches[1].clientY
+          e.touches[0].clientX-e.touches[1].clientX,
+          e.touches[0].clientY-e.touches[1].clientY
         );
-        startScale = scale;
-        startTx = tx; startTy = ty;
-        startMidX = (e.touches[0].clientX + e.touches[1].clientX)/2;
-        startMidY = (e.touches[0].clientY + e.touches[1].clientY)/2;
+        startScale=scale; startTx=tx; startTy=ty;
       } else if(e.touches.length===1){
-        isDragging = true; isPinching = false;
-        dragStartX = e.touches[0].clientX;
-        dragStartY = e.touches[0].clientY;
-        dragTx = tx; dragTy = ty;
+        isDragging=true; isPinching=false;
+        dragStartX=e.touches[0].clientX; dragStartY=e.touches[0].clientY;
+        dragTx=tx; dragTy=ty;
       }
     },{passive:true});
 
     container.addEventListener('touchmove', e=>{
       if(isPinching && e.touches.length===2){
         e.preventDefault();
-        const d = Math.hypot(
-          e.touches[0].clientX - e.touches[1].clientX,
-          e.touches[0].clientY - e.touches[1].clientY
+        const d=Math.hypot(
+          e.touches[0].clientX-e.touches[1].clientX,
+          e.touches[0].clientY-e.touches[1].clientY
         );
-        scale = startScale * (d / startDist);
-        clamp(container);
-        apply(svg);
+        scale = startScale*(d/startDist);
+        clamp(); apply();
       } else if(isDragging && e.touches.length===1 && scale>1){
         e.preventDefault();
-        tx = dragTx + (e.touches[0].clientX - dragStartX);
-        ty = dragTy + (e.touches[0].clientY - dragStartY);
-        clamp(container);
-        apply(svg);
+        tx = dragTx+(e.touches[0].clientX-dragStartX);
+        ty = dragTy+(e.touches[0].clientY-dragStartY);
+        clamp(); apply();
       }
     },{passive:false});
 
     container.addEventListener('touchend', e=>{
-      if(e.touches.length < 2) isPinching = false;
-      if(e.touches.length === 0) isDragging = false;
+      if(e.touches.length<2) isPinching=false;
+      if(e.touches.length===0) isDragging=false;
     },{passive:true});
   }
 
