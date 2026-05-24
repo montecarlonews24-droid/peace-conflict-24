@@ -4159,6 +4159,14 @@ function renderPressFeed() {
     .map(h => ({...h, heatScore: getHeatScore(h), importance: typeof getImportanceScore === 'function' ? getImportanceScore(h.text) : 0}))
     .sort((a, b) => b.heatScore !== a.heatScore ? b.heatScore - a.heatScore : new Date(b.date||0) - new Date(a.date||0));
 
+  // حد أقصى 3 أخبار لكل مصدر
+  const srcCount = {};
+  filtered = filtered.filter(h => {
+    const s = h.src || 'unknown';
+    srcCount[s] = (srcCount[s] || 0) + 1;
+    return srcCount[s] <= 3;
+  });
+
   const sourceColors = {
     'Al Jazeera':'#f59e0b','Anadolu Agency':'#e11d48','UN News':'#3b82f6',
     'DW World':'#10b981','France 24':'#ef4444','Sky News':'#06b6d4',
