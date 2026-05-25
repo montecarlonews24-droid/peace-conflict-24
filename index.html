@@ -1600,6 +1600,8 @@ function loginUser(user){
     joined:user.joined||new Date().toISOString().slice(0,10)
   })); } catch(e){}
   document.getElementById('auth-screen').classList.remove('active');
+  const fab = document.getElementById('ai-chat-fab');
+  if (fab) fab.style.display = 'flex';
   document.getElementById('main-app').classList.remove('hidden');
   document.getElementById('support-fab').classList.remove('hidden');
   if(user.isAdmin){ addAdminNav(); }
@@ -2229,6 +2231,9 @@ function goScreen(name){
     if(nb) nb.classList.toggle('active',s===name);
   });
   STATE.currentScreen=name;
+  // إخفاء ASK AI على شاشة Login فقط
+  const fab = document.getElementById('ai-chat-fab');
+  if (fab) fab.style.display = name === 'auth' ? 'none' : '';
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
   if(name==='chat'){ window.open('chat.html','_blank'); return; }
@@ -5424,7 +5429,7 @@ async function generatePDFReport() {
 </div>
 
 <button id="ai-chat-fab" onclick="openAIChat()"
-  style="position:fixed;left:14px;bottom:calc(140px + env(safe-area-inset-bottom));z-index:300;background:linear-gradient(135deg,#0d1929,#1a2d4a);border:1.5px solid var(--amber);border-radius:14px;padding:7px 12px;cursor:pointer;display:flex;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(252,163,17,.2);font-family:var(--font-mono);font-size:10px;color:var(--amber);font-weight:700">
+  style="display:none;position:fixed;left:14px;bottom:calc(140px + env(safe-area-inset-bottom));z-index:300;background:linear-gradient(135deg,#0d1929,#1a2d4a);border:1.5px solid var(--amber);border-radius:14px;padding:7px 12px;cursor:pointer;align-items:center;gap:6px;box-shadow:0 4px 16px rgba(252,163,17,.2);font-family:var(--font-mono);font-size:10px;color:var(--amber);font-weight:700">
   🛡️ ASK AI
 </button>
 
