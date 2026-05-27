@@ -120,7 +120,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 @keyframes cpulse{0%,100%{opacity:1;box-shadow:0 0 0 0 currentColor}50%{opacity:.6;box-shadow:0 0 6px 3px currentColor}}
 
 /* MAP */
-.map-container{background:#0d1117;position:relative;flex-shrink:0;width:100%;overflow:hidden;max-width:100%;touch-action:pinch-zoom}
+.map-container{background:#0d1117;position:relative;flex-shrink:0;width:100%;overflow:visible;max-width:100%;touch-action:pinch-zoom}
 .map-container svg{display:block;width:100%;max-width:100%}
 .map-overlay-legend{padding:8px 12px;background:rgba(7,13,26,.95);border-bottom:1px solid var(--border);display:flex;flex-wrap:wrap;gap:10px}
 .leg-item{display:flex;align-items:center;gap:5px;font-family:var(--font-mono);font-size:10px;color:var(--muted)}
@@ -661,17 +661,16 @@ CONFLICT
 
       <!-- ─── MAP SCREEN ─── -->
     <div id="scr-map" class="screen scroll-area" style="background:var(--bg0)">
-      <!-- MAP TABS - outside map container for proper scroll -->
-      <div style="display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;gap:6px;padding:8px 10px 4px;background:var(--bg0)">
-        <button id="map-view-map" class="region-tab active" onclick="setMapView('map')" style="padding:6px 10px;font-size:13px;flex-shrink:0">🗺️ Map</button>
-        <button id="map-view-lb"  class="region-tab" onclick="openLeaderboardModal()" style="padding:6px 10px;font-size:13px;flex-shrink:0">🏆 Leaderboard</button>
-        <button id="map-view-heat" class="region-tab" onclick="openHeatmapModal()" style="padding:6px 10px;font-size:13px;flex-shrink:0">🔥 Heat</button>
-        <button class="region-tab" onclick="openCompare()" style="padding:6px 10px;font-size:13px;flex-shrink:0">⚔️ Compare</button>
-        <button class="region-tab" onclick="openWatchlist()" style="padding:6px 10px;font-size:13px;flex-shrink:0">📍 Watch</button>
-      </div>
-      <!-- MAP VIEW -->
+      <!-- MAP TABS -->
       <div id="mv-map">
       <div class="map-container">
+        <div style="position:absolute;top:6px;left:0;right:0;z-index:20;display:flex;gap:4px;padding:0 6px;overflow-x:scroll;-webkit-overflow-scrolling:touch;scrollbar-width:none;-ms-overflow-style:none">
+          <button id="map-view-map" class="region-tab active" onclick="setMapView('map')" style="padding:4px 8px;font-size:13px;flex-shrink:0;min-width:fit-content">🗺️ Map</button>
+          <button id="map-view-lb"  class="region-tab" onclick="openLeaderboardModal()" style="padding:4px 8px;font-size:13px;flex-shrink:0;min-width:fit-content">🏆 Leaderboard</button>
+          <button id="map-view-heat" class="region-tab" onclick="openHeatmapModal()" style="padding:4px 8px;font-size:13px;flex-shrink:0;min-width:fit-content">🔥 Heat</button>
+          <button class="region-tab" onclick="openCompare()" style="padding:4px 8px;font-size:13px;flex-shrink:0;min-width:fit-content">⚔️ Compare</button>
+          <button class="region-tab" onclick="openWatchlist()" style="padding:4px 8px;font-size:13px;flex-shrink:0;min-width:fit-content">📍 Watch</button>
+        </div>
         <div style="position:absolute;bottom:6px;left:6px;z-index:10;background:rgba(4,8,18,.75);border:1px solid rgba(255,255,255,.08);border-radius:8px;padding:3px 10px;display:flex;align-items:center;gap:8px;pointer-events:none">
           <div class="update-dot"></div>
           <span class="update-txt" style="font-size:9px">Live conflict data</span>
