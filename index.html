@@ -37,9 +37,9 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 
 /* TICKER */
 #ticker-bar{background:rgba(4,8,18,.98);border-top:1px solid rgba(230,57,70,.6);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:46px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
-.ticker-live-tag{background:var(--red);color:#fff;font-family:var(--font-mono);font-size:14px;font-weight:900;letter-spacing:.1em;padding:0 14px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1}
+.ticker-live-tag{background:var(--red);color:#fff;font-family:var(--font-mono);font-size:11px;font-weight:900;letter-spacing:.1em;padding:0 7px;height:24px;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1;border-radius:0 4px 4px 0;margin:auto 0}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
-.ticker-inner{display:flex;align-items:center;animation:ticker 120s linear infinite;white-space:nowrap;will-change:transform}
+.ticker-inner{display:flex;align-items:center;animation:ticker 220s linear infinite;white-space:nowrap;will-change:transform}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:17px;color:var(--muted)}
 .tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
@@ -2757,7 +2757,7 @@ function renderTickerLive() {
 
   // Resume animation from current position without resetting
   const totalWidth = el.scrollWidth / 2;
-  const duration = 180;
+  const duration = 220;
   const progress = totalWidth > 0 ? Math.abs(currentX) / totalWidth : 0;
   const delay = progress > 0 ? -(progress * duration) : 0;
 
@@ -4304,7 +4304,7 @@ function initWorldRiskIndex() {
 
     regEl.innerHTML = sorted.map(({r, avg}) => `
       <div class="wri-region-row">
-        <div style="font-family:var(--font-mono);font-size:14px;color:var(--muted);width:100px;flex-shrink:0">${r}</div>
+        <div style="font-family:var(--font-mono);font-size:14px;color:var(--muted);width:120px;flex-shrink:0;white-space:nowrap">${r}</div>
         <div class="wri-region-bar">
           <div style="height:100%;width:${avg}%;background:${riskScoreColor(avg)};border-radius:2px"></div>
         </div>
