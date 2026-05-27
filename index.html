@@ -2735,7 +2735,7 @@ function renderTickerLive() {
     ...[...headlines, ...headlines].map(h => {
       const col = h.col || getSourceColor(h.src);
       const timeLabel = h.date ? getRelativeTime(h.date) : '';
-      const srcLabel = h.src ? `<span style="color:var(--red);font-weight:700;font-size:13px">[${h.src}]</span> ` : '';
+      const srcLabel = h.src ? `<span style="color:var(--red);font-weight:700;font-size:15px">[${h.src}]</span> ` : '';
       const link = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
       return `<span class="tick-item" ${link}>${srcLabel}<span style="color:var(--dim);font-size:11px;margin-right:4px">${timeLabel}</span>${h.text}<span class="tick-sep">◆</span></span>`;
     })
