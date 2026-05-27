@@ -75,7 +75,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 .stat-card{background:linear-gradient(145deg,rgba(17,28,51,.95),rgba(10,18,38,.9));border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:14px 12px;position:relative;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,.3)}
 .stat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,var(--accent,var(--amber)),transparent);border-radius:2px 2px 0 0}
 .stat-n{font-family:var(--font-head);font-size:32px;font-weight:900;color:var(--accent,var(--amber));line-height:1;letter-spacing:-.01em;text-shadow:0 0 20px rgba(252,163,17,.2)}
-.stat-l{font-family:var(--font-mono);font-size:11px;color:var(--muted);margin-top:6px;text-transform:uppercase;letter-spacing:.1em;line-height:1.4}
+.stat-l{font-family:var(--font-mono);font-size:13px;color:var(--muted);margin-top:6px;text-transform:uppercase;letter-spacing:.1em;line-height:1.4}
 
 /* BUTTONS */
 .btn{border:none;cursor:pointer;font-family:var(--font-body);font-weight:700;border-radius:10px;transition:.15s;display:flex;align-items:center;justify-content:center;gap:7px}
@@ -368,7 +368,7 @@ select{background:var(--bg3);border:1px solid var(--border);border-radius:8px;pa
 /* ── WORLD RISK INDEX ── */
 .wri-card{background:linear-gradient(135deg,rgba(230,57,70,.06),rgba(10,18,35,.95));border:1px solid rgba(230,57,70,.25);border-radius:16px;padding:16px;margin:10px 12px;cursor:pointer;transition:.2s}
 .wri-score{font-family:var(--font-head);font-size:56px;font-weight:900;line-height:1;text-align:center}
-.wri-label{font-family:var(--font-mono);font-size:13px;letter-spacing:.12em;text-align:center;margin-top:4px}
+.wri-label{font-family:var(--font-mono);font-size:15px;letter-spacing:.12em;text-align:center;margin-top:4px}
 .wri-bar-wrap{height:8px;background:rgba(255,255,255,.08);border-radius:4px;overflow:hidden;margin:10px 0}
 .wri-region-row{display:flex;align-items:center;gap:8px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.04)}
 .wri-region-bar{flex:1;height:4px;background:rgba(255,255,255,.06);border-radius:2px;overflow:hidden}
@@ -589,7 +589,7 @@ CONFLICT
       <!-- News source chips -->
       <!-- ── WORLD RISK INDEX ── -->
       <div class="wri-card" onclick="openDailyBriefing()">
-        <div style="font-family:var(--font-mono);font-size:12px;color:var(--muted);letter-spacing:.1em;text-align:center;margin-bottom:8px">🌍 WORLD RISK INDEX</div>
+        <div style="font-family:var(--font-mono);font-size:14px;color:var(--muted);letter-spacing:.1em;text-align:center;margin-bottom:8px">🌍 WORLD RISK INDEX</div>
         <div class="wri-score" id="wri-score" style="color:#e63946">—</div>
         <div class="wri-label" id="wri-label" style="color:var(--muted)">Calculating...</div>
         <div class="wri-bar-wrap">
@@ -787,7 +787,7 @@ CONFLICT
 /* ── WORLD RISK INDEX ── */
 .wri-card{background:linear-gradient(135deg,rgba(230,57,70,.06),rgba(10,18,35,.95));border:1px solid rgba(230,57,70,.25);border-radius:16px;padding:16px;margin:10px 12px;cursor:pointer;transition:.2s}
 .wri-score{font-family:var(--font-head);font-size:56px;font-weight:900;line-height:1;text-align:center}
-.wri-label{font-family:var(--font-mono);font-size:13px;letter-spacing:.12em;text-align:center;margin-top:4px}
+.wri-label{font-family:var(--font-mono);font-size:15px;letter-spacing:.12em;text-align:center;margin-top:4px}
 .wri-bar-wrap{height:8px;background:rgba(255,255,255,.08);border-radius:4px;overflow:hidden;margin:10px 0}
 .wri-region-row{display:flex;align-items:center;gap:8px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.04)}
 .wri-region-bar{flex:1;height:4px;background:rgba(255,255,255,.06);border-radius:2px;overflow:hidden}
@@ -4304,11 +4304,11 @@ function initWorldRiskIndex() {
 
     regEl.innerHTML = sorted.map(({r, avg}) => `
       <div class="wri-region-row">
-        <div style="font-family:var(--font-mono);font-size:12px;color:var(--muted);width:100px;flex-shrink:0">${r}</div>
+        <div style="font-family:var(--font-mono);font-size:14px;color:var(--muted);width:100px;flex-shrink:0">${r}</div>
         <div class="wri-region-bar">
           <div style="height:100%;width:${avg}%;background:${riskScoreColor(avg)};border-radius:2px"></div>
         </div>
-        <div style="font-family:var(--font-mono);font-size:12px;font-weight:700;color:${riskScoreColor(avg)};width:28px;text-align:right">${avg}</div>
+        <div style="font-family:var(--font-mono);font-size:14px;font-weight:700;color:${riskScoreColor(avg)};width:28px;text-align:right">${avg}</div>
       </div>`).join('');
   }
 }
