@@ -36,12 +36,12 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 .screen.active{opacity:1;pointer-events:all}
 
 /* TICKER */
-#ticker-bar{background:rgba(4,8,18,.98);border-top:1px solid rgba(230,57,70,.6);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:42px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
+#ticker-bar{background:rgba(4,8,18,.98);border-top:1px solid rgba(230,57,70,.6);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:46px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
 .ticker-live-tag{background:var(--red);color:#fff;font-family:var(--font-mono);font-size:11px;font-weight:700;letter-spacing:.08em;padding:0 12px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
 .ticker-inner{display:flex;align-items:center;animation:ticker 120s linear infinite;white-space:nowrap;will-change:transform}
 .ticker-inner:hover{animation-play-state:paused}
-.tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:15px;color:var(--muted)}
+.tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:17px;color:var(--muted)}
 .tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
 .tick-sep{color:var(--border2)}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
