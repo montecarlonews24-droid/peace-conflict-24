@@ -2854,7 +2854,7 @@ document.addEventListener('DOMContentLoaded', function() {
           if (data.items && data.items.length > 0) {
             // تحقق أن البيانات ليست قديمة أكثر من ساعتين
             const age = Date.now() - new Date(data.updated).getTime();
-            if (age < 2 * 60 * 60 * 1000) {
+            if (age < 12 * 60 * 60 * 1000) {
               liveHeadlines = data.items;
               rssLoaded = true;
               renderTickerLive();
