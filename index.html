@@ -2837,11 +2837,49 @@ document.addEventListener('DOMContentLoaded', function() {
   // Replace render functions with live-aware versions
   window.renderTicker = renderTickerLive;
   window.renderNewsFeed = renderNewsFeedLive;
-  
-  // Start loading RSS feeds
-  loadAllRSSFeeds().catch(e => console.warn('[RSS] Load failed:', e));
-  
-  // Refresh every 5 minutes
+
+  // ── FAST LOAD: جلب ticker.json أولاً (فوري) ثم RSS كاملاً في الخلفية ──
+  async function loadTickerCache() {
+    try {
+      // جرب GitHub Pages أولاً، ثم Vercel كـ fallback
+      const urls = [
+        'https://montecarlonews24-droid.github.io/peace-conflict-24/ticker.json',
+        '/ticker.json'
+      ];
+      for (const url of urls) {
+        try {
+          const r = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
+          if (!r.ok) continue;
+          const data = await r.json();
+          if (data.items && data.items.length > 0) {
+            // تحقق أن البيانات ليست قديمة أكثر من ساعتين
+            const age = Date.now() - new Date(data.updated).getTime();
+            if (age < 2 * 60 * 60 * 1000) {
+              liveHeadlines = data.items;
+              rssLoaded = true;
+              renderTickerLive();
+              renderNewsFeedLive();
+              console.log('[TICKER] Loaded', data.items.length, 'cached headlines instantly');
+              return true;
+            }
+          }
+        } catch(e) { continue; }
+      }
+    } catch(e) {}
+    return false;
+  }
+
+  // تسلسل التحميل: cache أولاً → ثم RSS كامل في الخلفية
+  loadTickerCache().then(cacheLoaded => {
+    // سواء نجح الـ cache أم لا، نحمّل RSS كامل في الخلفية
+    // إذا نجح الـ cache نأخر RSS قليلاً حتى لا يثقل التحميل الأول
+    const delay = cacheLoaded ? 3000 : 0;
+    setTimeout(() => {
+      loadAllRSSFeeds().catch(e => console.warn('[RSS] Load failed:', e));
+    }, delay);
+  });
+
+  // تحديث كل 5 دقائق
   setInterval(() => {
     loadAllRSSFeeds().catch(() => {});
   }, 5 * 60 * 1000);
