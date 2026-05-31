@@ -1,0 +1,111 @@
+name: Fetch Ticker News
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # كل 30 دقيقة
+  workflow_dispatch:           # تشغيل يدوي من GitHub
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS feeds
+        run: |
+          node -e "
+          const https = require('https');
+          const http = require('http');
+          const fs = require('fs');
+
+          const FEEDS = [
+            {name:'Al Jazeera',    col:'#f59e0b', url:'https://www.aljazeera.com/xml/rss/all.xml'},
+            {name:'BBC World',     col:'#bb1919', url:'https://feeds.bbci.co.uk/news/world/rss.xml'},
+            {name:'Reuters',       col:'#ff8000', url:'https://feeds.reuters.com/reuters/worldNews'},
+            {name:'DW World',      col:'#10b981', url:'https://rss.dw.com/rdf/rss-en-world'},
+            {name:'France 24',     col:'#ef4444', url:'https://www.france24.com/en/rss'},
+            {name:'UN News',       col:'#3b82f6', url:'https://news.un.org/feed/subscribe/en/news/all/rss.xml'},
+            {name:'Sky News',      col:'#06b6d4', url:'https://feeds.skynews.com/feeds/rss/world.xml'},
+            {name:'The Guardian',  col:'#005689', url:'https://www.theguardian.com/world/rss'},
+            {name:'Arab News',     col:'#006400', url:'https://www.arabnews.com/rss.xml'},
+            {name:'Middle East Eye',col:'#00a651',url:'https://www.middleeasteye.net/rss'},
+            {name:'Foreign Policy',col:'#1a73e8', url:'https://foreignpolicy.com/feed/'},
+            {name:'RFI',           col:'#8b5cf6', url:'https://www.rfi.fr/en/international/rss'},
+            {name:'CNA',           col:'#84cc16', url:'https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml'},
+          ];
+
+          function fetchUrl(url) {
+            return new Promise((resolve, reject) => {
+              const lib = url.startsWith('https') ? https : http;
+              const req = lib.get(url, {
+                headers: {'User-Agent': 'Mozilla/5.0 RSS Reader'},
+                timeout: 8000
+              }, (res) => {
+                if (res.statusCode === 301 || res.statusCode === 302) {
+                  fetchUrl(res.headers.location).then(resolve).catch(reject);
+                  return;
+                }
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve(data));
+              });
+              req.on('error', reject);
+              req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
+            });
+          }
+
+          function parseRSS(xml, feed) {
+            const items = [];
+            const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+            let match;
+            while ((match = itemRegex.exec(xml)) !== null) {
+              const block = match[1];
+              const title = (block.match(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '';
+              const link  = (block.match(/<link[^>]*>([^<]+)<\/link>/) || [])[1] || '';
+              const date  = (block.match(/<pubDate[^>]*>([^<]+)<\/pubDate>/) || [])[1] || new Date().toISOString();
+              const clean = title.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'\"').trim();
+              if (clean.length > 10) {
+                items.push({ src: feed.name, col: feed.col, text: clean, link: link.trim(), date });
+              }
+              if (items.length >= 8) break;
+            }
+            return items;
+          }
+
+          async function main() {
+            const all = [];
+            for (const feed of FEEDS) {
+              try {
+                const xml = await fetchUrl(feed.url);
+                const items = parseRSS(xml, feed);
+                all.push(...items);
+                console.log('OK:', feed.name, items.length, 'items');
+              } catch(e) {
+                console.log('FAIL:', feed.name, e.message);
+              }
+            }
+
+            all.sort((a,b) => new Date(b.date) - new Date(a.date));
+            const top = all.slice(0, 100);
+
+            const out = {
+              updated: new Date().toISOString(),
+              count: top.length,
+              items: top
+            };
+
+            fs.writeFileSync('ticker.json', JSON.stringify(out, null, 2));
+            console.log('Saved', top.length, 'headlines to ticker.json');
+          }
+
+          main().catch(e => { console.error(e); process.exit(1); });
+          "
+
+      - name: Commit ticker.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ticker.json
+          git diff --staged --quiet || git commit -m "chore: update ticker.json [skip ci]"
+          git push
