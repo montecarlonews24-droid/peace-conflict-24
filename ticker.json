@@ -1,20 +1,286 @@
 {
-  "updated": "2026-06-02T13:00:00.002Z",
-  "count": 72,
+  "updated": "2026-06-02T22:13:37.537Z",
+  "count": 63,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
-      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 12:46:36 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: China has become a tech superpower, so why is its economy slowing?",
+      "link": "https://www.channelnewsasia.com/commentary/china-tech-superpower-economy-slow-stock-market-6149586",
+      "date": "Wed, 03 Jun 2026 06:00:00 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Kostyuk comes out on top in all-Ukrainian match to reach last four in Paris",
-      "link": "https://www.channelnewsasia.com/sport/kostyuk-comes-out-top-in-all-ukrainian-match-reach-last-four-in-paris-6156751",
-      "date": "Tue, 02 Jun 2026 20:41:39 +0800"
+      "text": "IN FOCUS: With landfills almost full, Indonesia grapples with ‘ticking time bomb’ of waste crisis",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-waste-crisis-bali-jakarta-environment-6141746",
+      "date": "Wed, 03 Jun 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: The biggest losers from Trump&#039;s tariffs? Americans",
+      "link": "https://www.channelnewsasia.com/commentary/trump-liberation-day-tariffs-companies-raise-prices-suppress-wages-6155896",
+      "date": "Wed, 03 Jun 2026 05:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Should FIFA do more to protect players from World Cup heat?",
+      "link": "https://www.channelnewsasia.com/commentary/world-cup-2026-america-heat-fifa-football-player-performance-6155961",
+      "date": "Wed, 03 Jun 2026 05:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US top diplomat Rubio hopeful for Iran deal, insists on nuclear curbs",
+      "link": "https://www.channelnewsasia.com/world/us-top-diplomat-rubio-hopeful-iran-deal-insists-nuclear-curbs-6157586",
+      "date": "Wed, 03 Jun 2026 05:53:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 21:51:20 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US says it fired missile at Iran-bound oil tanker",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 21:49:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ferrari’s first electric car spooked investors, but the Luce may be less risky than it looks",
+      "link": "https://www.channelnewsasia.com/obsessions/ferrari-first-electric-car-luce-6153286",
+      "date": "Wed, 03 Jun 2026 05:49:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’",
+      "link": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 21:44:08 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump to speak at rescheduled White House correspondents' dinner",
+      "link": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
+      "date": "Tue, 02 Jun 2026 21:42:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ice-cool Mensik denies teenager Fonseca, reaches Paris semi-finals",
+      "link": "https://www.channelnewsasia.com/sport/ice-cool-mensik-denies-teenager-fonseca-reaches-paris-semi-finals-6157571",
+      "date": "Wed, 03 Jun 2026 05:27:46 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia 'trying to prevent Armenia's diversification of connectivity', expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260602-russia-trying-to-prevent-armenia-s-diversification-of-connectivity-expert-says",
+      "date": "Tue, 02 Jun 2026 21:27:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "World Cup could cost employers as workers tune into matches, survey finds",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-could-cost-employers-workers-tune-matches-survey-finds-6157536",
+      "date": "Wed, 03 Jun 2026 05:08:30 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Russia Pounds Ukraine With Missile, Drone Strikes",
+      "link": "https://foreignpolicy.com/2026/06/02/russia-drones-missiles-ukraine-kyiv-air-defense-systems/",
+      "date": "Tue, 02 Jun 2026 21:02:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia launches massive overnight attack on Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 21:01:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims",
+      "link": "https://www.aljazeera.com/news/2026/6/2/milestone-macron-opens-paris-monument-honouring-rwanda-genocide-victims?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 20:18:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Two killed in Kenya protests over US Ebola centre",
+      "link": "https://www.france24.com/en/two-killed-in-kenya-protests-over-us-ebola-centre",
+      "date": "Tue, 02 Jun 2026 20:15:57 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Two Senators Just Blew Up Trump’s Boat-Strike Justifications",
+      "link": "https://foreignpolicy.com/2026/06/02/kaine-paul-rubio-trump-drug-boat-strike-justification-latin-america/",
+      "date": "Tue, 02 Jun 2026 20:05:19 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "2026 World Cup: Are US stadiums unprepared? Viral Senegal ball bounce clip sparks pitch fears",
+      "link": "https://www.france24.com/en/2026-world-cup-are-us-stadiums-unprepared-viral-senegal-ball-bounce-clip-sparks-fearsa",
+      "date": "Tue, 02 Jun 2026 19:59:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What to know about Tuesday’s primaries in California, New Jersey, Montana",
+      "link": "https://www.aljazeera.com/news/2026/6/2/what-to-know-about-tuesdays-primaries-in-california-new-jersey-montana?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 19:58:09 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Football violence is about 'excitement' and 'proving one's masculinity', expert says",
+      "link": "https://www.france24.com/en/football-violence-is-about-excitement-and-proving-one-s-masculinity-expert-says",
+      "date": "Tue, 02 Jun 2026 19:53:26 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU strikes migration deal for more deportations and detention centers abroad",
+      "link": "https://www.france24.com/en/eu-strikes-migration-deal-for-more-deportations-and-detention-centers-abroad",
+      "date": "Tue, 02 Jun 2026 19:51:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Blue Origin failure sets back NASA lunar goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/blue-origin-failure-sets-back-nasa-lunar-goals?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 19:50:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Inside the billion-dollar business of getting a visa",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/2/aje-onl-tt_glb_vfs_video-020626?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 19:43:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain bans DR Congo World Cup warm-up due to Ebola fears",
+      "link": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 19:34:10 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
+      "link": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 19:28:55 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss",
+      "date": "Tue, 02 Jun 2026 19:26:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+      "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 19:24:31 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Gulf Crisis Is Forcing Japan Into an Energy Rethink",
+      "link": "https://foreignpolicy.com/2026/06/02/gulf-energy-iran-oil-crisis-japan-strategy-nuclear/",
+      "date": "Tue, 02 Jun 2026 19:21:06 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Macron unveils Rwanda genocide memorial in Paris, marking 'quest for truth'",
+      "link": "https://www.france24.com/en/france/20260602-macron-unveils-rwanda-genocide-memorial-in-paris-marking-quest-for-truth",
+      "date": "Tue, 02 Jun 2026 19:19:55 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 19:13:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'I can't breathe': Protesters attack police at UK rally over student murder",
+      "link": "https://www.france24.com/en/europe/20260602-i-can-t-breathe-outrage-violence-after-uk-police-handcuff-dying-student",
+      "date": "Tue, 02 Jun 2026 19:01:15 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+      "link": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 18:58:10 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
+      "link": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+      "date": "Tue, 02 Jun 2026 18:56:55 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "date": "Tue, 02 Jun 2026 18:13:20 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Cricket Canada suspended over allegations of gang-linked corruption",
+      "link": "https://www.theguardian.com/world/2026/jun/02/cricket-canada-suspension",
+      "date": "Tue, 02 Jun 2026 18:10:07 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+      "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 17:40:56 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 02 Jun 2026 16:04:18 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "British couple jailed in Iran lose appeal, family says",
+      "link": "https://news.sky.com/story/british-couple-jailed-in-iran-lose-appeal-family-says-13550152",
+      "date": "Tue, 02 Jun 2026 17:00:00 +0100"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU tightens migration rules, eyes strategic enlargement in Balkans",
+      "link": "https://www.rfi.fr/en/international/20260602-eu-tightens-migration-rules-eyes-strategic-enlargement-in-balkans",
+      "date": "Tue, 02 Jun 2026 15:31:06 GMT"
     },
     {
       "src": "Sky News",
@@ -24,146 +290,6 @@
       "date": "Tue, 02 Jun 2026 13:37:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Californians vote in fiercely contested gubernatorial and congressional primaries",
-      "link": "https://www.france24.com/en/americas/20260602-californians-vote-in-fiercely-contested-gubernatorial-and-congressional-primaries",
-      "date": "Tue, 02 Jun 2026 12:18:28 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Poland to ban phones in schools, restrict access to pornography",
-      "link": "https://www.channelnewsasia.com/business/poland-ban-phones-in-schools-restrict-access-pornography-6156711",
-      "date": "Tue, 02 Jun 2026 20:15:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "WHO says suspected Ebola cases drop to 116 after hundreds ruled out",
-      "link": "https://www.channelnewsasia.com/world/suspected-ebola-cases-drop-hundreds-ruled-out-who-6156651",
-      "date": "Tue, 02 Jun 2026 20:13:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK Athletics fined £350,000 over death of Paralympic athlete",
-      "link": "https://www.channelnewsasia.com/sport/uk-athletics-fined-ps350000-over-death-paralympic-athlete-6156681",
-      "date": "Tue, 02 Jun 2026 20:08:10 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Impulse Space raises $500 million at $4.26 billion valuation as space investing surges",
-      "link": "https://www.channelnewsasia.com/business/impulse-space-raises-500-million-426-billion-valuation-space-investing-surges-6156676",
-      "date": "Tue, 02 Jun 2026 20:05:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss",
-      "link": "https://www.aljazeera.com/sports/2026/6/2/southampton-back-spygate-eckert-despite-worlds-most-lucrative-game-miss?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 12:04:19 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Analysis:How a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap",
-      "link": "https://www.channelnewsasia.com/business/analysishow-nudge-nvidia-propelled-frugal-micron-ai-boom-and-1-trillion-market-cap-6156646",
-      "date": "Tue, 02 Jun 2026 20:02:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mamdani signs ‘executive order’ letting kids stay up late for NBA Finals",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mamdani-signs-executive-order-letting-kids-stay-up-late-for-nba-finals?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 12:00:46 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "El Niño confirmed, set to fuel more extreme weather, says WMO",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167620",
-      "date": "Tue, 02 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What are the FIFA World Cup 2026 squads for all 48 teams?",
-      "link": "https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-full-squads-48-teams-players?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:57:59 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta expands teen content controls globally, tests new Instagram tool to diversify feeds",
-      "link": "https://www.channelnewsasia.com/business/meta-expands-teen-content-controls-globally-tests-new-instagram-tool-diversify-feeds-6156641",
-      "date": "Tue, 02 Jun 2026 19:51:37 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran studying deal to halt war as stalemate persists",
-      "link": "https://www.channelnewsasia.com/world/iran-war-deal-terms-us-trump-strait-hormuz-lebanon-israel-6156551",
-      "date": "Tue, 02 Jun 2026 19:47:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/underground-drug-smuggling-tunnel-discovered-from-tijuana-to-san-diego?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:44:01 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 11:40:02 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Maga influencer admits London Tube station assault",
-      "link": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 11:35:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Every world leader who has visited China in 2026 in one chart",
-      "link": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:28:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
-      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:25:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says Israel, Hezbollah to stop fighting: What we know",
-      "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:21:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How social media is turning African life into content at a cost",
-      "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
-      "date": "Tue, 02 Jun 2026 11:19:10 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Peaky Blinders' star Joe Cole and director Clio Barnard on class, masculinity and modern Britain",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260602-peaky-blinders-star-joe-cole-and-director-clio-barnard-on-class-masculinity-and-modern-britain",
-      "date": "Tue, 02 Jun 2026 11:17:46 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
@@ -171,67 +297,11 @@
       "date": "Tue, 02 Jun 2026 12:16:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Japanese tech giant pledges massive investment for French data centres",
-      "link": "https://www.france24.com/en/video/20260602-japanese-tech-giant-pledges-massive-investment-for-french-data-centres",
-      "date": "Tue, 02 Jun 2026 11:04:16 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Israel Has a Growing Anti-Christian Problem",
       "link": "https://foreignpolicy.com/2026/06/02/israel-christian-violence-jerusalem-holy-land-nun-attack/",
       "date": "Tue, 02 Jun 2026 11:00:45 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Offshore detention hubs: Europe turns to Trump-style tactics on migration",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260602-offshore-detention-hubs-europe-turns-to-trump-style-tactics-on-migration",
-      "date": "Tue, 02 Jun 2026 11:00:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukrainian cities targeted by hundreds of drones as Russia intensifies attacks",
-      "link": "https://www.france24.com/en/video/20260602-ukrainian-cities-targeted-by-hundreds-of-russian-drones",
-      "date": "Tue, 02 Jun 2026 10:57:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-      "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 10:53:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "WWII internment of travellers: French survivors fight for recognition",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260602-wwii-internment-of-travellers-french-survivors-fight-for-recognition",
-      "date": "Tue, 02 Jun 2026 10:40:47 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Sabrina Carpenter gets restraining order against man who showed up at her home",
-      "link": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 10:18:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Armenia Prime minister refuses Moscow's pressure for EU referendum",
-      "link": "https://www.france24.com/en/video/20260602-armenia-prime-minister-refuses-moscow-s-pressure-for-eu-referendum",
-      "date": "Tue, 02 Jun 2026 10:17:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mexican police tear-gas teachers' protest 10 days before World Cup",
-      "link": "https://www.france24.com/en/video/20260602-mexican-police-tear-gas-teachers-protest-10-days-before-world-cup",
-      "date": "Tue, 02 Jun 2026 10:10:08 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -255,20 +325,6 @@
       "date": "Tue, 02 Jun 2026 08:00:42 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
-      "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 07:52:47 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 07:31:10 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
@@ -281,20 +337,6 @@
       "text": "Gulf states arrested over 1,000 for Iran war social media posts: Amnesty",
       "link": "https://www.rfi.fr/en/international/20260602-gulf-states-arrested-over-1-000-for-iran-war-social-media-posts-amnesty",
       "date": "Tue, 02 Jun 2026 06:34:35 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 02 Jun 2026 01:19:15 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Mexico City police teargas teachers’ protest 10 days before World Cup",
-      "link": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-      "date": "Mon, 01 Jun 2026 22:59:39 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -311,81 +353,11 @@
       "date": "Mon, 01 Jun 2026 20:15:41 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player",
-      "link": "https://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/",
-      "date": "Mon, 01 Jun 2026 17:04:21 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Epidemic of GPS Jamming",
-      "link": "https://foreignpolicy.com/2026/06/01/gps-jamming-hormuz-russia-baltic-aviation-shipping-trade/",
-      "date": "Mon, 01 Jun 2026 15:50:13 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Court rejects Rwanda €115mn claim against Britain over migrant deal",
       "link": "https://www.rfi.fr/en/international/20260601-court-rejects-rwanda-%E2%82%AC115mn-claim-against-britain-over-migrant-deal",
       "date": "Mon, 01 Jun 2026 15:09:06 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
-      "link": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
-      "date": "Mon, 01 Jun 2026 14:44:45 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Washington Wants Myanmar’s Minerals",
-      "link": "https://foreignpolicy.com/2026/06/01/trump-myanmar-minerals-democracy-rare-earth-junta/",
-      "date": "Mon, 01 Jun 2026 13:53:16 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167619",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167618",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Updates from Gaza, the West Bank and Afghanistan, UN development reforms, change at the top of WFP",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167617",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167616",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167615",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167613",
-      "date": "Mon, 01 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -430,27 +402,6 @@
       "date": "Mon, 01 Jun 2026 00:01:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'More than 45' killed after blast at building storing explosives in Myanmar",
-      "link": "https://news.sky.com/story/more-than-45-killed-after-blast-at-building-storing-explosives-in-myanmar-13549621",
-      "date": "Sun, 31 May 2026 21:13:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/story/champions-league-final-latest-arsenal-fans-out-in-force-in-budapest-as-their-team-face-psg-13549223?postid=11788075#liveblog-body'>Hundreds arrested across France during unrest after PSG win - as more than 50 officers injured</a>",
-      "link": "https://news.sky.com/story/hundreds-arrested-across-france-during-unrest-after-psg-win-as-more-than-50-officers-injured-13549601",
-      "date": "Sun, 31 May 2026 17:09:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
-      "link": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-      "date": "Sun, 31 May 2026 15:49:47 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France requests emergency UN meeting amid Israeli advance in Lebanon",
@@ -463,13 +414,6 @@
       "text": "Israel seizes Crusades-era fortress in Lebanon as it expands offensive",
       "link": "https://news.sky.com/story/israeli-forces-seize-strategically-important-crusades-era-fortress-in-lebanon-13549504",
       "date": "Sun, 31 May 2026 15:33:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Under fire, Kharkiv is already building for a peaceful tomorrow",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167611",
-      "date": "Sun, 31 May 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -498,13 +442,6 @@
       "text": "Hungary police say 'no grounds' to ban Budapest Pride parade",
       "link": "https://www.rfi.fr/en/international/20260529-hungary-police-say-no-grounds-to-ban-budapest-pride-parade",
       "date": "Fri, 29 May 2026 12:06:04 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France to investigate treatment of nationals on Gaza flotilla after reports of abuse",
-      "link": "https://www.rfi.fr/en/international/20260529-france-to-investigate-treatment-of-nationals-on-gaza-flotilla-after-reports-of-abuse",
-      "date": "Fri, 29 May 2026 11:36:37 GMT"
     }
   ]
 }
