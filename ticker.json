@@ -1,20 +1,272 @@
 {
-  "updated": "2026-06-05T11:51:10.021Z",
-  "count": 72,
+  "updated": "2026-06-05T18:29:50.110Z",
+  "count": 71,
   "items": [
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon crisis: needs soar as UN launches new funding appeal",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
-      "date": "Fri, 05 Jun 2026 12:00:00 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 18:16:15 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Singapore to ease restrictions on operating new hotels, hostels in heritage precincts at Boat Quay, Beach Road",
-      "link": "https://www.channelnewsasia.com/singapore/hotels-hostels-upper-circular-road-beach-road-chee-hong-tat-serviced-apartments-6162201",
-      "date": "Fri, 05 Jun 2026 19:43:00 +0800"
+      "text": "Mensik says facing Zverev at French Open felt like &#039;hitting a wall&#039;",
+      "link": "https://www.channelnewsasia.com/sport/mensik-says-facing-zverev-french-open-felt-hitting-wall-6165371",
+      "date": "Sat, 06 Jun 2026 02:15:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+      "link": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 18:12:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US judge blocks Trump restrictions on legal immigration",
+      "link": "https://www.channelnewsasia.com/world/us-judge-blocks-trump-restrictions-legal-immigration-6165331",
+      "date": "Sat, 06 Jun 2026 02:06:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
+      "link": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 18:04:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukraine and Russia exchange 185 prisoners of war each",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:54:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video shows moment Israeli air strike hits car in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/video-shows-moment-israeli-air-strike-hits-car-in-southern-lebanon?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:44:52 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Germany’s Merz says EU to initiate integration of Western Balkans",
+      "link": "https://www.aljazeera.com/news/2026/6/5/germanys-merz-says-eu-to-initiate-integration-of-western-balkans?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:40:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
+      "link": "https://www.aljazeera.com/news/2026/6/5/lawsuit-challenges-us-third-country-deportations-to-equatorial-guinea?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:35:36 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran World Cup players granted visas to enter the US, says White House official",
+      "link": "https://www.channelnewsasia.com/sport/iran-world-cup-players-granted-visas-enter-us-says-white-house-official-6165321",
+      "date": "Sat, 06 Jun 2026 01:29:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French diplomat in Mali sentenced to 20 years in prison for 'undermining state security'",
+      "link": "https://www.france24.com/en/africa/20260605-french-diplomat-in-mali-sentenced-to-20-years-in-prison-for-undermining-state-security",
+      "date": "Fri, 05 Jun 2026 17:28:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+      "link": "https://www.aljazeera.com/news/2026/6/5/an-ice-cream-parlour-survives-gazas-genocide-and-gives-seven-students-hope?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:25:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Norway's crown princess on lung transplant waiting list, palace says",
+      "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 17:11:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Taylor to bow out in style at &#039;Cathedral of Irish Sport&#039; in Dublin",
+      "link": "https://www.channelnewsasia.com/sport/taylor-bow-out-in-style-cathedral-irish-sport-in-dublin-6165296",
+      "date": "Sat, 06 Jun 2026 01:04:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Somalia declares order restored after two days of fighting in Mogadishu",
+      "link": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu?traffic_source=rss",
+      "date": "Fri, 05 Jun 2026 17:03:11 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+      "link": "https://www.channelnewsasia.com/business/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-6165261",
+      "date": "Sat, 06 Jun 2026 00:55:30 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Explainer-Why SpaceX faces a longer wait to join S&P 500",
+      "link": "https://www.channelnewsasia.com/business/explainer-why-spacex-faces-longer-wait-join-sp-500-6165266",
+      "date": "Sat, 06 Jun 2026 00:52:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran World Cup squad still in visa limbo 10 days before first match, ambassador says",
+      "link": "https://www.channelnewsasia.com/sport/iran-world-cup-squad-still-in-visa-limbo-10-days-first-match-ambassador-says-6165241",
+      "date": "Sat, 06 Jun 2026 00:48:45 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France probes judicial 'dysfunction' after murder of 11‑year‑old Lyhanna shocks nation",
+      "link": "https://www.france24.com/en/france/20260605-france-probes-judicial-dysfunction-after-suspected-murder-of-11%E2%80%91year%E2%80%91old-lyhanna",
+      "date": "Fri, 05 Jun 2026 16:47:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cobolli through to French Open final after Arnaldi withdraws due to illness",
+      "link": "https://www.channelnewsasia.com/sport/cobolli-through-french-open-final-after-arnaldi-withdraws-due-illness-6165246",
+      "date": "Sat, 06 Jun 2026 00:45:33 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/06/05/news-quiz-malta-election-japan-militarism-iran-peace-negotiations/",
+      "date": "Fri, 05 Jun 2026 16:26:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why is Paris's oldest bridge called the 'New Bridge'?",
+      "link": "https://www.france24.com/en/video/20260605-why-is-paris-s-oldest-bridge-called-the-new-bridge",
+      "date": "Fri, 05 Jun 2026 16:16:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Parisians will be able to swim for a second year in the Seine",
+      "link": "https://www.france24.com/en/france/20260605-parisians-will-be-able-to-swim-for-a-second-year-in-the-seine-france",
+      "date": "Fri, 05 Jun 2026 16:14:53 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 16:14:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+      "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 16:00:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zverev eases past Mensik in French Open semifinals, in striking distance of elusive Grand Slam title",
+      "link": "https://www.france24.com/en/sport/20260605-zverev-defeats-mensik-in-french-open-semifinals-and-nears-grand-slam-title",
+      "date": "Fri, 05 Jun 2026 15:55:11 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Myanmar’s Military Isn’t Conceding Much",
+      "link": "https://foreignpolicy.com/2026/06/05/myanmar-president-min-aung-hlaing-military-concessions/",
+      "date": "Fri, 05 Jun 2026 15:45:02 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Three jailed over heist of ancient golden helmet from Dutch museum",
+      "link": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 15:41:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine strikes cargo ships and admits Romania drone blast",
+      "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 05 Jun 2026 15:29:39 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Sleeping in Mexico, Playing in America",
+      "link": "https://foreignpolicy.com/2026/06/05/mexico-america-trump-iran-fifa-olympics-world-cup/",
+      "date": "Fri, 05 Jun 2026 15:11:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Holocaust remembrance: Newly discovered photos illustrate previously-unknown roundup of French Jews",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260605-holocaust-remembrance-newly-discovered-photos-illustrate-previously-unknown-roundup-of-french-jews",
+      "date": "Fri, 05 Jun 2026 15:11:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian drone explodes in Romanian sea port",
+      "link": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
+      "date": "Fri, 05 Jun 2026 15:09:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "NASA places ISS astronauts on evacuation alert as air leak worsens",
+      "link": "https://www.france24.com/en/science/20260605-nasa-places-iss-astronauts-on-evacuation-alert-as-air-leak-worsens",
+      "date": "Fri, 05 Jun 2026 15:01:13 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Does the United States Have the Weapons for Trade War?",
+      "link": "https://foreignpolicy.com/2026/06/05/trade-war-trump-china-economics/",
+      "date": "Fri, 05 Jun 2026 13:27:35 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "New &#163;386m plan to fight Ebola as number of cases rises",
+      "link": "https://news.sky.com/story/who-announces-163386m-plan-to-fight-ebola-outbreak-as-number-of-cases-rises-13551127",
+      "date": "Fri, 05 Jun 2026 13:45:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How Brazilian Soccer Shed Protectionism",
+      "link": "https://foreignpolicy.com/2026/06/05/brazil-soccer-world-cup-foreign-coach-protectionism/",
+      "date": "Fri, 05 Jun 2026 12:00:53 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: Harrowing needs must be met with long-term engagement",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167661",
+      "date": "Fri, 05 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon crisis: Needs soar as UN launches new funding appeal",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+      "date": "Fri, 05 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -24,160 +276,6 @@
       "date": "Fri, 05 Jun 2026 11:32:51 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Belgian Trossard raring to get started at World Cup",
-      "link": "https://www.channelnewsasia.com/sport/belgian-trossard-raring-get-started-world-cup-6164616",
-      "date": "Fri, 05 Jun 2026 19:22:07 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US-Iran war pushing millions into food crisis, warns UN",
-      "link": "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 11:21:14 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "India: Viral 'Cockroach' party to take message to the streets",
-      "link": "https://www.france24.com/en/video/20260605-india-viral-cockroach-party-to-take-message-to-the-streets",
-      "date": "Fri, 05 Jun 2026 11:20:20 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chwalinska&#039;s childhood dream and discipline drive fairytale French Open run",
-      "link": "https://www.channelnewsasia.com/sport/chwalinskas-childhood-dream-and-discipline-drive-fairytale-french-open-run-6164601",
-      "date": "Fri, 05 Jun 2026 19:16:09 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Thailand: Sexual abuse scandal inside family business empire forces public reckoning",
-      "link": "https://www.france24.com/en/video/20260605-thailand-sexual-abuse-scandal-inside-family-business-empire-forces-public-reckoning",
-      "date": "Fri, 05 Jun 2026 11:12:34 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England lead by 27 after Robinson&#039;s five-wicket haul at Lord&#039;s",
-      "link": "https://www.channelnewsasia.com/sport/england-lead-27-after-robinsons-five-wicket-haul-lords-6164566",
-      "date": "Fri, 05 Jun 2026 19:08:09 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ranking the World Cup 2026 groups: Which teams are favourites to progress?",
-      "link": "https://www.aljazeera.com/sports/2026/6/5/ranking-the-2026-world-cup-groups-which-teams-are-favourites-to-progress?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 11:02:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
-      "link": "https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 11:01:37 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Feeling the heat: Women and climate change",
-      "link": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
-      "date": "Fri, 05 Jun 2026 11:00:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
-      "link": "https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 10:56:09 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "California to decide soon whether it will seek to block Paramount deal",
-      "link": "https://www.channelnewsasia.com/business/california-decide-soon-whether-it-will-seek-block-paramount-deal-6164486",
-      "date": "Fri, 05 Jun 2026 18:40:07 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: UMNO’s ‘selective confrontations’ in Johor, Negeri Sembilan seek to push Anwar into a corner. What&#039;s next?",
-      "link": "https://www.channelnewsasia.com/commentary/malaysia-johor-negeri-sembilan-state-elections-anwar-ibrahim-6164306",
-      "date": "Fri, 05 Jun 2026 18:40:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nationalism on the rise: Anti-foreign rhetoric gains ground in Japan",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260605-nationalism-on-the-rise-anti-foreign-rhetoric-gains-ground-in-japan",
-      "date": "Fri, 05 Jun 2026 10:39:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India&#039;s GDP grows 7.8% in January-March on resilient farm, construction output",
-      "link": "https://www.channelnewsasia.com/business/indias-gdp-grows-78-in-january-march-resilient-farm-construction-output-6164506",
-      "date": "Fri, 05 Jun 2026 18:38:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Global equity fund inflows at 3-week high as AI optimism boosts sentiment",
-      "link": "https://www.channelnewsasia.com/business/global-equity-fund-inflows-3-week-high-ai-optimism-boosts-sentiment-6164496",
-      "date": "Fri, 05 Jun 2026 18:36:57 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lebanon ceasefire brings little comfort to displaced families in Beirut",
-      "link": "https://www.france24.com/en/video/20260605-lebanon-ceasefire-brings-little-comfort-to-displaced-families-in-beirut",
-      "date": "Fri, 05 Jun 2026 10:21:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/how-the-world-failed-a-mothers-children-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 10:19:17 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Turkmenistan's 'heavenly' Akhal-Teke horses celebrated in annual beauty pageants",
-      "link": "https://www.france24.com/en/asia-pacific/20260605-turkmenistan-heavenly-akhal-teke-horses-compete-annual-beauty-pageants",
-      "date": "Fri, 05 Jun 2026 10:12:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel army warns of imminent strikes against Hezbollah in Lebanon",
-      "link": "https://www.france24.com/en/video/20260605-israel-army-warns-of-imminent-strikes-against-hezbollah-in-lebanon",
-      "date": "Fri, 05 Jun 2026 10:11:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France questions judicial system after girl's suspected murder",
-      "link": "https://www.france24.com/en/video/20260605-france-questions-judicial-system-after-girl-s-suspected-murder",
-      "date": "Fri, 05 Jun 2026 10:10:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands protest in Albania over Kushner-linked resort project",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/thousands-protest-in-albania-over-kushner-linked-resort-project?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 10:00:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US visa rejections, war on Iran keep fans away from World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 09:44:10 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US actor James Handy stabbed to death, with girlfriend's son arrested",
@@ -185,32 +283,11 @@
       "date": "Fri, 05 Jun 2026 09:40:06 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 05 Jun 2026 09:37:38 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Washington Is Testing Singapore’s Patience",
       "link": "https://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-labor-china-geopolitics/",
       "date": "Fri, 05 Jun 2026 09:34:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
-      "link": "https://www.aljazeera.com/news/2026/6/5/fifa-world-cup-2026-super-bowl-half-time-show-kits-football-talking-points?traffic_source=rss",
-      "date": "Fri, 05 Jun 2026 09:33:38 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 05 Jun 2026 08:03:23 GMT"
     },
     {
       "src": "The Guardian",
@@ -225,13 +302,6 @@
       "text": "Everyone Is Waiting for Trump’s Gaza Plan to Die",
       "link": "https://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/",
       "date": "Fri, 05 Jun 2026 07:53:14 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 05 Jun 2026 05:44:44 GMT"
     },
     {
       "src": "RFI",
@@ -255,13 +325,6 @@
       "date": "Fri, 05 Jun 2026 03:51:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 05 Jun 2026 01:44:16 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "US imposes new sanctions on Cuban president and Castro family members",
@@ -269,53 +332,11 @@
       "date": "Fri, 05 Jun 2026 01:07:15 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-      "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 04 Jun 2026 23:53:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mangrove forests are healing after decades of human destruction",
-      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 04 Jun 2026 23:11:15 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Superdrug removes skincare brand amid concerns over Israeli settlement products",
       "link": "https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117",
       "date": "Fri, 05 Jun 2026 00:01:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania",
-      "link": "https://foreignpolicy.com/2026/06/04/albania-protests-jared-kushner-trump-luxury-resort-rama-corruption/",
-      "date": "Thu, 04 Jun 2026 22:12:22 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Meanwhile, in the Western Hemisphere…",
-      "link": "https://foreignpolicy.com/2026/06/04/trump-western-hemisphere-drug-boat-strikes-cuba-ecuador/",
-      "date": "Thu, 04 Jun 2026 21:40:12 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Trump Should Approach an Iran Endgame",
-      "link": "https://foreignpolicy.com/2026/06/04/robert-malley-trump-war-iran-negotiations-cease-fire-endgame/",
-      "date": "Thu, 04 Jun 2026 21:01:06 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Is Playing With Fire in Cuba",
-      "link": "https://foreignpolicy.com/2026/06/04/trump-us-cuba-policy-blockade-oil/",
-      "date": "Thu, 04 Jun 2026 20:33:10 +0000"
     },
     {
       "src": "The Guardian",
@@ -330,13 +351,6 @@
       "text": "FIFA 'regrets' free World Cup tickets and demands fans pay up",
       "link": "https://news.sky.com/story/fifa-regrets-free-world-cup-tickets-and-demands-fans-pay-up-13550862",
       "date": "Thu, 04 Jun 2026 18:28:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "China Is Too Big for Shangri-La",
-      "link": "https://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/",
-      "date": "Thu, 04 Jun 2026 17:17:03 +0000"
     },
     {
       "src": "The Guardian",
@@ -416,13 +430,6 @@
       "date": "Thu, 04 Jun 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Killed for speaking up: UN sounds alarm over attacks on environmental defenders",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167647",
-      "date": "Thu, 04 Jun 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
@@ -460,13 +467,6 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Judge blocks Jewish group's attempt to stop Kanye West gigs",
-      "link": "https://news.sky.com/story/judge-blocks-jewish-groups-attempt-to-stop-kanye-west-gigs-13550611",
-      "date": "Thu, 04 Jun 2026 03:14:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Greenland is Denmark's 'for now', says America's top diplomat",
       "link": "https://news.sky.com/story/us-secretary-of-state-marco-rubio-says-greenland-is-part-of-denmark-for-now-13550610",
       "date": "Thu, 04 Jun 2026 02:46:00 +0100"
@@ -477,13 +477,6 @@
       "text": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
       "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
       "date": "Wed, 03 Jun 2026 17:29:55 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least 21 killed in New Delhi hotel fire",
-      "link": "https://news.sky.com/story/at-least-21-killed-in-new-delhi-hotel-fire-13550462",
-      "date": "Wed, 03 Jun 2026 15:10:00 +0100"
     },
     {
       "src": "RFI",
