@@ -1758,8 +1758,8 @@ function renderNewsFeed(){
     const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : (i+1)*2;
     const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
     const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
-    const impBadge = h.importance >= 6 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
-                     h.importance >= 4 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
+    const impBadge = h.importance >= 12 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
+                     h.importance >= 8 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
     return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'}">
       <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
       <div style="flex:1;min-width:0">
@@ -2812,8 +2812,8 @@ function renderNewsFeedLive() {
     const mins = h.date ? Math.max(1, Math.floor((Date.now() - new Date(h.date)) / 60000)) : i+1;
     const timeLabel = mins < 60 ? mins + 'm ago' : Math.floor(mins/60) + 'h ago';
     const clickable = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
-    const impBadge = h.importance >= 6 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
-                     h.importance >= 4 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
+    const impBadge = h.importance >= 12 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 4px;margin-left:4px">CRITICAL</span>` :
+                     h.importance >= 8 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 4px;margin-left:4px">HIGH</span>` : '';
     return `<div ${clickable} style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);cursor:${h.link?'pointer':'default'};transition:background .15s" onmouseover="this.style.background='rgba(255,255,255,.03)'" onmouseout="this.style.background=''">
       <div style="width:3px;min-width:3px;height:100%;align-self:stretch;background:${col};border-radius:2px;margin-top:2px"></div>
       <div style="flex:1;min-width:0">
@@ -4254,14 +4254,14 @@ function renderPressFeed() {
     const link = h.link ? `onclick="window.open('${h.link}','_blank')"` : '';
     const imp = h.importance || 0;
     const heat = h.heatScore || 0;
-    const impBadge = imp >= 6 || heat >= 85 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🔴 CRITICAL</span>` :
-                     imp >= 4 || heat >= 65 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🟠 HIGH</span>` : '';
+    const impBadge = imp >= 12 || heat >= 85 ? `<span style="font-size:8px;background:rgba(239,68,68,.2);color:#ef4444;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🔴 CRITICAL</span>` :
+                     imp >= 8 || heat >= 65 ? `<span style="font-size:8px;background:rgba(249,115,22,.2);color:#f97316;border-radius:3px;padding:1px 5px;font-family:var(--font-mono);font-weight:700">🟠 HIGH</span>` : '';
 
     return `<div class="press-item" ${link}>
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
         <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
           ${h.src ? `<span class="press-source-badge" style="background:${col}18;color:${col};border:1px solid ${col}30">${h.src}</span>` : ''}
-          ${relatedConflict ? `<span style="font-family:var(--font-mono);font-size:8px;color:${riskScoreColor(relatedConflict.riskScore||50)};background:${riskScoreGlow(relatedConflict.riskScore||50)}0.1);border-radius:4px;padding:1px 5px">${relatedConflict.riskScore}</span>` : ''}
+          ${relatedConflict ? `<span style="font-family:var(--font-mono);font-size:8px;color:${riskScoreColor(relatedConflict.riskScore||50)};background:${riskScoreGlow(relatedConflict.riskScore||50)}0.1);border-radius:4px;padding:1px 5px">${relatedConflict.loc.split("/")[0].trim()}</span>` : ''}
           ${impBadge}
         </div>
         <span style="font-family:var(--font-mono);font-size:9px;color:var(--dim);white-space:nowrap;margin-left:6px">${timeLabel}</span>
