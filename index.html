@@ -5556,7 +5556,16 @@ function setTickerSpeed(s) {
   st.textContent = '.ticker-inner{animation-duration:' + tickerSpeed + 's!important}';
 }
 function tickerFaster() { setTickerSpeed(tickerSpeed - 150); }
-function tickerSlower() { setTickerSpeed(tickerSpeed + 450); }
+function tickerSlower() {
+  const target = Math.min(9000, tickerSpeed + 1500);
+  const step = (target - tickerSpeed) / 20;
+  let current = tickerSpeed;
+  const interval = setInterval(() => {
+    current += step;
+    setTickerSpeed(Math.round(current));
+    if (current >= target) clearInterval(interval);
+  }, 50);
+}
 </script>
 <script>
 (function() {
