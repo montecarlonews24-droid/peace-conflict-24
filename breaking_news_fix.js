@@ -123,7 +123,7 @@ window.seedInitialAlerts = function() {
         var feed  = document.getElementById('press-feed');
         var rooms = document.getElementById('press-rooms');
         var live  = document.getElementById('press-live');
-        if (feed)  feed.style.display  = tab==='news'  ? 'flex':'none';
+        if (feed)  feed.style.display  = tab==='news'  ? 'block':'none';
         if (rooms) { rooms.style.display = tab==='rooms' ? 'block':'none'; if(tab==='rooms'){ var pubEl=document.getElementById('pub-rooms'); var privEl=document.getElementById('priv-rooms'); if(pubEl) pubEl.style.cssText='display:block;width:100%'; if(privEl) privEl.style.cssText='display:block;width:100%'; }}
         if (live)  live.style.display  = tab==='live'  ? 'flex':'none';
         [newsBtn,roomsBtn,liveBtn].forEach(function(b){if(b)b.classList.remove('active');});
