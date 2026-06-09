@@ -2648,7 +2648,7 @@ async function loadAllRSSFeeds() {
 
   // Load in batches of 15 to avoid overwhelming the network
   const BATCH_SIZE = 15;
-  for (let i = 0; i < RSS_FEEDS.map.length || i < RSS_FEEDS.length; i += BATCH_SIZE) {
+  for (let i = 0; i < RSS_FEEDS.length; i += BATCH_SIZE) {
     const batch = RSS_FEEDS.slice(i, i + BATCH_SIZE);
     const batchResults = await Promise.allSettled(batch.map(f => fetchOneFeed(f)));
     batchResults.forEach((r, j) => {
