@@ -5548,16 +5548,25 @@ async function generatePDFReport() {
 </div>
 <script src="breaking_news_fix.js"></script>
 <script>
-let tickerSpeed = 3000;
+let tickerSpeed = 220;
 function setTickerSpeed(s) {
-  tickerSpeed = Math.max(100, Math.min(9000, s));
+  tickerSpeed = Math.max(60, Math.min(800, s));
   let st = document.getElementById('ticker-speed-style');
   if (!st) { st = document.createElement('style'); st.id = 'ticker-speed-style'; document.head.appendChild(st); }
   st.textContent = '.ticker-inner{animation-duration:' + tickerSpeed + 's!important}';
 }
-function tickerFaster() { setTickerSpeed(tickerSpeed - 150); }
+function tickerFaster() {
+  const target = Math.max(60, tickerSpeed - 40);
+  const step = (tickerSpeed - target) / 20;
+  let current = tickerSpeed;
+  const interval = setInterval(() => {
+    current -= step;
+    setTickerSpeed(Math.round(current));
+    if (current <= target) clearInterval(interval);
+  }, 50);
+}
 function tickerSlower() {
-  const target = Math.min(9000, tickerSpeed + 1500);
+  const target = Math.min(800, tickerSpeed + 120);
   const step = (target - tickerSpeed) / 20;
   let current = tickerSpeed;
   const interval = setInterval(() => {
