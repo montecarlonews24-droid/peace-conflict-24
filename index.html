@@ -2235,8 +2235,7 @@ function goScreen(name){
   if (fab) fab.style.display = name === 'auth' ? 'none' : '';
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
-  if(name==='chat'){ window.open('chat.html','_blank'); return; }
-  if(name==='chat'){ setPressTab('news'); renderChatRooms(); }
+  if(name==='chat'){ setPressTab('news'); if(typeof renderPressFeed==='function') renderPressFeed(); return; }
   if(name==='profile') renderProfile();
 }
 
