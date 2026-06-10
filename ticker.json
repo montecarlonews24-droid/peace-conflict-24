@@ -1,223 +1,321 @@
 {
-  "updated": "2026-06-10T12:39:46.009Z",
+  "updated": "2026-06-10T21:28:27.680Z",
   "count": 69,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Watch: Thousands fill Barcelona streets for Pope Leo visit",
+      "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 10 Jun 2026 21:13:07 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Neymar still absent from Brazil training as squad celebrate Ancelotti&#039;s birthday",
+      "link": "https://www.channelnewsasia.com/sport/neymar-still-absent-brazil-training-squad-celebrate-ancelottis-birthday-6175211",
+      "date": "Thu, 11 Jun 2026 05:12:56 +0800"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Kashmiri rights activist wins partial court victory but remains behind bars",
-      "link": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 12:18:41 +0000"
+      "text": "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
+      "link": "https://www.aljazeera.com/news/2026/6/10/trump-directs-interim-us-intelligence-chief-bill-pulte-to-downsize-agency?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 21:09:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bill Gates tells Epstein hearing he &#039;never victimised anyone&#039;",
+      "link": "https://www.channelnewsasia.com/world/bill-gates-testimony-epstein-relationship-6175106",
+      "date": "Thu, 11 Jun 2026 05:08:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fact-checking claims that Senegal’s football team were treated like ‘criminals’ at US airport",
+      "link": "https://www.france24.com/en/fact-checking-claims-that-senegal-s-football-team-were-treated-like-criminals-at-us-airport",
+      "date": "Wed, 10 Jun 2026 20:48:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel kills 16 in Lebanon, UN to probe international law violations",
+      "link": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:46:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:46:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US battle Paraguay in pressure-packed World Cup opener",
+      "link": "https://www.channelnewsasia.com/sport/us-battle-paraguay-in-pressure-packed-world-cup-opener-6175136",
+      "date": "Thu, 11 Jun 2026 04:41:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gwyneth Paltrow’s Israeli real estate ad goes viral",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/gwyneth-paltrows-israeli-real-estate-ad-goes-viral?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:41:29 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wall Street counts down to SpaceX IPO",
+      "link": "https://www.france24.com/en/wall-street-counts-down-to-spacex-ipo",
+      "date": "Wed, 10 Jun 2026 20:41:18 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "World Cup&#039;s new rules",
+      "link": "https://www.channelnewsasia.com/sport/world-cups-new-rules-6175141",
+      "date": "Thu, 11 Jun 2026 04:39:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tebogo spoils Gout&#039;s debut, Dos Santos and rising star Lutkenhaus rule Oslo",
+      "link": "https://www.channelnewsasia.com/sport/tebogo-spoils-gouts-debut-dos-santos-and-rising-star-lutkenhaus-rule-oslo-6175126",
+      "date": "Thu, 11 Jun 2026 04:38:30 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FIFA chief Infantino defends visa handling, ticket prices on eve of World Cup",
+      "link": "https://www.channelnewsasia.com/sport/fifa-chief-infantino-defends-visa-handling-ticket-prices-eve-world-cup-6175131",
+      "date": "Thu, 11 Jun 2026 04:35:14 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "First image in months emerges of Dr. Hussam Abu Safia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/first-image-in-months-emerges-of-dr-hussam-abu-safia?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:34:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘I love the inflation’ US President Trump dismisses price concerns",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/i-love-the-inflation-us-president-trump-dismisses-price-concerns?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:31:49 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "M23 fighters detaining, abusing thousands in DRC",
+      "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
+      "date": "Wed, 10 Jun 2026 20:26:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oracle&#039;s AI spending for 2026 exceeds forecast, raising worries over growing debt",
+      "link": "https://www.channelnewsasia.com/business/oracles-ai-spending-2026-exceeds-forecast-raising-worries-over-growing-debt-6175091",
+      "date": "Thu, 11 Jun 2026 04:12:13 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India summons US envoy over attack on ship carrying Indian sailors off Oman",
+      "link": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 20:05:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norway court orders ailing princess&#039;s son to stay in custody",
+      "link": "https://www.channelnewsasia.com/world/norway-crown-princess-son-hoiby-rape-trial-6175066",
+      "date": "Thu, 11 Jun 2026 04:03:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Mexico says \"the ball comes home\" as it prepares to host 2026 FIFA World Cup",
+      "link": "https://www.france24.com/en/mexico-says-the-ball-comes-home-as-it-prepares-to-host-2026-fifa-world-cup",
+      "date": "Wed, 10 Jun 2026 19:52:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK watchdog warns online platforms as Belfast riots go viral",
+      "link": "https://www.france24.com/en/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+      "date": "Wed, 10 Jun 2026 19:47:53 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Diagnosing the Israeli-Palestinian Conflict Doesn’t Solve It",
+      "link": "https://foreignpolicy.com/2026/06/10/israel-palestine-review-bartov-abu-sarah-inon/",
+      "date": "Wed, 10 Jun 2026 19:47:18 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Trump and Iran trade new threats after strikes exchanged",
+      "text": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+      "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 10 Jun 2026 19:31:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli strike on a car kills two in Sidon, Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
+      "date": "Wed, 10 Jun 2026 19:23:23 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "FIFA's neutrality in question as Infantino cozies up to Trump",
+      "link": "https://www.france24.com/en/fifa-s-neutrality-in-question-as-infantino-cozies-up-to-trump",
+      "date": "Wed, 10 Jun 2026 19:05:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Three Indian crew missing as US says fired on tanker off Oman",
+      "link": "https://www.france24.com/en/three-indian-crew-missing-as-us-says-fired-on-tanker-off-oman",
+      "date": "Wed, 10 Jun 2026 18:25:59 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Whale graveyard dating back five million years discovered",
+      "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 10 Jun 2026 18:24:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli airstrikes kill 13 in south Lebanon, Lebanese sources say",
+      "link": "https://www.france24.com/en/israeli-airstrikes-kill-13-in-south-lebanon-lebanese-sources-say",
+      "date": "Wed, 10 Jun 2026 18:18:22 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+      "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 10 Jun 2026 17:48:54 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says US will hit Iran 'hard' again today",
       "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 12:07:38 GMT"
+      "date": "Wed, 10 Jun 2026 17:33:22 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "World Cup waterbreaks offer lucrative opportunity for broadcasters",
-      "link": "https://www.channelnewsasia.com/sport/world-cup-waterbreaks-offer-lucrative-opportunity-broadcasters-6174186",
-      "date": "Wed, 10 Jun 2026 20:05:09 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Europe Plans to Crack Down on Russia—but for Real This Time",
+      "link": "https://foreignpolicy.com/2026/06/10/europe-russia-sanctions-package-trump-putin/",
+      "date": "Wed, 10 Jun 2026 16:45:31 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Trump's effort to bring this war to an end has failed,' ex-Ukrainian FM Kuleba says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260610-trump-s-effort-to-bring-this-war-to-an-end-has-failed-ex-ukrainian-fm-kuleba-says",
-      "date": "Wed, 10 Jun 2026 12:02:29 GMT"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
+      "link": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+      "date": "Wed, 10 Jun 2026 16:38:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Argentina players&#039; passport details leaked in security oversight",
-      "link": "https://www.channelnewsasia.com/sport/argentina-players-passport-details-leaked-in-security-oversight-6174166",
-      "date": "Wed, 10 Jun 2026 19:57:55 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Amnesty accuses Israel of ‘ethnic cleansing’ of West Bank Bedouin communities",
+      "link": "https://www.rfi.fr/en/international/20260610-amnesty-accuses-israel-of-ethnic-cleansing-of-west-bank-bedouin-communities",
+      "date": "Wed, 10 Jun 2026 16:15:21 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 11:57:49 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Geopolitics of the World Cup",
+      "link": "https://foreignpolicy.com/2026/06/10/world-cup-soccer-football-mehreen-khan-fifa/",
+      "date": "Wed, 10 Jun 2026 16:00:52 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Somali World Cup referee denied entry to US arrives home to hero's welcome",
-      "link": "https://www.france24.com/en/video/20260610-somali-world-cup-referee-denied-entry-to-us-arrives-home-to-hero-s-welcome",
-      "date": "Wed, 10 Jun 2026 11:56:21 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Paramount, Warner Bros deal under EU subsidy scrutiny, decision due July 14",
-      "link": "https://www.channelnewsasia.com/business/paramount-warner-bros-deal-under-eu-subsidy-scrutiny-decision-due-july-14-6174161",
-      "date": "Wed, 10 Jun 2026 19:54:45 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Apache down, fighting up: What the latest US-Iran attacks mean",
-      "link": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 11:50:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Satellite images show Israel’s destruction of historical city of Tyre",
-      "link": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 11:46:50 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Netanyahu will stand in Israel's next national election, his party says",
-      "link": "https://www.france24.com/en/middle-east/20260610-netanyahu-will-stand-in-israel-s-next-national-election-his-party-says",
-      "date": "Wed, 10 Jun 2026 11:44:22 GMT"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What Comes After Global Order",
+      "link": "https://foreignpolicy.com/2026/06/10/global-order-china-united-states-ordering/",
+      "date": "Wed, 10 Jun 2026 15:22:49 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Ukraine says missiles hit military plant deep inside Russia",
-      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 11:43:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'I am a prisoner of conscience': Ali Karimli, the opposition figure defying Azerbaijan’s regime",
-      "link": "https://www.france24.com/en/asia-pacific/20260610-i-am-a-prisoner-of-conscience-ali-karimli-the-opposition-figure-defying-azerbaijan-s-regime",
-      "date": "Wed, 10 Jun 2026 11:42:05 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ING bets on subscription model to lift fees amid growing digital-banking competition",
-      "link": "https://www.channelnewsasia.com/business/ing-bets-subscription-model-lift-fees-amid-growing-digital-banking-competition-6174151",
-      "date": "Wed, 10 Jun 2026 19:41:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s happening at the World Cup one day before tournament starts?",
-      "link": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 11:40:15 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Belfast: Anti-immigrant violence erupts after knife attack",
-      "link": "https://www.france24.com/en/video/20260610-belfast-anti-immigrant-violence-erupts-after-knife-attack",
-      "date": "Wed, 10 Jun 2026 11:32:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US-Iran deal 'wouldn't resolve anything': Trump trapped between 'unwinnable war, unpresentable deal'",
-      "link": "https://www.france24.com/en/us-iran-deal-wouldn-t-resolve-anything-trump-trapped-between-unwinnable-war-unpresentable-deal",
-      "date": "Wed, 10 Jun 2026 11:32:06 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump says Iran has taken too long to negotiate, will &#039;pay the price&#039;",
-      "link": "https://www.channelnewsasia.com/world/trump-iran-too-long-negotiate-war-peace-deal-pay-price-6174121",
-      "date": "Wed, 10 Jun 2026 19:17:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As British town councils face budget cuts, local residents lend a helping hand",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260610-as-british-town-councils-face-budget-cuts-local-residents-lend-a-helping-hand",
-      "date": "Wed, 10 Jun 2026 11:11:36 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Volatile summer weather threatens to turn World Cup into test of heat",
-      "link": "https://www.channelnewsasia.com/sport/volatile-summer-weather-threatens-turn-world-cup-test-heat-6174101",
-      "date": "Wed, 10 Jun 2026 19:05:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thomson Reuters faces shareholder vote over ICE contracts",
-      "link": "https://www.channelnewsasia.com/business/thomson-reuters-faces-shareholder-vote-over-ice-contracts-6174076",
-      "date": "Wed, 10 Jun 2026 19:02:32 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "LinkedIn launches new effort in push to capture business advertisers",
-      "link": "https://www.channelnewsasia.com/business/linkedin-launches-new-effort-in-push-capture-business-advertisers-6174081",
-      "date": "Wed, 10 Jun 2026 19:01:03 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
-      "link": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 10:50:22 +0000"
+      "text": "Israeli strikes in southern Lebanon kill 17, reports say",
+      "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 10 Jun 2026 14:44:49 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 10:26:54 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 10:26:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who pays for a supersized World Cup?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/10/who-pays-for-a-supersized-world-cup?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 10:23:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Graham Platner wins Maine primary election: Results and key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss",
-      "date": "Wed, 10 Jun 2026 10:22:43 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Manslaughter charges laid over deadly Hong Kong fire",
-      "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 10:15:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pakistan renews air strikes on Afghanistan, killing dozens",
-      "link": "https://www.france24.com/en/asia-pacific/20260610-pakistan-renews-air-strikes-on-afghanistan-killing-several",
-      "date": "Wed, 10 Jun 2026 10:07:31 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
-      "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 09:57:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "text": "US official claims banned referee had links with 'terror organisations'",
       "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 10 Jun 2026 09:50:32 GMT"
+      "date": "Wed, 10 Jun 2026 14:08:28 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Exporting U.S. Military AI Won’t Be Easy",
+      "link": "https://foreignpolicy.com/2026/06/10/military-ai-middle-power-anthropic-pentagon-pax-silica/",
+      "date": "Wed, 10 Jun 2026 13:56:41 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Progressives Should Show Real Solidarity With China",
+      "link": "https://foreignpolicy.com/2026/06/10/progressives-china-beijing-labor-protests-chinamaxxing/",
+      "date": "Wed, 10 Jun 2026 13:50:28 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump targeting immigrants from countries hit most by climate shocks",
+      "link": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "date": "Wed, 10 Jun 2026 13:00:20 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘Not just a singer’: Argentinians queue for miles to mourn biggest rockstar most of world has never heard of",
+      "link": "https://www.theguardian.com/world/2026/jun/10/mourning-fans-queue-tribute-argentina-carlos-indio-solari",
+      "date": "Wed, 10 Jun 2026 13:00:20 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "European heatwave drives world's second-hottest May on record",
+      "link": "https://www.rfi.fr/en/international/20260610-european-heatwave-drives-world-s-second-hottest-may-on-record",
+      "date": "Wed, 10 Jun 2026 12:50:11 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘The day never stops’ for aid workers braving missiles and drones in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167690",
+      "date": "Wed, 10 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167689",
+      "date": "Wed, 10 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Pakistani airstrikes on Afghanistan kill at least 13",
+      "link": "https://news.sky.com/story/pakistani-airstrikes-on-afghanistan-kill-at-least-13-in-escalation-of-fighting-13552660",
+      "date": "Wed, 10 Jun 2026 11:53:00 +0100"
     },
     {
       "src": "RFI",
@@ -276,13 +374,6 @@
       "date": "Tue, 09 Jun 2026 22:29:25 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Xi Seeks to Draw North Korea Back Into China’s Orbit",
-      "link": "https://foreignpolicy.com/2026/06/09/xi-china-north-korea-xi-kim-jong-un-visit-russia/",
-      "date": "Tue, 09 Jun 2026 21:47:42 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Inside Myanmar, rebels are losing ground as military forces men into army",
@@ -297,32 +388,11 @@
       "date": "Tue, 09 Jun 2026 21:41:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why a South Korean Starbucks Ad Mocked Murdered Protesters",
-      "link": "https://foreignpolicy.com/2026/06/09/starbucks-gwangju-far-right-south-korea/",
-      "date": "Tue, 09 Jun 2026 19:40:10 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "NATO’s Digital Back End Could Fall Apart Without Change",
-      "link": "https://foreignpolicy.com/2026/06/09/nato-cloud-computer-ai-iran-war/",
-      "date": "Tue, 09 Jun 2026 18:56:06 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
       "link": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
       "date": "Tue, 09 Jun 2026 17:13:20 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Former Air Canada pilot charged after allegedly flying without proper license for 16 years",
-      "link": "https://www.theguardian.com/world/2026/jun/09/air-canada-former-pilot-charged-license",
-      "date": "Tue, 09 Jun 2026 17:10:30 GMT"
     },
     {
       "src": "RFI",
@@ -337,20 +407,6 @@
       "text": "Oxfam warns Europe’s corporate giants are fuelling inequality",
       "link": "https://www.rfi.fr/en/international/20260609-oxfam-warns-europe-s-corporate-giants-are-fuelling-inequality",
       "date": "Tue, 09 Jun 2026 17:03:11 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
-      "link": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
-      "date": "Tue, 09 Jun 2026 16:30:08 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Lebanon Is No Longer About Lebanon",
-      "link": "https://foreignpolicy.com/2026/06/09/lebanon-hezbollah-israel-war-trump-middle-east/",
-      "date": "Tue, 09 Jun 2026 14:57:57 +0000"
     },
     {
       "src": "UN News",
@@ -395,39 +451,11 @@
       "date": "Tue, 09 Jun 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Building trust and lab testing at the heart of DRC Ebola response: WHO",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167679",
-      "date": "Tue, 09 Jun 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Somali football referee denied US entry will miss World Cup debut",
       "link": "https://www.rfi.fr/en/international/20260609-somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut",
       "date": "Tue, 09 Jun 2026 10:58:08 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "U.S. Power Is Wrung Out",
-      "link": "https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/",
-      "date": "Tue, 09 Jun 2026 10:00:38 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How to Escape Blame for Bad Advice",
-      "link": "https://foreignpolicy.com/2026/06/09/iran-advice-blame-accountability-escape/",
-      "date": "Tue, 09 Jun 2026 08:17:18 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Wild black bear captured in Japanese city after multi-day hunt",
-      "link": "https://news.sky.com/story/wild-black-bear-captured-in-japan-after-multi-day-hunt-through-major-city-13552173",
-      "date": "Tue, 09 Jun 2026 07:24:00 +0100"
     },
     {
       "src": "Sky News",
@@ -437,13 +465,6 @@
       "date": "Tue, 09 Jun 2026 06:30:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Is Trump's America already ruining the World Cup?",
-      "link": "https://news.sky.com/story/is-trumps-america-already-ruining-the-world-cup-13552151",
-      "date": "Tue, 09 Jun 2026 03:02:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
@@ -451,25 +472,11 @@
       "date": "Mon, 08 Jun 2026 22:13:44 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Merz and Macron agree to scrap FCAS joint fighter jet programme",
-      "link": "https://www.rfi.fr/en/international/20260608-merz-macron-agree-to-halt-fcas-fighter-jet-plan-berlin",
-      "date": "Mon, 08 Jun 2026 16:09:33 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "French NATO jets destroy mystery drone over Latvia as Ukraine war intensifies",
-      "link": "https://www.rfi.fr/en/international/20260608-french-nato-jets-destroy-mystery-drone-over-latvia-as-ukraine-war-intensifies",
-      "date": "Mon, 08 Jun 2026 14:14:21 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167678",
-      "date": "Mon, 08 Jun 2026 12:00:00 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "'This was a different situation': Christian Eriksen posts health update after collapsing on the pitch",
+      "link": "https://news.sky.com/story/christian-eriksen-expected-to-be-discharged-from-hospital-soon-after-collapsing-on-pitch-13551943",
+      "date": "Mon, 08 Jun 2026 12:11:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -477,13 +484,6 @@
       "text": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
       "link": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
       "date": "Mon, 08 Jun 2026 08:55:31 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-      "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-      "date": "Sat, 06 Jun 2026 04:21:37 GMT"
     }
   ]
 }
