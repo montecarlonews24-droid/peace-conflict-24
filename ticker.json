@@ -1,55 +1,223 @@
 {
-  "updated": "2026-06-12T14:28:50.043Z",
+  "updated": "2026-06-12T17:21:30.593Z",
   "count": 64,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran says deal to end fighting with US has 'never been closer'",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 17:13:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "LGBTQ rights in Hungary: 'We are very hopeful that changes will be made'",
+      "link": "https://www.france24.com/en/europe/20260612-lgbtq-rights-in-hungary-we-are-very-hopeful-that-changes-will-be-made",
+      "date": "Fri, 12 Jun 2026 17:13:23 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Facebook and Instagram suffer global outage",
-      "link": "https://www.channelnewsasia.com/world/facebook-instagram-down-outage-6179616",
-      "date": "Fri, 12 Jun 2026 22:17:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brexit: 10 years of chaos and regret?",
-      "link": "https://www.france24.com/en/tv-shows/revisited/20260612-brexit-10-years-of-chaos-and-regret",
-      "date": "Fri, 12 Jun 2026 14:13:33 GMT"
+      "text": "US judge won&#039;t block Trump&#039;s White House UFC mixed martial arts event",
+      "link": "https://www.channelnewsasia.com/sport/us-judge-wont-block-trumps-white-house-ufc-mixed-martial-arts-event-6179966",
+      "date": "Sat, 13 Jun 2026 01:08:24 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Italy&#039;s Meloni and South Korea&#039;s Lee agree to deepen ties in Rome talks",
-      "link": "https://www.channelnewsasia.com/business/italys-meloni-and-south-koreas-lee-agree-deepen-ties-in-rome-talks-6179641",
-      "date": "Fri, 12 Jun 2026 22:11:41 +0800"
+      "text": "World Cup fans caught up in SpaceX IPO spectacle in New York",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-fans-caught-up-in-spacex-ipo-spectacle-in-new-york-6179971",
+      "date": "Sat, 13 Jun 2026 01:05:27 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "US plans to slash fighter jets, warships to NATO in Europe, NY Times reports",
-      "link": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
-      "date": "Fri, 12 Jun 2026 14:04:54 GMT"
+      "text": "'We need more clean, homegrown, cheap European energy': EU Climate Commissioner",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20260612-we-need-more-clean-homegrown-cheap-european-energy-eu-climate-commissioner",
+      "date": "Fri, 12 Jun 2026 17:01:32 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "King leads tributes to late British art 'giant' David Hockney",
+      "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 17:00:03 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Silva joins Benfica as head coach on two-year contract",
+      "link": "https://www.channelnewsasia.com/sport/silva-joins-benfica-head-coach-two-year-contract-6179941",
+      "date": "Sat, 13 Jun 2026 00:49:35 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Google to challenge German ruling saying it is liable for AI-generated false claims",
+      "link": "https://www.channelnewsasia.com/business/google-challenge-german-ruling-saying-it-liable-ai-generated-false-claims-6179931",
+      "date": "Sat, 13 Jun 2026 00:46:58 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund",
+      "link": "https://www.aljazeera.com/news/2026/6/12/us-judge-extends-block-on-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 16:46:16 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 16:41:53 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Golf, games and parenting tips - how Norway&#039;s Haaland is preparing for World Cup opener",
+      "link": "https://www.channelnewsasia.com/sport/golf-games-and-parenting-tips-how-norways-haaland-preparing-world-cup-opener-6179926",
+      "date": "Sat, 13 Jun 2026 00:41:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
+      "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 16:38:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brazil&#039;s Nubank says false message on liquidation resulted from operational error",
+      "link": "https://www.channelnewsasia.com/business/brazils-nubank-says-false-message-liquidation-resulted-operational-error-6179916",
+      "date": "Sat, 13 Jun 2026 00:37:06 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "As alcohol returns to World Cup, Ecuador president tells fans to drink up",
-      "link": "https://www.france24.com/en/video/20260612-as-alcohol-returns-to-world-cup-ecuador-president-tells-fans-to-drink-up",
-      "date": "Fri, 12 Jun 2026 14:00:49 GMT"
+      "text": "Hundreds gather for funeral of French schoolgirl whose killing sparked national outrage",
+      "link": "https://www.france24.com/en/france/20260612-hundreds-gather-for-funeral-of-french-schoolgirl-whose-killing-sparked-national-outrage",
+      "date": "Fri, 12 Jun 2026 16:34:03 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "'All of us of are migrants,' pope says in Canary Islands as Spain trip wraps up",
-      "link": "https://www.france24.com/en/video/20260612-all-of-us-of-are-migrants-pope-says-in-canary-islands-as-spain-trip-wraps-up",
-      "date": "Fri, 12 Jun 2026 13:59:23 GMT"
+      "text": "€3,300 for a dress! The Paris Flea Market, where vintage meets luxury",
+      "link": "https://www.france24.com/en/tv-shows/france-in-focus/20260612-%E2%82%AC3-300-for-a-dress-the-paris-flea-market-where-vintage-meets-luxury",
+      "date": "Fri, 12 Jun 2026 16:29:52 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pro-Russian opposition party calls for Armenian election result annulment",
+      "link": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 16:25:54 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "French town buries murdered child as questions mount over police failings",
+      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 16:19:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Only a win will do against Curacao as Germany kick off World Cup campaign",
+      "link": "https://www.channelnewsasia.com/sport/only-win-will-do-against-curacao-germany-kick-world-cup-campaign-6179866",
+      "date": "Sat, 13 Jun 2026 00:12:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump will not attend US team&#039;s World Cup opener",
+      "link": "https://www.channelnewsasia.com/world/trump-us-world-cup-opener-paraguay-6179806",
+      "date": "Sat, 13 Jun 2026 00:11:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
+      "link": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-fever-grips-los-angeles-despite-trump-policies?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 16:05:31 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 15:55:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire",
+      "link": "https://www.aljazeera.com/economy/2026/6/12/spacex-ipo-debuts-in-us-markets-musk-becomes-worlds-first-trillionaire?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 15:54:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Japan's love-hate relationship with bears",
+      "link": "https://www.france24.com/en/tv-shows/access-asia/20260612-japan-s-love-hate-relationship-with-bears",
+      "date": "Fri, 12 Jun 2026 15:52:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Alarm as Ebola spreads into new areas of DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 15:37:25 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Elon Musk’s Self-Contradictory Military Policy",
+      "link": "https://foreignpolicy.com/2026/06/12/musk-spacex-ipo-military-policy/",
+      "date": "Fri, 12 Jun 2026 15:19:02 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU reaches provisional deal on migrant returns: An effective and fair system?",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20260612-eu-reaches-provisional-deal-on-migrant-returns-an-effective-and-fair-system",
+      "date": "Fri, 12 Jun 2026 15:13:57 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "More time needed for deadly Air India crash inquiry, officials say",
       "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 12 Jun 2026 13:58:08 GMT"
+      "date": "Fri, 12 Jun 2026 15:09:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Activists form human Palestine flag at World Cup opener in Mexico City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 15:06:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Escaping Kabul: ride or die",
+      "link": "https://www.france24.com/en/video/20260612-escaping-kabul-ride-or-die",
+      "date": "Fri, 12 Jun 2026 14:51:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Archaeologists find ancient female-led society in Turkiye",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/archaeologists-find-ancient-female-led-society-in-turkiye?traffic_source=rss",
+      "date": "Fri, 12 Jun 2026 14:41:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brexit: 10 years of regret?",
+      "link": "https://www.france24.com/en/tv-shows/revisited/20260612-brexit-10-years-of-chaos-and-regret",
+      "date": "Fri, 12 Jun 2026 14:13:33 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -59,83 +227,6 @@
       "date": "Fri, 12 Jun 2026 13:48:49 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "First group of Nigerians returns home after anti-immigration protests in South Africa",
-      "link": "https://www.france24.com/en/video/20260612-first-group-of-nigerians-returns-home-after-anti-immigration-protests-in-south-africa",
-      "date": "Fri, 12 Jun 2026 13:47:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wrapped in paradox: Most inclusive tournament in terms of countries participating yet many excluded",
-      "link": "https://www.france24.com/en/video/20260612-wrapped-in-paradox-most-inclusive-tournament-in-terms-of-countries-participating-yet-many-excluded",
-      "date": "Fri, 12 Jun 2026 13:45:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Not up for debate: Britain bans commentators Hasan Piker and Cenk Uygur",
-      "link": "https://www.france24.com/en/tv-shows/scoop/20260612-not-up-for-debate-britain-bans-commentators-hasan-piker-and-cenk-uygur",
-      "date": "Fri, 12 Jun 2026 13:44:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Congo's 1974 World Cup pioneers",
-      "link": "https://www.france24.com/en/video/20260612-congo-s-1974-world-cup-pioneers",
-      "date": "Fri, 12 Jun 2026 13:41:30 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
-      "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:34:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indonesian students protest gov’t policies amid economic strain",
-      "link": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:33:54 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sure, buy yourself a latte, but don&#039;t tell me you earned it by answering emails",
-      "link": "https://www.channelnewsasia.com/today/voices/little-treat-culture-frugal-rewards-finance-6173566",
-      "date": "Fri, 12 Jun 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Cheaper, better solar panels are here. But maximising adoption in Singapore will take creativity",
-      "link": "https://www.channelnewsasia.com/today/big-read/solar-energy-adoption-technology-innovation-condo-property-business-6171886",
-      "date": "Fri, 12 Jun 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;A decade of inconveniences&#039;: Will the wait for the North-South Corridor be worth it in the end?",
-      "link": "https://www.channelnewsasia.com/today/ground-up/north-south-corridor-expressway-residents-businesses-6170931",
-      "date": "Fri, 12 Jun 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From dark alleyways to street galleries: How Indonesian youths are making their community safer",
-      "link": "https://www.channelnewsasia.com/today/in-pixels/dark-alleyways-street-galleries-how-indonesian-youths-are-making-their-community-safer-6159186",
-      "date": "Fri, 12 Jun 2026 21:30:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Video: AI models predict World Cup results",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-ai-models-predict-world-cup-results?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:29:12 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Don’t Invite Syria Back Into Lebanon",
@@ -143,67 +234,18 @@
       "date": "Fri, 12 Jun 2026 13:27:06 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rybakina battles back to solve Maria problem on busy day at Queen&#039;s",
-      "link": "https://www.channelnewsasia.com/sport/rybakina-battles-back-solve-maria-problem-busy-day-queens-6179576",
-      "date": "Fri, 12 Jun 2026 21:21:05 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/backlash-after-us-actor-jerry-seinfeld-says-palestine-doesnt?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:18:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Are Iran, US really close to a breakthrough ‘deal’?",
-      "link": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:16:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russell fastest in first Barcelona practice",
-      "link": "https://www.channelnewsasia.com/sport/russell-fastest-in-first-barcelona-practice-6179521",
-      "date": "Fri, 12 Jun 2026 21:10:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "London mayor slams event touting illegal Israeli settlement land sales",
-      "link": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 13:01:19 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Iran to become first World Cup team to play in country with which it is at war",
+      "text": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
       "link": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
       "date": "Fri, 12 Jun 2026 13:00:45 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Renowned British artist David Hockney dies aged 88",
-      "link": "https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 12:19:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thai Princess Bajrakitiyabha dies after years in coma",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss",
-      "date": "Fri, 12 Jun 2026 12:15:06 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "South Africa trolled by African fans in wake of World Cup loss",
-      "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 12 Jun 2026 10:52:42 GMT"
+      "text": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 12 Jun 2026 11:12:11 GMT"
     },
     {
       "src": "Sky News",
@@ -227,13 +269,6 @@
       "date": "Fri, 12 Jun 2026 08:40:14 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 12 Jun 2026 08:09:37 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Israeli and Palestinian groups urge action on two-state solution in Paris",
@@ -246,13 +281,6 @@
       "text": "What's in the landmark EU migration reform hardening border protections?",
       "link": "https://www.rfi.fr/en/international/20260612-the-migration-pact-what-s-in-the-eu-s-landmark-asylum-reform",
       "date": "Fri, 12 Jun 2026 06:40:16 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 12 Jun 2026 05:01:48 GMT"
     },
     {
       "src": "Sky News",
@@ -274,13 +302,6 @@
       "text": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
       "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 12 Jun 2026 00:45:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Why the economics make this the craziest World Cup ever",
-      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 11 Jun 2026 23:07:52 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -318,20 +339,6 @@
       "date": "Thu, 11 Jun 2026 19:14:46 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "When the Beautiful Game Meets the Ugliest Ego",
-      "link": "https://foreignpolicy.com/2026/06/11/when-the-beautiful-game-meets-the-ugliest-ego/",
-      "date": "Thu, 11 Jun 2026 16:38:18 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 11 Jun 2026 16:25:17 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "London council seizes social housing flat rented by Sierra Leone first lady",
@@ -344,13 +351,6 @@
       "text": "Five claims from former Palestinian prime minister - and why they matter",
       "link": "https://news.sky.com/story/five-claims-from-former-palestinian-prime-minister-mohammad-shtayyeh-and-why-they-matter-13553061",
       "date": "Thu, 11 Jun 2026 15:41:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 11 Jun 2026 14:24:58 GMT"
     },
     {
       "src": "RFI",
