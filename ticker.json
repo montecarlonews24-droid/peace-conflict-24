@@ -1,11 +1,102 @@
 {
-  "updated": "2026-06-13T17:50:12.191Z",
-  "count": 72,
+  "updated": "2026-06-13T19:04:34.275Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Coach Rangnick extends Austria contract until 2028",
+      "link": "https://www.channelnewsasia.com/sport/coach-rangnick-extends-austria-contract-until-2028-6181466",
+      "date": "Sun, 14 Jun 2026 02:50:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haiti fans pick up the beat as 52-year World Cup hoodoo ends",
+      "link": "https://www.channelnewsasia.com/sport/haiti-fans-pick-up-beat-52-year-world-cup-hoodoo-ends-6181461",
+      "date": "Sun, 14 Jun 2026 02:42:57 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 13 Jun 2026 18:39:26 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Anger over planned luxury resorts in Albania, including one linked to Trump's son-in-law",
+      "link": "https://news.sky.com/story/anger-over-planned-luxury-resorts-in-albania-including-one-linked-to-donald-trumps-son-in-law-jared-kushner-13553712",
+      "date": "Sat, 13 Jun 2026 19:34:00 +0100"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Qatar vs Switzerland live – World Cup 2026",
+      "text": "Ukraine to keep targeting Russian energy after hitting sea terminal",
+      "link": "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 18:29:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 18:29:30 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Qatar&#039;s top scorer Almoez on the bench, Swiss largely unchanged",
+      "link": "https://www.channelnewsasia.com/sport/qatars-top-scorer-almoez-bench-swiss-largely-unchanged-6181451",
+      "date": "Sun, 14 Jun 2026 02:25:26 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+      "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 18:17:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amazon voiced concerns about Anthropic AI models before US  government&#039;s crackdown, source says",
+      "link": "https://www.channelnewsasia.com/business/amazon-voiced-concerns-about-anthropic-ai-models-us-governments-crackdown-source-says-6181441",
+      "date": "Sun, 14 Jun 2026 02:13:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US President Trump says US-Iran deal to be signed tomorrow",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 18:02:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil vs Morocco live: World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-brazil-vs-morocco-fifa-world-cup-2026-group-c-match?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 18:01:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Albania protests escalate over Kushner-backed coastal development",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/albania-protests-escalate-over-kushner-backed-coastal-development?traffic_source=rss",
+      "date": "Sat, 13 Jun 2026 17:57:16 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US authorities hunt stolen England World Cup gear",
+      "link": "https://www.channelnewsasia.com/world/us-authorities-hunt-stolen-england-world-cup-gear-6181426",
+      "date": "Sun, 14 Jun 2026 01:50:14 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar vs Switzerland live: World Cup 2026",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
       "date": "Sat, 13 Jun 2026 17:31:36 +0000"
     },
@@ -26,16 +117,16 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
-      "link": "https://www.channelnewsasia.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-6181026",
-      "date": "Sun, 14 Jun 2026 01:16:19 +0800"
+      "text": "Gurbaz&#039;s fiery ton goes in vain as Gill guides India to victory",
+      "link": "https://www.channelnewsasia.com/sport/gurbazs-fiery-ton-goes-in-vain-gill-guides-india-victory-6181421",
+      "date": "Sun, 14 Jun 2026 01:20:14 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Leclerc &#039;ashamed&#039; after crashing again",
-      "link": "https://www.channelnewsasia.com/sport/leclerc-ashamed-after-crashing-again-6181411",
-      "date": "Sun, 14 Jun 2026 01:10:50 +0800"
+      "text": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk, governor says",
+      "link": "https://www.channelnewsasia.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-6181026",
+      "date": "Sun, 14 Jun 2026 01:16:19 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -43,13 +134,6 @@
       "text": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
       "date": "Sat, 13 Jun 2026 17:10:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Cucurella hopes his wife&#039;s pyjama top will be his lucky charm at World Cup",
-      "link": "https://www.channelnewsasia.com/sport/cucurella-hopes-his-wifes-pyjama-top-will-be-his-lucky-charm-world-cup-6181406",
-      "date": "Sun, 14 Jun 2026 01:07:13 +0800"
     },
     {
       "src": "BBC World",
@@ -64,13 +148,6 @@
       "text": "Thousands turn out for anti-racism rally after Belfast unrest",
       "link": "https://www.france24.com/en/video/20260613-thousands-turn-out-for-anti-racism-rally-after-belfast-unrest",
       "date": "Sat, 13 Jun 2026 16:25:34 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Oval Office octagon: How Trump turned combat sports into a political weapon",
-      "link": "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 16:25:27 +0000"
     },
     {
       "src": "France 24",
@@ -92,41 +169,6 @@
       "text": "US-Iran peace agreement: A reason to be optimistic?",
       "link": "https://www.france24.com/en/video/20260613-us-iran-peace-agreement-a-reason-to-be-optimistic",
       "date": "Sat, 13 Jun 2026 16:19:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
-      "link": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 16:01:15 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Confident DR Congo ready to bring African flair to World Cup after long wait",
-      "link": "https://www.channelnewsasia.com/sport/confident-dr-congo-ready-bring-african-flair-world-cup-after-long-wait-6181386",
-      "date": "Sat, 13 Jun 2026 23:54:15 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
-      "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 15:43:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How LinkedIn led Lopes on World Cup adventure with Cape Verde",
-      "link": "https://www.channelnewsasia.com/sport/how-linkedin-led-lopes-world-cup-adventure-cape-verde-6181376",
-      "date": "Sat, 13 Jun 2026 23:39:36 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands attend anti-racism rallies following unrest in Belfast",
-      "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 15:34:24 +0000"
     },
     {
       "src": "France 24",
@@ -157,34 +199,6 @@
       "date": "Sat, 13 Jun 2026 15:24:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russell takes Barcelona pole ahead of Hamilton, Leclerc crashes",
-      "link": "https://www.channelnewsasia.com/sport/russell-takes-barcelona-pole-ahead-hamilton-leclerc-crashes-6181361",
-      "date": "Sat, 13 Jun 2026 23:23:44 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iranians divided on peace prospects after US-Iran say a deal is near",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 15:19:16 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England&#039;s Robinson in doubt for second test due to knee injury",
-      "link": "https://www.channelnewsasia.com/sport/englands-robinson-in-doubt-second-test-due-knee-injury-6181346",
-      "date": "Sat, 13 Jun 2026 23:08:09 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Workers remove Trump’s name from Kennedy Center after court ruling",
-      "link": "https://www.aljazeera.com/news/2026/6/13/workers-remove-trumps-name-from-kennedy-center-after-court-ruling?traffic_source=rss",
-      "date": "Sat, 13 Jun 2026 14:48:14 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Anthropic disables access to top-tier AI models after US ban on foreign use",
@@ -204,13 +218,6 @@
       "text": "Switzerland to vote on plan to cap population at 10 million",
       "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 13 Jun 2026 11:47:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 13 Jun 2026 11:15:18 GMT"
     },
     {
       "src": "RFI",
@@ -353,62 +360,6 @@
       "date": "Fri, 12 Jun 2026 13:00:45 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council weighs future of UN war crimes mechanism as closure nears",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167715",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167708",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167714",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167713",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167712",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167710",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167707",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "WHO report shows progress in blood safety, but there are worrying gaps",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167703",
-      "date": "Fri, 12 Jun 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ukraine's strikes on Crimea refineries and pipelines spark worst fuel crisis on peninsula since 2014",
@@ -463,13 +414,6 @@
       "text": "Risk of 'very strong' El Nino raising global temperatures, scientists warn",
       "link": "https://news.sky.com/story/risk-of-very-strong-el-nino-raising-global-temperatures-scientists-warn-13553053",
       "date": "Thu, 11 Jun 2026 14:44:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Fuel running dry in Russian-held Crimea as Ukraine steps up attacks",
-      "link": "https://news.sky.com/story/fuel-running-dry-in-russian-held-crimea-as-ukraine-steps-up-attacks-13552997",
-      "date": "Thu, 11 Jun 2026 11:37:00 +0100"
     },
     {
       "src": "RFI",
