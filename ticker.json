@@ -1,27 +1,251 @@
 {
-  "updated": "2026-06-15T05:33:25.582Z",
+  "updated": "2026-06-15T11:40:34.580Z",
   "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong&#039;s new dog-friendly dining scheme draws overwhelming response from restaurants",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-dog-friendly-restaurant-scheme-pets-6173701",
-      "date": "Mon, 15 Jun 2026 13:26:48 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20260615-sudanese-people-have-been-fighting-for-freedom-for-decades-director-hind-meddeb",
+      "date": "Mon, 15 Jun 2026 11:26:56 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Tunisia must cut out mistakes after Sweden thrashing, says Lamouchi",
-      "link": "https://www.channelnewsasia.com/sport/tunisia-must-cut-out-mistakes-after-sweden-thrashing-says-lamouchi-6183841",
-      "date": "Mon, 15 Jun 2026 13:14:13 +0800"
+      "text": "Lebanon fighting eases after US-Iran deal but displaced warned not to rush home",
+      "link": "https://www.channelnewsasia.com/world/lebanon-israel-us-iran-deal-end-war-displaced-6184116",
+      "date": "Mon, 15 Jun 2026 19:24:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+      "link": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 11:21:46 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "BBC to cut hundreds of jobs in Britain in news division downsize: Report",
-      "link": "https://www.channelnewsasia.com/world/bbc-cut-hundreds-jobs-britain-news-division-downsize-6183821",
-      "date": "Mon, 15 Jun 2026 13:08:00 +0800"
+      "text": "Fox to buy Roku in $22 billion deal to accelerate shift to digital",
+      "link": "https://www.channelnewsasia.com/business/fox-buy-roku-in-22-billion-deal-accelerate-shift-digital-6184436",
+      "date": "Mon, 15 Jun 2026 19:20:33 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "#Trump celebrates 80th birthday with #UFC fight at #WhiteHouse",
+      "link": "https://www.france24.com/en/video/20260615-trump-celebrates-80th-birthday-with-ufc-fight-at-whitehouse",
+      "date": "Mon, 15 Jun 2026 11:17:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video shows man shot by Israeli drone while sitting with others in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 11:11:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Norwegian crown princess's son found guilty of two counts of rape",
+      "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 11:09:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK announces social media ban for under-16s",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-announces-social-media-ban-for-under-16s?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:56:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup racism monitor urges FIFA to remove VAR official over gesture",
+      "link": "https://www.aljazeera.com/sports/2026/6/15/world-cup-racism-monitor-urges-fifa-to-remove-match-official-over-hand-gesture-on-tv-broadcast?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:55:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Vast Eurosatory weapons showcase gets underway",
+      "link": "https://www.france24.com/en/video/20260615-vast-eurosatory-weapons-showcase-gets-underway",
+      "date": "Mon, 15 Jun 2026 10:53:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Relief from world leaders as US-Iran deal announced",
+      "link": "https://www.france24.com/en/video/20260615-relief-from-world-leaders-as-us-iran-deal-announced",
+      "date": "Mon, 15 Jun 2026 10:51:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US-Iran deal 'what Tehran wanted'",
+      "link": "https://www.france24.com/en/video/20260615-us-iran-deal-what-tehran-wanted",
+      "date": "Mon, 15 Jun 2026 10:47:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump threatens 100% tariff on French wines over digital tax",
+      "link": "https://www.france24.com/en/live-news/20260615-trump-threatens-100-tariff-on-french-wines-over-digital-tax",
+      "date": "Mon, 15 Jun 2026 10:45:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "AI, drones and Ukrainian tech on show at Eurosatory defense fair",
+      "link": "https://www.france24.com/en/video/20260615-ai-drones-and-ukrainian-tech-on-show-at-eurosatory-defense-fair",
+      "date": "Mon, 15 Jun 2026 10:45:15 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup 2026: Spain vs Cape Verde prediction, schedules, latest news",
+      "link": "https://www.aljazeera.com/sports/2026/6/15/world-cup-2026-spain-vs-cape-verde-prediction-schedules-latest-news?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:44:14 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French fans flood New York ahead of world Cup opener",
+      "link": "https://www.france24.com/en/video/20260615-french-fans-flood-new-york-ahead-of-world-cup-opener",
+      "date": "Mon, 15 Jun 2026 10:42:42 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK court says proscribing Palestine Action as ‘terrorist’ group was lawful",
+      "link": "https://www.aljazeera.com/news/2026/6/15/uk-court-says-proscribing-palestine-action-as-terrorist-group-was-lawful?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:37:27 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AT&S invests up to €2 billion in Malaysia plan to capitalise on AI boom",
+      "link": "https://www.channelnewsasia.com/business/ats-invests-up-eu2-billion-in-malaysia-plan-capitalise-ai-boom-6184381",
+      "date": "Mon, 15 Jun 2026 18:33:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CNA Explains: Where the US and Iran agree on the peace deal – and what remains unresolved",
+      "link": "https://www.channelnewsasia.com/world/cna-explains-iran-us-peace-deal-agreement-framework-strait-hormuz-details-disagreements-6184231",
+      "date": "Mon, 15 Jun 2026 18:29:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+      "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 10:24:09 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+      "link": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 10:21:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Energy shares fall as Iran deal lowers Hormuz disruption risk",
+      "link": "https://www.channelnewsasia.com/business/energy-shares-fall-iran-deal-lowers-hormuz-disruption-risk-6184361",
+      "date": "Mon, 15 Jun 2026 18:16:17 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What&#039;s next for SpaceX stock after IPO blastoff",
+      "link": "https://www.channelnewsasia.com/business/whats-next-spacex-stock-after-ipo-blastoff-6184326",
+      "date": "Mon, 15 Jun 2026 18:06:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Scheffler hunts for history at tricky Shinnecock Hills",
+      "link": "https://www.channelnewsasia.com/sport/scheffler-hunts-history-tricky-shinnecock-hills-6184331",
+      "date": "Mon, 15 Jun 2026 18:05:37 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Geneva police use force as G7 protest escalates into violence",
+      "link": "https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:05:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+      "link": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
+      "date": "Mon, 15 Jun 2026 10:05:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Five storylines to follow at the US Open",
+      "link": "https://www.channelnewsasia.com/sport/five-storylines-follow-us-open-6184336",
+      "date": "Mon, 15 Jun 2026 18:04:07 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
+      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 09:39:07 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least 31 dead after Ethiopia bus crash",
+      "link": "https://news.sky.com/story/at-least-28-dead-after-ethiopia-bus-crash-13554255",
+      "date": "Mon, 15 Jun 2026 09:56:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "China detains two leaders of influential underground church",
+      "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 07:56:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil prices fall and shares jump after US-Iran deal announced",
+      "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 07:38:09 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "French-UK mission 'ready' to aid Hormuz reopening, says Macron",
+      "link": "https://www.rfi.fr/en/international/20260615-french-uk-mission-ready-to-aid-hormuz-reopening-says-macron-middle-east-trump-iran-war",
+      "date": "Mon, 15 Jun 2026 07:05:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 15 Jun 2026 06:47:23 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump marks 80th birthday with cage fighting extravaganza - as US and Iran agree deal",
+      "link": "https://news.sky.com/story/trump-marks-80th-birthday-with-cage-fighting-on-white-house-lawn-hours-after-us-and-iran-agree-peace-deal-13554201",
+      "date": "Mon, 15 Jun 2026 07:11:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
+      "link": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
+      "date": "Mon, 15 Jun 2026 06:25:00 +0100"
     },
     {
       "src": "RFI",
@@ -31,46 +255,11 @@
       "date": "Mon, 15 Jun 2026 05:06:44 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Elite Swedish strike force delivers Tunisian defence a reality check",
-      "link": "https://www.channelnewsasia.com/sport/elite-swedish-strike-force-delivers-tunisian-defence-reality-check-6183836",
-      "date": "Mon, 15 Jun 2026 13:05:48 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Introducing the Summer 2026 Print Issue",
       "link": "https://foreignpolicy.com/2026/06/15/end-of-israel-alliance-climate-politics-asylum-transatlantic-nato-neoliberalism-print-magazine/",
       "date": "Mon, 15 Jun 2026 05:02:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sweden beat Tunisia 5-1 in strong start to World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 04:37:03 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Acclaimed Mandopop singer-songwriter David Huang dies at 61",
-      "link": "https://www.channelnewsasia.com/entertainment/david-huang-death-age-61-6183721",
-      "date": "Mon, 15 Jun 2026 12:37:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France hosts G7 dominated by Trump, Iran",
-      "link": "https://www.channelnewsasia.com/world/france-hosts-g7-summit-iran-peace-deal-strait-hormuz-donald-trump-6183796",
-      "date": "Mon, 15 Jun 2026 12:31:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore retrenchments climb in Q1, with sharper rise in incidence among degree holders, older workers: MOM",
-      "link": "https://www.channelnewsasia.com/singapore/retrenchment-higher-degree-holders-employment-jobs-q1-2026-6183016",
-      "date": "Mon, 15 Jun 2026 12:30:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -115,25 +304,11 @@
       "date": "Mon, 15 Jun 2026 04:08:59 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian strikes kill nine in Ukraine and damage historic cathedral, officials say",
-      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 04:08:58 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The End of Political Parties",
       "link": "https://foreignpolicy.com/2026/06/15/party-democracy-political-system-participation-membership-leaders-elections-voting/",
       "date": "Mon, 15 Jun 2026 04:08:24 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sweden smash five past Tunisia in World Cup opener",
-      "link": "https://www.channelnewsasia.com/sport/sweden-smash-five-past-tunisia-in-world-cup-opener-6183681",
-      "date": "Mon, 15 Jun 2026 12:07:00 +0800"
     },
     {
       "src": "The Guardian",
@@ -143,41 +318,6 @@
       "date": "Mon, 15 Jun 2026 04:00:01 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Sweden make statement with commanding victory over Tunisia",
-      "link": "https://www.france24.com/en/sport/20260615-world-cup-2026-sweden-make-statement-with-commanding-victory-over-tunisia",
-      "date": "Mon, 15 Jun 2026 03:59:56 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Sweden make statement with commanding victory over Tunisia",
-      "link": "https://www.france24.com/en/sport/20260615-world-cup-2026-sweden-make-statement-with-commanding-victory-over-tunisia",
-      "date": "Mon, 15 Jun 2026 03:59:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "In Pictures: Trump marks 80th birthday with White House UFC spectacle",
-      "link": "https://www.france24.com/en/americas/20260615-in-pictures-trump-marks-80th-birthday-with-white-house-ufc-spectacle",
-      "date": "Mon, 15 Jun 2026 03:51:53 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Russian strikes kill nine across Ukraine as fire breaks out at religious landmark in Kyiv",
-      "link": "https://news.sky.com/story/russian-strikes-kill-nine-across-ukraine-as-fire-breaks-out-at-centuries-old-religious-landmark-in-kyiv-13554181",
-      "date": "Mon, 15 Jun 2026 04:51:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "G7 summit opens in France with Ukraine war, new US-Iran agreement on agenda",
-      "link": "https://www.france24.com/en/europe/20260615-trump-to",
-      "date": "Mon, 15 Jun 2026 03:47:17 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Man apologises for making racist gesture at Korean in World Cup match",
@@ -185,122 +325,10 @@
       "date": "Mon, 15 Jun 2026 03:31:58 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Oil prices slide after US-Iran deal announced",
-      "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 03:17:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Trump to meet with G7 leaders following announcement of memorandum with Iran",
-      "link": "https://www.france24.com/en/middle-east/20260615-middle-east-live-trump-to-meet-with-g7-leaders-following-announcement-of-memorandum-with-iran",
-      "date": "Mon, 15 Jun 2026 03:16:13 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Uruguay squad lands in US after flight delay ahead of World Cup opener",
-      "link": "https://www.aljazeera.com/sports/2026/6/15/uruguay-squad-lands-in-us-after-flight-delay-ahead-of-world-cup-opener?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 03:05:55 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump heralds Iran deal but questions - and risks - remain",
-      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 02:41:25 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanese remain sceptical despite US-Iran ceasefire announcement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 02:26:06 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kyiv monastery damaged in Russian air attack as strikes intensify across Ukraine",
-      "link": "https://www.france24.com/en/europe/20260615-kyiv-monastery-damaged-in-russian-air-attack-as-strikes-intensify-across-ukraine",
-      "date": "Mon, 15 Jun 2026 02:25:36 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ivory Coast beats Ecuador 1-0 at FIFA World Cup with Amad Diallo goal",
-      "link": "https://www.aljazeera.com/sports/2026/6/15/ivory-coast-beat-ecuador-1-0-at-fifa-world-cup-with-amad-diallo?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 02:05:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ecuadorian World Cup fans takeover Philly’s Rocky Steps",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/ecuadorian-world-cup-fans-takeover-phillys-rocky-steps?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 02:04:51 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump hosts UFC cage fight on the White House lawn",
-      "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 02:02:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US-Iran to sign a ‘peace deal’ on Friday: What we know so far",
-      "link": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 01:40:47 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
-      "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 01:37:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup: Ivory Coast beats Ecuador with late strike from Amad Diallo",
-      "link": "https://www.france24.com/en/sport/20260615-diallo-stuns-ecuador-late-as-ivory-coast-open-world-cup-with-1-0-win",
-      "date": "Mon, 15 Jun 2026 01:33:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US and Iran reach agreement to reopen Hormuz strait, put 'immediate' end to military operations",
-      "link": "https://www.france24.com/en/middle-east/20260615-us-and-iran-agree-to-memorandum-of-understanding-and-immediate-end-to-military-operations",
-      "date": "Mon, 15 Jun 2026 01:19:08 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
-      "link": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 01:13:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
-      "link": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
-      "date": "Mon, 15 Jun 2026 00:54:32 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Stuff Matters... because boring stuff is often actually tremendously interesting",
       "link": "https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395",
-      "date": "Mon, 15 Jun 2026 00:01:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Stuff Matters: LEDs - how a little blue light changed the world",
-      "link": "https://news.sky.com/story/stuff-matters-leds-how-a-little-blue-light-changed-the-world-13553718",
       "date": "Mon, 15 Jun 2026 00:01:00 +0100"
     },
     {
@@ -332,13 +360,6 @@
       "date": "Sun, 14 Jun 2026 19:24:36 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Swiss voters reject 10 million population cap",
-      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 14 Jun 2026 18:23:52 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Spider-Man of Yemen' dies climbing volcanic crater",
@@ -351,13 +372,6 @@
       "text": "British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968",
       "link": "https://news.sky.com/story/hamilton-russell-and-norris-complete-all-british-podium-at-barcelona-catalunya-grand-prix-13554030",
       "date": "Sun, 14 Jun 2026 15:43:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 14 Jun 2026 14:08:03 GMT"
     },
     {
       "src": "The Guardian",
@@ -411,30 +425,16 @@
     {
       "src": "RFI",
       "col": "#8b5cf6",
+      "text": "US and Iran reach deal to end war, reopen Hormuz",
+      "link": "https://www.rfi.fr/en/international/20260613-us-and-iran-reach-deal-to-end-war-reopen-hormuz",
+      "date": "Sat, 13 Jun 2026 11:50:18 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
       "text": "Six Georgians jailed for theft of rare Russian books in France",
       "link": "https://www.rfi.fr/en/international/20260613-six-georgians-jailed-for-theft-of-rare-russian-books-in-france",
       "date": "Sat, 13 Jun 2026 09:38:22 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "US says downed multiple Iran drones as both insist deal closer",
-      "link": "https://www.rfi.fr/en/international/20260613-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
-      "date": "Sat, 13 Jun 2026 05:57:54 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Armenia election result revives hopes of reopening border with Turkey",
-      "link": "https://www.rfi.fr/en/podcasts/international-report/20260613-armenia-election-result-revives-hopes-of-reopening-border-with-turkey",
-      "date": "Sat, 13 Jun 2026 05:24:42 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Leader of Venezuelan gang killed in US strike, Trump says",
-      "link": "https://news.sky.com/story/leader-of-venezuelan-gang-killed-in-us-military-strike-trump-says-13553575",
-      "date": "Sat, 13 Jun 2026 02:26:00 +0100"
     },
     {
       "src": "UN News",
