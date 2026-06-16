@@ -1,97 +1,209 @@
 {
-  "updated": "2026-06-16T05:41:30.507Z",
-  "count": 64,
+  "updated": "2026-06-16T10:49:49.497Z",
+  "count": 63,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Japan raises interest rate to highest since 1995",
-      "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 05:35:57 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU Commission keeps contact with Anthropic over decision to disable models in EU",
+      "link": "https://www.channelnewsasia.com/business/eu-commission-keeps-contact-anthropic-over-decision-disable-models-in-eu-6187081",
+      "date": "Tue, 16 Jun 2026 18:35:11 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "India blocks Telegram messaging app until June 22, government says",
-      "link": "https://www.channelnewsasia.com/business/india-blocks-telegram-messaging-app-until-june-22-government-says-6186501",
-      "date": "Tue, 16 Jun 2026 13:31:05 +0800"
+      "text": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60 billion",
+      "link": "https://www.channelnewsasia.com/business/spacex-buy-cursor-ai-coding-agent-operator-anysphere-60-billion-6187086",
+      "date": "Tue, 16 Jun 2026 18:34:45 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Critical’ with RTS Link launch: Johor’s caretaker chief minister calls on Putrajaya to expedite ART rail plan",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-johor-onn-hafiz-anthony-loke-art-rail-project-6186916",
+      "date": "Tue, 16 Jun 2026 18:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Real Madrid give Rudiger one-year extension to 2027",
+      "link": "https://www.channelnewsasia.com/sport/real-madrid-give-rudiger-one-year-extension-2027-6187071",
+      "date": "Tue, 16 Jun 2026 18:27:20 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Serena Williams handed wildcard for Wimbledon doubles",
+      "link": "https://www.channelnewsasia.com/sport/serena-williams-handed-wildcard-wimbledon-doubles-6187051",
+      "date": "Tue, 16 Jun 2026 18:16:05 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "G7 summit opens full day of talks with Ukraine, Iran and Trump tensions in focus",
+      "link": "https://www.rfi.fr/en/international/20260616-g7-summit-opens-full-day-of-talks-with-ukraine-iran-and-trump-tensions-in-focus",
+      "date": "Tue, 16 Jun 2026 10:08:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "China offers staunch support to Myanmar president during his state visit",
+      "link": "https://www.aljazeera.com/news/2026/6/16/china-offers-staunch-support-to-myanmar-president-during-his-state-visit?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 10:06:22 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France kick off World Cup campaign, with Senegal looking to repeat 2002 upset",
-      "link": "https://www.france24.com/en/sport/20260616-world-cup-2026-france-kick-off-campaign-with-senegal-looking-to-repeat-2002-upset",
-      "date": "Tue, 16 Jun 2026 05:22:42 GMT"
+      "text": "Eldest son of Norway’s crown princess sentenced to 4 years in prison for rape",
+      "link": "https://www.france24.com/en/video/20260616-eldest-son-of-norway-s-crown-princess-sentenced-to-4-years-in-prison-for-rape",
+      "date": "Tue, 16 Jun 2026 10:02:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘We won’t leave children in the cold’: Lebanese monastery opens doors to displaced",
+      "link": "https://www.france24.com/en/video/20260616-we-won-t-leave-children-in-the-cold-lebanese-monastery-opens-doors-to-displaced",
+      "date": "Tue, 16 Jun 2026 09:59:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says Iran deal signed but details remain unclear",
+      "link": "https://www.france24.com/en/video/20260616-trump-says-iran-deal-signed-but-details-remain-unclear",
+      "date": "Tue, 16 Jun 2026 09:52:37 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Tunisia replace coach Lamouchi with Renard after World Cup rout by Sweden says report",
-      "link": "https://www.channelnewsasia.com/sport/tunisia-replace-coach-lamouchi-renard-after-world-cup-rout-sweden-says-report-6186456",
-      "date": "Tue, 16 Jun 2026 12:58:29 +0800"
+      "text": "REUTERS NEXT-Vodafone CEO urges Europe to allow mobile phone groups to scale to drive investment",
+      "link": "https://www.channelnewsasia.com/business/reuters-next-vodafone-ceo-urges-europe-allow-mobile-phone-groups-scale-drive-investment-6186996",
+      "date": "Tue, 16 Jun 2026 17:50:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stablecoins gain in Nigeria for cross-border transfers, IMF says",
+      "link": "https://www.channelnewsasia.com/business/stablecoins-gain-in-nigeria-cross-border-transfers-imf-says-6186986",
+      "date": "Tue, 16 Jun 2026 17:47:43 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gazans displaced by war watch World Cup from the ruins",
+      "link": "https://www.channelnewsasia.com/sport/gazans-displaced-war-watch-world-cup-ruins-6186991",
+      "date": "Tue, 16 Jun 2026 17:46:40 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "UK seizes Russian ‘shadow fleet’ tanker – what that means",
-      "link": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 04:54:06 +0000"
+      "text": "World Cup: Can Senegal stun France again? Predictions, schedule on Day 6",
+      "link": "https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 09:39:06 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China, Myanmar pursue deeper ties as leaders hold talks in Beijing",
-      "link": "https://www.channelnewsasia.com/asia/china-myanmar-deeper-ties-talks-beijing-6186346",
-      "date": "Tue, 16 Jun 2026 12:51:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "G7 summit: A case of Zelenksy and Europe 'versus Trump'?",
+      "link": "https://www.france24.com/en/video/20260616-g7-summit-a-case-of-zelenksy-and-europe-versus-trump",
+      "date": "Tue, 16 Jun 2026 09:27:12 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US says Iran nuclear talks begin after framework deal signing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 04:50:08 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Quality performance shows New Zealand belong at World Cup, coach says",
-      "link": "https://www.channelnewsasia.com/sport/quality-performance-shows-new-zealand-belong-world-cup-coach-says-6186411",
-      "date": "Tue, 16 Jun 2026 12:48:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CNA is Singapore&#039;s most trusted, widely used online news source: Reuters Institute report",
-      "link": "https://www.channelnewsasia.com/singapore/mediacorp-cna-most-trusted-used-news-source-reuters-institute-journalism-media-report-6186171",
-      "date": "Tue, 16 Jun 2026 12:42:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India&#039;s TCS to take $70 million hit after US Supreme Court rejects appeal",
-      "link": "https://www.channelnewsasia.com/business/indias-tcs-take-70-million-hit-after-us-supreme-court-rejects-appeal-6186391",
-      "date": "Tue, 16 Jun 2026 12:40:43 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "India temporarily bans Telegram over exam paper leak concerns",
+      "link": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 16 Jun 2026 09:23:06 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iran draw 2-2 with New Zealand in politically charged World Cup match",
-      "link": "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 04:36:31 +0000"
+      "text": "Iran says Israeli occupation in Lebanon would breach US deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 09:22:26 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fujitsu chairman quits following &#039;woman-related&#039; improper behaviour",
-      "link": "https://www.channelnewsasia.com/business/fujitsu-chairman-quits-following-woman-related-improper-behaviour-6186386",
-      "date": "Tue, 16 Jun 2026 12:33:53 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "G7 leaders meet in France with Iran and Ukraine high on agenda",
+      "link": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 09:13:41 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Freelance cleaner gets jail for stealing after hirer catches her using planted dollar notes",
-      "link": "https://www.channelnewsasia.com/singapore/cleaner-steal-cash-dollar-notes-employer-serial-numbers-6186211",
-      "date": "Tue, 16 Jun 2026 12:20:15 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: France kick off campaign against Senegal",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260616-world-cup-2026-france-kick-off-campaign-against-senegal",
+      "date": "Tue, 16 Jun 2026 09:05:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran fans react to team’s first World Cup match amid political schisms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 09:04:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What to know about this week’s US primary elections",
+      "link": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 08:58:44 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Tunisia sacks coach Lamouchi, appoints Renard after thrashing by Sweden",
+      "link": "https://www.france24.com/en/sport/20260616-world-cup-2026-tunisia-sacks-coach-lamouchi-appoints-renard-after-thrashing-by-sweden",
+      "date": "Tue, 16 Jun 2026 08:46:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Football fans celebrate the World Cup across continents and cultures",
+      "link": "https://www.aljazeera.com/gallery/2026/6/16/football-fans-celebrate-the-world-cup-across-continents-and-cultures?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 08:43:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former CAR president on trial in absentia over crimes against humanity",
+      "link": "https://www.aljazeera.com/news/2026/6/16/former-car-president-on-trial-in-absentia-over-crimes-against-humanity?traffic_source=rss",
+      "date": "Tue, 16 Jun 2026 08:40:02 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Japan raises interest rate to highest for 31 years",
+      "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 16 Jun 2026 08:26:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India blocks Telegram over 'medical entrance exam fraud' concerns",
+      "link": "https://www.france24.com/en/asia-pacific/20260616-india-blocks-telegram-over-medical-entrance-exam-fraud-concerns",
+      "date": "Tue, 16 Jun 2026 07:09:16 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+      "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 16 Jun 2026 07:05:54 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tunisia sack head coach just one game into World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 16 Jun 2026 06:43:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trial begins for former Central African Republic leader Bozizé over war crimes",
+      "link": "https://www.france24.com/en/africa/20260616-former-central-african-republic-leader-boziz%C3%A9-begins-trial-over-war-crimes",
+      "date": "Tue, 16 Jun 2026 06:03:25 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -101,20 +213,6 @@
       "date": "Tue, 16 Jun 2026 04:01:58 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine starts negotiations to join EU",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukraine-starts-negotiations-to-join-eu?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 03:55:20 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump may release US-Iran deal before Friday, Vance says",
-      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 03:54:12 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Iran deal presents political nightmare for Netanyahu",
@@ -122,88 +220,11 @@
       "date": "Tue, 16 Jun 2026 03:40:36 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran held by New Zealand in World Cup opener overshadowed by politics",
-      "link": "https://www.france24.com/en/sport/20260616-iran-held-by-new-zealand-in-world-cup-opener-overshadowed-by-politics",
-      "date": "Tue, 16 Jun 2026 03:20:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Vance says Strait of Hormuz will reopen without tolls",
-      "link": "https://www.france24.com/en/middle-east/20260616-middle-east-live-vance-says-strait-of-hormuz-will-reopen-without-tolls",
-      "date": "Tue, 16 Jun 2026 03:07:25 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
-      "link": "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 02:52:13 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "G7 leaders to meet Zelensky as Trump signals possible Ukraine breakthrough",
-      "link": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
-      "date": "Tue, 16 Jun 2026 02:43:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Social media becomes world’s leading news source, report warns",
-      "link": "https://www.france24.com/en/technology/20260616-social-media-becomes-leading-news-source-report-warns",
-      "date": "Tue, 16 Jun 2026 02:26:22 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
-      "link": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 02:06:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
-      "link": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 02:02:33 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Eight dead after US Air Force B-52 bomber crashes in California",
       "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 16 Jun 2026 01:49:03 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
-      "date": "Tue, 16 Jun 2026 01:38:36 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Eight dead after US B-52 bomber crashes at California air force base",
-      "link": "https://www.france24.com/en/americas/20260616-eight-dead-after-us-b-52-bomber-crashes-at-california-air-force-base",
-      "date": "Tue, 16 Jun 2026 00:15:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Uruguay held to draw by Saudi Arabia on day of surprises",
-      "link": "https://www.france24.com/en/sport/20260616-world-cup-2026-saudi-arabia-hold-uruguay-to-draw-group-h-spain-cape-verde",
-      "date": "Tue, 16 Jun 2026 00:12:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
-      "link": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 00:11:47 GMT"
     },
     {
       "src": "BBC World",
@@ -225,20 +246,6 @@
       "text": "'First line of defence' has collapsed in biggest ever outbreak of rare Ebola strain",
       "link": "https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337",
       "date": "Tue, 16 Jun 2026 00:01:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
-      "link": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 15 Jun 2026 22:29:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France shuts down twelve Israeli stands at defence trade show",
-      "link": "https://www.france24.com/en/france-shuts-down-twelve-israeli-stands-at-defence-trade-show",
-      "date": "Mon, 15 Jun 2026 21:30:31 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -285,7 +292,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Trump has admitted defeat on Iran war after historic blunder",
+      "text": "Iran deal is tacit admission of strategic defeat by Trump administration",
       "link": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
       "date": "Mon, 15 Jun 2026 18:05:00 +0100"
     },
@@ -360,13 +367,6 @@
       "date": "Mon, 15 Jun 2026 07:11:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
-      "link": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
-      "date": "Mon, 15 Jun 2026 06:25:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Macron leads effort to bridge divides with Trump at France's G7 summit",
@@ -421,13 +421,6 @@
       "text": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
       "link": "https://www.rfi.fr/en/international/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
       "date": "Sat, 13 Jun 2026 12:49:09 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "US and Iran reach deal to end war, reopen Hormuz",
-      "link": "https://www.rfi.fr/en/international/20260613-us-and-iran-reach-deal-to-end-war-reopen-hormuz",
-      "date": "Sat, 13 Jun 2026 11:50:18 GMT"
     },
     {
       "src": "The Guardian",
