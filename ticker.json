@@ -1,27 +1,216 @@
 {
-  "updated": "2026-06-17T18:07:47.145Z",
+  "updated": "2026-06-17T20:33:12.919Z",
   "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Ruto invites Arsenal after Kenyan fans celebrate title win",
-      "link": "https://www.channelnewsasia.com/sport/ruto-invites-arsenal-after-kenyan-fans-celebrate-title-win-6191126",
-      "date": "Thu, 18 Jun 2026 01:55:34 +0800"
+      "text": "Portugal&#039;s Ronaldo does little to shake perception he is yesterday&#039;s man",
+      "link": "https://www.channelnewsasia.com/sport/portugals-ronaldo-does-little-shake-perception-he-yesterdays-man-6191366",
+      "date": "Thu, 18 Jun 2026 04:27:02 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Senior US officials dictate memorandum with Iran to journalists",
-      "link": "https://www.channelnewsasia.com/world/senior-us-officials-dictate-memorandum-iran-journalists-6191091",
-      "date": "Thu, 18 Jun 2026 01:53:24 +0800"
+      "text": "Czechs expect a different South Africa, says coach Koubek",
+      "link": "https://www.channelnewsasia.com/sport/czechs-expect-different-south-africa-says-coach-koubek-6191371",
+      "date": "Thu, 18 Jun 2026 04:25:07 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How RFK Jr. Managed to Block Millions in Global Vaccine Funds",
+      "link": "https://foreignpolicy.com/2026/06/17/rfk-kennedy-vaccines-gavi-foreign-aid-funding-global-health/",
+      "date": "Wed, 17 Jun 2026 20:15:36 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Misleading images turn Iran’s World Cup debut into a political flashpoint",
+      "link": "https://www.france24.com/en/misleading-images-turn-iran-s-world-cup-debut-into-a-political-flashpoint",
+      "date": "Wed, 17 Jun 2026 20:12:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why was India’s Cockroach Janta Party founder attacked?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/why-was-indias-cockroach-janta-party-founder-attacked?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 20:10:16 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "R&A and USGA delay golf-ball rollback rule, aimed at reeling in long hitters, to 2030",
-      "link": "https://www.channelnewsasia.com/sport/ra-and-usga-delay-golf-ball-rollback-rule-aimed-reeling-in-long-hitters-2030-6191111",
-      "date": "Thu, 18 Jun 2026 01:53:05 +0800"
+      "text": "Danilo says Brazil must ditch denial after Morocco wake-up call",
+      "link": "https://www.channelnewsasia.com/sport/danilo-says-brazil-must-ditch-denial-after-morocco-wake-up-call-6191326",
+      "date": "Thu, 18 Jun 2026 04:06:49 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
+      "link": "https://www.aljazeera.com/news/2026/6/17/read-the-us-account-of-unreleased-14-point-iran-ceasefire-memorandum?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 20:05:45 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US game on Juneteenth gives chance to showcase team&#039;s diversity",
+      "link": "https://www.channelnewsasia.com/sport/us-game-juneteenth-gives-chance-showcase-teams-diversity-6191331",
+      "date": "Thu, 18 Jun 2026 04:05:30 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Public Anger Mounts as Kenya Cozies Up to Trump",
+      "link": "https://foreignpolicy.com/2026/06/17/kenya-trump-ruto-ties-us-ebola-facility-protests/",
+      "date": "Wed, 17 Jun 2026 20:02:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "S&P 500 falls, yields rise following Fed announcement",
+      "link": "https://www.channelnewsasia.com/business/sp-500-falls-yields-rise-following-fed-announcement-6188901",
+      "date": "Thu, 18 Jun 2026 03:58:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinian residents shocked by devastation in West Bank refugee camp",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/palestinian-residents-shocked-by-devastation-in-west-bank-refugee-camp?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:55:08 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UNHCR campaign to defend fundamental human right to asylum ahead of World Refugee Day",
+      "link": "https://www.france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day",
+      "date": "Wed, 17 Jun 2026 19:48:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "MSF sacks 18 staff over sexual exploitation and abuse of Sudanese refugees in Chad",
+      "link": "https://www.france24.com/en/msf-sacks-18-staff-over-sexual-exploitation-and-abuse-of-sudanese-refugees-in-chad",
+      "date": "Wed, 17 Jun 2026 19:45:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "England - Croatia live: Kane converts penalty to put Three Lions ahead",
+      "link": "https://www.france24.com/en/sport/20260617-england-croatia-live-follow-the-2018-world-cup-semi-final-rematch",
+      "date": "Wed, 17 Jun 2026 19:44:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Send them back’ chants in EU Parliament after anti-migrant bill passes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/send-them-back-chants-in-eu-parliament-after-anti-migrant-bill-passes?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:42:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/17/cape-verde-goalkeeper-vozinhas-mother-gets-visa-to-attend-world-cup?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:37:19 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rangers appoint Hearts boss McInnes as manager, Rohl moves to Salzburg",
+      "link": "https://www.channelnewsasia.com/sport/rangers-appoint-hearts-boss-mcinnes-manager-rohl-moves-salzburg-6191281",
+      "date": "Thu, 18 Jun 2026 03:29:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Unquenchable Scottish thirst for World Cup beer pushes Boston bars to the limit",
+      "link": "https://www.channelnewsasia.com/sport/unquenchable-scottish-thirst-world-cup-beer-pushes-boston-bars-limit-6191276",
+      "date": "Thu, 18 Jun 2026 03:26:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Portugal held to draw by DR Congo in World Cup 2026 opener",
+      "link": "https://www.aljazeera.com/sports/2026/6/17/portugal-held-to-1-1-draw-by-dr-congo-in-their-world-cup-2026-opener?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:25:38 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Freed Palestinian prisoner meets son conceived with smuggled sperm",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/freed-palestinian-prisoner-meets-son-conceived-with-smuggled-sperm?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:21:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "RB Leipzig sack coach Werner",
+      "link": "https://www.channelnewsasia.com/sport/rb-leipzig-sack-coach-werner-6191241",
+      "date": "Thu, 18 Jun 2026 03:16:37 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump eyes US-Iran ‘peace deal’ signing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 19:14:45 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Resilient DR Congo hold off Ronaldo's Portugal onslaught",
+      "link": "https://www.france24.com/en/sport/20260617-world-cup-2026-resilient-dr-congo-hold-off-ronaldo-s-portugal-onslaught",
+      "date": "Wed, 17 Jun 2026 19:06:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Diluting uranium, oil sales: What's in the draft US-Iran deal?",
+      "link": "https://www.france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal",
+      "date": "Wed, 17 Jun 2026 19:05:33 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Resilient DR Congo hold off Ronaldo's Portugal onslaught",
+      "link": "https://www.france24.com/en/sport/20260617-world-cup-2026-resilient-dr-congo-hold-off-ronaldo-s-portugal-onslaught",
+      "date": "Wed, 17 Jun 2026 19:05:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ex-Nigeria oil minister cleared in UK bribery trial",
+      "link": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 19:03:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel's special relationship with US 'seems to have melted into a pretty bad break-up'",
+      "link": "https://www.france24.com/en/israel-s-special-relationship-with-us-seems-to-have-melted-into-a-pretty-bad-break-up",
+      "date": "Wed, 17 Jun 2026 18:52:19 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’",
+      "link": "https://foreignpolicy.com/2026/06/17/indo-pacific-strategy-trump-military-command-indopacom-pacom/",
+      "date": "Wed, 17 Jun 2026 18:45:41 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+      "link": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+      "date": "Wed, 17 Jun 2026 18:24:06 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump says 'nobody' attacked Iranian girls' school 'on purpose'",
+      "link": "https://news.sky.com/story/donald-trump-says-nobody-attacked-iranian-girls-school-on-purpose-13555105",
+      "date": "Wed, 17 Jun 2026 19:08:00 +0100"
     },
     {
       "src": "BBC World",
@@ -31,165 +220,11 @@
       "date": "Wed, 17 Jun 2026 17:45:54 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Haaland World Cup goals shook Norway&#039;s foundations, says seismology institute",
-      "link": "https://www.channelnewsasia.com/sport/haaland-world-cup-goals-shook-norways-foundations-says-seismology-institute-6191046",
-      "date": "Thu, 18 Jun 2026 01:25:21 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UEFA hit Marseille with fine, squad restrictions for breaching financial rules",
-      "link": "https://www.channelnewsasia.com/sport/uefa-hit-marseille-fine-squad-restrictions-breaching-financial-rules-6191036",
-      "date": "Thu, 18 Jun 2026 01:21:19 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Heroic Cape Verde keeper Vozinha to be reunited with mum at World Cup after visa issue",
-      "link": "https://www.channelnewsasia.com/sport/heroic-cape-verde-keeper-vozinha-be-reunited-mum-world-cup-after-visa-issue-6191041",
-      "date": "Thu, 18 Jun 2026 01:19:08 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Luigi Mangione to use psychiatric defence in healthcare CEO murder case",
-      "link": "https://www.aljazeera.com/news/2026/6/17/luigi-mangione-to-use-psychiatric-defence-in-healthcare-ceo-murder-case?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 17:15:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-      "link": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 17:14:31 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Analysis:SPACs are back, thanks to Wall Street&#039;s mega-IPO frenzy",
-      "link": "https://www.channelnewsasia.com/business/analysisspacs-are-back-thanks-wall-streets-mega-ipo-frenzy-6190986",
-      "date": "Thu, 18 Jun 2026 01:08:03 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nippon Steel sees strong American market lifting US Steel earnings",
-      "link": "https://www.channelnewsasia.com/business/nippon-steel-sees-strong-american-market-lifting-us-steel-earnings-6190981",
-      "date": "Thu, 18 Jun 2026 01:02:13 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Young Palestinian women learn AI to tell stories of war on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/young-palestinian-women-learn-ai-to-tell-stories-of-war-on-gaza?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:58:42 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
       "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 17 Jun 2026 16:50:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump pushes to delay appointment of new spy chief in legislative standoff",
-      "link": "https://www.aljazeera.com/news/2026/6/17/trump-pushes-to-delay-appointment-of-new-spy-chief-in-legislative-standoff?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:43:43 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-      "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 16:37:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Massive brush fire sends thick smoke over western Miami",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:36:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump: ‘Very strong’ Iran deal is a ‘wall to a nuclear weapon’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:30:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why are experts warning latest Ebola outbreak could be ‘worst ever’?",
-      "link": "https://www.aljazeera.com/news/2026/6/17/why-are-experts-warning-latest-ebola-outbreak-could-be-worst-ever?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:15:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England vs Croatia LIVE: World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/17/england-vs-croatia-live-world-cup-2026?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 16:10:06 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "G7 summit hailed a success by Macron thanks to developments on Ukraine and Iran",
-      "link": "https://www.france24.com/en/g7-summit-hailed-a-success-by-macron-thanks-to-developments-on-ukraine-and-iran",
-      "date": "Wed, 17 Jun 2026 15:55:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South Africa commemorates 50 year-old anniversary of Soweto uprising",
-      "link": "https://www.france24.com/en/south-africa-commemorates-50-year-old-anniversary-of-soweto-uprising",
-      "date": "Wed, 17 Jun 2026 15:53:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Replay: Macron holds press conference as G7 summit comes to an end",
-      "link": "https://www.france24.com/en/replay-macron-holds-press-conference-as-g7-summit-comes-to-an-end",
-      "date": "Wed, 17 Jun 2026 15:50:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Not all skinny: The French do get fat",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260617-not-all-skinny-the-french-do-get-fat",
-      "date": "Wed, 17 Jun 2026 15:21:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France examines bill to rein in ultra-fast-fashion's expansion",
-      "link": "https://www.france24.com/en/france-examines-bill-to-rein-in-ultra-fast-fashion-s-expansion",
-      "date": "Wed, 17 Jun 2026 15:14:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Replay: Trump meets Modi, addresses memorandum of understanding in Iran and FRANCE 24's analysis",
-      "link": "https://www.france24.com/en/replay-trump-meets-modi-addresses-memorandum-of-understanding-in-iran-and-france-24-s-analysis",
-      "date": "Wed, 17 Jun 2026 15:12:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "From YouTube to box office history: The Gen Z director rewriting the rules of cinema",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260617-from-youtube-to-box-office-history-the-gen-z-director-rewriting-the-rules-of-cinema",
-      "date": "Wed, 17 Jun 2026 15:11:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Israeli settlers torch mosque",
-      "link": "https://www.france24.com/en/video/20260617-west-bank-israeli-settlers-torch-mosque",
-      "date": "Wed, 17 Jun 2026 15:09:43 GMT"
     },
     {
       "src": "Sky News",
@@ -213,11 +248,25 @@
       "date": "Wed, 17 Jun 2026 13:27:47 GMT"
     },
     {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "link": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "date": "Wed, 17 Jun 2026 13:04:58 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Bystanders smash windows of private jet to rescue passengers after crash",
       "link": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 17 Jun 2026 12:53:27 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167742",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -374,41 +423,6 @@
       "date": "Tue, 16 Jun 2026 21:32:04 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Will China Learn From the Iran War?",
-      "link": "https://foreignpolicy.com/2026/06/16/china-iran-war-lessons-energy-oil-diplomacy/",
-      "date": "Tue, 16 Jun 2026 21:31:47 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Puts Russia-Ukraine War on the Back Burner",
-      "link": "https://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/",
-      "date": "Tue, 16 Jun 2026 21:12:41 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "The US-Iran agreement: Breakthrough or bluff?",
-      "link": "https://news.sky.com/story/the-us-iran-agreement-breakthrough-or-bluff-13554796",
-      "date": "Tue, 16 Jun 2026 21:32:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "‘It&#8217;s Not Competitive in Nature’",
-      "link": "https://foreignpolicy.com/2026/06/16/india-ambassador-us-kwatra-modi-trump/",
-      "date": "Tue, 16 Jun 2026 19:35:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
-      "link": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
-      "date": "Tue, 16 Jun 2026 17:47:30 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "What we know about Russian warship that fired warning shots in English Channel",
@@ -472,25 +486,11 @@
       "date": "Tue, 16 Jun 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Resettlement remains out of reach for millions of refugees",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167729",
-      "date": "Tue, 16 Jun 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "G7 summit opens full day of talks with Ukraine, Iran and Trump tensions in focus",
       "link": "https://www.rfi.fr/en/international/20260616-g7-summit-opens-full-day-of-talks-with-ukraine-iran-and-trump-tensions-in-focus",
       "date": "Tue, 16 Jun 2026 10:08:09 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Canada eliminates human rights watchdog that oversees companies operating abroad",
-      "link": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
-      "date": "Mon, 15 Jun 2026 18:36:55 GMT"
     },
     {
       "src": "The Guardian",
