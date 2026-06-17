@@ -1,102 +1,249 @@
 {
-  "updated": "2026-06-17T07:06:53.958Z",
+  "updated": "2026-06-17T12:00:08.507Z",
   "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Telegram challenging Indian government order that temporarily blocks its use, report says",
-      "link": "https://www.channelnewsasia.com/business/telegram-challenging-indian-government-order-temporarily-blocks-its-use-report-says-6189586",
-      "date": "Wed, 17 Jun 2026 14:44:22 +0800"
+      "text": "CNA Explains: How the costly global business of recycling is hurting Singapore&#039;s zero-waste push",
+      "link": "https://www.channelnewsasia.com/singapore/cna-explains-how-global-economics-affects-singapore-recycling-zero-waste-goal-6190021",
+      "date": "Wed, 17 Jun 2026 19:49:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump threatens &#039;dropping bombs&#039; if Iran doesn&#039;t &#039;behave&#039;",
+      "link": "https://www.channelnewsasia.com/world/trump-iran-war-mou-bomb-military-action-6190266",
+      "date": "Wed, 17 Jun 2026 19:49:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel takes control of Hebron’s Ibrahimi Mosque: What this means",
+      "link": "https://www.aljazeera.com/news/2026/6/17/israel-takes-control-of-hebrons-ibrahimi-mosque-what-next?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 11:41:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Blue Origin starts launch pad rebuild, targets New Glenn rocket return in 2026",
+      "link": "https://www.channelnewsasia.com/business/blue-origin-starts-launch-pad-rebuild-targets-new-glenn-rocket-return-in-2026-6190246",
+      "date": "Wed, 17 Jun 2026 19:16:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI use in UK hits &#039;tipping point&#039; as companies scale up, Google exec says",
+      "link": "https://www.channelnewsasia.com/business/ai-use-in-uk-hits-tipping-point-companies-scale-up-google-exec-says-6190251",
+      "date": "Wed, 17 Jun 2026 19:14:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
+      "link": "https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 10:57:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Makerfield: the local election that could change the UK",
+      "link": "https://www.france24.com/en/video/20260617-makerfield-the-local-election-that-could-change-the-uk",
+      "date": "Wed, 17 Jun 2026 10:53:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Formula One records 35% drop in carbon footprint since 2018",
+      "link": "https://www.channelnewsasia.com/sport/formula-one-records-35-drop-in-carbon-footprint-2018-6190181",
+      "date": "Wed, 17 Jun 2026 18:52:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Floyd Mayweather faces theft charges for using bad cheque to buy a watch",
+      "link": "https://www.aljazeera.com/sports/2026/6/17/floyd-mayweather-theft-charges-bad-cheque-luxury-watch-boxing?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 10:51:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cambodia scam centre leader extradited to China",
+      "link": "https://www.channelnewsasia.com/asia/cambodia-scam-centre-leader-liu-ren-extradited-china-6190126",
+      "date": "Wed, 17 Jun 2026 18:41:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sri Lanka ex-leader&#039;s son arrested over corruption",
+      "link": "https://www.channelnewsasia.com/asia/sri-lanka-former-president-son-arrested-corruption-6190146",
+      "date": "Wed, 17 Jun 2026 18:39:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Polish civilians take army training course amid spectre of war with Russia",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260617-polish-civilians-take-army-training-course-amid-spectre-of-war-with-russia",
+      "date": "Wed, 17 Jun 2026 10:36:21 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s Mumbai rations water supply as June rainfall hits 12-year low",
+      "link": "https://www.channelnewsasia.com/sustainability/india-mumbai-rainfall-drops-water-supply-rationing-6190121",
+      "date": "Wed, 17 Jun 2026 18:33:57 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 10:15:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazil Supreme Court sentences Bolsonaro's son over US lobbying",
+      "link": "https://www.france24.com/en/brazil-supreme-court-sentences-bolsonaro-s-son-over-us-lobbying",
+      "date": "Wed, 17 Jun 2026 10:12:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "After a long wait, JR's Pont Neuf installation opens to the public",
+      "link": "https://www.france24.com/en/after-long-wait-jr-s-pont-neuf-installation-opens-to-the-public",
+      "date": "Wed, 17 Jun 2026 10:08:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paris's BHV ends short but controversial partnership with Shein",
+      "link": "https://www.france24.com/en/paris-s-bhv-ends-short-but-controversial-partnership-with-shein",
+      "date": "Wed, 17 Jun 2026 10:05:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "DR Congo Ebola outbreak could become worst in history as thousands not being traced",
+      "link": "https://www.france24.com/en/dr-congo-ebola-outbreak-could-become-worst-in-history-as-thousands-not-being-traced",
+      "date": "Wed, 17 Jun 2026 10:02:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 10:01:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US signals to return of sanctions on Russia as G7 unites around Ukraine",
+      "link": "https://www.france24.com/en/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine",
+      "date": "Wed, 17 Jun 2026 10:00:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands flock back to south Lebanon despite Israeli strikes amid US-Iran deal",
+      "link": "https://www.france24.com/en/thousands-flock-back-to-south-lebanon-despite-israeli-strikes-amid-us-iran-deal",
+      "date": "Wed, 17 Jun 2026 09:59:13 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 09:56:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
+      "link": "https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 09:53:28 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Equatorial Guinea government resigns after failing to meet targets",
+      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 09:52:52 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Hundreds of cats stolen for meat rescued in Vietnam",
+      "link": "https://news.sky.com/story/hundreds-of-cats-stolen-for-meat-rescued-by-police-in-vietnam-13554920",
+      "date": "Wed, 17 Jun 2026 10:38:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
+      "link": "https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 09:28:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
+      "link": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 09:22:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup predictions: Portugal vs DR Congo, England vs Croatia and more",
+      "link": "https://www.aljazeera.com/news/2026/6/17/world-cup-predictions-portugal-vs-dr-congo-england-vs-croatia-and-more?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 09:21:01 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 09:13:34 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Iran’s Victory Is More Pyrrhic Than It Looks",
+      "link": "https://foreignpolicy.com/2026/06/17/irans-victory-war-pyrrhic/",
+      "date": "Wed, 17 Jun 2026 09:06:57 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "link": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "date": "Wed, 17 Jun 2026 09:00:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vietnam police rescue more than 400 cats from animal theft crime ring",
+      "link": "https://www.aljazeera.com/news/2026/6/17/vietnam-police-rescue-over-400-cats-from-illegal-meat-trade?traffic_source=rss",
+      "date": "Wed, 17 Jun 2026 08:58:04 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Elon Musk and the Rise of Space Capitalism",
+      "link": "https://foreignpolicy.com/2026/06/17/elon-musk-spacex-ipo-space-commercial-satellites-india-china/",
+      "date": "Wed, 17 Jun 2026 08:48:12 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
       "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 06:42:06 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Uzbek president pledges continued reforms, tax-free zone at Tashkent forum",
-      "link": "https://www.channelnewsasia.com/business/uzbek-president-pledges-continued-reforms-tax-free-zone-tashkent-forum-6189576",
-      "date": "Wed, 17 Jun 2026 14:41:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Abuse of bus captains on the rise as union looks to expand mental wellness support",
-      "link": "https://www.channelnewsasia.com/singapore/bus-captain-abuse-mental-health-support-transport-workers-6189466",
-      "date": "Wed, 17 Jun 2026 14:38:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England vs Croatia – World Cup 2026: Kane, predictions, TV channel, kickoff",
-      "link": "https://www.aljazeera.com/sports/2026/6/17/england-vs-croatia-world-cup-2026-prediction-kickoff-time-tv-listing-preview-kane-modric?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 06:31:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Analysts predict no US petrol price drop until 2027",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/analysts-predict-no-us-petrol-price-drop-until-2027?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 06:23:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Austria return from long World Cup absence with nervy 3-1 win over Jordan",
-      "link": "https://www.channelnewsasia.com/sport/world-cup-austria-return-3-1-win-jordan-6189556",
-      "date": "Wed, 17 Jun 2026 14:21:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Satellite images show 10 places where water is disappearing globally",
-      "link": "https://www.aljazeera.com/news/2026/6/17/satellite-images-show-10-places-where-water-is-disappearing-globally?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 06:15:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How past ‘terrorist’ movements are often judged right by history",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/how-past-terrorist-movements-are-often-judged-right-by-history?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 06:14:27 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN chief blames global indifference for Haiti crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-chief-blames-global-indifference-for-haiti-crisis?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 06:05:52 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Poland and Germany to sign scaled down defence deals",
-      "link": "https://www.channelnewsasia.com/world/poland-and-germany-sign-scaled-down-defence-deals-6189286",
-      "date": "Wed, 17 Jun 2026 14:02:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "HDB-themed cafe Lou Shang to close after nearly three years: &#039;The business was hard to maintain&#039;",
-      "link": "https://www.channelnewsasia.com/dining/lou-shang-hdb-cafe-closing-6189401",
-      "date": "Wed, 17 Jun 2026 13:45:51 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup: France and Kylian Mbappé off to flying start in group L",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260617-world-cup-france-and-kylian-mbapp%C3%A9-off-to-flying-start-in-group-l",
-      "date": "Wed, 17 Jun 2026 05:43:37 GMT"
+      "date": "Wed, 17 Jun 2026 08:38:24 GMT"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Body found in search for 23-year-old Briton who went missing in sea off Portugal",
+      "text": "Body found in search for Briton missing off Portugal coast",
       "link": "https://news.sky.com/story/body-found-in-search-for-23-year-old-briton-who-went-missing-while-swimming-in-sea-off-portugal-13554854",
       "date": "Wed, 17 Jun 2026 06:40:00 +0100"
     },
@@ -106,34 +253,6 @@
       "text": "Messi equals World Cup scoring record as Argentina beat Algeria",
       "link": "https://www.rfi.fr/en/international/20260617-messi-equals-world-cup-scoring-record-as-argentina-beat-algeria",
       "date": "Wed, 17 Jun 2026 05:33:40 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Goal machines Messi, Haaland and Mbappe give their teams perfect starts",
-      "link": "https://www.channelnewsasia.com/sport/goal-machines-messi-haaland-and-mbappe-give-their-teams-perfect-starts-6189461",
-      "date": "Wed, 17 Jun 2026 13:13:28 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Vozinha’s mum celebrates hero keeper son from afar",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/vozinhas-mum-celebrates-hero-keeper-son-from-afar?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 05:12:03 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysia’s opposition party Bersatu says ready to fight PAS ‘on all fronts’ amid political divorce",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-bersatu-muhyiddin-yassin-pas-perikatan-nasional-6189351",
-      "date": "Wed, 17 Jun 2026 13:11:16 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Food shortages spark scuffles outside supermarket in Bolivia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/food-shortages-spark-scuffles-outside-supermarket-in-bolivia?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 05:07:45 +0000"
     },
     {
       "src": "The Guardian",
@@ -152,9 +271,16 @@
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "EU steps up Channel crackdown with more staff and surveillance",
+      "text": "EU steps up Channel migrant crackdown with more staff and surveillance",
       "link": "https://www.rfi.fr/en/international/20260617-eu-steps-up-channel-crackdown-with-more-staff-and-surveillance",
       "date": "Wed, 17 Jun 2026 04:41:29 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "link": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 17 Jun 2026 04:08:29 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -164,46 +290,11 @@
       "date": "Wed, 17 Jun 2026 04:01:40 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi rewrites history books at record sixth World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/17/lionel-messi-rewrites-history-books-at-record-sixth-world-cup?traffic_source=rss",
-      "date": "Wed, 17 Jun 2026 03:51:34 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Argentina’s Messi equals World Cup goalscoring record with hat-trick in defeat of Algeria",
-      "link": "https://www.france24.com/en/sport/20260617-argentina-messi-opens-record-sixth-world-cup-with-hat-trick-victory-against-algeria",
-      "date": "Wed, 17 Jun 2026 03:00:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Argentina’s Messi equals World Cup goalscoring record with hat-trick in defeat of Algeria",
-      "link": "https://www.france24.com/en/sport/20260617-argentina-messi-opens-record-sixth-world-cup-with-hat-trick-victory-against-algeria",
-      "date": "Wed, 17 Jun 2026 03:00:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Israel strikes southern Lebanon after Iran threatens ‘harsh response’",
-      "link": "https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon",
-      "date": "Wed, 17 Jun 2026 02:58:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UN chief Guterres visits Haiti as gang violence surges",
-      "link": "https://www.france24.com/en/americas/20260617-un-chief-guterres-visits-haiti-as-gang-violence-surges",
-      "date": "Wed, 17 Jun 2026 02:13:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Macron invites Trump to Versailles dinner as G7 summit wraps up",
-      "link": "https://www.france24.com/en/france/20260617-macron-invites-trump-to-versailles-dinner-as-g7-summit-wraps-up",
-      "date": "Wed, 17 Jun 2026 01:37:14 GMT"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
+      "link": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
+      "date": "Wed, 17 Jun 2026 04:00:21 GMT"
     },
     {
       "src": "RFI",
@@ -211,20 +302,6 @@
       "text": "G7 leaders discuss AI risks before Macron hosts Trump at Versailles",
       "link": "https://www.rfi.fr/en/international/20260617-macron-winds-up-g7-with-ai-trump-dinner",
       "date": "Wed, 17 Jun 2026 01:36:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France midfielder Rabiot joins Vinicius in criticising World Cup final pitch",
-      "link": "https://www.france24.com/en/sport/20260617-france-midfielder-rabiot-joins-vinicius-criticises-world-cup-final-pitch-new-york-metlife",
-      "date": "Wed, 17 Jun 2026 00:57:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil Supreme Court convicts Bolsonaro's son for courting US help during coup trial",
-      "link": "https://www.france24.com/en/americas/20260617-brazil-supreme-court-eduardo-bolsonaro-over-us-sanctions-push",
-      "date": "Wed, 17 Jun 2026 00:54:31 GMT"
     },
     {
       "src": "BBC World",
@@ -297,27 +374,6 @@
       "date": "Tue, 16 Jun 2026 19:26:35 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran Is a Bigger Defeat Than Vietnam",
-      "link": "https://foreignpolicy.com/2026/06/16/iran-vietnam-strategy-defeat/",
-      "date": "Tue, 16 Jun 2026 19:04:50 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Drug War Tactics Don’t Work",
-      "link": "https://foreignpolicy.com/2026/06/16/colombia-cocaine-usaid-drugs-trump/",
-      "date": "Tue, 16 Jun 2026 18:33:40 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "German broadcaster removes TV intro after Elon Musk takes legal action",
-      "link": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 17:57:00 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
@@ -325,32 +381,11 @@
       "date": "Tue, 16 Jun 2026 17:47:30 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian artist and Putin critic shot dead in Poland",
-      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 17:33:50 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "'Russia poses a direct threat to our nation': Warship fires warning shots in English Channel",
+      "text": "What we know about Russian warship that fired warning shots in English Channel",
       "link": "https://news.sky.com/story/what-we-know-about-russian-warship-that-fired-warning-shots-in-english-channel-13554751",
       "date": "Tue, 16 Jun 2026 18:27:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
-      "link": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 17:17:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 16:20:33 GMT"
     },
     {
       "src": "RFI",
@@ -365,20 +400,6 @@
       "text": "Russian artist who criticised Putin is shot dead",
       "link": "https://news.sky.com/story/russian-artist-who-criticised-putin-shot-dead-near-home-in-poland-13554708",
       "date": "Tue, 16 Jun 2026 16:34:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 15:31:24 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
-      "link": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 16 Jun 2026 14:46:35 GMT"
     },
     {
       "src": "RFI",
@@ -458,13 +479,6 @@
       "date": "Tue, 16 Jun 2026 10:08:09 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'First line of defence' has collapsed in biggest ever outbreak of rare Ebola strain",
-      "link": "https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337",
-      "date": "Tue, 16 Jun 2026 00:01:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canada eliminates human rights watchdog that oversees companies operating abroad",
@@ -491,20 +505,6 @@
       "text": "France's Macron warns Iran against imposing Hormuz tolls",
       "link": "https://www.rfi.fr/en/international/20260615-france-s-macron-warns-iran-against-imposing-hormuz-tolls",
       "date": "Mon, 15 Jun 2026 12:40:15 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
-      "link": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
-      "date": "Mon, 15 Jun 2026 04:00:01 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "London council seizes social housing flat rented by Sierra Leone first lady",
-      "link": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "date": "Thu, 11 Jun 2026 15:19:15 GMT"
     }
   ]
 }
