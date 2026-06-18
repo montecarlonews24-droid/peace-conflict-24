@@ -1,34 +1,209 @@
 {
-  "updated": "2026-06-18T20:06:52.234Z",
-  "count": 62,
+  "updated": "2026-06-18T22:28:25.594Z",
+  "count": 60,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norwegian parliament gets behind World Cup team with fans&#039; Viking rowing display",
+      "link": "https://www.channelnewsasia.com/sport/norwegian-parliament-gets-behind-world-cup-team-fans-viking-rowing-display-6194371",
+      "date": "Fri, 19 Jun 2026 06:22:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US court rules Ohio can restrict children&#039;s use of social media",
+      "link": "https://www.channelnewsasia.com/business/us-court-rules-ohio-can-restrict-childrens-use-social-media-6194361",
+      "date": "Fri, 19 Jun 2026 06:18:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cape Verde keeper Vozinha delighted as mother gets World Cup visa",
+      "link": "https://www.channelnewsasia.com/sport/cape-verde-keeper-vozinha-delighted-mother-gets-world-cup-visa-6194366",
+      "date": "Fri, 19 Jun 2026 06:17:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haaland goes under the radar in New York City",
+      "link": "https://www.channelnewsasia.com/sport/haaland-goes-under-radar-in-new-york-city-6194356",
+      "date": "Fri, 19 Jun 2026 06:10:56 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mamdani gives New York Knicks keys to city after NBA title",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 22:01:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Intel taps industry veteran Seok-Hee Lee to lead foundry packaging push",
+      "link": "https://www.channelnewsasia.com/business/intel-taps-industry-veteran-seok-hee-lee-lead-foundry-packaging-push-6194346",
+      "date": "Fri, 19 Jun 2026 06:00:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tunisia&#039;s new coach faces baptism of fire against &#039;best team in Asia&#039;",
+      "link": "https://www.channelnewsasia.com/sport/tunisias-new-coach-faces-baptism-fire-against-best-team-in-asia-6194351",
+      "date": "Fri, 19 Jun 2026 06:00:34 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: PAS the party to watch in Johor and Negeri Sembilan polls",
+      "link": "https://www.channelnewsasia.com/commentary/malaysia-election-pas-bersatu-umno-johor-negeri-sembilan-anwar-6192746",
+      "date": "Fri, 19 Jun 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Zero-waste plan review should focus on changing recycling habits, with penalties as last resort: Experts",
+      "link": "https://www.channelnewsasia.com/singapore/zero-waste-masterplan-review-beyond-awareness-correct-attitude-infrastructure-recycling-6192566",
+      "date": "Fri, 19 Jun 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Vance Peace Deal",
+      "link": "https://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/",
+      "date": "Thu, 18 Jun 2026 21:59:21 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "How much of a win can each side really claim in the US-Iran deal",
+      "text": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 21:47:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 21:34:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Are prices really dropping in the US, as Trump claims?",
+      "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 21:30:41 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Did a Hitler lookalike really attend Germany's World Cup game?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260618-did-a-hitler-lookalike-really-attend-germany-s-world-cup-game",
+      "date": "Thu, 18 Jun 2026 21:28:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Cuba’s Communist Party approves opening economy in unprecedented move",
+      "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 21:28:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
+      "date": "Thu, 18 Jun 2026 21:15:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 21:15:13 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
+      "date": "Thu, 18 Jun 2026 21:14:04 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "link": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 21:13:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Obama opens Chicago presidential center, urges Americans to defend democracy",
+      "link": "https://www.france24.com/en/americas/20260618-barack-obama-opens-presidential-center-chicago-democracy",
+      "date": "Thu, 18 Jun 2026 21:12:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Conjoined twins separated after surgery in Saudi Arabia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 21:02:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'We cleared the plates': Versailles dinner becomes stage for Trump's surprise signature of Iran deal",
+      "link": "https://www.france24.com/en/we-cleared-the-plates-versailles-dinner-becomes-stage-trump-surprise-signature-iran-deal",
+      "date": "Thu, 18 Jun 2026 20:56:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Neymar will not play in Brazil’s World Cup match against Haiti due to injury",
+      "link": "https://www.aljazeera.com/sports/2026/6/18/neymar-will-not-play-in-brazils-world-cup-match-against-haiti-due-to-injury?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 20:49:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ivory Coast’s Elye Wahi granted Canadian visa hours after denial",
+      "link": "https://www.aljazeera.com/sports/2026/6/18/ivory-coasts-elye-wahi-granted-canadian-visa-hours-after-denial?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 20:32:14 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 20:27:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ghana pushes for concrete slavery reparations",
+      "link": "https://www.france24.com/en/ghana-pushes-for-concrete-slavery-reparations",
+      "date": "Thu, 18 Jun 2026 20:21:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "VivaTech 2026: Can AI become the next beauty adviser? L'Oréal thinks so",
+      "link": "https://www.france24.com/en/tv-shows/business/20260618-vivatech-2026-can-ai-become-the-next-beauty-advisor-l-or%C3%A9al-thinks-so",
+      "date": "Thu, 18 Jun 2026 20:17:08 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What Iran and US get from deal and why both could struggle to keep it",
       "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 18 Jun 2026 20:04:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Czechs closer to victory than South Africa, says Koubek",
-      "link": "https://www.channelnewsasia.com/sport/czechs-closer-victory-south-africa-says-koubek-6194146",
-      "date": "Fri, 19 Jun 2026 04:02:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Africa coach praises team’s fightback against Czech Republic",
-      "link": "https://www.channelnewsasia.com/sport/south-africa-coach-praises-teams-fightback-against-czech-republic-6194131",
-      "date": "Fri, 19 Jun 2026 03:55:18 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
-      "link": "https://www.channelnewsasia.com/business/openai-introduces-enhanced-usage-analytics-ai-spending-controls-chatgpt-enterprise-6194116",
-      "date": "Fri, 19 Jun 2026 03:52:09 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Israeli Officials and U.S. Lawmakers Slam Iran Deal",
+      "link": "https://foreignpolicy.com/2026/06/18/us-iran-peace-deal-mou-israel-hezbollah-lebanon-congress/",
+      "date": "Thu, 18 Jun 2026 19:59:48 +0000"
     },
     {
       "src": "France 24",
@@ -38,46 +213,11 @@
       "date": "Thu, 18 Jun 2026 19:51:35 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vaughan urges ECB to make decision on Stokes&#039; captaincy",
-      "link": "https://www.channelnewsasia.com/sport/vaughan-urges-ecb-make-decision-stokes-captaincy-6194121",
-      "date": "Fri, 19 Jun 2026 03:49:03 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US military says it has lifted naval blockade of Iranian ports",
-      "link": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 19:43:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scotland will revel as underdogs against Morocco, coach Clarke says",
-      "link": "https://www.channelnewsasia.com/sport/scotland-will-revel-underdogs-against-morocco-coach-clarke-says-6194091",
-      "date": "Fri, 19 Jun 2026 03:37:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spurs sign Dutch World Cup defender Van Hecke as rebuild gathers pace",
-      "link": "https://www.channelnewsasia.com/sport/spurs-sign-dutch-world-cup-defender-van-hecke-rebuild-gathers-pace-6194096",
-      "date": "Fri, 19 Jun 2026 03:33:51 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Ordinary Iranians Won’t See a Dime of Trump’s Money",
       "link": "https://foreignpolicy.com/2026/06/18/trump-iranians-economy-irgc-corruption-memorandum/",
       "date": "Thu, 18 Jun 2026 19:19:42 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US lifts blockade of Iran and Iranian supreme leader endorses direct talks with American officials",
-      "link": "https://www.channelnewsasia.com/world/us-lifts-blockade-iran-and-iranian-supreme-leader-endorses-direct-talks-american-officials-6194056",
-      "date": "Fri, 19 Jun 2026 03:16:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -94,11 +234,11 @@
       "date": "Thu, 18 Jun 2026 19:09:47 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool sign Spain&#039;s World Cup forward Munoz from Osasuna",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-sign-spains-world-cup-forward-munoz-osasuna-6194061",
-      "date": "Fri, 19 Jun 2026 03:09:15 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How the Iran War Reshaped the Global Landscape of Power",
+      "link": "https://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/",
+      "date": "Thu, 18 Jun 2026 19:09:07 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -115,13 +255,6 @@
       "date": "Thu, 18 Jun 2026 18:55:09 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can the Global South have a say in global affairs?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 18:51:11 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Brief History of Political Trolling",
@@ -136,123 +269,11 @@
       "date": "Thu, 18 Jun 2026 18:36:19 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Cup 2026: South Africa grab draw with Czechia with late penalty",
-      "link": "https://www.aljazeera.com/sports/2026/6/18/woerld-cup-2026-south-africa-grab-1-1-draw-with-czechia-with-late-penalty?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 18:26:53 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Real Reason Nothing Works in Britain",
-      "link": "https://foreignpolicy.com/2026/06/18/britain-land-where-nothing-works-twilight-dons-uk-history/",
-      "date": "Thu, 18 Jun 2026 18:20:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan signs US-Iran MoU",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 18:14:55 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Signing off? Trump rushes to turn page on Iran war",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260618-signing-off-trump-rushes-to-turn-page-on-iran-war",
-      "date": "Thu, 18 Jun 2026 18:11:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US-Iran deal: Key questions remain over status of Strait of Hormuz",
-      "link": "https://www.france24.com/en/us-iran-deal-key-questions-remain-over-status-of-strait-of-hormuz",
-      "date": "Thu, 18 Jun 2026 18:02:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mighty is the paintbrush: Semyon Skrepetsky, the Russian dissident artist shot and killed in Poland",
-      "link": "https://www.france24.com/en/europe/20260618-mighty-the-paintbrush-semyon-skrepetsky-the-russian-dissident-artist-shot-and-killed-poland",
-      "date": "Thu, 18 Jun 2026 18:02:13 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-      "link": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 18:01:51 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: South Africa fight back to earn draw against Czech Republic",
-      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-south-africa-fight-back-to-earn-draw-against-czech-republic",
-      "date": "Thu, 18 Jun 2026 17:59:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: South Africa fight back to earn draw against Czech Republic",
-      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-south-africa-fight-back-to-earn-draw-against-czech-republic",
-      "date": "Thu, 18 Jun 2026 17:59:12 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Barbados prime minister announces manifesto for slavery reparations",
       "link": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
       "date": "Thu, 18 Jun 2026 17:52:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 18 Jun 2026 17:51:35 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Somalia warns Israel against meddling in Somaliland",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 17:39:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US vice president slams Israel over criticism of Trump’s Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 17:35:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Grief, tears as families hold rites for Indian sailors killed in US strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/grief-tears-as-families-hold-rites-for-indian-sailors-killed-in-us-strike?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 17:33:59 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 18 Jun 2026 17:28:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "AI: 'Tech is profoundly political', reveals European and US values",
-      "link": "https://www.france24.com/en/video/20260618-ai-tech-is-profoundly-political-reveals-european-and-us-values",
-      "date": "Thu, 18 Jun 2026 17:13:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "VivaTech 2026: From startup to French unicorn, Pigment harnesses AI potential",
-      "link": "https://www.france24.com/en/tv-shows/business/20260618-vivatech-2026-from-startup-to-french-unicorn-pigment-harnesses-ai-potential",
-      "date": "Thu, 18 Jun 2026 17:07:00 GMT"
     },
     {
       "src": "The Guardian",
@@ -283,32 +304,11 @@
       "date": "Thu, 18 Jun 2026 16:18:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Iran War Damaged U.S.-India Ties",
-      "link": "https://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
-      "date": "Thu, 18 Jun 2026 15:04:07 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU leaders weigh new trade defences to counter China's export dominance",
       "link": "https://www.rfi.fr/en/international/20260618-eu-leaders-weigh-new-trade-defences-to-counter-china-s-export-dominance",
       "date": "Thu, 18 Jun 2026 14:58:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Weapons, money and ships: How is this Iran deal different from others?",
-      "link": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 18 Jun 2026 14:16:42 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The United States Has a Kafala Problem",
-      "link": "https://foreignpolicy.com/2026/06/18/migrant-labor-exploitation-guest-worker-united-states-qatar-gulf-agriculture-world-cup-stadiums-trump/",
-      "date": "Thu, 18 Jun 2026 13:44:13 +0000"
     },
     {
       "src": "BBC World",
@@ -365,20 +365,6 @@
       "text": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
       "link": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
       "date": "Wed, 17 Jun 2026 18:24:06 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Trump says 'nobody' attacked Iranian girls' school 'on purpose'",
-      "link": "https://news.sky.com/story/donald-trump-says-nobody-attacked-iranian-girls-school-on-purpose-13555105",
-      "date": "Wed, 17 Jun 2026 19:08:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Killing of Russian artist who criticised Putin 'has hallmarks of political murder'",
-      "link": "https://news.sky.com/story/killing-of-russian-artist-has-hallmarks-of-political-murder-says-polish-pm-13555018",
-      "date": "Wed, 17 Jun 2026 15:32:00 +0100"
     },
     {
       "src": "The Guardian",
