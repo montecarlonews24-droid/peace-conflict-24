@@ -1,132 +1,237 @@
 {
-  "updated": "2026-06-18T07:23:59.823Z",
-  "count": 64,
+  "updated": "2026-06-18T11:33:54.176Z",
+  "count": 72,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine hits Moscow with 'large-scale' attack, oil refinery strike 'justified', Zelensky says",
-      "link": "https://www.france24.com/en/europe/20260618-ukraine-hits-moscow-with-large-scale-attack-oil-refinery-strike-justified-zelensky-says",
-      "date": "Thu, 18 Jun 2026 07:19:18 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What&#039;s in the US-Iran deal? Key details from the 14-point agreement",
+      "link": "https://www.channelnewsasia.com/world/us-iran-peace-deal-mou-trump-nuclear-60-days-14-points-6192701",
+      "date": "Thu, 18 Jun 2026 19:27:05 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man to be charged after driving erratically and crashing into taxi at Kallang Bahru",
+      "link": "https://www.channelnewsasia.com/singapore/police-man-charged-court-crash-taxi-kallang-bahru-6193011",
+      "date": "Thu, 18 Jun 2026 19:21:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
+      "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 11:20:20 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "How Sweden’s far right went from political pariah to powerbroker",
-      "link": "https://www.aljazeera.com/features/2026/6/18/how-swedens-far-right-went-from-political-pariah-to-powerbroker?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 07:17:55 +0000"
+      "text": "Apple CEO warns price rises ‘unavoidable’ amid AI boom",
+      "link": "https://www.aljazeera.com/news/2026/6/18/apple-ceo-warns-price-rises-unavoidable-amid-ai-boom?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 11:16:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kartal returns to Fenerbahce as head coach",
+      "link": "https://www.channelnewsasia.com/sport/kartal-returns-fenerbahce-head-coach-6193076",
+      "date": "Thu, 18 Jun 2026 19:14:57 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 11:06:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan&#039;s Cosmo Energy to keep Middle East crude focus despite Iran war",
+      "link": "https://www.channelnewsasia.com/business/japans-cosmo-energy-keep-middle-east-crude-focus-despite-iran-war-6193036",
+      "date": "Thu, 18 Jun 2026 19:00:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Talks on implementing US-Iran deal still planned in Switzerland on Friday: Bern",
+      "link": "https://www.channelnewsasia.com/world/switzerland-talks-implementing-us-iran-deal-6193006",
+      "date": "Thu, 18 Jun 2026 18:53:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Snap Insight: US-Iran MOU is not yet a deal to end the war",
+      "link": "https://www.channelnewsasia.com/commentary/us-iran-deal-mou-nuclear-strait-hormuz-snap-insight-6192801",
+      "date": "Thu, 18 Jun 2026 18:48:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Accenture strikes $4.18 billion cybersecurity deal, shares fall on forecast cut",
+      "link": "https://www.channelnewsasia.com/business/accenture-strikes-418-billion-cybersecurity-deal-shares-fall-forecast-cut-6192991",
+      "date": "Thu, 18 Jun 2026 18:48:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup favourites' competition starts bring very different results",
+      "link": "https://www.france24.com/en/world-cup-favourites-competition-starts-bring-very-different-results",
+      "date": "Thu, 18 Jun 2026 10:38:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tehran comes out as the 'winner' of the initial US - Iran deal",
+      "link": "https://www.france24.com/en/tehran-comes-out-as-the-winner-of-the-initial-us-iran-deal",
+      "date": "Thu, 18 Jun 2026 10:34:33 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hegseth slams NATO allies during roundtable meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/hegseth-slams-nato-allies-during-roundtable-meeting?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 10:32:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Starmer rival seeks win in UK by-election pivotal to prime minister's fate",
+      "link": "https://www.france24.com/en/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
+      "date": "Thu, 18 Jun 2026 10:31:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Catastrophic capitulation': Why US and Israel are the biggest losers in Iran deal",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260618-catastrophic-capitulation-why-us-and-israel-are-the-biggest-losers-in-iran-deal",
+      "date": "Thu, 18 Jun 2026 10:30:37 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "RCB in no rush to join overseas leagues, says co-owner",
+      "link": "https://www.channelnewsasia.com/sport/rcb-in-no-rush-join-overseas-leagues-says-co-owner-6192946",
+      "date": "Thu, 18 Jun 2026 18:25:22 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Middle East live: Switzerland says talks between US and Iran still planned for Friday",
+      "link": "https://www.france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war",
+      "date": "Thu, 18 Jun 2026 10:09:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Gunfire and explosions heard at Niger capital's airport",
+      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 10:06:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Climate-change driven heatwave brings uncertainty to French farmers",
+      "link": "https://www.france24.com/en/climate-change-driven-heatwave-brings-uncertainty-to-french-farmers",
+      "date": "Thu, 18 Jun 2026 09:53:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Taiwan hopes US arms sale package can be approved soon, president says",
+      "link": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 09:52:12 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Starmer on the line as UK holds \"most important local election in decades\"",
+      "link": "https://www.france24.com/en/starmer-on-the-line-as-uk-holds-most-important-local-election-in-decades",
+      "date": "Thu, 18 Jun 2026 09:48:39 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 09:47:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US tells NATO it will review its force presence in Europe",
+      "link": "https://www.france24.com/en/us-tells-nato-it-will-review-its-force-presence-in-europe",
+      "date": "Thu, 18 Jun 2026 09:45:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Lawyer in high-profile Ugandan treason case charged with related offence",
+      "link": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 09:35:29 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+      "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 18 Jun 2026 09:26:16 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup 2026: Full group schedule and top second-round matches to watch",
+      "link": "https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-top-five-must-watch-matches-second-group-phase-full-match-schedule?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 09:11:16 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Ireland Is Becoming a French Military Protectorate",
+      "link": "https://foreignpolicy.com/2026/06/18/ireland-france-military-protectorate-outsourcing-defense-procurement/",
+      "date": "Thu, 18 Jun 2026 09:02:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why do AI models struggle with online hate speech detection?",
+      "link": "https://www.aljazeera.com/news/2026/6/18/why-do-ai-models-struggle-with-online-hate-speech-detection?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 08:41:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is the G7 hearing the Global South?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 08:14:38 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+      "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+      "date": "Thu, 18 Jun 2026 08:11:58 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Scottish 'mafia boss' can be extradited to Spain, Dutch court rules",
+      "link": "https://news.sky.com/story/scottish-mafia-boss-can-be-extradited-to-spain-dutch-court-rules-13555239",
+      "date": "Thu, 18 Jun 2026 09:04:00 +0100"
     },
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "G7 leaders back tougher stance on Russia as Trump shifts line on Moscow",
+      "text": "G7 leaders back tougher stance on Russia as Trump shifts line",
       "link": "https://www.rfi.fr/en/international/20260618-g7-leaders-back-tougher-stance-on-russia-as-trump-shifts-line-on-moscow",
       "date": "Thu, 18 Jun 2026 06:59:54 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philippine central bank raises policy rate by 25 basis points, as expected",
-      "link": "https://www.channelnewsasia.com/business/philippine-central-bank-raises-policy-rate-25-basis-points-expected-6192441",
-      "date": "Thu, 18 Jun 2026 14:47:01 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indonesia&#039;s energy minister says government working to secure coal supply for state utility",
-      "link": "https://www.channelnewsasia.com/business/indonesias-energy-minister-says-government-working-secure-coal-supply-state-utility-6192426",
-      "date": "Thu, 18 Jun 2026 14:37:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Starmer rival seeks win in UK poll pivotal to PM's fate",
-      "link": "https://www.france24.com/en/live-news/20260618-starmer-rival-seeks-win-in-uk-poll-pivotal-to-pm-s-fate",
-      "date": "Thu, 18 Jun 2026 06:35:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tehran and Washington sign interim peace deal to end US-Israeli war on Iran",
-      "link": "https://www.france24.com/en/middle-east/20260618-tehran-and-washington-sign-interim-peace-deal-to-end-us-israeli-war-on-iran",
-      "date": "Thu, 18 Jun 2026 06:31:20 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong hoists highest rain signal, closes schools",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-black-rain-signal-closes-schools-6192346",
-      "date": "Thu, 18 Jun 2026 14:17:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Haidilao Singapore launches coriander-themed menu with hotpot broth, drinks and more",
-      "link": "https://www.channelnewsasia.com/dining/haidilao-coriander-menu-singapore-6192386",
-      "date": "Thu, 18 Jun 2026 14:12:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China seeks to curb &#039;unfair&#039; competition in food delivery sector",
-      "link": "https://www.channelnewsasia.com/east-asia/china-food-delivery-unfair-competition-rules-6192361",
-      "date": "Thu, 18 Jun 2026 14:05:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mexico City turns yellow as Colombian fans make Azteca feel like home",
-      "link": "https://www.channelnewsasia.com/sport/mexico-city-turns-yellow-colombian-fans-make-azteca-feel-home-6192401",
-      "date": "Thu, 18 Jun 2026 14:04:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Colombia feel weight of Azteca atmosphere in World Cup win over Uzbekistan, says Lorenzo",
-      "link": "https://www.channelnewsasia.com/sport/colombia-feel-weight-azteca-atmosphere-in-world-cup-win-over-uzbekistan-says-lorenzo-6192371",
-      "date": "Thu, 18 Jun 2026 13:57:31 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup: England outshine Croatia in thriller, Portugal held to draw",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260618-world-cup-england-outshine-croatia-in-thriller-portugal-held-to-draw",
-      "date": "Thu, 18 Jun 2026 05:38:07 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Proud Cannavaro sees positives as Uzbekistan lose 3-1 to Colombia",
-      "link": "https://www.channelnewsasia.com/sport/proud-cannavaro-sees-positives-uzbekistan-lose-3-1-colombia-6192351",
-      "date": "Thu, 18 Jun 2026 13:35:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Luis Diaz, Colombia defeat World Cup 2026 debutants Uzbekistan",
-      "link": "https://www.aljazeera.com/sports/2026/6/18/luis-diaz-colombia-defeat-world-cup-2026-debutants-uzbekistan?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 05:17:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Despair and delight in England-Croatia grudge match",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/despair-and-delight-in-england-croatia-grudge-match?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 04:58:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 04:35:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US must ‘force’ Israel to change its policy on Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-must-force-israel-to-change-its-policy-on-lebanon?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 04:15:29 +0000"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Starmer rival seeks win in UK by-election pivotal to PM's fate",
+      "link": "https://www.rfi.fr/en/international/20260618-starmer-rival-seeks-win-in-uk-by-election-pivotal-to-pm-s-fate",
+      "date": "Thu, 18 Jun 2026 06:34:14 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -136,41 +241,6 @@
       "date": "Thu, 18 Jun 2026 04:01:49 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
-      "link": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 03:45:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump’s MoU with Iran draws backlash from some Republicans",
-      "link": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 03:11:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu under pressure in Israel after US-Iran agreement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
-      "date": "Thu, 18 Jun 2026 02:27:44 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "G7 hails unity on Russia as Trump signals tougher line on Moscow",
-      "link": "https://www.france24.com/en/europe/20260618-g7-unity-russia-trump-tougher-line-moscow",
-      "date": "Thu, 18 Jun 2026 02:15:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lula warns Trump against meddling in Brazil election after criticism of judiciary",
-      "link": "https://www.france24.com/en/americas/20260618-lula-warns-trump-against-meddling-in-brazil-election",
-      "date": "Thu, 18 Jun 2026 01:48:05 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "What's in the US-Iran agreement?",
@@ -178,32 +248,11 @@
       "date": "Thu, 18 Jun 2026 01:28:02 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Ghana break Panama resistance with stoppage-time winner",
-      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-ghana-break-panama-resistance-with-stoppage-time-winner",
-      "date": "Thu, 18 Jun 2026 01:04:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Ghana break Panama resistance with stoppage-time winner",
-      "link": "https://www.france24.com/en/sport/20260618-world-cup-2026-ghana-break-panama-resistance-with-stoppage-time-winner",
-      "date": "Thu, 18 Jun 2026 01:03:33 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "America, not so great again: This war has been a waste of time",
       "link": "https://news.sky.com/story/trumps-war-with-iran-has-been-a-tragic-and-expensive-waste-of-time-13555179",
       "date": "Thu, 18 Jun 2026 00:18:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35",
-      "link": "https://www.bbc.com/news/articles/cd0m2mg949yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 22:55:46 GMT"
     },
     {
       "src": "BBC World",
@@ -276,27 +325,6 @@
       "date": "Wed, 17 Jun 2026 19:08:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Serial killer who murdered eight women in Long Island town imprisoned for life",
-      "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 17:45:54 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-      "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 16:50:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says he will visit India as frosty relationship with Modi thaws",
-      "link": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 16:43:18 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Killing of Russian artist who criticised Putin 'has hallmarks of political murder'",
@@ -311,13 +339,6 @@
       "date": "Wed, 17 Jun 2026 14:02:12 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran sends tankers loaded with oil past US military blockade",
-      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 17 Jun 2026 13:27:47 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
@@ -325,18 +346,60 @@
       "date": "Wed, 17 Jun 2026 13:04:58 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167747",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Rights defender killings hit record high as UN pushes to shore up humanitarian action",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167746",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hate speech is ‘first step down the path of dehumanisation’",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167745",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167742",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola treatment capacity expands in DR Congo as WHO issues new guidelines",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167738",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167736",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Open debate on women, peace and security",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167735",
+      "date": "Wed, 17 Jun 2026 12:00:00 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
       "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 17 Jun 2026 09:13:34 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran’s Victory Is More Pyrrhic Than It Looks",
-      "link": "https://foreignpolicy.com/2026/06/17/iran-war-pyrrhic-victory-hormuz-oil-khamenei-regime-sanctions/",
-      "date": "Wed, 17 Jun 2026 09:06:57 +0000"
     },
     {
       "src": "The Guardian",
@@ -409,13 +472,6 @@
       "date": "Wed, 17 Jun 2026 00:18:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "What we know about Russian warship that fired warning shots in English Channel",
-      "link": "https://news.sky.com/story/what-we-know-about-russian-warship-that-fired-warning-shots-in-english-channel-13554751",
-      "date": "Tue, 16 Jun 2026 18:27:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU lawmakers sign off on long-awaited US tariff deal",
@@ -437,11 +493,11 @@
       "date": "Tue, 16 Jun 2026 12:41:37 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "G7 summit opens full day of talks with Ukraine, Iran and Trump tensions in focus",
-      "link": "https://www.rfi.fr/en/international/20260616-g7-summit-opens-full-day-of-talks-with-ukraine-iran-and-trump-tensions-in-focus",
-      "date": "Tue, 16 Jun 2026 10:08:09 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Monica Juma: Steering global cooperation at a time of converging threats",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167734",
+      "date": "Tue, 16 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
