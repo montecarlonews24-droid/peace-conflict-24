@@ -1,27 +1,153 @@
 {
-  "updated": "2026-06-20T15:19:47.839Z",
-  "count": 64,
+  "updated": "2026-06-20T16:58:26.410Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bye Bye Boston: Scotland&#039;s Tartan Army bids farewell to sleepless city",
+      "link": "https://www.channelnewsasia.com/sport/bye-bye-boston-scotlands-tartan-army-bids-farewell-sleepless-city-6197511",
+      "date": "Sun, 21 Jun 2026 00:42:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bolivia declares state of emergency amid blockade crisis",
+      "link": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 16:41:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli strike kills children in Gaza despite ceasefire claims",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 16:39:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 16:38:26 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky returns highest Polish honour after award stripped",
+      "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 16:34:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fritz rallies past Zverev to seal Halle final spot",
+      "link": "https://www.channelnewsasia.com/sport/fritz-rallies-past-zverev-seal-halle-final-spot-6197471",
+      "date": "Sun, 21 Jun 2026 00:28:17 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hendy double helps Northampton beat Exeter in Prem final",
+      "link": "https://www.channelnewsasia.com/sport/hendy-double-helps-northampton-beat-exeter-in-prem-final-6197456",
+      "date": "Sun, 21 Jun 2026 00:11:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How to handle Haaland gives Senegal coach plenty to ponder",
+      "link": "https://www.channelnewsasia.com/sport/how-handle-haaland-gives-senegal-coach-plenty-ponder-6197451",
+      "date": "Sun, 21 Jun 2026 00:07:53 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 16:07:44 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+      "link": "https://www.aljazeera.com/news/longform/2026/6/20/how-ivan-cepeda-emerged-a-frontrunner-in-colombias-presidential-election?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 16:04:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Germany vs Ivory Coast: LIVE – World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/20/germany-vs-ivory-coast-live-world-cup-2026?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 16:01:49 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump insists Italy’s Meloni sought photos with him to boost popularity",
+      "link": "https://www.aljazeera.com/news/2026/6/20/trump-insists-italys-meloni-sought-photos-with-him-to-boost?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 15:58:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "De Jong to start for Dutch against Sweden",
+      "link": "https://www.channelnewsasia.com/sport/de-jong-start-dutch-against-sweden-6197441",
+      "date": "Sat, 20 Jun 2026 23:51:34 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France swelters under record-breaking temperatures",
+      "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20260620-france-swelters-under-record-breaking-temperatures",
+      "date": "Sat, 20 Jun 2026 15:50:53 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sabalenka knocked out of Berlin semi-final by Pegula",
+      "link": "https://www.channelnewsasia.com/sport/sabalenka-knocked-out-berlin-semi-final-pegula-6197436",
+      "date": "Sat, 20 Jun 2026 23:41:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spain feels the heat, with Madrid World Cup fan zone cancelled",
+      "link": "https://www.channelnewsasia.com/sport/spain-feels-heat-madrid-world-cup-fan-zone-cancelled-6197426",
+      "date": "Sat, 20 Jun 2026 23:34:30 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dalot hits back at Portugal critics, defends Ronaldo",
+      "link": "https://www.channelnewsasia.com/sport/dalot-hits-back-portugal-critics-defends-ronaldo-6197421",
+      "date": "Sat, 20 Jun 2026 23:33:27 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 15:31:12 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Bolivian president declares state of emergency",
+      "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 15:27:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 15:10:37 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Nine left in critical condition after UK train collision that killed driver",
       "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
       "date": "Sat, 20 Jun 2026 14:50:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England&#039;s Root becomes second player to reach 14,000 test runs",
-      "link": "https://www.channelnewsasia.com/sport/englands-root-becomes-second-player-reach-14000-test-runs-6197401",
-      "date": "Sat, 20 Jun 2026 22:49:36 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Clark looks to build halfway lead in promising US Open campaign",
-      "link": "https://www.channelnewsasia.com/sport/clark-looks-build-halfway-lead-in-promising-us-open-campaign-6197381",
-      "date": "Sat, 20 Jun 2026 22:30:06 +0800"
     },
     {
       "src": "France 24",
@@ -31,60 +157,11 @@
       "date": "Sat, 20 Jun 2026 14:26:41 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
-      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 20 Jun 2026 14:24:35 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
-      "link": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 14:21:15 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England lose early wickets after NZ set target of 463 in 2nd test",
-      "link": "https://www.channelnewsasia.com/sport/england-lose-early-wickets-after-nz-set-target-463-in-2nd-test-6197356",
-      "date": "Sat, 20 Jun 2026 22:17:10 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
       "link": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
       "date": "Sat, 20 Jun 2026 14:13:10 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran says Hormuz Strait closed over Israel attacks on Lebanon",
-      "link": "https://www.channelnewsasia.com/world/iran-strait-hormuz-closed-israel-attacks-lebanon-6197326",
-      "date": "Sat, 20 Jun 2026 21:45:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bagnaia dominates Czech Grand Prix sprint as Bezzecchi crashes out",
-      "link": "https://www.channelnewsasia.com/sport/bagnaia-dominates-czech-grand-prix-sprint-bezzecchi-crashes-out-6197321",
-      "date": "Sat, 20 Jun 2026 21:40:15 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Retirement planning isn&#039;t just about having more money. It&#039;s about getting the basics right",
-      "link": "https://www.channelnewsasia.com/today/voices/retirement-planning-mistakes-basics-money-longevity-6194671",
-      "date": "Sat, 20 Jun 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "He wasn&#039;t &#039;smart enough&#039; for studies. Now, he owns five drum schools and holds a Guinness World Record",
-      "link": "https://www.channelnewsasia.com/today/up-close/drummer-guinness-world-records-drum-teacher-music-6185256",
-      "date": "Sat, 20 Jun 2026 21:30:00 +0800"
     },
     {
       "src": "France 24",
@@ -115,27 +192,6 @@
       "date": "Sat, 20 Jun 2026 13:05:43 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Where do Iran’s political factions stand on the US peace deal?",
-      "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 13:05:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 13:02:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-      "link": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 13:01:23 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "NGOs in Lebanon denounce Israeli attacks on medics amid ceasefire",
@@ -148,41 +204,6 @@
       "text": "Europe swelters in gruelling heatwave, authorities ramp up warnings",
       "link": "https://www.france24.com/en/extreme-heat-tears-through-europe-how-do-countries-deal",
       "date": "Sat, 20 Jun 2026 12:45:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Poland strips Zelensky of top state honour over WWII dispute",
-      "link": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
-      "date": "Sat, 20 Jun 2026 12:44:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Top Ukrainian officials return Polish awards in WWII dispute",
-      "link": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 12:38:34 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Zealand stretch lead to over 400 against England on day four",
-      "link": "https://www.channelnewsasia.com/sport/new-zealand-stretch-lead-over-400-against-england-day-four-6197266",
-      "date": "Sat, 20 Jun 2026 20:30:30 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
-      "link": "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 12:17:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why Tunisia’s renewable energy strategy is facing resistance",
-      "link": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 12:06:02 +0000"
     },
     {
       "src": "The Guardian",
@@ -201,7 +222,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Europe swelters as heatwave intensifies - with temperatures of up to 44C forecast",
+      "text": "Alcohol bans as Europe swelters - with temperatures of up to 44C forecast",
       "link": "https://news.sky.com/story/europe-swelters-as-heatwave-intensifies-with-temperatures-of-up-to-44c-forecast-13556084",
       "date": "Sat, 20 Jun 2026 12:45:00 +0100"
     },
@@ -248,32 +269,11 @@
       "date": "Sat, 20 Jun 2026 06:20:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 20 Jun 2026 03:13:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-      "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 20 Jun 2026 03:12:47 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Tourist dies after huge fire destroys luxury beach resort",
       "link": "https://news.sky.com/story/dominican-republic-tourist-dies-after-huge-fire-destroys-luxury-beach-resort-13556005",
       "date": "Sat, 20 Jun 2026 04:07:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 20 Jun 2026 02:33:30 GMT"
     },
     {
       "src": "BBC World",
@@ -316,6 +316,55 @@
       "text": "Syria’s War Crimes Dilemma",
       "link": "https://foreignpolicy.com/2026/06/19/syrias-war-crimes-assad-trial-sharaa-justice/",
       "date": "Fri, 19 Jun 2026 12:00:15 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "For one young refugee in Uganda, basketball is more than a game",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167743",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UNESCO launches consultation on fair payment for news in the digital age",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167771",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Old and new challenges for the Human Rights Council as it turns 20",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167769",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167768",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World Refugee Day: UN calls for renewed commitment and solidarity",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167766",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167765",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167760",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -414,6 +463,13 @@
       "text": "EU leaders weigh new trade defences to counter China's export dominance",
       "link": "https://www.rfi.fr/en/international/20260618-eu-leaders-weigh-new-trade-defences-to-counter-china-s-export-dominance",
       "date": "Thu, 18 Jun 2026 14:58:42 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN upholds freedom of movement for peacekeepers in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167758",
+      "date": "Thu, 18 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
