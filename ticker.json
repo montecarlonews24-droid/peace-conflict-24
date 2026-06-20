@@ -1,55 +1,118 @@
 {
-  "updated": "2026-06-20T09:56:17.402Z",
-  "count": 63,
+  "updated": "2026-06-20T11:51:08.919Z",
+  "count": 71,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "German journalist held in Syria back home, family says",
+      "link": "https://www.aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 11:32:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India’s revolution in women’s cricket",
+      "link": "https://www.aljazeera.com/video/101-east/2026/6/20/indias-revolution-in-womens-cricket?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 11:30:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
+      "link": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
+      "date": "Sat, 20 Jun 2026 11:14:23 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign",
+      "link": "https://www.aljazeera.com/sports/2026/6/20/what-the-us-iran-peace-deal-could-mean-for-irans-world-cup-campaign?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 11:08:59 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why are so many Brits in Paris for Fête de la Musique?",
+      "link": "https://www.france24.com/en/video/20260620-why-are-so-many-brits-in-paris-for-f%C3%AAte-de-la-musique",
+      "date": "Sat, 20 Jun 2026 11:05:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Morocco fans dream of World Cup glory after Scotland win",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/morocco-fans-dream-of-world-cup-glory-after-scotland-win?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 10:50:35 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Canadian beer prices test German fans' thirst at FIFA World Cup",
+      "link": "https://www.france24.com/en/canadian-beer-prices-test-german-fans-thirst-at-fifa-world-cup",
+      "date": "Sat, 20 Jun 2026 10:48:33 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Could Israel lose Donald Trump’s support by continuing to drop bombs in Lebanon?",
+      "link": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
+      "date": "Sat, 20 Jun 2026 10:46:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hezbollah-Israel flare-up in Lebanon despite ceasefire announced by the USA",
+      "link": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
+      "date": "Sat, 20 Jun 2026 10:43:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Malaysia’s energy supplies secure ‘for decades’ after talks with Russia, deals with Turkmenistan: Anwar",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-energy-security-russia-turkmenistan-oil-gas-6197161",
+      "date": "Sat, 20 Jun 2026 18:30:27 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Israel strikes south Lebanon despite truce announced with Hezbollah",
+      "link": "https://www.rfi.fr/en/international/20260620-israel-strikes-south-lebanon-despite-truce-announced-with-hezbollah",
+      "date": "Sat, 20 Jun 2026 10:16:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US-Iran ceasefire negociations underway in Switzerland",
+      "link": "https://www.france24.com/en/us-iran-ceasefire-negociations-underway-in-switzerland",
+      "date": "Sat, 20 Jun 2026 10:12:28 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rare Mozart manuscript discovered by French curator",
+      "link": "https://www.france24.com/en/rare-mozart-manuscript-discovered-by-french-curator",
+      "date": "Sat, 20 Jun 2026 10:09:52 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Families storm Ebola treatment centre in DRC, remove patients",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/families-storm-ebola-treatment-centre-in-drc-remove-patients?traffic_source=rss",
+      "date": "Sat, 20 Jun 2026 10:09:33 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paint from Trump renovation peels off Washington's Reflecting Pool",
+      "link": "https://www.france24.com/en/paint-from-trump-renovation-peels-off-washington-s-reflecting-pool",
+      "date": "Sat, 20 Jun 2026 09:57:04 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump’s Iran deal, Israel’s meltdown",
       "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
       "date": "Sat, 20 Jun 2026 09:45:56 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "This small kamikaze helicopter defends Ukraine from Shahed drones",
-      "link": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
-      "date": "Sat, 20 Jun 2026 09:37:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UK: Labour leadership battle? Ministers reportedly urge Keir Starmer to step down",
-      "link": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
-      "date": "Sat, 20 Jun 2026 09:36:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump unveils new Air Force One converted from luxury jet gifted by Qatar",
-      "link": "https://www.france24.com/en/americas/20260620-trump-unveils-new-air-force-one-converted-from-luxury-jet-gifted-by-qatar",
-      "date": "Sat, 20 Jun 2026 09:31:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Peru: Voters await result of presidential election, the closest in the country's history",
-      "link": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
-      "date": "Sat, 20 Jun 2026 09:18:30 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bolivia declares state of emergency, escalating a 50-day blockade crisis",
-      "link": "https://www.france24.com/en/bolivia-declares-state-of-emergency-escalating-a-50-day-blockade-crisis",
-      "date": "Sat, 20 Jun 2026 09:17:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ebola : Healthworkers in DR Congo worry for their life amid deadly outbreak",
-      "link": "https://www.france24.com/en/ebola-healthworkers-in-dr-congo-worry-for-their-life-amid-deadly-outbreak",
-      "date": "Sat, 20 Jun 2026 09:15:57 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -66,13 +129,6 @@
       "date": "Sat, 20 Jun 2026 17:01:30 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Neither I nor Italy ever beg': Meloni hits back at Trump claim that she begged for a photo",
-      "link": "https://www.france24.com/en/neither-i-nor-italy-ever-beg-meloni-hits-back-at-trump-claim-that-she-begged-for-a-photo",
-      "date": "Sat, 20 Jun 2026 08:59:06 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Paris arms fair showcases weapons of future amid Europe's push to rearm",
@@ -80,25 +136,18 @@
       "date": "Sat, 20 Jun 2026 08:55:47 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 08:53:53 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Two roadside bombs kill at least seven in northwestern Pakistan",
       "link": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
       "date": "Sat, 20 Jun 2026 08:53:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Family, including two daughters, killed in Israeli strikes on Gaza",
-      "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 08:18:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights",
-      "link": "https://www.aljazeera.com/sports/2026/6/20/world-cup-2026-netherlands-vs-sweden-prediction-schedules-key-highlights?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 08:08:52 +0000"
     },
     {
       "src": "CNA",
@@ -129,11 +178,11 @@
       "date": "Sat, 20 Jun 2026 15:44:49 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
-      "link": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 07:42:26 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tourist dies in Dominican Republic luxury resort fire",
+      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 20 Jun 2026 07:40:20 GMT"
     },
     {
       "src": "CNA",
@@ -150,39 +199,11 @@
       "date": "Sat, 20 Jun 2026 15:34:00 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trans-Saharan Gas Pipeline: an African dream that could reshape world energy markets",
-      "link": "https://www.france24.com/en/africa/20260620-trans-saharan-gas-pipeline-african-dream-that-could-reshape-world-energy-markets",
-      "date": "Sat, 20 Jun 2026 07:29:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australia pledges action on H5N1 after bird flu case confirmed",
-      "link": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 07:24:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks",
-      "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
-      "date": "Sat, 20 Jun 2026 07:02:41 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Lebanon becomes latest battleground in Turkish-Israeli tensions",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260620-lebanon-becomes-latest-battleground-in-turkish-israeli-tensions",
       "date": "Sat, 20 Jun 2026 07:02:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US, Iran envoys head for talks, Israeli strikes continue after ceasefire",
-      "link": "https://www.channelnewsasia.com/world/us-iran-envoy-head-talks-switzerland-israel-strikes-lebanon-after-ceasefire-6196991",
-      "date": "Sat, 20 Jun 2026 14:31:00 +0800"
     },
     {
       "src": "Sky News",
@@ -222,13 +243,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 20 Jun 2026 00:23:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "US to stop funding HIV programmes in South Africa",
       "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 19 Jun 2026 23:35:07 GMT"
@@ -246,13 +260,6 @@
       "text": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
       "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 19 Jun 2026 19:36:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 19 Jun 2026 19:27:12 GMT"
     },
     {
       "src": "The Guardian",
@@ -281,6 +288,48 @@
       "text": "Syria’s War Crimes Dilemma",
       "link": "https://foreignpolicy.com/2026/06/19/syrias-war-crimes-assad-trial-sharaa-justice/",
       "date": "Fri, 19 Jun 2026 12:00:15 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UNESCO launches consultation on fair payment for news in the digital age",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167771",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Old and new challenges for the Human Rights Council as it turns 20",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167769",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167768",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World Refugee Day: UN calls for renewed commitment and solidarity",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167766",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167765",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167760",
+      "date": "Fri, 19 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -395,6 +444,20 @@
       "date": "Thu, 18 Jun 2026 14:58:42 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN upholds freedom of movement for peacekeepers in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167758",
+      "date": "Thu, 18 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Libya’s political process regains momentum, but window for action is narrowing, UN envoy warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167757",
+      "date": "Thu, 18 Jun 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "G7 leaders back tougher stance on Russia as Trump shifts line",
@@ -414,13 +477,6 @@
       "text": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
       "link": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
       "date": "Wed, 17 Jun 2026 22:30:46 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Iran peace talks put on hold after Vance scraps Swiss visit",
-      "link": "https://www.rfi.fr/en/international/20260617-iran-peace-talks-put-on-hold-after-vance-scraps-swiss-visit",
-      "date": "Wed, 17 Jun 2026 21:20:21 GMT"
     },
     {
       "src": "The Guardian",
