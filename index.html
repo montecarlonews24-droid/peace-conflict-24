@@ -1998,7 +1998,7 @@ function showPremiumBlock(plan){
 }
 
 function openRoom(id, type, name){
-  window.location.href = 'chat.html?room=' + id + '&name=' + encodeURIComponent(name);
+  window.location.href = 'chat.html?room=' + id + '&name=' + encodeURIComponent(name) + '&_=' + Date.now();
 }
 
 function renderActiveChat(){
