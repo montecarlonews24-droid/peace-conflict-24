@@ -32,6 +32,41 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 </head>
 <body>
 
+<div id="debug-banner" style="position:fixed;top:0;left:0;right:0;z-index:999999;background:#000;color:#0f0;font-size:10px;padding:6px;font-family:monospace;white-space:pre-wrap;max-height:140px;overflow-y:auto;"></div>
+<script>
+(function(){
+  var el = document.getElementById('debug-banner');
+  var lines = [];
+  function render(){ el.innerText = lines.join('\n'); }
+  lines.push('URL: ' + window.location.href);
+  lines.push('Online: ' + navigator.onLine);
+  lines.push('SW controller: ' + (navigator.serviceWorker && navigator.serviceWorker.controller ? navigator.serviceWorker.controller.scriptURL : 'none'));
+  render();
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function(regs){
+      lines.push('SW registrations: ' + regs.length);
+      regs.forEach(function(r){
+        lines.push(' - scope: ' + r.scope);
+        r.unregister();
+      });
+      render();
+    });
+  }
+
+  fetch('https://peace-conflict-24-154e8-default-rtdb.firebaseio.com/rooms/r1/messages.json?print=pretty&limitToLast=1')
+    .then(function(r){ return r.text(); })
+    .then(function(t){
+      lines.push('Firebase fetch: OK (' + t.length + ' chars)');
+      render();
+    })
+    .catch(function(e){
+      lines.push('Firebase fetch FAILED: ' + e.message);
+      render();
+    });
+})();
+</script>
+
 <div class="login" id="login-screen">
   <h2>⚡ P&C24 Chat</h2>
   <input id="username-input" placeholder="Choose username" maxlength="20"
