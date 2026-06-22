@@ -5678,6 +5678,7 @@ window.fbSendMsg = async function(roomId, msg) {
 window.fbStartPolling = function(roomId, username, isPriv) {
   if(window._chatPollInterval) clearInterval(window._chatPollInterval);
   window._lastMsgKey = null;
+  window._initialLoadDone = false;
 
   const poll = async () => {
     try {
@@ -5703,7 +5704,8 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         if(user === 'undefined') return;
         const out = user === username;
         const isBot = m.bot === true;
-        if(isBot && !window._lastMsgKey) return; // skip bot msgs on initial load
+        window._lastMsgKey = k; // always advance key
+        if(isBot && !window._initialLoadDone) return; // skip bot msgs on initial load
         const isAdmin = window.STATE && window.STATE.user && window.STATE.user.isAdmin;
         const botBadge = (isBot && isAdmin) ? ' <span style="font-size:8px;background:rgba(252,163,17,.15);border:1px solid rgba(252,163,17,.3);border-radius:3px;padding:1px 4px;color:var(--amber)">🔧 bot</span>' : '';
         const div = document.createElement('div');
@@ -5711,8 +5713,8 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         div.innerHTML = `${!out?`<div class="msg-user">${user}${botBadge}</div>`:''}<div class="${out?(isPriv?'msg-enc':'msg-bubble-out'):'msg-bubble-in'}"><div class="msg-text">${text}</div><div class="msg-meta">${time}</div></div>`;
         area.appendChild(div);
         area.scrollTop = area.scrollHeight;
-        window._lastMsgKey = k;
       });
+      window._initialLoadDone = true; // mark initial load complete
     } catch(e) {}
   };
   poll();
