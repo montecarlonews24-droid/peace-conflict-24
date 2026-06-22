@@ -5678,7 +5678,6 @@ window.fbSendMsg = async function(roomId, msg) {
 window.fbStartPolling = function(roomId, username, isPriv) {
   if(window._chatPollInterval) clearInterval(window._chatPollInterval);
   window._lastMsgKey = null;
-  window._initialLoadDone = false;
 
   const poll = async () => {
     try {
@@ -5705,7 +5704,7 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         const out = user === username;
         const isBot = m.bot === true;
         window._lastMsgKey = k; // always advance key
-        if(isBot && !window._initialLoadDone) return; // skip bot msgs on initial load
+        if(isBot) return; // never show bot msgs to regular users
         const isAdmin = window.STATE && window.STATE.user && window.STATE.user.isAdmin;
         const botBadge = (isBot && isAdmin) ? ' <span style="font-size:8px;background:rgba(252,163,17,.15);border:1px solid rgba(252,163,17,.3);border-radius:3px;padding:1px 4px;color:var(--amber)">🔧 bot</span>' : '';
         const div = document.createElement('div');
@@ -5714,7 +5713,6 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         area.appendChild(div);
         area.scrollTop = area.scrollHeight;
       });
-      window._initialLoadDone = true; // mark initial load complete
     } catch(e) {}
   };
   poll();
