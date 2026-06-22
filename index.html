@@ -5662,6 +5662,7 @@ function tickerSlower() {
 const FB_URL = "https://peace-conflict-24-154e8-default-rtdb.firebaseio.com";
 window._chatPollInterval = null;
 window._lastMsgKey = null;
+window._renderedKeys = new Set();
 
 window.fbSendMsg = async function(roomId, msg) {
   try {
@@ -5678,6 +5679,7 @@ window.fbSendMsg = async function(roomId, msg) {
 window.fbStartPolling = function(roomId, username, isPriv) {
   if(window._chatPollInterval) clearInterval(window._chatPollInterval);
   window._lastMsgKey = null;
+  window._renderedKeys = new Set();
 
   const poll = async () => {
     try {
@@ -5693,7 +5695,8 @@ window.fbStartPolling = function(roomId, username, isPriv) {
       if(empty) empty.parentElement.remove();
       const keys = Object.keys(data).sort();
       keys.forEach(k => {
-        if(window._lastMsgKey && k <= window._lastMsgKey) return;
+        if(window._renderedKeys.has(k)) return;
+        window._renderedKeys.add(k);
         const m = data[k];
         // robust parse
         const user = String(m.user || m.username || m.name || '').trim() || 'مجهول';
@@ -5701,10 +5704,9 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         const time = String(m.time || m.timestamp || '').trim();
         if(!text || text === 'undefined') return;
         if(user === 'undefined') return;
-        const out = user === username;
         const isBot = m.bot === true;
-        window._lastMsgKey = k; // always advance key
-        if(isBot) return; // never show bot msgs to regular users
+        if(isBot) return; // never show bot msgs
+        const out = user === username;
         const isAdmin = window.STATE && window.STATE.user && window.STATE.user.isAdmin;
         const botBadge = (isBot && isAdmin) ? ' <span style="font-size:8px;background:rgba(252,163,17,.15);border:1px solid rgba(252,163,17,.3);border-radius:3px;padding:1px 4px;color:var(--amber)">🔧 bot</span>' : '';
         const div = document.createElement('div');
