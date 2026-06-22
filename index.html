@@ -2239,7 +2239,7 @@ function goScreen(name){
   if (fab) fab.style.display = name === 'auth' ? 'none' : '';
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
-  if(name==='chat'){ setPressTab('news'); if(typeof renderPressFeed==='function') renderPressFeed(); return; }
+  if(name==='chat'){ window.location.href='chat.html'; return; }
   if(name==='profile') renderProfile();
 }
 
