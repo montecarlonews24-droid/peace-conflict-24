@@ -5703,6 +5703,7 @@ window.fbStartPolling = function(roomId, username, isPriv) {
         if(user === 'undefined') return;
         const out = user === username;
         const isBot = m.bot === true;
+        if(isBot && !window._lastMsgKey) return; // skip bot msgs on initial load
         const isAdmin = window.STATE && window.STATE.user && window.STATE.user.isAdmin;
         const botBadge = (isBot && isAdmin) ? ' <span style="font-size:8px;background:rgba(252,163,17,.15);border:1px solid rgba(252,163,17,.3);border-radius:3px;padding:1px 4px;color:var(--amber)">🔧 bot</span>' : '';
         const div = document.createElement('div');
