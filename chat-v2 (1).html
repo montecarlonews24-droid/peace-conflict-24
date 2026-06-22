@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
+<title>P&C24 - Live Chat</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;height:100dvh;min-height:-webkit-fill-available;display:flex;flex-direction:column}
+.header{background:linear-gradient(135deg,#0b1424,#070d1a);border-bottom:1px solid rgba(252,163,17,.3);padding:12px 16px;display:flex;align-items:center;gap:10px;flex-shrink:0}
+.header h1{font-size:16px;color:#fca311;font-weight:700}
+.header span{font-size:11px;color:#4a6080}
+.rooms{padding:10px;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #1e3050;flex-shrink:0}
+.room-btn{background:#0b1424;border:1px solid #1e3050;color:#8fa8c8;padding:8px 14px;border-radius:20px;cursor:pointer;font-size:12px}
+.room-btn.active{background:rgba(252,163,17,.15);border-color:#fca311;color:#fca311}
+.status{font-size:11px;color:#4a6080;padding:4px 8px;text-align:center;flex-shrink:0;word-break:break-all}
+.messages{flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px;-webkit-overflow-scrolling:touch}
+.msg-in{align-self:flex-start;max-width:75%}
+.msg-out{align-self:flex-end;max-width:75%}
+.msg-user{font-size:10px;color:#fca311;margin-bottom:3px}
+.bubble-in{background:#0b1424;border:1px solid #1e3050;border-radius:12px 12px 12px 2px;padding:8px 12px}
+.bubble-out{background:linear-gradient(135deg,#f77f00,#fca311);color:#040810;border-radius:12px 12px 2px 12px;padding:8px 12px}
+.msg-time{font-size:9px;opacity:.6;margin-top:3px;text-align:right}
+.input-area{padding:10px 12px calc(10px + env(safe-area-inset-bottom));border-top:1px solid #1e3050;display:flex;gap:8px;background:#070d1a;flex-shrink:0}
+.input-area input{flex:1;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:10px 14px;color:#e8edf5;font-size:14px;outline:none}
+.input-area button{background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;width:44px;height:44px;cursor:pointer;font-size:18px;flex-shrink:0}
+.login{position:fixed;inset:0;background:#040810;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px;z-index:100}
+.login h2{color:#fca311;font-size:24px;margin-bottom:20px}
+.login input{width:100%;max-width:300px;background:#0b1424;border:1px solid #1e3050;border-radius:10px;padding:12px;color:#e8edf5;font-size:16px;margin-bottom:10px;outline:none}
+.login button{width:100%;max-width:300px;background:linear-gradient(135deg,#f77f00,#fca311);border:none;border-radius:10px;padding:12px;color:#040810;font-size:16px;font-weight:700;cursor:pointer}
+</style>
+</head>
+<body>
+
+
+<div class="login" id="login-screen">
+  <h2>⚡ P&C24 Chat</h2>
+  <input id="username-input" placeholder="Choose username" maxlength="20"
+    onkeypress="if(event.key==='Enter')doLogin()"/>
+  <button onclick="doLogin()">Enter</button>
+</div>
+
+<div class="header">
+  <div>
+    <h1>🌍 P&C24 Live Chat</h1>
+    <span id="user-display"></span>
+  </div>
+</div>
+
+<div class="rooms">
+  <button class="room-btn active" onclick="switchRoom('r1','Global Analysis Hub',this)">🌐 Global Hub</button>
+  <button class="room-btn" onclick="switchRoom('r2','Diplomatic Solutions',this)">🤝 Diplomatic</button>
+  <button class="room-btn" onclick="switchRoom('r3','Humanitarian Response',this)">❤️ Humanitarian</button>
+  <button class="room-btn" onclick="switchRoom('r4','Intelligence Briefing',this)">📡 Intel</button>
+</div>
+
+<div class="status" id="status">Connecting...</div>
+<div class="messages" id="messages"></div>
+
+<div class="input-area">
+  <input id="msg-input" placeholder="Type a message..."
+    onkeypress="if(event.key==='Enter')sendMessage()"/>
+  <button onclick="sendMessage()">➤</button>
+</div>
+
+<script>
+const DB = 'https://peace-conflict-24-154e8-default-rtdb.firebaseio.com';
+let username = '';
+let currentRoom = 'r1';
+let currentRoomName = 'Global Analysis Hub';
+let renderedKeys = new Set();
+let pollInterval = null;
+
+function doLogin() {
+  const val = document.getElementById('username-input').value.trim();
+  if (!val) return;
+  username = val;
+  localStorage.setItem('pc24_username', username);
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('user-display').textContent = '👤 ' + username;
+  startPolling();
+}
+
+// Auto-login if username saved
+const _saved = localStorage.getItem('pc24_username');
+if (_saved) {
+  username = _saved;
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('user-display').textContent = '👤 ' + username;
+  startPolling();
+}
+
+function switchRoom(id, name, btn) {
+  currentRoom = id;
+  currentRoomName = name;
+  renderedKeys = new Set();
+  document.getElementById('messages').innerHTML = '';
+  document.querySelectorAll('.room-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  startPolling();
+}
+
+async function sendMessage() {
+  const inp = document.getElementById('msg-input');
+  const text = inp.value.trim();
+  if (!text || !username) return;
+  inp.value = '';
+  const now = new Date();
+  const time = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
+  try {
+    const res = await fetch(DB + '/rooms/' + currentRoom + '/messages.json', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({user: username, text: text, time: time})
+    });
+    const result = await res.json();
+    if (result && result.name) {
+      document.getElementById('status').textContent = '✅ أُرسلت! ID: ' + result.name.slice(-6);
+    } else {
+      document.getElementById('status').textContent = '❌ فشل: ' + JSON.stringify(result).slice(0,60);
+    }
+  } catch(e) {
+    document.getElementById('status').textContent = '❌ ' + e.message;
+  }
+}
+
+function startPolling() {
+  if (pollInterval) clearInterval(pollInterval);
+  poll();
+  pollInterval = setInterval(poll, 2000);
+}
+
+async function poll() {
+  try {
+    const url = DB + '/rooms/' + currentRoom + '/messages.json?orderBy="$key"&limitToLast=30';
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if (!data || typeof data !== 'object') {
+      document.getElementById('status').textContent = '● Connected - no messages yet';
+      return;
+    }
+
+    const area = document.getElementById('messages');
+    const keys = Object.keys(data).sort();
+    const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    const isAdmin = localStorage.getItem('pc24_username') === 'Moe';
+
+    keys.forEach(k => {
+      if (renderedKeys.has(k)) return;
+      renderedKeys.add(k);
+      const m = data[k];
+      if (!m || typeof m !== 'object') return;
+      const user = String(m.user || m.username || '').trim() || 'Unknown';
+      const text = String(m.text || m.message || '').trim();
+      const time = String(m.time || '').trim();
+      if (!text || text === 'undefined') return;
+
+      // Hide messages older than 7 days
+      if (m.ts && m.ts < sevenDaysAgo) return;
+
+      const isMe = user === username;
+      const div = document.createElement('div');
+      div.className = isMe ? 'msg-out' : 'msg-in';
+
+      // Delete button for admin — shows on ALL messages including own
+      const delBtn = isAdmin
+        ? `<span onclick="deleteMsg('${k}', this)" style="cursor:pointer;font-size:11px;opacity:0.5;margin-right:4px" title="Delete">🗑</span>`
+        : '';
+
+      if (isMe) {
+        div.innerHTML =
+          '<div style="display:flex;justify-content:flex-end;align-items:center;margin-bottom:2px">' + delBtn + '</div>' +
+          '<div class="bubble-out"><div>' + text + '</div><div class="msg-time">' + time + '</div></div>';
+      } else {
+        div.innerHTML =
+          '<div class="msg-user">' + delBtn + user + '</div>' +
+          '<div class="bubble-in"><div>' + text + '</div><div class="msg-time">' + time + '</div></div>';
+      }
+
+      area.appendChild(div);
+      area.scrollTop = area.scrollHeight;
+
+      // Notification + sound for real messages from others
+      if (!isMe && !m.bot) {
+        playNotifSound();
+        showNotif(user, text);
+      }
+    });
+
+    document.getElementById('status').textContent = '● Live - ' + currentRoomName;
+  } catch(e) {
+    document.getElementById('status').textContent = '❌ ' + e.message;
+  }
+}
+
+// ── NOTIFICATION + SOUND ──────────────────────────
+function playNotifSound() {
+  try {
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.frequency.setValueAtTime(880, ctx.currentTime);
+    osc.frequency.setValueAtTime(660, ctx.currentTime + 0.1);
+    gain.gain.setValueAtTime(0.3, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.3);
+    osc.start(ctx.currentTime);
+    osc.stop(ctx.currentTime + 0.3);
+  } catch(e) {}
+}
+
+function showNotif(user, text) {
+  if (!('Notification' in window)) return;
+  if (Notification.permission === 'granted') {
+    new Notification('P&C24 — ' + user, {
+      body: text.slice(0, 80),
+      icon: '/peace-conflict-24/icon-192.png',
+      badge: '/peace-conflict-24/icon-192.png',
+      silent: true
+    });
+  } else if (Notification.permission !== 'denied') {
+    Notification.requestPermission().then(p => {
+      if (p === 'granted') showNotif(user, text);
+    });
+  }
+}
+
+// Request permission on first load
+if ('Notification' in window && Notification.permission === 'default') {
+  setTimeout(() => Notification.requestPermission(), 3000);
+}
+
+async function deleteMsg(key, el) {
+  try {
+    const url = DB + '/rooms/' + currentRoom + '/messages/' + key + '.json';
+    const res = await fetch(url, { method: 'DELETE' });
+    if (res.ok) {
+      // Remove the message div from UI
+      const msgDiv = el.closest('.msg-out, .msg-in');
+      if (msgDiv) msgDiv.remove();
+      renderedKeys.delete(key);
+    }
+  } catch(e) {
+    alert('Delete failed: ' + e.message);
+  }
+}
+</script>
+
+<!-- Ghost Bot -->
+<script>
+(function(){
+  const NAMES = ['Atlas_77','IntelWatcher','ShadowAnalyst','GeoWatch','NightOwl_09','FieldReporter','ConflictDesk','PressRoom24','WarCorrespondent','DiplomacyPro','Sentinel_X','GlobalEye','TacticalView','NATOWatch','UN_Observer','MideastDesk','EuroIntel','AsiaWatch','PacificRim_7','CrisisTracker','Analyst_88','RedLine_23','FrontlineObs','SecDesk','PeaceMonitor','RiskAnalyst','BreakingDesk','FlashPoint','GeoPulse','NightWatch_5'];
+  const MSGS = {
+    r1:['Satellite imagery confirms increased military activity near the border zone.','UN Security Council emergency session called for tomorrow morning.','Three diplomatic backchannel negotiations reportedly active in parallel.','Breaking: ceasefire talks resume after 48-hour breakdown.','Intelligence sources suggest troop repositioning in the northern sector.','Red Cross teams denied access for third consecutive day.','Multiple governments recalling ambassadors — diplomatic crisis deepening.','Civilian evacuation corridors reportedly under negotiation.'],
+    r2:['Back-channel talks in Geneva showing signs of progress.','Mediator confirms both parties agreed on confidence-building measures.','Foreign ministers meeting expected to produce joint communique.','EU special envoy arrives for third round of shuttle diplomacy.','Humanitarian corridor deal reportedly hours away from signing.','Track-2 diplomacy initiative gains unexpected momentum.'],
+    r3:['UNHCR reports 200,000 newly displaced in the past 72 hours.','Medical supplies blocked at checkpoint — MSF raises alarm.','Water infrastructure damage affecting 1.2 million civilians.','Red Crescent convoy finally given safe passage after 5-day delay.','Emergency airlift of medical supplies authorized by UN.'],
+    r4:['OSINT analysis confirms new artillery positions 12km from previous line.','Drone footage shows logistical buildup at three forward bases.','Cyber incident reported — critical infrastructure targeted overnight.','Satellite data shows 40% increase in vehicle movement near staging area.','Electronic warfare jamming detected along the eastern corridor.']
+  };
+
+  async function sendBot() {
+    // Get current room from global variable
+    const room = (typeof currentRoom !== 'undefined') ? currentRoom : 'r1';
+    const msgs = MSGS[room] || MSGS.r1;
+    const text = msgs[Math.floor(Math.random() * msgs.length)];
+    const user = NAMES[Math.floor(Math.random() * NAMES.length)];
+    const now = new Date();
+    const time = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0');
+    try {
+      await fetch('https://peace-conflict-24-154e8-default-rtdb.firebaseio.com/rooms/' + room + '/messages.json', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({user, text, time, bot: true})
+      });
+    } catch(e) {}
+  }
+
+  async function countRealMsgs() {
+    try {
+      const room = (typeof currentRoom !== 'undefined') ? currentRoom : 'r1';
+      const res = await fetch('https://peace-conflict-24-154e8-default-rtdb.firebaseio.com/rooms/' + room + '/messages.json?orderBy="$key"&limitToLast=20');
+      const data = await res.json();
+      if (!data) return 0;
+      return Object.values(data).filter(m => !m.bot && m.user !== username).length;
+    } catch(e) { return 0; }
+  }
+
+  async function next() {
+    const real = await countRealMsgs();
+    let delay;
+    if (real >= 15)     delay = 600000 + Math.random() * 600000; // 10-20 min
+    else if (real >= 4) delay = 120000 + Math.random() * 120000; // 2-4 min
+    else                delay = 45000  + Math.random() * 45000;  // 45-90 sec
+
+    setTimeout(async () => {
+      if (real < 15) await sendBot();
+      next();
+    }, delay);
+  }
+
+  setTimeout(next, 20000);
+})();
+</script>
+</body>
+</html>
