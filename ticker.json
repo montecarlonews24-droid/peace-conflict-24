@@ -1,48 +1,188 @@
 {
-  "updated": "2026-06-22T19:52:17.051Z",
-  "count": 64,
+  "updated": "2026-06-22T21:53:56.966Z",
+  "count": 71,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Vance says UN nuclear inspectors will return to Iran as US suspends sanctions",
+      "link": "https://www.france24.com/en/middle-east/20260622-vance-says-un-nuclear-inspectors-will-return-to-iran-as-us-suspends-sanctions",
+      "date": "Mon, 22 Jun 2026 21:49:19 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump criticises UK&#039;s Starmer after resignation announcement",
+      "link": "https://www.channelnewsasia.com/world/trump-criticise-uk-starmer-resignation-energy-immigration-6202031",
+      "date": "Tue, 23 Jun 2026 05:47:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan&#039;s Katayama, US Treasury&#039;s Bessent hold online talks to discuss yen, TBS reports",
+      "link": "https://www.channelnewsasia.com/business/japans-katayama-us-treasurys-bessent-hold-online-talks-discuss-yen-tbs-reports-6202046",
+      "date": "Tue, 23 Jun 2026 05:47:02 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
+      "link": "https://www.france24.com/en/rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-with-gulf-allies",
+      "date": "Mon, 22 Jun 2026 21:35:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil falls as US waives Iranian sanctions and Nasdaq tumbles",
+      "link": "https://www.channelnewsasia.com/world/us-stocks-wall-street-oil-iran-sanctions-nasdaq-6201966",
+      "date": "Tue, 23 Jun 2026 05:33:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK considers forcing social media firms to prioritise trusted news",
+      "link": "https://www.channelnewsasia.com/business/uk-considers-forcing-social-media-firms-prioritise-trusted-news-6202006",
+      "date": "Tue, 23 Jun 2026 05:33:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Messi&#039;s record 18 World Cup goals cement longevity, redefine greatness",
+      "link": "https://www.channelnewsasia.com/sport/messis-record-18-world-cup-goals-cement-longevity-redefine-greatness-6202011",
+      "date": "Tue, 23 Jun 2026 05:31:10 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mexico&#039;s comfort zone could open door for urgent Czech Republic",
+      "link": "https://www.channelnewsasia.com/sport/mexicos-comfort-zone-could-open-door-urgent-czech-republic-6202016",
+      "date": "Tue, 23 Jun 2026 05:29:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "IBM partners with OpenAI on enterprise security AI",
+      "link": "https://www.channelnewsasia.com/business/ibm-partners-openai-enterprise-security-ai-6201996",
+      "date": "Tue, 23 Jun 2026 05:28:03 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
+      "link": "https://www.aljazeera.com/news/2026/6/22/hungarys-pm-launches-drive-to-free-country-from-orbans-mafia?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 21:23:50 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices",
+      "link": "https://www.channelnewsasia.com/business/bp-marathon-7-eleven-walmart-sued-allegedly-using-ai-boost-california-gas-prices-6201986",
+      "date": "Tue, 23 Jun 2026 05:21:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Czech public media staff strike, citing government threat to independence",
+      "link": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 21:21:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge blocks Trump administration subpoena against Minnesota officials",
+      "link": "https://www.aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 21:20:30 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China Flexes Its Rare-Earth Muscle—Again",
+      "link": "https://foreignpolicy.com/2026/06/22/china-us-rare-earth-export-control-trade/",
+      "date": "Mon, 22 Jun 2026 21:09:06 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Is Alibaba on a Pentagon Blacklist?",
+      "link": "https://foreignpolicy.com/2026/06/22/china-military-civil-fusion-pentagon-blacklist-alibaba-baidu/",
+      "date": "Mon, 22 Jun 2026 21:08:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Another day, another leader’: Britons react to Keir Starmer’s exit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/another-day-another-leader-britons-react-to-keir-starmers-exit?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 20:48:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fire at animation studio in India’s Lucknow kills at least 14",
+      "link": "https://www.aljazeera.com/news/2026/6/22/fire-at-animation-studio-in-indias-lucknow-kills-at-least-14?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 20:48:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
+      "link": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 20:47:55 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Strange Logic of World Cup Ticket Prices",
+      "link": "https://foreignpolicy.com/2026/06/22/world-cup-fifa-soccer-resale-gouging-prices/",
+      "date": "Mon, 22 Jun 2026 20:46:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why has Keir Starmer resigned as UK prime minister?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 20:31:12 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethiopian PM's party secures win in national election",
+      "link": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election",
+      "date": "Mon, 22 Jun 2026 20:31:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "15 killed after a fire ignited in a coaching centre in Lucknow, India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/15-killed-after-a-fire-ignited-in-a-coaching-centre-in-lucknow-india?traffic_source=rss",
+      "date": "Mon, 22 Jun 2026 20:26:57 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How the Iran Deal Sets the Stage for More Conflict",
+      "link": "https://foreignpolicy.com/2026/06/22/trump-iran-israel-war-oil-deal-gaza/",
+      "date": "Mon, 22 Jun 2026 20:16:49 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘Messi is the enemy of Allah’: World Cup hoax falsely blames Algerian fans for chant",
+      "link": "https://www.france24.com/en/fact-checking-claims-algerian-fans-branded-messi-an-enemy-of-allah",
+      "date": "Mon, 22 Jun 2026 20:03:54 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The White House’s New Pro-Ukraine Tone Shift",
+      "link": "https://foreignpolicy.com/2026/06/22/trump-administration-ukraine-russia-war-zelensky-rhetoric/",
+      "date": "Mon, 22 Jun 2026 19:53:51 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Turnover at 10 Downing Street raises questions about 'whether Britain is indeed governable'",
       "link": "https://www.france24.com/en/turnover-at-10-downing-street-raises-questions-about-whether-britain-is-indeed-governable",
       "date": "Mon, 22 Jun 2026 19:38:21 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dangerous &#039;heat stress&#039; has surged worldwide, study shows",
-      "link": "https://www.channelnewsasia.com/world/heat-stress-new-study-climate-change-heatwave-6201756",
-      "date": "Tue, 23 Jun 2026 03:28:09 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Neymar edges towards Brazil return as Scotland showdown looms",
-      "link": "https://www.channelnewsasia.com/sport/neymar-edges-towards-brazil-return-scotland-showdown-looms-6201786",
-      "date": "Tue, 23 Jun 2026 03:27:33 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 19:26:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canadian police officer, suspect among 3 dead in Montreal shooting",
-      "link": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 19:20:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Stadium gates opening for France v Iraq game delayed amid &#039;inclement&#039; weather - organisers",
-      "link": "https://www.channelnewsasia.com/sport/stadium-gates-opening-france-v-iraq-game-delayed-amid-inclement-weather-organisers-6201781",
-      "date": "Tue, 23 Jun 2026 03:20:22 +0800"
     },
     {
       "src": "France 24",
@@ -52,13 +192,6 @@
       "date": "Mon, 22 Jun 2026 19:13:01 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Milestone Messi sends Argentina to World Cup knockout stage",
-      "link": "https://www.channelnewsasia.com/sport/milestone-messi-sends-argentina-world-cup-knockout-stage-6201761",
-      "date": "Tue, 23 Jun 2026 03:12:48 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "World Cup 2026: Messi makes history as Argentina dominate Austria",
@@ -66,102 +199,11 @@
       "date": "Mon, 22 Jun 2026 19:08:55 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands of kites soar over Denmark at annual beach festival",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/thousands-of-kites-soar-over-denmark-at-annual-beach-festival?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 19:02:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
-      "link": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 19:00:57 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
       "link": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect",
       "date": "Mon, 22 Jun 2026 19:00:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Will Colombia's right-wing hardliner De la Espriella be able to govern?",
-      "link": "https://www.france24.com/en/americas/20260622-el-tigre-won-colombia-s-presidential-vote-but-he-may-always-be-an-outsider",
-      "date": "Mon, 22 Jun 2026 18:58:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France vs Iraq live: Potential delays as Les Bleus chase knockout qualification",
-      "link": "https://www.france24.com/en/sport/20260622-france-vs-iraq-live-weather-delays-as-les-bleus-chase-knockout-qualification",
-      "date": "Mon, 22 Jun 2026 18:58:08 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "PREVIEW-Bosnia Qatar fight for third, possible US clash after winless World Cup start",
-      "link": "https://www.channelnewsasia.com/sport/preview-bosnia-qatar-fight-third-possible-us-clash-after-winless-world-cup-start-6201716",
-      "date": "Tue, 23 Jun 2026 02:57:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI startup Reflection signs computing power deal with SpaceX",
-      "link": "https://www.channelnewsasia.com/business/ai-startup-reflection-signs-computing-power-deal-spacex-6201711",
-      "date": "Tue, 23 Jun 2026 02:47:41 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "link": "https://www.france24.com/en/ukrainian-attacks-prompt-russian-held-crimea-to-halt-civilian-gasoline-sales",
-      "date": "Mon, 22 Jun 2026 18:42:18 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Netherlands expect &#039;full energy&#039; from Tunisia despite elimination",
-      "link": "https://www.channelnewsasia.com/sport/netherlands-expect-full-energy-tunisia-despite-elimination-6201706",
-      "date": "Tue, 23 Jun 2026 02:39:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Two children die in France as heatwave blasts Europe",
-      "link": "https://www.channelnewsasia.com/world/two-children-die-car-france-europe-heatwave-6201661",
-      "date": "Tue, 23 Jun 2026 02:31:57 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A leftward lurch? What to know about the Democratic primaries in New York",
-      "link": "https://www.aljazeera.com/news/2026/6/22/a-leftward-lurch-what-to-know-about-the-democratic-primaries-in-new-york?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 18:28:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Messi breaks World Cup’s all-time scoring record with 17th goal vs Austria",
-      "link": "https://www.aljazeera.com/sports/2026/6/22/messi-breaks-world-cups-all-time-scoring-record-with-17th-goal-vs-austria?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 18:22:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
-      "link": "https://www.aljazeera.com/news/2026/6/22/lebanon-discusses-de-confliction-mechanism-ahead-of-israel-talks?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 18:18:17 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Labour's last chance? Burnham set to replace Starmer as UK faces far-right surge",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260622-labour-s-last-chance-burnham-set-to-replace-starmer-as-uk-faces-far-right-surge",
-      "date": "Mon, 22 Jun 2026 18:14:39 GMT"
     },
     {
       "src": "BBC World",
@@ -176,13 +218,6 @@
       "text": "Montreal mayor calls for end to random police checks amid racial profiling investigation",
       "link": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
       "date": "Mon, 22 Jun 2026 17:49:55 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
-      "date": "Mon, 22 Jun 2026 17:34:56 +0000"
     },
     {
       "src": "The Guardian",
@@ -283,6 +318,62 @@
       "date": "Mon, 22 Jun 2026 13:16:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167782",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167781",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167775",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Myanmar: Aid decline compounds suffering amid ongoing military attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167777",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI is getting women wrong as gender bias persists, data reveals",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167776",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167774",
+      "date": "Mon, 22 Jun 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Don’t Let China Stack the Deck",
@@ -318,25 +409,11 @@
       "date": "Mon, 22 Jun 2026 07:18:19 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Obama Center Sets a Dangerous Precedent",
-      "link": "https://foreignpolicy.com/2026/06/22/obama-center-presidential-libraries-dangerous-precedent/",
-      "date": "Mon, 22 Jun 2026 04:50:33 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
       "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 21 Jun 2026 23:57:59 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Police name teenage spectator killed after crash at car rally",
-      "link": "https://news.sky.com/story/police-name-teenage-spectator-killed-after-crash-at-donegal-international-rally-13556418",
-      "date": "Sun, 21 Jun 2026 14:15:00 +0100"
     },
     {
       "src": "RFI",
@@ -393,34 +470,6 @@
       "text": "Ghana conference calls for formal apology for transatlantic slave trade",
       "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "date": "Fri, 19 Jun 2026 17:26:45 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "A Tale of Two AI Policy Regimes",
-      "link": "https://foreignpolicy.com/2026/06/19/brazil-argentina-ai-policy-data-centers-milei/",
-      "date": "Fri, 19 Jun 2026 12:00:27 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Syria’s War Crimes Dilemma",
-      "link": "https://foreignpolicy.com/2026/06/19/syrias-war-crimes-assad-trial-sharaa-justice/",
-      "date": "Fri, 19 Jun 2026 12:00:15 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Foreign Pressure, American Freedom",
-      "link": "https://foreignpolicy.com/2026/06/19/america-250-foreign-pressure-american-freedom-ideals/",
-      "date": "Fri, 19 Jun 2026 10:00:10 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Orban’s Defeat Is Being Dangerously Misread",
-      "link": "https://foreignpolicy.com/2026/06/19/orban-defeat-strongman-playbook-erdogan/",
-      "date": "Fri, 19 Jun 2026 06:52:13 +0000"
     },
     {
       "src": "RFI",
