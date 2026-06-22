@@ -5087,12 +5087,12 @@ async function generatePDFReport() {
 <\/style>
 
   <scr"+"ipt>
+    // SW disabled
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js', {scope: './'})
-          .then(reg => console.log('[P&C24] SW registered'))
-          .catch(err => console.log('[P&C24] SW skipped:', err.message));
+      navigator.serviceWorker.getRegistrations().then(regs => {
+        regs.forEach(r => r.unregister());
       });
+      caches.keys().then(keys => keys.forEach(k => caches.delete(k)));
     }
   <\/script>
 </head>
