@@ -2055,7 +2055,7 @@ function sendMsg(){
   const r=STATE.currentRoom;
   const now=new Date();
   const t=`${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
-  const msg={user:STATE.user.username,text:inp.value.trim(),time:t};
+  const msg={user:STATE.user.username,text:inp.value.trim(),time:t,ts:Date.now()};
   inp.value='';
   inp.style.height='';
   window.fbSendMsg(r.id, msg);
@@ -5680,12 +5680,13 @@ window.fbStartPolling = function(roomId, username, isPriv) {
   if(window._chatPollInterval) clearInterval(window._chatPollInterval);
   window._lastMsgKey = null;
   window._renderedKeys = new Set();
+  window._sessionStart = Date.now();
 
   const poll = async () => {
     try {
       const url = window._lastMsgKey
         ? `${FB_URL}/rooms/${roomId}/messages.json?orderBy="$key"&startAfter="${window._lastMsgKey}"&limitToLast=20`
-        : `${FB_URL}/rooms/${roomId}/messages.json?limitToLast=30`;
+        : `${FB_URL}/rooms/${roomId}/messages.json?orderBy="ts"&startAt=${window._sessionStart}&limitToLast=30`;
       const res = await fetch(url);
       const data = await res.json();
       if(!data) return;
