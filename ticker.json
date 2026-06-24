@@ -1,76 +1,216 @@
 {
-  "updated": "2026-06-24T01:59:41.744Z",
+  "updated": "2026-06-24T06:07:12.562Z",
   "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Golden Boot battle steals the show at World Cup",
-      "link": "https://www.channelnewsasia.com/sport/golden-boot-battle-steals-show-world-cup-6205436",
-      "date": "Wed, 24 Jun 2026 09:51:00 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Brexit at 10: 'The average British citizen has lost over £3,000 a year'",
+      "link": "https://www.rfi.fr/en/international/20260624-brexit-at-10-the-average-british-citizen-has-lost-over-%C2%A33-000-a-year",
+      "date": "Wed, 24 Jun 2026 06:04:12 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Dollar at 13-month high as rate hike bets, stock rout boost demand",
-      "link": "https://www.channelnewsasia.com/business/dollar-13-month-high-rate-hike-bets-stock-rout-boost-demand-6205516",
-      "date": "Wed, 24 Jun 2026 09:50:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan May services producer prices rise 3.3% y/y on soaring fuel costs",
-      "link": "https://www.channelnewsasia.com/business/japan-may-services-producer-prices-rise-33-yy-soaring-fuel-costs-6205476",
-      "date": "Wed, 24 Jun 2026 09:45:53 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asian stocks wobble after tech-led selloff, volatility risk highlighted",
-      "link": "https://www.channelnewsasia.com/business/asian-stocks-wobble-after-tech-led-selloff-volatility-risk-highlighted-6205481",
-      "date": "Wed, 24 Jun 2026 09:45:09 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New offerings to explore local chinese arts and culture using SG Culture Pass",
-      "link": "https://www.channelnewsasia.com/brand-studio/new-offerings-explore-local-chinese-arts-and-culture-using-sg-culture-pass-6156091",
-      "date": "Wed, 24 Jun 2026 09:40:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Samsung Electronics plans 90 trln won share buyback, Yonhap reports",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-plans-90-trln-won-share-buyback-yonhap-reports-6205421",
-      "date": "Wed, 24 Jun 2026 09:35:57 +0800"
+      "text": "Two Singaporeans dealt with under ISA; teen subscribed to &#039;salad bar&#039; mix of extremist ideologies",
+      "link": "https://www.channelnewsasia.com/singapore/isd-radicalised-teen-israel-hamas-salad-bar-extremism-6205671",
+      "date": "Wed, 24 Jun 2026 14:00:21 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "US Senate votes to pause Iran war in rare rebuke to Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
-      "date": "Wed, 24 Jun 2026 01:29:51 +0000"
+      "text": "Deadly heatwave grips Europe as temperatures soar across continent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 05:57:19 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "South Korea&#039;s KOSPI surges 4.1% as chip stocks recover",
-      "link": "https://www.channelnewsasia.com/east-asia/kospi-recover-chip-stocks-south-korea-6205361",
-      "date": "Wed, 24 Jun 2026 09:24:00 +0800"
+      "text": "Keanu Reeves set to join new Lego movie by Toy Story director",
+      "link": "https://www.channelnewsasia.com/entertainment/keanu-reeves-new-lego-movie-6205446",
+      "date": "Wed, 24 Jun 2026 13:53:46 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "NATO's Rutte aims to soothe Trump on White House visit ahead of July summit",
+      "link": "https://www.france24.com/en/americas/20260624-nato-rutte-soothe-trump-white-house-visit-july-summit-western-alliance-hegseth",
+      "date": "Wed, 24 Jun 2026 05:43:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "ByteDance seeks $20 billion in its largest-ever offshore loan, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan-bloomberg-news-reports-6206146",
+      "date": "Wed, 24 Jun 2026 13:32:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "McCullum dismisses talk of rift with Stokes ahead of third New Zealand test",
+      "link": "https://www.channelnewsasia.com/sport/mccullum-dismisses-talk-rift-stokes-ahead-third-new-zealand-test-6206136",
+      "date": "Wed, 24 Jun 2026 13:27:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinatown Complex hawkers get temporary exhaust fix after week of sweltering conditions",
+      "link": "https://www.channelnewsasia.com/singapore/chinatown-complex-hawkers-exhaust-system-fix-6206041",
+      "date": "Wed, 24 Jun 2026 13:27:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Colombia qualify with DR Congo win as Lorenzo praises attacking variety",
+      "link": "https://www.channelnewsasia.com/sport/colombia-qualify-dr-congo-win-lorenzo-praises-attacking-variety-6206131",
+      "date": "Wed, 24 Jun 2026 13:20:02 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Woman slapped, punched and scratched maid over household chores, gets jail",
+      "link": "https://www.channelnewsasia.com/singapore/woman-abuse-maid-slap-scratch-bleed-6205946",
+      "date": "Wed, 24 Jun 2026 13:16:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 24 Jun 2026 05:07:55 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "England’s Spence appears to refuse handshake with booed Ghana player Partey",
-      "link": "https://www.aljazeera.com/sports/2026/6/24/englands-spence-appears-to-refuse-handshake-with-booed-ghana-player-partey?traffic_source=rss",
-      "date": "Wed, 24 Jun 2026 01:18:08 +0000"
+      "text": "Kenyan Health Minister orders halt of construction of US Ebola facility",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 05:06:43 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Russia Makes Inroads in Southeast Asia",
+      "link": "https://foreignpolicy.com/2026/06/24/russia-asean-kazan-summit-energy-southeast-asia/",
+      "date": "Wed, 24 Jun 2026 05:00:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Colombia battle past DR Congo to reach round of 32",
+      "link": "https://www.france24.com/en/sport/20260624-world-cup-2026-colombia-battle-past-dr-congo-to-reach-round-of-32-knockouts-munoz",
+      "date": "Wed, 24 Jun 2026 04:58:51 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ghana celebrates after holding nervous England to 0-0 draw",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ghana-celebrates-after-holding-nervous-england-to-0-0-draw?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:50:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Cristiano Ronaldo becomes first player to score in six World Cups",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/cristiano-ronaldo-becomes-first-player-to-score-in-six-world-cups?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:45:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kilts-and-bagpipes-flood-miami-streets-as-scotland-prepare-to-face-brazil?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:42:42 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
+      "link": "https://www.aljazeera.com/sports/2026/6/24/colombia-dr-congo-1-0-fifa-world-cup-2026-knockout-munoz-rodrigruez-arias-mpasi?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:40:44 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France’s latest heatwave: ‘Temperatures will fall, and we won’t talk about it anymore’",
+      "link": "https://www.france24.com/en/france/20260624-france-latest-heatwave-temperatures-will-fall-and-we-talk-about-anymore-gemmene-un-climate-change",
+      "date": "Wed, 24 Jun 2026 04:40:32 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Oil prices extend decline on expectations of smoother crude flows via Hormuz",
-      "link": "https://www.channelnewsasia.com/business/oil-prices-extend-decline-expectations-smoother-crude-flows-hormuz-6205371",
-      "date": "Wed, 24 Jun 2026 09:17:00 +0800"
+      "text": "Johor polls: Caretaker chief minister touts growth record, says voters want him to ‘continue this momentum’",
+      "link": "https://www.channelnewsasia.com/asia/johor-state-election-onn-hafiz-ghazi-chief-minister-6203196",
+      "date": "Wed, 24 Jun 2026 12:33:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
+      "link": "https://www.aljazeera.com/sports/2026/6/24/nba-draft-2026-aj-dybantsa-no-1-pick-washington-wizards?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:32:58 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Like him or loathe him, Tucker Carlson is a window into Trump's world",
+      "link": "https://news.sky.com/story/like-him-or-loathe-him-tucker-carlson-is-a-window-into-trumps-world-13556311",
+      "date": "Wed, 24 Jun 2026 05:30:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+      "link": "https://www.aljazeera.com/sports/2026/6/24/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+      "date": "Wed, 24 Jun 2026 04:15:22 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 24 Jun 2026 04:06:51 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+      "link": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
+      "date": "Wed, 24 Jun 2026 04:00:35 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 24 Jun 2026 03:57:59 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Can Trump's Iran deal survive?",
+      "link": "https://news.sky.com/story/can-trumps-iran-deal-survive-13557161",
+      "date": "Wed, 24 Jun 2026 04:30:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Oman announces temporary maritime corridor through Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260624-middle-east-live-oman-announces-temporary-maritime-corridor-through-strait-of-hormuz",
+      "date": "Wed, 24 Jun 2026 02:55:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kim Jong Un unveils 5,000-ton destroyer, touting nuclear capabilities",
+      "link": "https://www.france24.com/en/asia-pacific/20260624-kim-jong-un-unveils-5-000-ton-destroyer-touting-nuclear-capabilities",
+      "date": "Wed, 24 Jun 2026 02:42:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 24 Jun 2026 01:42:43 GMT"
     },
     {
       "src": "France 24",
@@ -94,55 +234,6 @@
       "date": "Wed, 24 Jun 2026 00:00:06 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-      "date": "Wed, 24 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss",
-      "date": "Tue, 23 Jun 2026 23:49:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ronaldo late to World Cup party but still able to steal the show",
-      "link": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss",
-      "date": "Tue, 23 Jun 2026 23:46:08 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 23 Jun 2026 23:46:01 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 23 Jun 2026 23:25:07 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protesters sentenced to decades in US prison over alleged antifa ties",
-      "link": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
-      "date": "Tue, 23 Jun 2026 23:22:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
-      "link": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss",
-      "date": "Tue, 23 Jun 2026 23:01:10 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "World Cup 2026: Ronaldo becomes first player to score in six editions",
@@ -150,53 +241,11 @@
       "date": "Tue, 23 Jun 2026 22:58:24 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel’s deliberate targeting of Palestinian children",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
-      "date": "Tue, 23 Jun 2026 22:50:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trains across Germany briefly halted after communication system issue",
       "link": "https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238",
       "date": "Tue, 23 Jun 2026 23:47:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: England held by Ghana in goalless Group L stalemate",
-      "link": "https://www.france24.com/en/sport/20260623-world-cup-2026-england-held-by-ghana-in-goalless-group-l-stalemate",
-      "date": "Tue, 23 Jun 2026 22:06:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: England held by Ghana in goalless Group L stalemate",
-      "link": "https://www.france24.com/en/sport/20260623-world-cup-2026-england-held-by-ghana-in-goalless-group-l-stalemate",
-      "date": "Tue, 23 Jun 2026 22:05:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France record heatwave sees 'hairdryer effect' threaten crops",
-      "link": "https://www.france24.com/en/france-record-heatwave-sees-hairdryer-effect-threaten-crops",
-      "date": "Tue, 23 Jun 2026 21:54:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Outdoor workers battle soaring temperatures as France sees hottest day since records began",
-      "link": "https://www.france24.com/en/outdoor-workers-battle-soaring-temperatures-as-france-sees-hottest-day-since-records-began",
-      "date": "Tue, 23 Jun 2026 21:52:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French Resistance hero and historian Marc Bloch enters France's Pantheon",
-      "link": "https://www.france24.com/en/europe/20260623-french-resistance-hero-and-historian-marc-bloch-enters-france-pantheon",
-      "date": "Tue, 23 Jun 2026 21:47:51 GMT"
     },
     {
       "src": "BBC World",
@@ -232,13 +281,6 @@
       "text": "Putin says Russia 'ready for peace talks' after Ukraine refinery strikes",
       "link": "https://news.sky.com/story/vladimir-putin-says-russia-ready-for-peace-talks-after-ukraine-refinery-strikes-13557152",
       "date": "Tue, 23 Jun 2026 17:56:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 23 Jun 2026 16:47:45 GMT"
     },
     {
       "src": "BBC World",
@@ -381,13 +423,6 @@
       "date": "Tue, 23 Jun 2026 11:27:32 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 23 Jun 2026 11:10:06 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "How America Made the Mafia",
@@ -423,13 +458,6 @@
       "date": "Tue, 23 Jun 2026 05:00:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Starmer Resigns as Burnham Eyes Top Job",
-      "link": "https://foreignpolicy.com/2026/06/22/keir-starmer-uk-prime-minister-resignation-andy-burnham-labour/",
-      "date": "Mon, 22 Jun 2026 22:13:02 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Brexit at 10: the promises, the costs and the search for accountability",
@@ -437,25 +465,11 @@
       "date": "Mon, 22 Jun 2026 16:05:19 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Former Wimbledon champion given four-year suspension",
-      "link": "https://news.sky.com/story/former-wimbledon-champion-marketa-vondrousova-given-four-year-suspension-for-refusing-drug-test-13556785",
-      "date": "Mon, 22 Jun 2026 15:47:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France, Germany reach deal on arms maker KNDS, opening door to stock market",
       "link": "https://www.rfi.fr/en/international/20260622-france-germany-reach-deal-on-arms-maker-knds-opening-door-to-stock-market",
       "date": "Mon, 22 Jun 2026 13:38:46 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Scores of drones target Moscow as Russian strikes on Ukraine kill six",
-      "link": "https://news.sky.com/story/scores-of-drones-target-moscow-as-russian-strikes-on-ukraine-kill-six-13556621",
-      "date": "Mon, 22 Jun 2026 09:39:00 +0100"
     },
     {
       "src": "Sky News",
@@ -486,25 +500,11 @@
       "date": "Sun, 21 Jun 2026 08:00:24 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Israel strikes south Lebanon despite truce announced with Hezbollah",
-      "link": "https://www.rfi.fr/en/international/20260620-israel-strikes-south-lebanon-despite-truce-announced-with-hezbollah",
-      "date": "Sat, 20 Jun 2026 10:16:21 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Ghana conference calls for formal apology for transatlantic slave trade",
       "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "date": "Fri, 19 Jun 2026 17:26:45 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-      "link": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "date": "Thu, 18 Jun 2026 18:55:09 GMT"
     }
   ]
 }
