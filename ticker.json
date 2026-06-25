@@ -1,41 +1,202 @@
 {
-  "updated": "2026-06-25T09:51:52.795Z",
-  "count": 63,
+  "updated": "2026-06-25T12:10:39.304Z",
+  "count": 62,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "AI, Global South driving next wave of innovation amid geopolitical tensions: WEF president",
-      "link": "https://www.channelnewsasia.com/world/ai-global-south-innovation-geopolitical-tensions-world-economic-forum-6209726",
-      "date": "Thu, 25 Jun 2026 17:43:17 +0800"
+      "text": "Every HDB block to have an ATM, cashpoint or bank branch within 500m by end-2027",
+      "link": "https://www.channelnewsasia.com/singapore/banks-atm-branch-cash-seniors-6209371",
+      "date": "Thu, 25 Jun 2026 20:09:57 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 25 Jun 2026 09:42:18 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed – latest updates",
-      "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "date": "Thu, 25 Jun 2026 09:36:34 GMT"
+      "text": "Ryanair says it will reluctantly let parents sit with children for free",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 25 Jun 2026 12:08:33 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Resurgent Raducanu and Murray-backed Draper lead British Wimbledon hopes",
-      "link": "https://www.channelnewsasia.com/sport/resurgent-raducanu-and-murray-backed-draper-lead-british-wimbledon-hopes-6209776",
-      "date": "Thu, 25 Jun 2026 17:28:01 +0800"
+      "text": "Complete text of carbonised Herculaneum scroll unlocked for first time",
+      "link": "https://www.channelnewsasia.com/business/complete-text-carbonised-herculaneum-scroll-unlocked-first-time-6210166",
+      "date": "Thu, 25 Jun 2026 20:01:47 +0800"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Venezuela capital hit by double earthquake as experts warn of high death toll",
+      "text": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 164 – latest updates",
+      "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "date": "Thu, 25 Jun 2026 11:59:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Business risk versus criminal conduct: Indonesia court case linked to failed start-up stirs debate",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-venture-capital-tanihub-court-case-jail-bri-ventures-mdi-6209886",
+      "date": "Thu, 25 Jun 2026 19:55:00 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Venezuela declares state of emergency after deadly twin earthquakes",
       "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "date": "Thu, 25 Jun 2026 09:25:38 GMT"
+      "date": "Thu, 25 Jun 2026 11:40:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "IOC official says charter changes on sports neutrality vital in &#039;complicated&#039; world",
+      "link": "https://www.channelnewsasia.com/sport/ioc-official-says-charter-changes-sports-neutrality-vital-in-complicated-world-6210131",
+      "date": "Thu, 25 Jun 2026 19:36:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kremlin demands explanation from Apple after Russian apps removed from App Store",
+      "link": "https://www.channelnewsasia.com/business/kremlin-demands-explanation-apple-after-russian-apps-removed-app-store-6210106",
+      "date": "Thu, 25 Jun 2026 19:32:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic hires Orange&#039;s AI chief amid Europe push",
+      "link": "https://www.channelnewsasia.com/business/anthropic-hires-oranges-ai-chief-amid-europe-push-6210111",
+      "date": "Thu, 25 Jun 2026 19:31:42 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
+      "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 25 Jun 2026 11:23:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU joins US-led &#039;Pax Silica&#039; on securing AI, chip supply chains",
+      "link": "https://www.channelnewsasia.com/business/eu-joins-us-led-pax-silica-securing-ai-chip-supply-chains-6210066",
+      "date": "Thu, 25 Jun 2026 19:17:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli forces kill Palestinian man during raid on his home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 11:16:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ghosn says calls for his Nissan return show investor anger over results",
+      "link": "https://www.channelnewsasia.com/business/ghosn-says-calls-his-nissan-return-show-investor-anger-over-results-6210071",
+      "date": "Thu, 25 Jun 2026 19:12:25 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How minesweeping in the Strait of Hormuz works: A visual guide",
+      "link": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 11:08:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rubio tells Gulf allies that Iran deal will ensure their security",
+      "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 10:59:44 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Europe faces another day of extreme heat after more temperature records set",
+      "link": "https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 10:52:47 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
+      "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 10:50:11 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 25 Jun 2026 10:48:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "#Venezuela hit by deadly back-to-back #earthquakes",
+      "link": "https://www.france24.com/en/video/20260625-venezuela-hit-by-deadly-back-to-back-earthquakes",
+      "date": "Thu, 25 Jun 2026 10:40:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Venezuela earthquakes: Why is Central America so vulnerable to tremors?",
+      "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-earthquakes-why-is-central-america-so-vulnerable-to-tremors?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 10:39:58 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Venezuela earthquakes live: Death toll jumps to at least 164, nearly 1,000 injured",
+      "link": "https://www.france24.com/en/americas/20260625-venezuela-earthquakes-live-caracas-us-immediately-deploying-rescuers-marco-rubio",
+      "date": "Thu, 25 Jun 2026 10:25:12 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Relief in sight as temperatures set to fall in France after record heatwave",
+      "link": "https://www.rfi.fr/en/international/20260625-relief-for-france-as-temperatures-set-to-fall-after-record-heatwave",
+      "date": "Thu, 25 Jun 2026 10:18:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Oil prices back to pre-war levels on rising Middle East supply",
+      "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 10:04:43 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 25 Jun 2026 10:04:43 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "date": "Thu, 25 Jun 2026 10:03:54 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe swelters as heatwave affects more than 100 million people from Spain to Germany",
+      "link": "https://www.france24.com/en/europe/20260625-france-spain-germany-europe-swelters-as-heatwave-drags-on",
+      "date": "Thu, 25 Jun 2026 09:59:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US says Iran will buy its goods: What could US-Iran trade look like?",
+      "link": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
+      "date": "Thu, 25 Jun 2026 09:43:12 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "North Korean soldier crosses border into South Korea in suspected defection",
+      "link": "https://news.sky.com/story/north-korean-soldier-crosses-border-into-south-korea-in-suspected-defection-13557640",
+      "date": "Thu, 25 Jun 2026 10:29:00 +0100"
     },
     {
       "src": "France 24",
@@ -52,34 +213,6 @@
       "date": "Thu, 25 Jun 2026 09:21:12 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore sends condolences to Timor-Leste after former president Guterres’ death",
-      "link": "https://www.channelnewsasia.com/singapore/timor-leste-former-president-death-francisco-guterres-condolences-6209621",
-      "date": "Thu, 25 Jun 2026 17:17:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "In pictures: Aftermath of twin earthquakes in Venezuela",
-      "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 09:15:24 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Park criticises South Korea after loss to South Africa, warns of 2014 World Cup repeat",
-      "link": "https://www.channelnewsasia.com/sport/park-criticises-south-korea-after-loss-south-africa-warns-2014-world-cup-repeat-6209761",
-      "date": "Thu, 25 Jun 2026 17:13:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rubio warns Hormuz tolls would &#039;spread like contagion&#039; to other waterways",
-      "link": "https://www.channelnewsasia.com/world/strait-hormuz-rubio-warns-tolls-spread-other-waterways-6209656",
-      "date": "Thu, 25 Jun 2026 17:12:51 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Algeria-Austria clash stirs ghosts of Gijon as World Cup format stokes fears of collusion",
@@ -87,53 +220,11 @@
       "date": "Thu, 25 Jun 2026 09:12:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Who are the men&#039;s contenders to look out for at Wimbledon?",
-      "link": "https://www.channelnewsasia.com/sport/who-are-mens-contenders-look-out-wimbledon-6209751",
-      "date": "Thu, 25 Jun 2026 17:10:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sinner&#039;s body and mind in focus for Wimbledon title defence",
-      "link": "https://www.channelnewsasia.com/sport/sinners-body-and-mind-in-focus-wimbledon-title-defence-6209716",
-      "date": "Thu, 25 Jun 2026 17:07:48 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 25 Jun 2026 09:07:25 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump asks Congress for billions for Iran war, after tension with Republicans",
       "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 25 Jun 2026 09:06:59 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World reacts as devastating Venezuela earthquakes kill at least 32",
-      "link": "https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 09:06:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-      "link": "https://www.aljazeera.com/sports/2026/6/25/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 09:05:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oil prices fall to prewar levels on rising Middle East supply",
-      "link": "https://www.channelnewsasia.com/world/oil-prices-fall-prewar-iran-rising-supply-6209651",
-      "date": "Thu, 25 Jun 2026 17:04:00 +0800"
     },
     {
       "src": "France 24",
@@ -145,70 +236,14 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Tourists on Champs-Élysées seek refuge from heat as more records tumble",
-      "link": "https://www.france24.com/en/video/20260625-tourists-on-champs-%C3%A9lys%C3%A9es-seek-refuge-from-heat-as-more-records-tumble",
-      "date": "Thu, 25 Jun 2026 08:57:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
       "text": "World Cup 2026: The photographer following Tunisia in his father’s footsteps",
       "link": "https://www.france24.com/en/video/20260625-world-cup-2026-the-photographer-following-tunisia-in-his-father-s-footsteps",
       "date": "Thu, 25 Jun 2026 08:56:23 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kenya marks protest anniversary amid fears of more violence",
-      "link": "https://www.france24.com/en/video/20260625-kenya-marks-protest-anniversary-amid-fears-of-more-violence",
-      "date": "Thu, 25 Jun 2026 08:52:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Maritime traffic picks up in Strait of Hormuz, but uncertainty lingers",
-      "link": "https://www.france24.com/en/tv-shows/business/20260625-maritime-traffic-picks-up-in-strait-of-hormuz-but-uncertainty-lingers",
-      "date": "Thu, 25 Jun 2026 08:50:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran warns against Hormuz crossings without authorisation",
-      "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 08:49:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Magnitude 6.9 earthquake strikes northern Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 08:41:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Moments of panic as earthquakes strike Venezuela",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 08:39:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mexico fans celebrate three World Cup group-stage wins in a row",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/mexico-fans-celebrate-three-world-cup-group-stage-wins-in-a-row?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 08:37:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-      "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-      "date": "Thu, 25 Jun 2026 08:28:35 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Oil price falls to levels not seen since before Iran war",
+      "text": "Oil price falls back to pre-Iran war levels",
       "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 25 Jun 2026 07:34:55 GMT"
     },
@@ -239,27 +274,6 @@
       "text": "Why Latin America’s New Right Will Struggle to Govern",
       "link": "https://foreignpolicy.com/2026/06/25/latin-america-new-right-colombia/",
       "date": "Thu, 25 Jun 2026 04:01:02 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 25 Jun 2026 03:12:17 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Independent MPs launch new Australian centrist party",
-      "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 25 Jun 2026 02:41:28 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
-      "link": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
-      "date": "Thu, 25 Jun 2026 01:08:05 GMT"
     },
     {
       "src": "BBC World",
@@ -381,20 +395,6 @@
       "date": "Wed, 24 Jun 2026 06:04:12 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "France reports first Ebola case",
-      "link": "https://news.sky.com/story/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive-13556940",
-      "date": "Wed, 24 Jun 2026 06:14:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Tucker Carlson is a window into Trump's world - and he says 'there's no future of the MAGA movement'",
-      "link": "https://news.sky.com/story/like-him-or-loathe-him-tucker-carlson-is-a-window-into-trumps-world-13556311",
-      "date": "Wed, 24 Jun 2026 05:30:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Play puts spotlight on Kenya’s crisis of gender-based violence",
@@ -428,13 +428,6 @@
       "text": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
       "link": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
       "date": "Tue, 23 Jun 2026 13:15:28 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France scrambles to respond, as June heatwave grips Europe",
-      "link": "https://www.rfi.fr/en/international/20260623-june-heat-grips-europe-as-france-scrambles-to-respond",
-      "date": "Tue, 23 Jun 2026 11:27:32 GMT"
     },
     {
       "src": "The Guardian",
