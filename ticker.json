@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-26T19:17:04.580Z",
-  "count": 71,
+  "updated": "2026-06-26T21:01:48.859Z",
+  "count": 62,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Panama coach Christiansen says World Cup tiebreak rule bad for competition",
+      "link": "https://www.channelnewsasia.com/sport/panama-coach-christiansen-says-world-cup-tiebreak-rule-bad-competition-6214176",
+      "date": "Sat, 27 Jun 2026 04:46:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US launches new Chinese tech crackdown, will ban some imports",
+      "link": "https://www.channelnewsasia.com/business/us-launches-new-chinese-tech-crackdown-will-ban-some-imports-6214171",
+      "date": "Sat, 27 Jun 2026 04:39:26 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
+      "link": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 20:29:50 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump threatens 100% tariffs on Europe if countries impose tax on US digital services",
+      "link": "https://www.france24.com/en/europe/20260626-trump-threatens-100-tariffs-on-europe-if-countries-impose-tax-on-us-digital-services",
+      "date": "Fri, 26 Jun 2026 20:27:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Togo's parliamentary reforms: unconstitutional",
+      "link": "https://www.france24.com/en/togo-s-reforms-unconstitutional",
+      "date": "Fri, 26 Jun 2026 20:25:49 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Colombia coach wary of Portugal&#039;s Vitinha, Ronaldo in Group K showdown",
+      "link": "https://www.channelnewsasia.com/sport/colombia-coach-wary-portugals-vitinha-ronaldo-in-group-k-showdown-6214156",
+      "date": "Sat, 27 Jun 2026 04:25:43 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "DR Congo to go on the attack in must-win clash against Uzbekistan",
+      "link": "https://www.channelnewsasia.com/sport/dr-congo-go-attack-in-must-win-clash-against-uzbekistan-6214121",
+      "date": "Sat, 27 Jun 2026 04:15:15 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Uruguay vs Spain LIVE: World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 20:03:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US federal judge questions DOJ decision to drop Adani charges",
+      "link": "https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 20:02:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuelans search for missing as earthquake death toll climbs",
+      "link": "https://www.france24.com/en/americas/20260626-venezuelans-search-for-missing-as-earthquake-death-toll-climbs",
+      "date": "Fri, 26 Jun 2026 19:52:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli attack on car in central Gaza kills three Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 19:49:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How much disaster aid will the US provide to Venezuela?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 19:41:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "link": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 19:38:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israel, Lebanon sign framework peace deal after US-mediated talks",
+      "link": "https://www.channelnewsasia.com/world/israel-lebanon-sign-framework-peace-deal-after-us-mediated-talks-6214081",
+      "date": "Sat, 27 Jun 2026 03:32:39 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 26 Jun 2026 19:29:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe on high alert as deadly heat set to move east and south",
+      "link": "https://www.france24.com/en/europe/20260626-europe-on-high-alert-as-deadly-heat-set-to-move-east-and-south",
+      "date": "Fri, 26 Jun 2026 19:26:44 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 19:26:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah",
+      "link": "https://www.aljazeera.com/video/head-to-head/2026/6/26/is-the-afd-a-threat-to-germany-mehdi-hasan-maximilian-krah?traffic_source=rss",
+      "date": "Fri, 26 Jun 2026 19:24:54 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Hezbollah Now More an Obligation Than an Asset to Tehran?",
+      "link": "https://foreignpolicy.com/2026/06/26/iran-hezbollah-united-states-war-israel-lebanon-proxies/",
+      "date": "Fri, 26 Jun 2026 19:20:07 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -31,6 +164,13 @@
       "date": "Sat, 27 Jun 2026 03:03:51 +0800"
     },
     {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Art That Created Colonialism",
+      "link": "https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-colonialism-turner-india/",
+      "date": "Fri, 26 Jun 2026 19:00:51 +0000"
+    },
+    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Brexit Britain: Sunlit Uplands or a Toad in the Harrow?",
@@ -45,39 +185,11 @@
       "date": "Fri, 26 Jun 2026 18:55:13 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ceballos announces his Real Madrid exit",
-      "link": "https://www.channelnewsasia.com/sport/ceballos-announces-his-real-madrid-exit-6214036",
-      "date": "Sat, 27 Jun 2026 02:47:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Canada and South Africa enter uncharted territory in first World Cup last-32 game",
-      "link": "https://www.channelnewsasia.com/sport/canada-and-south-africa-enter-uncharted-territory-in-first-world-cup-last-32-game-6214031",
-      "date": "Sat, 27 Jun 2026 02:43:21 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Mother dies saving daughter in Venezuela earthquakes",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 26 Jun 2026 18:36:32 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
-      "link": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 18:33:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Zealand&#039;s Tickner ruled out of rest of third test against England with concussion",
-      "link": "https://www.channelnewsasia.com/sport/new-zealands-tickner-ruled-out-rest-third-test-against-england-concussion-6214006",
-      "date": "Sat, 27 Jun 2026 02:21:07 +0800"
     },
     {
       "src": "France 24",
@@ -87,18 +199,11 @@
       "date": "Fri, 26 Jun 2026 18:17:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Norway vs France live: Mbappé starts, Haaland on the bench in World Cup group decider",
-      "link": "https://www.france24.com/en/sport/20260626-france-vs-norway-live-world-cup-group-i-decider-mbappe-haaland-chase-golden-boot",
-      "date": "Fri, 26 Jun 2026 18:16:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Rescuers race to find survivors of Venezuelan earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_inside-venezuelas-race-to-find-earthquake-survivors-260626?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 18:10:28 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Europe's deadly heatwave breaks German record and halts public events",
+      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 26 Jun 2026 18:14:36 GMT"
     },
     {
       "src": "BBC World",
@@ -108,60 +213,11 @@
       "date": "Fri, 26 Jun 2026 18:03:32 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Usyk vacates titles before &#039;last dance&#039;",
-      "link": "https://www.channelnewsasia.com/sport/usyk-vacates-titles-last-dance-6213906",
-      "date": "Sat, 27 Jun 2026 02:02:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli prosecutors charge six settlers after West Bank mosque attack",
-      "link": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 18:00:24 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UAE apologises for &#039;incorrect&#039; missile alerts",
-      "link": "https://www.channelnewsasia.com/world/uea-apologise-incorrect-missile-attack-phone-alert-6213801",
-      "date": "Sat, 27 Jun 2026 01:56:14 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why did these World Cup ads strike a nerve in Egypt?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 17:55:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US announces framework agreement between Israel and Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 17:53:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nine people killed in building collapse in Lagos, Nigeria",
-      "link": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 17:40:36 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
       "link": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
       "date": "Fri, 26 Jun 2026 17:36:39 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New York City freezes rents for one million regulated apartments",
-      "link": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 17:30:55 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -171,13 +227,6 @@
       "date": "Fri, 26 Jun 2026 17:29:35 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "More than a month into DR Congo Ebola outbreak, doctors warn 'this epidemic will last'",
-      "link": "https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained",
-      "date": "Fri, 26 Jun 2026 17:23:08 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "DR Congo takes Rwanda to international court over decades of conflict",
@@ -185,32 +234,11 @@
       "date": "Fri, 26 Jun 2026 17:05:22 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
-      "link": "https://www.aljazeera.com/news/2026/6/26/dr-congo-files-case-against-rwanda-at-icj-over-decades-of-alleged-abuses?traffic_source=rss",
-      "date": "Fri, 26 Jun 2026 16:54:08 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Living in a warming world requires practical solutions that save lives, don't harm our environment'",
-      "link": "https://www.france24.com/en/living-in-a-warming-world-requires-practical-solutions-that-save-lives-don-t-harm-our-environment",
-      "date": "Fri, 26 Jun 2026 16:49:56 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 26 Jun 2026 16:45:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "In some Mexican regions, endemic violence dampens World Cup excitement",
-      "link": "https://www.france24.com/en/video/20260626-in-some-mexican-regions-endemic-violence-dampens-world-cup-excitement",
-      "date": "Fri, 26 Jun 2026 16:11:29 GMT"
     },
     {
       "src": "The Guardian",
@@ -227,25 +255,11 @@
       "date": "Fri, 26 Jun 2026 16:02:33 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 26 Jun 2026 15:34:39 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Israel's targeting of Gaza's children proves genocidal intent, UN inquiry finds",
       "link": "https://www.rfi.fr/en/international/20260626-israel-s-targeting-of-gaza-children-proves-genocidal-intent-un-inquiry-says",
       "date": "Fri, 26 Jun 2026 15:01:59 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Plane crashed into Beijing's tallest building, witnesses say",
-      "link": "https://news.sky.com/story/plane-crashed-into-beijings-tallest-building-witnesses-say-13558050",
-      "date": "Fri, 26 Jun 2026 15:14:00 +0100"
     },
     {
       "src": "RFI",
@@ -267,41 +281,6 @@
       "text": "Colombia Swings to the Right",
       "link": "https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/",
       "date": "Fri, 26 Jun 2026 12:00:13 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Global drug use reaches record high as increasingly potent synthetic drugs spread",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167817",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Deaths in US immigration custody must be investigated: UN rights chief",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167816",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Venezuela earthquakes LIVE: Death toll rises amid recovery and rescue efforts",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167815",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Venezuela quake: ‘People still terrified to re-enter what were their homes’",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167814",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -339,13 +318,6 @@
       "date": "Fri, 26 Jun 2026 09:27:21 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 26 Jun 2026 06:16:01 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Christmas market terrorist who drove into crowds jailed for life",
@@ -372,20 +344,6 @@
       "text": "Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?",
       "link": "https://foreignpolicy.com/2026/06/25/kenya-ruto-election-somali-democracy-nairobi-odinga/",
       "date": "Thu, 25 Jun 2026 20:34:31 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "As the Tide Turns Against Putin, Beware the Drowning Man",
-      "link": "https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-nato-europe/",
-      "date": "Thu, 25 Jun 2026 20:16:57 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Venezuela Reels From Twin Deadly Earthquakes",
-      "link": "https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delcy-rodriguez-search-rescue-operations/",
-      "date": "Thu, 25 Jun 2026 20:15:32 +0000"
     },
     {
       "src": "Sky News",
@@ -421,27 +379,6 @@
       "text": "France told to do more to protect children from human trafficking",
       "link": "https://www.rfi.fr/en/international/20260625-france-told-to-do-more-to-protect-children-from-human-trafficking",
       "date": "Thu, 25 Jun 2026 14:18:52 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council extends critical stabilisation force in Syria",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167813",
-      "date": "Thu, 25 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167812",
-      "date": "Thu, 25 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167811",
-      "date": "Thu, 25 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
