@@ -1,20 +1,125 @@
 {
-  "updated": "2026-06-27T20:09:28.537Z",
-  "count": 60,
+  "updated": "2026-06-27T21:35:04.490Z",
+  "count": 68,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 21:13:12 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 27 Jun 2026 21:12:51 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Serbian President Vucic says he will resign within weeks; move comes amid student protests",
+      "link": "https://www.channelnewsasia.com/world/serbian-president-vucic-says-he-will-resign-within-weeks-move-comes-amid-student-protests-6215441",
+      "date": "Sun, 28 Jun 2026 05:00:46 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 27 Jun 2026 20:48:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Panama vs England: Saka, Rashford start for Three Lions in final World Cup group match",
+      "link": "https://www.france24.com/en/sport/20260627-panama-vs-england-three-lions-target-top-spot-final-world-cup-group-match",
+      "date": "Sat, 27 Jun 2026 20:37:10 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+      "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 20:34:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 20:30:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New Zealand&#039;s early World Cup exit puts Oceania free pass in spotlight",
+      "link": "https://www.channelnewsasia.com/sport/new-zealands-early-world-cup-exit-puts-oceania-free-pass-in-spotlight-6215576",
+      "date": "Sun, 28 Jun 2026 04:25:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
+      "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 20:23:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Croatia drop Gvardiol, Ghana recall Sulemana",
+      "link": "https://www.channelnewsasia.com/sport/croatia-drop-gvardiol-ghana-recall-sulemana-6215566",
+      "date": "Sun, 28 Jun 2026 04:13:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Strong earthquake hits Hindu Kush, shaking Afghanistan and Pakistan",
+      "link": "https://www.channelnewsasia.com/asia/strong-earthquake-hits-hindu-kush-shaking-afghanistan-and-pakistan-6215251",
+      "date": "Sun, 28 Jun 2026 04:11:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Familiarity adds spice to Morocco-Netherlands last-32 clash",
+      "link": "https://www.channelnewsasia.com/sport/familiarity-adds-spice-morocco-netherlands-last-32-clash-6215561",
+      "date": "Sun, 28 Jun 2026 04:08:59 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Netanyahu hails Lebanon deal as Hezbollah rejects agreement",
+      "link": "https://www.france24.com/en/middle-east/20260627-netanyahu-hails-lebanon-deal-as-hezbollah-rejects-agreement",
+      "date": "Sat, 27 Jun 2026 20:08:27 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fans in car-centric LA embracing buses and trains for World Cup",
+      "link": "https://www.channelnewsasia.com/sport/fans-in-car-centric-la-embracing-buses-and-trains-world-cup-6215546",
+      "date": "Sun, 28 Jun 2026 04:06:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England make five changes for final group stage match against Panama",
+      "link": "https://www.channelnewsasia.com/sport/england-make-five-changes-final-group-stage-match-against-panama-6215551",
+      "date": "Sun, 28 Jun 2026 04:05:12 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump's face is added to select US passports for America's 250th birthday",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 27 Jun 2026 20:03:26 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
       "link": "https://www.channelnewsasia.com/world/death-toll-in-venezuela-quake-tops-1400-rescue-efforts-intensify-6215536",
       "date": "Sun, 28 Jun 2026 03:57:48 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "De Bruyne hails Vancouver&#039;s BC Place after Belgium cruise into World Cup knockout stage",
-      "link": "https://www.channelnewsasia.com/sport/de-bruyne-hails-vancouvers-bc-place-after-belgium-cruise-world-cup-knockout-stage-6215541",
-      "date": "Sun, 28 Jun 2026 03:52:25 +0800"
     },
     {
       "src": "The Guardian",
@@ -26,16 +131,30 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
+      "text": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
+      "link": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 19:38:14 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "DR Congo superfan denied US visa to support team at World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/dr-congo-superfan-denied-us-visa-to-support-team-at-world-cup?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 19:35:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran, US trade attacks in the Strait of Hormuz: Navigating the 'Guardian Angel' route",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260627-iran-us-trade-attacks-in-the-strait-of-hormuz-navigating-the-guardian-angel-route",
+      "date": "Sat, 27 Jun 2026 19:25:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
       "text": "Why is Crimea critical to the Russia–Ukraine war?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
       "date": "Sat, 27 Jun 2026 19:22:00 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Saudi Arabia&#039;s World Cup exit puts late coaching gamble under scrutiny",
-      "link": "https://www.channelnewsasia.com/sport/saudi-arabias-world-cup-exit-puts-late-coaching-gamble-under-scrutiny-6215516",
-      "date": "Sun, 28 Jun 2026 03:18:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -45,67 +164,11 @@
       "date": "Sat, 27 Jun 2026 19:12:39 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 19:05:26 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Africa’s Broos smiles and snarls before Canada World Cup showdown",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/south-africas-broos-smiles-and-snarls-ahead-of-canada-world-cup-showdown?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 18:55:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 18:50:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kenya rights groups say protesters found dumped, tortured after arrests",
-      "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 18:46:23 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "DR Congo superfan denied US visa to support team at World Cup",
-      "link": "https://www.channelnewsasia.com/sport/dr-congo-superfan-denied-us-visa-support-team-world-cup-6215501",
-      "date": "Sun, 28 Jun 2026 02:42:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Keys wins Eastbourne Open as men&#039;s final postponed due to rain",
-      "link": "https://www.channelnewsasia.com/sport/keys-wins-eastbourne-open-mens-final-postponed-due-rain-6215496",
-      "date": "Sun, 28 Jun 2026 02:37:50 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 18:30:26 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zverev and Andreeva ride Paris highs into Wimbledon",
-      "link": "https://www.channelnewsasia.com/sport/zverev-and-andreeva-ride-paris-highs-wimbledon-6215481",
-      "date": "Sun, 28 Jun 2026 02:00:53 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Houston’s cricket boom aims to follow in soccer’s footsteps",
-      "link": "https://www.channelnewsasia.com/sport/houstons-cricket-boom-aims-follow-in-soccers-footsteps-6215471",
-      "date": "Sun, 28 Jun 2026 01:42:43 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Understanding the 'point men': Iran-US peace talks",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260627-understanding-the-point-men-iran-us-peace-talks",
+      "date": "Sat, 27 Jun 2026 18:50:27 GMT"
     },
     {
       "src": "France 24",
@@ -115,32 +178,11 @@
       "date": "Sat, 27 Jun 2026 17:32:57 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australia to double fines on Big Tech as children bypass social media ban",
-      "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 17:29:34 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "In Seattle thank-you note, Iran express frustrations over draw with Egypt",
-      "link": "https://www.channelnewsasia.com/sport/in-seattle-thank-you-note-iran-express-frustrations-over-draw-egypt-6215451",
-      "date": "Sun, 28 Jun 2026 01:26:10 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Heatwave shatters records across Europe, disrupts transport and strains hospitals",
       "link": "https://www.france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals",
       "date": "Sat, 27 Jun 2026 17:16:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Europe's deadly heatwave breaks German record and halts public events",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 27 Jun 2026 16:51:17 GMT"
     },
     {
       "src": "RFI",
@@ -164,34 +206,6 @@
       "date": "Sat, 27 Jun 2026 15:38:48 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US-Iran ceasefire threatened by renewed strikes",
-      "link": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
-      "date": "Sat, 27 Jun 2026 15:11:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "First Budapest Pride since Orbán ousted from office",
-      "link": "https://www.france24.com/en/video/20260627-first-budapest-pride-since-orb%C3%A1n-ousted-from-office",
-      "date": "Sat, 27 Jun 2026 15:09:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Vespa is a way of life’: Thousands ride through Rome as Italy’s iconic scooter turns 80",
-      "link": "https://www.france24.com/en/europe/20260627-vespa-is-a-way-of-life-thousands-ride-through-rome-as-italy-s-iconic-scooter-turns-80",
-      "date": "Sat, 27 Jun 2026 14:25:05 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 27 Jun 2026 14:22:37 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Burkina Faso severs diplomatic ties with France",
@@ -206,11 +220,11 @@
       "date": "Sat, 27 Jun 2026 14:16:58 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Drowning deaths climb amid record-breaking heatwave",
-      "link": "https://www.france24.com/en/france-drowning-deaths-climb-amid-record-breaking-heatwave",
-      "date": "Sat, 27 Jun 2026 14:12:45 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Venezuela: International rescue teams join the search for survivors as earthquake deaths surpass 1,400",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167825",
+      "date": "Sat, 27 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -232,13 +246,6 @@
       "text": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 27 Jun 2026 08:56:30 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Billionaire Leon Black walks out of Epstein investigation hearing",
-      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 27 Jun 2026 03:07:46 GMT"
     },
     {
       "src": "BBC World",
@@ -337,6 +344,55 @@
       "text": "Colombia Swings to the Right",
       "link": "https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/",
       "date": "Fri, 26 Jun 2026 12:00:13 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167824",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167823",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: Window is closing to prevent wider escalation in El Obeid",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167821",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres urges renewed commitment to multilateralism on UN Charter Day",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167820",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167818",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Global drug use reaches record high as increasingly potent synthetic drugs spread",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167817",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Deaths in US immigration custody must be investigated: UN rights chief",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167816",
+      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
