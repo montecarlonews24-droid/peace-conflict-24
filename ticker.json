@@ -1,13 +1,90 @@
 {
-  "updated": "2026-06-27T16:53:39.117Z",
+  "updated": "2026-06-27T17:53:39.375Z",
   "count": 69,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuela twin quakes death toll tops 1,400 as tens of thousands remain missing",
+      "link": "https://www.france24.com/en/americas/20260625-venezuela-earthquakes-kill-nearly-1000-as-tens-of-thousands-missing",
+      "date": "Sat, 27 Jun 2026 17:32:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "In Seattle thank-you note, Iran express frustrations over draw with Egypt",
+      "link": "https://www.channelnewsasia.com/sport/in-seattle-thank-you-note-iran-express-frustrations-over-draw-egypt-6215451",
+      "date": "Sun, 28 Jun 2026 01:26:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How is framework agreement with Lebanon viewed in Israel?",
+      "link": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 17:21:31 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iraq&#039;s World Cup return ends with hope and hard truths",
+      "link": "https://www.channelnewsasia.com/sport/iraqs-world-cup-return-ends-hope-and-hard-truths-6215446",
+      "date": "Sun, 28 Jun 2026 01:20:50 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Heatwave shatters records across Europe, disrupts transport and strains hospitals",
+      "link": "https://www.france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals",
+      "date": "Sat, 27 Jun 2026 17:16:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Swiatek keeps her expectations low as she approaches Wimbledon title defence",
+      "link": "https://www.channelnewsasia.com/sport/swiatek-keeps-her-expectations-low-she-approaches-wimbledon-title-defence-6215436",
+      "date": "Sun, 28 Jun 2026 01:15:33 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tropical Storm Mekkhala leaves Taiwan underwater",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 17:05:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Explosion and gunfire reported in Pakistan’s Karachi",
+      "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
+      "date": "Sat, 27 Jun 2026 17:04:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cape Verde players have shown they can compete at top level, says Vozinha",
+      "link": "https://www.channelnewsasia.com/sport/cape-verde-players-have-shown-they-can-compete-top-level-says-vozinha-6215426",
+      "date": "Sun, 28 Jun 2026 01:02:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Scary France have not reached attacking ceiling yet",
+      "link": "https://www.channelnewsasia.com/sport/scary-france-have-not-reached-attacking-ceiling-yet-6215416",
+      "date": "Sun, 28 Jun 2026 00:52:56 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Europe's deadly heatwave breaks German record and halts public events",
       "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 27 Jun 2026 16:51:17 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brazil get Japan rematch as Ancelotti&#039;s World Cup crash course faces knockout test",
+      "link": "https://www.channelnewsasia.com/sport/brazil-get-japan-rematch-ancelottis-world-cup-crash-course-faces-knockout-test-6215411",
+      "date": "Sun, 28 Jun 2026 00:48:31 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -31,32 +108,11 @@
       "date": "Sun, 28 Jun 2026 00:20:21 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Germany&#039;s big names must deliver, team to go to the limit against Paraguay",
-      "link": "https://www.channelnewsasia.com/sport/germanys-big-names-must-deliver-team-go-limit-against-paraguay-6215381",
-      "date": "Sun, 28 Jun 2026 00:19:18 +0800"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "European heatwave continues to top records amid high alerts in the east",
       "link": "https://www.rfi.fr/en/international/20260627-european-heatwave-continues-to-top-records-amid-high-alerts-in-the-east",
       "date": "Sat, 27 Jun 2026 16:10:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "At the most expensive World Cup, wealthier fans find ways to pay",
-      "link": "https://www.channelnewsasia.com/sport/most-expensive-world-cup-wealthier-fans-find-ways-pay-6215351",
-      "date": "Sun, 28 Jun 2026 00:02:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Injury-hit Spain face winger dilemma before knockout stages",
-      "link": "https://www.channelnewsasia.com/sport/injury-hit-spain-face-winger-dilemma-knockout-stages-6215356",
-      "date": "Sat, 27 Jun 2026 23:58:36 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -66,13 +122,6 @@
       "date": "Sat, 27 Jun 2026 15:53:41 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Gauff wary of grass record as Wimbledon begins",
-      "link": "https://www.channelnewsasia.com/sport/gauff-wary-grass-record-wimbledon-begins-6215336",
-      "date": "Sat, 27 Jun 2026 23:52:53 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Bosnia: The lilies and dragons of the World Cup",
@@ -80,18 +129,25 @@
       "date": "Sat, 27 Jun 2026 15:49:16 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russell takes pole in chaotic Austrian GP qualifying",
-      "link": "https://www.channelnewsasia.com/sport/russell-takes-pole-in-chaotic-austrian-gp-qualifying-6215321",
-      "date": "Sat, 27 Jun 2026 23:42:49 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
       "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
       "date": "Sat, 27 Jun 2026 15:40:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Current heatwave recalls 2003 casualties",
+      "link": "https://www.france24.com/en/france-current-heatwave-recalls-2003-casualties",
+      "date": "Sat, 27 Jun 2026 15:40:18 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuela: Survivors say rescue effort too slow",
+      "link": "https://www.france24.com/en/venezuela-survivors-say-rescue-effort-too-slow",
+      "date": "Sat, 27 Jun 2026 15:38:48 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -113,34 +169,6 @@
       "text": "First Budapest Pride since Orbán ousted from office",
       "link": "https://www.france24.com/en/video/20260627-first-budapest-pride-since-orb%C3%A1n-ousted-from-office",
       "date": "Sat, 27 Jun 2026 15:09:31 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 15:05:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bodycam shows driver offering armed police a lift mid-chase",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 14:40:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss",
-      "date": "Sat, 27 Jun 2026 14:38:59 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dutch striker Weghorst leaves Ajax for Twente",
-      "link": "https://www.channelnewsasia.com/sport/dutch-striker-weghorst-leaves-ajax-twente-6215266",
-      "date": "Sat, 27 Jun 2026 22:26:24 +0800"
     },
     {
       "src": "France 24",
@@ -176,34 +204,6 @@
       "text": "France: Drowning deaths climb amid record-breaking heatwave",
       "link": "https://www.france24.com/en/france-drowning-deaths-climb-amid-record-breaking-heatwave",
       "date": "Sat, 27 Jun 2026 14:12:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴Nearly 6.8 million people may be affected by Venezuela quakes, UN says",
-      "link": "https://www.france24.com/en/americas/20260627-nearly-6-8-mn-people-may-be-affected-by-venezuela-quakes-un-says",
-      "date": "Sat, 27 Jun 2026 14:07:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nearly 6.8 mn people may be affected by Venezuela quakes, UN says",
-      "link": "https://www.france24.com/en/americas/20260627-nearly-6-8-mn-people-may-be-affected-by-venezuela-quakes-un-says",
-      "date": "Sat, 27 Jun 2026 14:05:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Flawless France cruise through while Cape Verde make history",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260627-world-cup-2026-flawless-france-cruise-through-while-cape-verde-make-history",
-      "date": "Sat, 27 Jun 2026 13:06:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup: Veteran Perisic banking on Croatia’s excellent record against Africa in Ghana match",
-      "link": "https://www.france24.com/en/sport/20260627-world-cup-veteran-perisic-banking-on-croatia-s-excellent-record-against-africa-in-ghana-match",
-      "date": "Sat, 27 Jun 2026 13:03:08 GMT"
     },
     {
       "src": "BBC World",
