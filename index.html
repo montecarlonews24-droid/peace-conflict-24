@@ -39,13 +39,13 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 .screen.active{opacity:1;pointer-events:all}
 
 /* TICKER */
-#ticker-bar{background:#e63946;border-top:1px solid rgba(255,255,255,.2);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:46px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
-.ticker-live-tag{background:#000;color:#fff;font-family:var(--font-mono);font-size:15px;font-weight:900;letter-spacing:.15em;padding:0 12px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1;border-radius:0;margin:0}
+#ticker-bar{background:#c1121f;border-top:1px solid rgba(255,255,255,.2);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:46px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
+.ticker-live-tag{background:#c1121f;color:#fff;font-family:var(--font-mono);font-size:15px;font-weight:900;letter-spacing:.15em;padding:0 12px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1;border-radius:0;margin:0}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
 .ticker-inner{display:flex;align-items:center;animation:ticker 220s linear infinite;white-space:nowrap;will-change:transform;color:#fff}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{color:#ffffff;font-weight:bold}
-.tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:17px;color:#fff;font-weight:700;letter-spacing:.02em}
+.tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:20px;color:#fff;font-weight:700;letter-spacing:.02em}
 .tick-src{display:inline;color:var(--red);font-weight:700;margin-right:4px}
 .tick-sep{color:rgba(255,255,255,.5)}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
@@ -2737,7 +2737,7 @@ function renderTickerLive() {
     ...[...headlines, ...headlines].map(h => {
       const col = h.col || getSourceColor(h.src);
       const timeLabel = h.date ? getRelativeTime(h.date) : '';
-      const srcLabel = h.src ? `<span style="color:#000;font-weight:900;font-size:13px;margin-right:5px">[${h.src}]</span> ` : '';
+      const srcLabel = h.src ? `<span style="color:#000;font-weight:900;font-size:15px;margin-right:6px;letter-spacing:.03em">[${h.src}]</span> ` : '';
       const link = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
       return `<span class="tick-item" ${link}>${srcLabel}<span style="color:rgba(255,255,255,.75);font-size:11px;margin-right:4px">${timeLabel}</span>${h.text}<span class="tick-sep">◆</span></span>`;
     })
