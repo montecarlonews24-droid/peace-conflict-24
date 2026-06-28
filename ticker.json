@@ -1,13 +1,139 @@
 {
-  "updated": "2026-06-28T12:55:40.978Z",
+  "updated": "2026-06-28T14:42:19.635Z",
   "count": 68,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
+      "text": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 28 Jun 2026 14:30:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Snap Insight: Pritam Singh prevails in leadership vote but must demonstrate he is not bigger than WP",
+      "link": "https://www.channelnewsasia.com/commentary/pritam-singh-workers-party-wp-vote-snap-insight-6216436",
+      "date": "Sun, 28 Jun 2026 22:22:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia&#039;s Firmus Technologies strikes AI access deal with Nvidia",
+      "link": "https://www.channelnewsasia.com/business/australias-firmus-technologies-strikes-ai-access-deal-nvidia-6216451",
+      "date": "Sun, 28 Jun 2026 22:02:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "link": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 14:01:29 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "More than 1,300 excess deaths linked to record-breaking Europe heatwave, WHO says",
+      "link": "https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says",
+      "date": "Sun, 28 Jun 2026 13:59:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The US-Iran MoU: A mirage of an agreement",
+      "link": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:59:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi Aramco helicopter crash kills 14 nationals: Report",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-aramco-helicopter-crash-ras-tanura-6216326",
+      "date": "Sun, 28 Jun 2026 21:52:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukraine says it attacked two Russian oil refineries",
+      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:36:15 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Civilian plane crash kills 11 in France: Local authorities",
+      "link": "https://www.channelnewsasia.com/world/france-tomblaine-civilian-place-crash-6216421",
+      "date": "Sun, 28 Jun 2026 21:34:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
+      "link": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:30:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Stories of survivors of Venezuela’s earthquakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/stories-of-survivors-of-venezuelas-earthquakes?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:21:47 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
       "text": "Eleven killed after plane carrying skydivers crashes in eastern France",
       "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 28 Jun 2026 12:51:59 GMT"
+      "date": "Sun, 28 Jun 2026 13:21:33 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ogura seals landmark Dutch GP win, Bezzecchi crashes out",
+      "link": "https://www.channelnewsasia.com/sport/ogura-seals-landmark-dutch-gp-win-bezzecchi-crashes-out-6216416",
+      "date": "Sun, 28 Jun 2026 21:20:50 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Paradise lost: How Israel is making war on West Bank farmers",
+      "link": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:19:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
+      "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
+      "date": "Sun, 28 Jun 2026 13:17:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What France gets wrong about air conditioning",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20260628-what-france-gets-wrong-about-air-conditioning",
+      "date": "Sun, 28 Jun 2026 13:12:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: Earthquakes in Venezuela, Starmer's resignation and extreme heat in France",
+      "link": "https://www.france24.com/en/france/20260628-the-week-in-pictures-earthquakes-in-venezuela-starmer-s-resignation-and-extreme-heat-in-france",
+      "date": "Sun, 28 Jun 2026 13:06:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Austria urges Europe to host Anthropic following US curbs on AI access",
+      "link": "https://www.channelnewsasia.com/business/austria-urges-europe-host-anthropic-following-us-curbs-ai-access-6216396",
+      "date": "Sun, 28 Jun 2026 20:58:55 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bergs beats Humbert to clinch first ATP title at Eastbourne Open",
+      "link": "https://www.channelnewsasia.com/sport/bergs-beats-humbert-clinch-first-atp-title-eastbourne-open-6216401",
+      "date": "Sun, 28 Jun 2026 20:55:43 +0800"
     },
     {
       "src": "BBC World",
@@ -24,13 +150,6 @@
       "date": "Sun, 28 Jun 2026 12:38:33 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Satellite images show scale of destruction in Venezuela earthquakes",
-      "link": "https://www.aljazeera.com/news/longform/2026/6/28/satellite-images-show-scale-of-destruction-in-venezuela-earthquakes?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 12:37:02 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Ravindra and Mitchell build up New Zealand&#039;s lead",
@@ -38,53 +157,11 @@
       "date": "Sun, 28 Jun 2026 20:31:46 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
-      "link": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 12:27:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 12:13:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board",
-      "link": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 12:10:24 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Serena Williams to make Wimbledon return on Centre Court",
-      "link": "https://www.channelnewsasia.com/sport/serena-williams-make-wimbledon-return-centre-court-6216336",
-      "date": "Sun, 28 Jun 2026 19:57:09 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "World Cup 2026 : 215 goals in record breaking group stage",
       "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260628-world-cup-2026-215-goals-in-record-breaking-group-stage",
       "date": "Sun, 28 Jun 2026 11:53:10 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 11 dead as skydiving plane crashes in France",
-      "link": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 11:52:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Cup 2026: Most controversial VAR officiating decisions in group stage",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 11:46:04 +0000"
     },
     {
       "src": "France 24",
@@ -115,62 +192,6 @@
       "date": "Sun, 28 Jun 2026 11:27:57 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DR Congo beat Uzbekistan and fly to World Cup round of 32",
-      "link": "https://www.france24.com/en/dr-congo-beat-uzbekistan-and-fly-to-world-cup-round-of-32",
-      "date": "Sun, 28 Jun 2026 11:24:45 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bangladesh&#039;s fugitive ex-PM says will return to Dhaka &#039;this year&#039;",
-      "link": "https://www.channelnewsasia.com/asia/bangladesh-ex-pm-sheikh-hasina-return-6216311",
-      "date": "Sun, 28 Jun 2026 19:24:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Venezuela death toll reaches 1,430",
-      "link": "https://www.france24.com/en/venezuela-death-toll-reaches-1-430",
-      "date": "Sun, 28 Jun 2026 11:23:25 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pritam Singh says WP will respect cadres&#039; &#039;supermajority&#039; vote to retain him as secretary-general",
-      "link": "https://www.channelnewsasia.com/singapore/pritam-singh-workers-party-secret-vote-cadre-member-meeting-6216296",
-      "date": "Sun, 28 Jun 2026 19:10:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Uganda’s military chief orders shutdown of two media outlets",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
-      "date": "Sun, 28 Jun 2026 11:08:27 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "New Caledonia polls close in French territory's first provincial elections since 2019",
-      "link": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
-      "date": "Sun, 28 Jun 2026 10:20:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Victims of online harassment, doxxing can get help from new government body from Jun 29",
-      "link": "https://www.channelnewsasia.com/singapore/online-harassment-safety-commission-doxxing-osc-report-6207016",
-      "date": "Sun, 28 Jun 2026 18:11:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pritam Singh holds on to party chief position after secret vote at WP special cadres conference",
-      "link": "https://www.channelnewsasia.com/singapore/workers-party-pritam-singh-cadres-cec-election-6216191",
-      "date": "Sun, 28 Jun 2026 17:51:00 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
@@ -185,20 +206,6 @@
       "date": "Sun, 28 Jun 2026 09:51:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thai family mourns teen girl found dead in suitcase as Australian arrested",
-      "link": "https://www.channelnewsasia.com/asia/thailand-pattaya-teenager-murder-australian-arrested-6216216",
-      "date": "Sun, 28 Jun 2026 16:48:52 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France records around 1,000 more deaths than expected in heatwave",
-      "link": "https://www.channelnewsasia.com/world/france-heatwave-1000-more-deaths-6216196",
-      "date": "Sun, 28 Jun 2026 16:15:00 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuela earthquakes: death toll rises again to more than 1,400",
@@ -211,13 +218,6 @@
       "text": "US and Iran exchange strikes and accuse each other of violating ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 28 Jun 2026 04:54:50 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 28 Jun 2026 00:06:19 GMT"
     },
     {
       "src": "BBC World",
