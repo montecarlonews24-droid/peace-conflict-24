@@ -960,8 +960,6 @@ CONFLICT
         <!-- Main Tabs: News / Rooms / Live -->
         <div style="display:flex;gap:6px;margin-bottom:0" id="press-main-tabs">
           <button class="region-tab active" id="ptab-news"  onclick="setPressTab('news')" style="flex:1;justify-content:center">📰 News</button>
-          <button class="region-tab"        id="ptab-rooms" onclick="setPressTab('rooms')" style="flex:1;justify-content:center">💬 Rooms</button>
-          <button class="region-tab"        id="ptab-live"  onclick="setPressTab('live')" style="flex:1;justify-content:center">🔴 Live</button>
         </div>
 
         <!-- Region sub-tabs (only shown for News) -->
@@ -980,18 +978,6 @@ CONFLICT
       </div>
 
       <!-- ROOMS VIEW -->
-      <div id="press-rooms" style="display:none;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px 12px;padding-bottom:calc(92px + env(safe-area-inset-bottom))">
-        <!-- Conflict Chat Rooms -->
-        <div style="font-family:var(--font-mono);font-size:9px;color:var(--amber);letter-spacing:.1em;margin-bottom:10px;margin-top:4px">PUBLIC ROOMS</div>
-        <div id="pub-rooms"></div>
-        <div style="font-family:var(--font-mono);font-size:9px;color:var(--amber);letter-spacing:.1em;margin:14px 0 10px">🔒 PREMIUM ROOMS</div>
-        <div id="priv-rooms"></div>
-      </div>
-
-      <!-- LIVE RSS VIEW -->
-      <div id="press-live" style="display:none;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px 12px;padding-bottom:calc(92px + env(safe-area-inset-bottom))">
-        <div id="press-live-feed"></div>
-      </div>
 
     </div>
 
