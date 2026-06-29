@@ -4652,6 +4652,7 @@ document.addEventListener('DOMContentLoaded', function() {
 let currentPressTab = 'news';
 
 function setPressTab(tab) {
+  if (tab === 'rooms') { window.location.href='https://peace-conflict-24.vercel.app/chat.html'; return; }
   currentPressTab = tab;
 
   // Update tab buttons
