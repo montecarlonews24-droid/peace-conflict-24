@@ -2231,7 +2231,8 @@ function changeLang(l){
 
 // ═══════════════════════════════════════════════════════ NAVIGATION
 function goScreen(name){
-  if(name==='chat'){ window.location.replace('https://peace-conflict-24.vercel.app/chat.html'); return; }
+  // chat -> show Press Intelligence screen
+  if(name==='chat'){ ['home','map','chat','premium','profile','admin'].forEach(s=>{ const sc=document.getElementById('scr-'+s); const nb=document.getElementById('nb-'+s); if(sc) sc.classList.toggle('active',s===name); if(nb) nb.classList.toggle('active',s===name); }); STATE.currentScreen=name; setPressTab('news'); return; }
   ['home','map','chat','premium','profile','admin'].forEach(s=>{
     const sc=document.getElementById('scr-'+s);
     const nb=document.getElementById('nb-'+s);
