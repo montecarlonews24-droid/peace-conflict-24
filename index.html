@@ -2231,6 +2231,7 @@ function changeLang(l){
 
 // ═══════════════════════════════════════════════════════ NAVIGATION
 function goScreen(name){
+  if(name==='chat'){ window.location.replace('https://peace-conflict-24.vercel.app/chat.html'); return; }
   ['home','map','chat','premium','profile','admin'].forEach(s=>{
     const sc=document.getElementById('scr-'+s);
     const nb=document.getElementById('nb-'+s);
@@ -2238,12 +2239,10 @@ function goScreen(name){
     if(nb) nb.classList.toggle('active',s===name);
   });
   STATE.currentScreen=name;
-  // إخفاء ASK AI على شاشة Login فقط
   const fab = document.getElementById('ai-chat-fab');
   if (fab) fab.style.display = name === 'auth' ? 'none' : '';
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
-  if(name==='chat'){ setPressTab('news'); return; }
   if(name==='profile') renderProfile();
 }
 
@@ -4672,7 +4671,7 @@ function setPressTab(tab) {
   if (regionTabs) regionTabs.style.display = tab === 'news' ? '' : 'none';
 
   if (tab === 'news')  renderPressFeed();
-  if (tab === 'rooms') { window.location.href='chat.html'; return; }
+  if (tab === 'rooms') { window.location.href='https://peace-conflict-24.vercel.app/chat.html'; return; }
   if (tab === 'live')  renderLiveRSSFeed();
   // Ensure news tab region tabs are visible/hidden correctly
   const rt = document.getElementById('region-tabs');
