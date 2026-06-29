@@ -1,27 +1,223 @@
 {
-  "updated": "2026-06-29T08:31:43.695Z",
-  "count": 67,
+  "updated": "2026-06-29T12:54:44.484Z",
+  "count": 68,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Top South African police officer survives assassination attempt",
-      "link": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 08:30:24 GMT"
+      "text": "Five dead following shooting at youth centre in Stade, northern Germany",
+      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 12:52:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 12:51:58 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Malaysia extends search for missing flight MH370 by one year",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-mh370-extend-search-one-year-6218236",
-      "date": "Mon, 29 Jun 2026 16:28:51 +0800"
+      "text": "Monza appoint Juric as head coach after Serie A promotion",
+      "link": "https://www.channelnewsasia.com/sport/monza-appoint-juric-head-coach-after-serie-promotion-6218751",
+      "date": "Mon, 29 Jun 2026 20:47:37 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Oil steadies as US and Iran agree to halt attacks",
-      "link": "https://www.channelnewsasia.com/business/oil-steadies-us-and-iran-agree-halt-attacks-6216906",
-      "date": "Mon, 29 Jun 2026 16:21:40 +0800"
+      "text": "US says Trump envoys Kushner and Witkoff will travel for Iran meeting in Doha",
+      "link": "https://www.channelnewsasia.com/world/us-envoys-travel-doha-iran-meeting-6218731",
+      "date": "Mon, 29 Jun 2026 20:46:21 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Pre-existing vulnerabilities: Venezuela already experiencing economic turmoil, displacement crisis'",
+      "link": "https://www.france24.com/en/video/20260629-pre-existing-vulnerabilities-venezuela-already-experiencing-economic-turmoil-displacement-crisis",
+      "date": "Mon, 29 Jun 2026 12:45:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Santner breaks stubborn England resistance to nudge New Zealand towards series win",
+      "link": "https://www.channelnewsasia.com/sport/santner-breaks-stubborn-england-resistance-nudge-new-zealand-towards-series-win-6218726",
+      "date": "Mon, 29 Jun 2026 20:31:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Italy and Balkans hit by heatwave as wildfire fears rise",
+      "link": "https://www.channelnewsasia.com/world/italy-balkans-europe-heatwave-wildfire-fears-6218421",
+      "date": "Mon, 29 Jun 2026 20:26:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Canada reach new heights as the Netherlands prepare to face Morocco",
+      "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260629-canada-reach-new-heights-as-the-netherlands-prepare-to-face-morocco",
+      "date": "Mon, 29 Jun 2026 12:24:28 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Venezuela in ‘critical hours’ to find earthquake survivors as more search and rescue teams arrive – latest updates",
+      "link": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
+      "date": "Mon, 29 Jun 2026 12:24:19 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Five people dead in shooting in northern Germany",
+      "link": "https://www.channelnewsasia.com/world/germany-shooting-dead-stade-arrest-6218661",
+      "date": "Mon, 29 Jun 2026 20:16:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine strikes another Russian oil refinery as Putin admits fuel shortages",
+      "link": "https://www.france24.com/en/video/20260629-ukraine-strikes-another-russian-oil-refinery-as-putin-admits-fuel-shortages",
+      "date": "Mon, 29 Jun 2026 12:10:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Venezuela earthquake rescues: Five heart-warming moments",
+      "link": "https://www.aljazeera.com/news/2026/6/29/venezuela-earthquake-rescues-five-heart-warming-moments?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 12:09:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rescue window closing in Venezuela as quake death toll mounts",
+      "link": "https://www.france24.com/en/video/20260629-rescue-window-closing-in-venezuela-as-quake-death-toll-mounts",
+      "date": "Mon, 29 Jun 2026 12:09:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "All eyes on Serena ahead of much-awaited Wimbledon return",
+      "link": "https://www.channelnewsasia.com/sport/all-eyes-serena-ahead-much-awaited-wimbledon-return-6218651",
+      "date": "Mon, 29 Jun 2026 20:09:03 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Weather tracker: North-west US hit by snow ahead of eastern heatwave",
+      "link": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
+      "date": "Mon, 29 Jun 2026 12:09:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "At least five killed in shooting in Stade in northern Germany, police say",
+      "link": "https://www.france24.com/en/europe/20260629-several-people-killed-shooting-in-northern-germany-police-say",
+      "date": "Mon, 29 Jun 2026 12:08:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "At least five killed in shooting in Stade in northern Germany, police say",
+      "link": "https://www.france24.com/en/europe/20260629-several-people-killed-shooting-in-northern-germany-police-say",
+      "date": "Mon, 29 Jun 2026 12:04:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli attack in Gaza kills three, including a child",
+      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 12:02:35 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
+      "link": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 12:00:06 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Africa name strong team to face England in Nations Championship opener",
+      "link": "https://www.channelnewsasia.com/sport/south-africa-name-strong-team-face-england-in-nations-championship-opener-6218611",
+      "date": "Mon, 29 Jun 2026 19:54:10 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands of foreign nationals leave South Africa ahead of June 30 'deadline'",
+      "link": "https://www.france24.com/en/africa/20260629-thousands-foreign-nationals-leave-south-africa-ahead-june-30-deadline",
+      "date": "Mon, 29 Jun 2026 11:44:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Humans and great apes show similar rhythmic pattern in laughter",
+      "link": "https://www.channelnewsasia.com/business/humans-and-great-apes-show-similar-rhythmic-pattern-in-laughter-6218581",
+      "date": "Mon, 29 Jun 2026 19:35:32 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 11:22:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/netherlands-vs-morocco-fifa-world-cup-round-of-32-prediction-team-news?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 11:20:20 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
+      "link": "https://www.france24.com/en/france/20260629-french-2027-presidential-election-can-the-rn-win-without-le-pen-bardella",
+      "date": "Mon, 29 Jun 2026 11:19:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘A concession to Zelenskyy’s ultimatum’: Ukraine’s triumph over Belarus",
+      "link": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 11:18:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nigerians return home after fleeing xenophobic attacks in South Africa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/nigerians-return-home-after-fleeing-xenophobic-attacks-in-south-africa?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 11:15:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
+      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 11:05:47 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fitness brand founder and Olympian Les Mills dies aged 91",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 10:55:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
+      "date": "Mon, 29 Jun 2026 09:58:26 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Europe Will Never Be an AI Superpower",
+      "link": "https://foreignpolicy.com/2026/06/29/europe-ai-superpower-eurostack-anthopic-mistral-openai/",
+      "date": "Mon, 29 Jun 2026 08:59:19 +0000"
     },
     {
       "src": "BBC World",
@@ -31,16 +227,9 @@
       "date": "Mon, 29 Jun 2026 08:15:29 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore&#039;s first dedicated bus driver residence opens with aircon, games room and a depot next door",
-      "link": "https://www.channelnewsasia.com/singapore/bus-driver-housing-china-aircon-sengkang-6218036",
-      "date": "Mon, 29 Jun 2026 16:00:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
+      "text": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
       "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 29 Jun 2026 07:51:05 GMT"
     },
@@ -52,102 +241,11 @@
       "date": "Mon, 29 Jun 2026 07:18:14 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mata to become Melbourne Victory shareholder when he retires",
-      "link": "https://www.channelnewsasia.com/sport/mata-become-melbourne-victory-shareholder-when-he-retires-6218161",
-      "date": "Mon, 29 Jun 2026 15:12:22 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Stealing from the gods: India’s Ram Temple hit by corruption scandal",
-      "link": "https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 07:04:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korean president, ex-players, fans demand change after World Cup exit",
-      "link": "https://www.aljazeera.com/news/2026/6/29/south-korean-president-ex-players-fans-demand-change-after-world-cup-exit?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 06:44:42 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Catherine, Princess of Wales, completes Three Peaks Challenge to show life after cancer diagnosis",
-      "link": "https://www.channelnewsasia.com/wellness/catherine-princess-wales-completes-three-peaks-challenge-6217261",
-      "date": "Mon, 29 Jun 2026 14:40:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Two people taken to hospital after ammonia detected at Fishery Port Road compound",
-      "link": "https://www.channelnewsasia.com/singapore/fishery-port-ammonia-jurong-marine-cold-storage-evacuated-6218091",
-      "date": "Mon, 29 Jun 2026 14:38:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Paris mortuaries overwhelmed as France counts victims of devastating heatwave",
-      "link": "https://www.france24.com/en/paris-mortuaries-overwhelmed-france-counts-victims-devastating-heatwave",
-      "date": "Mon, 29 Jun 2026 06:36:05 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/brazil-play-japan-at-world-cup-knockouts-vinicius-prediction-and-lineups?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 06:25:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Prosus core earnings leap 84% as all regions post profit",
-      "link": "https://www.channelnewsasia.com/business/prosus-core-earnings-leap-84-all-regions-post-profit-6218076",
-      "date": "Mon, 29 Jun 2026 14:09:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Calls grow to end military training in Indonesia village cooperatives project after five die",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-village-cooperative-project-military-training-five-deaths-6216176",
-      "date": "Mon, 29 Jun 2026 14:06:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Venezuela's earthquakes death toll nears 1,500, tens of thousands still missing",
-      "link": "https://www.france24.com/en/americas/20260629-venezuela-s-earthquakes-death-toll-nears-1-500-tens-of-thousands-still-missing",
-      "date": "Mon, 29 Jun 2026 05:52:06 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Skydiving plane crash kills 11 in northeastern France",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 05:35:37 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup: Canada makes history by reaching the Round of 16",
-      "link": "https://www.france24.com/en/sport/20260629-world-cup-canada-makes-history-reaching-round-16",
-      "date": "Mon, 29 Jun 2026 05:33:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands of Kurds gather in Turkiye to demand release of PKK leader",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 05:16:51 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 04:52:17 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Man charged with murder after girl's body found in suitcase in Thailand",
+      "link": "https://news.sky.com/story/man-charged-with-murder-after-girls-body-found-in-suitcase-in-thailand-13558757",
+      "date": "Mon, 29 Jun 2026 08:01:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -157,55 +255,6 @@
       "date": "Mon, 29 Jun 2026 04:01:54 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 03:55:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australian man charged with murder after Thai girl’s body found in suitcase",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 03:12:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Venezuelans angry with government as time runs out to rescue survivors",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
-      "date": "Mon, 29 Jun 2026 03:12:14 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US says Iran talks to continue, with 'both sides' pausing strikes",
-      "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
-      "date": "Mon, 29 Jun 2026 02:21:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Dozens of civilians killed in Pakistani air strikes on Afghanistan, officials say",
-      "link": "https://www.france24.com/en/asia-pacific/20260629-dozens-of-civilians-killed-in-pakistani-air-strikes-in-afghanistan-officials-say",
-      "date": "Mon, 29 Jun 2026 02:14:05 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 29 Jun 2026 01:58:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: US says Iran talks to continue, with 'both sides' pausing strikes",
-      "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
-      "date": "Mon, 29 Jun 2026 01:47:38 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
@@ -213,32 +262,11 @@
       "date": "Mon, 29 Jun 2026 01:09:09 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
-      "link": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
-      "date": "Sun, 28 Jun 2026 22:47:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Armed conflict threatens Ethiopia’s ancient monasteries",
-      "link": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries",
-      "date": "Sun, 28 Jun 2026 22:00:47 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 28 Jun 2026 19:37:07 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Fourteen killed in Saudi Arabia helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 28 Jun 2026 15:42:01 GMT"
+      "text": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 29 Jun 2026 00:02:44 GMT"
     },
     {
       "src": "Sky News",
@@ -248,11 +276,11 @@
       "date": "Sun, 28 Jun 2026 15:17:00 +0100"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
-      "link": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
-      "date": "Sun, 28 Jun 2026 09:32:47 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Venezuela earthquakes leave 680,000 children in need of assistance: UNICEF",
+      "link": "https://news.un.org/feed/view/en/story/2026/06/1167826",
+      "date": "Sun, 28 Jun 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -260,13 +288,6 @@
       "text": "<a href='https://news.sky.com/story/world-cup-live-scotland-brazil-england-three-lions-bellingham-latest-13535760?postid=11956222#liveblog-body'>Who will face who in last 32 of World Cup?</a>",
       "link": "https://news.sky.com/story/who-will-face-who-in-last-32-of-world-cup-13558503",
       "date": "Sun, 28 Jun 2026 09:51:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "link": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-      "date": "Sun, 28 Jun 2026 05:27:30 GMT"
     },
     {
       "src": "RFI",
@@ -409,13 +430,6 @@
       "date": "Fri, 26 Jun 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Deaths in US immigration custody must be investigated: UN rights chief",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167816",
-      "date": "Fri, 26 Jun 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
@@ -435,13 +449,6 @@
       "text": "The United States Is Now a Guarantor of Last Resort",
       "link": "https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/",
       "date": "Fri, 26 Jun 2026 09:27:21 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Geopolitics of SpaceX and Elon Musk",
-      "link": "https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/",
-      "date": "Thu, 25 Jun 2026 22:10:57 +0000"
     },
     {
       "src": "The Guardian",
