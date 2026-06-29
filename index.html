@@ -2239,7 +2239,7 @@ function goScreen(name){
   if (fab) fab.style.display = name === 'auth' ? 'none' : '';
   if(name==='map') renderMapMarkers();
   if(name==='admin') renderAdminDash();
-  if(name==='chat'){ window.location.href='chat.html'; return; }
+  if(name==='chat'){ setPressTab('news'); return; }
   if(name==='profile') renderProfile();
 }
 
@@ -4668,7 +4668,7 @@ function setPressTab(tab) {
   if (regionTabs) regionTabs.style.display = tab === 'news' ? '' : 'none';
 
   if (tab === 'news')  renderPressFeed();
-  if (tab === 'rooms') renderChatRooms();
+  if (tab === 'rooms') { window.location.href='chat.html'; return; }
   if (tab === 'live')  renderLiveRSSFeed();
   // Ensure news tab region tabs are visible/hidden correctly
   const rt = document.getElementById('region-tabs');
