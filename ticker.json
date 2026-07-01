@@ -1,13 +1,209 @@
 {
-  "updated": "2026-07-01T18:20:38.066Z",
+  "updated": "2026-07-01T20:20:17.002Z",
   "count": 72,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four die in Mexico City World Cup celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 01 Jul 2026 20:15:59 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Norway&#039;s Solbakken praises Ancelotti ahead of Brazil World Cup clash",
-      "link": "https://www.channelnewsasia.com/sport/norways-solbakken-praises-ancelotti-ahead-brazil-world-cup-clash-6225691",
-      "date": "Thu, 02 Jul 2026 02:09:34 +0800"
+      "text": "England never accepted defeat against DR Congo, says Tuchel",
+      "link": "https://www.channelnewsasia.com/sport/england-never-accepted-defeat-against-dr-congo-says-tuchel-6225906",
+      "date": "Thu, 02 Jul 2026 04:13:07 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "DR Congo leave positive image, says coach after epic battle with England",
+      "link": "https://www.channelnewsasia.com/sport/dr-congo-leave-positive-image-says-coach-after-epic-battle-england-6225901",
+      "date": "Thu, 02 Jul 2026 04:04:06 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fact-checking Donald Trump's birthright citizenship claims",
+      "link": "https://www.france24.com/en/fact-checking-donald-trump-s-birthright-citizenship-claims",
+      "date": "Wed, 01 Jul 2026 19:53:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "At least 5 people killed in fire in Antwerp apartment tower, Belgian police say",
+      "link": "https://www.channelnewsasia.com/world/least-5-people-killed-in-fire-in-antwerp-apartment-tower-belgian-police-say-6225841",
+      "date": "Thu, 02 Jul 2026 03:50:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Inglewood, once known for danger, uses World Cup to rebrand as a fun place",
+      "link": "https://www.channelnewsasia.com/sport/inglewood-once-known-danger-uses-world-cup-rebrand-fun-place-6225861",
+      "date": "Thu, 02 Jul 2026 03:46:52 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kane rescues England after DR Congo scare",
+      "link": "https://www.france24.com/en/kane-rescues-england-after-dr-congo-scare",
+      "date": "Wed, 01 Jul 2026 19:43:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England-India T20 abandoned because of rain",
+      "link": "https://www.channelnewsasia.com/sport/england-india-t20-abandoned-because-rain-6225856",
+      "date": "Thu, 02 Jul 2026 03:42:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Seven more sentenced over Texas ICE detention centre shooting",
+      "link": "https://www.aljazeera.com/news/2026/7/1/seven-more-sentenced-over-texas-ice-detention-centre-shooting?traffic_source=rss",
+      "date": "Wed, 01 Jul 2026 19:41:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+      "date": "Wed, 01 Jul 2026 19:29:52 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;It&#039;s crazy&#039;: Broadcasters toil, and revel, in supersized World Cup",
+      "link": "https://www.channelnewsasia.com/sport/its-crazy-broadcasters-toil-and-revel-in-supersized-world-cup-6225846",
+      "date": "Thu, 02 Jul 2026 03:25:34 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's political landscape: 'Dynamics right now seem to favour extreme right or extreme left'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260701-france-s-political-landscape-dynamics-right-now-seem-to-favour-extreme-right-or-extreme-left",
+      "date": "Wed, 01 Jul 2026 19:23:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England survive huge DR Congo scare to set up Mexico showdown",
+      "link": "https://www.channelnewsasia.com/sport/england-survive-huge-dr-congo-scare-set-up-mexico-showdown-6225811",
+      "date": "Thu, 02 Jul 2026 03:16:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Raids in Europe over alleged far-right embezzlement: EU prosecutors",
+      "link": "https://www.france24.com/en/raids-in-europe-over-alleged-far-right-embezzlement-eu-prosecutors",
+      "date": "Wed, 01 Jul 2026 19:16:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Senegal&#039;s Pape Gueye gets start against Belgium",
+      "link": "https://www.channelnewsasia.com/sport/senegals-pape-gueye-gets-start-against-belgium-6225791",
+      "date": "Thu, 02 Jul 2026 03:12:45 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Venezuela death toll rises to 2,295, seven days of national mourning declared",
+      "link": "https://www.france24.com/en/americas/20260701-venezuela-death-toll-rises-to-2-295-seven-days-of-national-mourning-declared",
+      "date": "Wed, 01 Jul 2026 19:04:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuela death toll rises to 2,295, seven days of national mourning declared",
+      "link": "https://www.france24.com/en/americas/20260701-venezuela-death-toll-rises-to-2-295-seven-days-of-national-mourning-declared",
+      "date": "Wed, 01 Jul 2026 19:03:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Les Bleus are 'on a mission': Can anyone stop France at the World Cup?",
+      "link": "https://www.france24.com/en/sport/20260701-les-bleus-are-on-a-mission-can-anyone-stop-france-at-the-world-cup",
+      "date": "Wed, 01 Jul 2026 19:03:10 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US blocks long-term renewal of North American trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 01 Jul 2026 18:56:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Greek politician's mother dies of wounds after arson attack",
+      "link": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 01 Jul 2026 18:52:22 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated",
+      "link": "https://foreignpolicy.com/2026/07/01/nato-summit-transatlantic-alliance-dead-alive-trump-russia-defense-geopolitics/",
+      "date": "Wed, 01 Jul 2026 18:50:18 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "link": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "date": "Wed, 01 Jul 2026 18:49:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Everybody's profiting': Trump defends $1.4 bn crypto earnings",
+      "link": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings",
+      "date": "Wed, 01 Jul 2026 18:47:07 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "date": "Wed, 01 Jul 2026 18:46:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "As Venezuela responds to earthquake devastation, volunteers take charge",
+      "link": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
+      "date": "Wed, 01 Jul 2026 18:42:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One week on from Venezuela’s deadly earthquakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
+      "date": "Wed, 01 Jul 2026 18:35:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
+      "date": "Wed, 01 Jul 2026 18:23:52 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Meloni Done With Trump?",
+      "link": "https://foreignpolicy.com/2026/07/01/meloni-trump-photo-italy-us-europe-far-right/",
+      "date": "Wed, 01 Jul 2026 18:23:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukrainian charged in Germany over Nord Stream blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 01 Jul 2026 18:19:32 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -17,39 +213,11 @@
       "date": "Wed, 01 Jul 2026 18:06:32 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: England survive DR Congo scare as Kane’s late double sinks heroic Mpasi",
-      "link": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi",
-      "date": "Wed, 01 Jul 2026 18:06:08 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kane double rescues England in comeback win over DR Congo",
-      "link": "https://www.channelnewsasia.com/sport/kane-double-rescues-england-in-comeback-win-over-dr-congo-6225671",
-      "date": "Thu, 02 Jul 2026 02:05:59 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: England survive DR Congo scare as Kane’s late double sinks heroic Mpasi",
-      "link": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi",
-      "date": "Wed, 01 Jul 2026 18:04:50 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US says it won’t agree to renew USMCA",
       "link": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss",
       "date": "Wed, 01 Jul 2026 17:59:05 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US LNG exports to Europe decline as Asia prices surge",
-      "link": "https://www.channelnewsasia.com/business/us-lng-exports-europe-decline-asia-prices-surge-6225656",
-      "date": "Thu, 02 Jul 2026 01:49:37 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -59,13 +227,6 @@
       "date": "Wed, 01 Jul 2026 17:45:52 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Cup 2026: Faith and football",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/world-cup-2026-faith-and-football?traffic_source=rss",
-      "date": "Wed, 01 Jul 2026 17:42:09 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Cuba Really Next?",
@@ -73,95 +234,11 @@
       "date": "Wed, 01 Jul 2026 17:40:59 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-      "date": "Wed, 01 Jul 2026 17:39:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-      "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-      "date": "Wed, 01 Jul 2026 17:36:09 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "California man with bipolar disorder says ChatGPT fueled delusions, led to self-harm in new lawsuit",
-      "link": "https://www.channelnewsasia.com/business/california-man-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-in-new-lawsuit-6225621",
-      "date": "Thu, 02 Jul 2026 01:32:17 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta shares surge on report of new AI cloud business",
-      "link": "https://www.channelnewsasia.com/world/meta-shares-surge-wall-street-bloomberg-report-ai-cloud-6225576",
-      "date": "Thu, 02 Jul 2026 01:30:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India asks WhatsApp to hold &#039;usernames&#039; rollout pending consultations, letter shows",
-      "link": "https://www.channelnewsasia.com/business/india-asks-whatsapp-hold-usernames-rollout-pending-consultations-letter-shows-6225606",
-      "date": "Thu, 02 Jul 2026 01:28:45 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Why Anthropic's most powerful AI models are back online",
-      "link": "https://www.france24.com/en/why-anthropic-s-most-powerful-ai-models-are-back-online",
-      "date": "Wed, 01 Jul 2026 17:20:20 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What military capabilities does Iran possess as it negotiates with US?",
-      "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-      "date": "Wed, 01 Jul 2026 17:19:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand",
-      "link": "https://www.channelnewsasia.com/business/oaktree-backed-itg-jumps-in-nasdaq-debut-signaling-strong-ai-infrastructure-demand-6225581",
-      "date": "Thu, 02 Jul 2026 01:18:09 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Businessman goes on trial over murder of Maltese journalist",
       "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 01 Jul 2026 17:15:47 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fed&#039;s Warsh plans to harness better economic data within a year",
-      "link": "https://www.channelnewsasia.com/business/feds-warsh-plans-harness-better-economic-data-within-year-6225551",
-      "date": "Thu, 02 Jul 2026 01:08:20 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Why is France betting on Oman amid the Hormuz crisis?",
-      "link": "https://www.france24.com/en/middle-east/20260701-why-france-betting-oman-amid-hormuz-crisis-iran",
-      "date": "Wed, 01 Jul 2026 17:06:55 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The Iran talks expose the collapse of US diplomacy",
-      "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-      "date": "Wed, 01 Jul 2026 17:05:20 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Man guilty of attempted murder of three children in Dublin",
-      "link": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 01 Jul 2026 16:59:59 GMT"
     },
     {
       "src": "The Guardian",
@@ -180,13 +257,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Fire kills five at Antwerp apartment block",
-      "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 01 Jul 2026 16:12:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
       "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 01 Jul 2026 16:10:38 GMT"
@@ -194,23 +264,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "59 killed in Ivory Coast floods amid fears number of dead could rise",
+      "text": "59 killed in floods and fears number of dead could rise",
       "link": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592",
       "date": "Wed, 01 Jul 2026 17:05:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "PM Pashinyan warned Armenia does not wish to engage with 'weaponization' of the 1915 genocide",
-      "link": "https://www.france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide",
-      "date": "Wed, 01 Jul 2026 15:58:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Robin Hood, Supergirl, The Rock: The superheroes are back in cinema",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260701-robin-hood-supergirl-the-rock-the-superheroes-are-back-in-cinema",
-      "date": "Wed, 01 Jul 2026 15:49:14 GMT"
     },
     {
       "src": "BBC World",
@@ -218,27 +274,6 @@
       "text": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
       "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 01 Jul 2026 15:48:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Village People singer and YMCA 'policeman' Victor Willis dies, aged 74",
-      "link": "https://www.france24.com/en/village-people-singer-and-ymca-policeman-victor-willis-dies-aged-74",
-      "date": "Wed, 01 Jul 2026 15:37:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Amid war on Ukraine, 'over half of Russians expressing pessimism for the first time in 20 years'",
-      "link": "https://www.france24.com/en/amid-war-on-ukraine-over-half-of-russians-expressing-pessimism-for-the-first-time-in-20-years",
-      "date": "Wed, 01 Jul 2026 15:26:30 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Venezuelan police officers arrested over alleged looting after earthquakes",
-      "link": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
-      "date": "Wed, 01 Jul 2026 14:27:15 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -257,6 +292,20 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
+      "text": "‘The science is here’: UN chief welcomes first global AI assessment",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167853",
+      "date": "Wed, 01 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167852",
+      "date": "Wed, 01 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
       "text": "Venezuela earthquake disaster: needs ‘skyrocketing’, say relief agencies",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167850",
       "date": "Wed, 01 Jul 2026 12:00:00 +0000"
@@ -267,20 +316,6 @@
       "text": "AI explained: Why the world needs to act now",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167848",
       "date": "Wed, 01 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Three people die in mass fan celebrations in Mexico City after World Cup victory",
-      "link": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
-      "date": "Wed, 01 Jul 2026 11:15:13 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Three die in Mexico City World Cup celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 01 Jul 2026 11:01:12 GMT"
     },
     {
       "src": "RFI",
@@ -346,13 +381,6 @@
       "date": "Wed, 01 Jul 2026 06:09:14 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 01 Jul 2026 06:03:08 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Blackouts Are Prabowo’s Latest Problem",
@@ -372,20 +400,6 @@
       "text": "Mbappe scores twice as France breeze past Sweden into World Cup last 16",
       "link": "https://www.rfi.fr/en/international/20260630-mbappe-scores-twice-as-france-breeze-past-sweden-into-world-cup-last-16",
       "date": "Tue, 30 Jun 2026 23:06:14 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Anti-Immigrant Marches Held Across South Africa",
-      "link": "https://foreignpolicy.com/2026/06/30/south-africa-anti-immigrant-rallies-self-deport-ramaphosa-xenophobia/",
-      "date": "Tue, 30 Jun 2026 21:38:53 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Small-Plane Crash Tests China’s Security State",
-      "link": "https://foreignpolicy.com/2026/06/30/china-plane-crash-beijing-citic-tower-security/",
-      "date": "Tue, 30 Jun 2026 21:12:50 +0000"
     },
     {
       "src": "The Guardian",
@@ -427,20 +441,6 @@
       "col": "#3b82f6",
       "text": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
       "link": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-      "date": "Tue, 30 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167844",
-      "date": "Tue, 30 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New WHO plan urges stronger action against fungal disease",
-      "link": "https://news.un.org/feed/view/en/story/2026/06/1167842",
       "date": "Tue, 30 Jun 2026 12:00:00 +0000"
     },
     {
