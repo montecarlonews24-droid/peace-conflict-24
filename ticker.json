@@ -1,69 +1,174 @@
 {
-  "updated": "2026-07-02T20:13:09.688Z",
+  "updated": "2026-07-02T21:39:17.453Z",
   "count": 64,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Klopp poised to replace Nagelsmann as Germany coach: reports",
-      "link": "https://www.channelnewsasia.com/world/klopp-poised-replace-nagelsmann-germany-coach-reports-6228836",
-      "date": "Fri, 03 Jul 2026 04:02:50 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Sports Diplomacy Still Possible?",
+      "link": "https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/",
+      "date": "Thu, 02 Jul 2026 21:31:30 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Queiroz&#039;s Colombia past takes centre stage before World Cup clash",
-      "link": "https://www.channelnewsasia.com/sport/queirozs-colombia-past-takes-centre-stage-world-cup-clash-6228881",
-      "date": "Fri, 03 Jul 2026 03:56:35 +0800"
+      "text": "Dollar down, stocks shine after disappointing US jobs data",
+      "link": "https://www.channelnewsasia.com/world/dollar-down-stocks-shine-after-disappointing-us-jobs-data-6228996",
+      "date": "Fri, 03 Jul 2026 05:29:24 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ebola treatments trial begins in the Democratic Republic of Congo",
+      "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 02 Jul 2026 21:21:36 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "ElevenLabs explores employee stock sale at $22 billion valuation, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/elevenlabs-explores-employee-stock-sale-22-billion-valuation-bloomberg-news-reports-6228876",
-      "date": "Fri, 03 Jul 2026 03:55:23 +0800"
+      "text": "Spain sweep aside Austria 3-0 to reach World Cup last 16",
+      "link": "https://www.channelnewsasia.com/sport/spain-sweep-aside-austria-3-0-reach-world-cup-last-16-6228976",
+      "date": "Fri, 03 Jul 2026 05:03:39 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Spain cruise into last 16 with win over Austria",
+      "link": "https://www.france24.com/en/sport/20260702-world-cup-2026-spain-cruise-into-last-16-with-win-over-austria",
+      "date": "Thu, 02 Jul 2026 21:03:06 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Anfield memorial to Jota, brother unveiled on anniversary of his death",
-      "link": "https://www.channelnewsasia.com/sport/anfield-memorial-jota-brother-unveiled-anniversary-his-death-6228861",
-      "date": "Fri, 03 Jul 2026 03:53:14 +0800"
+      "text": "US Department of Homeland Security says it is probing a cyber breach at information-sharing network",
+      "link": "https://www.channelnewsasia.com/business/us-department-homeland-security-says-it-probing-cyber-breach-information-sharing-network-6228966",
+      "date": "Fri, 03 Jul 2026 05:01:37 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Could water become a flashpoint between Islamabad and New Delhi?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 21:01:30 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Vingegaard targets rare Giro-Tour double",
-      "link": "https://www.channelnewsasia.com/sport/vingegaard-targets-rare-giro-tour-double-6228866",
-      "date": "Fri, 03 Jul 2026 03:50:40 +0800"
+      "text": "Bomb blast at Damascus cafe kills nine, authorities say",
+      "link": "https://www.channelnewsasia.com/world/damascus-bomb-syria-killed-nine-cafe-6228956",
+      "date": "Fri, 03 Jul 2026 04:52:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "WHO declares cruise-linked hantavirus outbreak officially over",
+      "link": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 20:50:03 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Russia’s 11-Hour Assault on Kyiv",
+      "link": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/",
+      "date": "Thu, 02 Jul 2026 20:49:19 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "More than 400 dead in DR Congo&#039;s spreading Ebola outbreak",
+      "link": "https://www.channelnewsasia.com/world/more-400-dead-in-dr-congos-spreading-ebola-outbreak-6228901",
+      "date": "Fri, 03 Jul 2026 04:41:44 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup: \"Les Bleus\" back in training ahead clash with Paraguay",
+      "link": "https://www.france24.com/en/world-cup-les-bleus-back-in-training-ahead-clash-with-paraguay",
+      "date": "Thu, 02 Jul 2026 20:41:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "France&#039;s fluent attack can profit against defensive Paraguay says Barcola",
+      "link": "https://www.channelnewsasia.com/sport/frances-fluent-attack-can-profit-against-defensive-paraguay-says-barcola-6228946",
+      "date": "Fri, 03 Jul 2026 04:35:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
       "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 02 Jul 2026 19:48:21 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kerr makes welcome return to NWSL with a suitcase full of medals",
-      "link": "https://www.channelnewsasia.com/sport/kerr-makes-welcome-return-nwsl-suitcase-full-medals-6228851",
-      "date": "Fri, 03 Jul 2026 03:47:18 +0800"
+      "date": "Thu, 02 Jul 2026 20:34:52 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "LIVE: Portugal vs Croatia – FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/live-portugal-vs-croatia-fifa-world-cup-2026?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 19:46:03 +0000"
+      "text": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "link": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 20:34:39 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Morocco up next as Canada bid to extend dream World Cup run",
-      "link": "https://www.channelnewsasia.com/sport/morocco-up-next-canada-bid-extend-dream-world-cup-run-6228856",
-      "date": "Fri, 03 Jul 2026 03:45:04 +0800"
+      "text": "Endrick sleeps easy over Brazil bench role, placing trust in Ancelotti",
+      "link": "https://www.channelnewsasia.com/sport/endrick-sleeps-easy-over-brazil-bench-role-placing-trust-in-ancelotti-6228926",
+      "date": "Fri, 03 Jul 2026 04:26:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Scaloni wary of World Cup surprise package Cape Verde despite Argentina&#039;s form",
+      "link": "https://www.channelnewsasia.com/sport/scaloni-wary-world-cup-surprise-package-cape-verde-despite-argentinas-form-6228931",
+      "date": "Fri, 03 Jul 2026 04:24:03 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Algerians vote in parliamentary elections",
+      "link": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections",
+      "date": "Thu, 02 Jul 2026 20:23:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration aims to cut regulations on US commercial fishing",
+      "link": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 20:20:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 02 Jul 2026 20:18:14 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK culture minister quits X over ‘abuse and misinformation’",
+      "link": "https://www.aljazeera.com/news/2026/7/2/uk-culture-minister-quits-x-over-abuse-and-misinformation?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 20:15:43 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Star-spangled blowup? Divided United States commemorates 250th anniversary",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260702-star-spangled-blowup-divided-united-states-commemorates-250th-anniversary",
+      "date": "Thu, 02 Jul 2026 20:15:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Violent clashes as Albania’s anti-government protests continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/violent-clashes-as-albanias-anti-government-protests-continue?traffic_source=rss",
+      "date": "Thu, 02 Jul 2026 20:09:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Austria-Algeria draw sparks World Cup match fixing allegations online",
+      "link": "https://www.france24.com/en/austria-algeria-draw-sparks-world-cup-match-fixing-allegations-online",
+      "date": "Thu, 02 Jul 2026 19:54:19 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -71,13 +176,6 @@
       "text": "Trump administration renews pressure on International Criminal Court",
       "link": "https://www.aljazeera.com/news/2026/7/2/trump-administration-renews-pressure-on-international-criminal-court?traffic_source=rss",
       "date": "Thu, 02 Jul 2026 19:39:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Belgium must improve against confident co-hosts US after Senegal late show",
-      "link": "https://www.channelnewsasia.com/sport/belgium-must-improve-against-confident-co-hosts-us-after-senegal-late-show-6228841",
-      "date": "Fri, 03 Jul 2026 03:35:36 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -94,13 +192,6 @@
       "date": "Thu, 02 Jul 2026 19:32:58 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nine Buddhist monks killed by child driving truck in Thailand",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/nine-buddhist-monks-killed-by-child-driving-truck-in-thailand?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 19:31:48 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Israelis join protests and memorials to mark 1,000 days since October 7 Hamas attack",
@@ -115,81 +206,11 @@
       "date": "Thu, 02 Jul 2026 19:30:56 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfires rage in southern France, 3,000 people evacuated",
-      "link": "https://www.france24.com/en/wildfires-rage-in-southern-france-3-000-people-evacuated",
-      "date": "Thu, 02 Jul 2026 19:29:02 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The last time Iran held a funeral for the Supreme Leader",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 19:11:16 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Vatican excommunicates six ultraconservative bishops over ordination",
-      "link": "https://www.france24.com/en/vatican-excommunicates-six-ultraconservative-bishops-over-ordination",
-      "date": "Thu, 02 Jul 2026 19:04:32 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Gen Z Goes to Hollywood",
       "link": "https://foreignpolicy.com/2026/07/02/obsession-backrooms-amazing-digital-circus-movie-review-gen-z-hollywood/",
       "date": "Thu, 02 Jul 2026 19:00:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
-      "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 18:59:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK’s likely next PM Andy Burnham faces defence funding gap",
-      "link": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 18:59:33 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Killers of British couple in South Africa sentenced to life",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 02 Jul 2026 18:43:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'A clear sense in Israel that Israel hasn't won anything'",
-      "link": "https://www.france24.com/en/a-clear-sense-in-israel-that-israel-hasn-t-won-anything",
-      "date": "Thu, 02 Jul 2026 18:41:32 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Most massive' Russian attack on Kyiv kills at least 25",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 02 Jul 2026 18:35:36 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-      "link": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-      "date": "Thu, 02 Jul 2026 18:12:54 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine will retaliate for Russian attack on Kyiv: Zelensky",
-      "link": "https://www.france24.com/en/ukraine-will-retaliate-for-russian-attack-on-kyiv-zelensky",
-      "date": "Thu, 02 Jul 2026 18:12:37 GMT"
     },
     {
       "src": "BBC World",
@@ -232,13 +253,6 @@
       "text": "Canadian boy dies of rabies after waking to find bat on his face",
       "link": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
       "date": "Thu, 02 Jul 2026 16:29:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Unprecedented images show how Russia is using drones from the war in Ukraine in Africa",
-      "link": "https://www.france24.com/en/africa/20260702-unprecedented-images-russia-using-drones-war-ukraine-africa",
-      "date": "Thu, 02 Jul 2026 16:17:50 GMT"
     },
     {
       "src": "BBC World",
@@ -295,20 +309,6 @@
       "text": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
       "date": "Thu, 02 Jul 2026 11:01:32 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Hypocrisy That Shields Erdogan From Global Criticism",
-      "link": "https://foreignpolicy.com/2026/07/02/turkey-erdogan-trump-human-rights-kavala-imamoglu/",
-      "date": "Thu, 02 Jul 2026 11:00:53 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Strategy Behind the Battle for Crimea",
-      "link": "https://foreignpolicy.com/2026/07/02/ukraine-crimea-russia-strategy/",
-      "date": "Thu, 02 Jul 2026 10:47:21 +0000"
     },
     {
       "src": "Sky News",
