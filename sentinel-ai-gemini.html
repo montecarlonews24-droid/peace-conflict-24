@@ -121,7 +121,7 @@ async function sendToAPI(text) {
   const typingId = appendTyping();
 
   try {
-    const res = await fetch('/api/chat', {
+    const res = await fetch('https://peace-conflict-24.vercel.app/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
