@@ -1238,7 +1238,7 @@ CONFLICT
       الخريطة
     </button>
     <button class="nav-btn" id="nb-chat" onclick="goScreen('chat')"><svg class="nav-ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>PRESS</button>
-    <button class="nav-btn" id="nb-chatroom" onclick="window.location.href='https://peace-conflict-24.vercel.app/chat.html'"><svg class="nav-ico" viewBox="0 0 24 24"><path d="M17 8h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-2v4l-4-4H9a2 2 0 0 1-2-2v-1"/><path d="M15 3H5a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2v4l4-4h4a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z"/></svg>CHAT</button>
+    <button class="nav-btn" id="nb-chatroom" onclick="window.location.href='chat.html'"><svg class="nav-ico" viewBox="0 0 24 24"><path d="M17 8h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-2v4l-4-4H9a2 2 0 0 1-2-2v-1"/><path d="M15 3H5a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2v4l4-4h4a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z"/></svg>CHAT</button>
     <button class="nav-btn" id="nb-premium" onclick="goScreen('premium')">
       <svg class="nav-ico" viewBox="0 0 24 24"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
       مميز
@@ -1989,7 +1989,7 @@ function showPremiumBlock(plan){
 }
 
 function openRoom(id, type, name){
-  window.location.href = 'https://peace-conflict-24.vercel.app/chat.html';
+  window.location.href = 'chat.html';
 }
 
 function renderActiveChat(){
@@ -4636,7 +4636,7 @@ document.addEventListener('DOMContentLoaded', function() {
 let currentPressTab = 'news';
 
 function setPressTab(tab) {
-  if (tab === 'rooms') { window.open('https://peace-conflict-24.vercel.app/chat.html','_blank'); return; }
+  if (tab === 'rooms') { window.open('chat.html','_blank'); return; }
   currentPressTab = tab;
 
   // Update tab buttons
@@ -4657,7 +4657,7 @@ function setPressTab(tab) {
   if (regionTabs) regionTabs.style.display = tab === 'news' ? '' : 'none';
 
   if (tab === 'news')  renderPressFeed();
-  if (tab === 'rooms') { window.open('https://peace-conflict-24.vercel.app/chat.html','_blank'); return; }
+  if (tab === 'rooms') { window.open('chat.html','_blank'); return; }
   if (tab === 'live')  renderLiveRSSFeed();
   // Ensure news tab region tabs are visible/hidden correctly
   const rt = document.getElementById('region-tabs');
