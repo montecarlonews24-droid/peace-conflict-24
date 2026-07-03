@@ -35,7 +35,10 @@ body{background:#040810;color:#e8edf5;font-family:'Segoe UI',Arial,sans-serif;he
 <div class="login" id="login-screen">
   <h2>⚡ P&C24 Chat</h2>
   <input id="username-input" placeholder="Choose username" maxlength="20"
+    onkeypress="if(event.key==='Enter')document.getElementById('pin-input').focus()"/>
+  <input id="pin-input" placeholder="4-digit PIN (new or existing)" maxlength="4" inputmode="numeric" pattern="[0-9]*"
     onkeypress="if(event.key==='Enter')doLogin()"/>
+  <div id="login-error" style="color:#ff6b6b;font-size:12px;min-height:16px;margin-bottom:6px"></div>
   <button onclick="doLogin()">Enter</button>
 </div>
 
@@ -70,14 +73,59 @@ let currentRoomName = 'Global Analysis Hub';
 let renderedKeys = new Set();
 let pollInterval = null;
 
-function doLogin() {
+function usernameKey(name) {
+  // Firebase keys can't contain . # $ [ ] / — sanitize + lowercase for uniqueness check
+  return name.trim().toLowerCase().replace(/[.#$\[\]\/]/g, '_');
+}
+
+async function doLogin() {
+  const errEl = document.getElementById('login-error');
+  errEl.textContent = '';
   const val = document.getElementById('username-input').value.trim();
-  if (!val) return;
-  username = val;
-  localStorage.setItem('pc24_username', username);
-  document.getElementById('login-screen').style.display = 'none';
-  document.getElementById('user-display').textContent = '👤 ' + username;
-  startPolling();
+  const pin = document.getElementById('pin-input').value.trim();
+
+  if (!val) { errEl.textContent = 'Enter a username.'; return; }
+  if (!/^\d{4}$/.test(pin)) { errEl.textContent = 'PIN must be exactly 4 digits.'; return; }
+
+  const key = usernameKey(val);
+  const btn = document.querySelector('.login button');
+  btn.disabled = true;
+  btn.textContent = 'Checking...';
+
+  try {
+    const res = await fetch(DB + '/usernames/' + key + '.json');
+    const record = await res.json();
+
+    if (record) {
+      // Username taken — PIN must match
+      if (record.pin !== pin) {
+        errEl.textContent = 'That username is taken. Enter the correct PIN or choose another name.';
+        btn.disabled = false;
+        btn.textContent = 'Enter';
+        return;
+      }
+      // PIN matches — log in as the original display name
+      username = record.displayName || val;
+    } else {
+      // New username — register it with this PIN
+      await fetch(DB + '/usernames/' + key + '.json', {
+        method: 'PUT',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({displayName: val, pin: pin, createdAt: Date.now()})
+      });
+      username = val;
+    }
+
+    localStorage.setItem('pc24_username', username);
+    localStorage.setItem('pc24_pin', pin);
+    document.getElementById('login-screen').style.display = 'none';
+    document.getElementById('user-display').textContent = '👤 ' + username;
+    startPolling();
+  } catch (e) {
+    errEl.textContent = 'Connection error, try again.';
+    btn.disabled = false;
+    btn.textContent = 'Enter';
+  }
 }
 
 // Auto-login if username saved
@@ -143,7 +191,7 @@ async function poll() {
     const area = document.getElementById('messages');
     const keys = Object.keys(data).sort();
     const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
-    const isAdmin = localStorage.getItem('pc24_username') === 'Moe';
+    const isAdmin = (localStorage.getItem('pc24_username') || '').trim().toLowerCase() === 'moe1982';
 
     keys.forEach(k => {
       if (renderedKeys.has(k)) return;
