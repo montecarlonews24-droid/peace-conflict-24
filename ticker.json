@@ -1,27 +1,104 @@
 {
-  "updated": "2026-07-04T11:51:37.160Z",
+  "updated": "2026-07-04T12:54:57.288Z",
   "count": 71,
   "items": [
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
-      "date": "Sat, 04 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Antonelli denies Hamilton a home sprint win",
-      "link": "https://www.channelnewsasia.com/sport/antonelli-denies-hamilton-home-sprint-win-6232066",
-      "date": "Sat, 04 Jul 2026 19:40:21 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tour de France kicks off in Barcelona",
+      "link": "https://www.france24.com/en/tour-de-france-kicks-off-in-barcelona",
+      "date": "Sat, 04 Jul 2026 12:44:07 GMT"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
       "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "date": "Sat, 04 Jul 2026 11:28:18 GMT"
+      "date": "Sat, 04 Jul 2026 12:43:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 04 Jul 2026 12:34:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss",
+      "date": "Sat, 04 Jul 2026 12:31:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+      "link": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
+      "date": "Sat, 04 Jul 2026 12:17:29 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Pope Leo urges US and Europe to do more for migrants on 4th July anniversary",
+      "link": "https://www.rfi.fr/en/international/20260704-pope-leo-urges-us-and-europe-to-do-more-for-migrants-on-4th-july-anniversary",
+      "date": "Sat, 04 Jul 2026 12:10:42 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Firefighters race to contain flames in northeastern Spain",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
+      "date": "Sat, 04 Jul 2026 12:09:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026 : Cape Verde miss out on greatest upset",
+      "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260704-world-cup-2026-cape-verde-miss-out-on-greatest-upset",
+      "date": "Sat, 04 Jul 2026 12:01:27 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "New Zealand's Rennie expresses 'relief' as All Blacks edge narrow win over France",
+      "link": "https://www.france24.com/en/sport/20260704-rennie-expresses-relief-as-all-blacks-edge-narrow-win-over-france",
+      "date": "Sat, 04 Jul 2026 11:59:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wimbledon day six",
+      "link": "https://www.channelnewsasia.com/sport/wimbledon-day-six-6232071",
+      "date": "Sat, 04 Jul 2026 19:56:01 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky denies Russian capture of key eastern city",
+      "link": "https://www.france24.com/en/zelensky-denies-russian-capture-of-key-eastern-city",
+      "date": "Sat, 04 Jul 2026 11:53:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump speech at Mount Rushmore: Making it clear 'who's in and who's out', expert says",
+      "link": "https://www.france24.com/en/trump-speech-at-mount-rushmore-making-it-clear-who-s-in-and-who-s-out-expert-says",
+      "date": "Sat, 04 Jul 2026 11:48:19 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "link": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "date": "Sat, 04 Jul 2026 11:40:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "F1 leader Antonelli powers past Hamilton for first sprint win",
+      "link": "https://www.channelnewsasia.com/sport/f1-leader-antonelli-powers-past-hamilton-first-sprint-win-6232066",
+      "date": "Sat, 04 Jul 2026 19:40:21 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -94,20 +171,6 @@
       "date": "Sat, 04 Jul 2026 10:29:19 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
-      "link": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
-      "date": "Sat, 04 Jul 2026 10:16:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss",
-      "date": "Sat, 04 Jul 2026 10:04:35 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "For one small business, AI was key to a quick start and expansion",
@@ -129,16 +192,9 @@
       "date": "Sat, 04 Jul 2026 09:45:55 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/cape-verde-fans-overjoyed-with-teams-world-cup-run-despite-argentina-loss?traffic_source=rss",
-      "date": "Sat, 04 Jul 2026 09:42:30 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
+      "text": "Thousands gather for funeral of Iran's assassinated supreme leader",
       "link": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
       "date": "Sat, 04 Jul 2026 10:20:00 +0100"
     },
@@ -157,46 +213,11 @@
       "date": "Sat, 04 Jul 2026 08:50:09 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "15 million people expected to attend former supreme leader's funeral",
-      "link": "https://www.france24.com/en/15-million-people-expected-to-attend-former-supreme-leader-s-funeral",
-      "date": "Sat, 04 Jul 2026 08:44:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo's visits to Lampedusa on July 4 'symbolic'",
-      "link": "https://www.france24.com/en/pope-leo-s-visits-to-lampedusa-on-july-4-symbolic",
-      "date": "Sat, 04 Jul 2026 08:43:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Foreign rescue workers help with recovering Venezuela's quake victims",
-      "link": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims",
-      "date": "Sat, 04 Jul 2026 08:41:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump marks US 250th celebration with speech and Mount Rushmore flyover",
-      "link": "https://www.france24.com/en/trump-marks-us-250th-celebration-with-speech-and-mount-rushmore-flyover",
-      "date": "Sat, 04 Jul 2026 08:38:47 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "PAP can continue to govern well if party is renewed with &#039;good people&#039; willing to serve: PM Wong",
       "link": "https://www.channelnewsasia.com/singapore/pap-lawrence-wong-young-pap-40th-anniversary-youth-wing-6231891",
       "date": "Sat, 04 Jul 2026 16:26:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "England face Mexico in Azteca fortress, returning to scene of Maradona handball",
-      "link": "https://www.france24.com/en/sport/20260704-world-cup-england-face-mexico-azteca-fortress-return-scene-maradona-handball",
-      "date": "Sat, 04 Jul 2026 08:24:29 GMT"
     },
     {
       "src": "The Guardian",
@@ -218,13 +239,6 @@
       "text": "China launches coast guard patrol east of Taiwan",
       "link": "https://www.channelnewsasia.com/east-asia/china-coast-guard-patrol-east-taiwan-6231786",
       "date": "Sat, 04 Jul 2026 15:39:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Curran keen to step in as England all-rounder after Stokes&#039; retirement",
-      "link": "https://www.channelnewsasia.com/sport/curran-keen-step-in-england-all-rounder-after-stokes-retirement-6231926",
-      "date": "Sat, 04 Jul 2026 15:30:35 +0800"
     },
     {
       "src": "RFI",
@@ -288,13 +302,6 @@
       "text": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
       "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
       "date": "Fri, 03 Jul 2026 15:34:32 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 03 Jul 2026 15:20:57 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -395,13 +402,6 @@
       "date": "Thu, 02 Jul 2026 19:00:53 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-      "link": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
-      "date": "Thu, 02 Jul 2026 17:24:06 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Short Economic History of the United States",
@@ -451,6 +451,13 @@
       "date": "Thu, 02 Jul 2026 12:00:00 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167858",
+      "date": "Thu, 02 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
@@ -491,13 +498,6 @@
       "text": "EU rolls out small parcel levy to stem flow of cheap goods",
       "link": "https://www.rfi.fr/en/international/20260701-eu-rolls-out-small-parcel-levy-to-stem-flow-of-cheap-goods",
       "date": "Wed, 01 Jul 2026 06:54:54 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Ireland takes over EU presidency with French naval help on security",
-      "link": "https://www.rfi.fr/en/international/20260701-ireland-takes-over-eu-presidency-with-french-naval-help-on-security",
-      "date": "Wed, 01 Jul 2026 06:09:14 GMT"
     }
   ]
 }
