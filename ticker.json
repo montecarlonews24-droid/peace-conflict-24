@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-05T10:33:14.360Z",
-  "count": 61,
+  "updated": "2026-07-05T12:07:34.555Z",
+  "count": 70,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "The Afghan women farmers keeping their village alive",
+      "link": "https://www.rfi.fr/en/international/20260705-the-afghan-women-farmers-keeping-their-village-alive",
+      "date": "Sun, 05 Jul 2026 11:50:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 11:24:18 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuela quakes final death toll expected to be 'much higher'",
+      "link": "https://www.france24.com/en/venezuela-quakes-final-death-toll-expected-to-be-much-higher",
+      "date": "Sun, 05 Jul 2026 11:17:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paris appeals court ruling could upend Marine Le Pen’s 2027 presidential bid",
+      "link": "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid",
+      "date": "Sun, 05 Jul 2026 11:15:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US celebrates 250 years of independence amid polarising political landscape",
+      "link": "https://www.france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape",
+      "date": "Sun, 05 Jul 2026 11:13:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sooryavanshi sets record for youngest India player in international match",
+      "link": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 11:09:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump praises US military as it marks 250 years of independence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 11:06:45 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Real Madrid sign Dutch full-back Dumfries from Inter Milan",
+      "link": "https://www.channelnewsasia.com/sport/real-madrid-sign-dutch-full-back-dumfries-inter-milan-6233116",
+      "date": "Sun, 05 Jul 2026 19:04:03 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "China and Russia to hold annual joint naval drills",
+      "link": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 11:03:51 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Release Dr Hussam Abu Safia immediately!",
+      "link": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 10:56:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: America at 250, Taylor Swift gets married and a 'massive attack' on Kyiv",
+      "link": "https://www.france24.com/en/americas/20260705-the-week-in-pictures-america-250-taylor-swift-gets-married-massive-attack-on-kyiv",
+      "date": "Sun, 05 Jul 2026 10:45:53 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude",
+      "link": "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 10:33:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Reform UK’s Farage failed to disclose funds from convicted criminal: Report",
+      "link": "https://www.aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report?traffic_source=rss",
+      "date": "Sun, 05 Jul 2026 10:25:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rescue teams wind down operations as death toll nears 3,000",
+      "link": "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000",
+      "date": "Sun, 05 Jul 2026 10:17:43 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -52,18 +150,11 @@
       "date": "Sun, 05 Jul 2026 17:23:12 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA World Cup round of 16: Bracket, schedule, predictions and latest news",
-      "link": "https://www.aljazeera.com/sports/2026/7/5/fifa-world-cup-round-of-16-bracket-schedule-predictions-latest-news?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 09:18:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "China releases underground church pastor after months in detention",
-      "link": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 08:54:12 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Chinese pastor freed after Donald Trump raised issue of his release with Xi Jinping",
+      "link": "https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578",
+      "date": "Sun, 05 Jul 2026 10:09:00 +0100"
     },
     {
       "src": "France 24",
@@ -80,46 +171,11 @@
       "date": "Sun, 05 Jul 2026 08:45:40 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France beat Paraguay to reach World Cup quarter-finals",
-      "link": "https://www.france24.com/en/france-beat-paraguay-to-reach-world-cup-quarter-finals",
-      "date": "Sun, 05 Jul 2026 08:43:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-      "link": "https://www.aljazeera.com/video/2026/7/5/video-world-cup-2026-highlights?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 08:30:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 08:25:00 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 05 Jul 2026 08:24:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Les Bleus advance to World Cup quarter-finals after bruising win over Paraguay",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260705-les-bleus-advance-world-cup-quarter-finals-after-bruising-win-over-paraguay",
-      "date": "Sun, 05 Jul 2026 08:20:44 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-      "link": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 08:09:44 +0000"
     },
     {
       "src": "CNA",
@@ -129,25 +185,11 @@
       "date": "Sun, 05 Jul 2026 16:07:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
-      "link": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 08:06:15 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Pakistan replace Masood with Babar as test captain ahead of West Indies, England series",
       "link": "https://www.channelnewsasia.com/sport/pakistan-replace-masood-babar-test-captain-ahead-west-indies-england-series-6233036",
       "date": "Sun, 05 Jul 2026 15:57:47 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
-      "link": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey",
-      "date": "Sun, 05 Jul 2026 07:56:09 GMT"
     },
     {
       "src": "CNA",
@@ -157,13 +199,6 @@
       "date": "Sun, 05 Jul 2026 15:49:57 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Egypt and Morocco fans celebrate World Cup wins by singing for Palestine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss",
-      "date": "Sun, 05 Jul 2026 07:42:03 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "From memes to political movement, India's 'Cockroach' party leads youth revolt",
@@ -171,32 +206,11 @@
       "date": "Sun, 05 Jul 2026 07:30:37 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Davis-Woodhall opens up on mental health struggles after Eugene victory",
-      "link": "https://www.channelnewsasia.com/sport/davis-woodhall-opens-up-mental-health-struggles-after-eugene-victory-6233016",
-      "date": "Sun, 05 Jul 2026 15:09:28 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Chinese underground church figure Jin Mingri freed from prison",
       "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 05 Jul 2026 05:58:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump again blasts 'communists', hails US as history's 'crowning achievement' on 250th anniversary",
-      "link": "https://www.france24.com/en/americas/20260705-trump-blasts-communists-celebrates-the-united-states-in-250th-anniversary-speech",
-      "date": "Sun, 05 Jul 2026 05:35:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Les Bleus discuss refereeing after Paraguay game",
-      "link": "https://www.france24.com/en/world-cup-2026-les-bleus-discuss-refereeing-after-paraguay-game",
-      "date": "Sun, 05 Jul 2026 02:00:04 GMT"
     },
     {
       "src": "BBC World",
@@ -269,6 +283,20 @@
       "date": "Sat, 04 Jul 2026 12:10:42 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "A safe return home: Tackling stigma on Uganda&#039;s Ebola frontline",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167859",
+      "date": "Sat, 04 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
+      "date": "Sat, 04 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
@@ -325,13 +353,6 @@
       "date": "Fri, 03 Jul 2026 20:30:00 +0100"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Why Israel's recognition of the Armenian genocide is raising new questions",
-      "link": "https://www.rfi.fr/en/international/20260703-why-israel-s-recognition-of-the-armenian-genocide-is-raising-new-questions",
-      "date": "Fri, 03 Jul 2026 16:01:25 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Two men jailed for stabbing TV presenter on street",
@@ -351,6 +372,27 @@
       "text": "Venezuela’s Bungled Earthquake Response",
       "link": "https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/",
       "date": "Fri, 03 Jul 2026 12:00:53 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Civilian dangers multiply as drones transform Ukraine&#039;s battlefield",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167854",
+      "date": "Fri, 03 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167871",
+      "date": "Fri, 03 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "El Niño forecast to intensify, increasing likelihood of extreme weather",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167870",
+      "date": "Fri, 03 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -421,6 +463,27 @@
       "text": "The MOU Is Paying Off Early for Iran",
       "link": "https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/",
       "date": "Thu, 02 Jul 2026 15:56:26 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Venezuela&#039;s earthquake-hit hospitals pushed to the brink as disease risk grows",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167868",
+      "date": "Thu, 02 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Taking the world’s temperature: WHO chief spotlights global health emergencies",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167865",
+      "date": "Thu, 02 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Racism significantly impacts access to sport: Independent expert",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167863",
+      "date": "Thu, 02 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
