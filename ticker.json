@@ -1,13 +1,216 @@
 {
-  "updated": "2026-07-06T14:40:20.350Z",
+  "updated": "2026-07-06T17:33:09.848Z",
   "count": 72,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Czech rising star Noskova downs Keys to reach first Wimbledon quarter-final",
+      "link": "https://www.channelnewsasia.com/sport/czech-rising-star-noskova-downs-keys-reach-first-wimbledon-quarter-final-6236056",
+      "date": "Tue, 07 Jul 2026 01:26:53 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 06 Jul 2026 17:24:31 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israeli attack on vehicle in Lebanon kills at least four",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 14:22:31 +0000"
+      "text": "Khamenei family mourns, but Mojtaba’s absence fuels public insecurity",
+      "link": "https://www.aljazeera.com/news/2026/7/6/khamenei-family-mourns-but-mojtabas-absence-fuels-public-insecurity?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 17:20:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN rights body demands release of Palestinian doctor detained by Israel",
+      "link": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 17:09:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ireland lose Loughman for Japan clash, wait on Baloucoune fitness",
+      "link": "https://www.channelnewsasia.com/sport/ireland-lose-loughman-japan-clash-wait-baloucoune-fitness-6236041",
+      "date": "Tue, 07 Jul 2026 01:06:53 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cape Verde&#039;s Lopes welcomed back to Ireland ahead of TV punditry spot",
+      "link": "https://www.channelnewsasia.com/sport/cape-verdes-lopes-welcomed-back-ireland-ahead-tv-punditry-spot-6236046",
+      "date": "Tue, 07 Jul 2026 01:03:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Netanyahu urges US not to sell F-35 fighter jets to Türkiye",
+      "link": "https://www.channelnewsasia.com/world/netanyahu-f-35-jet-us-turkey-nato-summit-6235971",
+      "date": "Tue, 07 Jul 2026 00:55:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
+      "link": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 16:54:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "F1 could bring back refuelling and independent V8 supplier, says FIA head",
+      "link": "https://www.channelnewsasia.com/sport/f1-could-bring-back-refuelling-and-independent-v8-supplier-says-fia-head-6236006",
+      "date": "Tue, 07 Jul 2026 00:46:10 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pekerman on the moment Messi’s World Cup legend began",
+      "link": "https://www.channelnewsasia.com/sport/pekerman-moment-messis-world-cup-legend-began-6235991",
+      "date": "Tue, 07 Jul 2026 00:42:58 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "date": "Mon, 06 Jul 2026 16:41:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news",
+      "link": "https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 16:40:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England add Roebuck to squad for Nations Championship clash with Fiji",
+      "link": "https://www.channelnewsasia.com/sport/england-add-roebuck-squad-nations-championship-clash-fiji-6235996",
+      "date": "Tue, 07 Jul 2026 00:39:54 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cafu backs Ancelotti rebuild but says Brazil must remember how to play",
+      "link": "https://www.channelnewsasia.com/sport/cafu-backs-ancelotti-rebuild-says-brazil-must-remember-how-play-6235986",
+      "date": "Tue, 07 Jul 2026 00:34:18 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Frenchman convicted in missing body case confesses to killing his wife, lawyer says",
+      "link": "https://www.france24.com/en/france/20260706-frenchman-convicted-in-missing-body-case-confesses-to-killing-his-wife-lawyer-says",
+      "date": "Mon, 06 Jul 2026 16:33:20 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "NATO summit in Ankara tests unity as Ukraine war and Trump tensions loom",
+      "link": "https://www.rfi.fr/en/international/20260706-nato-summit-in-ankara-tests-unity-as-ukraine-war-and-trump-tensions-loom",
+      "date": "Mon, 06 Jul 2026 16:32:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike",
+      "link": "https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike",
+      "date": "Mon, 06 Jul 2026 16:20:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lebanon latest: Teacher killed by Israeli airstrike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 16:10:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 15:59:34 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+      "link": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+      "date": "Mon, 06 Jul 2026 15:58:26 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
+      "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 15:54:14 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tadej Pogacar wins third stage of Tour de France to take yellow jersey from Vingegaard",
+      "link": "https://www.france24.com/en/sport/20260706-tadej-pogacar-wins-third-stage-of-tour-de-france-to-take-yellow-jersey-from-vingegaard",
+      "date": "Mon, 06 Jul 2026 15:45:59 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN discusses prevention of genocide: Six times it failed to do just that",
+      "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 15:38:35 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Boston: The cradle of the American Revolution",
+      "link": "https://www.france24.com/en/video/20260706-boston-the-cradle-of-the-american-revolution",
+      "date": "Mon, 06 Jul 2026 15:31:31 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump confirms he asked Fifa to review Balogun ban",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 06 Jul 2026 15:27:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine must 'get the support it needs': allies prepare for NATO summit",
+      "link": "https://www.france24.com/en/ukraine-must-get-the-support-it-needs-allies-prepare-for-nato-summit",
+      "date": "Mon, 06 Jul 2026 15:25:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump confirms call at centre of red card controversy 'with massive political consequences'",
+      "link": "https://www.france24.com/en/trump-confirms-call-at-centre-of-red-card-controversy-with-massive-political-consequences",
+      "date": "Mon, 06 Jul 2026 15:21:25 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Algeria's ruling FLN secures most seats in parliament with historically low turnout",
+      "link": "https://www.france24.com/en/africa/20260706-algeria-ruling-fln-secures-most-seats-in-parliament-with-historically-low-turnout",
+      "date": "Mon, 06 Jul 2026 15:20:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France at 'turning point' on how to prevent and deal with sexual violence",
+      "link": "https://www.france24.com/en/france-at-turning-point-on-how-to-prevent-and-deal-with-sexual-violence",
+      "date": "Mon, 06 Jul 2026 15:17:19 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 06 Jul 2026 15:09:57 GMT"
     },
     {
       "src": "BBC World",
@@ -17,172 +220,11 @@
       "date": "Mon, 06 Jul 2026 14:19:26 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The pitfalls of institutionalising US military aid to Israel",
-      "link": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 14:13:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Belgium challenging Balogun&#039;s eligibility for World Cup clash v USA",
-      "link": "https://www.channelnewsasia.com/sport/belgium-challenging-baloguns-eligibility-world-cup-clash-v-usa-6235686",
-      "date": "Mon, 06 Jul 2026 21:55:01 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Does the French right have a chance of defeating the far right in the election?",
-      "link": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
-      "date": "Mon, 06 Jul 2026 13:48:45 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "From Manchester to Downing Street: What Burnham could mean for Palantir",
-      "link": "https://www.aljazeera.com/news/2026/7/6/from-manchester-to-downing-street-what-burnham-could-mean-for-palantir?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 13:46:21 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts",
-      "link": "https://www.channelnewsasia.com/business/microsoft-joins-ai-driven-tech-layoff-wave-4800-job-cuts-6235631",
-      "date": "Mon, 06 Jul 2026 21:45:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Djokovic and Osaka eye Wimbledon glory as quarters begin",
-      "link": "https://www.channelnewsasia.com/sport/djokovic-and-osaka-eye-wimbledon-glory-quarters-begin-6235636",
-      "date": "Mon, 06 Jul 2026 21:44:27 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iranians struggle as ongoing economic crisis shows no sign of abatting",
-      "link": "https://www.france24.com/en/iranians-struggle-as-ongoing-economic-crisis-shows-no-sign-of-abatting",
-      "date": "Mon, 06 Jul 2026 13:43:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
-      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 13:41:57 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hamas announces dissolution of Gaza governing body",
-      "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 13:36:52 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
-      "link": "https://www.channelnewsasia.com/business/terawulf-jumps-19-billion-data-center-lease-deal-anthropic-6235606",
-      "date": "Mon, 06 Jul 2026 21:35:31 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
-      "link": "https://www.channelnewsasia.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-6235591",
-      "date": "Mon, 06 Jul 2026 21:31:39 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England boss jokes Trump could help lift defender’s suspension",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/england-boss-jokes-trump-could-help-lift-defenders-suspension?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 13:31:02 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Micron, Ford sign semiconductor supply agreement for vehicles",
-      "link": "https://www.channelnewsasia.com/business/micron-ford-sign-semiconductor-supply-agreement-vehicles-6235566",
-      "date": "Mon, 06 Jul 2026 21:26:32 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russian strike kills 14 around Kyiv on eve of NATO summit",
-      "link": "https://www.channelnewsasia.com/world/russian-strike-kills-14-around-kyiv-eve-nato-summit-6234056",
-      "date": "Mon, 06 Jul 2026 21:17:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ECB payment system suffers second outage in a week",
-      "link": "https://www.channelnewsasia.com/business/ecb-payment-system-suffers-second-outage-in-week-6235556",
-      "date": "Mon, 06 Jul 2026 21:15:38 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Baby dies after Israeli troops block emergency journey to hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 13:13:53 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Wildfire in southern France forces evacuation of 10,000 people",
       "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 06 Jul 2026 13:08:23 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 13:07:55 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "In pictures: Marine Le Pen’s political rise and frustrated presidential ambitions",
-      "link": "https://www.france24.com/en/france/20260706-in-pictures-marine-le-pen-s-political-rise-and-frustrated-presidential-ambitions",
-      "date": "Mon, 06 Jul 2026 12:58:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How are the millions attending Khamenei's funeral remembering the late ayatollah?",
-      "link": "https://www.france24.com/en/how-are-the-millions-attending-khamenei-s-funeral-remembering-the-late-ayatollah",
-      "date": "Mon, 06 Jul 2026 12:55:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Large-scale Russian attack on Ukraine before NATO summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 12:55:10 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Greece's Thessaloniki threatened by spreading wildfire",
-      "link": "https://www.france24.com/en/greece-s-thessaloniki-threatened-by-spreading-wildfire",
-      "date": "Mon, 06 Jul 2026 12:53:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "In Tehran, funeral attendees grieve the loss of supreme leader Ali Khamenei",
-      "link": "https://www.france24.com/en/in-tehran-funeral-attendees-grieve-the-loss-of-supreme-leader-ali-khamenei",
-      "date": "Mon, 06 Jul 2026 12:33:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Dissolution of Hamas's Gaza governing body won't bring 'significant change of life'",
-      "link": "https://www.france24.com/en/dissolution-of-hamas-s-gaza-governing-body-won-t-bring-significant-change-of-life",
-      "date": "Mon, 06 Jul 2026 12:29:25 GMT"
     },
     {
       "src": "Sky News",
@@ -199,13 +241,6 @@
       "date": "Mon, 06 Jul 2026 12:25:46 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: England hold on against Mexico while Norway oust Brazil",
-      "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260706-england-hold-on-against-mexico-while-norway-oust-brazil",
-      "date": "Mon, 06 Jul 2026 12:08:40 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
@@ -218,6 +253,20 @@
       "text": "War Has Become Pointless",
       "link": "https://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/",
       "date": "Mon, 06 Jul 2026 12:00:37 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167875",
+      "date": "Mon, 06 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: Amid lethal drone attacks, children bear brunt of escalating war",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167874",
+      "date": "Mon, 06 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -262,13 +311,6 @@
       "date": "Mon, 06 Jul 2026 09:30:09 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Red card system in disarray over Trump, Fifa and Balogun decision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 09:06:26 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Restraining order needed': Trump escalates Meloni feud",
@@ -306,13 +348,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-      "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 01:46:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Marine Le Pen appeal verdict: Why this moment matters for France",
       "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 05 Jul 2026 23:31:04 GMT"
@@ -330,13 +365,6 @@
       "text": "Car seats: The mystery of our depopulating planet",
       "link": "https://news.sky.com/story/car-seats-the-mystery-of-our-depopulating-planet-13560389",
       "date": "Sun, 05 Jul 2026 22:00:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
-      "link": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
-      "date": "Sun, 05 Jul 2026 19:54:38 GMT"
     },
     {
       "src": "RFI",
@@ -409,13 +437,6 @@
       "date": "Sat, 04 Jul 2026 15:14:18 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Germany's anti-immigration AfD elects new leaders amid mass protests",
-      "link": "https://www.rfi.fr/en/international/20260704-germany-anti-immigration-far-right-afd-elects-new-leaders-amid-mass-protests",
-      "date": "Sat, 04 Jul 2026 15:13:08 GMT"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "A safe return home: Tackling stigma on Uganda&#039;s Ebola frontline",
@@ -428,13 +449,6 @@
       "text": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
       "date": "Sat, 04 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
-      "link": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
-      "date": "Sat, 04 Jul 2026 11:40:31 GMT"
     },
     {
       "src": "The Guardian",
@@ -455,20 +469,6 @@
       "col": "#3b82f6",
       "text": "Civilian dangers multiply as drones transform Ukraine&#039;s battlefield",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167854",
-      "date": "Fri, 03 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167871",
-      "date": "Fri, 03 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "El Niño forecast to intensify, increasing likelihood of extreme weather",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167870",
       "date": "Fri, 03 Jul 2026 12:00:00 +0000"
     },
     {
