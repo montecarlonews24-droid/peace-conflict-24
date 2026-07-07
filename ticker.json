@@ -1,13 +1,132 @@
 {
-  "updated": "2026-07-06T23:56:23.339Z",
+  "updated": "2026-07-07T02:07:33.946Z",
   "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Belgium thump USA to reach quarter-finals and knock co-hosts out of tournament",
+      "link": "https://www.france24.com/en/sport/20260707-belgium-thump-usa-to-reach-quarter-finals-and-end-co-hosts-world-cup-dream",
+      "date": "Tue, 07 Jul 2026 02:03:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Belgium thump USA to reach quarter-finals and end co-hosts' World Cup dream",
+      "link": "https://www.france24.com/en/sport/20260707-belgium-thump-usa-to-reach-quarter-finals-and-end-co-hosts-world-cup-dream",
+      "date": "Tue, 07 Jul 2026 02:01:09 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 07 Jul 2026 01:55:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Flexibility key for Colombia&#039;s Lorenzo as Swiss challenge awaits",
+      "link": "https://www.channelnewsasia.com/sport/flexibility-key-colombias-lorenzo-swiss-challenge-awaits-6236751",
+      "date": "Tue, 07 Jul 2026 09:33:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia&#039;s WiseTech co-founder Richard White steps down as executive chair",
+      "link": "https://www.channelnewsasia.com/business/australias-wisetech-co-founder-richard-white-steps-down-executive-chair-6236746",
+      "date": "Tue, 07 Jul 2026 09:29:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Storms kill at least eight in central China as Typhoon Bavi looms offshore",
+      "link": "https://www.channelnewsasia.com/east-asia/china-storms-dead-hubei-guangxi-typhoon-bavi-6236716",
+      "date": "Tue, 07 Jul 2026 09:27:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil tanker hit by &#039;unknown projectile&#039; in Strait of Hormuz region: Maritime agency",
+      "link": "https://www.channelnewsasia.com/world/oil-tanker-hit-strait-hormuz-6236736",
+      "date": "Tue, 07 Jul 2026 09:26:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FIFA backs referee after Trump criticism",
+      "link": "https://www.channelnewsasia.com/sport/fifa-backs-referee-after-trump-criticism-6236706",
+      "date": "Tue, 07 Jul 2026 08:54:21 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why el-Obeid matters as Sudan’s war enters a new phase",
+      "link": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 00:34:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gambian mothers fear for their daughters as court weighs FGM ban",
+      "link": "https://www.aljazeera.com/news/2026/7/7/gambian-mothers-fear-for-their-daughters-as-court-weighs-fgm-ban?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 00:20:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trevor-noah-mocks-trump-fifa-world-cup-red-card-controversy?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 00:07:07 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kylian Mbappé condemns Paraguayan senator over 'despicable' racist abuse",
+      "link": "https://www.france24.com/en/sport/20260707-kylian-mbapp%C3%A9-condemns-paraguayan-senator-over-despicable-racist-abuse",
+      "date": "Tue, 07 Jul 2026 00:05:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "LG Energy Solution forecasts 77% operating profit fall in Q2 on weak EV demand",
+      "link": "https://www.channelnewsasia.com/business/lg-energy-solution-forecasts-77-operating-profit-fall-in-q2-weak-ev-demand-6236646",
+      "date": "Tue, 07 Jul 2026 08:03:05 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 06 Jul 2026 23:55:53 GMT"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Israeli parliament backs first step towards October 7 inquiry",
       "link": "https://www.france24.com/en/middle-east/20260706-israeli-parliament-backs-first-step-towards-october-7-inquiry",
       "date": "Mon, 06 Jul 2026 23:43:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ronaldo says his last World Cup is over but Portugal decision can wait",
+      "link": "https://www.aljazeera.com/sports/2026/7/6/ronaldo-says-his-last-world-cup-is-over-but-portugal-decision-can-wait?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 23:41:50 +0000"
     },
     {
       "src": "CNA",
@@ -21,35 +140,14 @@
       "col": "#84cc16",
       "text": "De la Fuente sings Lamine&#039;s praises as Spain reach World Cup quarter-finals",
       "link": "https://www.channelnewsasia.com/sport/de-la-fuente-sings-lamines-praises-spain-reach-world-cup-quarter-finals-6236616",
-      "date": "Tue, 07 Jul 2026 07:32:47 +0800"
+      "date": "Tue, 07 Jul 2026 07:32:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "No clear favourites for World Cup, says Argentina&#039;s Scaloni ahead of Egypt clash",
-      "link": "https://www.channelnewsasia.com/sport/no-clear-favourites-world-cup-says-argentinas-scaloni-ahead-egypt-clash-6236621",
-      "date": "Tue, 07 Jul 2026 07:30:53 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "A blue city shakes off politics over US forward Balogun&#039;s red card controversy",
-      "link": "https://www.channelnewsasia.com/sport/blue-city-shakes-politics-over-us-forward-baloguns-red-card-controversy-6236606",
-      "date": "Tue, 07 Jul 2026 07:20:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Egypt coach’s Palestine appeal thrusts World Cup back into political spotlight",
-      "link": "https://www.channelnewsasia.com/sport/egypt-coachs-palestine-appeal-thrusts-world-cup-back-political-spotlight-6236601",
-      "date": "Tue, 07 Jul 2026 07:17:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How Indonesian fashion brand Saya built a cult following with a signature dress that went viral",
-      "link": "https://www.channelnewsasia.com/style-beauty/saya-indonesian-fashion-eila-dress-6192741",
-      "date": "Tue, 07 Jul 2026 07:15:00 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
+      "link": "https://www.aljazeera.com/news/2026/7/6/over-5500-children-displaced-by-fighting-in-sudans-el-obeid-charity-says?traffic_source=rss",
+      "date": "Mon, 06 Jul 2026 23:28:56 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -57,13 +155,6 @@
       "text": "Leading US Democrats withdraw support for Platner after assault allegations",
       "link": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss",
       "date": "Mon, 06 Jul 2026 23:10:41 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "For all his records, Ronaldo could not crack the World Cup",
-      "link": "https://www.channelnewsasia.com/sport/all-his-records-ronaldo-could-not-crack-world-cup-6236586",
-      "date": "Tue, 07 Jul 2026 07:09:19 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -75,16 +166,9 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "USA vs Belgium live: Balogun starts for co-hosts after Trump's red-card intervention",
+      "text": "USA vs Belgium live: Hosts gift Red Devils a third goal as Pulisic comes off injured",
       "link": "https://www.france24.com/en/sport/20260706-usa-vs-belgium-live-world-cup-balogun-starts-after-trump-red-card-intervention-fifa",
       "date": "Mon, 06 Jul 2026 23:06:17 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldo says his last World Cup is over but Portugal decision can wait",
-      "link": "https://www.channelnewsasia.com/sport/cristiano-ronaldo-last-world-cup-portugal-spain-6236551",
-      "date": "Tue, 07 Jul 2026 07:03:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -101,39 +185,11 @@
       "date": "Mon, 06 Jul 2026 22:45:39 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
-      "link": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 22:20:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canada picks Germany’s TKMS for new submarines",
-      "link": "https://www.aljazeera.com/economy/2026/7/6/canada-picks-germanys-tkms-for-new-submarines?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 22:13:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
-      "link": "https://www.aljazeera.com/sports/2026/7/6/usa-fans-mamdani-experts-react-to-fifa-trump-balogun-red-card-controversy?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 22:11:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "One Phone Call, One Vanishing Red Card — The Balogun Scandal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_the-balogun-scandal-060726?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 22:00:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Morocco says it has dismantled ISIL-linked cell planning attack",
-      "link": "https://www.aljazeera.com/news/2026/7/6/morocco-says-it-has-dismantled-isil-linked-cell-planning-attack?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 21:51:23 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Island facing Trump blockade suffers nationwide blackout",
+      "link": "https://news.sky.com/story/cuba-suffers-nationwide-blackout-affecting-millions-13561146",
+      "date": "Mon, 06 Jul 2026 23:38:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -141,13 +197,6 @@
       "text": "What to Expect at the 2026 NATO Summit",
       "link": "https://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine/",
       "date": "Mon, 06 Jul 2026 21:36:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Influencers say they’re ‘honoured’ to attend Khamenei funeral",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/influencers-say-theyre-honoured-to-attend-khamenei-funeral?traffic_source=rss",
-      "date": "Mon, 06 Jul 2026 21:29:37 +0000"
     },
     {
       "src": "France 24",
@@ -171,27 +220,6 @@
       "date": "Mon, 06 Jul 2026 21:02:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Restraining order needed’: Trump shares doctored Meloni meme to reignite feud",
-      "link": "https://www.france24.com/en/restraining-order-needed-trump-shares-doctored-meloni-meme-to-reignite-feud-1",
-      "date": "Mon, 06 Jul 2026 20:49:27 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Love, deception and the real lives of Nigeria's romance fraudsters",
-      "link": "https://www.france24.com/en/love-deception-and-the-real-lives-of-nigeria-s-romance-fraudsters",
-      "date": "Mon, 06 Jul 2026 20:28:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Death toll from Venezuela quakes rises to 3,535 as more than 17,000 left homeless",
-      "link": "https://www.france24.com/en/americas/20260706-death-toll-from-venezuela-quakes-rises-to-3-535-as-more-than-17-000-left-homeless",
-      "date": "Mon, 06 Jul 2026 20:21:43 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
@@ -204,20 +232,6 @@
       "text": "Trump confirms he asked Fifa to review Balogun ban",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 06 Jul 2026 19:06:34 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 19:06:26 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 18:50:44 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -346,13 +360,6 @@
       "date": "Mon, 06 Jul 2026 07:39:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 06 Jul 2026 05:04:28 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Jimmy Carter Knew What Ails America",
@@ -365,13 +372,6 @@
       "text": "Macron to become first Western European leader to visit post-Assad Syria",
       "link": "https://www.rfi.fr/en/international/20260706-macron-to-become-first-western-european-leader-to-visit-post-assad-syria",
       "date": "Mon, 06 Jul 2026 04:00:25 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Car seats: The mystery of our depopulating planet",
-      "link": "https://news.sky.com/story/car-seats-the-mystery-of-our-depopulating-planet-13560389",
-      "date": "Sun, 05 Jul 2026 22:00:00 +0100"
     },
     {
       "src": "RFI",
