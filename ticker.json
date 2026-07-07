@@ -1,13 +1,104 @@
 {
-  "updated": "2026-07-07T22:34:23.391Z",
+  "updated": "2026-07-07T23:43:54.253Z",
   "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Telstra outage disrupts Australian train services, taxi payments",
+      "link": "https://www.channelnewsasia.com/business/telstra-outage-disrupts-australian-train-services-taxi-payments-6239676",
+      "date": "Wed, 08 Jul 2026 07:33:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How patients can manage cancer fatigue at work and home – and how caregivers can help",
+      "link": "https://www.channelnewsasia.com/wellness/cancer-fatigue-management-work-home-support-6206676",
+      "date": "Wed, 08 Jul 2026 07:17:19 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia moves closer to full Olympic return ahead of 2028 Los Angeles Games",
+      "link": "https://www.france24.com/en/europe/20260707-russia-moves-closer-to-full-olympic-return-ahead-of-2028-los-angeles-games",
+      "date": "Tue, 07 Jul 2026 23:15:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "European football revenue breaks €40 billion but growth is slowing, says Deloitte",
+      "link": "https://www.channelnewsasia.com/sport/european-football-revenue-breaks-eu40-billion-growth-slowing-says-deloitte-6239641",
+      "date": "Wed, 08 Jul 2026 07:08:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Switzerland face Argentina in World Cup quarterfinal after beating Colombia",
+      "link": "https://www.aljazeera.com/sports/2026/7/7/switzerland-face-argentina-in-world-cup-quarterfinal-after-beating-colombia?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 23:08:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan asset managers pursue global investor mandates as yen bond demand grows",
+      "link": "https://www.channelnewsasia.com/business/japan-asset-managers-pursue-global-investor-mandates-yen-bond-demand-grows-6239601",
+      "date": "Wed, 08 Jul 2026 07:02:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals",
+      "link": "https://www.channelnewsasia.com/sport/switzerland-beat-colombia-penalties-reach-world-cup-quarter-finals-6239611",
+      "date": "Wed, 08 Jul 2026 07:02:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Switzerland beat Colombia on penalties to set up Argentina quarter-final",
+      "link": "https://www.france24.com/en/sport/20260707-world-cup-2026-switzerland-beat-colombia-on-penalties-to-set-up-argentina-quarter-final",
+      "date": "Tue, 07 Jul 2026 22:57:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Switzerland beat Colombia on penalties to set up Argentina quarter-final",
+      "link": "https://www.france24.com/en/sport/20260707-world-cup-2026-switzerland-beat-colombia-on-penalties-to-set-up-argentina-quarter-final",
+      "date": "Tue, 07 Jul 2026 22:56:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 22:53:35 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 07 Jul 2026 22:19:40 GMT"
+      "date": "Tue, 07 Jul 2026 22:48:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "At Chanel, Matthieu Blazy turns couture into a dark fairy tale",
+      "link": "https://www.channelnewsasia.com/obsessions/chanel-matthieu-blazy-couture-dark-fairy-tale-6239151",
+      "date": "Wed, 08 Jul 2026 06:48:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US oil prices jump after US military launches strikes against Iran",
+      "link": "https://www.channelnewsasia.com/business/us-oil-prices-jump-after-us-military-launches-strikes-against-iran-6239556",
+      "date": "Wed, 08 Jul 2026 06:48:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
+      "link": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss",
+      "date": "Tue, 07 Jul 2026 22:46:10 +0000"
     },
     {
       "src": "CNA",
@@ -24,53 +115,11 @@
       "date": "Tue, 07 Jul 2026 22:04:54 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;Racket and heart&#039; as Djokovic tames Auger-Aliassime to return to Wimbledon semis",
-      "link": "https://www.channelnewsasia.com/sport/racket-and-heart-djokovic-tames-auger-aliassime-return-wimbledon-semis-6239516",
-      "date": "Wed, 08 Jul 2026 06:02:29 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Johor state polls: PAS’ bid to revive ties with UMNO has failed, says Bersatu chief Muhyiddin",
-      "link": "https://www.channelnewsasia.com/asia/johor-state-polls-pas-bid-revive-ties-umno-has-failed-says-bersatu-chief-muhyiddin-6237971",
-      "date": "Wed, 08 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: AI will change warfare but people remain core to SAF",
-      "link": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
-      "date": "Wed, 08 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New blueprint for Greater Sentosa shifts focus from standalone attractions to novel experiences, say experts",
-      "link": "https://www.channelnewsasia.com/singapore/sentosa-brani-tourism-attractions-experiences-6234931",
-      "date": "Wed, 08 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Was China’s submarine missile test a routine or warning shot?",
-      "link": "https://www.channelnewsasia.com/commentary/china-submarine-missile-test-pacific-reaction-6238106",
-      "date": "Wed, 08 Jul 2026 05:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: World Cup credibility in question after FIFA U-turn following Trump call",
-      "link": "https://www.channelnewsasia.com/commentary/world-cup-fifa-trump-folarin-balogun-belgium-us-6237751",
-      "date": "Wed, 08 Jul 2026 05:58:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Tanker attacks send oil higher, stocks hit by AI jitters",
-      "link": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-tanker-attacks-wall-street-ai-6239486",
-      "date": "Wed, 08 Jul 2026 05:50:09 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa",
+      "link": "https://foreignpolicy.com/2026/07/07/explosions-damascus-syria-sharaa-macron-france-investment/",
+      "date": "Tue, 07 Jul 2026 21:55:30 +0000"
     },
     {
       "src": "France 24",
@@ -136,13 +185,6 @@
       "date": "Tue, 07 Jul 2026 20:27:41 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-      "link": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
-      "date": "Tue, 07 Jul 2026 20:26:16 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Africa's World Cup dream fades",
@@ -150,25 +192,11 @@
       "date": "Tue, 07 Jul 2026 20:19:44 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-      "link": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
-      "date": "Tue, 07 Jul 2026 20:14:53 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "'It seems like the politics are starting to drown out some of the excellent football'",
       "link": "https://www.france24.com/en/it-seems-like-the-politics-are-starting-to-drown-out-some-of-the-excellent-football",
       "date": "Tue, 07 Jul 2026 20:09:09 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
-      "date": "Tue, 07 Jul 2026 20:08:40 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -192,32 +220,11 @@
       "date": "Tue, 07 Jul 2026 19:55:59 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
-      "link": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say",
-      "date": "Tue, 07 Jul 2026 19:27:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's Le Pen says still running for president, despite embezzlement conviction confirmed",
-      "link": "https://www.france24.com/en/france-s-le-pen-says-still-running-for-president-despite-embezzlement-conviction-confirmed",
-      "date": "Tue, 07 Jul 2026 19:20:57 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump looms large as Nato grapples with challenge of rearming Europe",
       "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 07 Jul 2026 18:56:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Switzerland vs Colombia live: World Cup's final last-16 tie goes to extra time",
-      "link": "https://www.france24.com/en/sport/20260707-switzerland-vs-colombia-live-world-cup-last-16-tie-manzambi-injury",
-      "date": "Tue, 07 Jul 2026 18:47:29 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -316,13 +323,6 @@
       "text": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
       "link": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
       "date": "Tue, 07 Jul 2026 11:37:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Europe Is Struggling to Lead NATO",
-      "link": "https://foreignpolicy.com/2026/07/07/europe-germany-france-nato-lead-trump/",
-      "date": "Tue, 07 Jul 2026 10:32:23 +0000"
     },
     {
       "src": "Sky News",
