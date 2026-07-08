@@ -1,20 +1,104 @@
 {
-  "updated": "2026-07-08T21:36:13.566Z",
-  "count": 62,
+  "updated": "2026-07-08T22:53:39.445Z",
+  "count": 70,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 08 Jul 2026 21:24:59 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US states could sue next week to block Paramount-Warner Bros deal, sources say",
+      "link": "https://www.channelnewsasia.com/business/us-states-could-sue-next-week-block-paramount-warner-bros-deal-sources-say-6242346",
+      "date": "Thu, 09 Jul 2026 06:38:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show",
+      "link": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
+      "date": "Wed, 08 Jul 2026 22:25:58 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US carries out another round of strikes on Iran after Trump says ceasefire is over",
-      "link": "https://www.channelnewsasia.com/world/us-strike-iran-trump-ceasefire-over-6242221",
-      "date": "Thu, 09 Jul 2026 05:17:34 +0800"
+      "text": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran",
+      "link": "https://www.channelnewsasia.com/business/oil-rises-more-dollar-barrel-us-launches-fresh-strikes-against-iran-6242311",
+      "date": "Thu, 09 Jul 2026 06:10:22 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Hands NATO a Mixed Bag",
+      "link": "https://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/",
+      "date": "Wed, 08 Jul 2026 22:06:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Charlotte Harris is taking luxury travel advisor Charlotte Travel beyond five-star holidays",
+      "link": "https://www.channelnewsasia.com/people/charlotte-harris-charlotte-travel-luxury-travel-6239826",
+      "date": "Thu, 09 Jul 2026 06:03:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Johor state polls bring PM Anwar’s national revenue-sharing dilemma into sharp focus",
+      "link": "https://www.channelnewsasia.com/commentary/johor-election-state-malaysia-pm-anwar-revenue-6240946",
+      "date": "Thu, 09 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pasir Ris lightning death prompts safety review among outdoor sports operators",
+      "link": "https://www.channelnewsasia.com/singapore/lightning-pasir-ris-beach-safety-sports-6240441",
+      "date": "Thu, 09 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "As inflation hits Indonesia, some businesses bite the bullet while others pass the buck",
+      "link": "https://www.channelnewsasia.com/asia/inflation-hits-indonesia-some-businesses-raise-prices-others-keep-costs-down-6237286",
+      "date": "Thu, 09 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: A better way to guard against the next oil crisis",
+      "link": "https://www.channelnewsasia.com/commentary/iran-war-hormuz-crisis-oil-stockpile-energy-6240666",
+      "date": "Thu, 09 Jul 2026 05:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Michael Burry buys Flutter, DraftKings shares betting prediction-market threat will fade",
+      "link": "https://www.channelnewsasia.com/business/michael-burry-buys-flutter-draftkings-shares-betting-prediction-market-threat-will-fade-6242291",
+      "date": "Thu, 09 Jul 2026 05:53:16 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Family demands investigation after US man killed by ICE agent in Texas",
+      "link": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+      "date": "Wed, 08 Jul 2026 21:42:41 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US launches more strikes on Iran with blasts reported in south of country",
+      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 08 Jul 2026 21:40:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+      "link": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+      "date": "Wed, 08 Jul 2026 21:36:02 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former Wisconsin judge avoids prison in ICE obstruction case",
+      "link": "https://www.aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case?traffic_source=rss",
+      "date": "Wed, 08 Jul 2026 21:35:53 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -38,13 +122,6 @@
       "date": "Wed, 08 Jul 2026 21:08:07 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Honeywell Technologies raises profit guidance after one-for-two reverse stock split",
-      "link": "https://www.channelnewsasia.com/business/honeywell-technologies-raises-profit-guidance-after-one-two-reverse-stock-split-6242216",
-      "date": "Thu, 09 Jul 2026 05:07:45 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Egypt files FIFA complaint as Argentina ‘rigged’ World Cup claims go viral",
@@ -59,25 +136,11 @@
       "date": "Wed, 08 Jul 2026 20:59:58 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England must cut Haaland&#039;s supply lines, says Rogers",
-      "link": "https://www.channelnewsasia.com/sport/england-must-cut-haalands-supply-lines-says-rogers-6242211",
-      "date": "Thu, 09 Jul 2026 04:56:51 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Modi Seeks to Project Influence on Asia-Pacific Trip",
       "link": "https://foreignpolicy.com/2026/07/08/modi-trip-asia-pacific-india-indonesia-australia-new-zealand/",
       "date": "Wed, 08 Jul 2026 20:55:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oil hits multi-week high, Wall Street slips as Iran tensions reignite",
-      "link": "https://www.channelnewsasia.com/business/oil-hits-multi-week-high-wall-street-slips-iran-tensions-reignite-6239651",
-      "date": "Thu, 09 Jul 2026 04:53:40 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -87,46 +150,11 @@
       "date": "Wed, 08 Jul 2026 20:49:15 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
-      "link": "https://www.channelnewsasia.com/business/spacexai-launches-grok-45-model-coding-agentic-tasks-6242201",
-      "date": "Thu, 09 Jul 2026 04:47:49 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vast crowds mourn Khamenei in Iraq&#039;s holy cities",
-      "link": "https://www.channelnewsasia.com/world/khamenei-funeral-iraq-holy-cities-6242176",
-      "date": "Thu, 09 Jul 2026 04:47:23 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump departs NATO summit on older Air Force One",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
       "date": "Wed, 08 Jul 2026 20:46:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Egypt FA extends contract of national team coach Hassan",
-      "link": "https://www.channelnewsasia.com/sport/egypt-fa-extends-contract-national-team-coach-hassan-6242206",
-      "date": "Thu, 09 Jul 2026 04:45:35 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
-      "link": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
-      "date": "Wed, 08 Jul 2026 20:40:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US says conducting new wave of strikes on Iran as ceasefire falters",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
-      "date": "Wed, 08 Jul 2026 20:40:14 +0000"
     },
     {
       "src": "France 24",
@@ -136,25 +164,11 @@
       "date": "Wed, 08 Jul 2026 20:38:27 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Venezuelan fashion designer swaps dresses for body bags",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/venezuelan-fashion-designer-swaps-dresses-for-body-bags?traffic_source=rss",
-      "date": "Wed, 08 Jul 2026 20:34:39 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Nigeria probes fictitious 'presidential' agency",
       "link": "https://www.france24.com/en/nigeria-probes-fictitious-presidential-agency",
       "date": "Wed, 08 Jul 2026 20:34:35 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Marquez confirmed as Mexico coach after Aguirre departure",
-      "link": "https://www.channelnewsasia.com/sport/marquez-confirmed-mexico-coach-after-aguirre-departure-6242191",
-      "date": "Thu, 09 Jul 2026 04:25:48 +0800"
     },
     {
       "src": "France 24",
@@ -169,13 +183,6 @@
       "text": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
       "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 08 Jul 2026 20:18:13 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US summer travel slumps under rising fares and fuel expenses",
-      "link": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
-      "date": "Wed, 08 Jul 2026 20:15:05 +0000"
     },
     {
       "src": "France 24",
@@ -241,13 +248,6 @@
       "date": "Wed, 08 Jul 2026 17:12:48 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Will Happen to Iran’s Sea Mines?",
-      "link": "https://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/",
-      "date": "Wed, 08 Jul 2026 16:44:09 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Teenager arrested after two girls, 13, seriously injured in German school attack",
@@ -302,6 +302,55 @@
       "text": "China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead",
       "link": "https://news.sky.com/story/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
       "date": "Wed, 08 Jul 2026 13:05:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167901",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167899",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "US-Iran war: Renewed attacks in Strait of Hormuz prompts another global energy alert",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167898",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167897",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Open debate on sexual violence in conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167894",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cancer cases could nearly double by 2050 without urgent action, WHO warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167890",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Grim homecoming: Devastation greets Lebanon&#039;s war-weary returnees",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+      "date": "Wed, 08 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -386,6 +435,13 @@
       "text": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
       "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
       "date": "Tue, 07 Jul 2026 15:06:41 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New coalition puts children’s rights at the centre of the AI age",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167891",
+      "date": "Tue, 07 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
