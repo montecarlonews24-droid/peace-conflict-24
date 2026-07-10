@@ -1,69 +1,237 @@
 {
-  "updated": "2026-07-10T11:43:41.273Z",
-  "count": 61,
+  "updated": "2026-07-10T13:51:47.153Z",
+  "count": 71,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Al-Ittihad turn to Wissing after Gamba Osaka&#039;s Asian triumph",
+      "link": "https://www.channelnewsasia.com/sport/al-ittihad-turn-wissing-after-gamba-osakas-asian-triumph-6246656",
+      "date": "Fri, 10 Jul 2026 21:41:48 +0800"
+    },
+    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France faces third major heatwave since May",
-      "link": "https://www.france24.com/en/france-faces-third-major-heatwave-since-may",
-      "date": "Fri, 10 Jul 2026 11:15:05 GMT"
+      "text": "Behind Khamenei’s funeral, Iran’s bid to show strength",
+      "link": "https://www.france24.com/en/behind-khamenei-s-funeral-iran-s-bid-to-show-strength",
+      "date": "Fri, 10 Jul 2026 13:37:40 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
+      "link": "https://www.france24.com/en/europe/20260710-ukrainian-spy-accused-of-killing-monaco-bombing-suspect-retracts-confession",
+      "date": "Fri, 10 Jul 2026 13:31:37 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Europe's first total solar eclipse in almost 30 years: What you need to know",
+      "link": "https://news.sky.com/story/europes-first-total-solar-eclipse-in-almost-30-years-what-you-need-to-know-13560160",
+      "date": "Fri, 10 Jul 2026 14:30:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s blue bins were made for frictionless recycling. Is it time to ditch them?",
+      "link": "https://www.channelnewsasia.com/today/big-read/recycling-blue-bins-better-habits-less-waste-6244671",
+      "date": "Fri, 10 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Turned down by NUS and NTU, this self-described &#039;late bloomer&#039; now has a Harvard PhD",
+      "link": "https://www.channelnewsasia.com/today/up-close/harvard-phd-graduate-rejection-singapore-education-6243446",
+      "date": "Fri, 10 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "In their 80s, these volunteers say helping others is the secret to staying young at heart",
+      "link": "https://www.channelnewsasia.com/today/in-pixels/elderly-volunteers-give-back-haircuts-home-repairs-6235041",
+      "date": "Fri, 10 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shein could aim for September or October IPO in Hong Kong, source says",
+      "link": "https://www.channelnewsasia.com/business/shein-could-aim-september-or-october-ipo-in-hong-kong-source-says-6246631",
+      "date": "Fri, 10 Jul 2026 21:27:12 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "FIFA World Cup 2026: Day 29",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 11:10:19 +0000"
+      "text": "Police probe donations to Britain’s far-right Reform party",
+      "link": "https://www.aljazeera.com/news/2026/7/10/police-probe-donations-to-britains-far-right-reform-party?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 13:25:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX&#039;s near-term AI payoff seen tethered to Earth, not outer space",
+      "link": "https://www.channelnewsasia.com/business/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-6246626",
+      "date": "Fri, 10 Jul 2026 21:18:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tanker traffic slows in Strait of Hormuz after US and Iran clashes",
+      "link": "https://www.channelnewsasia.com/world/oil-tanker-traffic-slows-strait-hormuz-us-iran-clashes-6246451",
+      "date": "Fri, 10 Jul 2026 21:17:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thai crew of ship struck in Strait of Hormuz sues operators",
+      "link": "https://www.channelnewsasia.com/asia/thai-ship-crew-strait-hormuz-sues-operators-6246621",
+      "date": "Fri, 10 Jul 2026 21:15:00 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Iran ramps up regional pressure after renewed US strikes",
-      "link": "https://www.france24.com/en/iran-ramps-up-regional-pressure-after-renewed-us-strikes",
-      "date": "Fri, 10 Jul 2026 11:07:01 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bengaluru introduces curbs on drinking water use amid dry spell",
-      "link": "https://www.channelnewsasia.com/asia/bengaluru-curbs-drinking-water-use-dry-spell-6246236",
-      "date": "Fri, 10 Jul 2026 19:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korean billionaire&#039;s risky bet pays off, as SK Hynix debuts in New York",
-      "link": "https://www.channelnewsasia.com/business/south-korean-billionaires-risky-bet-pays-sk-hynix-debuts-in-new-york-6246316",
-      "date": "Fri, 10 Jul 2026 19:02:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Circle wins final regulatory approval to establish US trust bank, shares rise",
-      "link": "https://www.channelnewsasia.com/business/circle-wins-final-regulatory-approval-establish-us-trust-bank-shares-rise-6246301",
-      "date": "Fri, 10 Jul 2026 18:55:29 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fullerton Health co-founders fined for submitting and approving false and inflated expense claims",
-      "link": "https://www.channelnewsasia.com/singapore/fullerton-health-ceo-corruption-bribery-false-claims-6246191",
-      "date": "Fri, 10 Jul 2026 18:51:00 +0800"
+      "text": "France into World Cup semi-finals : 'When it gets a bit difficult, they can hang in there'",
+      "link": "https://www.france24.com/en/france-into-world-cup-semi-finals-when-it-gets-a-bit-difficult-they-can-hang-in-there",
+      "date": "Fri, 10 Jul 2026 13:14:30 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Pride despite defeat as Morocco’s World Cup run ends",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/pride-despite-defeat-as-moroccos-world-cup-run-ends?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:44:13 +0000"
+      "text": "Sudan’s El Obeid faces intensifying RSF drone attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/sudans-el-obeid-faces-intensifying-rsf-drone-attacks?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 13:09:18 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France and Morocco set for blockbuster World Cup showdown",
-      "link": "https://www.france24.com/en/france-and-morocco-set-for-blockbuster-world-cup-showdown",
-      "date": "Fri, 10 Jul 2026 10:42:39 GMT"
+      "text": "India's Hindu nationalists take 17th-century king as new anti-Muslim symbol",
+      "link": "https://www.france24.com/en/asia-pacific/20260710-17th-century-king-new-anti-muslim-symbol-india-hindu-nationalists",
+      "date": "Fri, 10 Jul 2026 13:05:43 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cardi B, Teyana Taylor and Bad Bunny brave Paris heat",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20260710-cardi-b-teyana-taylor-and-bad-bunny-brave-paris-heat",
+      "date": "Fri, 10 Jul 2026 13:04:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news",
+      "link": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 12:57:31 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain faces deadly wildfires, at least 12 killed, 19 missing in Andalusia",
+      "link": "https://www.france24.com/en/spain-faces-deadly-wildfires-at-least-12-killed-19-missing-in-andalusia",
+      "date": "Fri, 10 Jul 2026 12:56:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Philippines landslides kill 15 as Typhoon Bavi threatens region",
+      "link": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 12:49:14 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ebola outbreak in DR Congo leaves hundreds dead and children orphaned",
+      "link": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-leaves-hundreds-dead-and-children-orphaned",
+      "date": "Fri, 10 Jul 2026 12:49:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sudan: El-Obeid civilians trapped under RSF siege",
+      "link": "https://www.france24.com/en/sudan-el-obeid-civilians-trapped-under-rsf-siege",
+      "date": "Fri, 10 Jul 2026 12:47:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Paramount-Warner merger: could it reshape the media?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 12:45:10 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 10 Jul 2026 12:38:38 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 10 Jul 2026 12:31:08 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "First Palestinian legislative elections in 20 years announced",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 12:28:19 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Passenger 'partially sucked out of window' on Ryanair flight",
+      "link": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267",
+      "date": "Fri, 10 Jul 2026 13:06:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What the World Cup Meant to Mexico",
+      "link": "https://foreignpolicy.com/2026/07/10/mexico-world-cup-legacy-host-quinones-jimenez-sheinbaum/",
+      "date": "Fri, 10 Jul 2026 12:00:53 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Israel's recognition of the Armenian genocide unsettles Turkey and Azerbaijan",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260710-israel-s-recognition-of-the-armenian-genocide-unsettles-turkey-and-azerbaijan",
+      "date": "Fri, 10 Jul 2026 12:00:21 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Aid cuts leave at least one million women and girls without vital support",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US-Iran escalation threatens oil supply recovery, warns IEA",
+      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 11:51:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US-Iran war: Will peace talks resume, and when?",
+      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
+      "date": "Fri, 10 Jul 2026 11:43:28 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
+      "link": "https://news.sky.com/story/ukrainian-security-officer-retracts-confession-over-killing-of-monaco-bomb-suspect-13562250",
+      "date": "Fri, 10 Jul 2026 12:05:00 +0100"
     },
     {
       "src": "BBC World",
@@ -73,116 +241,11 @@
       "date": "Fri, 10 Jul 2026 10:42:13 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;You made us proud&#039;: Egypt gives heroes&#039; welcome to World Cup team",
-      "link": "https://www.channelnewsasia.com/sport/you-made-us-proud-egypt-gives-heroes-welcome-world-cup-team-6246281",
-      "date": "Fri, 10 Jul 2026 18:41:24 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran: Anti-US anger dominates Khamenei funeral ceremonies",
-      "link": "https://www.france24.com/en/iran-anti-us-anger-dominates-khamenei-funeral-ceremonies",
-      "date": "Fri, 10 Jul 2026 10:40:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France reach a third straight World Cup semi-final",
-      "link": "https://www.france24.com/en/france-reach-a-third-straight-world-cup-semi-final",
-      "date": "Fri, 10 Jul 2026 10:37:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France book their place in the World Cup semi-finals",
-      "link": "https://www.france24.com/en/france-book-their-place-in-the-world-cup-semi-finals",
-      "date": "Fri, 10 Jul 2026 10:35:53 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know",
-      "link": "https://www.aljazeera.com/sports/2026/7/10/conor-mcgregor-vs-max-holloway-2-at-ufc-329-all-you-need-to-know?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:33:58 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why Netanyahu Is Crying Wolf on Turkey",
       "link": "https://foreignpolicy.com/2026/07/10/israel-netanyahu-turkey-erdogan-politics-election-iran/",
       "date": "Fri, 10 Jul 2026 10:29:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:27:06 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil: Sao Paulo's AI surveillance system accused of racial profiling",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260710-brazil-sao-paulo-s-ai-surveillance-system-accused-of-racial-profiling",
-      "date": "Fri, 10 Jul 2026 10:24:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
-      "link": "https://www.channelnewsasia.com/business/uk-regulate-cloud-service-providers-microsoft-google-and-others-protect-financial-stability-6246241",
-      "date": "Fri, 10 Jul 2026 18:20:06 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Paris celebrates France's win against Morocco",
-      "link": "https://www.france24.com/en/video/20260710-world-cup-2026-paris-celebrates-france-s-win-against-morocco",
-      "date": "Fri, 10 Jul 2026 10:20:00 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "World Cup brings fans joy, torment and lifelong memories",
-      "link": "https://www.channelnewsasia.com/sport/world-cup-brings-fans-joy-torment-and-lifelong-memories-6246246",
-      "date": "Fri, 10 Jul 2026 18:17:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fall in funding cuts aid to 1 million women: UN",
-      "link": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:14:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Hamas Governed Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:11:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India is becoming a shaping power",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/india-is-becoming-a-shaping-power?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 10:07:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mission creep: FIFA&#039;s embrace of technology backfires in controversy-riven World Cup",
-      "link": "https://www.channelnewsasia.com/sport/mission-creep-fifas-embrace-technology-backfires-in-controversy-riven-world-cup-6246226",
-      "date": "Fri, 10 Jul 2026 18:05:06 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK police confront Morocco fans over unrest after World Cup loss",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/uk-police-confront-morocco-fans-over-unrest-after-world-cup-loss?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 09:47:19 +0000"
     },
     {
       "src": "The Guardian",
@@ -204,13 +267,6 @@
       "text": "Why We Know More About China’s Next-Generation Fighters Than America’s",
       "link": "https://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
       "date": "Fri, 10 Jul 2026 04:01:06 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 10 Jul 2026 02:48:18 GMT"
     },
     {
       "src": "Sky News",
@@ -246,13 +302,6 @@
       "text": "U.S., Iran Return to the Brink of All-Out War",
       "link": "https://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
       "date": "Thu, 09 Jul 2026 21:10:18 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 09 Jul 2026 21:04:09 GMT"
     },
     {
       "src": "BBC World",
@@ -325,6 +374,48 @@
       "date": "Thu, 09 Jul 2026 12:20:09 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Diplomats go virtual to witness Gaza displacement site up close",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peak heat in Europe just broke historic 1970s records",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World must move faster on Ebola response for DR Congo: UN relief chief",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167910",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167909",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167906",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Ukraine Finally Has a Theory of Victory. Will It Work?",
@@ -351,13 +442,6 @@
       "text": "Trump Hands NATO a Mixed Bag",
       "link": "https://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/",
       "date": "Wed, 08 Jul 2026 22:06:40 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Is the U.S.-Iran Cease-Fire Over?",
-      "link": "https://foreignpolicy.com/2026/07/08/us-iran-cease-fire-over-trump-nato-summit-strikes-strait-hormuz/",
-      "date": "Wed, 08 Jul 2026 20:59:58 +0000"
     },
     {
       "src": "RFI",
@@ -388,13 +472,6 @@
       "date": "Wed, 08 Jul 2026 12:56:31 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead",
-      "link": "https://news.sky.com/story/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
-      "date": "Wed, 08 Jul 2026 13:05:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Oil prices continue to rally as US and Iran step up mutual attacks",
@@ -407,13 +484,6 @@
       "text": "Macron says Syria must not be destabilised after bombs wound 18",
       "link": "https://www.rfi.fr/en/international/20260708-macron-says-syria-must-not-be-destabilised-after-bombs-wound-18",
       "date": "Wed, 08 Jul 2026 07:40:43 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Greenland 'not for sale', Danish PM says at NATO summit",
-      "link": "https://www.rfi.fr/en/international/20260708-greenland-not-for-sale-danish-pm-says-at-nato-summit",
-      "date": "Wed, 08 Jul 2026 06:11:37 GMT"
     },
     {
       "src": "The Guardian",
