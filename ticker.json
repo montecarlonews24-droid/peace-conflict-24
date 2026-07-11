@@ -1,11 +1,95 @@
 {
-  "updated": "2026-07-11T04:51:06.126Z",
+  "updated": "2026-07-11T07:03:55.822Z",
   "count": 70,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran hits back at Trump after he insists truce is over",
+      "link": "https://www.channelnewsasia.com/world/iran-trump-ceasefire-over-hormuz-6247936",
+      "date": "Sat, 11 Jul 2026 14:19:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Auger-Aliassime parts ways with long-time coach Fontang after Wimbledon exit",
+      "link": "https://www.channelnewsasia.com/sport/auger-aliassime-parts-ways-long-time-coach-fontang-after-wimbledon-exit-6247931",
+      "date": "Sat, 11 Jul 2026 14:07:27 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thousands shelter in Taiwan as Typhoon Bavi lashes Japan islands",
+      "link": "https://www.channelnewsasia.com/east-asia/typhoon-bavi-taiwan-thousands-evacuated-6247921",
+      "date": "Sat, 11 Jul 2026 14:03:11 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wemby signs multi-year contract with Spurs, tells fans 'I'm here to stay'",
+      "link": "https://www.france24.com/en/sport/20260711-wemby-signs-multi-year-contract-with-spurs-tells-fans-i-m-here-to-stay",
+      "date": "Sat, 11 Jul 2026 06:00:55 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Conor McGregor weighs in at 170.5lbs for UFC 329 bout vs Max Holloway",
+      "text": "Venezuelan doctors convert restaurant into a clinic after earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 05:38:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 05:34:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/argentina-lionel-messi-form-goals-penalty-scaloni-switzerland-world-cup?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 05:30:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
+      "link": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
+      "date": "Sat, 11 Jul 2026 05:11:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
+      "link": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing",
+      "date": "Sat, 11 Jul 2026 05:10:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 11 Jul 2026 04:56:33 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Are the US and Iran at war again?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 04:51:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘We are the lost generation of Sudan’: Students in exile",
+      "link": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 04:41:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "McGregor makes weight ahead of UFC 329 bout against Holloway",
       "link": "https://www.aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329?traffic_source=rss",
       "date": "Sat, 11 Jul 2026 04:34:33 +0000"
     },
@@ -26,9 +110,16 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+      "text": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
       "link": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
       "date": "Sat, 11 Jul 2026 03:54:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Typhoon Bavi forces Taiwan evacuations, batters Japan islands",
+      "link": "https://www.france24.com/en/asia-pacific/20260711-typhoon-bavi-forces-taiwan-evacuations-batters-japan-islands",
+      "date": "Sat, 11 Jul 2026 03:23:15 GMT"
     },
     {
       "src": "CNA",
@@ -66,20 +157,6 @@
       "date": "Sat, 11 Jul 2026 01:45:59 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 01:24:49 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 01:12:46 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Wembanyama signs multi-year contract extension with Spurs",
@@ -87,60 +164,11 @@
       "date": "Sat, 11 Jul 2026 09:00:33 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England&#039;s Kane dodges Haaland comparisons, plays down Golden Boot race",
-      "link": "https://www.channelnewsasia.com/sport/englands-kane-dodges-haaland-comparisons-plays-down-golden-boot-race-6247661",
-      "date": "Sat, 11 Jul 2026 08:50:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Death toll in Venezuela quakes rises past 4,000",
-      "link": "https://www.channelnewsasia.com/world/venezuela-quake-death-toll-4000-6247651",
-      "date": "Sat, 11 Jul 2026 08:47:18 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Taylor Swift paid US$160,000 for New York City wedding permit: Mayor",
-      "link": "https://www.channelnewsasia.com/entertainment/taylor-swift-travis-kelce-wedding-6247611",
-      "date": "Sat, 11 Jul 2026 08:46:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why the new US housing bill won’t fix the crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 00:41:51 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
       "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
       "date": "Sat, 11 Jul 2026 00:37:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
-      "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 23:31:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 23:18:08 +0000"
     },
     {
       "src": "BBC World",
@@ -152,7 +180,7 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "text": "Forced to wait his turn, Marine Le Pen's deputy returns to the shadows",
       "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 10 Jul 2026 23:02:59 GMT"
     },
@@ -199,25 +227,11 @@
       "date": "Fri, 10 Jul 2026 20:25:29 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
-      "date": "Fri, 10 Jul 2026 20:16:31 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU lawmakers give digital euro the green light, but rollout still years away",
       "link": "https://www.rfi.fr/en/international/20260710-eu-lawmakers-give-digital-euro-the-green-light-but-rollout-still-years-away",
       "date": "Fri, 10 Jul 2026 19:40:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Prince Harry visits King Charles III with Meghan and children for first time in years",
-      "link": "https://www.france24.com/en/europe/20260710-prince-harry-visits-king-charles-iii-with-meghan-and-children-for-first-time-in-years",
-      "date": "Fri, 10 Jul 2026 19:39:11 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -227,25 +241,11 @@
       "date": "Fri, 10 Jul 2026 19:27:46 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Notes from a NATO Summit: An Estonian Perspective",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
-      "date": "Fri, 10 Jul 2026 19:11:31 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Evacuating Art From Ukraine’s Front Lines",
       "link": "https://foreignpolicy.com/2026/07/10/evacuating-art-from-ukraines-front-lines/",
       "date": "Fri, 10 Jul 2026 19:01:49 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Spain or Belgium, which team do French fans prefer to face in the semi-finals?",
-      "link": "https://www.france24.com/en/world-cup-2026-spain-or-belgium-which-team-do-french-fans-prefer-to-face-in-the-semi-finals",
-      "date": "Fri, 10 Jul 2026 18:47:08 GMT"
     },
     {
       "src": "Foreign Policy",
