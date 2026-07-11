@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-11T10:38:25.729Z",
-  "count": 64,
+  "updated": "2026-07-11T11:41:48.097Z",
+  "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Capital punishment in Pakistan: 'Islam does not promote the death penalty'",
+      "link": "https://www.rfi.fr/en/international/20260711-capital-punishment-in-pakistan-islam-does-not-promote-the-death-penalty",
+      "date": "Sat, 11 Jul 2026 10:57:39 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -24,6 +31,13 @@
       "date": "Sat, 11 Jul 2026 10:14:39 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain: Wildfires that killed 12 begin to ease (officials)",
+      "link": "https://www.france24.com/en/video/20260711-spain-wildfires-that-killed-12-begin-to-ease-officials",
+      "date": "Sat, 11 Jul 2026 10:13:43 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Marquez snatches German MotoGP pole with new lap record, Bezzecchi crashes again",
@@ -36,6 +50,13 @@
       "text": "Manchester City sign winger Monga from Leicester",
       "link": "https://www.channelnewsasia.com/sport/manchester-city-sign-winger-monga-leicester-6248046",
       "date": "Sat, 11 Jul 2026 17:52:31 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France roar back with 30 straight points to beat Australia in Nations Championship",
+      "link": "https://www.france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship",
+      "date": "Sat, 11 Jul 2026 09:51:10 GMT"
     },
     {
       "src": "CNA",
@@ -57,6 +78,48 @@
       "text": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
       "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
       "date": "Sat, 11 Jul 2026 09:32:57 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kenya’s \"Birdman\" goes viral with rescued birds — and sparks health concerns",
+      "link": "https://www.france24.com/en/video/20260711-kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concerns",
+      "date": "Sat, 11 Jul 2026 09:32:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Morocco still reeling after defeat to France",
+      "link": "https://www.france24.com/en/video/20260711-world-cup-2026-morocco-still-reeling-after-defeat-to-france",
+      "date": "Sat, 11 Jul 2026 09:30:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kenya court to rule on Rastafarians' cannabis petition",
+      "link": "https://www.france24.com/en/video/20260711-kenya-court-to-rule-on-rastafarians-cannabis-petition",
+      "date": "Sat, 11 Jul 2026 09:28:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EACOP: Ugandan farmers sue UK company in London",
+      "link": "https://www.france24.com/en/video/20260711-eacop-ugandan-farmers-sue-uk-company-in-london",
+      "date": "Sat, 11 Jul 2026 09:26:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sudan: EU calls for terrorist listing of RSF",
+      "link": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf",
+      "date": "Sat, 11 Jul 2026 09:23:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain into World Cup semi-final with France after late strike against Belgium",
+      "link": "https://www.france24.com/en/video/20260711-spain-into-world-cup-semi-final-with-france-after-late-strike-against-belgium",
+      "date": "Sat, 11 Jul 2026 09:21:18 GMT"
     },
     {
       "src": "CNA",
@@ -192,6 +255,13 @@
       "date": "Fri, 10 Jul 2026 19:40:04 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "New species named after Cape Verde goalkeeper Vozinha",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 10 Jul 2026 19:30:06 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "U.S.-Iran Talks May Continue, but the Cease-Fire Is Over",
@@ -246,13 +316,6 @@
       "text": "What in the World?",
       "link": "https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/",
       "date": "Fri, 10 Jul 2026 17:38:55 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 10 Jul 2026 13:53:11 GMT"
     },
     {
       "src": "Sky News",
@@ -435,13 +498,6 @@
       "text": "Submarine missile test puts China's Pacific ambitions on display",
       "link": "https://www.rfi.fr/en/international/20260708-submarine-missile-test-puts-china-s-pacific-ambitions-on-display",
       "date": "Wed, 08 Jul 2026 12:56:31 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Oil prices continue to rally as US and Iran step up mutual attacks",
-      "link": "https://www.rfi.fr/en/international/20260708-oil-prices-extend-rally-as-us-and-iran-step-up-mutual-attacks",
-      "date": "Wed, 08 Jul 2026 07:53:06 GMT"
     },
     {
       "src": "The Guardian",
