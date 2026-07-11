@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-11T19:37:40.711Z",
-  "count": 72,
+  "updated": "2026-07-11T20:36:23.601Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK police investigate murder of politician Ann Widdecombe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 20:29:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Norway-England live: Haaland's Vikings seek to shock the Three Lions",
+      "link": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
+      "date": "Sat, 11 Jul 2026 20:16:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What’s behind Pakistan’s mass deportation of Afghans?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 20:11:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK police release suspect held over murder of Ann Widdecombe",
+      "link": "https://www.channelnewsasia.com/world/uk-police-release-suspect-held-over-murder-ann-widdecombe-6248466",
+      "date": "Sun, 12 Jul 2026 04:09:16 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Muchova vows to keep chasing maiden major after Wimbledon heartbreak",
+      "link": "https://www.channelnewsasia.com/sport/muchova-vows-keep-chasing-maiden-major-after-wimbledon-heartbreak-6248461",
+      "date": "Sun, 12 Jul 2026 04:00:56 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
+      "link": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china",
+      "date": "Sat, 11 Jul 2026 19:44:32 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -12,7 +54,7 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Iran supreme leader calls for revenge after father's burial",
+      "text": "Iran supreme leader calls for revenge for father's killing",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 11 Jul 2026 19:30:36 GMT"
     },
@@ -101,20 +143,6 @@
       "date": "Sun, 12 Jul 2026 02:16:09 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Evacuations as landslide threatens Indian village, construction firm blamed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 18:16:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
-      "link": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 18:10:10 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "The Rise and Pause of Jordan Bardella",
@@ -164,20 +192,6 @@
       "date": "Sat, 11 Jul 2026 17:23:19 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Traffic jam delay adds to India&#039;s woes ahead of 56-run T20 loss to England",
-      "link": "https://www.channelnewsasia.com/sport/traffic-jam-delay-adds-indias-woes-ahead-56-run-t20-loss-england-6248366",
-      "date": "Sun, 12 Jul 2026 01:08:10 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Heatwave forces Tour de France organisers to shorten stage nine",
-      "link": "https://www.channelnewsasia.com/sport/heatwave-forces-tour-de-france-organisers-shorten-stage-nine-6248361",
-      "date": "Sun, 12 Jul 2026 01:01:35 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "US congressman 'detained by armed Israeli settlers' in West Bank",
@@ -213,20 +227,6 @@
       "date": "Sat, 11 Jul 2026 16:04:57 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Overnight Russian missile and drone strikes on Ukraine kill six, officials say",
-      "link": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
-      "date": "Sat, 11 Jul 2026 15:44:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tour de France stage to be shortened due to 'intense heatwave'",
-      "link": "https://www.france24.com/en/france/20260711-merlier-wins-eighth-stage-of-the-tour-de-france-in-bunch-sprint",
-      "date": "Sat, 11 Jul 2026 15:41:09 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "What makes the Sultanate of Oman the Gulf's geopolitical exception?",
@@ -253,13 +253,6 @@
       "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 11 Jul 2026 14:19:34 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-      "date": "Sat, 11 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -381,41 +374,6 @@
       "date": "Fri, 10 Jul 2026 12:00:21 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "South Sudan: UN acts ahead of drought to protect thousands",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New cholera outbreak alert for Sudan’s war-weary communities",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Aid cuts leave at least one million women and girls without vital support",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
-      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
@@ -463,20 +421,6 @@
       "text": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
       "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
       "date": "Thu, 09 Jul 2026 12:20:09 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Diplomats go virtual to witness Gaza displacement site up close",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Peak heat in Europe just broke historic 1970s records",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
-      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
