@@ -1,13 +1,97 @@
 {
-  "updated": "2026-07-10T23:57:01.409Z",
+  "updated": "2026-07-11T01:55:14.244Z",
   "count": 62,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 11 Jul 2026 01:24:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 01:12:46 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Meta discontinues AI image feature days after launch",
-      "link": "https://www.channelnewsasia.com/business/meta-discontinues-ai-image-feature-days-after-launch-6247581",
-      "date": "Sat, 11 Jul 2026 07:32:58 +0800"
+      "text": "Wembanyama signs multi-year contract extension with Spurs",
+      "link": "https://www.channelnewsasia.com/sport/wembanyama-signs-multi-year-contract-extension-spurs-6247676",
+      "date": "Sat, 11 Jul 2026 09:00:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England&#039;s Kane dodges Haaland comparisons, plays down Golden Boot race",
+      "link": "https://www.channelnewsasia.com/sport/englands-kane-dodges-haaland-comparisons-plays-down-golden-boot-race-6247661",
+      "date": "Sat, 11 Jul 2026 08:50:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Death toll in Venezuela quakes rises past 4,000",
+      "link": "https://www.channelnewsasia.com/world/venezuela-quake-death-toll-4000-6247651",
+      "date": "Sat, 11 Jul 2026 08:47:18 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Taylor Swift paid US$160,000 for New York City wedding permit: Mayor",
+      "link": "https://www.channelnewsasia.com/entertainment/taylor-swift-travis-kelce-wedding-6247611",
+      "date": "Sat, 11 Jul 2026 08:46:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England get fitness boost ahead of World Cup quarter-final v Norway",
+      "link": "https://www.channelnewsasia.com/sport/england-get-fitness-boost-ahead-world-cup-quarter-final-v-norway-6247646",
+      "date": "Sat, 11 Jul 2026 08:42:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why the new US housing bill won’t fix the crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 00:41:51 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "North Korea military official dumped from ruling party over graft",
+      "link": "https://www.channelnewsasia.com/east-asia/north-korea-military-official-corruption-6247631",
+      "date": "Sat, 11 Jul 2026 08:39:35 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "date": "Sat, 11 Jul 2026 00:37:54 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "World Cup referees doing excellent job, says Argentina&#039;s Martinez",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-referees-doing-excellent-job-says-argentinas-martinez-6247626",
+      "date": "Sat, 11 Jul 2026 08:31:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "King Charles hosted Prince Harry and family for first time in years as they try to repair a family rift",
+      "link": "https://www.channelnewsasia.com/entertainment/king-charles-prince-harry-royal-family-6247601",
+      "date": "Sat, 11 Jul 2026 08:10:09 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 00:00:00 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -15,27 +99,6 @@
       "text": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
       "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
       "date": "Fri, 10 Jul 2026 23:31:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Magic Merino strikes again as Spain down Belgium to reach World Cup semis",
-      "link": "https://www.channelnewsasia.com/sport/magic-merino-strikes-again-spain-down-belgium-reach-world-cup-semis-6247571",
-      "date": "Sat, 11 Jul 2026 07:22:01 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Do high-intensity workouts raise cortisol? Here&#039;s why the stress hormone isn&#039;t always bad",
-      "link": "https://www.channelnewsasia.com/wellness/exercise-stress-cortisol-levels-6228051",
-      "date": "Sat, 11 Jul 2026 07:18:42 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Life as a football fan’s wife: I still don’t get offside, but I understand why it’s ‘the people’s game’",
-      "link": "https://www.channelnewsasia.com/women/married-football-fan-wife-world-cup-6240551",
-      "date": "Sat, 11 Jul 2026 07:18:19 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -66,27 +129,6 @@
       "date": "Fri, 10 Jul 2026 23:00:11 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spain&#039;s super sub Merino delivers again to set up France semi-final",
-      "link": "https://www.channelnewsasia.com/sport/spains-super-sub-merino-delivers-again-set-up-france-semi-final-6247531",
-      "date": "Sat, 11 Jul 2026 06:53:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "De la Fuente hails Spain&#039;s strength in depth after super-sub Merino strikes again",
-      "link": "https://www.channelnewsasia.com/sport/de-la-fuente-hails-spains-strength-in-depth-after-super-sub-merino-strikes-again-6247516",
-      "date": "Sat, 11 Jul 2026 06:46:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Tears for two Belgium goalkeepers",
-      "link": "https://www.channelnewsasia.com/sport/tears-two-belgium-goalkeepers-6247521",
-      "date": "Sat, 11 Jul 2026 06:44:58 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
@@ -108,34 +150,6 @@
       "date": "Fri, 10 Jul 2026 22:36:18 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 22:12:38 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SK hynix: From near collapse to AI chip powerhouse behind record US listing",
-      "link": "https://www.channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921",
-      "date": "Sat, 11 Jul 2026 06:01:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain leave it late to book semifinal date with France",
-      "link": "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 21:39:56 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 10 Jul 2026 21:30:57 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Iran: Forewarnings and a Funeral, NATO, Le Pen",
@@ -155,13 +169,6 @@
       "text": "World Cup 2026: Merino's late winner sends Spain past Belgium and into semi-finals",
       "link": "https://www.france24.com/en/sport/20260710-world-cup-2026-merino-s-late-winner-sends-spain-past-belgium-and-into-semi-finals",
       "date": "Fri, 10 Jul 2026 21:01:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "link": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "date": "Fri, 10 Jul 2026 21:01:27 +0000"
     },
     {
       "src": "France 24",
@@ -428,13 +435,6 @@
       "text": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
       "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
       "date": "Tue, 07 Jul 2026 15:17:19 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
-      "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "date": "Tue, 07 Jul 2026 15:06:41 GMT"
     }
   ]
 }
