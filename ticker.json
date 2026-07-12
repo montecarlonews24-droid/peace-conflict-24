@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-12T14:22:04.499Z",
+  "updated": "2026-07-12T15:30:53.526Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
+      "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 15:22:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France temporarily shuts down three nuclear reactors over heatwave",
+      "link": "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
+      "date": "Sun, 12 Jul 2026 15:22:51 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norway embrace Viking pride on fairytale World Cup return",
+      "link": "https://www.channelnewsasia.com/sport/norway-embrace-viking-pride-fairytale-world-cup-return-6249381",
+      "date": "Sun, 12 Jul 2026 22:50:05 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US: Salgado Araujo is mourned after fatal ICE shooting",
+      "link": "https://www.france24.com/en/video/20260712-us-salgado-araujo-is-mourned-after-fatal-ice-shooting",
+      "date": "Sun, 12 Jul 2026 14:47:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 14:47:15 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The architect of Qatari autonomy",
+      "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 14:42:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: England beat Norway to reach semis",
+      "link": "https://www.france24.com/en/video/20260712-world-cup-2026-england-beat-norway-to-reach-semis",
+      "date": "Sun, 12 Jul 2026 14:41:26 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bangladesh monsoon death toll hits 50, thousands displaced",
+      "link": "https://www.channelnewsasia.com/asia/bangladesh-monsoon-rain-landslide-deaths-displaced-6249356",
+      "date": "Sun, 12 Jul 2026 22:41:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lindsey Graham dies suddenly, aged 71: \"It was quite a shock\"",
+      "link": "https://www.france24.com/en/video/20260712-lindsey-graham-dies-suddenly-aged-71-it-was-quite-a-shock",
+      "date": "Sun, 12 Jul 2026 14:34:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Benjamin Netanyahu pays tribute to Lindsey Graham, \"a great friend of Israel\"",
+      "link": "https://www.france24.com/en/video/20260712-benjamin-netanyahu-pays-tribute-to-lindsey-graham-a-great-friend-of-israel",
+      "date": "Sun, 12 Jul 2026 14:32:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bellingham scores twice to lift England past Haaland and Norway 2-1",
+      "link": "https://www.france24.com/en/video/20260712-bellingham-scores-twice-to-lift-england-past-haaland-and-norway-2-1",
+      "date": "Sun, 12 Jul 2026 14:31:22 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -14,7 +91,14 @@
       "col": "#84cc16",
       "text": "Ukraine&#039;s Zelenskyy orders government reshuffle, new PM",
       "link": "https://www.channelnewsasia.com/world/ukraine-government-reshuffle-zelenskyy-new-pm-6249321",
-      "date": "Sun, 12 Jul 2026 22:15:49 +0800"
+      "date": "Sun, 12 Jul 2026 22:15:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
+      "link": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 14:12:45 +0000"
     },
     {
       "src": "France 24",
@@ -29,13 +113,6 @@
       "text": "Mladenovic and Guo triumph in Wimbledon women&#039;s doubles",
       "link": "https://www.channelnewsasia.com/sport/mladenovic-and-guo-triumph-in-wimbledon-womens-doubles-6249331",
       "date": "Sun, 12 Jul 2026 22:03:05 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Friends turned foes: The split reshaping Senegal",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 13:51:28 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -70,7 +147,7 @@
       "col": "#84cc16",
       "text": "Myanmar tells ASEAN detained Aung San Suu Kyi will be looked after, special envoy says",
       "link": "https://www.channelnewsasia.com/asia/myanmar-asean-aung-san-suu-kyi-looked-after-6249191",
-      "date": "Sun, 12 Jul 2026 21:22:30 +0800"
+      "date": "Sun, 12 Jul 2026 21:22:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -85,20 +162,6 @@
       "text": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
       "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
       "date": "Sun, 12 Jul 2026 13:08:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power",
-      "link": "https://www.aljazeera.com/news/2026/7/12/how-sheikh-hamad-bin-khalifa-al-thani-built-qatars-soft-power?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 13:08:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sheikh Hamad bin Khalifa Al Thani: key mediations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-key-mediations?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 13:04:16 +0000"
     },
     {
       "src": "CNA",
@@ -127,62 +190,6 @@
       "text": "India&#039;s Rana to miss England ODIs with hamstring injury, Yadav to replace him",
       "link": "https://www.channelnewsasia.com/sport/indias-rana-miss-england-odis-hamstring-injury-yadav-replace-him-6249221",
       "date": "Sun, 12 Jul 2026 20:10:02 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South Africa's Jayden Adams, 25, dies after playing in World Cup",
-      "link": "https://www.france24.com/en/video/20260712-south-africa-s-jayden-adams-25-dies-after-playing-in-world-cup",
-      "date": "Sun, 12 Jul 2026 12:03:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US senator and Trump ally Lindsey Graham dies aged 71",
-      "link": "https://www.france24.com/en/video/20260712-us-senator-and-trump-ally-lindsey-graham-dies-aged-71",
-      "date": "Sun, 12 Jul 2026 11:58:35 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Norwegian Air wears BA&#039;s colours for a day after World Cup social media wager",
-      "link": "https://www.channelnewsasia.com/sport/norwegian-air-wears-bas-colours-day-after-world-cup-social-media-wager-6249196",
-      "date": "Sun, 12 Jul 2026 19:55:22 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026 : England to face Argentina in tense semi-final",
-      "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260712-world-cup-2026-england-to-face-argentina-in-tense-semi-final",
-      "date": "Sun, 12 Jul 2026 11:50:36 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died",
-      "link": "https://www.channelnewsasia.com/world/former-qatar-ruler-sheikh-hamad-dies-6249071",
-      "date": "Sun, 12 Jul 2026 19:25:06 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The week in pictures: Le Pen's comeback, Khamenei's funeral and Mbappé's wondergoal",
-      "link": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal",
-      "date": "Sun, 12 Jul 2026 10:53:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US rapper Pitbull sets bald cap world record at London show",
-      "link": "https://www.france24.com/en/video/20260712-us-rapper-pitbull-sets-bald-cap-world-record-at-london-show",
-      "date": "Sun, 12 Jul 2026 10:45:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Eiffel Tower to close early as heatwave hits France: operator",
-      "link": "https://www.france24.com/en/video/20260712-eiffel-tower-to-close-early-as-heatwave-hits-france-operator",
-      "date": "Sun, 12 Jul 2026 10:42:13 GMT"
     },
     {
       "src": "RFI",
@@ -264,6 +271,13 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
+      "text": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 00:49:24 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
       "text": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
       "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 11 Jul 2026 23:58:40 GMT"
@@ -274,13 +288,6 @@
       "text": "Trump ally Lindsey Graham dies - as Zelenskyy pays tribute",
       "link": "https://news.sky.com/story/us-senator-and-trump-ally-lindsey-graham-dies-13562481",
       "date": "Sun, 12 Jul 2026 00:01:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 18:00:09 GMT"
     },
     {
       "src": "Sky News",
@@ -302,13 +309,6 @@
       "text": "US congressman 'detained by armed Israeli settlers' in West Bank",
       "link": "https://news.sky.com/story/us-congressman-ro-khanna-detained-by-armed-israeli-settlers-in-west-bank-13562598",
       "date": "Sat, 11 Jul 2026 17:49:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 16:11:33 GMT"
     },
     {
       "src": "RFI",
