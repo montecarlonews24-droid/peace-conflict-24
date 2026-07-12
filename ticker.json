@@ -1,55 +1,146 @@
 {
-  "updated": "2026-07-11T23:41:06.105Z",
-  "count": 64,
+  "updated": "2026-07-12T01:23:45.146Z",
+  "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran declares Strait of Hormuz closed as &#039;unauthorised&#039; vessel hit",
-      "link": "https://www.channelnewsasia.com/world/iran-strait-hormuz-closed-unauthorised-vessel-hit-6248636",
-      "date": "Sun, 12 Jul 2026 07:36:56 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "China's second typhoon in a week makes landfall",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 01:22:22 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "World Cup reflects growing US appetite for soccer, &#039;Ted Lasso&#039; creators say",
-      "link": "https://www.channelnewsasia.com/sport/world-cup-reflects-growing-us-appetite-soccer-ted-lasso-creators-say-6248626",
-      "date": "Sun, 12 Jul 2026 07:31:15 +0800"
+      "text": "World Cup dream ends but party goes on as proud Norwegians salute historic run",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-dream-ends-party-goes-proud-norwegians-salute-historic-run-6248726",
+      "date": "Sun, 12 Jul 2026 09:06:54 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Iran says Strait of Hormuz closed 'until further notice'",
+      "text": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 00:49:24 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tearful Solbakken proud of Norway after World Cup odyssey ended by England",
+      "link": "https://www.channelnewsasia.com/sport/tearful-solbakken-proud-norway-after-world-cup-odyssey-ended-england-6248696",
+      "date": "Sun, 12 Jul 2026 08:43:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;Enough said&#039;: Midfield engine Bellingham stamps his authority as England advance",
+      "link": "https://www.channelnewsasia.com/sport/enough-said-midfield-engine-bellingham-stamps-his-authority-england-advance-6248701",
+      "date": "Sun, 12 Jul 2026 08:41:53 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "A lost AirPod, AI fakes and the secret garden: How fans experienced Taylor Swift&#039;s private wedding",
+      "link": "https://www.channelnewsasia.com/entertainment/taylor-swift-wedding-6248686",
+      "date": "Sun, 12 Jul 2026 08:38:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Argentina unchanged for quarter-final, Sow comes in for Switzerland",
+      "link": "https://www.channelnewsasia.com/sport/argentina-unchanged-quarter-final-sow-comes-in-switzerland-6248691",
+      "date": "Sun, 12 Jul 2026 08:37:46 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Argentina-Switzerland live: Defending champions take lead through Mac Allister's early opener",
+      "link": "https://www.france24.com/en/sport/20260712-argentina-switzerland-live-defending-champions-face-swiss-underdogs-for-semi-finals-spot",
+      "date": "Sun, 12 Jul 2026 00:35:11 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 00:22:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bellingham double fires England past Norway into World Cup semis",
+      "link": "https://www.channelnewsasia.com/sport/bellingham-double-fires-england-past-norway-world-cup-semis-6248676",
+      "date": "Sun, 12 Jul 2026 08:16:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 23:14:18 GMT"
+      "date": "Sun, 12 Jul 2026 00:15:22 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 00:11:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 11 Jul 2026 23:58:40 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Let’s chill out about our sleep habits and stop obsessing over eight hours",
-      "link": "https://www.channelnewsasia.com/wellness/sleep-health-8-hours-6233796",
-      "date": "Sun, 12 Jul 2026 07:11:29 +0800"
+      "text": "Bellingham double guides England to World Cup semis in extra-time win over Norway",
+      "link": "https://www.channelnewsasia.com/sport/bellingham-double-guides-england-world-cup-semis-in-extra-time-win-over-norway-6248661",
+      "date": "Sun, 12 Jul 2026 07:52:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Bellingham's brace sends England past Norway to semi-finals",
+      "link": "https://www.france24.com/en/sport/20260711-world-cup-2026-bellingham-s-brace-sends-england-past-norway-to-semi-finals",
+      "date": "Sat, 11 Jul 2026 23:49:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: Bellingham's brace sends England past Norway to semi-finals",
+      "link": "https://www.france24.com/en/sport/20260711-world-cup-2026-bellingham-s-brace-sends-england-past-norway-to-semi-finals",
+      "date": "Sat, 11 Jul 2026 23:48:58 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Are Ozempic and other weight loss drugs also longevity drugs? Here&#039;s what early research suggests",
-      "link": "https://www.channelnewsasia.com/wellness/glp1-drugs-ozempic-longevity-6225001",
-      "date": "Sun, 12 Jul 2026 07:11:06 +0800"
+      "text": "Bellingham heroics edge England past Norway and into World Cup semis",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-2026-england-norway-quarter-final-6248656",
+      "date": "Sun, 12 Jul 2026 07:48:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Twisted your knee? Heard a pop? How to tell what you&#039;ve injured and when to seek treatment",
-      "link": "https://www.channelnewsasia.com/wellness/knee-acl-mcl-meniscus-injury-6226981",
-      "date": "Sun, 12 Jul 2026 07:10:37 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 23:35:23 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From Algerian fervour to Oranje march, World Cup transforms Kansas City",
-      "link": "https://www.channelnewsasia.com/sport/algerian-fervour-oranje-march-world-cup-transforms-kansas-city-6248596",
-      "date": "Sun, 12 Jul 2026 07:10:30 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+      "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+      "date": "Sat, 11 Jul 2026 23:31:23 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -57,20 +148,6 @@
       "text": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
       "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss",
       "date": "Sat, 11 Jul 2026 22:58:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Africa take risk with team selections as fans back experimentation",
-      "link": "https://www.channelnewsasia.com/sport/south-africa-take-risk-team-selections-fans-back-experimentation-6248591",
-      "date": "Sun, 12 Jul 2026 06:55:28 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Typhoon makes landfall in China after forcing nearly two million to flee",
-      "link": "https://www.channelnewsasia.com/east-asia/china-typhoon-bavi-two-million-evacuate-6248586",
-      "date": "Sun, 12 Jul 2026 06:54:03 +0800"
     },
     {
       "src": "BBC World",
@@ -101,25 +178,11 @@
       "date": "Sat, 11 Jul 2026 21:31:40 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK police investigate murder of politician Ann Widdecombe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 20:29:40 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Norway-England live: Three Lions take the lead through Bellingham's extra-time goal",
+      "text": "Norway-England: Three Lions advance to semi-finals after Bellingham's extra-time double",
       "link": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
       "date": "Sat, 11 Jul 2026 20:16:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s behind Pakistan’s mass deportation of Afghans?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 20:11:55 +0000"
     },
     {
       "src": "France 24",
@@ -129,32 +192,11 @@
       "date": "Sat, 11 Jul 2026 19:44:32 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands gather in Srebrenica to mark 31 years since genocide",
-      "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 19:25:59 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Trump administration subpoenas New York Times journalists over Air Force One story",
       "link": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story",
       "date": "Sat, 11 Jul 2026 19:25:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-      "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 19:15:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 18:59:01 +0000"
     },
     {
       "src": "France 24",
@@ -178,20 +220,6 @@
       "date": "Sat, 11 Jul 2026 18:51:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Noskova survives tearful meltdown to win first Wimbledon title",
-      "link": "https://www.france24.com/en/sport/20260711-noskova-survives-tearful-meltdown-to-win-first-wimbledon-title",
-      "date": "Sat, 11 Jul 2026 17:49:12 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "China's second typhoon in a week makes landfall",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 17:41:56 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
@@ -206,25 +234,11 @@
       "date": "Sat, 11 Jul 2026 17:49:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cuba suffers second nationwide blackout in five days",
-      "link": "https://www.france24.com/en/video/20260711-cuba-suffers-second-nationwide-blackout-in-five-days",
-      "date": "Sat, 11 Jul 2026 16:24:49 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 11 Jul 2026 16:11:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "An islandwide blackout strikes Cuba for the second time this week",
-      "link": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
-      "date": "Sat, 11 Jul 2026 16:06:27 GMT"
     },
     {
       "src": "RFI",
@@ -241,18 +255,11 @@
       "date": "Sat, 11 Jul 2026 15:03:45 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "South Africa World Cup midfielder Adams dies aged 25",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 14:47:47 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 14:19:34 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+      "date": "Sat, 11 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -374,6 +381,41 @@
       "date": "Fri, 10 Jul 2026 12:00:21 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "South Sudan: UN acts ahead of drought to protect thousands",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Aid cuts leave at least one million women and girls without vital support",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
@@ -421,6 +463,20 @@
       "text": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
       "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
       "date": "Thu, 09 Jul 2026 12:20:09 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Diplomats go virtual to witness Gaza displacement site up close",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peak heat in Europe just broke historic 1970s records",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
