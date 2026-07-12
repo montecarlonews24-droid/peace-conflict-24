@@ -1,20 +1,160 @@
 {
-  "updated": "2026-07-12T04:45:28.198Z",
-  "count": 64,
+  "updated": "2026-07-12T07:23:28.251Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "IRGC vows ‘crushing response’ to any further US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 07:08:20 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "As Germany cuts a deal on US missiles, Europe weighs up dependence on Washington",
+      "link": "https://www.rfi.fr/en/international/20260712-as-germany-cuts-a-deal-on-us-missiles-europe-weighs-up-dependence-on-washington-tomahawk",
+      "date": "Sun, 12 Jul 2026 07:04:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US senator and Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "link": "https://www.france24.com/en/americas/20260712-us-senator-and-trump-ally-lindsey-graham-dies-after-brief-and-sudden-illness",
+      "date": "Sun, 12 Jul 2026 06:57:50 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 12 Jul 2026 04:39:18 GMT"
+      "date": "Sun, 12 Jul 2026 06:49:46 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "China's second typhoon in a week makes landfall",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 06:44:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Typhoon slams into eastern China as more than 2 million people evacuated",
+      "link": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
+      "date": "Sun, 12 Jul 2026 06:30:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US Senator Lindsey Graham passes away",
+      "link": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 06:27:06 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "McGregor&#039;s UFC return halted by knee injury in opening round",
-      "link": "https://www.channelnewsasia.com/sport/mcgregors-ufc-return-halted-knee-injury-in-opening-round-6248931",
-      "date": "Sun, 12 Jul 2026 12:25:25 +0800"
+      "text": "Snap Insight: Barisan Nasional won big in Johor state polls - it has Pakatan Harapan to thank",
+      "link": "https://www.channelnewsasia.com/commentary/malaysia-johor-election-anwar-ibrahim-bn-umno-ph-ge16-snap-insight-6248971",
+      "date": "Sun, 12 Jul 2026 14:25:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US Senator Lindsey Graham dies at 71",
+      "link": "https://www.channelnewsasia.com/world/us-senator-lindsey-graham-dies-71-6249011",
+      "date": "Sun, 12 Jul 2026 14:25:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ghana slavery apology: Why many descendants say words are not enough",
+      "link": "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 06:08:46 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Scaloni says suffering is in Argentina&#039;s DNA after extra-time win over Switzerland",
+      "link": "https://www.channelnewsasia.com/sport/scaloni-says-suffering-in-argentinas-dna-after-extra-time-win-over-switzerland-6249006",
+      "date": "Sun, 12 Jul 2026 14:08:06 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live : US launches strikes in response to Iranian attacks on ships in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "date": "Sun, 12 Jul 2026 06:04:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+      "link": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 06:01:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Embolo red card turns Swiss dream into heartbreak against Argentina",
+      "link": "https://www.channelnewsasia.com/sport/embolo-red-card-turns-swiss-dream-heartbreak-against-argentina-6248996",
+      "date": "Sun, 12 Jul 2026 13:26:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Switzerland coach blasts &#039;unacceptable&#039; VAR rule after Argentina defeat",
+      "link": "https://www.channelnewsasia.com/sport/switzerland-coach-blasts-unacceptable-var-rule-after-argentina-defeat-6248991",
+      "date": "Sun, 12 Jul 2026 13:20:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 05:15:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 05:07:10 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "date": "Sun, 12 Jul 2026 05:05:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why doesn’t Indian PM Modi hold unscripted press conferences?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/why-doesnt-indian-pm-modi-hold-unscripted-press-conferences?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 05:03:18 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "date": "Sun, 12 Jul 2026 05:00:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran launches attacks across the Gulf after more US strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
+      "date": "Sun, 12 Jul 2026 04:59:27 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Conor McGregor&#039;s long-awaited UFC return ends with another leg injury",
+      "link": "https://www.channelnewsasia.com/sport/conor-mcgregors-long-awaited-ufc-return-ends-another-leg-injury-6248931",
+      "date": "Sun, 12 Jul 2026 12:25:00 +0800"
     },
     {
       "src": "CNA",
@@ -31,13 +171,6 @@
       "date": "Sun, 12 Jul 2026 12:03:48 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Injured Conor McGregor’s UFC comeback ends in defeat to Max Holloway",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/conor-mcgregor-knee-injury-max-holloway-2-ufc-329-rematch-result-las-vegas?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 04:03:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
@@ -50,20 +183,6 @@
       "text": "At least two killed in Toronto street festival shooting",
       "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 12 Jul 2026 03:56:02 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Argentina beat Swiss 3-1 after extra time to reach World Cup semi-finals",
-      "link": "https://www.channelnewsasia.com/sport/argentina-beat-swiss-3-1-after-extra-time-reach-world-cup-semi-finals-6248876",
-      "date": "Sun, 12 Jul 2026 11:51:12 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Argentina beat Switzerland to set up World Cup 2026 semifinal with England",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 03:50:27 +0000"
     },
     {
       "src": "France 24",
@@ -80,53 +199,11 @@
       "date": "Sun, 12 Jul 2026 03:46:12 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England fans revel in World Cup win over Norway",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/england-fans-revel-in-world-cup-win-over-norway?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 03:34:23 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan successfully launches, lands reusable rocket",
-      "link": "https://www.channelnewsasia.com/east-asia/japan-reusable-rocket-success-space-agency-6248826",
-      "date": "Sun, 12 Jul 2026 11:02:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Senegal fire coach Thiaw after disappointing World Cup",
-      "link": "https://www.channelnewsasia.com/sport/senegal-fire-coach-thiaw-after-disappointing-world-cup-6248836",
-      "date": "Sun, 12 Jul 2026 10:49:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "President Tharman to make first state visit to Malaysia",
-      "link": "https://www.channelnewsasia.com/singapore/president-tharman-shanmugaratnam-first-state-visit-malaysia-6248816",
-      "date": "Sun, 12 Jul 2026 10:38:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Norway eliminated: What do supporters think of their team's overall performance?",
       "link": "https://www.france24.com/en/norway-eliminated-what-do-supporters-think-of-their-team-s-overall-performance",
       "date": "Sun, 12 Jul 2026 02:24:01 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bellingham double fires England past Norway into World Cup semis",
-      "link": "https://www.channelnewsasia.com/sport/bellingham-double-fires-england-past-norway-world-cup-semis-6248791",
-      "date": "Sun, 12 Jul 2026 10:15:11 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nigeria rescues dozens of abducted school children in Oyo state",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 01:56:01 +0000"
     },
     {
       "src": "Sky News",
@@ -138,9 +215,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "China's second typhoon in a week makes landfall",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 12 Jul 2026 01:22:22 GMT"
+      "text": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 12 Jul 2026 00:49:24 GMT"
     },
     {
       "src": "France 24",
@@ -150,27 +227,6 @@
       "date": "Sun, 12 Jul 2026 00:35:11 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 00:22:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 00:11:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tehran attacks Jordan, Bahrain and Kuwait after US bombings",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 00:00:00 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
@@ -178,46 +234,11 @@
       "date": "Sat, 11 Jul 2026 23:58:40 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Bellingham's brace sends England past Norway to semi-finals",
-      "link": "https://www.france24.com/en/sport/20260711-world-cup-2026-bellingham-s-brace-sends-england-past-norway-to-semi-finals",
-      "date": "Sat, 11 Jul 2026 23:49:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Bellingham's brace sends England past Norway to semi-finals",
-      "link": "https://www.france24.com/en/sport/20260711-world-cup-2026-bellingham-s-brace-sends-england-past-norway-to-semi-finals",
-      "date": "Sat, 11 Jul 2026 23:48:58 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indian tourists killed after speedboat capsizes in Vietnam",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
-      "date": "Sat, 11 Jul 2026 23:35:23 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 21:56:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Global population at 8.3 billion: What does that mean for anyone under 30?",
-      "link": "https://www.france24.com/en/video/20260711-global-population-at-8-3-billion-what-does-that-mean-for-anyone-under-30",
-      "date": "Sat, 11 Jul 2026 21:48:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Norway-England: Three Lions advance to semi-finals after Bellingham's extra-time double",
-      "link": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
-      "date": "Sat, 11 Jul 2026 20:16:38 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "US senator and Trump ally Lindsey Graham dies",
+      "link": "https://news.sky.com/story/us-senator-and-trump-ally-lindsey-graham-dies-13562481",
+      "date": "Sun, 12 Jul 2026 00:01:00 +0100"
     },
     {
       "src": "BBC World",
@@ -267,6 +288,13 @@
       "text": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 11 Jul 2026 15:03:45 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+      "date": "Sat, 11 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -374,13 +402,6 @@
       "date": "Fri, 10 Jul 2026 14:30:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Passenger 'partially sucked out of window' on Ryanair flight",
-      "link": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267",
-      "date": "Fri, 10 Jul 2026 13:06:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Israel's recognition of the Armenian genocide unsettles Turkey and Azerbaijan",
@@ -388,18 +409,46 @@
       "date": "Fri, 10 Jul 2026 12:00:21 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "South Sudan: UN acts ahead of drought to protect thousands",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Aid cuts leave at least one million women and girls without vital support",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Developing countries spend more repaying foreign debt than on education, UN reveals",
       "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
       "date": "Fri, 10 Jul 2026 07:00:14 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Mexico investigates whether US lied about role in capture of drug lord",
-      "link": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-      "date": "Thu, 09 Jul 2026 18:17:49 GMT"
     },
     {
       "src": "The Guardian",
@@ -430,6 +479,20 @@
       "date": "Thu, 09 Jul 2026 12:20:09 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Diplomats go virtual to witness Gaza displacement site up close",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peak heat in Europe just broke historic 1970s records",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
+      "date": "Thu, 09 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "UK to lead European initiative to fund next generation of long-range missiles",
@@ -442,13 +505,6 @@
       "text": "Western Europe records hottest ever June as climate change drives heatwaves",
       "link": "https://www.rfi.fr/en/international/20260709-western-europe-records-hottest-ever-june-as-climate-change-drives-heatwaves",
       "date": "Thu, 09 Jul 2026 06:06:43 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Trump lashes out at NATO allies over Greenland and Iran, targeting Spain",
-      "link": "https://www.rfi.fr/en/international/20260708-trump-lashes-out-at-allies-as-key-nato-summit-begins-targeting-cease-fire-spain-and-greenland",
-      "date": "Wed, 08 Jul 2026 14:55:24 GMT"
     }
   ]
 }
