@@ -1,20 +1,125 @@
 {
-  "updated": "2026-07-13T01:25:05.925Z",
-  "count": 64,
+  "updated": "2026-07-13T04:52:25.372Z",
+  "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thailand probes deadly Bangkok bar fire as survivors report lack of rear fire escapes",
-      "link": "https://www.channelnewsasia.com/asia/bangkok-bar-fire-thailand-live-6249866",
-      "date": "Mon, 13 Jul 2026 09:21:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 13 Jul 2026 04:30:02 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Marvel actress Wai Ching Ho, who appeared in Iron Fist and Daredevil, dies aged 82",
-      "link": "https://www.channelnewsasia.com/entertainment/marvel-actress-wai-ching-ho-madame-gao-dead-6249811",
-      "date": "Mon, 13 Jul 2026 08:59:17 +0800"
+      "text": "Cruz Hewitt sets sights on playing Australian Open after losing Wimbledon boys&#039; final",
+      "link": "https://www.channelnewsasia.com/sport/cruz-hewitt-sets-sights-playing-australian-open-after-losing-wimbledon-boys-final-6250211",
+      "date": "Mon, 13 Jul 2026 12:25:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mark Lee was a rambutan seller, Gurmit Singh slept in a bank: Singapore&#039;s comedians reveal their first part-time jobs",
+      "link": "https://www.channelnewsasia.com/entertainment/mark-lee-was-rambutan-seller-gurmit-singh-slept-in-bank-singapores-comedians-reveal-their-first-part-time-jobs-6250011",
+      "date": "Mon, 13 Jul 2026 12:10:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cyclist who fought with bus driver in road rage incident serves sentence but appeals",
+      "link": "https://www.channelnewsasia.com/singapore/cyclist-fight-bus-driver-punggol-appeal-6250001",
+      "date": "Mon, 13 Jul 2026 12:06:48 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 13 Jul 2026 03:36:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dallas pitch ready for last hurrah after nine matches and years of research",
+      "link": "https://www.channelnewsasia.com/sport/dallas-pitch-ready-last-hurrah-after-nine-matches-and-years-research-6250016",
+      "date": "Mon, 13 Jul 2026 11:34:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss",
+      "date": "Mon, 13 Jul 2026 03:24:24 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FairPrice rolls out unit pricing initiative to all stores following trial programme",
+      "link": "https://www.channelnewsasia.com/singapore/fairprice-rolls-out-pricing-initiative-all-stores-pilot-programme-6238326",
+      "date": "Mon, 13 Jul 2026 11:24:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Eligible Singaporean children to receive S$500 in Child LifeSG credits from Jul 14",
+      "link": "https://www.channelnewsasia.com/singapore/child-lifesg-credits-july-family-support-6249956",
+      "date": "Mon, 13 Jul 2026 11:10:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+      "date": "Mon, 13 Jul 2026 02:58:05 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil prices spike on fresh US-Iran attacks, tech weighs on stocks again",
+      "link": "https://www.channelnewsasia.com/asia/oil-stocks-us-iran-war-strikes-6249971",
+      "date": "Mon, 13 Jul 2026 10:51:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least 27 killed, eight critically injured in Bangkok bar fire",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 13 Jul 2026 02:28:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test",
+      "link": "https://www.france24.com/en/middle-east/20260713-israel-october-27-election-netanyahu-gaza-war",
+      "date": "Mon, 13 Jul 2026 02:19:14 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
+      "date": "Mon, 13 Jul 2026 02:10:10 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+      "link": "https://www.channelnewsasia.com/business/meta-put-ai-chip-production-in-september-it-looks-double-computing-capacity-memo-shows-6243856",
+      "date": "Mon, 13 Jul 2026 09:46:54 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+      "date": "Mon, 13 Jul 2026 01:27:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+      "link": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
+      "date": "Mon, 13 Jul 2026 01:20:33 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -22,27 +127,6 @@
       "text": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
       "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
       "date": "Mon, 13 Jul 2026 00:54:53 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Samsung Electronics to move up start of chip factory in Yongin to 2029, source says",
-      "link": "https://www.channelnewsasia.com/business/samsung-electronics-move-up-start-chip-factory-in-yongin-2029-source-says-6249836",
-      "date": "Mon, 13 Jul 2026 08:32:24 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-amid-profit-taking-easing-earnings-optimism-6249841",
-      "date": "Mon, 13 Jul 2026 08:32:02 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shares slip in Asia as oil jumps on Gulf attacks",
-      "link": "https://www.channelnewsasia.com/business/shares-slip-in-asia-oil-jumps-gulf-attacks-6249821",
-      "date": "Mon, 13 Jul 2026 08:24:52 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -54,35 +138,14 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Fontainebleau forest near Paris hit by 'very virulent' wildfire",
+      "text": "Fontainebleau forest near Paris hit by 'virulent' wildfire",
       "link": "https://www.france24.com/en/france/20260713-fontainebleau-forest-near-paris-very-virulent-wildfire",
       "date": "Mon, 13 Jul 2026 00:21:02 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Disney&#039;s live-action Moana crashes to shore with an underwhelming splash at the box office",
-      "link": "https://www.channelnewsasia.com/entertainment/moana-live-action-box-office-dwayne-johnson-6249461",
-      "date": "Mon, 13 Jul 2026 08:13:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zverev says attacking approach can help bridge gap to Sinner and Alcaraz",
-      "link": "https://www.channelnewsasia.com/sport/zverev-says-attacking-approach-can-help-bridge-gap-sinner-and-alcaraz-6249801",
-      "date": "Mon, 13 Jul 2026 08:10:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nippon Paint offers $8.6 billion for AkzoNobel unit, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/nippon-paint-offers-86-billion-akzonobel-unit-bloomberg-news-reports-6249791",
-      "date": "Mon, 13 Jul 2026 08:05:48 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "text": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
       "date": "Mon, 13 Jul 2026 00:00:00 +0000"
     },
@@ -92,27 +155,6 @@
       "text": "US Senator Mitch McConnell says absence due to fall and pneumonia",
       "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 12 Jul 2026 23:41:00 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least 27 killed in Bangkok bar fire",
-      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 12 Jul 2026 23:40:50 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
-      "link": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 23:29:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-      "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 23:03:32 +0000"
     },
     {
       "src": "France 24",
@@ -138,23 +180,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 12 Jul 2026 22:17:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 12 Jul 2026 22:08:07 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 21:59:36 +0000"
     },
     {
       "src": "France 24",
@@ -162,20 +190,6 @@
       "text": "World No. 1 defends Wimbledon title",
       "link": "https://www.france24.com/en/sinner-wins-second-straight-wimbledon-title",
       "date": "Sun, 12 Jul 2026 21:57:06 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel releases video of huge detonations in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 21:50:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deadly Israeli strikes pound Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
-      "date": "Sun, 12 Jul 2026 21:33:10 +0000"
     },
     {
       "src": "France 24",
@@ -206,13 +220,6 @@
       "date": "Sun, 12 Jul 2026 19:15:15 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hundreds evacuated from Paris suburb after weapons found near synagogue",
-      "link": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
-      "date": "Sun, 12 Jul 2026 18:48:20 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
@@ -232,6 +239,20 @@
       "text": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 12 Jul 2026 13:35:01 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+      "date": "Sun, 12 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Reviving communities home by home in Gaza",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+      "date": "Sun, 12 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -297,13 +318,6 @@
       "date": "Sun, 12 Jul 2026 02:41:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 11 Jul 2026 23:58:40 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trump ally Lindsey Graham dies - Zelenskyy pays tribute",
@@ -330,6 +344,20 @@
       "text": "What makes the Sultanate of Oman the Gulf's geopolitical exception?",
       "link": "https://www.rfi.fr/en/international/20260711-what-makes-the-sultanate-of-oman-the-gulf-s-geopolitical-exception",
       "date": "Sat, 11 Jul 2026 15:15:59 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Thai youth leaders push for inclusion, partnership and lasting change",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167917",
+      "date": "Sat, 11 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+      "date": "Sat, 11 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -421,6 +449,34 @@
       "text": "Israel's recognition of the Armenian genocide unsettles Turkey and Azerbaijan",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260710-israel-s-recognition-of-the-armenian-genocide-unsettles-turkey-and-azerbaijan",
       "date": "Fri, 10 Jul 2026 12:00:21 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "South Sudan: UN acts ahead of drought to protect thousands",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "date": "Fri, 10 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
