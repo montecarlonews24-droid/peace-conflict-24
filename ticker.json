@@ -1,13 +1,111 @@
 {
-  "updated": "2026-07-14T15:53:11.534Z",
-  "count": 72,
+  "updated": "2026-07-14T16:59:44.909Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 14 Jul 2026 16:55:48 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spain apologises for ex-PM&#039;s column questioning &#039;Frenchness&#039; of France team",
+      "link": "https://www.channelnewsasia.com/sport/spain-apologises-ex-pms-column-questioning-frenchness-france-team-6254111",
+      "date": "Wed, 15 Jul 2026 00:44:59 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gymnastics-Lee announces return to training: &#039;I know what I’m capable of&#039;",
+      "link": "https://www.channelnewsasia.com/sport/gymnastics-lee-announces-return-training-i-know-what-im-capable-6254106",
+      "date": "Wed, 15 Jul 2026 00:42:51 +0800"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France marks tenth anniversary of deadly Nice terror attack",
+      "text": "How jihadist groups like Boko Haram use AI for acts of terror",
+      "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
+      "date": "Tue, 14 Jul 2026 16:36:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World leaders travel to Qatar to honour Father Emir",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 16:36:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Regulatory action on chips, AI is coming, Commerce official says",
+      "link": "https://www.channelnewsasia.com/business/regulatory-action-chips-ai-coming-commerce-official-says-6254096",
+      "date": "Wed, 15 Jul 2026 00:34:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mexico: Football Without Fear",
+      "link": "https://www.aljazeera.com/video/witness/2026/7/14/mexico-football-without-fear?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 16:30:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump steps back from proposal for Hormuz fees in favour of Gulf investment deals",
+      "link": "https://www.channelnewsasia.com/world/trump-hormuz-fees-blockade-iran-6254066",
+      "date": "Wed, 15 Jul 2026 00:25:21 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mexico begins legal action in US over deaths of its citizens in ICE custody",
+      "link": "https://www.aljazeera.com/news/2026/7/14/mexico-begins-legal-action-in-us-over-deaths-of-its-citizens-in-ice-custody?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 16:04:54 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Firefighters battle flames in Fontainebleau historic forest",
+      "link": "https://www.france24.com/en/firefighters-battle-flames-in-fontainebleau-historic-forest",
+      "date": "Tue, 14 Jul 2026 16:04:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli attack on north Gaza police station kills eight",
+      "link": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 16:02:54 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "McIlroy calls for golf major season to be stretched out",
+      "link": "https://www.channelnewsasia.com/sport/mcilroy-calls-golf-major-season-be-stretched-out-6254016",
+      "date": "Tue, 14 Jul 2026 23:52:33 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pogacar wins Tour de France 10th stage in Bastille Day showdown",
+      "link": "https://www.france24.com/en/sport/20260714-pogacar-wins-tour-de-france-10th-stage-in-bastille-day-showdown",
+      "date": "Tue, 14 Jul 2026 15:51:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: France marks tenth anniversary of deadly Nice terror attack",
       "link": "https://www.france24.com/en/france/20260714-france-marks-tenth-anniversary-of-deadly-nice-terror-attack",
       "date": "Tue, 14 Jul 2026 15:50:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kane dismisses talk of Tuchel-Bellingham rift before Argentina semi-final",
+      "link": "https://www.channelnewsasia.com/sport/kane-dismisses-talk-tuchel-bellingham-rift-argentina-semi-final-6254021",
+      "date": "Tue, 14 Jul 2026 23:50:19 +0800"
     },
     {
       "src": "France 24",
@@ -52,32 +150,11 @@
       "date": "Tue, 14 Jul 2026 15:35:03 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wales call up two replacements as they sweat on skipper Lake",
-      "link": "https://www.channelnewsasia.com/sport/wales-call-up-two-replacements-they-sweat-skipper-lake-6253991",
-      "date": "Tue, 14 Jul 2026 23:31:21 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shanmugam and Tan See Leng to donate Bloomberg damages to charity, say defamation suit was about protecting integrity",
-      "link": "https://www.channelnewsasia.com/singapore/shanmugam-tan-see-leng-bloomberg-defamation-damages-donate-charity-6253136",
-      "date": "Tue, 14 Jul 2026 23:28:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pogacar rides to solo victory in Tour de France&#039;s Bastille Day showdown",
-      "link": "https://www.channelnewsasia.com/sport/pogacar-rides-solo-victory-in-tour-de-frances-bastille-day-showdown-6253976",
-      "date": "Tue, 14 Jul 2026 23:26:49 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Data center firm Switch taps banks for IPO that could value it up to $80 billion, sources say",
-      "link": "https://www.channelnewsasia.com/business/exclusive-data-center-firm-switch-taps-banks-ipo-could-value-it-up-80-billion-sources-say-6253956",
-      "date": "Tue, 14 Jul 2026 23:22:21 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "France vs Spain LIVE: FIFA World Cup 2026 semifinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/14/france-vs-spain-live-fifa-world-cup-2026-semifinal?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 15:30:58 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -101,34 +178,6 @@
       "date": "Tue, 14 Jul 2026 15:20:28 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rubio vows to end International Criminal Court \"threat\", claiming it interferes with US operations",
-      "link": "https://www.france24.com/en/rubio-vows-to-end-international-criminal-court-threat-claiming-it-interferes-with-us-operations",
-      "date": "Tue, 14 Jul 2026 15:20:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Australia's youth ban on social media has minimal results",
-      "link": "https://www.france24.com/en/video/20260714-australia-s-youth-ban-on-social-media-has-minimal-results-1",
-      "date": "Tue, 14 Jul 2026 15:18:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Paramount's Warner takeover challenged by 12 US states",
-      "link": "https://www.france24.com/en/paramount-s-warner-takeover-challenged-by-12-us-states",
-      "date": "Tue, 14 Jul 2026 15:16:47 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore, Malaysia reaffirm need to &#039;deepen cooperation&#039; in areas including food security and energy",
-      "link": "https://www.channelnewsasia.com/singapore/singapore-malaysia-tharman-anwar-meeting-cooperation-food-security-energy-6253776",
-      "date": "Tue, 14 Jul 2026 23:11:00 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Will a U.S.-Iran Deal Include Kurds?",
@@ -141,48 +190,6 @@
       "text": "How the late Father Emir transformed Qatar’s economy",
       "link": "https://www.aljazeera.com/video/money-works/2026/7/14/how-the-late-father-emir-transformed-qatars-economy?traffic_source=rss",
       "date": "Tue, 14 Jul 2026 15:04:34 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russia launches American and two cosmonauts on space station mission",
-      "link": "https://www.channelnewsasia.com/business/russia-launches-american-and-two-cosmonauts-space-station-mission-6253891",
-      "date": "Tue, 14 Jul 2026 22:57:25 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
-      "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 14:56:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA World Cup: Meet Ismail Elfath, referee for England-Argentina semifinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-meet-ismail-elfath-referee-for-england-argentina-semifinal?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 14:48:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India summons Iranian diplomat over missile killing of seafarer",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 14:32:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Olympic funding questioned by nine EU nations over Russia readmission",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/olympic-funding-questioned-by-nine-eu-nations-over-russia-readmission?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 14:29:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 14:08:05 +0000"
     },
     {
       "src": "BBC World",
@@ -225,20 +232,6 @@
       "text": "New US Ebola patient arrives in Germany for treatment",
       "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
       "date": "Tue, 14 Jul 2026 12:27:06 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "People continue to stand by refugees, Gen Z shows most empathy",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167934",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167933",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -290,16 +283,9 @@
       "date": "Tue, 14 Jul 2026 03:47:41 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 14 Jul 2026 02:26:45 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Mexico to file criminal complaints over migrants killed by ICE in US",
+      "text": "Mexico to demand criminal complaints over migrants killed by ICE in US",
       "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
       "date": "Mon, 13 Jul 2026 22:06:01 GMT"
     },
@@ -379,48 +365,6 @@
       "text": "<a href='https://news.sky.com/story/politics-latest-burnham-starmer-labour-tories-badenoch-farage-12593360?postid=12050554#liveblog-body'>UK proscribes Iran's IRGC after 'threats to life' on British soil</a>",
       "link": "https://news.sky.com/story/uk-proscribes-irans-irgc-after-threats-to-life-on-british-soil-13563034",
       "date": "Mon, 13 Jul 2026 13:28:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "International Criminal Court ‘a critical cog’ in global justice efforts",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167932",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167930",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167929",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167924",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167927",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan: 3.7 million young lives at risk of malnutrition, UNICEF warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167925",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
