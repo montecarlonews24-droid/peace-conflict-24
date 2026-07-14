@@ -1,20 +1,125 @@
 {
-  "updated": "2026-07-14T19:49:30.372Z",
-  "count": 71,
+  "updated": "2026-07-14T20:47:49.228Z",
+  "count": 63,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US military reimposes naval blockade on Iranian ports, launches new strikes",
+      "link": "https://www.france24.com/en/middle-east/20260714-us-military-reimposes-naval-blockade-on-iranian-ports-launches-new-strikes",
+      "date": "Tue, 14 Jul 2026 20:45:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What is Iran’s Pickaxe Mountain?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:27:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Volunteer firefighter admits to starting a fire in the Fontainebleau forest",
+      "link": "https://www.france24.com/en/volunteer-firefighter-admits-to-starting-a-fire-in-the-fontainebleau-forest",
+      "date": "Tue, 14 Jul 2026 20:26:14 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Worker killed in furnace explosion fire at Indian recycling plant",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:18:36 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
+      "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:17:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
+      "link": "https://www.aljazeera.com/news/2026/7/14/mahmoud-khalil-alleges-conspiracy-in-lawsuit-against-trump-officials?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:16:52 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Triple murder makes headlines in the UK and South Africa",
+      "link": "https://www.france24.com/en/triple-murder-makes-headlines-in-the-uk-and-south-africa",
+      "date": "Tue, 14 Jul 2026 20:15:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "New York imposes landmark one-year ban on large data centres",
+      "link": "https://www.aljazeera.com/economy/2026/7/14/new-york-imposes-landmark-one-year-ban-on-large-data-centres?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:13:32 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK to issue first &#039;digital&#039; bond by early 2027, finance minister says",
+      "link": "https://www.channelnewsasia.com/business/uk-issue-first-digital-bond-early-2027-finance-minister-says-6254426",
+      "date": "Wed, 15 Jul 2026 04:12:57 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Senate Democrats block defence bill over Iran war, Israel provisions",
+      "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 20:12:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 14 Jul 2026 20:10:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump administration orders ICE to halt traffic stops after Maine shooting, US media reports",
+      "link": "https://www.france24.com/en/americas/20260714-trump-administration-orders-ice-to-halt-traffic-stops-after-maine-shooting-us-media-reports",
+      "date": "Tue, 14 Jul 2026 19:57:22 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gaza health officials say Israeli airstrike on police station kills 8",
+      "link": "https://www.channelnewsasia.com/world/israel-strike-gaza-police-station-eight-killed-hamas-6254391",
+      "date": "Wed, 15 Jul 2026 03:55:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 19:47:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How soccer has helped shape national identities in England and Argentina",
+      "link": "https://www.channelnewsasia.com/sport/how-soccer-has-helped-shape-national-identities-in-england-and-argentina-6254396",
+      "date": "Wed, 15 Jul 2026 03:45:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 19:43:26 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 14 Jul 2026 19:40:23 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Families claim bodies of victims of deadly Bangkok pub fire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/families-claim-bodies-of-victims-of-deadly-bangkok-pub-fire?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 19:32:54 +0000"
     },
     {
       "src": "CNA",
@@ -80,32 +185,11 @@
       "date": "Wed, 15 Jul 2026 02:38:39 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US risks falling into ‘escalation trap’ if it deploys troops in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 18:32:40 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "War, talks, repeat: How to break the cycle between US and Iran?",
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260714-war-talks-repeat-how-to-break-the-cycle-between-us-and-iran",
       "date": "Tue, 14 Jul 2026 18:27:17 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man United sign Tielemans on five-year deal",
-      "link": "https://www.channelnewsasia.com/sport/man-united-sign-tielemans-five-year-deal-6254266",
-      "date": "Wed, 15 Jul 2026 02:26:28 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 18:26:10 +0000"
     },
     {
       "src": "The Guardian",
@@ -129,76 +213,6 @@
       "date": "Tue, 14 Jul 2026 18:14:25 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US President Trump drops 20% Strait of Hormuz fee plan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-drops-20-strait-of-hormuz-fee-plan?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 18:05:05 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From the sidelines: Beyond the traditions, glimpses of Wimbledon&#039;s fierce sporting soul",
-      "link": "https://www.channelnewsasia.com/sport/sidelines-beyond-traditions-glimpses-wimbledons-fierce-sporting-soul-6254246",
-      "date": "Wed, 15 Jul 2026 02:02:19 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple wins dismissal of lawsuit over child sexual abuse material on iCloud",
-      "link": "https://www.channelnewsasia.com/business/apple-wins-dismissal-lawsuit-over-child-sexual-abuse-material-icloud-6254231",
-      "date": "Wed, 15 Jul 2026 01:58:50 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US, Russian astronauts launch into orbit for joint space mission",
-      "link": "https://www.aljazeera.com/news/2026/7/14/us-russian-astronauts-launch-into-orbit-for-joint-space-mission?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 17:49:28 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mahmoud Khalil files lawsuit accusing Trump officials, pro-Israel groups of conspiracy",
-      "link": "https://www.france24.com/en/france/20260714-mahmoud-khalil-files-lawsuit-accusing-trump-officials-pro-israel-groups-of-conspiracy",
-      "date": "Tue, 14 Jul 2026 17:41:02 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cuba’s power grid collapses again, triggering third blackout in 10 days",
-      "link": "https://www.aljazeera.com/news/2026/7/14/cubas-power-grid-collapses-again-triggering-third-blackout-in-10-days?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 17:34:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’",
-      "link": "https://www.aljazeera.com/news/2026/7/14/trump-meets-with-iraq-prime-minister-at-white-house-vows-a-lot-of-deals?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 17:31:25 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
-      "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 17:22:58 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘My heart is on fire’: Fontainebleau forest blaze leaves community reeling",
-      "link": "https://www.france24.com/en/environment/20260714-my-heart-is-on-fire-fontainebleau-forest-blaze-leaves-community-reeling",
-      "date": "Tue, 14 Jul 2026 17:22:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France vs Spain live: Oyarzabal penalty gives La Roja early lead in World Cup semi-final",
-      "link": "https://www.france24.com/en/sport/20260714-france-vs-spain-live-world-cup-favourites-european-champions-semi-final-mbappe-yamal",
-      "date": "Tue, 14 Jul 2026 17:15:23 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Israeli strike on police post in north Gaza kills seven, officials say",
@@ -211,20 +225,6 @@
       "text": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
       "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 14 Jul 2026 17:07:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 14 Jul 2026 16:54:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How jihadist groups like Boko Haram use AI for acts of terror",
-      "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
-      "date": "Tue, 14 Jul 2026 16:36:46 GMT"
     },
     {
       "src": "BBC World",
@@ -274,41 +274,6 @@
       "text": "New US Ebola patient arrives in Germany for treatment",
       "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
       "date": "Tue, 14 Jul 2026 12:27:06 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Independent expert urges UK leaders to uphold Supreme Court ruling on women&#039;s rights",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167937",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167935",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "People continue to stand by refugees, Gen Z shows most empathy",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167934",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167933",
-      "date": "Tue, 14 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -414,27 +379,6 @@
       "text": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
       "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
       "date": "Mon, 13 Jul 2026 14:00:49 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "International Criminal Court ‘a critical cog’ in global justice efforts",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167932",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167930",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167929",
-      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
