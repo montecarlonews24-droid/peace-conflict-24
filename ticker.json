@@ -1,7 +1,161 @@
 {
-  "updated": "2026-07-14T06:31:33.469Z",
-  "count": 64,
+  "updated": "2026-07-14T08:57:10.363Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Wildfires ravage historic forest near Paris",
+      "link": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 08:38:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lebanon and Israel hold talks in Rome amid renewed Mideast fighting",
+      "link": "https://www.channelnewsasia.com/world/lebanon-israel-hezbollah-peace-talks-rome-us-iran-war-fighting-6253021",
+      "date": "Tue, 14 Jul 2026 16:35:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Country grows, we grow too’: 1 million migrants seek legal status in Spain",
+      "link": "https://www.aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 08:30:48 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Jurassic Park, The Piano, The Tudors... New Zealand actor Sam Neill dies at 78",
+      "link": "https://www.france24.com/en/jurassic-park-the-piano-the-tudors-new-zealand-actor-sam-neill-dies-at-78",
+      "date": "Tue, 14 Jul 2026 08:28:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Houthis launch missiles at Saudi Arabia, in retaliation for Sanaa airport strikes",
+      "link": "https://www.france24.com/en/houthis-launch-missiles-at-saudi-arabia-in-retaliation-for-sanaa-airport-strikes",
+      "date": "Tue, 14 Jul 2026 08:26:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US strikes in Iran continue, Trump says reinstates blockade on Strait of Hormuz",
+      "link": "https://www.france24.com/en/us-strikes-in-iran-continue-trump-says-reinstates-blockade-on-strait-of-hormuz",
+      "date": "Tue, 14 Jul 2026 08:26:04 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US military releases video of its latest strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 08:23:29 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bastille Day: France celebrates Ukraine and its allies with military parade",
+      "link": "https://www.france24.com/en/bastille-day-france-celebrates-ukraine-and-its-allies-with-military-parade",
+      "date": "Tue, 14 Jul 2026 08:23:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French police suspect arson in Fontainebleau forest near Paris",
+      "link": "https://www.france24.com/en/french-police-suspect-arson-in-fontainebleau-forest-near-paris",
+      "date": "Tue, 14 Jul 2026 08:22:54 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man who drove into Suntec City&#039;s Fountain of Wealth gets jail, driving ban",
+      "link": "https://www.channelnewsasia.com/singapore/man-crash-suntec-city-fountain-wealth-jail-6252926",
+      "date": "Tue, 14 Jul 2026 16:15:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
+      "link": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 08:15:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bloomberg, reporter ordered to pay Shanmugam, Tan See Leng S$230,000 each in damages over defamatory article",
+      "link": "https://www.channelnewsasia.com/singapore/bloomberg-shanmugam-tan-see-leng-defamation-230000-damages-6252946",
+      "date": "Tue, 14 Jul 2026 16:09:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
+      "link": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 07:59:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore pledges US$2 million to support Ebola response in DR Congo and Uganda",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-us2-million-ebola-support-drc-congo-uganda-6252861",
+      "date": "Tue, 14 Jul 2026 15:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Subaru to recall over 541,000 US vehicles over incorrect label",
+      "link": "https://www.channelnewsasia.com/business/subaru-recall-over-541000-us-vehicles-over-incorrect-label-6252931",
+      "date": "Tue, 14 Jul 2026 15:40:37 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+      "link": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 07:39:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung explores potential US listing via ADRs, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/samsung-explores-potential-us-listing-adrs-bloomberg-news-reports-6252916",
+      "date": "Tue, 14 Jul 2026 15:37:50 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mediacorp Tamil drama Must Date The Playboy! surpasses 100 million views, fans can meet cast on Jul 18",
+      "link": "https://www.channelnewsasia.com/entertainment/must-date-playboy-cast-meet-greet-jul-18-6252806",
+      "date": "Tue, 14 Jul 2026 15:34:11 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Cup 2026: France aim for third consecutive final against Spain",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain",
+      "date": "Tue, 14 Jul 2026 07:31:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Johor government calls for probe into startup community based in Forest City over alleged Israeli links",
+      "link": "https://www.channelnewsasia.com/asia/johor-israel-network-school-forest-city-onn-hafiz-6252686",
+      "date": "Tue, 14 Jul 2026 15:31:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+      "link": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
+      "date": "Tue, 14 Jul 2026 06:41:51 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Australian police release unseen photos 25 years after British backpacker Peter Falconio's murder",
+      "link": "https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240",
+      "date": "Tue, 14 Jul 2026 07:35:00 +0100"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -10,60 +164,11 @@
       "date": "Tue, 14 Jul 2026 06:25:01 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More than 260,000 evacuated as Typhoon Bavi brings severe floods",
-      "link": "https://www.channelnewsasia.com/east-asia/typhoon-bavi-china-floods-people-evacuated-6252536",
-      "date": "Tue, 14 Jul 2026 14:22:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France's Bastille Day parade to showcase European support for Ukraine",
+      "text": "Watch live: France's Bastille Day parade to showcase European support for Ukraine",
       "link": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine",
       "date": "Tue, 14 Jul 2026 06:16:49 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Egg-free school meals scramble politics in India",
-      "link": "https://www.channelnewsasia.com/asia/egg-free-school-meals-west-bengal-politics-india-6252756",
-      "date": "Tue, 14 Jul 2026 14:09:36 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Veteran Hong Kong film producer Nansun Shi dies at 75",
-      "link": "https://www.channelnewsasia.com/entertainment/nansun-shi-dies-hong-kong-film-producer-better-tomorrow-6252656",
-      "date": "Tue, 14 Jul 2026 14:09:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sacked McCullum apologises for England&#039;s test results",
-      "link": "https://www.channelnewsasia.com/sport/sacked-mccullum-apologises-englands-test-results-6252766",
-      "date": "Tue, 14 Jul 2026 14:06:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Changi Airport says Terminal 5 capacity remains on track despite global uncertainties",
-      "link": "https://www.channelnewsasia.com/singapore/changi-airport-t5-capacity-lim-ching-kiat-6251246",
-      "date": "Tue, 14 Jul 2026 14:00:25 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "More than 1,900 hectares of Fontainebleau forest near Paris destroyed by wildfires",
-      "link": "https://www.france24.com/en/france/20260714-more-than-1-900-hectares-fontainebleau-forest-near-paris-destroyed-by-wildfires",
-      "date": "Tue, 14 Jul 2026 05:48:18 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korean court suspends FTC designation Coupang founder Kim Bom as controlling entity",
-      "link": "https://www.channelnewsasia.com/business/south-korean-court-suspends-ftc-designation-coupang-founder-kim-bom-controlling-entity-6252731",
-      "date": "Tue, 14 Jul 2026 13:47:58 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -73,95 +178,11 @@
       "date": "Tue, 14 Jul 2026 05:33:01 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SoftBank&#039;s Son says AI will need $5 trillion per year by 2040, dismisses bubble talk",
-      "link": "https://www.channelnewsasia.com/business/softbanks-son-says-ai-will-need-5-trillion-year-2040-dismisses-bubble-talk-6252696",
-      "date": "Tue, 14 Jul 2026 13:20:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 05:15:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 05:08:32 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 14 Jul 2026 05:00:03 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-      "link": "https://www.channelnewsasia.com/asia/bangkok-bar-fire-death-toll-dozens-hospital-6252596",
-      "date": "Tue, 14 Jul 2026 12:49:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup 2026: Ahead of France-Spain, in Dallas, supporters are confident",
-      "link": "https://www.france24.com/en/world-cup-2026-ahead-of-france-spain-in-dallas-supporters-are-confident",
-      "date": "Tue, 14 Jul 2026 04:34:20 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 04:24:20 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
-      "link": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 04:15:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 04:10:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
-      "link": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 04:09:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
-      "date": "Tue, 14 Jul 2026 03:52:50 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "text": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 14 Jul 2026 03:47:41 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US burrito giant Chipotle opening first outlet in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 14 Jul 2026 02:42:51 GMT"
     },
     {
       "src": "BBC World",
@@ -169,13 +190,6 @@
       "text": "Australian police reveal unseen photos 25 years after British backpacker murder",
       "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 14 Jul 2026 02:26:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nine foreign nationals, including French woman, among 13 victims of deadly Spain wildfire",
-      "link": "https://www.france24.com/en/europe/20260714-several-foreign-nationals-among-victims-deadly-spain-wildfire",
-      "date": "Tue, 14 Jul 2026 02:11:08 GMT"
     },
     {
       "src": "BBC World",
@@ -192,20 +206,6 @@
       "date": "Tue, 14 Jul 2026 01:43:57 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: US strikes Iran for third night as Trump says deal still 'possible'",
-      "link": "https://www.france24.com/en/middle-east/20260713-middle-east-live-us-strikes-iran-for-third-night-as-trump-says-deal-still-possible",
-      "date": "Mon, 13 Jul 2026 23:26:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump says to deliver 'speech to the nation' Thursday as Iran tensions escalate",
-      "link": "https://www.france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate",
-      "date": "Mon, 13 Jul 2026 23:10:20 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Mexico to file criminal complaints over migrants killed by ICE in US",
@@ -213,11 +213,11 @@
       "date": "Mon, 13 Jul 2026 22:06:01 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US judge voids Donald Trump 'improper' $1.8 billion settlement with IRS",
-      "link": "https://www.france24.com/en/americas/20260713-us-judge-voids-trump-irs-settlement-taxes",
-      "date": "Mon, 13 Jul 2026 21:58:19 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 13 Jul 2026 22:03:16 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -225,6 +225,13 @@
       "text": "Trump Is Taking a Page Out of Iran’s Playbook",
       "link": "https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/",
       "date": "Mon, 13 Jul 2026 21:08:59 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hungary parliament votes to remove president from office",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 13 Jul 2026 20:39:14 GMT"
     },
     {
       "src": "Sky News",
@@ -318,18 +325,53 @@
       "date": "Mon, 13 Jul 2026 13:28:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "International Criminal Court ‘a critical cog’ in global justice efforts",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167932",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167930",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167929",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167924",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167927",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan: 3.7 million young lives at risk of malnutrition, UNICEF warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167925",
+      "date": "Mon, 13 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Will Lula Win the Century?",
       "link": "https://foreignpolicy.com/2026/07/13/brazil-lula-bolsonaro-election-history-pagliarini-book-review/",
       "date": "Mon, 13 Jul 2026 11:00:50 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Alleged hackers linked to Russia facing UK and EU sanctions",
-      "link": "https://news.sky.com/story/alleged-hackers-linked-to-russia-facing-uk-and-eu-sanctions-13562980",
-      "date": "Mon, 13 Jul 2026 11:20:00 +0100"
     },
     {
       "src": "RFI",
@@ -393,6 +435,20 @@
       "text": "The Politicization of the U.S. Military Did Not Start With Trump",
       "link": "https://foreignpolicy.com/2026/07/13/politicization-military-trump-macarthur-truman/",
       "date": "Mon, 13 Jul 2026 04:01:26 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "From NASA to the classroom: The engineer bringing AI to those left behind",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167920",
+      "date": "Sun, 12 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+      "date": "Sun, 12 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
