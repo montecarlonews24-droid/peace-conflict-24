@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-17T19:00:22.055Z",
-  "count": 64,
+  "updated": "2026-07-17T20:06:24.314Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 17 Jul 2026 20:00:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
+      "link": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 19:39:33 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "date": "Fri, 17 Jul 2026 19:38:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Musk&#039;s SpaceX in talks to provide computing power to the Pentagon, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/musks-spacex-in-talks-provide-computing-power-pentagon-wsj-reports-6261976",
+      "date": "Sat, 18 Jul 2026 03:27:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU reforms carbon market under pressure from industry",
+      "link": "https://www.channelnewsasia.com/world/eu-carbon-emissions-industry-pressure-6261961",
+      "date": "Sat, 18 Jul 2026 03:23:54 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rallying-Pajari wins every stage on first day in Estonia",
+      "link": "https://www.channelnewsasia.com/sport/rallying-pajari-wins-every-stage-first-day-in-estonia-6261951",
+      "date": "Sat, 18 Jul 2026 03:10:22 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 17 Jul 2026 19:04:09 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent",
+      "link": "https://foreignpolicy.com/2026/07/17/china-taiwan-mazu-matsu-goddess-pilgrimage/",
+      "date": "Fri, 17 Jul 2026 19:00:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least three killed and hundreds displaced by heavy rain in Chile",
+      "link": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:59:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meals on wheels? Moet and F1 combine fine dining with a lap of the track",
+      "link": "https://www.channelnewsasia.com/sport/meals-wheels-moet-and-f1-combine-fine-dining-lap-track-6261916",
+      "date": "Sat, 18 Jul 2026 02:46:04 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Battle for Borsch",
+      "link": "https://foreignpolicy.com/2026/07/17/ukraine-russia-war-borsch-cultural-heritage-unesco/",
+      "date": "Fri, 17 Jul 2026 18:40:56 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -10,11 +87,11 @@
       "date": "Fri, 17 Jul 2026 18:40:44 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "date": "Fri, 17 Jul 2026 18:39:51 GMT"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Soccer Surveillance State",
+      "link": "https://foreignpolicy.com/2026/07/17/world-cup-us-surveillance-ice-trump-infantino/",
+      "date": "Fri, 17 Jul 2026 18:35:59 +0000"
     },
     {
       "src": "BBC World",
@@ -43,6 +120,13 @@
       "text": "Germany’s Merz hails nuclear deterrence cooperation with France",
       "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
       "date": "Fri, 17 Jul 2026 18:31:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+      "date": "Fri, 17 Jul 2026 18:31:02 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -108,46 +192,18 @@
       "date": "Fri, 17 Jul 2026 17:43:10 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US judge won&#039;t block Meta from laying off workers who filed AI discrimination lawsuit",
-      "link": "https://www.channelnewsasia.com/business/us-judge-wont-block-meta-laying-workers-who-filed-ai-discrimination-lawsuit-6261841",
-      "date": "Sat, 18 Jul 2026 01:42:40 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Jon Culshaw on the art of imitation",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260717-jon-culshaw-on-the-art-of-imitation",
+      "date": "Fri, 17 Jul 2026 17:22:01 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat",
-      "link": "https://www.channelnewsasia.com/world/earthquake-mexico-coast-guatemala-tsunami-threat-6261786",
-      "date": "Sat, 18 Jul 2026 01:39:31 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Burnham confirmed as Labour leader, vows new direction for UK",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/burnham-elected-labour-leader-vows-new-direction-for-uk?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 17:16:27 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Did the US just start a trade war with Brazil?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 17:15:48 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Leeds sign defender Tarik Muharemovic from Sassuolo",
-      "link": "https://www.channelnewsasia.com/sport/leeds-sign-defender-tarik-muharemovic-sassuolo-6261811",
-      "date": "Sat, 18 Jul 2026 01:06:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple in early settlement talks with US DOJ over antitrust case, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/apple-in-early-settlement-talks-us-doj-over-antitrust-case-bloomberg-news-reports-6261806",
-      "date": "Sat, 18 Jul 2026 01:05:09 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump administration's border barrier project sparks environmental concerns in Texas national park",
+      "link": "https://www.france24.com/en/americas/20260717-border-barrier-project-sparks-environmental-concerns-texas-national-park",
+      "date": "Fri, 17 Jul 2026 17:21:24 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -173,7 +229,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Magnitude 7.3 quake hits Mexican coast near Guatemala, triggering tsunami alert",
+      "text": "Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted",
       "link": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
       "date": "Fri, 17 Jul 2026 16:42:17 GMT"
     },
@@ -241,53 +297,11 @@
       "date": "Fri, 17 Jul 2026 15:52:55 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France orders internet providers to block access to Polymarket prediction site",
-      "link": "https://www.france24.com/en/france/20260717-france-orders-internet-service-providers-to-block-access-to-polymarket",
-      "date": "Fri, 17 Jul 2026 15:21:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump doubles down on 2020 US voter fraud claims",
-      "link": "https://www.france24.com/en/video/20260717-trump-doubles-down-on-2020-us-voter-fraud-claims",
-      "date": "Fri, 17 Jul 2026 15:19:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Germany to join French nuclear exercise in bid to boost defence cooperation",
-      "link": "https://www.france24.com/en/europe/20260717-germany-join-french-military-nuclear-exercise-bid-boost-defence-cooperation",
-      "date": "Fri, 17 Jul 2026 14:51:58 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Shameless' fraudster who stole £300k from vulnerable pensioner led away by police",
       "link": "https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444",
       "date": "Fri, 17 Jul 2026 15:36:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Lebanon’s Peacekeepers Are Heading for the Exits",
-      "link": "https://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil/",
-      "date": "Fri, 17 Jul 2026 14:25:23 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "U.S.-China Relations Are More Volatile Than Ever",
-      "link": "https://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/",
-      "date": "Fri, 17 Jul 2026 14:15:08 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Uganda suspends school trips after 20 pupils die in bus crash",
-      "link": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 17 Jul 2026 13:45:02 GMT"
     },
     {
       "src": "RFI",
@@ -297,11 +311,11 @@
       "date": "Fri, 17 Jul 2026 13:06:05 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How to Isolate Tehran",
-      "link": "https://foreignpolicy.com/2026/07/17/tehran-iran-trump-hormuz-diplomacy-force-strikes/",
-      "date": "Fri, 17 Jul 2026 12:53:34 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump blames Canada as US 'invaded by filthy air'",
+      "link": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
+      "date": "Fri, 17 Jul 2026 14:00:00 +0100"
     },
     {
       "src": "Sky News",
@@ -325,11 +339,32 @@
       "date": "Fri, 17 Jul 2026 13:09:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 17 Jul 2026 11:37:00 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Djibouti: Emergency alert spotlights sharp hunger spike",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hunger deepens for displaced families in Sudan’s El Obeid",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres: AI must be shaped by &#039;all of humanity&#039;, not a handful of powers",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -355,13 +390,6 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Man charged with assisting Iranian intelligence service, Met Police says",
-      "link": "https://news.sky.com/story/man-charged-with-allegedly-assisting-iran-intelligence-service-met-police-says-13564226",
-      "date": "Fri, 17 Jul 2026 08:13:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
       "link": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219",
       "date": "Fri, 17 Jul 2026 02:46:00 +0100"
@@ -379,6 +407,34 @@
       "text": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
       "date": "Thu, 16 Jul 2026 15:20:58 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: Training the next generation to fight corruption",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peacekeepers step up support as families return to south Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
