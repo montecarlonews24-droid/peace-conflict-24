@@ -1,13 +1,111 @@
 {
-  "updated": "2026-07-17T17:58:09.492Z",
+  "updated": "2026-07-17T19:00:22.055Z",
   "count": 64,
   "items": [
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "All-time West Indies cricket great Garfield Sobers dies aged 89",
+      "link": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:40:44 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "date": "Fri, 17 Jul 2026 18:39:51 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Iran accuses US of hitting civilian infrastructure",
+      "text": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 17 Jul 2026 18:34:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 17 Jul 2026 17:46:24 GMT"
+      "date": "Fri, 17 Jul 2026 18:33:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinese blogger jailed for fabricating Xiaomi EV video claims, state media say",
+      "link": "https://www.channelnewsasia.com/world/chinese-blogger-jailed-fabricating-xiaomi-ev-video-claims-state-media-say-6261886",
+      "date": "Sat, 18 Jul 2026 02:31:49 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Germany’s Merz hails nuclear deterrence cooperation with France",
+      "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:31:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+      "link": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:28:34 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 17 Jul 2026 18:12:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:12:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX targets next week for another Starship launch attempt as shares slide on abort",
+      "link": "https://www.channelnewsasia.com/business/spacex-targets-next-week-another-starship-launch-attempt-shares-slide-abort-6261871",
+      "date": "Sat, 18 Jul 2026 02:07:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Life after amputation: Gaza women find recovery through football",
+      "link": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 18:02:39 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Inside the Race to Protect Ukrainian",
+      "link": "https://foreignpolicy.com/2026/07/17/ukrainian-language-preservation-russia-invasion/",
+      "date": "Fri, 17 Jul 2026 18:00:19 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China landslide kills 8, at least 34 missing: officials",
+      "link": "https://www.channelnewsasia.com/world/china-landslide-kills-8-least-34-missing-officials-6261851",
+      "date": "Sat, 18 Jul 2026 01:57:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Swiss World Cup hero Manzambi joins Aston Villa from Freiburg",
+      "link": "https://www.channelnewsasia.com/sport/swiss-world-cup-hero-manzambi-joins-aston-villa-freiburg-6261861",
+      "date": "Sat, 18 Jul 2026 01:56:35 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup 2026: What did we learn?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/world-cup-2026-what-did-we-learn?traffic_source=rss",
+      "date": "Fri, 17 Jul 2026 17:43:10 +0000"
     },
     {
       "src": "CNA",
@@ -26,7 +124,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Burnham elected Labour leader, vows new direction for UK",
+      "text": "Burnham confirmed as Labour leader, vows new direction for UK",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/burnham-elected-labour-leader-vows-new-direction-for-uk?traffic_source=rss",
       "date": "Fri, 17 Jul 2026 17:16:27 +0000"
     },
@@ -66,41 +164,6 @@
       "date": "Fri, 17 Jul 2026 17:01:16 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;Inclusive&#039; World Cup falls short as some fans shut out, rights groups say",
-      "link": "https://www.channelnewsasia.com/sport/inclusive-world-cup-falls-short-some-fans-shut-out-rights-groups-say-6261796",
-      "date": "Sat, 18 Jul 2026 00:58:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iranian forces: missiles and drones fired at US targets in Gulf States",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:54:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump Media pitched $100,000 monthly fee for fast feed of US president&#039;s posts, FT reports",
-      "link": "https://www.channelnewsasia.com/business/trump-media-pitched-100000-monthly-fee-fast-feed-us-presidents-posts-ft-reports-6261791",
-      "date": "Sat, 18 Jul 2026 00:54:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Tributes pour in for cricket great Sobers after death at 89",
-      "link": "https://www.channelnewsasia.com/sport/tributes-pour-in-cricket-great-sobers-after-death-89-6261801",
-      "date": "Sat, 18 Jul 2026 00:54:08 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Apple regains top spot as world’s most valuable company",
-      "link": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:47:39 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "China hits out at British Steel nationalisation",
@@ -115,46 +178,11 @@
       "date": "Fri, 17 Jul 2026 16:42:17 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Amazon’s Zoox recalls self-driving vehicles amid emergency response issues",
-      "link": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:40:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-      "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:37:34 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Messi&#039;s Argentina face Spain&#039;s cool machine in World Cup final rich with personal twists",
-      "link": "https://www.channelnewsasia.com/sport/messis-argentina-face-spains-cool-machine-in-world-cup-final-rich-personal-twists-6261776",
-      "date": "Sat, 18 Jul 2026 00:36:45 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Syria’s Weak Parliament Still Matters",
       "link": "https://foreignpolicy.com/2026/07/17/syria-parliament-damascus-sharaa-assad-democracy/",
       "date": "Fri, 17 Jul 2026 16:35:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-      "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:26:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-      "link": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-      "date": "Fri, 17 Jul 2026 16:21:49 +0000"
     },
     {
       "src": "BBC World",
@@ -255,13 +283,6 @@
       "date": "Fri, 17 Jul 2026 14:15:08 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "date": "Fri, 17 Jul 2026 13:49:33 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Uganda suspends school trips after 20 pupils die in bus crash",
@@ -304,13 +325,6 @@
       "date": "Fri, 17 Jul 2026 13:09:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Latin America’s Oil Boom",
-      "link": "https://foreignpolicy.com/2026/07/17/oil-exports-economy-argentina-brazil-guyana-iran/",
-      "date": "Fri, 17 Jul 2026 12:00:33 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
@@ -344,20 +358,6 @@
       "text": "Man charged with assisting Iranian intelligence service, Met Police says",
       "link": "https://news.sky.com/story/man-charged-with-allegedly-assisting-iran-intelligence-service-met-police-says-13564226",
       "date": "Fri, 17 Jul 2026 08:13:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "More than 500 Rohingya vanished at sea - what happened?",
-      "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 17 Jul 2026 03:07:11 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 17 Jul 2026 02:15:23 GMT"
     },
     {
       "src": "Sky News",
