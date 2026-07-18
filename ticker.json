@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-18T10:44:34.666Z",
-  "count": 63,
+  "updated": "2026-07-18T11:42:14.874Z",
+  "count": 71,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethiopian Drill explodes on the streets of Addis Ababa",
+      "link": "https://www.france24.com/en/ethiopian-drill-explodes-on-the-streets-of-addis-ababa",
+      "date": "Sat, 18 Jul 2026 11:14:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 18 Jul 2026 11:10:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+      "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
+      "date": "Sat, 18 Jul 2026 11:10:09 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethiopia: New refugee support centre opens in Addis Ababa",
+      "link": "https://www.france24.com/en/ethiopia-new-refugee-support-centre-opens-in-addis-ababa",
+      "date": "Sat, 18 Jul 2026 11:09:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "2010 winning coach del Bosque tells Spain not to underestimate &#039;nuisance&#039; Argentina",
+      "link": "https://www.channelnewsasia.com/sport/2010-winning-coach-del-bosque-tells-spain-not-underestimate-nuisance-argentina-6262661",
+      "date": "Sat, 18 Jul 2026 19:02:02 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Indian activist on hunger strike for 20 days taken to hospital",
+      "link": "https://www.france24.com/en/indian-activist-on-hunger-strike-for-20-days-taken-to-hospital",
+      "date": "Sat, 18 Jul 2026 10:56:33 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+      "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+      "date": "Sat, 18 Jul 2026 10:54:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why is Latin America shifting to the right?",
+      "link": "https://www.france24.com/en/video/20260718-why-is-latin-america-shifting-to-the-right",
+      "date": "Sat, 18 Jul 2026 10:53:36 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Middle East live: Kuwait accuses Iran of targeting civilian sites, vital infrastructure",
+      "link": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
+      "date": "Sat, 18 Jul 2026 10:48:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+      "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
+      "date": "Sat, 18 Jul 2026 10:48:09 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France cruise to second Nations Championship victory beating Japan 42-15",
+      "link": "https://www.france24.com/en/sport/20260718-france-cruise-to-second-nations-championship-victory-beating-japan-42-15",
+      "date": "Sat, 18 Jul 2026 10:47:08 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -24,18 +101,18 @@
       "date": "Sat, 18 Jul 2026 18:01:40 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Laos says it can't determine cause of  tourist deaths linked to methanol",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 18 Jul 2026 09:30:32 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Argentina’s New York fans share hopes before 2026 World Cup final",
       "link": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss",
       "date": "Sat, 18 Jul 2026 09:29:20 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Hunger striker taken to hospital as police launch 'chilling crackdown'",
+      "link": "https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607",
+      "date": "Sat, 18 Jul 2026 10:24:00 +0100"
     },
     {
       "src": "RFI",
@@ -71,41 +148,6 @@
       "text": "Times Square prepares for Sunday's World Cup final",
       "link": "https://www.france24.com/en/times-square-prepares-for-sunday-s-world-cup-final",
       "date": "Sat, 18 Jul 2026 08:42:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Donald Trump blames Canada for smoke pollution",
-      "link": "https://www.france24.com/en/donald-trump-blames-canada-for-smoke-pollution",
-      "date": "Sat, 18 Jul 2026 08:40:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: 2,000 hectares lost in forest fires",
-      "link": "https://www.france24.com/en/france-2-000-hectares-lost-in-forest-fires",
-      "date": "Sat, 18 Jul 2026 08:39:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine: Protests over Fedorov's removal continue for a second day",
-      "link": "https://www.france24.com/en/video/20260718-ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day",
-      "date": "Sat, 18 Jul 2026 08:37:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US strikes hit Iran for seventh night",
-      "link": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night",
-      "date": "Sat, 18 Jul 2026 08:35:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Venezuela quake death toll tops 5,000 as IMF releases recovery funds",
-      "link": "https://www.france24.com/en/americas/20260718-venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds",
-      "date": "Sat, 18 Jul 2026 08:25:28 GMT"
     },
     {
       "src": "CNA",
@@ -150,16 +192,9 @@
       "date": "Sat, 18 Jul 2026 07:33:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Approved fosterers may keep up to 6 cats in HDB flats, 10 in private homes under new pilot scheme",
-      "link": "https://www.channelnewsasia.com/singapore/cat-fostering-hdb-flats-private-homes-pilot-scheme-avs-6262516",
-      "date": "Sat, 18 Jul 2026 15:29:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "From France vs England to Messi vs Yamal: World Cup final weekend",
+      "text": "World Cup: France vs England prediction, final schedule, latest news",
       "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-weekend-france-vs-england-prediction-schedule-news?traffic_source=rss",
       "date": "Sat, 18 Jul 2026 07:23:04 +0000"
     },
@@ -178,13 +213,6 @@
       "date": "Sat, 18 Jul 2026 06:04:14 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "France vs England: Deschamps set for final World Cup match as Zidane waits",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss",
-      "date": "Sat, 18 Jul 2026 06:01:26 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
@@ -192,25 +220,11 @@
       "date": "Sat, 18 Jul 2026 05:58:48 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Disappointed France and England to face off in third place World Cup match",
-      "link": "https://www.france24.com/en/sport/20260718-disappointed-france-and-england-face-off-for-third-place-world-cup-match",
-      "date": "Sat, 18 Jul 2026 05:56:10 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "As gang violence expands, Haiti's humanitarian crisis worsens",
       "link": "https://www.rfi.fr/en/international/20260718-as-gang-violence-expands-haiti-s-humanitarian-crisis-worsens",
       "date": "Sat, 18 Jul 2026 05:29:14 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-      "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-      "date": "Sat, 18 Jul 2026 05:15:11 +0000"
     },
     {
       "src": "The Guardian",
@@ -267,13 +281,6 @@
       "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
       "date": "Fri, 17 Jul 2026 20:31:59 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
-      "date": "Fri, 17 Jul 2026 20:10:26 GMT"
     },
     {
       "src": "BBC World",
@@ -374,6 +381,41 @@
       "date": "Fri, 17 Jul 2026 12:17:14 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Djibouti: Emergency alert spotlights sharp hunger spike",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hunger deepens for displaced families in Sudan’s El Obeid",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres: AI must be shaped by &#039;all of humanity&#039;, not a handful of powers",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "FIFA to hand World Cup winners US-style championship rings",
@@ -395,18 +437,32 @@
       "date": "Fri, 17 Jul 2026 07:17:14 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
-      "link": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219",
-      "date": "Fri, 17 Jul 2026 02:46:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
       "date": "Thu, 16 Jul 2026 15:20:58 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: Training the next generation to fight corruption",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+      "date": "Thu, 16 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
