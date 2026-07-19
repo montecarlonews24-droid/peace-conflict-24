@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-19T12:46:06.367Z",
-  "count": 61,
+  "updated": "2026-07-19T14:18:08.028Z",
+  "count": 53,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 14:00:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lebanon convicts influencer of smuggling drugs in biscuits",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
+      "date": "Sun, 19 Jul 2026 13:56:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US launches strikes to &#039;punish&#039; Iran after troops killed",
+      "link": "https://www.channelnewsasia.com/world/us-iran-strikes-american-troops-killed-jordan-israel-6263826",
+      "date": "Sun, 19 Jul 2026 21:55:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "F1 title contender Russell out of Belgian GP",
+      "link": "https://www.channelnewsasia.com/sport/f1-title-contender-russell-out-belgian-gp-6263801",
+      "date": "Sun, 19 Jul 2026 21:24:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Deschamps says stifling atmosphere led to his decision to step down as France coach",
+      "link": "https://www.channelnewsasia.com/sport/deschamps-says-stifling-atmosphere-led-his-decision-step-down-france-coach-6263791",
+      "date": "Sun, 19 Jul 2026 21:20:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India floods and landslides kill at least 19",
+      "link": "https://www.channelnewsasia.com/asia/india-floods-landslides-jammu-kashmir-monsoon-6263781",
+      "date": "Sun, 19 Jul 2026 21:20:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
+      "link": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
+      "date": "Sun, 19 Jul 2026 13:12:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 13:10:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tour leaders Pogacar, Vingegaard sleepy after anti-doping tests in small hours",
+      "link": "https://www.channelnewsasia.com/sport/tour-leaders-pogacar-vingegaard-sleepy-after-anti-doping-tests-in-small-hours-6263766",
+      "date": "Sun, 19 Jul 2026 20:55:36 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tate brothers arrested in US as further UK charges take total to 59",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 19 Jul 2026 12:53:20 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Burns starts final day of Open with two-shot lead",
+      "link": "https://www.channelnewsasia.com/sport/burns-starts-final-day-open-two-shot-lead-6263761",
+      "date": "Sun, 19 Jul 2026 20:49:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why have India’s Gen Z protesters called for a march to parliament?",
+      "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
+      "date": "Sun, 19 Jul 2026 12:45:07 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -17,20 +101,6 @@
       "date": "Sun, 19 Jul 2026 12:29:57 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "England stun France in goal fest for third place",
-      "link": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260719-england-stun-france-in-goal-fest-for-third-place",
-      "date": "Sun, 19 Jul 2026 12:25:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The week in pictures: The end of the World Cup, heatwaves and wildfires, war in Ukraine",
-      "link": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine",
-      "date": "Sun, 19 Jul 2026 11:59:03 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "India’s cockroach politics is no joke",
@@ -38,32 +108,11 @@
       "date": "Sun, 19 Jul 2026 11:57:47 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 19 Jul 2026 11:57:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe: Extreme weather fuels climate concerns",
-      "link": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns",
-      "date": "Sun, 19 Jul 2026 11:55:08 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Starbucks Korea staff form union after &#039;Tank Day&#039; campaign fiasco",
       "link": "https://www.channelnewsasia.com/asia/starbucks-south-korea-tank-day-union-6263716",
       "date": "Sun, 19 Jul 2026 19:55:07 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-      "link": "https://www.france24.com/en/russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
-      "date": "Sun, 19 Jul 2026 11:54:09 GMT"
     },
     {
       "src": "BBC World",
@@ -87,95 +136,11 @@
       "date": "Sun, 19 Jul 2026 11:18:17 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iranians suffer from power blackouts during war and heatwave",
-      "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
-      "date": "Sun, 19 Jul 2026 11:16:20 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 19 Jul 2026 11:04:50 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Wrestling-Askren calls time on wrestling career after loss in comeback bout",
       "link": "https://www.channelnewsasia.com/sport/wrestling-askren-calls-time-wrestling-career-after-loss-in-comeback-bout-6263686",
       "date": "Sun, 19 Jul 2026 18:48:28 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
-      "link": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
-      "date": "Sun, 19 Jul 2026 10:43:27 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The Bayeux tapestry arrives in London for display at British Museum",
-      "link": "https://www.france24.com/en/the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum",
-      "date": "Sun, 19 Jul 2026 10:33:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine: Thousands take to the streets to protest against Fedorov removal",
-      "link": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal",
-      "date": "Sun, 19 Jul 2026 10:31:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Cup final: Argentina face Spain",
-      "link": "https://www.france24.com/en/world-cup-final-argentina-face-spain",
-      "date": "Sun, 19 Jul 2026 10:25:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "American boxer Hannah Rapp dies at 26 after being hit by car while cycling",
-      "link": "https://www.channelnewsasia.com/sport/american-boxer-hannah-rapp-dies-26-after-being-hit-car-while-cycling-6263676",
-      "date": "Sun, 19 Jul 2026 18:20:49 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Middle East live: Iran's Guards say two ships involved in 'accident' after defying Hormuz warnings",
-      "link": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
-      "date": "Sun, 19 Jul 2026 10:13:33 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza cheers for Spain as World Cup final anticipation mounts",
-      "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
-      "date": "Sun, 19 Jul 2026 10:09:25 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 19 Jul 2026 09:59:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Users of Meta&#039;s Facebook, Instagram report suffering some outages",
-      "link": "https://www.channelnewsasia.com/world/users-metas-facebook-instagram-report-suffering-some-outages-6263656",
-      "date": "Sun, 19 Jul 2026 17:40:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pocket-size AI: Powerful phones star at China show",
-      "link": "https://www.channelnewsasia.com/east-asia/china-agentic-ai-smartphones-waic-shanghai-tech-6263651",
-      "date": "Sun, 19 Jul 2026 17:23:00 +0800"
     },
     {
       "src": "RFI",
@@ -185,32 +150,11 @@
       "date": "Sun, 19 Jul 2026 09:10:19 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Erasmus confirms Feinberg-Mngomezulu will be fit to face Argentina",
-      "link": "https://www.channelnewsasia.com/sport/erasmus-confirms-feinberg-mngomezulu-will-be-fit-face-argentina-6263626",
-      "date": "Sun, 19 Jul 2026 15:53:44 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Reform Party leader Kenneth Jeyaretnam dies aged 67",
-      "link": "https://www.channelnewsasia.com/singapore/kenneth-jeyaretnam-reform-party-leader-6263591",
-      "date": "Sun, 19 Jul 2026 15:52:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
       "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 19 Jul 2026 07:47:02 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wife of Indian activist Wangchuk asks court to move him to private hospital",
-      "link": "https://www.channelnewsasia.com/asia/wife-indian-activist-wangchuk-asks-court-move-him-private-hospital-6263606",
-      "date": "Sun, 19 Jul 2026 15:28:00 +0800"
     },
     {
       "src": "The Guardian",
