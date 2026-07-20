@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-20T16:50:28.104Z",
-  "count": 69,
+  "updated": "2026-07-20T18:47:35.253Z",
+  "count": 53,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mexican drug kingpin Ismael &#039;El Mayo&#039; Zambada sentenced in US to life in prison",
+      "link": "https://www.channelnewsasia.com/world/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-in-us-life-in-prison-6266291",
+      "date": "Tue, 21 Jul 2026 02:41:11 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UEFA president Ceferin boycotted World Cup final after disagreements with FIFA",
+      "link": "https://www.channelnewsasia.com/sport/uefa-president-ceferin-boycotted-world-cup-final-after-disagreements-fifa-6266451",
+      "date": "Tue, 21 Jul 2026 02:36:57 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump vows Iran will ‘pay’ for killing US soldiers",
+      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 18:21:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
+      "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 18:10:03 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Slow Death of the Global Commons",
+      "link": "https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/",
+      "date": "Mon, 20 Jul 2026 17:51:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Petrol prices climb as US–Iran tensions disrupt markets",
+      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 17:40:29 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 17:33:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 17:31:43 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 17:21:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 17:20:37 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "link": "https://www.channelnewsasia.com/business/paramount-skydance-ordered-pause-warner-bros-acquisition-through-august-3-6266301",
+      "date": "Tue, 21 Jul 2026 01:12:33 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
+      "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 17:05:49 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Suwayda’s Struggle",
+      "link": "https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/",
+      "date": "Mon, 20 Jul 2026 16:51:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain team arrives home after winning the World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 16:47:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli air strike injures 14 in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 16:45:23 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -15,6 +120,13 @@
       "text": "Russian attack on corn ship off Ukraine&#039;s Odesa kills 10",
       "link": "https://www.channelnewsasia.com/world/russia-ukraine-strike-ship-odesa-black-sea-6266221",
       "date": "Tue, 21 Jul 2026 00:34:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Philippine sailor injured during clash with Chinese coast guard",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 16:31:23 +0000"
     },
     {
       "src": "BBC World",
@@ -38,41 +150,6 @@
       "date": "Tue, 21 Jul 2026 00:20:10 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 25 killed as floods and landslides hit northern India",
-      "link": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:17:12 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
-      "link": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-      "date": "Mon, 20 Jul 2026 16:14:22 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon’s military starts ‘pilot zone’ takeover in south",
-      "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:13:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:12:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain go back to the top of FIFA rankings, Morocco reach a record high",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:11:22 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
@@ -80,32 +157,11 @@
       "date": "Mon, 20 Jul 2026 16:10:38 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:09:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "China, immigration, drugs: Behind US policy in Latin America",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 16:03:50 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Metro to close Paragon, Causeway Point stores when leases end in retail overhaul",
+      "text": "Metro to close Paragon, Causeway Point department stores when leases end in retail overhaul",
       "link": "https://www.channelnewsasia.com/singapore/metro-close-department-stores-paragon-causeway-point-lease-expire-6266141",
       "date": "Tue, 21 Jul 2026 00:02:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/who-is-khalil-al-hayya-hamass-newly-elected-political-chief?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 15:59:30 +0000"
     },
     {
       "src": "The Guardian",
@@ -115,60 +171,11 @@
       "date": "Mon, 20 Jul 2026 15:52:58 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'That is our challenge: to make politics work': Andy Burnham becomes UK PM",
-      "link": "https://www.france24.com/en/that-is-our-challenge-to-make-politics-work-andy-burnham-becomes-uk-pm",
-      "date": "Mon, 20 Jul 2026 15:50:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Andy Burnham: Who is the new UK prime minister?",
-      "link": "https://www.france24.com/en/andy-burnham-who-is-the-new-uk-prime-minister",
-      "date": "Mon, 20 Jul 2026 15:41:27 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
-      "link": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 15:39:37 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Guardiola&#039;s office contents, including coffee cups and ceramic turtles, up for auction",
-      "link": "https://www.channelnewsasia.com/sport/guardiolas-office-contents-including-coffee-cups-and-ceramic-turtles-up-auction-6266186",
-      "date": "Mon, 20 Jul 2026 23:37:11 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fears over Gulf shipping and water rise as US-Iran trade strikes",
-      "link": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes",
-      "date": "Mon, 20 Jul 2026 15:36:40 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spain go back to top of FIFA rankings, Morocco reach record high",
-      "link": "https://www.channelnewsasia.com/sport/spain-go-back-top-fifa-rankings-morocco-reach-record-high-6266181",
-      "date": "Mon, 20 Jul 2026 23:31:16 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Mexican drug lord sentenced to life in prison",
       "link": "https://news.sky.com/story/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-to-life-in-prison-13565339",
       "date": "Mon, 20 Jul 2026 16:30:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Reaction to death of former England captain and manager Kevin Keegan",
-      "link": "https://www.channelnewsasia.com/sport/reaction-death-former-england-captain-and-manager-kevin-keegan-6266161",
-      "date": "Mon, 20 Jul 2026 23:26:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -178,46 +185,11 @@
       "date": "Mon, 20 Jul 2026 15:01:11 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Expanded 2026 North American World Cup: Spain's 'diligent' performance to Messi's enduring legacy",
-      "link": "https://www.france24.com/en/expanded-2026-north-american-world-cup-spain-s-diligent-performance-to-messi-s-enduring-legacy",
-      "date": "Mon, 20 Jul 2026 14:44:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Newcastle, Liverpool and England legend Keegan dies",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 20 Jul 2026 14:38:28 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A New Great Game Is Underway in Central Asia",
       "link": "https://foreignpolicy.com/2026/07/20/great-game-central-asia-rare-earths/",
       "date": "Mon, 20 Jul 2026 14:35:53 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
-      "link": "https://www.france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks",
-      "date": "Mon, 20 Jul 2026 14:31:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Burnham Advocates Closer EU Relationship: Big Gains Will Only Come from Rejoining the Single Market",
-      "link": "https://www.france24.com/en/burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-rejoining-the-single-market",
-      "date": "Mon, 20 Jul 2026 14:31:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Residents evacuated as the south of France burns",
-      "link": "https://www.france24.com/en/video/20260720-residents-evacuated-as-the-south-of-france-burns",
-      "date": "Mon, 20 Jul 2026 14:14:11 GMT"
     },
     {
       "src": "BBC World",
@@ -276,34 +248,6 @@
       "date": "Mon, 20 Jul 2026 12:30:50 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Moon Day focuses growing concerns around space junk",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Scores feared dead after passenger ferry capsizes off Guyana",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 20 Jul 2026 11:37:32 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 20 Jul 2026 11:18:40 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Turkey marks a decade since the coup that never was, but never really ended",
@@ -339,32 +283,11 @@
       "date": "Mon, 20 Jul 2026 04:37:02 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Liberal Origins of the War Against the Deep State",
-      "link": "https://foreignpolicy.com/2026/07/20/deep-state-liberal-origins-frank-church/",
-      "date": "Mon, 20 Jul 2026 04:01:07 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Huge search operation after passenger ferry sinks off coast of Guyana",
       "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
       "date": "Mon, 20 Jul 2026 03:54:52 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: UN condemns overnight attack on Kyiv",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167975",
-      "date": "Sun, 19 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Haiti: Signs of hope despite gang violence and political uncertainty",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167963",
-      "date": "Sun, 19 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -402,13 +325,6 @@
       "date": "Sat, 18 Jul 2026 12:12:12 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167974",
-      "date": "Sat, 18 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Syria taken off US terror blacklist after 47 years, paving way for investment",
@@ -430,13 +346,6 @@
       "date": "Sat, 18 Jul 2026 04:00:47 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "U.S., Iranian Forces Target Civilian Infrastructure",
-      "link": "https://foreignpolicy.com/2026/07/17/us-iran-strikes-civilian-infrastructure-bridges-kuwait-desalination-syria/",
-      "date": "Fri, 17 Jul 2026 21:24:51 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trump blames Canada as US 'invaded by filthy air'",
@@ -449,27 +358,6 @@
       "text": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "date": "Fri, 17 Jul 2026 12:17:14 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Baristas behind bars: Thai prisoners brew a path back to daily life",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167954",
-      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
-      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Djibouti: Emergency alert spotlights sharp hunger spike",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
-      "date": "Fri, 17 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
