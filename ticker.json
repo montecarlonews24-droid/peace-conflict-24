@@ -1,13 +1,111 @@
 {
-  "updated": "2026-07-20T21:37:41.182Z",
-  "count": 61,
+  "updated": "2026-07-20T22:44:17.776Z",
+  "count": 70,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "date": "Mon, 20 Jul 2026 22:27:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump imposes 50% tariff on Canadian imports",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 20 Jul 2026 22:26:34 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Moroccan-born man dies while detained by police in Italy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 22:13:37 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US seeks to limit key materials from China, others in defence supply chains",
+      "link": "https://www.channelnewsasia.com/world/us-china-rare-earths-defence-contractors-6266686",
+      "date": "Tue, 21 Jul 2026 06:13:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: This Ebola outbreak should never have caught the world off guard",
+      "link": "https://www.channelnewsasia.com/commentary/ebola-outbreak-caught-world-guard-6260211",
+      "date": "Tue, 21 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How a national security threat label has reignited Indonesia&#039;s LGBTQ debate",
+      "link": "https://www.channelnewsasia.com/asia/lgbtq-indonesia-defence-policy-national-security-threat-6255191",
+      "date": "Tue, 21 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Fast fashion is about to get caught up in Hormuz",
+      "link": "https://www.channelnewsasia.com/commentary/strait-hormuz-oil-shock-impact-fast-fashion-6265351",
+      "date": "Tue, 21 Jul 2026 05:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump orders new 50% tariff on many Canadian goods",
+      "link": "https://www.channelnewsasia.com/world/trump-orders-new-50-tariff-many-canadian-goods-6266666",
+      "date": "Tue, 21 Jul 2026 05:54:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Cup champions Spain return to royal welcome, parade through Madrid",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 21:52:02 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
+      "link": "https://www.france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods",
+      "date": "Mon, 20 Jul 2026 21:46:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lebanese army deploys to three southern pilot zones under US-backed security framework",
+      "link": "https://www.france24.com/en/middle-east/20260720-lebanese-army-south-lebanon-pilot-zones-israel-withdrawal",
+      "date": "Mon, 20 Jul 2026 21:44:57 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "State Department Frames Cuba as Major Threat via Left-Wing Groups",
+      "link": "https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/",
+      "date": "Mon, 20 Jul 2026 21:42:05 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Nicaragua’s president says country will not hold any more elections",
+      "link": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+      "date": "Mon, 20 Jul 2026 21:36:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US stocks drop on latest Middle East fighting, tech earnings caution",
+      "link": "https://www.channelnewsasia.com/world/us-stocks-drop-latest-middle-east-fighting-tech-earnings-caution-6266631",
+      "date": "Tue, 21 Jul 2026 05:35:52 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "How watchmakers are making mechanical watches run for weeks",
       "link": "https://www.channelnewsasia.com/obsessions/mechanical-watches-long-power-reserve-6262391",
-      "date": "Tue, 21 Jul 2026 05:33:04 +0800"
+      "date": "Tue, 21 Jul 2026 05:33:00 +0800"
     },
     {
       "src": "BBC World",
@@ -17,11 +115,32 @@
       "date": "Mon, 20 Jul 2026 21:30:19 GMT"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Albanian protesters pelt lawmakers’ cars over resort projects",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 21:19:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 21:12:22 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 20 Jul 2026 21:09:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "date": "Mon, 20 Jul 2026 21:06:42 +0000"
     },
     {
       "src": "CNA",
@@ -59,67 +178,11 @@
       "date": "Mon, 20 Jul 2026 20:53:29 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US judge approves Anthropic&#039;s $1.5 billion settlement of copyright lawsuit",
-      "link": "https://www.channelnewsasia.com/business/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-6266596",
-      "date": "Tue, 21 Jul 2026 04:51:52 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "How will Zelenskyy handle the growing political crisis at home?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
       "date": "Mon, 20 Jul 2026 20:50:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ortega insists no more elections for Nicaragua",
-      "link": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 20:49:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man arrested after fire outside New York immigration court",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 20:45:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
-      "link": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 20:29:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "FIFA to investigate World Cup final post-match brawl",
-      "link": "https://www.channelnewsasia.com/sport/fifa-investigate-world-cup-final-post-match-brawl-6266561",
-      "date": "Tue, 21 Jul 2026 04:25:46 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scores celebrate Spain&#039;s &#039;Kings of the World&#039; win in exhilarated Madrid",
-      "link": "https://www.channelnewsasia.com/sport/scores-celebrate-spains-kings-world-win-in-exhilarated-madrid-6266571",
-      "date": "Tue, 21 Jul 2026 04:23:39 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indian police attack Cockroach Janta Party’s parliament march",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 20:21:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South American football President pushes for 64-team World Cup in 2030",
-      "link": "https://www.channelnewsasia.com/sport/south-american-football-president-pushes-64-team-world-cup-in-2030-6266541",
-      "date": "Tue, 21 Jul 2026 04:18:21 +0800"
     },
     {
       "src": "France 24",
@@ -136,13 +199,6 @@
       "date": "Mon, 20 Jul 2026 20:17:09 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran condemns US attacks on civilian infrastructure",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-      "date": "Mon, 20 Jul 2026 20:02:20 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Spain PM Sanchez visits Algeria for first time in four years as ties thaw",
@@ -150,25 +206,11 @@
       "date": "Mon, 20 Jul 2026 19:49:50 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "After deadly weekend for US troops, Trump vows revenge against Iran",
-      "link": "https://www.channelnewsasia.com/world/us-troops-trump-iran-pay-killing-6266501",
-      "date": "Tue, 21 Jul 2026 03:42:59 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Senegal changes course to back ex-leader Macky Sall as UN chief",
       "link": "https://www.france24.com/en/africa/20260720-senegal-changes-course-to-back-former-leader-macky-sall-for-un-chief",
       "date": "Mon, 20 Jul 2026 19:39:43 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Begay named recipient of PGA Tour&#039;s Payne Stewart Award",
-      "link": "https://www.channelnewsasia.com/sport/begay-named-recipient-pga-tours-payne-stewart-award-6266506",
-      "date": "Tue, 21 Jul 2026 03:29:12 +0800"
     },
     {
       "src": "BBC World",
@@ -208,20 +250,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 20 Jul 2026 16:26:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
-      "link": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-      "date": "Mon, 20 Jul 2026 16:14:22 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 20 Jul 2026 16:10:38 GMT"
@@ -232,20 +260,6 @@
       "text": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
       "link": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence",
       "date": "Mon, 20 Jul 2026 15:58:42 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "link": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-      "date": "Mon, 20 Jul 2026 15:52:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'That is our challenge: to make politics work': Andy Burnham becomes UK PM",
-      "link": "https://www.france24.com/en/that-is-our-challenge-to-make-politics-work-andy-burnham-becomes-uk-pm",
-      "date": "Mon, 20 Jul 2026 15:50:15 GMT"
     },
     {
       "src": "Sky News",
@@ -311,11 +325,39 @@
       "date": "Mon, 20 Jul 2026 12:33:35 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Flamingos Against Autocrats",
-      "link": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/",
-      "date": "Mon, 20 Jul 2026 12:30:50 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167980",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: Civilians again under fire as US-Iran strikes continue",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167979",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167978",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Moon Day focuses growing concerns around space junk",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -339,11 +381,18 @@
       "date": "Mon, 20 Jul 2026 08:31:00 +0100"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
-      "link": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
-      "date": "Mon, 20 Jul 2026 05:00:47 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: UN condemns overnight attack on Kyiv",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+      "date": "Sun, 19 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: Signs of hope despite gang violence and political uncertainty",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167963",
+      "date": "Sun, 19 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -379,6 +428,20 @@
       "text": "US-Iran fighting escalates with infrastructure targeted",
       "link": "https://www.rfi.fr/en/international/20260718-us-iran-fighting-escalates-with-infrastructure-targeted",
       "date": "Sat, 18 Jul 2026 12:12:12 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167974",
+      "date": "Sat, 18 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Hunger striker taken to hospital as police launch 'chilling crackdown'",
+      "link": "https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607",
+      "date": "Sat, 18 Jul 2026 10:24:00 +0100"
     },
     {
       "src": "RFI",
