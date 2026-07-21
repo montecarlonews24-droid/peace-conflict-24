@@ -1110,7 +1110,6 @@ CONFLICT
           <div class="setting-row">
             <div class="setting-label">Language</div>
             <select id="lang-select" onchange="changeLang(this.value)">
-              <option value="ar">🇸🇦 Arabic</option>
               <option value="en" selected>🇬🇧 English</option>
             </select>
           </div>
@@ -3428,16 +3427,6 @@ document.addEventListener('DOMContentLoaded', function() {
 // 🌐 LANGUAGE TOGGLE — Arabic / English
 // ══════════════════════════════════════════════
 const LANGS = {
-  ar: {
-    dir: 'rtl', lang: 'ar',
-    nav: ['الرئيسية','الخريطة','الأخبار','مميز','الملف'], // Arabic nav
-    statLabels: ['مناطق\nنشطة','تنبيهات\nCriticalة','توتر\nHigh'], // Arabic stats
-    liveSources: 'المصادر المباشرة', // Arabic
-    breaking: 'أخبار عاجلة', // Arabic
-    tracked: 'الأوضاع المرصودة', // Arabic
-    allZones: 'جميع المناطق', // Arabic
-    toggleBtn: 'EN',
-  },
   en: {
     dir: 'ltr', lang: 'en',
     nav: ['Home','Map','Press','Premium','Profile'],
@@ -3450,7 +3439,7 @@ const LANGS = {
   }
 };
 
-let currentLang = localStorage.getItem('pc_lang') || 'en';
+let currentLang = 'en'; // English-only app
 
 function applyLang(lang) {
   const L = LANGS[lang];
@@ -3501,16 +3490,6 @@ function applyLang(lang) {
 
   // ── Translate all static text elements ──
   const T = {
-    ar: {
-      online: 'متصل', next: 'التالي:', mapRefresh: 'الخريطة تتحدث تلقائياً كل 5 دقائق',
-      refreshedNow: 'Refreshed just now', liveSrc: 'Live Sources (EN)',
-      breaking: 'أخبار عاجلة', // Arabic
-    tracked: 'الأوضاع المرصودة', // Arabic
-    allZones: 'جميع المناطق', // Arabic
-      statL: ['مناطق<br>نشطة','تنبيهات<br>Criticalة','توتر<br>High'], // Arabic stat labels
-      settings: 'Settings', langLabel: 'Language', subStatus: 'Subscription Status',
-      notifLabel: 'Notifications', autoTrans: 'Auto-Translate',
-    },
     en: {
       online: 'online', next: 'Next:', mapRefresh: 'Map auto-refreshes every 5 minutes',
       refreshedNow: 'Refreshed just now', liveSrc: 'Live Sources',
@@ -3520,7 +3499,7 @@ function applyLang(lang) {
       notifLabel: 'Notifications', autoTrans: 'Auto-Translate',
     }
   };
-  const t = T[lang] || T.ar;
+  const t = T[lang] || T.en;
 
   // Online count label
   const onlineEl = document.querySelector('.user-count div:last-child');
@@ -5405,12 +5384,6 @@ async function generatePDFReport() {
     </button>
   </div>
 </div>
-
-<!-- ── LANGUAGE TOGGLE FLOAT ── -->
-<button id="lang-float" onclick="toggleLang()" title="Switch Language">
-  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-  <span id="lang-float-label">عربي</span>
-</button>
 
 <!-- ── DAILY BRIEFING MODAL ── -->
 <div id="briefing-modal" class="hidden" onclick="if(event.target===this)closeBriefing()">
