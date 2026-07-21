@@ -5027,7 +5027,7 @@ async function generatePDFReport() {
 <head>
 <meta charset="UTF-8">
 <title>Peace & Conflict 24 — Intelligence Report ${date}</title>
-<sty"+"le>
+<style>
   body{font-family:Arial,sans-serif;color:#1a1a2e;margin:0;padding:20px;background:#fff}
   .header{background:linear-gradient(135deg,#0d1929,#1a2d4a);color:#fff;padding:20px;border-radius:8px;margin-bottom:20px}
   .header h1{margin:0;font-size:22px;color:#fca311}
@@ -5050,7 +5050,7 @@ async function generatePDFReport() {
   .badge-yellow{background:#fffde0;color:#880}
 <\/style>
 
-  <scr"+"ipt>
+  <script>
     // SW disabled
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.getRegistrations().then(regs => {
