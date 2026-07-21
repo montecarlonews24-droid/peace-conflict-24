@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-21T21:00:04.412Z",
-  "count": 72,
+  "updated": "2026-07-21T22:03:33.408Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stocks rise despite climbing oil prices",
+      "link": "https://www.channelnewsasia.com/world/stocks-rise-despite-climbing-oil-prices-6269191",
+      "date": "Wed, 22 Jul 2026 05:53:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gaza civil defence says Israeli strikes kill 12, including family of six",
+      "link": "https://www.channelnewsasia.com/world/gaza-israeli-strikes-kill-family-six-6269171",
+      "date": "Wed, 22 Jul 2026 05:35:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI says AI models went rogue during testing, triggering &#039;unprecedented&#039; breach at startup",
+      "link": "https://www.channelnewsasia.com/business/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-6269186",
+      "date": "Wed, 22 Jul 2026 05:30:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Can AI replace Expedia? Its CEO says travel is more complicated than that",
+      "link": "https://www.channelnewsasia.com/experiences/expedia-ceo-ai-travel-booking-ariane-gorin-6265106",
+      "date": "Wed, 22 Jul 2026 05:30:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Drone shows scorched landscape after Spain wildfire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 21:21:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 21:17:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran holds funerals for children killed in Minab school strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 21:13:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chelsea sign England&#039;s Rogers from Villa in record British deal",
+      "link": "https://www.channelnewsasia.com/sport/chelsea-sign-englands-rogers-villa-in-record-british-deal-6269151",
+      "date": "Wed, 22 Jul 2026 05:11:49 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gang claims responsibility for hack at Coca-Cola&#039;s fairlife unit",
+      "link": "https://www.channelnewsasia.com/business/gang-claims-responsibility-hack-coca-colas-fairlife-unit-6269146",
+      "date": "Wed, 22 Jul 2026 05:10:36 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Pete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "date": "Tue, 21 Jul 2026 21:09:22 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Who Is Trump’s Next Tariff Target?",
+      "link": "https://foreignpolicy.com/2026/07/21/trump-tariffs-canada-section-338-mexico-brazil-trade-usmca/",
+      "date": "Tue, 21 Jul 2026 21:04:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How will Khalil al-Hayya’s leadership shape Hamas?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 21:03:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Guyana reports ferry disaster death toll rises to 41",
+      "link": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:54:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Daytime Russian strike kills three in Zaporizhzhia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:48:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "French parliament passes social media ban for under-15s",
+      "link": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:44:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US funding cuts deal blow to global HIV treatment: Report",
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:44:06 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -17,83 +129,6 @@
       "date": "Wed, 22 Jul 2026 04:39:09 +0800"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Pete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "date": "Tue, 21 Jul 2026 20:30:57 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Super Micro says fourth-quarter orders topped $60 billion",
-      "link": "https://www.channelnewsasia.com/business/super-micro-says-fourth-quarter-orders-topped-60-billion-6269086",
-      "date": "Wed, 22 Jul 2026 04:24:30 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deposed Turkish opposition leader plans new party",
-      "link": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 20:23:45 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zelensky fires army chief Oleksandr Syrsky, ‌a 'victory for protestors'",
-      "link": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
-      "date": "Tue, 21 Jul 2026 20:22:25 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 20:17:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain battles latest in series of major wildfires near Madrid",
-      "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 20:17:04 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senegal u-turns to back ex-president Sall to lead UN",
-      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
-      "date": "Tue, 21 Jul 2026 20:16:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine's Zelensky fires military chief after protests and names a replacement",
-      "link": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
-      "date": "Tue, 21 Jul 2026 20:12:45 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kuwaitis ration electricity after Iranian strikes hit power grid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 20:06:57 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Zelensky fires Ukraine army chief Oleksandr Syrsky",
-      "link": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
-      "date": "Tue, 21 Jul 2026 20:00:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zelensky sacks Ukraine army chief Syrsky after protests over rival minister's dismissal",
-      "link": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
-      "date": "Tue, 21 Jul 2026 19:59:36 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Zelensky sacks Ukraine's top army commander after days of protests",
@@ -101,81 +136,11 @@
       "date": "Tue, 21 Jul 2026 19:57:38 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US senator urges Wall Street to reject &#039;troubling&#039; paid early access to Trump posts",
-      "link": "https://www.channelnewsasia.com/business/us-senator-urges-wall-street-reject-troubling-paid-early-access-trump-posts-6269016",
-      "date": "Wed, 22 Jul 2026 03:46:15 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US judge blocks Trump bid to strip work permits from immigrants",
-      "link": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:44:16 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India tunnel collapse kills 10 as toxic gases hamper rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:41:38 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US agency proposes ending racial and gender workforce data collection",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:34:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can mediators broker a truce between the US and Iran?",
-      "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:27:26 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Joseph Aoun in Washington: Bilal Saab firmly believes 'this meeting couldn't have gone any better'",
-      "link": "https://www.france24.com/en/video/20260721-joseph-aoun-in-washington-bilal-saab-firmly-believes-this-meeting-couldn-t-have-gone-any-better",
-      "date": "Tue, 21 Jul 2026 19:15:32 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Israel’s Weapons Makers Have a Marketing Problem",
       "link": "https://foreignpolicy.com/2026/07/21/israel-weapons-defense-industry-drones-missiles-eurosatory-arms-show/",
       "date": "Tue, 21 Jul 2026 19:10:22 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zelensky faces deepening political crisis as protests dig in",
-      "link": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
-      "date": "Tue, 21 Jul 2026 18:38:29 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Canada evaluating &#039;all options&#039; after fresh US tariffs threat",
-      "link": "https://www.channelnewsasia.com/world/canada-evaluating-all-options-after-fresh-us-tariffs-threat-6268931",
-      "date": "Wed, 22 Jul 2026 02:37:17 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lebanon's president urges Trump to 'keep supporting' its army",
-      "link": "https://www.france24.com/en/lebanon-s-president-urges-trump-to-keep-supporting-its-army",
-      "date": "Tue, 21 Jul 2026 18:31:28 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Evenepoel admits &#039;bittersweet&#039; win after teammate Lipowitz crashed",
-      "link": "https://www.channelnewsasia.com/sport/evenepoel-admits-bittersweet-win-after-teammate-lipowitz-crashed-6268916",
-      "date": "Wed, 22 Jul 2026 02:08:35 +0800"
     },
     {
       "src": "BBC World",
@@ -192,20 +157,6 @@
       "date": "Tue, 21 Jul 2026 18:04:12 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scientists spot evidence of two huge companion stars that blew up",
-      "link": "https://www.channelnewsasia.com/business/scientists-spot-evidence-two-huge-companion-stars-blew-up-6268871",
-      "date": "Wed, 22 Jul 2026 01:42:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
-      "link": "https://www.channelnewsasia.com/business/asian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats-6268866",
-      "date": "Wed, 22 Jul 2026 01:36:38 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
@@ -215,7 +166,7 @@
     {
       "src": "Foreign Policy",
       "col": "#1a73e8",
-      "text": "Dinosaurs Roam the Aspen Security Forum",
+      "text": "The Aspen Security Forum Is the Land Time Forgot",
       "link": "https://foreignpolicy.com/2026/07/21/aspen-security-forum-geopolitics-foreign-policy-outdated-bubble-time-warp/",
       "date": "Tue, 21 Jul 2026 17:10:47 +0000"
     },
@@ -285,6 +236,20 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
+      "text": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167992",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
       "text": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
       "date": "Tue, 21 Jul 2026 12:00:00 +0000"
@@ -322,13 +287,6 @@
       "col": "#3b82f6",
       "text": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1167984",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
       "date": "Tue, 21 Jul 2026 12:00:00 +0000"
     },
     {
@@ -416,13 +374,6 @@
       "date": "Tue, 21 Jul 2026 04:19:29 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Armenian Democracy Faces a Threat From Within",
-      "link": "https://foreignpolicy.com/2026/07/21/armenian-election-democracy-opposition/",
-      "date": "Tue, 21 Jul 2026 04:01:17 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Why last two years are worrying for future of Arctic",
@@ -442,13 +393,6 @@
       "text": "Hungary PM proposes former chess champion Judit Polgar for president",
       "link": "https://www.rfi.fr/en/international/20260720-hungary-pm-proposes-former-chess-champion-judit-polgar-for-president",
       "date": "Mon, 20 Jul 2026 12:33:35 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From the General Assembly to Harlem: Mandela’s call to action endures",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167981",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
