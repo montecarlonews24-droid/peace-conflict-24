@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-21T19:57:23.714Z",
-  "count": 64,
+  "updated": "2026-07-21T21:00:04.412Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ukraine&#039;s Zelenskyy sacks army chief Syrsky",
+      "link": "https://www.channelnewsasia.com/world/zelesnkyy-syrsky-ukraine-defence-army-chief-sacked-6269091",
+      "date": "Wed, 22 Jul 2026 04:41:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "All remaining Tour de France riders undergo anti-doping blood tests",
+      "link": "https://www.channelnewsasia.com/sport/all-remaining-tour-de-france-riders-undergo-anti-doping-blood-tests-6269096",
+      "date": "Wed, 22 Jul 2026 04:39:09 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Pete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "date": "Tue, 21 Jul 2026 20:30:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Super Micro says fourth-quarter orders topped $60 billion",
+      "link": "https://www.channelnewsasia.com/business/super-micro-says-fourth-quarter-orders-topped-60-billion-6269086",
+      "date": "Wed, 22 Jul 2026 04:24:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deposed Turkish opposition leader plans new party",
+      "link": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:23:45 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky fires army chief Oleksandr Syrsky, ‌a 'victory for protestors'",
+      "link": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
+      "date": "Tue, 21 Jul 2026 20:22:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
+      "link": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:17:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain battles latest in series of major wildfires near Madrid",
+      "link": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:17:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Senegal u-turns to back ex-president Sall to lead UN",
+      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
+      "date": "Tue, 21 Jul 2026 20:16:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine's Zelensky fires military chief after protests and names a replacement",
+      "link": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
+      "date": "Tue, 21 Jul 2026 20:12:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 20:06:57 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Zelensky fires Ukraine army chief Oleksandr Syrsky",
+      "link": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
+      "date": "Tue, 21 Jul 2026 20:00:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky sacks Ukraine army chief Syrsky after protests over rival minister's dismissal",
+      "link": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
+      "date": "Tue, 21 Jul 2026 19:59:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 21 Jul 2026 19:57:38 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,18 +108,18 @@
       "date": "Wed, 22 Jul 2026 03:46:15 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 21 Jul 2026 19:43:43 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge blocks Trump bid to strip work permits from immigrants",
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 19:44:16 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘There’s no way they can survive’: Trump defends new 50% tariffs on most Canadian goods – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "date": "Tue, 21 Jul 2026 19:38:19 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India tunnel collapse kills 10 as toxic gases hamper rescue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 19:41:38 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -38,20 +136,6 @@
       "date": "Tue, 21 Jul 2026 19:27:26 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Rescuers search for flood survivors in Afghanistan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:21:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 19:16:08 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Joseph Aoun in Washington: Bilal Saab firmly believes 'this meeting couldn't have gone any better'",
@@ -64,20 +148,6 @@
       "text": "Israel’s Weapons Makers Have a Marketing Problem",
       "link": "https://foreignpolicy.com/2026/07/21/israel-weapons-defense-industry-drones-missiles-eurosatory-arms-show/",
       "date": "Tue, 21 Jul 2026 19:10:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Instagram on trial for allegedly harming kids",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 18:59:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netherlands to sanction trade with illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 18:41:52 +0000"
     },
     {
       "src": "France 24",
@@ -101,13 +171,6 @@
       "date": "Tue, 21 Jul 2026 18:31:28 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French parliament backs social media ban for under-15s in EU first",
-      "link": "https://www.france24.com/en/french-parliament-backs-social-media-ban-for-under-15s-in-eu-first",
-      "date": "Tue, 21 Jul 2026 18:23:54 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Evenepoel admits &#039;bittersweet&#039; win after teammate Lipowitz crashed",
@@ -127,20 +190,6 @@
       "text": "The Iran Expert Trump Fired",
       "link": "https://foreignpolicy.com/2026/07/21/nate-swanson-iran-war-mou-memorandum-understanding/",
       "date": "Tue, 21 Jul 2026 18:04:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The Houthis may soon discover the limits of Saudi strategic patience",
-      "link": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 17:57:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Liverpool FC in talks to sell minority stake to Mittal-backed consortium",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/liverpool-fc-in-talks-to-sell-minority-stake-to-mittal-backed-consortium?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 17:55:53 +0000"
     },
     {
       "src": "CNA",
@@ -164,27 +213,6 @@
       "date": "Tue, 21 Jul 2026 17:33:22 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pharma heavyweights Novo Nordisk and Eli Lilly clash over anti-obesity drug ads",
-      "link": "https://www.channelnewsasia.com/world/novo-nordisk-eli-lilly-ads-weightloss-drug-6268796",
-      "date": "Wed, 22 Jul 2026 01:32:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ipswich sign winger Fatawu from Leicester City",
-      "link": "https://www.channelnewsasia.com/sport/ipswich-sign-winger-fatawu-leicester-city-6268836",
-      "date": "Wed, 22 Jul 2026 01:24:05 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Outrage in France as Macron appoints senator who fought gay marriage to key rights job",
-      "link": "https://www.france24.com/en/france/20260721-outrage-france-macron-appoints-senator-who-fought-gay-marriage-rights-ombudsman-buffet",
-      "date": "Tue, 21 Jul 2026 17:20:56 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Dinosaurs Roam the Aspen Security Forum",
@@ -197,34 +225,6 @@
       "text": "Two French firefighters die tackling blaze near Bordeaux airport",
       "link": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 21 Jul 2026 16:44:30 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Murdered ex-UK minister Widdecombe was struck on head with hammer 21 times, court told",
-      "link": "https://www.channelnewsasia.com/world/widdecombe-murder-hammer-uk-minister-court-6268731",
-      "date": "Wed, 22 Jul 2026 00:39:01 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Evenepoel beats Pogacar by seconds in stage 16 of Tour de France",
-      "link": "https://www.france24.com/en/sport/20260721-evenepoel-beats-pogacar-by-seconds-in-stage-16-of-tour-de-france",
-      "date": "Tue, 21 Jul 2026 16:23:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As he hosts the Lebanese president, Trump says the US 'will help' the country",
-      "link": "https://www.france24.com/en/as-he-hosts-the-lebanese-president-trump-says-the-us-will-help-the-country",
-      "date": "Tue, 21 Jul 2026 16:19:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Replay: Lebanon's Joseph Aoun and US's Donald Trump hold press conference",
-      "link": "https://www.france24.com/en/replay-lebanon-s-joseph-aoun-and-us-s-donald-trump-hold-press-conference",
-      "date": "Tue, 21 Jul 2026 16:14:58 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -281,6 +281,55 @@
       "text": "Dozens hurt in Bologna protests after man dies while being restrained by police",
       "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 21 Jul 2026 12:48:37 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Critical minerals: The hidden resources powering the clean energy future",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Global hunger declines again but progress remains uneven across regions",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167987",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN refugee agency reports 144 migrants dead or missing off Mauritanian coast",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167985",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -393,6 +442,13 @@
       "text": "Hungary PM proposes former chess champion Judit Polgar for president",
       "link": "https://www.rfi.fr/en/international/20260720-hungary-pm-proposes-former-chess-champion-judit-polgar-for-president",
       "date": "Mon, 20 Jul 2026 12:33:35 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "From the General Assembly to Harlem: Mandela’s call to action endures",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167981",
+      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
