@@ -1,27 +1,202 @@
 {
-  "updated": "2026-07-21T13:10:20.555Z",
-  "count": 72,
+  "updated": "2026-07-21T15:20:27.316Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "La Liga chief Tebas accuses FIFA of &#039;destroying football industry&#039;, calls for Infantino to quit",
+      "link": "https://www.channelnewsasia.com/sport/la-liga-chief-tebas-accuses-fifa-destroying-football-industry-calls-infantino-quit-6268631",
+      "date": "Tue, 21 Jul 2026 23:13:27 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "link": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "date": "Tue, 21 Jul 2026 15:10:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Google updates lightweight Gemini models, but flagship still delayed",
+      "link": "https://www.channelnewsasia.com/business/google-updates-lightweight-gemini-models-flagship-still-delayed-6268596",
+      "date": "Tue, 21 Jul 2026 23:03:48 +0800"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Fake images circulate of Spanish World Cup players draped in Palestinian flags",
-      "link": "https://www.france24.com/en/sport/20260721-fake-images-circulate-spanish-world-cup-players-draped-palestinian-flags",
-      "date": "Tue, 21 Jul 2026 12:58:46 GMT"
+      "text": "Beirut hopes to gain Trump support to bring 'normality' back to south Lebanon",
+      "link": "https://www.france24.com/en/video/20260721-beirut-hopes-to-gain-trump-support-to-bring-normality-back-to-south-lebanon",
+      "date": "Tue, 21 Jul 2026 15:02:58 GMT"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
       "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-      "date": "Tue, 21 Jul 2026 12:52:21 GMT"
+      "date": "Tue, 21 Jul 2026 14:51:09 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israeli air strike in Gaza City kills family of six, medics say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 21 Jul 2026 14:47:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India's Cockroach protests vow to continue despite police crackdown",
+      "link": "https://www.france24.com/en/india-s-cockroach-protests-vow-to-continue-despite-police-crackdown",
+      "date": "Tue, 21 Jul 2026 14:44:26 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 14:42:21 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+      "link": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+      "date": "Tue, 21 Jul 2026 14:40:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+      "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 14:37:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why France's D-Day landing beaches could join Unesco's heritage site list",
+      "link": "https://www.france24.com/en/why-france-s-d-day-landing-beaches-could-join-unesco-s-heritage-lids",
+      "date": "Tue, 21 Jul 2026 14:31:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘I hear you’: Burnham’s pledge to ‘knock money off bills immediately’ signals politics of deliverism",
+      "link": "https://www.france24.com/en/i-hear-you-burnham-s-pledge-to-knock-money-off-bills-immediately-signals-politics-of-deliverism",
+      "date": "Tue, 21 Jul 2026 14:26:27 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Tan Boon Liat tenants brace for break-up of furniture hub after en bloc sale",
-      "link": "https://www.channelnewsasia.com/singapore/tan-boon-liat-furniture-hub-tenants-en-bloc-6268106",
-      "date": "Tue, 21 Jul 2026 20:51:09 +0800"
+      "text": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
+      "link": "https://www.channelnewsasia.com/business/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-6268506",
+      "date": "Tue, 21 Jul 2026 22:19:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Searching for closure: Venezuela families refuse to give up after quakes",
+      "link": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 14:08:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+      "link": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 14:06:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England&#039;s Bethell to miss The Hundred with knee injury",
+      "link": "https://www.channelnewsasia.com/sport/englands-bethell-miss-hundred-knee-injury-6268466",
+      "date": "Tue, 21 Jul 2026 21:55:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'France wants to lead the way' with under-15s social media ban",
+      "link": "https://www.france24.com/en/france-wants-to-lead-the-way-with-under-15s-social-media-ban",
+      "date": "Tue, 21 Jul 2026 13:47:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alphabet&#039;s Gemini delay, spending worries loom over earnings",
+      "link": "https://www.channelnewsasia.com/business/alphabets-gemini-delay-spending-worries-loom-over-earnings-6268446",
+      "date": "Tue, 21 Jul 2026 21:45:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
+      "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 13:43:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What does a heatwave cost?",
+      "link": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 13:42:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "PGA Tour and DP World Tour announce partnership with Asian Tour",
+      "link": "https://www.channelnewsasia.com/sport/pga-tour-and-dp-world-tour-announce-partnership-asian-tour-6268436",
+      "date": "Tue, 21 Jul 2026 21:42:08 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What the UK's new government says about the country's political turn",
+      "link": "https://www.france24.com/en/what-the-uk-s-new-government-says-about-the-country-s-political-turn",
+      "date": "Tue, 21 Jul 2026 13:41:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel and Lebanon trial 'safe zones' in southern Lebanon as part of deal",
+      "link": "https://www.france24.com/en/israel-and-lebanon-trial-safe-zones-in-southern-lebanon-as-part-of-deal",
+      "date": "Tue, 21 Jul 2026 13:38:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tesla expands robotaxi service to Orlando, Tampa ahead of earnings",
+      "link": "https://www.channelnewsasia.com/business/tesla-expands-robotaxi-service-orlando-tampa-ahead-earnings-6268426",
+      "date": "Tue, 21 Jul 2026 21:37:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Clashes between police and people protesting Italy arrest death",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 13:36:46 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "link": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "date": "Tue, 21 Jul 2026 13:33:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+      "link": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+      "date": "Tue, 21 Jul 2026 13:32:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "BofA enhances AI-powered tool to resolve client needs faster",
+      "link": "https://www.channelnewsasia.com/business/bofa-enhances-ai-powered-tool-resolve-client-needs-faster-6268341",
+      "date": "Tue, 21 Jul 2026 21:13:39 +0800"
     },
     {
       "src": "BBC World",
@@ -31,67 +206,11 @@
       "date": "Tue, 21 Jul 2026 12:48:37 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Google connects new transatlantic cable between Portugal and the US",
-      "link": "https://www.channelnewsasia.com/business/google-connects-new-transatlantic-cable-between-portugal-and-us-6268291",
-      "date": "Tue, 21 Jul 2026 20:48:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "IEA says Mideast fighting increases energy concerns",
-      "link": "https://www.channelnewsasia.com/world/iea-says-mideast-fighting-increases-energy-concerns-6268261",
-      "date": "Tue, 21 Jul 2026 20:42:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hungary prosecutors raid data servers of Viktor Orban's Fidesz, party says",
-      "link": "https://www.france24.com/en/europe/20260721-hungary-prosecutors-raid-data-servers-of-viktor-orban-s-fidesz-party-says",
-      "date": "Tue, 21 Jul 2026 12:38:43 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war: Look beyond stocks to understand state of economy, experts say",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 12:34:05 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Row escalates in Ukraine over army chief's future",
       "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 21 Jul 2026 12:33:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Microsoft to fund Mistral&#039;s European AI expansion in multibillion-dollar deal",
-      "link": "https://www.channelnewsasia.com/business/microsoft-fund-mistrals-european-ai-expansion-in-multibillion-dollar-deal-6268256",
-      "date": "Tue, 21 Jul 2026 20:32:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore warns technology becoming &#039;actor in its own right&#039; as AI reshapes military operations",
-      "link": "https://www.channelnewsasia.com/singapore/digital-defence-symposium-technology-tool-actor-agentic-ai-6267791",
-      "date": "Tue, 21 Jul 2026 20:15:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says",
-      "link": "https://www.channelnewsasia.com/business/ai-could-lift-sub-saharan-africa-economy-4-if-power-internet-improve-imf-says-6268206",
-      "date": "Tue, 21 Jul 2026 20:05:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How a 64-team World Cup could transform football’s economics",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 12:03:39 +0000"
     },
     {
       "src": "BBC World",
@@ -101,116 +220,11 @@
       "date": "Tue, 21 Jul 2026 12:02:47 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Advanced chipmaking tool arrives at New York state innovation hub",
-      "link": "https://www.channelnewsasia.com/business/advanced-chipmaking-tool-arrives-new-york-state-innovation-hub-6268201",
-      "date": "Tue, 21 Jul 2026 20:01:48 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UN says 144 migrants and refugees reported dead or missing off the coast of Mauritania",
-      "link": "https://www.france24.com/en/africa/20260721-un-says-144-migrants-and-refugees-reported-dead-or-missing-off-the-coast-of-mauritania",
-      "date": "Tue, 21 Jul 2026 12:01:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India’s ‘cockroach’ protest movement halts marches after police violence",
-      "link": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 11:51:37 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "First Nations groups devastated by Canada’s wildfires say government did not help",
-      "link": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-      "date": "Tue, 21 Jul 2026 11:45:30 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump prepares fresh tariffs on dozens of countries: Report",
-      "link": "https://www.channelnewsasia.com/world/donald-trump-preparing-fresh-tariffs-many-countries-6268001",
-      "date": "Tue, 21 Jul 2026 19:45:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 21 Jul 2026 11:42:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hunger is falling but is still higher than pre-COVID levels: UN report",
-      "link": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 11:32:47 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DRC president agrees to open national dialogue amid mounting political pressure",
-      "link": "https://www.france24.com/en/video/20260721-drc-president-tshisekedi-agrees-to-open-national-dialogue-amid-mounting-political-pressure",
-      "date": "Tue, 21 Jul 2026 11:30:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hamas’s new leader must bridge a movement divided over Iran",
-      "link": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 11:24:05 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴Middle East live: Kuwait accuses Iran of again attacking critical power and desalination plants",
-      "link": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
-      "date": "Tue, 21 Jul 2026 11:13:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Won’t back down’: Indian student protesters return after police crackdown",
-      "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 11:11:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
-      "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 11:10:02 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'A lot of aspirations, a lot of priorities, but already criticism' for new UK government",
-      "link": "https://www.france24.com/en/a-lot-of-aspirations-a-lot-of-priorities-but-already-criticism-for-new-uk-government",
-      "date": "Tue, 21 Jul 2026 11:06:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bologna's protesters call for accountability after man dies during police arrest",
-      "link": "https://www.france24.com/en/bologna-s-protesters-call-for-accountability-after-man-dies-during-police-arrest",
-      "date": "Tue, 21 Jul 2026 11:00:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France could become first EU country to ban social media for under-15s",
-      "link": "https://www.france24.com/en/france-could-become-first-eu-country-to-ban-social-media-for-under-15s",
-      "date": "Tue, 21 Jul 2026 10:56:05 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -232,13 +246,6 @@
       "text": "At least 10 dead in India tunnel disaster with 17 feared trapped",
       "link": "https://news.sky.com/story/at-least-10-dead-in-india-tunnel-disaster-with-17-feared-trapped-13565561",
       "date": "Tue, 21 Jul 2026 11:30:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Arizona’s primary elections: Which US races to watch and why they matter",
-      "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss",
-      "date": "Tue, 21 Jul 2026 10:28:16 +0000"
     },
     {
       "src": "Sky News",
@@ -274,13 +281,6 @@
       "text": "The Western Myth of Russian Greatness",
       "link": "https://foreignpolicy.com/2026/07/21/russia-myths-great-power-putin-war-ukraine/",
       "date": "Tue, 21 Jul 2026 09:33:02 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "India's 'cockroach' protest continues a day after police crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 21 Jul 2026 08:44:43 GMT"
     },
     {
       "src": "RFI",
@@ -320,7 +320,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says",
+      "text": "New defence secretary hits out at Russia after live-fire exercise 40 miles off UK coast",
       "link": "https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289",
       "date": "Tue, 21 Jul 2026 06:10:00 +0100"
     },
@@ -337,13 +337,6 @@
       "text": "Armenian Democracy Faces a Threat From Within",
       "link": "https://foreignpolicy.com/2026/07/21/armenian-election-democracy-opposition/",
       "date": "Tue, 21 Jul 2026 04:01:17 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-      "date": "Tue, 21 Jul 2026 02:29:47 GMT"
     },
     {
       "src": "BBC World",
@@ -400,55 +393,6 @@
       "text": "Hungary PM proposes former chess champion Judit Polgar for president",
       "link": "https://www.rfi.fr/en/international/20260720-hungary-pm-proposes-former-chess-champion-judit-polgar-for-president",
       "date": "Mon, 20 Jul 2026 12:33:35 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From the General Assembly to Harlem: Mandela’s call to action endures",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167981",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Health response brings lifesaving care closer to thousands in Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167982",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167980",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: Civilians again under fire as US-Iran strikes continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167979",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167978",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Moon Day focuses growing concerns around space junk",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
-      "date": "Mon, 20 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
