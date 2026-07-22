@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-22T17:45:38.141Z",
-  "count": 56,
+  "updated": "2026-07-22T18:53:45.017Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "France records over 5,700 excess deaths in June heatwave",
+      "link": "https://www.channelnewsasia.com/world/france-heatwave-deaths-record-june-6271701",
+      "date": "Thu, 23 Jul 2026 02:45:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+      "link": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 18:43:51 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Argentina football association denies reports Tapia summoned by US courts",
+      "link": "https://www.channelnewsasia.com/sport/argentina-football-association-denies-reports-tapia-summoned-us-courts-6271741",
+      "date": "Thu, 23 Jul 2026 02:41:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Death toll from blast at Indian hydroelectric project rises to 20 people",
+      "link": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 18:40:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Teen plaintiff suing Meta over mental health harms drops his claims against company days before trial",
+      "link": "https://www.channelnewsasia.com/business/teen-plaintiff-suing-meta-over-mental-health-harms-drops-his-claims-against-company-days-trial-6271736",
+      "date": "Thu, 23 Jul 2026 02:38:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why the US may stop collecting workplace race and gender data",
+      "link": "https://www.aljazeera.com/economy/2026/7/22/why-the-us-may-stop-collecting-workplace-race-and-gender-data?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 18:36:39 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vozinha, Haaland named in fan-voted World Cup dream team",
+      "link": "https://www.channelnewsasia.com/sport/vozinha-haaland-named-in-fan-voted-world-cup-dream-team-6271691",
+      "date": "Thu, 23 Jul 2026 02:12:44 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump threatens Iran bridges, power as payback for Hormuz attacks",
+      "link": "https://www.channelnewsasia.com/world/trump-threatens-iran-bridges-power-payback-hormuz-attacks-6271671",
+      "date": "Thu, 23 Jul 2026 02:03:09 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 18:00:52 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 22 Jul 2026 17:54:57 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -15,6 +85,13 @@
       "text": "Philipsen relieved after &#039;rollercoaster of emotions&#039;",
       "link": "https://www.channelnewsasia.com/sport/philipsen-relieved-after-rollercoaster-emotions-6271666",
       "date": "Thu, 23 Jul 2026 01:33:10 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump’s Epic Fury Can’t Resolve His Iran Quagmire",
+      "link": "https://foreignpolicy.com/2026/07/22/trump-epic-fury-iran-war-hormuz-oil-energy-price/",
+      "date": "Wed, 22 Jul 2026 17:25:55 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -36,6 +113,20 @@
       "text": "Chinese AI&#039;s role in stopping rogue OpenAI agent shows cost of US guardrails",
       "link": "https://www.channelnewsasia.com/business/chinese-ais-role-in-stopping-rogue-openai-agent-shows-cost-us-guardrails-6271641",
       "date": "Thu, 23 Jul 2026 01:16:47 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French modelling scout linked to Epstein found dead",
+      "link": "https://www.france24.com/en/french-modelling-scout-linked-to-epstein-found-dead",
+      "date": "Wed, 22 Jul 2026 17:13:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Exclusive: In Kobane, Syria's Kurdish-majority city, postwar integration processes get underway",
+      "link": "https://www.france24.com/en/exclusive-in-kobane-syria-s-kurdish-majority-city-postwar-integration-processes-get-underway",
+      "date": "Wed, 22 Jul 2026 17:07:04 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -66,32 +157,25 @@
       "date": "Wed, 22 Jul 2026 16:34:35 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 16:34:24 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Drug gang threats force French police to put southern mayor under protection",
+      "link": "https://www.france24.com/en/france/20260722-drug-gang-threats-french-mayor-police-whisked-from-his-home-at-night-dz-mafia-ales",
+      "date": "Wed, 22 Jul 2026 16:24:33 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mamdani backs off on pledge to arrest Netanyahu citing lack of authority",
-      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 22 Jul 2026 16:29:28 GMT"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Cockroach Janta Party' takes India by storm",
+      "link": "https://www.france24.com/en/video/20260722-cockroach-janta-party-takes-india-by-storm",
+      "date": "Wed, 22 Jul 2026 16:03:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Canada hope for &#039;hero&#039;s welcome&#039; at homecoming friendlies against Chile, Peru",
-      "link": "https://www.channelnewsasia.com/sport/canada-hope-heros-welcome-homecoming-friendlies-against-chile-peru-6271586",
-      "date": "Thu, 23 Jul 2026 00:19:48 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump set to expand power cost pledge on data centers",
-      "link": "https://www.channelnewsasia.com/business/trump-set-expand-power-cost-pledge-data-centers-6271551",
-      "date": "Thu, 23 Jul 2026 00:11:43 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's D-Day landing beaches could become a UNESCO World Heritage site in July",
+      "link": "https://www.france24.com/en/video/20260722-france-s-d-day-landing-beaches-could-become-a-unesco-world-heritage-site-in-july",
+      "date": "Wed, 22 Jul 2026 15:59:48 GMT"
     },
     {
       "src": "Sky News",
@@ -101,13 +185,6 @@
       "date": "Wed, 22 Jul 2026 16:55:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "War on Iran: Hegseth wants $70B more to keep fighting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:52:54 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
@@ -115,39 +192,25 @@
       "date": "Wed, 22 Jul 2026 15:50:17 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Proposed US-Saudi nuclear energy deal: What we know so far",
-      "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:46:56 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "#Gaza: #Mamdani urges government to arrest #Netanyahu if he visits #US",
+      "link": "https://www.france24.com/en/gaza-mamdani-urges-government-to-arrest-netanyahu-if-he-visits-us",
+      "date": "Wed, 22 Jul 2026 15:47:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Senate panel approves bill to crack down on Chinese vehicles",
-      "link": "https://www.channelnewsasia.com/business/us-senate-panel-approves-bill-crack-down-chinese-vehicles-6271506",
-      "date": "Wed, 22 Jul 2026 23:41:55 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Philipsen wins Tour de France 17th stage as Pogacar retains overall lead",
+      "link": "https://www.france24.com/en/sport/20260722-philipsen-wins-tour-de-france-17th-stage",
+      "date": "Wed, 22 Jul 2026 15:35:12 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philipsen sprints to victory in Tour de France stage 17, Pogacar retains overall lead",
-      "link": "https://www.channelnewsasia.com/sport/philipsen-sprints-victory-in-tour-de-france-stage-17-pogacar-retains-overall-lead-6271501",
-      "date": "Wed, 22 Jul 2026 23:39:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why are billionaires growing richer than ever?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/22/why-are-billionaires-growing-richer-than-ever?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:38:26 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UCI defends night-time anti-doping tests at Tour de France",
-      "link": "https://www.channelnewsasia.com/sport/uci-defends-night-time-anti-doping-tests-tour-de-france-6271496",
-      "date": "Wed, 22 Jul 2026 23:38:17 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Who is Mikhailo Drapaty, Ukraine's new commander-in-chief?",
+      "link": "https://www.france24.com/en/who-is-mikhailo-drapaty-ukraine-s-new-commander-in-chief",
+      "date": "Wed, 22 Jul 2026 15:21:46 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -316,13 +379,6 @@
       "text": "Israel’s Weapons Makers Have a Marketing Problem",
       "link": "https://foreignpolicy.com/2026/07/21/israel-weapons-defense-industry-drones-missiles-eurosatory-arms-show/",
       "date": "Tue, 21 Jul 2026 19:10:22 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Iran Expert Trump Fired",
-      "link": "https://foreignpolicy.com/2026/07/21/nate-swanson-iran-war-mou-memorandum-understanding/",
-      "date": "Tue, 21 Jul 2026 18:04:12 +0000"
     },
     {
       "src": "The Guardian",
