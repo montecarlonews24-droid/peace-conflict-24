@@ -1,27 +1,104 @@
 {
-  "updated": "2026-07-22T16:12:38.201Z",
-  "count": 72,
+  "updated": "2026-07-22T17:45:38.141Z",
+  "count": 56,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Cockroach Janta Party' takes India by storm",
-      "link": "https://www.france24.com/en/video/20260722-cockroach-janta-party-takes-india-by-storm",
-      "date": "Wed, 22 Jul 2026 16:03:25 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Anonymous food donations reach Indian student protesters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/anonymous-food-donations-reach-indian-student-protesters?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 17:35:37 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's D-Day landing beaches could become a UNESCO World Heritage site in July",
-      "link": "https://www.france24.com/en/video/20260722-france-s-d-day-landing-beaches-could-become-a-unesco-world-heritage-site-in-july",
-      "date": "Wed, 22 Jul 2026 15:59:48 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Philipsen relieved after &#039;rollercoaster of emotions&#039;",
+      "link": "https://www.channelnewsasia.com/sport/philipsen-relieved-after-rollercoaster-emotions-6271666",
+      "date": "Thu, 23 Jul 2026 01:33:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
+      "link": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 17:18:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump attends return of US soldiers killed in Iran war",
+      "link": "https://www.channelnewsasia.com/world/trump-us-soldiers-killed-iran-war-ceremony-6271556",
+      "date": "Thu, 23 Jul 2026 01:16:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinese AI&#039;s role in stopping rogue OpenAI agent shows cost of US guardrails",
+      "link": "https://www.channelnewsasia.com/business/chinese-ais-role-in-stopping-rogue-openai-agent-shows-cost-us-guardrails-6271641",
+      "date": "Thu, 23 Jul 2026 01:16:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 17:02:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+      "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 16:35:33 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "link": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "date": "Wed, 22 Jul 2026 16:35:02 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "French police formally investigate woman over 2025 killing of Briton",
-      "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 22 Jul 2026 15:59:03 GMT"
+      "text": "Two Russians handed down jail terms for terrorism and spying in Angola",
+      "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 22 Jul 2026 16:34:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 16:34:24 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mamdani backs off on pledge to arrest Netanyahu citing lack of authority",
+      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 22 Jul 2026 16:29:28 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Canada hope for &#039;hero&#039;s welcome&#039; at homecoming friendlies against Chile, Peru",
+      "link": "https://www.channelnewsasia.com/sport/canada-hope-heros-welcome-homecoming-friendlies-against-chile-peru-6271586",
+      "date": "Thu, 23 Jul 2026 00:19:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump set to expand power cost pledge on data centers",
+      "link": "https://www.channelnewsasia.com/business/trump-set-expand-power-cost-pledge-data-centers-6271551",
+      "date": "Thu, 23 Jul 2026 00:11:43 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Remains of 22 more infants found at former mother and baby home",
+      "link": "https://news.sky.com/story/remains-of-22-more-infants-found-at-former-st-marys-mother-and-baby-home-in-tuam-ireland-13566056",
+      "date": "Wed, 22 Jul 2026 16:55:00 +0100"
     },
     {
       "src": "Al Jazeera",
@@ -36,13 +113,6 @@
       "text": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
       "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 22 Jul 2026 15:50:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "#Gaza: #Mamdani urges government to arrest #Netanyahu if he visits #US",
-      "link": "https://www.france24.com/en/gaza-mamdani-urges-government-to-arrest-netanyahu-if-he-visits-us",
-      "date": "Wed, 22 Jul 2026 15:47:40 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -80,104 +150,6 @@
       "date": "Wed, 22 Jul 2026 23:38:17 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "From towns to zones: Why Israel gives military names to civilian areas",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/from-towns-to-zones-why-israel-gives-military-names-to-civilian-areas?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:36:51 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Philipsen wins Tour de France 17th stage as Pogacar retains overall lead",
-      "link": "https://www.france24.com/en/sport/20260722-philipsen-wins-tour-de-france-17th-stage",
-      "date": "Wed, 22 Jul 2026 15:35:12 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Elon and the Other Gaza",
-      "link": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:30:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:24:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
-      "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:23:56 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Who is Mikhailo Drapaty, Ukraine's new commander-in-chief?",
-      "link": "https://www.france24.com/en/who-is-mikhailo-drapaty-ukraine-s-new-commander-in-chief",
-      "date": "Wed, 22 Jul 2026 15:21:46 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Italian unions agree workers&#039; rights deal with Amazon",
-      "link": "https://www.channelnewsasia.com/business/italian-unions-agree-workers-rights-deal-amazon-6271466",
-      "date": "Wed, 22 Jul 2026 23:21:21 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 22 Jul 2026 15:19:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Uber, Lyft win court block on NYC law requiring notice before firing drivers",
-      "link": "https://www.channelnewsasia.com/business/uber-lyft-win-court-block-nyc-law-requiring-notice-firing-drivers-6271461",
-      "date": "Wed, 22 Jul 2026 23:16:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar dips after four-day streak of gains, yen holds near 40-year low",
-      "link": "https://www.channelnewsasia.com/business/dollar-dips-after-four-day-streak-gains-yen-holds-near-40-year-low-6269471",
-      "date": "Wed, 22 Jul 2026 23:15:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ukraine hits more warehouses of Russia&#039;s top online retailer Wildberries",
-      "link": "https://www.channelnewsasia.com/world/ukraine-hits-more-warehouses-russias-top-online-retailer-wildberries-6270531",
-      "date": "Wed, 22 Jul 2026 23:15:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "French model recruiter with close ties to Jeffrey Epstein found dead",
-      "link": "https://www.aljazeera.com/news/2026/7/22/french-model-recruiter-with-close-ties-to-jeffrey-epstein-found-dead?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 15:12:32 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "link": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "date": "Wed, 22 Jul 2026 15:11:31 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Southern Co unit signs 25-year power deal with OpenAI",
-      "link": "https://www.channelnewsasia.com/business/southern-co-unit-signs-25-year-power-deal-openai-6271446",
-      "date": "Wed, 22 Jul 2026 23:06:17 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Yemen’s Unsteady Stalemate",
@@ -199,13 +171,6 @@
       "date": "Wed, 22 Jul 2026 14:49:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Unprecedented': France records 5,764 excess deaths during June-July heatwave period",
-      "link": "https://www.france24.com/en/france/20260722-unprecedented-france-records-5764-excess-deaths-during-june-july-heatwave-period",
-      "date": "Wed, 22 Jul 2026 14:44:08 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Tankers make sharp U-turns after Houthi shipping threat",
@@ -213,11 +178,11 @@
       "date": "Wed, 22 Jul 2026 14:42:49 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Macron refuses environment minister's resignation over pesticide law",
-      "link": "https://www.france24.com/en/france-macron-refuses-environment-minister-s-resignation-over-pesticide-law",
-      "date": "Wed, 22 Jul 2026 14:31:13 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "US trial date set for Venezuela's ousted president Maduro",
+      "link": "https://news.sky.com/story/us-trial-date-set-for-venezuelas-ousted-president-nicolas-maduro-over-drugs-trafficking-charges-13566011",
+      "date": "Wed, 22 Jul 2026 15:42:00 +0100"
     },
     {
       "src": "BBC World",
@@ -225,13 +190,6 @@
       "text": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
       "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 22 Jul 2026 14:14:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US to announce landmark deal allowing Saudis to enrich nuclear fuel, reports say",
-      "link": "https://www.france24.com/en/middle-east/20260722-us-announce-landmark-deal-allowing-saudis-enrich-nuclear-fuel-reports-say",
-      "date": "Wed, 22 Jul 2026 14:11:16 GMT"
     },
     {
       "src": "The Guardian",
@@ -253,41 +211,6 @@
       "text": "Saudi nuclear deal set to bypass IAEA's toughest inspections regime",
       "link": "https://www.rfi.fr/en/international/20260722-saudi-nuclear-deal-set-to-bypass-iaea-s-toughest-inspections-regime",
       "date": "Wed, 22 Jul 2026 12:46:17 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167996",
-      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167995",
-      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167994",
-      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Critical minerals: The hidden resources powering the clean energy future",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
-      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Mass mid-air brawl forces easyJet plane to return to Tenerife",
-      "link": "https://news.sky.com/story/mass-mid-air-brawl-forces-easyjet-plane-to-return-to-tenerife-13565938",
-      "date": "Wed, 22 Jul 2026 12:52:00 +0100"
     },
     {
       "src": "Sky News",
@@ -402,34 +325,6 @@
       "date": "Tue, 21 Jul 2026 18:04:12 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167992",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1167989",
-      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -449,13 +344,6 @@
       "text": "France and Germany move to tackle EU’s growing trade deficit with China",
       "link": "https://www.rfi.fr/en/international/20260721-france-and-germany-move-to-tackle-eu-s-growing-trade-deficit-with-china",
       "date": "Tue, 21 Jul 2026 06:08:04 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "New defence secretary hits out at Russia after live-fire exercise 40 miles off UK coast",
-      "link": "https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289",
-      "date": "Tue, 21 Jul 2026 06:10:00 +0100"
     },
     {
       "src": "RFI",
