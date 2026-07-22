@@ -1058,22 +1058,6 @@ CONFLICT
           </button>
         </div>
 
-        <!-- Free vs Premium comparison -->
-        <div style="background:rgba(17,28,51,.6);border:1px solid var(--border);border-radius:14px;padding:14px;margin-bottom:12px">
-          <div style="font-family:var(--font-mono);font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px">Free vs Premium</div>
-          <div style="display:grid;grid-template-columns:1fr auto auto;gap:6px;font-size:11px;align-items:center">
-            <div style="color:var(--muted)">Feature</div>
-            <div style="text-align:center;color:var(--muted);font-family:var(--font-mono);font-size:9px">FREE</div>
-            <div style="text-align:center;color:var(--amber);font-family:var(--font-mono);font-size:9px">PRO</div>
-            <div>Live world map</div><div style="text-align:center">✓</div><div style="text-align:center;color:var(--green)">✓</div>
-            <div>News ticker</div><div style="text-align:center">✓</div><div style="text-align:center;color:var(--green)">✓</div>
-            <div>AI Conflict Analyst</div><div style="text-align:center;color:var(--red)">✗</div><div style="text-align:center;color:var(--green)">✓</div>
-            <div>Escalation alerts</div><div style="text-align:center;color:var(--red)">✗</div><div style="text-align:center;color:var(--green)">✓</div>
-            <div>Private rooms</div><div style="text-align:center;color:var(--red)">✗</div><div style="text-align:center;color:var(--green)">✓</div>
-            <div>Daily briefings</div><div style="text-align:center;color:var(--red)">✗</div><div style="text-align:center;color:var(--green)">✓</div>
-          </div>
-        </div>
-
         <!-- Trust badges -->
         <div style="display:flex;justify-content:center;gap:16px;padding:8px 0 4px;flex-wrap:wrap">
           <div style="font-family:var(--font-mono);font-size:9px;color:var(--muted);display:flex;align-items:center;gap:4px">🔒 Secure payment</div>
@@ -5027,7 +5011,7 @@ async function generatePDFReport() {
 <head>
 <meta charset="UTF-8">
 <title>Peace & Conflict 24 — Intelligence Report ${date}</title>
-<style>
+<sty"+"le>
   body{font-family:Arial,sans-serif;color:#1a1a2e;margin:0;padding:20px;background:#fff}
   .header{background:linear-gradient(135deg,#0d1929,#1a2d4a);color:#fff;padding:20px;border-radius:8px;margin-bottom:20px}
   .header h1{margin:0;font-size:22px;color:#fca311}
@@ -5050,7 +5034,7 @@ async function generatePDFReport() {
   .badge-yellow{background:#fffde0;color:#880}
 <\/style>
 
-  <script>
+  <scr"+"ipt>
     // SW disabled
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.getRegistrations().then(regs => {
