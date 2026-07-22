@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-22T22:50:40.369Z",
-  "count": 56,
+  "updated": "2026-07-22T23:52:24.384Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Why Bandung is the world&#039;s best-kept secret for handmade boots – and the brands to know",
+      "link": "https://www.channelnewsasia.com/style-beauty/bandung-indonesia-handmade-boots-6226486",
+      "date": "Thu, 23 Jul 2026 07:28:40 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US signs landmark nuclear deal with Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 22 Jul 2026 23:21:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea economy expands 0.6% q/q in Q2, better than expected",
+      "link": "https://www.channelnewsasia.com/business/south-korea-economy-expands-06-qq-in-q2-better-expected-6272141",
+      "date": "Thu, 23 Jul 2026 07:21:03 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 22 Jul 2026 23:06:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "ServiceNow buys 5% of BusinessNext, values Indian software firm at $700 million",
+      "link": "https://www.channelnewsasia.com/business/servicenow-buys-5-businessnext-values-indian-software-firm-700-million-6272116",
+      "date": "Thu, 23 Jul 2026 07:04:16 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Austrian home where Hitler was born reopened as police station",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 22:30:44 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainians welcome new army chief but seek return of fired defence minister",
+      "link": "https://www.france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister",
+      "date": "Wed, 22 Jul 2026 22:27:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+      "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+      "date": "Wed, 22 Jul 2026 22:26:14 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -73,34 +129,6 @@
       "date": "Wed, 22 Jul 2026 21:36:37 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Arsenal defender Saliba out for extended period, says club",
-      "link": "https://www.channelnewsasia.com/sport/arsenal-defender-saliba-out-extended-period-says-club-6272001",
-      "date": "Thu, 23 Jul 2026 05:36:31 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US announces civilian nuclear deal with Saudi Arabia",
-      "link": "https://www.channelnewsasia.com/world/us-saudi-arabia-civilian-nuclear-deal-6271976",
-      "date": "Thu, 23 Jul 2026 05:34:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Amanzoe: The Greek resort where architecture, art and landscape come together",
-      "link": "https://www.channelnewsasia.com/remarkable-living/amanzoe-greece-luxury-resort-6264576",
-      "date": "Thu, 23 Jul 2026 05:34:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US signs landmark nuclear deal with Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 22 Jul 2026 21:31:25 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US and Saudi Arabia announce nuclear cooperation deal",
@@ -113,6 +141,27 @@
       "text": "Trump Approves Nuclear Deal With Saudi Arabia",
       "link": "https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/",
       "date": "Wed, 22 Jul 2026 21:25:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump threatens Iranian infrastructure over Strait of Hormuz attacks",
+      "link": "https://www.france24.com/en/middle-east/20260722-trump-threatens-iranian-infrastructure-over-strait-of-hormuz-attacks",
+      "date": "Wed, 22 Jul 2026 21:23:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France recorded 5,700 more deaths than usual during its historic June heat wave",
+      "link": "https://www.france24.com/en/france-recorded-5-700-more-deaths-than-usual-during-its-historic-june-heat-wave",
+      "date": "Wed, 22 Jul 2026 21:20:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US announces nuclear cooperation pact with Saudi Arabia",
+      "link": "https://www.france24.com/en/us-announces-nuclear-cooperation-pact-with-saudi-arabia",
+      "date": "Wed, 22 Jul 2026 21:18:53 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -129,18 +178,11 @@
       "date": "Wed, 22 Jul 2026 20:56:26 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US regulators to weigh controversial peptides backed by RFK Jr",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 20:39:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-      "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
-      "date": "Wed, 22 Jul 2026 20:34:56 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Congo's Ebola outbreak has killed over 1,000 people",
+      "link": "https://www.france24.com/en/congo-s-ebola-outbreak-has-killed-over-1-000-people",
+      "date": "Wed, 22 Jul 2026 20:41:23 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -150,11 +192,32 @@
       "date": "Wed, 22 Jul 2026 19:51:13 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Mykhailo Fedorov was fired for his successes in fighting corruption in the defense sector'",
+      "link": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
+      "date": "Wed, 22 Jul 2026 19:45:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
+      "link": "https://www.france24.com/en/video/20260722-sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t-done-anything-by-now-1",
+      "date": "Wed, 22 Jul 2026 19:33:44 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "India’s Cockroach Movement Delivers a Blow to the BJP",
       "link": "https://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-youth-modi-bjp-education/",
       "date": "Wed, 22 Jul 2026 19:30:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Exclusive: In Syria's Kurdish-majority city Kobane, postwar integration efforts get under way",
+      "link": "https://www.france24.com/en/middle-east/20260722-exclusive-syria-kurdish-majority-city-kobane-postwar-integration-efforts-get-under-way",
+      "date": "Wed, 22 Jul 2026 19:07:23 GMT"
     },
     {
       "src": "Sky News",
@@ -183,13 +246,6 @@
       "text": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
       "link": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
       "date": "Wed, 22 Jul 2026 16:35:02 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 22 Jul 2026 16:34:35 GMT"
     },
     {
       "src": "Sky News",
@@ -262,6 +318,55 @@
       "date": "Wed, 22 Jul 2026 12:46:17 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Thousands prevented from returning home to southern Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168003",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168000",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Nicaragua continues to weaken political freedoms, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167999",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167996",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167995",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167994",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Critical minerals: The hidden resources powering the clean energy future",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Modelling scout linked to Epstein found dead at Paris home",
@@ -323,6 +428,13 @@
       "text": "France approves blanket social media ban for under-15s",
       "link": "https://news.sky.com/story/france-approves-blanket-social-media-ban-for-under-15s-13565790",
       "date": "Tue, 21 Jul 2026 20:53:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
+      "date": "Tue, 21 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
