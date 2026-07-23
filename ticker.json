@@ -1,13 +1,118 @@
 {
-  "updated": "2026-07-23T20:48:50.327Z",
-  "count": 63,
+  "updated": "2026-07-23T21:54:07.760Z",
+  "count": 71,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+      "link": "https://www.channelnewsasia.com/business/nvidia-amkor-strike-15-billion-chip-packaging-deal-6274746",
+      "date": "Fri, 24 Jul 2026 05:45:55 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US unveils new tariffs on 60 partners as Trump rebuilds trade agenda",
+      "link": "https://www.channelnewsasia.com/world/us-unveils-new-tariffs-60-partners-trump-rebuilds-trade-agenda-6274721",
+      "date": "Fri, 24 Jul 2026 05:45:05 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump announces double digit tariffs on 60 countries over forced labour concerns",
+      "link": "https://www.france24.com/en/americas/20260723-trump-announces-double-digit-tariffs-on-60-countries-over-forced-labour-concerns",
+      "date": "Thu, 23 Jul 2026 21:27:16 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "India activist ends hunger strike after 26 days",
       "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 23 Jul 2026 20:31:40 GMT"
+      "date": "Thu, 23 Jul 2026 21:27:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Where to book a National Day staycation in Singapore for the SG61 long weekend",
+      "link": "https://www.channelnewsasia.com/experiences/national-day-staycations-singapore-sg61-6269216",
+      "date": "Fri, 24 Jul 2026 05:19:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rally attendee steals the show by mimicking Trump’s gestures",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 21:08:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "France wildfires force evacuation of over 20,000 people from tourist town",
+      "link": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 21:07:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Videos show the moment police officer shoots man on street in Wisconsin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 21:04:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trading Day: Burn, baby, burn",
+      "link": "https://www.channelnewsasia.com/business/trading-day-burn-baby-burn-6274676",
+      "date": "Fri, 24 Jul 2026 05:02:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ukraine&#039;s ousted defence minister pushes for return",
+      "link": "https://www.channelnewsasia.com/world/ukraine-defence-minister-fedorov-zelesnkyy-6274641",
+      "date": "Fri, 24 Jul 2026 05:02:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "White House says will not block Tate brothers’ extradition to UK",
+      "link": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 21:02:16 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pentagon awards Oracle nearly $7 billion deal in latest software consolidation push",
+      "link": "https://www.channelnewsasia.com/business/pentagon-awards-oracle-nearly-7-billion-deal-in-latest-software-consolidation-push-6274661",
+      "date": "Fri, 24 Jul 2026 05:01:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Digital Realty raises annual FFO forecast on robust data center demand",
+      "link": "https://www.channelnewsasia.com/business/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-6274666",
+      "date": "Fri, 24 Jul 2026 04:59:31 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadly monsoon floods kill at least 40 in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 20:56:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US government cancels subpoena against three New York Times reporters",
+      "link": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 20:46:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Sudan war is putting cancer patients at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 20:46:14 +0000"
     },
     {
       "src": "France 24",
@@ -33,8 +138,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom",
-      "link": "https://www.channelnewsasia.com/business/intel-sales-profit-forecast-beat-estimates-company-boosts-spending-plans-ai-boom-6274591",
+      "text": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
+      "link": "https://www.channelnewsasia.com/business/intel-forecast-crushes-estimates-ai-boom-boosts-chip-demand-shares-jump-6274591",
       "date": "Fri, 24 Jul 2026 04:03:21 +0800"
     },
     {
@@ -45,34 +150,6 @@
       "date": "Thu, 23 Jul 2026 19:58:34 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-      "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 19:50:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Journalist killed in Mexico after years of exposing corruption",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 19:40:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Landslide death toll rises to 11 in southwest China, 50 still missing",
-      "link": "https://www.channelnewsasia.com/world/china-landslide-deathtoll-chongqing-rescue-missing-6274541",
-      "date": "Fri, 24 Jul 2026 03:32:42 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
-      "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 19:28:24 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "France evacuates 20,000 as wildfires spread in south-west",
@@ -80,60 +157,11 @@
       "date": "Thu, 23 Jul 2026 19:17:42 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kalshi hits the back of the net with $27 billion FIFA World Cup windfall",
-      "link": "https://www.channelnewsasia.com/sport/kalshi-hits-back-net-27-billion-fifa-world-cup-windfall-6274546",
-      "date": "Fri, 24 Jul 2026 03:12:44 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can India’s youth-led protest movement bring lasting change?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 19:11:37 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
       "date": "Thu, 23 Jul 2026 19:07:05 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Children wounded in Israeli strike on Khan Younis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 18:55:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
-      "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 18:41:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump threatens Houthis with &#039;major military punishment&#039;",
-      "link": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
-      "date": "Fri, 24 Jul 2026 02:37:01 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-      "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 18:34:41 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
-      "link": "https://www.channelnewsasia.com/business/eric-trump-backed-foundation-partners-amd-develop-humanoid-robots-6274471",
-      "date": "Fri, 24 Jul 2026 02:32:41 +0800"
     },
     {
       "src": "France 24",
@@ -150,25 +178,11 @@
       "date": "Thu, 23 Jul 2026 18:20:31 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US House passes symbolic Iran war rebuke to Trump",
-      "link": "https://www.channelnewsasia.com/world/us-house-representatives-vote-iran-war-6274406",
-      "date": "Fri, 24 Jul 2026 02:18:25 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Saudis must recognise Israel for nuclear deal, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 23 Jul 2026 17:58:02 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "EU renews online child sex abuse detection powers",
-      "link": "https://www.channelnewsasia.com/world/child-sexual-abuse-online-chats-eu-6274411",
-      "date": "Fri, 24 Jul 2026 01:47:00 +0800"
     },
     {
       "src": "BBC World",
@@ -178,16 +192,9 @@
       "date": "Thu, 23 Jul 2026 17:37:59 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Barcelona&#039;s De Jong ruled out for weeks due to serious knee injury",
-      "link": "https://www.channelnewsasia.com/sport/barcelonas-de-jong-ruled-out-weeks-due-serious-knee-injury-6274381",
-      "date": "Fri, 24 Jul 2026 01:17:31 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
-      "text": "There’s Only One Way Out of Trump’s Reckless War",
+      "text": "There’s Only One Way Out of Trump���s Reckless War",
       "link": "https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
       "date": "Thu, 23 Jul 2026 17:09:50 +0000"
     },
@@ -255,13 +262,6 @@
       "date": "Thu, 23 Jul 2026 15:31:00 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France expected to name football legend Zinedine Zidane as Les Bleus' new coach",
-      "link": "https://www.france24.com/en/sport/20260723-france-expected-name-football-legend-zinedine-zidane-les-bleus-new-coach",
-      "date": "Thu, 23 Jul 2026 15:30:33 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Two Russian men jailed in Angola for terrorism and spying",
@@ -295,6 +295,55 @@
       "text": "25 dead in India tunnel disaster as more bodies recovered",
       "link": "https://news.sky.com/story/25-dead-in-india-tunnel-disaster-as-more-bodies-recovered-13566322",
       "date": "Thu, 23 Jul 2026 14:16:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Syria ‘not alone’ in locating missing persons, tackling displacement",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Iran urged to stop protest-related executions",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza’s food gains could unravel without sustained aid, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Satellites can now spot methane leaks in real time – but most go unfixed",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168007",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168005",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Stranded seafarers remain trapped as Hormuz shipping stalls",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168004",
+      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -379,6 +428,13 @@
       "text": "United States announces landmark civilian nuclear deal with Saudi Arabia",
       "link": "https://www.rfi.fr/en/international/20260722-saudi-nuclear-deal-set-to-bypass-iaea-s-toughest-inspections-regime",
       "date": "Wed, 22 Jul 2026 12:46:17 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Thousands prevented from returning home to southern Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168003",
+      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
