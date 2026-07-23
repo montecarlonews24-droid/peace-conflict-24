@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-23T19:52:49.192Z",
-  "count": 64,
+  "updated": "2026-07-23T20:48:50.327Z",
+  "count": 63,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "India activist ends hunger strike after 26 days",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 23 Jul 2026 20:31:40 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ghana needs laws to protect victims of witchcraft accusations",
+      "link": "https://www.france24.com/en/ghana-needs-laws-to-protect-victims-of-witchcraft-accusations",
+      "date": "Thu, 23 Jul 2026 20:27:14 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China Is AI-Maxxing",
+      "link": "https://foreignpolicy.com/2026/07/23/china-ai-race-moonshot-kimi-k3-alibaba-qwen-deepseek-openai-anthropic/",
+      "date": "Thu, 23 Jul 2026 20:12:47 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Odysseus at the End of Civilization",
+      "link": "https://foreignpolicy.com/2026/07/23/odyssey-civilization-collapse-history/",
+      "date": "Thu, 23 Jul 2026 20:05:45 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom",
+      "link": "https://www.channelnewsasia.com/business/intel-sales-profit-forecast-beat-estimates-company-boosts-spending-plans-ai-boom-6274591",
+      "date": "Fri, 24 Jul 2026 04:03:21 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+      "link": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 19:58:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+      "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 19:50:30 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -43,6 +92,13 @@
       "text": "Can India’s youth-led protest movement bring lasting change?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
       "date": "Thu, 23 Jul 2026 19:11:37 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
+      "date": "Thu, 23 Jul 2026 19:07:05 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -101,20 +157,6 @@
       "date": "Fri, 24 Jul 2026 02:18:25 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 18:14:16 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK’s Burnham tells Scotland new independence vote is off limits",
-      "link": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 18:07:09 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Saudis must recognise Israel for nuclear deal, says Trump",
@@ -124,9 +166,9 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "EU countries to restore interim measure on allowing Big Tech to fight online child pornography",
-      "link": "https://www.channelnewsasia.com/business/eu-countries-restore-interim-measure-allowing-big-tech-fight-online-child-pornography-6274411",
-      "date": "Fri, 24 Jul 2026 01:47:58 +0800"
+      "text": "EU renews online child sex abuse detection powers",
+      "link": "https://www.channelnewsasia.com/world/child-sexual-abuse-online-chats-eu-6274411",
+      "date": "Fri, 24 Jul 2026 01:47:00 +0800"
     },
     {
       "src": "BBC World",
@@ -141,13 +183,6 @@
       "text": "Barcelona&#039;s De Jong ruled out for weeks due to serious knee injury",
       "link": "https://www.channelnewsasia.com/sport/barcelonas-de-jong-ruled-out-weeks-due-serious-knee-injury-6274381",
       "date": "Fri, 24 Jul 2026 01:17:31 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israel says Saudi recognition would be &#039;historic&#039; for regional peace",
-      "link": "https://www.channelnewsasia.com/world/israel-saudi-arabia-us-nuclear-deal-netanyahu-6274316",
-      "date": "Fri, 24 Jul 2026 01:12:43 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -185,6 +220,13 @@
       "date": "Thu, 23 Jul 2026 16:32:53 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says Saudi nuclear deal contingent on Riyadh normalising relations with Israel",
+      "link": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+      "date": "Thu, 23 Jul 2026 16:31:14 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
@@ -218,34 +260,6 @@
       "text": "France expected to name football legend Zinedine Zidane as Les Bleus' new coach",
       "link": "https://www.france24.com/en/sport/20260723-france-expected-name-football-legend-zinedine-zidane-les-bleus-new-coach",
       "date": "Thu, 23 Jul 2026 15:30:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'A recipe for disaster': France's dry southwest struggles to contain wildfire",
-      "link": "https://www.france24.com/en/a-recipe-for-disaster-france-s-dry-southwest-struggles-to-contain-wildfire",
-      "date": "Thu, 23 Jul 2026 15:22:49 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 23 Jul 2026 15:22:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "After meeting with Moscow, Washington reiterates wish to mediate Ukraine war",
-      "link": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
-      "date": "Thu, 23 Jul 2026 14:58:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The Bayeux Tapestry in London: 'A diplomatic operation that almost never happened'",
-      "link": "https://www.france24.com/en/the-bayeux-tapestry-in-london-a-diplomatic-operation-that-almost-never-happened",
-      "date": "Thu, 23 Jul 2026 14:54:47 GMT"
     },
     {
       "src": "The Guardian",
@@ -316,20 +330,6 @@
       "text": "Trump Approves Nuclear Deal With Saudi Arabia",
       "link": "https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/",
       "date": "Wed, 22 Jul 2026 21:25:30 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Race to Contain the Fastest-Ever Ebola Outbreak",
-      "link": "https://foreignpolicy.com/2026/07/22/congo-ebola-outbreak-global-health-response-epidemic-who/",
-      "date": "Wed, 22 Jul 2026 19:51:13 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "India’s Cockroach Movement Delivers a Blow to the BJP",
-      "link": "https://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-youth-modi-bjp-education/",
-      "date": "Wed, 22 Jul 2026 19:30:55 +0000"
     },
     {
       "src": "Sky News",
@@ -435,13 +435,6 @@
       "text": "Turkey marks a decade since the coup that never was, but never really ended",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260720-turkey-marks-a-decade-since-the-coup-that-never-was-but-never-really-ended",
       "date": "Mon, 20 Jul 2026 10:40:54 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "UK considered suspending trade agreement with Israel",
-      "link": "https://news.sky.com/story/uk-considered-suspending-trade-agreement-with-israel-over-gaza-and-west-bank-actions-13565141",
-      "date": "Mon, 20 Jul 2026 08:32:00 +0100"
     },
     {
       "src": "The Guardian",
