@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-23T18:08:29.759Z",
-  "count": 56,
+  "updated": "2026-07-23T19:52:49.192Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Journalist killed in Mexico after years of exposing corruption",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 19:40:27 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Landslide death toll rises to 11 in southwest China, 50 still missing",
+      "link": "https://www.channelnewsasia.com/world/china-landslide-deathtoll-chongqing-rescue-missing-6274541",
+      "date": "Fri, 24 Jul 2026 03:32:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
+      "link": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 19:28:24 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "France evacuates 20,000 as wildfires spread in south-west",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 23 Jul 2026 19:17:42 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kalshi hits the back of the net with $27 billion FIFA World Cup windfall",
+      "link": "https://www.channelnewsasia.com/sport/kalshi-hits-back-net-27-billion-fifa-world-cup-windfall-6274546",
+      "date": "Fri, 24 Jul 2026 03:12:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can India’s youth-led protest movement bring lasting change?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 19:11:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Children wounded in Israeli strike on Khan Younis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 18:55:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+      "link": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 18:41:22 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump threatens Houthis with &#039;major military punishment&#039;",
+      "link": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
+      "date": "Fri, 24 Jul 2026 02:37:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+      "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 18:34:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
+      "link": "https://www.channelnewsasia.com/business/eric-trump-backed-foundation-partners-amd-develop-humanoid-robots-6274471",
+      "date": "Fri, 24 Jul 2026 02:32:41 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
+      "link": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+      "date": "Thu, 23 Jul 2026 18:24:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Reinstating Fedorov 'only right decision Zelensky can make', MP says",
+      "link": "https://www.france24.com/en/reinstating-fedorov-only-right-decision-zelensky-can-make-mp-says",
+      "date": "Thu, 23 Jul 2026 18:20:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US House passes symbolic Iran war rebuke to Trump",
+      "link": "https://www.channelnewsasia.com/world/us-house-representatives-vote-iran-war-6274406",
+      "date": "Fri, 24 Jul 2026 02:18:25 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 18:14:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK’s Burnham tells Scotland new independence vote is off limits",
+      "link": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss",
+      "date": "Thu, 23 Jul 2026 18:07:09 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -24,20 +136,6 @@
       "date": "Thu, 23 Jul 2026 17:37:59 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What are the security implications of the US-Saudi nuclear deal?",
-      "link": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 17:27:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-      "link": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 17:25:05 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Barcelona&#039;s De Jong ruled out for weeks due to serious knee injury",
@@ -52,46 +150,11 @@
       "date": "Fri, 24 Jul 2026 01:12:43 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Tour returns to Alpe d&#039;Huez with back-to-back summit stages",
-      "link": "https://www.channelnewsasia.com/sport/tour-returns-alpe-dhuez-back-back-summit-stages-6274366",
-      "date": "Fri, 24 Jul 2026 01:10:40 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "There’s Only One Way Out of Trump’s Reckless War",
       "link": "https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
       "date": "Thu, 23 Jul 2026 17:09:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-      "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 17:05:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A Game of Double Standards",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 17:02:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 16:58:58 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Modric, 40, extends Milan stay until 2027",
-      "link": "https://www.channelnewsasia.com/sport/modric-40-extends-milan-stay-until-2027-6274346",
-      "date": "Fri, 24 Jul 2026 00:58:29 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -101,11 +164,11 @@
       "date": "Thu, 23 Jul 2026 16:55:11 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 16:53:21 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why Iran is targeting Kuwait's desalination plants as part of its war strategy",
+      "link": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
+      "date": "Thu, 23 Jul 2026 16:53:18 GMT"
     },
     {
       "src": "BBC World",
@@ -113,27 +176,6 @@
       "text": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
       "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 23 Jul 2026 16:50:59 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France opposes EU approval of Tesla&#039;s FSD driver assistance software for now",
-      "link": "https://www.channelnewsasia.com/business/france-opposes-eu-approval-teslas-fsd-driver-assistance-software-now-6274311",
-      "date": "Fri, 24 Jul 2026 00:49:20 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 16:48:55 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "France evacuates 20,000 as wildfires spread in south-west",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 23 Jul 2026 16:41:52 GMT"
     },
     {
       "src": "The Guardian",
@@ -157,25 +199,11 @@
       "date": "Thu, 23 Jul 2026 16:17:45 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen faces a new challenge amid prospects of confrontation",
-      "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
-      "date": "Thu, 23 Jul 2026 16:17:44 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From Wallsend Boys Club to Man City&#039;s record signing, Anderson eyes next step",
-      "link": "https://www.channelnewsasia.com/sport/wallsend-boys-club-man-citys-record-signing-anderson-eyes-next-step-6274246",
-      "date": "Fri, 24 Jul 2026 00:07:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US and allies say Russian hackers stole emails without social engineering",
-      "link": "https://www.channelnewsasia.com/business/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering-6274226",
-      "date": "Thu, 23 Jul 2026 23:55:02 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ecuador’s Carapaz wins Tour de France stage 18, Pogacar loses key climbing teammate",
+      "link": "https://www.france24.com/en/sport/20260723-carapaz-climbs-unopposed-to-tour-de-france-18th-stage-win",
+      "date": "Thu, 23 Jul 2026 15:45:15 GMT"
     },
     {
       "src": "BBC World",
@@ -185,11 +213,39 @@
       "date": "Thu, 23 Jul 2026 15:31:00 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France expected to name football legend Zinedine Zidane as Les Bleus' new coach",
+      "link": "https://www.france24.com/en/sport/20260723-france-expected-name-football-legend-zinedine-zidane-les-bleus-new-coach",
+      "date": "Thu, 23 Jul 2026 15:30:33 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'A recipe for disaster': France's dry southwest struggles to contain wildfire",
+      "link": "https://www.france24.com/en/a-recipe-for-disaster-france-s-dry-southwest-struggles-to-contain-wildfire",
+      "date": "Thu, 23 Jul 2026 15:22:49 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
       "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 23 Jul 2026 15:22:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "After meeting with Moscow, Washington reiterates wish to mediate Ukraine war",
+      "link": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
+      "date": "Thu, 23 Jul 2026 14:58:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The Bayeux Tapestry in London: 'A diplomatic operation that almost never happened'",
+      "link": "https://www.france24.com/en/the-bayeux-tapestry-in-london-a-diplomatic-operation-that-almost-never-happened",
+      "date": "Thu, 23 Jul 2026 14:54:47 GMT"
     },
     {
       "src": "The Guardian",
