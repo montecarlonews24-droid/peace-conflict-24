@@ -1,13 +1,118 @@
 {
-  "updated": "2026-07-24T19:13:08.665Z",
-  "count": 72,
+  "updated": "2026-07-24T20:43:15.506Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "ICC top prosecutor removed over sexual misconduct allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 24 Jul 2026 20:39:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russia hits arms expo near Kyiv, kills 10: officials",
+      "link": "https://www.channelnewsasia.com/world/russia-kyiv-arms-expo-drone-attack-strike-6277196",
+      "date": "Sat, 25 Jul 2026 04:34:10 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ICC asked to look into xenophobic violence in South Africa",
+      "link": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
+      "date": "Fri, 24 Jul 2026 20:33:48 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Andy Burnham and the New Manchesterism",
+      "link": "https://foreignpolicy.com/2026/07/24/andy-burnham-britain-manchester-economics/",
+      "date": "Fri, 24 Jul 2026 20:33:39 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump vows to investigate EU over fining of US tech companies",
       "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 18:57:39 GMT"
+      "date": "Fri, 24 Jul 2026 20:23:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 20:22:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 20:18:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Wildfire survivors tell of narrow escape as Spain declares emergency",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/wildfire-survivors-tell-of-narrow-escape-as-spain-declares-emergency?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 20:03:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US appeals court blocks part of Texas children&#039;s online safety law",
+      "link": "https://www.channelnewsasia.com/business/us-appeals-court-blocks-part-texas-childrens-online-safety-law-6277141",
+      "date": "Sat, 25 Jul 2026 03:42:21 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Ukraine’s Cardboard Maidan Shows That the People Still Matter",
+      "link": "https://foreignpolicy.com/2026/07/24/protest-fedorov-zelensky-firing-ukraine/",
+      "date": "Fri, 24 Jul 2026 19:41:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sinner, Djokovic withdraw from US Open tune-up in Montreal",
+      "link": "https://www.channelnewsasia.com/sport/sinner-djokovic-withdraw-us-open-tune-up-in-montreal-6277126",
+      "date": "Sat, 25 Jul 2026 03:22:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump says EU to pay &#039;very big price&#039; for Google fine",
+      "link": "https://www.channelnewsasia.com/world/trump-eu-tariff-google-fine-6277101",
+      "date": "Sat, 25 Jul 2026 03:21:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Car bomb attack kills 27 in northwest Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 19:16:18 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Riding the Greenland Ferry",
+      "link": "https://foreignpolicy.com/2026/07/24/riding-the-greenland-ferry/",
+      "date": "Fri, 24 Jul 2026 19:00:43 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/07/24/news-quiz-nicaragua-ortega-zelensky-ukraine-houthi-blockade/",
+      "date": "Fri, 24 Jul 2026 18:56:03 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
+      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
+      "date": "Fri, 24 Jul 2026 18:55:37 GMT"
     },
     {
       "src": "BBC World",
@@ -19,14 +124,14 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Tens of thousands flee forest infernos in France and Spain",
+      "text": "Over 100,000 flee or hole up indoors as wildfires rage in France and Spain",
       "link": "https://www.channelnewsasia.com/world/spain-france-wildfires-europe-heatwave-6276986",
-      "date": "Sat, 25 Jul 2026 02:50:47 +0800"
+      "date": "Sat, 25 Jul 2026 02:50:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "ICC prosecutor Khan removed over sexual misconduct allegations: Sources",
+      "text": "ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources",
       "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
       "date": "Fri, 24 Jul 2026 18:38:02 +0000"
     },
@@ -89,7 +194,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "ICC chief prosecutor Karim Khan dismissed over sexual misconduct allegations, sources say",
+      "text": "ICC chief prosecutor Karim Khan dismissed over sexual misconduct allegations",
       "link": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
       "date": "Fri, 24 Jul 2026 18:12:45 GMT"
     },
@@ -101,32 +206,11 @@
       "date": "Fri, 24 Jul 2026 18:11:26 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia, Microsoft and other tech giants back open-source AI models",
-      "link": "https://www.channelnewsasia.com/business/nvidia-microsoft-and-other-tech-giants-back-open-source-ai-models-6277041",
-      "date": "Sat, 25 Jul 2026 02:07:11 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, Madrid fire 'impossible to control'",
       "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
       "date": "Fri, 24 Jul 2026 18:03:19 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 18:01:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel raids hospital, shuts off Nablus following deadly settler attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 17:59:43 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -143,13 +227,6 @@
       "date": "Fri, 24 Jul 2026 17:58:00 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Movistar&#039;s Rubio pulls out of Tour after Alpe d&#039;Huez crash",
-      "link": "https://www.channelnewsasia.com/sport/movistars-rubio-pulls-out-tour-after-alpe-dhuez-crash-6277026",
-      "date": "Sat, 25 Jul 2026 01:49:30 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Trump’s Destruction of Iranian Life Is Strengthening the Regime",
@@ -162,41 +239,6 @@
       "text": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
       "link": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
       "date": "Fri, 24 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sailing-US prepared for fast British SailGP as confidence grows",
-      "link": "https://www.channelnewsasia.com/sport/sailing-us-prepared-fast-british-sailgp-confidence-grows-6276961",
-      "date": "Sat, 25 Jul 2026 01:13:27 +0800"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Four Palestinians and two Israeli soldiers killed in West Bank confrontation",
-      "link": "https://news.sky.com/story/four-palestinians-and-two-israeli-soldiers-killed-in-west-bank-confrontation-13566655",
-      "date": "Fri, 24 Jul 2026 18:05:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US nuclear deal with Saudi Arabia sparks proliferation concerns",
-      "link": "https://www.channelnewsasia.com/world/us-saudi-arabia-nuclear-proliferation-concerns-6276901",
-      "date": "Sat, 25 Jul 2026 01:02:19 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Romanian jet fighter shoots down suspected Russian drone",
-      "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 16:53:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US records 2,318 measles cases, already surpassing 2025 total",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 16:52:21 +0000"
     },
     {
       "src": "France 24",
@@ -234,13 +276,6 @@
       "date": "Fri, 24 Jul 2026 15:22:56 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian strikes kill 10 in Kyiv region",
-      "link": "https://www.france24.com/en/russian-strikes-kill-10-in-kyiv-region",
-      "date": "Fri, 24 Jul 2026 15:08:31 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "How a U.S. Ground Operation in Iran Could Unfold",
@@ -248,18 +283,11 @@
       "date": "Fri, 24 Jul 2026 15:07:42 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Why are India's youth protesting?",
-      "link": "https://www.france24.com/en/why-are-india-s-youth-protesting",
-      "date": "Fri, 24 Jul 2026 15:07:16 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Men in the Middle East",
-      "link": "https://foreignpolicy.com/2026/07/24/trump-iraq-syria-lebanon-iran-hezbollah-sharaa-aoun-zaidi/",
-      "date": "Fri, 24 Jul 2026 14:14:12 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Everything we know about Anthony Joshua's comeback fight - and how it could impact Tyson Fury showdown",
+      "link": "https://news.sky.com/story/anthony-joshua-v-kristian-prenga-everything-we-know-about-the-fight-and-how-it-could-impact-tyson-fury-showdown-13566665",
+      "date": "Fri, 24 Jul 2026 15:07:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -283,51 +311,9 @@
       "date": "Fri, 24 Jul 2026 12:40:44 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The End of Elections in Nicaragua",
-      "link": "https://foreignpolicy.com/2026/07/24/nicaragua-elections-democracy-ortega-us-response/",
-      "date": "Fri, 24 Jul 2026 12:00:02 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Wildfires surge across Europe as Spain and France battle major blazes",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 11:53:49 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Woman in her 20s charged after car bomb intercepted near Irish border",
+      "text": "Woman, 25, charged after suspected car bomb intercepted near Irish border",
       "link": "https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599",
       "date": "Fri, 24 Jul 2026 12:07:00 +0100"
     },
@@ -381,20 +367,6 @@
       "date": "Fri, 24 Jul 2026 00:44:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Is Cuba Trump’s Next Target?",
-      "link": "https://foreignpolicy.com/2026/07/23/cuba-trump-venezuela-iran-ukraine/",
-      "date": "Thu, 23 Jul 2026 22:06:48 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Iran Gained the Upper Hand",
-      "link": "https://foreignpolicy.com/2026/07/23/iran-us-israel-war-hormuz-trump-options/",
-      "date": "Thu, 23 Jul 2026 22:02:22 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Two Russian men jailed in Angola for terrorism and spying",
@@ -407,34 +379,6 @@
       "text": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
       "link": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
       "date": "Thu, 23 Jul 2026 14:06:01 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Iran urged to stop protest-related executions",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza’s food gains could unravel without sustained aid, UN warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
