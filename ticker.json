@@ -1,62 +1,167 @@
 {
-  "updated": "2026-07-24T04:41:00.528Z",
-  "count": 71,
+  "updated": "2026-07-24T07:24:03.739Z",
+  "count": 63,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-ambassador-summoned-united-states-network-school-6275281",
+      "date": "Fri, 24 Jul 2026 15:19:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Love 972 celebrates anniversary with new musical, Legend Of The Ten Bruh",
+      "link": "https://www.channelnewsasia.com/entertainment/love-972-legend-ten-brothers-musical-anniversary-6275416",
+      "date": "Fri, 24 Jul 2026 15:14:00 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+      "text": "US hits dozens of trading partners with new wave of tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 04:27:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Stocks suffer fresh blow as markets hit by perfect storm",
-      "link": "https://www.channelnewsasia.com/business/asian-stocks-down-middle-east-war-ai-tariffs-6275201",
-      "date": "Fri, 24 Jul 2026 11:56:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CNA Explains: With the Houthis&#039; Red Sea threat, is the world running out of detours?",
-      "link": "https://www.channelnewsasia.com/world/houthis-red-sea-threat-detour-shipping-cna-explains-6270411",
-      "date": "Fri, 24 Jul 2026 11:52:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysian actress Lydia Ibtisam dies at 45, following complications from autoimmune disease",
-      "link": "https://www.channelnewsasia.com/entertainment/lydia-ibtisam-actress-dead-complications-autoimmune-disease-6275146",
-      "date": "Fri, 24 Jul 2026 11:52:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysia back in the F1 frame as Bahrain hopes recede",
-      "link": "https://www.channelnewsasia.com/world/malaysia-f1-sepang-circuit-race-middle-east-conflict-bahrain-6274396",
-      "date": "Fri, 24 Jul 2026 11:43:48 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Comic-Con 2026: Johnny Depp promotes Ebenezer and Enhypen members meet Twilight cast",
-      "link": "https://www.channelnewsasia.com/entertainment/comic-con-2026-johnny-depp-promotes-ebenezer-and-enhypen-members-meet-twilight-cast-6275111",
-      "date": "Fri, 24 Jul 2026 11:35:00 +0800"
+      "date": "Fri, 24 Jul 2026 07:12:13 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
-      "link": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 03:34:10 +0000"
+      "text": "Indian activist Wangchuk ends 26-day hunger strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 07:08:21 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Macky Sall pledges to restore trust in UN as leadership race gathers pace",
+      "link": "https://www.rfi.fr/en/international/20260724-macky-sall-pledges-to-restore-trust-in-un-as-leadership-race-gathers-pace",
+      "date": "Fri, 24 Jul 2026 07:05:42 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s HCLTech to set up $1.48 billion AI data center along with domestic startup",
+      "link": "https://www.channelnewsasia.com/business/indias-hcltech-set-up-148-billion-ai-data-center-along-domestic-startup-6275501",
+      "date": "Fri, 24 Jul 2026 14:52:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Volkswagen profit plunges as carmaker weighs mass job cuts",
+      "link": "https://www.channelnewsasia.com/business/volkswagen-profit-plunges-carmaker-weighs-mass-job-cuts-6275496",
+      "date": "Fri, 24 Jul 2026 14:50:13 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "What are the Abraham Accords?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 03:08:49 +0000"
+      "text": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
+      "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 06:48:07 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 24 Jul 2026 06:30:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "A-League Women needs more investment to bring Matildas home, says Kerr",
+      "link": "https://www.channelnewsasia.com/sport/league-women-needs-more-investment-bring-matildas-home-says-kerr-6275456",
+      "date": "Fri, 24 Jul 2026 14:18:22 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Middle East live: US launches new strikes on Iran as oil prices skyrocket",
+      "link": "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket",
+      "date": "Fri, 24 Jul 2026 06:12:11 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "European Union slams 'inflammatory' Houthi Red Sea tanker attack",
+      "link": "https://www.rfi.fr/en/international/20260724-european-union-slams-inflammatory-houthi-red-sea-tanker-attack",
+      "date": "Fri, 24 Jul 2026 06:08:06 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Jana Nayagan, Indian politician-actor Vijay’s final film, draws huge crowds and delivers strong box office",
+      "link": "https://www.channelnewsasia.com/entertainment/jana-nayagan-indian-politician-actor-vijays-final-film-draws-huge-crowds-and-delivers-strong-box-office-6275356",
+      "date": "Fri, 24 Jul 2026 14:07:40 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bishop gets maiden West Indies call-up for Pakistan test series, McKenzie recalled",
+      "link": "https://www.channelnewsasia.com/sport/bishop-gets-maiden-west-indies-call-up-pakistan-test-series-mckenzie-recalled-6275436",
+      "date": "Fri, 24 Jul 2026 14:05:49 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine drone attack sparks fire at Russian e-commerce giant's warehouse near Saint Petersburg",
+      "link": "https://www.france24.com/en/europe/20260724-ukraine-drone-attack-sparks-fire-at-russian-e-commerce-giant-s-warehouse-near-saint-petersburg",
+      "date": "Fri, 24 Jul 2026 06:04:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
+      "link": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 06:01:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 05:56:31 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump under pressure from all sides over Chinese AI surge",
+      "link": "https://www.channelnewsasia.com/world/trump-us-china-ai-surge-open-source-models-kimi-k3-6275411",
+      "date": "Fri, 24 Jul 2026 13:47:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukraine beheads its military as its performance begins to soar",
+      "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 05:20:44 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ecuadorian Richard Carapaz wins Stage 18 in a solo breakaway",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260724-ecuadorian-richard-carapaz-wins-stage-18-in-a-solo-breakaway",
+      "date": "Fri, 24 Jul 2026 05:06:51 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trillion dollar US defence bill would deepen military ties with Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 05:01:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+      "link": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 04:39:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Albanian police use water cannon on protesters over Kushner-linked resort",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 04:32:51 +0000"
     },
     {
       "src": "France 24",
@@ -68,72 +173,16 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Spain declares state of emergency and France seeks EU help as wildfires rage",
+      "text": "France orders total evacuation of Cap Ferret peninsula as wildfires sweep western Europe",
       "link": "https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage",
       "date": "Fri, 24 Jul 2026 02:33:06 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US hits Singapore with 12.5% tariffs, citing failure to ban imports produced with forced labour",
-      "link": "https://www.channelnewsasia.com/singapore/us-tariffs-singapore-trade-mti-forced-labour-6275051",
-      "date": "Fri, 24 Jul 2026 10:28:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More Singapore landlords turn to multi-tenant rentals for higher returns",
-      "link": "https://www.channelnewsasia.com/singapore/landlords-multi-tenant-higher-returns-6272981",
-      "date": "Fri, 24 Jul 2026 10:25:50 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 02:25:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads",
-      "link": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 02:13:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singaporean comedian Suhaimi Yusof welcomes first grandchild: &#039;My heart is still racing until I can&#039;t sleep&#039;",
-      "link": "https://www.channelnewsasia.com/entertainment/suhaimi-yusof-welcomes-first-grandchild-grandfather-6275011",
-      "date": "Fri, 24 Jul 2026 10:11:00 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Knife came 'a millimetre from my brain': Salman Rushdie testifies at attacker's terrorism trial",
+      "text": "Knife came 'a millimetre from Salman Rushdie's brain', trial hears",
       "link": "https://news.sky.com/story/knife-came-a-millimetre-from-my-brain-salman-rushdie-testifies-at-attackers-terrorism-trial-13566501",
       "date": "Fri, 24 Jul 2026 03:09:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US court affirms release of pro-Palestine scholar as legal battle continues",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-court-affirms-release-of-pro-palestine-scholar-as-legal-battle-continues?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 02:06:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine’s Zelenskyy meets with far-right US activist Laura Loomer",
-      "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-zelenskyy-meets-with-trump-ally-laura-loomer?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 01:49:27 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 01:24:41 +0000"
     },
     {
       "src": "France 24",
@@ -141,13 +190,6 @@
       "text": "UN leadership candidates outline visions ahead of secretary-general race",
       "link": "https://www.france24.com/en/americas/20260724-un-leadership-candidates-outline-visions-ahead-of-secretary-general-race",
       "date": "Fri, 24 Jul 2026 01:18:05 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump imposes new double-digit tariffs on dozens of countries",
-      "link": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 01:08:08 +0000"
     },
     {
       "src": "Sky News",
@@ -166,7 +208,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "US imposes new tariffs on 60 countries",
+      "text": "US imposes new tariffs on 60 countries - including UK",
       "link": "https://news.sky.com/story/us-imposes-new-tariffs-on-dozens-of-trade-partners-over-forced-labour-imports-13566498",
       "date": "Fri, 24 Jul 2026 00:44:00 +0100"
     },
@@ -183,20 +225,6 @@
       "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
       "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 23 Jul 2026 23:19:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fields medal honours four mathematicians as AI reshapes the profession",
-      "link": "https://www.france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession",
-      "date": "Thu, 23 Jul 2026 23:11:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Indian activist ends 26-day hunger strike, though student protests continue",
-      "link": "https://www.france24.com/en/asia-pacific/20260723-indian-activist-ends-26-day-hunger-strike-though-student-protests-continue",
-      "date": "Thu, 23 Jul 2026 22:44:32 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -218,20 +246,6 @@
       "text": "Is the Red Sea the New Hormuz Crisis?",
       "link": "https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
       "date": "Thu, 23 Jul 2026 21:30:04 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump announces double digit tariffs on 60 countries over forced labour concerns",
-      "link": "https://www.france24.com/en/americas/20260723-trump-announces-double-digit-tariffs-on-60-countries-over-forced-labour-concerns",
-      "date": "Thu, 23 Jul 2026 21:27:16 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "India activist ends hunger strike after 26 days",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 23 Jul 2026 21:27:04 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -332,55 +346,6 @@
       "date": "Thu, 23 Jul 2026 14:16:00 +0100"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Iran urged to stop protest-related executions",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza’s food gains could unravel without sustained aid, UN warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Satellites can now spot methane leaks in real time – but most go unfixed",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168007",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168005",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Stranded seafarers remain trapped as Hormuz shipping stalls",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168004",
-      "date": "Thu, 23 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "More than 15,000 people evacuated from homes as wildfire spreads in France",
@@ -430,13 +395,6 @@
       "date": "Wed, 22 Jul 2026 12:46:17 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Thousands prevented from returning home to southern Lebanon",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168003",
-      "date": "Wed, 22 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Germany looks to Azerbaijan as Armenia ties shift regional relationships",
@@ -477,20 +435,6 @@
       "text": "Burnham becomes UK's seventh PM in a decade after Starmer resigns",
       "link": "https://www.rfi.fr/en/international/20260720-andy-burnham-becomes-the-uk-seventh-prime-minister-in-a-decade-after-starmer-resigns",
       "date": "Mon, 20 Jul 2026 13:42:19 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Hungary PM proposes former chess champion Judit Polgar for president",
-      "link": "https://www.rfi.fr/en/international/20260720-hungary-pm-proposes-former-chess-champion-judit-polgar-for-president",
-      "date": "Mon, 20 Jul 2026 12:33:35 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Turkey marks a decade since the coup that never was, but never really ended",
-      "link": "https://www.rfi.fr/en/podcasts/international-report/20260720-turkey-marks-a-decade-since-the-coup-that-never-was-but-never-really-ended",
-      "date": "Mon, 20 Jul 2026 10:40:54 GMT"
     },
     {
       "src": "The Guardian",
