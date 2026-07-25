@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-25T12:55:02.247Z",
-  "count": 64,
+  "updated": "2026-07-25T14:24:57.982Z",
+  "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Iran seeks to 'sow confusion among Gulf states' by targeting Bahrain and Kuwait",
+      "link": "https://www.rfi.fr/en/international/20260725-iran-seeks-to-sow-confusion-among-gulf-states-by-targeting-bahrain-and-kuwait",
+      "date": "Sat, 25 Jul 2026 14:22:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Devastating wildfires send 267,000 fleeing in France and Spain",
+      "link": "https://www.channelnewsasia.com/world/france-spain-wildfires-evacuations-267000-flee-6278096",
+      "date": "Sat, 25 Jul 2026 22:13:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 13:51:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "War on Iran: Phase II: Day 14",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 13:49:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "This community gardener doesn&#039;t just grow fruits and flowers, he nurtures kampung spirit",
+      "link": "https://www.channelnewsasia.com/today/up-close/community-garden-active-ageing-retiree-plants-6275186",
+      "date": "Sat, 25 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "As a boss and employer, here&#039;s why I don&#039;t believe Gen Z workers are lazy",
+      "link": "https://www.channelnewsasia.com/today/voices/gen-z-workers-lazy-motivation-engagement-6269791",
+      "date": "Sat, 25 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "The real reason you&#039;re dozing off after lunch – and it&#039;s not your work",
+      "link": "https://www.channelnewsasia.com/today/adulting/after-lunch-slump-food-coma-energy-healthy-habits-work-6260856",
+      "date": "Sat, 25 Jul 2026 21:30:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "F1 needs better balance between business and sport, says Norris",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 13:03:52 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan records fifth &#039;cruelly hot day&#039;",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-hot-weather-heatwave-fifth-consecutive-day-heatstroke-6278061",
+      "date": "Sat, 25 Jul 2026 20:54:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What’s behind the ICC investigation into Karim Khan?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 12:53:41 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wildfires in Spain: Record temparatures accelerate spread of blazes",
+      "link": "https://www.france24.com/en/wildfires-in-spain-record-temparatures-accelerate-spread-of-blazes",
+      "date": "Sat, 25 Jul 2026 12:50:15 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+      "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 12:49:06 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India's education minister resigns in major victory for youth protesters",
+      "link": "https://www.france24.com/en/india-s-education-minister-resigns-in-major-victory-for-youth-protesters",
+      "date": "Sat, 25 Jul 2026 12:47:33 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wildfires force 200,000 people to evacuate in the southwest of France",
+      "link": "https://www.france24.com/en/wildfires-force-200-000-people-to-evacuate-in-the-southwest-of-france",
+      "date": "Sat, 25 Jul 2026 12:42:17 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -15,6 +113,34 @@
       "text": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
       "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
       "date": "Sat, 25 Jul 2026 12:41:02 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venezuela honors thousands of victims one month since earthquakes",
+      "link": "https://www.france24.com/en/venezuela-honors-thousands-of-victims-one-month-since-earthquakes",
+      "date": "Sat, 25 Jul 2026 12:39:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Kyiv protests continue after Zelensky fires defense minister",
+      "link": "https://www.france24.com/en/ukraine-kyiv-protests-continue-after-zelensky-fires-defense-minister",
+      "date": "Sat, 25 Jul 2026 12:31:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainians back ousted defence minister as political crisis brews",
+      "link": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
+      "date": "Sat, 25 Jul 2026 12:28:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump praises secret service at White House correspondents' dinner",
+      "link": "https://www.france24.com/en/trump-praises-secret-service-at-white-house-correspondents-dinner",
+      "date": "Sat, 25 Jul 2026 12:25:48 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -45,32 +171,18 @@
       "date": "Sat, 25 Jul 2026 19:55:07 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "SpaceX's Starship splashes down in Indian Ocean after successful test flight",
+      "link": "https://www.france24.com/en/americas/20260725-spacex-starship-splashes-down-in-indian-ocean-after-successful-test-flight",
+      "date": "Sat, 25 Jul 2026 11:54:38 GMT"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Israel's move to recognise Armenian genocide stalls under regional pressure",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260725-israel-s-move-to-recognise-armenian-genocide-stalls-under-regional-pressure",
       "date": "Sat, 25 Jul 2026 11:44:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tuberculosis: How drones are transforming care in the Philippines",
-      "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 11:30:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Two buses collide in Syria, killing at least 35 people",
-      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 11:14:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India’s youth protesters are fighting Modi with irreverent humour and memes",
-      "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 11:09:05 +0000"
     },
     {
       "src": "CNA",
@@ -80,32 +192,11 @@
       "date": "Sat, 25 Jul 2026 18:19:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 09:54:44 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Indian education minister resigns following nationwide youth protests",
       "link": "https://www.channelnewsasia.com/asia/indian-education-minister-resigns-following-nationwide-youth-protests-6277891",
       "date": "Sat, 25 Jul 2026 17:48:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Atletico Madrid sign South Korea midfielder Lee from PSG",
-      "link": "https://www.channelnewsasia.com/sport/atletico-madrid-sign-south-korea-midfielder-lee-psg-6277876",
-      "date": "Sat, 25 Jul 2026 17:24:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Samsung, SK Group seal US$950 billion deals with US AI firms to lock in South Korean chip supply",
-      "link": "https://www.channelnewsasia.com/east-asia/samsung-sk-group-seal-us950-billion-deals-us-ai-firms-lock-in-south-korean-chip-supply-6277866",
-      "date": "Sat, 25 Jul 2026 17:22:00 +0800"
     },
     {
       "src": "Sky News",
@@ -115,32 +206,11 @@
       "date": "Sat, 25 Jul 2026 10:20:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-      "link": "https://www.channelnewsasia.com/business/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-6277856",
-      "date": "Sat, 25 Jul 2026 17:11:54 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "India's education minister resigns after mass protests led by 'Cockroach' movement",
+      "text": "India's 'Cockroach' movement to end protests after education minister quits",
       "link": "https://news.sky.com/story/indias-education-minister-resigns-after-mass-protests-led-by-cockroach-movement-13566842",
       "date": "Sat, 25 Jul 2026 10:05:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold",
-      "link": "https://www.channelnewsasia.com/asia/indonesian-authorities-arrest-former-anti-corruption-prosecutor-after-seizing-us19-million-and-gold-6277786",
-      "date": "Sat, 25 Jul 2026 15:14:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 06:41:42 GMT"
     },
     {
       "src": "BBC World",
@@ -148,13 +218,6 @@
       "text": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 25 Jul 2026 06:34:40 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China penalises Trip.com with US$770 million fine for online hotel-booking monopoly",
-      "link": "https://www.channelnewsasia.com/east-asia/china-penalises-tripcom-us770-million-fine-online-hotel-booking-monopoly-6277751",
-      "date": "Sat, 25 Jul 2026 14:32:34 +0800"
     },
     {
       "src": "RFI",
@@ -421,13 +484,6 @@
       "text": "United States announces landmark civilian nuclear deal with Saudi Arabia",
       "link": "https://www.rfi.fr/en/international/20260722-saudi-nuclear-deal-set-to-bypass-iaea-s-toughest-inspections-regime",
       "date": "Wed, 22 Jul 2026 12:46:17 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Germany looks to Azerbaijan as Armenia ties shift regional relationships",
-      "link": "https://www.rfi.fr/en/international/20260722-germany-looks-to-azerbaijan-as-armenia-ties-shift-the-regional-map",
-      "date": "Wed, 22 Jul 2026 05:08:04 GMT"
     },
     {
       "src": "The Guardian",
