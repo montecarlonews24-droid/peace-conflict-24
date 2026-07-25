@@ -1,13 +1,139 @@
 {
-  "updated": "2026-07-25T04:36:25.223Z",
+  "updated": "2026-07-25T07:07:50.400Z",
   "count": 72,
   "items": [
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump: ‘I’m running for a fourth term as President of the United States’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 06:40:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 06:36:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'The problem has been extremely high winds': Wildfires sweep through southwest France",
+      "link": "https://www.france24.com/en/the-problem-has-been-extremely-high-winds-wildfires-sweep-through-southwest-france",
+      "date": "Sat, 25 Jul 2026 06:36:03 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Trump pokes fun at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 04:17:15 GMT"
+      "text": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 06:34:40 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China penalises Trip.com with US$770 million fine for online hotel-booking monopoly",
+      "link": "https://www.channelnewsasia.com/east-asia/china-penalises-tripcom-us770-million-fine-online-hotel-booking-monopoly-6277751",
+      "date": "Sat, 25 Jul 2026 14:32:34 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'It smells of burning': Thousands evacuated as wildfires rage around Madrid",
+      "link": "https://www.france24.com/en/it-smells-of-burning-thousands-evacuated-as-wildfires-rage-around-madrid",
+      "date": "Sat, 25 Jul 2026 06:28:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Organisers raise concerns over late pullouts after Sinner, Djokovic skip Montreal event",
+      "link": "https://www.channelnewsasia.com/sport/organisers-raise-concerns-over-late-pullouts-after-sinner-djokovic-skip-montreal-event-6277741",
+      "date": "Sat, 25 Jul 2026 14:23:14 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Haitians at home and abroad fear fallout from end of US protection",
+      "link": "https://www.rfi.fr/en/international/20260725-haitians-in-port-au-prince-and-new-york-fear-fallout-from-end-of-us-protectionn",
+      "date": "Sat, 25 Jul 2026 06:18:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
+      "link": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
+      "date": "Sat, 25 Jul 2026 06:08:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Venezuelans hold vigil one month after devastating earthquakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 05:50:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 05:48:52 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump lashes out at 'fake news' and jokes about 2028 presidential run in press gala do-over",
+      "link": "https://www.france24.com/en/americas/20260725-trump-lashes-out-at-fake-news-and-jokes-about-2028-presidential-run-in-press-gala-do-over",
+      "date": "Sat, 25 Jul 2026 05:45:33 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years",
+      "link": "https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276",
+      "date": "Sat, 25 Jul 2026 13:43:34 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Malaysia targets 2028 to produce its first human vaccine to cut import reliance",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-targets-2028-produce-its-first-human-vaccine-cut-import-reliance-6277681",
+      "date": "Sat, 25 Jul 2026 13:24:00 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "NGOs take France to court over companies’ links to Israeli settlements",
+      "link": "https://www.rfi.fr/en/international/20260725-ngos-take-france-to-court-over-companies-links-to-israeli-settlements",
+      "date": "Sat, 25 Jul 2026 05:17:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: France orders evacuations near Bordeaux as wildfires sweep through southwest",
+      "link": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
+      "date": "Sat, 25 Jul 2026 04:55:18 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump bashes &#039;fake news&#039;, stokes 2028 furor in press gala rerun",
+      "link": "https://www.channelnewsasia.com/world/donald-trump-white-house-correspondents-dinner-6277646",
+      "date": "Sat, 25 Jul 2026 12:53:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea&#039;s SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
+      "link": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651",
+      "date": "Sat, 25 Jul 2026 12:37:21 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 04:29:17 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -59,81 +185,11 @@
       "date": "Sat, 25 Jul 2026 09:50:48 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore&#039;s Gan Ching Hwee breaks freestyle national record at Commonwealth Games",
-      "link": "https://www.channelnewsasia.com/sport/team-singapore-gan-ching-hwee-swimming-commonwealth-games-6277446",
-      "date": "Sat, 25 Jul 2026 09:31:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-      "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 01:30:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lyles slams door on 100m field at US Championships",
-      "link": "https://www.channelnewsasia.com/sport/lyles-slams-door-100m-field-us-championships-6277481",
-      "date": "Sat, 25 Jul 2026 09:23:55 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 01:09:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "GLP-1s are changing US healthcare, should everyone be on them?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/glp-1s-are-changing-us-healthcare-should-everyone-be-on-them?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 00:40:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 00:31:16 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN rights chief Turk wins second term despite US and Israeli opposition",
-      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 00:16:32 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 25 Jul 2026 00:06:53 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-      "link": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421",
-      "date": "Sat, 25 Jul 2026 07:53:43 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "This kind of obsessive attraction isn’t love – but it has a name",
-      "link": "https://www.channelnewsasia.com/wellness/love-attraction-limerence-6256341",
-      "date": "Sat, 25 Jul 2026 07:08:40 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Born with hearing loss, she found her voice on the musical theatre stage",
-      "link": "https://www.channelnewsasia.com/women/hearing-loss-lasalle-graduate-musical-theatre-6250871",
-      "date": "Sat, 25 Jul 2026 07:08:12 +0800"
     },
     {
       "src": "BBC World",
@@ -143,11 +199,18 @@
       "date": "Fri, 24 Jul 2026 23:01:06 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SpaceX launches 13th Starship test, briefly deploys first upgraded Starlinks",
-      "link": "https://www.channelnewsasia.com/business/spacex-launches-13th-starship-test-briefly-deploys-first-upgraded-starlinks-6277406",
-      "date": "Sat, 25 Jul 2026 06:57:30 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 24 Jul 2026 22:49:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
+      "link": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+      "date": "Fri, 24 Jul 2026 22:31:12 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -213,39 +276,11 @@
       "date": "Fri, 24 Jul 2026 18:56:03 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
-      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "date": "Fri, 24 Jul 2026 18:55:37 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Jonestown Massacre in Black and White",
       "link": "https://foreignpolicy.com/2026/07/24/jonestown-massacre-guyana-naipaul-racism/",
       "date": "Fri, 24 Jul 2026 18:30:11 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 18:13:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
-      "link": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
-      "date": "Fri, 24 Jul 2026 18:12:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, Madrid fire 'impossible to control'",
-      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "date": "Fri, 24 Jul 2026 18:03:19 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -269,27 +304,6 @@
       "date": "Fri, 24 Jul 2026 17:29:59 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
-      "link": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
-      "date": "Fri, 24 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Protests grow as Cockroach Janta Party says talks with government stall",
-      "link": "https://www.france24.com/en/video/20260724-protests-grow-as-cockroach-janta-party-says-talks-with-government-stall",
-      "date": "Fri, 24 Jul 2026 16:49:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pogacar takes Tour de France stage 19 with solo attack on Alpe d'Huez",
-      "link": "https://www.france24.com/en/sport/20260724-pogacar-takes-tour-de-france-stage-19-with-solo-attack-alpe-d-huez",
-      "date": "Fri, 24 Jul 2026 16:03:26 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
@@ -299,7 +313,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Everything we know about Anthony Joshua's comeback fight - and how it could impact Tyson Fury showdown",
+      "text": "Why Tyson Fury has cast doubt on Anthony Joshua showdown - as Joshua returns to ring",
       "link": "https://news.sky.com/story/anthony-joshua-v-kristian-prenga-everything-we-know-about-the-fight-and-how-it-could-impact-tyson-fury-showdown-13566665",
       "date": "Fri, 24 Jul 2026 15:07:00 +0100"
     },
@@ -484,20 +498,6 @@
       "text": "Ukraine’s wartime unity put to the test by protests over military leadership",
       "link": "https://www.rfi.fr/en/international/20260721-ukraine-s-wartime-unity-put-to-the-test-by-protests-over-military-leadership",
       "date": "Tue, 21 Jul 2026 07:33:15 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France and Germany move to tackle EU’s growing trade deficit with China",
-      "link": "https://www.rfi.fr/en/international/20260721-france-and-germany-move-to-tackle-eu-s-growing-trade-deficit-with-china",
-      "date": "Tue, 21 Jul 2026 06:08:04 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Burnham becomes UK's seventh PM in a decade after Starmer resigns",
-      "link": "https://www.rfi.fr/en/international/20260720-andy-burnham-becomes-the-uk-seventh-prime-minister-in-a-decade-after-starmer-resigns",
-      "date": "Mon, 20 Jul 2026 13:42:19 GMT"
     },
     {
       "src": "The Guardian",
