@@ -1,20 +1,90 @@
 {
-  "updated": "2026-07-25T01:24:03.466Z",
-  "count": 56,
+  "updated": "2026-07-25T04:36:25.223Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump pokes fun at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 04:17:15 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 01:09:01 +0000"
+      "text": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+      "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 02:59:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Defending champions Vietnam make winning start to ASEAN Championship",
+      "link": "https://www.channelnewsasia.com/sport/vietnam-timor-leste-asean-championship-6276891",
+      "date": "Sat, 25 Jul 2026 10:33:18 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 02:29:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Firefighters battle fire after fertiliser explosion in England",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 02:29:13 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "From palava huts to TikTok: How Liberians are preserving their past",
+      "link": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 02:24:49 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
       "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 01:00:31 GMT"
+      "date": "Sat, 25 Jul 2026 02:14:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cape Verde World Cup hero Vozinha agrees move to Chile&#039;s Colo Colo",
+      "link": "https://www.channelnewsasia.com/sport/cape-verde-world-cup-hero-vozinha-agrees-move-chiles-colo-colo-6277516",
+      "date": "Sat, 25 Jul 2026 09:50:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s Gan Ching Hwee breaks freestyle national record at Commonwealth Games",
+      "link": "https://www.channelnewsasia.com/sport/team-singapore-gan-ching-hwee-swimming-commonwealth-games-6277446",
+      "date": "Sat, 25 Jul 2026 09:31:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 01:30:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lyles slams door on 100m field at US Championships",
+      "link": "https://www.channelnewsasia.com/sport/lyles-slams-door-100m-field-us-championships-6277481",
+      "date": "Sat, 25 Jul 2026 09:23:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 01:09:01 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -45,39 +115,11 @@
       "date": "Sat, 25 Jul 2026 00:06:53 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 00:00:00 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
       "link": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421",
       "date": "Sat, 25 Jul 2026 07:53:43 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 23:53:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Which matches and tournaments can football fans watch after the World Cup?",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 23:25:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "IOC rejects human rights group’s complaint against Trump ally Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/ioc-rejects-human-rights-groups-complaint-against-trump-ally-infantino?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 23:24:26 +0000"
     },
     {
       "src": "CNA",
@@ -108,41 +150,6 @@
       "date": "Sat, 25 Jul 2026 06:57:30 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US missiles hit Iran as path towards de-escalation uncertain",
-      "link": "https://www.channelnewsasia.com/world/us-missiles-iran-war-donald-trump-6277381",
-      "date": "Sat, 25 Jul 2026 06:44:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "link": "https://www.channelnewsasia.com/business/exclusive-its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-6277366",
-      "date": "Sat, 25 Jul 2026 06:17:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: OpenAI’s breach of Hugging Face shows AI is getting too hard to contain",
-      "link": "https://www.channelnewsasia.com/commentary/openai-breach-hugging-face-ai-safety-6273046",
-      "date": "Sat, 25 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 21:47:16 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ICC prosecutor Karim Khan removed over &#039;serious misconduct&#039;",
-      "link": "https://www.channelnewsasia.com/world/karim-khan-icc-prosecutor-removed-sexual-assault-6277326",
-      "date": "Sat, 25 Jul 2026 05:45:00 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Trump Swaps Out Tariffs for Even More Tariffs",
@@ -155,6 +162,20 @@
       "text": "ICC top prosecutor removed over sexual misconduct allegations",
       "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 24 Jul 2026 21:02:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US pummels Iran as Tehran targets regional bases stationing US forces",
+      "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
+      "date": "Fri, 24 Jul 2026 20:48:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ICC asked to look into xenophobic violence in South Africa",
+      "link": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
+      "date": "Fri, 24 Jul 2026 20:33:48 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -192,6 +213,13 @@
       "date": "Fri, 24 Jul 2026 18:56:03 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
+      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
+      "date": "Fri, 24 Jul 2026 18:55:37 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Jonestown Massacre in Black and White",
@@ -204,6 +232,20 @@
       "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 24 Jul 2026 18:13:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
+      "link": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
+      "date": "Fri, 24 Jul 2026 18:12:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, Madrid fire 'impossible to control'",
+      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
+      "date": "Fri, 24 Jul 2026 18:03:19 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -227,6 +269,27 @@
       "date": "Fri, 24 Jul 2026 17:29:59 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
+      "link": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
+      "date": "Fri, 24 Jul 2026 17:26:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Protests grow as Cockroach Janta Party says talks with government stall",
+      "link": "https://www.france24.com/en/video/20260724-protests-grow-as-cockroach-janta-party-says-talks-with-government-stall",
+      "date": "Fri, 24 Jul 2026 16:49:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pogacar takes Tour de France stage 19 with solo attack on Alpe d'Huez",
+      "link": "https://www.france24.com/en/sport/20260724-pogacar-takes-tour-de-france-stage-19-with-solo-attack-alpe-d-huez",
+      "date": "Fri, 24 Jul 2026 16:03:26 GMT"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
@@ -248,11 +311,60 @@
       "date": "Fri, 24 Jul 2026 13:53:34 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US hits dozens of countries with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 12:40:44 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "International Criminal Court Prosecutor Karim Khan dismissed",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Wildfires surge across Europe as Spain and France battle major blazes",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
