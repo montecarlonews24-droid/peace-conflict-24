@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-25T20:03:24.107Z",
-  "count": 63,
+  "updated": "2026-07-25T21:13:51.829Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Several injured in Berlin after car drives into crowd, police say",
+      "link": "https://news.sky.com/story/several-injured-in-berlin-after-car-drives-into-crowd-police-say-13567018",
+      "date": "Sat, 25 Jul 2026 21:59:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Visiting UN chief urges respect for Syria&#039;s sovereignty, international support",
+      "link": "https://www.channelnewsasia.com/world/visiting-un-chief-urges-respect-syrias-sovereignty-international-support-6278366",
+      "date": "Sun, 26 Jul 2026 04:05:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 20:00:43 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -150,13 +171,6 @@
       "date": "Sat, 25 Jul 2026 16:02:40 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-      "link": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 15:53:53 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Flavio Bolsonaro launches presidential bid in Brazil despite challenges",
@@ -183,13 +197,6 @@
       "text": "Ecuadorian Carapaz wins 20th stage of Tour de France",
       "link": "https://www.channelnewsasia.com/sport/ecuadorian-carapaz-wins-20th-stage-tour-de-france-6278161",
       "date": "Sat, 25 Jul 2026 22:49:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Tour de France finale shortened as security forces redeploy to fight wildfires",
-      "link": "https://www.channelnewsasia.com/sport/tour-de-france-finale-shortened-security-forces-redeploy-fight-wildfires-6278126",
-      "date": "Sat, 25 Jul 2026 22:28:26 +0800"
     },
     {
       "src": "RFI",
