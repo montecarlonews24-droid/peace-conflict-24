@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-25T10:49:46.168Z",
+  "updated": "2026-07-25T11:55:16.311Z",
   "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Israel's move to recognise Armenian genocide stalls under regional pressure",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260725-israel-s-move-to-recognise-armenian-genocide-stalls-under-regional-pressure",
+      "date": "Sat, 25 Jul 2026 11:44:26 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tuberculosis: How drones are transforming care in the Philippines",
+      "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 11:30:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Two buses collide in Syria, killing at least 35 people",
+      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 11:14:14 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India’s youth protesters are fighting Modi with irreverent humour and memes",
+      "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 11:09:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: France deploys military plane as wildfires spread towards Bordeaux",
+      "link": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
+      "date": "Sat, 25 Jul 2026 10:45:09 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -12,7 +47,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "text": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
       "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
       "date": "Sat, 25 Jul 2026 09:54:44 +0000"
     },
@@ -50,6 +85,13 @@
       "text": "Samsung, SK Group seal US$950 billion deals with US AI firms to lock in South Korean chip supply",
       "link": "https://www.channelnewsasia.com/east-asia/samsung-sk-group-seal-us950-billion-deals-us-ai-firms-lock-in-south-korean-chip-supply-6277866",
       "date": "Sat, 25 Jul 2026 17:22:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "European tourists found alive after speedboat sinks in Indonesia",
+      "link": "https://news.sky.com/story/european-tourists-found-alive-after-speedboat-sinks-in-indonesia-13566846",
+      "date": "Sat, 25 Jul 2026 10:20:00 +0100"
     },
     {
       "src": "CNA",
@@ -115,13 +157,6 @@
       "date": "Sat, 25 Jul 2026 08:26:34 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Climatologist warms of heatwaves, wildfires and rising risks in Europe",
-      "link": "https://www.france24.com/en/climatologist-warms-of-heatwaves-wildfires-and-rising-risks-in-europe",
-      "date": "Sat, 25 Jul 2026 08:17:07 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Dodging snipers, housing crisis forces Yemenis to live on front line",
@@ -136,20 +171,6 @@
       "date": "Sat, 25 Jul 2026 07:41:43 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Born too soon: Premature babies fight for survival in Gaza",
-      "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 07:25:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-      "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 07:22:47 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Indonesian authorities arrest former anti-corruption prosecutor after seizing US$19 million and gold",
@@ -162,13 +183,6 @@
       "text": "Trump takes swipes at press during White House Correspondents' Dinner",
       "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 25 Jul 2026 06:41:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump: ‘I’m running for a fourth term as President of the United States’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 06:40:26 +0000"
     },
     {
       "src": "BBC World",
@@ -409,13 +423,6 @@
       "date": "Fri, 24 Jul 2026 07:05:42 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Cockroach' activist ends hunger strike as Indian youth movement vows to press on with protests",
-      "link": "https://news.sky.com/story/cockroach-activist-ends-hunger-strike-as-indian-youth-movement-vows-to-press-on-with-protests-13566522",
-      "date": "Fri, 24 Jul 2026 07:31:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "European Union slams 'inflammatory' Houthi Red Sea tanker attack",
@@ -491,13 +498,6 @@
       "text": "Healthy diet too expensive for one in three people globally, UN report finds",
       "link": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "date": "Tue, 21 Jul 2026 10:00:42 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Ukraine’s wartime unity put to the test by protests over military leadership",
-      "link": "https://www.rfi.fr/en/international/20260721-ukraine-s-wartime-unity-put-to-the-test-by-protests-over-military-leadership",
-      "date": "Tue, 21 Jul 2026 07:33:15 GMT"
     },
     {
       "src": "The Guardian",
