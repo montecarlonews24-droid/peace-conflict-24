@@ -1,13 +1,90 @@
 {
-  "updated": "2026-07-25T09:15:44.309Z",
-  "count": 71,
+  "updated": "2026-07-25T10:49:46.168Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China evacuates 20,000 people as Typhoon Noul nears",
+      "link": "https://www.channelnewsasia.com/east-asia/china-typhoon-noul-20000-people-evacuate-hong-kong-guangdong-6277921",
+      "date": "Sat, 25 Jul 2026 18:19:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 09:54:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Indian education minister resigns following nationwide youth protests",
+      "link": "https://www.channelnewsasia.com/asia/indian-education-minister-resigns-following-nationwide-youth-protests-6277891",
+      "date": "Sat, 25 Jul 2026 17:48:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Indian education minister resigns after mass protests over exam paper leaks",
+      "link": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
+      "date": "Sat, 25 Jul 2026 09:38:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "No, this video does not show Iran downing a US B-52 bomber",
+      "link": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
+      "date": "Sat, 25 Jul 2026 09:27:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Atletico Madrid sign South Korea midfielder Lee from PSG",
+      "link": "https://www.channelnewsasia.com/sport/atletico-madrid-sign-south-korea-midfielder-lee-psg-6277876",
+      "date": "Sat, 25 Jul 2026 17:24:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung, SK Group seal US$950 billion deals with US AI firms to lock in South Korean chip supply",
+      "link": "https://www.channelnewsasia.com/east-asia/samsung-sk-group-seal-us950-billion-deals-us-ai-firms-lock-in-south-korean-chip-supply-6277866",
+      "date": "Sat, 25 Jul 2026 17:22:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+      "link": "https://www.channelnewsasia.com/business/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-6277856",
+      "date": "Sat, 25 Jul 2026 17:11:54 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 09:10:01 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "India's education minister resigns after mass protests led by 'Cockroach' movement",
+      "link": "https://news.sky.com/story/indias-education-minister-resigns-after-mass-protests-led-by-cockroach-movement-13566842",
+      "date": "Sat, 25 Jul 2026 10:05:00 +0100"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Football: Germany unveils new head coach with eyes on 2030 World Cup",
       "link": "https://www.france24.com/en/tv-shows/sports/20260725-football-germany-unveils-new-head-coach-with-eyes-on-2030-world-cup",
       "date": "Sat, 25 Jul 2026 09:01:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
+      "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 08:54:20 +0000"
     },
     {
       "src": "France 24",
@@ -45,13 +122,6 @@
       "date": "Sat, 25 Jul 2026 08:17:07 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UNESCO adds Sebastia site to World Heritage List despite Israeli objections",
-      "link": "https://www.france24.com/en/unesco-adds-sebastia-site-to-world-heritage-list-despite-israeli-objections",
-      "date": "Sat, 25 Jul 2026 08:12:53 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Dodging snipers, housing crisis forces Yemenis to live on front line",
@@ -87,25 +157,18 @@
       "date": "Sat, 25 Jul 2026 15:14:00 +0800"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 06:41:42 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump: ‘I’m running for a fourth term as President of the United States’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
       "date": "Sat, 25 Jul 2026 06:40:26 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 06:36:22 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfires in the southwest France: 'The problem has been extremely high winds'",
-      "link": "https://www.france24.com/en/the-problem-has-been-extremely-high-winds-wildfires-sweep-through-southwest-france",
-      "date": "Sat, 25 Jul 2026 06:36:03 GMT"
     },
     {
       "src": "BBC World",
@@ -136,67 +199,11 @@
       "date": "Sat, 25 Jul 2026 06:18:10 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Venezuelans hold vigil one month after devastating earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 05:50:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
-      "link": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 05:48:52 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More job tasters, credits to explore hobbies: SG Youth Plan aims to reach over half a million youths in 5 years",
-      "link": "https://www.channelnewsasia.com/singapore/youth-plan-job-tasters-curiosity-credits-david-neo-mccy-6275276",
-      "date": "Sat, 25 Jul 2026 13:43:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysia targets 2028 to produce its first human vaccine to cut import reliance",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-targets-2028-produce-its-first-human-vaccine-cut-import-reliance-6277681",
-      "date": "Sat, 25 Jul 2026 13:24:00 +0800"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "NGOs take France to court over companies’ links to Israeli settlements",
       "link": "https://www.rfi.fr/en/international/20260725-ngos-take-france-to-court-over-companies-links-to-israeli-settlements",
       "date": "Sat, 25 Jul 2026 05:17:38 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump bashes &#039;fake news&#039;, stokes 2028 furor in press gala rerun",
-      "link": "https://www.channelnewsasia.com/world/donald-trump-white-house-correspondents-dinner-6277646",
-      "date": "Sat, 25 Jul 2026 12:53:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea&#039;s SK Hynix, Samsung Elec sign $950 billion partnership with US big tech",
-      "link": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-samsung-elec-sign-950-billion-partnership-us-big-tech-6277651",
-      "date": "Sat, 25 Jul 2026 12:37:21 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Defending champions Vietnam make winning start to ASEAN Championship",
-      "link": "https://www.channelnewsasia.com/sport/vietnam-timor-leste-asean-championship-6276891",
-      "date": "Sat, 25 Jul 2026 10:33:18 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 02:29:36 GMT"
     },
     {
       "src": "BBC World",
