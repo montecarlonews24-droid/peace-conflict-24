@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-24T23:52:34.106Z",
-  "count": 64,
+  "updated": "2026-07-25T01:24:03.466Z",
+  "count": 56,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 01:09:01 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 01:00:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "GLP-1s are changing US healthcare, should everyone be on them?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/glp-1s-are-changing-us-healthcare-should-everyone-be-on-them?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 00:40:02 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 00:31:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 00:16:32 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 25 Jul 2026 00:06:53 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+      "link": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421",
+      "date": "Sat, 25 Jul 2026 07:53:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "date": "Fri, 24 Jul 2026 23:53:32 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -40,8 +103,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "SpaceX&#039;s Starship rocket lifts off from Texas for 13th test flight",
-      "link": "https://www.channelnewsasia.com/business/spacexs-starship-rocket-lifts-texas-13th-test-flight-6277406",
+      "text": "SpaceX launches 13th Starship test, briefly deploys first upgraded Starlinks",
+      "link": "https://www.channelnewsasia.com/business/spacex-launches-13th-starship-test-briefly-deploys-first-upgraded-starlinks-6277406",
       "date": "Sat, 25 Jul 2026 06:57:30 +0800"
     },
     {
@@ -87,74 +150,11 @@
       "date": "Fri, 24 Jul 2026 21:32:19 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "China, Philippine coastguard vessels clash in South China Sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 21:29:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Paramount agrees to pause Warner Bros deal while court case plays out",
-      "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 21:27:45 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran’s Abbas Araghchi vows ‘we fear no one’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 21:24:38 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 21:19:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "She returned to her childhood neighbourhood in Chiang Mai to restore a house from her past",
-      "link": "https://www.channelnewsasia.com/obsessions/little-house-chiang-mai-wat-ket-heritage-home-6267546",
-      "date": "Sat, 25 Jul 2026 05:18:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "ICC top prosecutor removed over sexual misconduct allegations",
       "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 24 Jul 2026 21:02:30 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
-      "link": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 20:51:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-      "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
-      "date": "Fri, 24 Jul 2026 20:51:13 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US pummels Iran as Tehran targets regional bases stationing US forces",
-      "link": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
-      "date": "Fri, 24 Jul 2026 20:48:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ICC asked to look into xenophobic violence in South Africa",
-      "link": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
-      "date": "Fri, 24 Jul 2026 20:33:48 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -192,20 +192,6 @@
       "date": "Fri, 24 Jul 2026 18:56:03 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: More than 100,000 evacuated in France's fire-hit southwest, PM Lecornu calls crisis meeting",
-      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "date": "Fri, 24 Jul 2026 18:55:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 18:51:17 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Jonestown Massacre in Black and White",
@@ -218,20 +204,6 @@
       "text": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 24 Jul 2026 18:13:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
-      "link": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
-      "date": "Fri, 24 Jul 2026 18:12:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Southwestern France wildfire forces 44,000 to evacuate, Madrid fire 'impossible to control'",
-      "link": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "date": "Fri, 24 Jul 2026 18:03:19 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -255,27 +227,6 @@
       "date": "Fri, 24 Jul 2026 17:29:59 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
-      "link": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
-      "date": "Fri, 24 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Protests grow as Cockroach Janta Party says talks with government stall",
-      "link": "https://www.france24.com/en/video/20260724-protests-grow-as-cockroach-janta-party-says-talks-with-government-stall",
-      "date": "Fri, 24 Jul 2026 16:49:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pogacar takes Tour de France stage 19 with solo attack on Alpe d'Huez",
-      "link": "https://www.france24.com/en/sport/20260724-pogacar-takes-tour-de-france-stage-19-with-solo-attack-alpe-d-huez",
-      "date": "Fri, 24 Jul 2026 16:03:26 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
@@ -295,13 +246,6 @@
       "text": "Canadian government urged to block Thomson Reuters data deal with US ICE",
       "link": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
       "date": "Fri, 24 Jul 2026 13:53:34 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 24 Jul 2026 13:33:06 GMT"
     },
     {
       "src": "BBC World",
