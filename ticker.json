@@ -1,13 +1,62 @@
 {
-  "updated": "2026-07-26T20:02:20.702Z",
+  "updated": "2026-07-26T21:16:02.596Z",
   "count": 63,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bordeaux under threat as France and Spain battle 'unprecedented' wildfires",
+      "link": "https://www.france24.com/en/environment/20260726-bordeaux-under-threat-as-france-spain-battle-unprecedented-wildfires",
+      "date": "Sun, 26 Jul 2026 20:35:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former President Hernandez returns to Honduras after Trump pardon",
+      "link": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 20:35:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israeli settlers set fire to West Bank mosques after deadly clash",
+      "link": "https://www.channelnewsasia.com/world/israeli-settlers-set-fire-west-bank-mosques-after-deadly-clash-6279411",
+      "date": "Mon, 27 Jul 2026 04:35:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 26 Jul 2026 20:34:23 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houthis claim Saudi drone downed over northwestern Yemen",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 20:19:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "From stage 6 onwards, Pogacar 'never let go' during Tour de France",
+      "link": "https://www.france24.com/en/from-stage-6-onwards-pogacar-never-let-go-during-tour-de-france",
+      "date": "Sun, 26 Jul 2026 20:02:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Wildfires have scorched 115,000 hectares across France this year, interior minister says",
+      "link": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+      "date": "Sun, 26 Jul 2026 19:34:03 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Israel to allow international force into Gaza: Official",
       "link": "https://www.channelnewsasia.com/world/israel-allow-international-force-gaza-official-6279381",
-      "date": "Mon, 27 Jul 2026 03:32:59 +0800"
+      "date": "Mon, 27 Jul 2026 03:32:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -101,13 +150,6 @@
       "date": "Mon, 27 Jul 2026 02:27:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 18:17:22 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Pogacar finds joy in winning and helping teammate Del Toro",
@@ -120,13 +162,6 @@
       "text": "Pogacar&#039;s Tour de France dynasty continues with record-equalling fifth title",
       "link": "https://www.channelnewsasia.com/sport/pogacars-tour-de-france-dynasty-continues-record-equalling-fifth-title-6279301",
       "date": "Mon, 27 Jul 2026 02:13:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 18:08:48 +0000"
     },
     {
       "src": "France 24",
@@ -150,20 +185,6 @@
       "date": "Sun, 26 Jul 2026 17:46:54 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hamilton questions costly Ferrari pitstop decision",
-      "link": "https://www.channelnewsasia.com/sport/hamilton-questions-costly-ferrari-pitstop-decision-6279261",
-      "date": "Mon, 27 Jul 2026 01:45:48 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 26 Jul 2026 17:45:30 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Wildfires in France: French farmers provide water tankers to help fight fire",
@@ -176,27 +197,6 @@
       "text": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
       "link": "https://www.france24.com/en/germany-berlin-pride-attack-believed-to-be-an-act-of-islamic-extremist-terror",
       "date": "Sun, 26 Jul 2026 15:03:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fires in France: 42,000 hectares burnt, 220,000 people evacuated",
-      "link": "https://www.france24.com/en/fires-in-france-42-000-hectares-burnt-220-000-people-evacuated",
-      "date": "Sun, 26 Jul 2026 14:58:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sea drones to defend the sky in Ukraine as the war continues",
-      "link": "https://www.france24.com/en/sea-drones-to-defend-the-sky-as-the-war-continues-in-ukraine",
-      "date": "Sun, 26 Jul 2026 14:51:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The week in pictures: Wildfires rage in Europe, youth protests rock India and UK names new PM",
-      "link": "https://www.france24.com/en/europe/20260726-the-week-in-pictures-wildfires-rage-in-europe-youth-protests-rock-india-and-uk-names-new-pm",
-      "date": "Sun, 26 Jul 2026 14:49:56 GMT"
     },
     {
       "src": "RFI",
