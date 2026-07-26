@@ -1,7 +1,126 @@
 {
-  "updated": "2026-07-26T14:21:53.070Z",
-  "count": 53,
+  "updated": "2026-07-26T15:35:13.405Z",
+  "count": 62,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+      "link": "https://www.channelnewsasia.com/world/iran-says-halt-attacks-if-us-maintains-pause-6279116",
+      "date": "Sun, 26 Jul 2026 23:08:22 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wildfires in France: French farmers provide water tankers to help fight fire",
+      "link": "https://www.france24.com/en/video/20260726-wildfires-in-france-french-farmers-provide-water-tankers-to-help-fight-fire",
+      "date": "Sun, 26 Jul 2026 15:06:10 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
+      "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 15:04:12 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Germany: Berlin Pride attack believed to be an act of Islamic extremist terror",
+      "link": "https://www.france24.com/en/germany-berlin-pride-attack-believed-to-be-an-act-of-islamic-extremist-terror",
+      "date": "Sun, 26 Jul 2026 15:03:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fires in France: 42,000 hectares burnt, 220,000 people evacuated",
+      "link": "https://www.france24.com/en/fires-in-france-42-000-hectares-burnt-220-000-people-evacuated",
+      "date": "Sun, 26 Jul 2026 14:58:59 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norris wins Hungarian Grand Prix for McLaren",
+      "link": "https://www.channelnewsasia.com/sport/norris-wins-hungarian-grand-prix-mclaren-6279126",
+      "date": "Sun, 26 Jul 2026 22:54:03 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sea drones to defend the sky in Ukraine as the war continues",
+      "link": "https://www.france24.com/en/sea-drones-to-defend-the-sky-as-the-war-continues-in-ukraine",
+      "date": "Sun, 26 Jul 2026 14:51:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: Wildfires rage in Europe, youth protests rock India and UK names new PM",
+      "link": "https://www.france24.com/en/europe/20260726-the-week-in-pictures-wildfires-rage-in-europe-youth-protests-rock-india-and-uk-names-new-pm",
+      "date": "Sun, 26 Jul 2026 14:49:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "More than 360,000 evacuated as wildfires rage in France and Spain",
+      "link": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:49:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel carries out double tap strike in central Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:47:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Courtois welcomes Van Bommel&#039;s appointment as Belgium coach",
+      "link": "https://www.channelnewsasia.com/sport/courtois-welcomes-van-bommels-appointment-belgium-coach-6279106",
+      "date": "Sun, 26 Jul 2026 22:44:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tunisia grapples with five years of crisis since Saied’s power grab",
+      "link": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:39:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei",
+      "link": "https://www.france24.com/en/flavio-bolsonaro-launches-brazil-presidential-campaign-touts-support-from-milei",
+      "date": "Sun, 26 Jul 2026 14:35:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+      "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:22:03 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Football: WAFCON kicks off in Morocco with record 16-nation line-up",
+      "link": "https://www.france24.com/en/football-wafcon-kicks-off-in-morocco-with-record-16-nation-line-up",
+      "date": "Sun, 26 Jul 2026 14:21:42 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Controversial Argentina World Cup banner gets new life in print",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:05:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel and the cost paradox of the Iran war",
+      "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 14:04:39 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -24,13 +143,6 @@
       "date": "Sun, 26 Jul 2026 13:40:29 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
-      "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:39:17 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Urgent search for suspect after deadly &#039;Islamist terror&#039; attack near Berlin Pride",
@@ -38,53 +150,11 @@
       "date": "Sun, 26 Jul 2026 21:37:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:34:45 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why are Israeli settlers on a rampage in the occupied West Bank?",
-      "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:31:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Langton released from hospital after concussion at Commonwealth Games",
-      "link": "https://www.aljazeera.com/sports/2026/7/26/langton-released-from-hospital-after-concussion-at-commonwealth-games?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:30:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘New education minister can’t bring my dead daughter back’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/new-education-minister-cant-bring-my-dead-daughter?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:26:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What next for India’s ‘Cockroach’ movement after education minister sacked",
-      "link": "https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 13:15:01 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Trauma and taboos: how Portugal takes care of migrants' mental health",
       "link": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
       "date": "Sun, 26 Jul 2026 12:59:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 12:52:29 +0000"
     },
     {
       "src": "CNA",
@@ -101,6 +171,13 @@
       "date": "Sun, 26 Jul 2026 20:32:05 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Deadly Berlin Pride ramming believed to be 'Islamist terror attack', Germany says",
+      "link": "https://www.france24.com/en/europe/20260726-deadly-berlin-pride-ramming-was-islamist-terror-attack-says-german-interior-minister",
+      "date": "Sun, 26 Jul 2026 11:41:10 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -115,32 +192,11 @@
       "date": "Sun, 26 Jul 2026 19:14:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lawyer attrition concerns need to be taken seriously, more data needed: Shanmugam",
-      "link": "https://www.channelnewsasia.com/singapore/shanmugam-nus-law-practice-inauguration-ceremony-attrition-6278871",
-      "date": "Sun, 26 Jul 2026 19:03:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysia to make F1 comeback in October as host of Bahrain GP",
-      "link": "https://www.channelnewsasia.com/asia/f1-malaysia-sepang-circuit-bahrain-replacement-race-6278111",
-      "date": "Sun, 26 Jul 2026 18:43:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 26 Jul 2026 10:26:05 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Joshua jitters fail to dampen appetite for British showdown with Fury",
-      "link": "https://www.channelnewsasia.com/sport/joshua-jitters-fail-dampen-appetite-british-showdown-fury-6278891",
-      "date": "Sun, 26 Jul 2026 18:03:44 +0800"
     },
     {
       "src": "The Guardian",
@@ -211,6 +267,13 @@
       "text": "Israel's move to recognise Armenian genocide stalls under regional pressure",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260725-israel-s-move-to-recognise-armenian-genocide-stalls-under-regional-pressure",
       "date": "Sat, 25 Jul 2026 11:44:26 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "European tourists found alive after speedboat sinks in Indonesia",
+      "link": "https://news.sky.com/story/european-tourists-found-alive-after-speedboat-sinks-in-indonesia-13566846",
+      "date": "Sat, 25 Jul 2026 10:20:00 +0100"
     },
     {
       "src": "Sky News",
