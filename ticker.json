@@ -1,27 +1,104 @@
 {
-  "updated": "2026-07-26T12:34:40.344Z",
-  "count": 70,
+  "updated": "2026-07-26T14:21:53.070Z",
+  "count": 53,
   "items": [
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iran’s army issues warning ahead of Netanyahu’s US visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 11:56:50 +0000"
+      "text": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:51:53 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "London&#039;s Gatwick Airport suffers water outage",
+      "link": "https://www.channelnewsasia.com/world/london-gatwick-airport-water-outage-6279041",
+      "date": "Sun, 26 Jul 2026 21:50:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "What we know so far about the Berlin Pride ramming attack",
       "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 26 Jul 2026 11:41:04 GMT"
+      "date": "Sun, 26 Jul 2026 13:40:29 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "‘No accountability for settler war crimes against Palestinians’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 11:31:17 +0000"
+      "text": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
+      "link": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:39:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Urgent search for suspect after deadly &#039;Islamist terror&#039; attack near Berlin Pride",
+      "link": "https://www.channelnewsasia.com/world/berlin-pride-islamist-terror-attack-search-suspect-6279026",
+      "date": "Sun, 26 Jul 2026 21:37:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:34:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why are Israeli settlers on a rampage in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:31:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Langton released from hospital after concussion at Commonwealth Games",
+      "link": "https://www.aljazeera.com/sports/2026/7/26/langton-released-from-hospital-after-concussion-at-commonwealth-games?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:30:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘New education minister can’t bring my dead daughter back’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/new-education-minister-cant-bring-my-dead-daughter?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:26:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What next for India’s ‘Cockroach’ movement after education minister sacked",
+      "link": "https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 13:15:01 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Trauma and taboos: how Portugal takes care of migrants' mental health",
+      "link": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
+      "date": "Sun, 26 Jul 2026 12:59:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 12:52:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Southern China faces torrential rain, floods after Typhoon Noul makes landfall",
+      "link": "https://www.channelnewsasia.com/east-asia/southern-china-typhoon-noul-torrential-rain-flood-6278926",
+      "date": "Sun, 26 Jul 2026 20:33:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russian betting company ties spark resistance to appointing Pirlo as Italy coach",
+      "link": "https://www.channelnewsasia.com/sport/russian-betting-company-ties-spark-resistance-appointing-pirlo-italy-coach-6278996",
+      "date": "Sun, 26 Jul 2026 20:32:05 +0800"
     },
     {
       "src": "BBC World",
@@ -31,23 +108,9 @@
       "date": "Sun, 26 Jul 2026 11:29:07 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
-      "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 11:28:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 11:18:00 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Wildfires overwhelm exhausted firefighters in France and Spain",
+      "text": "France and Spain battle &#039;unpredictable&#039; wildfires as 300,000 evacuated",
       "link": "https://www.channelnewsasia.com/world/france-spain-wildfire-heatwave-blaze-evacuation-6278921",
       "date": "Sun, 26 Jul 2026 19:14:00 +0800"
     },
@@ -59,60 +122,11 @@
       "date": "Sun, 26 Jul 2026 19:03:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Female football referee suffers concussion amid male players’ melee",
-      "link": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 11:00:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why the UK cancelled a military exercise in Kenya – and what it means",
-      "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 10:47:27 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-      "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 10:45:23 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Malaysia to make F1 comeback in October as host of Bahrain GP",
       "link": "https://www.channelnewsasia.com/asia/f1-malaysia-sepang-circuit-bahrain-replacement-race-6278111",
       "date": "Sun, 26 Jul 2026 18:43:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Bullied, beaten up, killed’: Armenia's drag queens risk it all for the stage",
-      "link": "https://www.france24.com/en/europe/20260726-bullied-beaten-killed-armenia-drag-queens-risk-all-for-the-stage",
-      "date": "Sun, 26 Jul 2026 10:39:20 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is India’s new education minister?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 10:33:58 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Deadly attack on holiday camp in Russian-held part of Ukraine, officials say",
-      "link": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
-      "date": "Sun, 26 Jul 2026 10:32:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfires ravage southwest France: Thousands face devastation after evacuation",
-      "link": "https://www.france24.com/en/wildfires-ravage-southwest-france-thousands-face-devastation-after-evacuation",
-      "date": "Sun, 26 Jul 2026 10:29:55 GMT"
     },
     {
       "src": "BBC World",
@@ -122,13 +136,6 @@
       "date": "Sun, 26 Jul 2026 10:26:05 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Romanian jet shoots down drone entering country's airspace for third day in a row",
-      "link": "https://www.france24.com/en/europe/20260726-romanian-jet-shoots-down-drone-entering-country-airspace-for-third-day-in-a-row",
-      "date": "Sun, 26 Jul 2026 10:11:29 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Joshua jitters fail to dampen appetite for British showdown with Fury",
@@ -136,65 +143,9 @@
       "date": "Sun, 26 Jul 2026 18:03:44 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France fire situation 'remains very unfavourable' says interior minister",
-      "link": "https://www.france24.com/en/france-fire-situation-remains-very-unfavourable-says-interior-minister",
-      "date": "Sun, 26 Jul 2026 09:57:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
-      "link": "https://www.france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured",
-      "date": "Sun, 26 Jul 2026 09:53:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel detains over 70 suspects following deadly violence in the West Bank",
-      "link": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
-      "date": "Sun, 26 Jul 2026 09:49:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Women's Football: Women's Africa Cup of Nations kicks off in Morocco",
-      "link": "https://www.france24.com/en/video/20260726-women-s-football-women-s-africa-cup-of-nations-kicks-off-in-morocco-1",
-      "date": "Sun, 26 Jul 2026 09:39:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chinese university investigating girl&#039;s death in gene-editing trial",
-      "link": "https://www.channelnewsasia.com/east-asia/chinese-university-investigating-girls-death-in-gene-editing-trial-6278826",
-      "date": "Sun, 26 Jul 2026 16:11:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US, Japan join Philippines in South China Sea drills",
-      "link": "https://www.channelnewsasia.com/asia/us-japan-join-philippines-in-south-china-sea-drills-6278791",
-      "date": "Sun, 26 Jul 2026 15:43:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zelensky says Russia seeks 30,000 extra North Korean troops for Ukraine war",
-      "link": "https://www.channelnewsasia.com/east-asia/zelensky-russia-30000-extra-north-korean-troops-ukraine-war-6278776",
-      "date": "Sun, 26 Jul 2026 15:04:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NZ coach Walter backs Nicholls to continue at number three",
-      "link": "https://www.channelnewsasia.com/sport/nz-coach-walter-backs-nicholls-continue-number-three-6278781",
-      "date": "Sun, 26 Jul 2026 14:47:00 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "text": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "link": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
       "date": "Sun, 26 Jul 2026 05:00:03 GMT"
     },
@@ -215,7 +166,7 @@
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "One dead and several injured at Berlin's LGBTQ+ march after a car drives into the crowd",
+      "text": "Germany says fatal Berlin Pride attack believed to an act of Islamic extremist terror",
       "link": "https://www.rfi.fr/en/international/20260725-several-people-are-injured-at-berlin-s-lgbtq-march-after-a-car-drives-into-the-crowd",
       "date": "Sat, 25 Jul 2026 21:42:43 GMT"
     },
@@ -260,13 +211,6 @@
       "text": "Israel's move to recognise Armenian genocide stalls under regional pressure",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260725-israel-s-move-to-recognise-armenian-genocide-stalls-under-regional-pressure",
       "date": "Sat, 25 Jul 2026 11:44:26 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "European tourists found alive after speedboat sinks in Indonesia",
-      "link": "https://news.sky.com/story/european-tourists-found-alive-after-speedboat-sinks-in-indonesia-13566846",
-      "date": "Sat, 25 Jul 2026 10:20:00 +0100"
     },
     {
       "src": "Sky News",
@@ -381,62 +325,6 @@
       "date": "Fri, 24 Jul 2026 15:28:37 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "International Criminal Court Prosecutor Karim Khan dismissed",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Wildfires surge across Europe as Spain and France battle major blazes",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
-      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Macky Sall pledges to restore trust in UN as leadership race gathers pace",
@@ -463,13 +351,6 @@
       "text": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
       "link": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
       "date": "Thu, 23 Jul 2026 14:06:01 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Germany approves factory use for controversial French-Russian nuclear project",
-      "link": "https://www.rfi.fr/en/international/20260723-germany-approves-factory-use-for-controversial-french-russian-nuclear-project",
-      "date": "Thu, 23 Jul 2026 05:08:48 GMT"
     },
     {
       "src": "The Guardian",
