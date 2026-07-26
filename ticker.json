@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-25T23:27:08.419Z",
-  "count": 62,
+  "updated": "2026-07-26T01:03:08.206Z",
+  "count": 70,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 300,000 flee wildfires in France and Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 26 Jul 2026 00:54:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 00:49:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spider-Man: Brand New Day director explains why Sadie Sink&#039;s role is being kept secret",
+      "link": "https://www.channelnewsasia.com/entertainment/spider-man-brand-new-day-sadie-sink-character-secret-6278551",
+      "date": "Sun, 26 Jul 2026 08:18:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+      "link": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 00:08:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "date": "Sun, 26 Jul 2026 00:00:25 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What’s behind the Israeli crackdown in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "date": "Sat, 25 Jul 2026 23:30:45 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -54,7 +96,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Live: France evacuates 55,000 more as Bordeaux fires worsen",
+      "text": "Live: Bordeaux evacuates 55,000 more as fires worsen in France and Spain",
       "link": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
       "date": "Sat, 25 Jul 2026 22:57:56 GMT"
     },
@@ -82,7 +124,7 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "One killed, 15 wounded after car hits crowds near Berlin Pride",
+      "text": "German Chancellor vows justice after deadly car attack near Berlin Gay Pride event",
       "link": "https://www.channelnewsasia.com/world/berlin-pride-car-crowd-one-killed-6278451",
       "date": "Sun, 26 Jul 2026 06:21:00 +0800"
     },
@@ -108,20 +150,6 @@
       "date": "Sun, 26 Jul 2026 06:00:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
-      "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 21:59:39 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scottish police arrest 15 after anti-migrant protest clashes",
-      "link": "https://www.channelnewsasia.com/world/scottish-police-arrest-15-after-anti-migrant-protest-clashes-6278446",
-      "date": "Sun, 26 Jul 2026 05:46:00 +0800"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Several people are injured at Berlin's LGBTQ+ march after a car drives into the crowd",
@@ -129,30 +157,9 @@
       "date": "Sat, 25 Jul 2026 21:42:43 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli forces tear gas journalists reporting Nablus shootout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 21:08:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How India’s ‘Cockroach’ protesters shook the Modi government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 20:57:45 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-      "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-      "date": "Sat, 25 Jul 2026 20:00:43 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Man charged after suspected car bomb intercepted near Irish border",
+      "text": "Museum employee charged after suspected car bomb intercepted near Irish border",
       "link": "https://news.sky.com/story/man-charged-after-suspected-car-bomb-intercepted-near-irish-border-13566985",
       "date": "Sat, 25 Jul 2026 18:55:00 +0100"
     },
@@ -169,13 +176,6 @@
       "text": "War in the Middle East: Deadly violence mounts in the West Bank",
       "link": "https://www.france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank",
       "date": "Sat, 25 Jul 2026 17:37:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "More than 250,000 flee wildfires in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 17:13:40 GMT"
     },
     {
       "src": "France 24",
@@ -379,6 +379,62 @@
       "text": "Canadian government urged to block Thomson Reuters data deal with US ICE",
       "link": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
       "date": "Fri, 24 Jul 2026 13:53:34 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "International Criminal Court Prosecutor Karim Khan dismissed",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Wildfires surge across Europe as Spain and France battle major blazes",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
