@@ -1,76 +1,251 @@
 {
-  "updated": "2026-07-27T08:30:52.244Z",
-  "count": 71,
+  "updated": "2026-07-27T12:08:38.455Z",
+  "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "What Britain&#039;s new government means for ASEAN and Asia",
-      "link": "https://www.channelnewsasia.com/asia/uk-united-kingdom-britain-foreign-policy-ed-miliband-asia-asean-6280121",
-      "date": "Mon, 27 Jul 2026 16:22:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Infantino accuses World Cup critics of spreading hate in open letter",
-      "link": "https://www.channelnewsasia.com/sport/infantino-accuses-world-cup-critics-spreading-hate-in-open-letter-6280186",
-      "date": "Mon, 27 Jul 2026 15:59:36 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil price dives as US and Iran pause attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 11:50:23 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Brazil recalls Argentina ambassador after Milei insults Lula at Flavio Bolsonaro campaign launch",
-      "link": "https://www.france24.com/en/americas/20260727-brazil-recalls-argentina-ambassador-after-milei-insults-lula-flavio-bolsonaro-campaign-launch",
-      "date": "Mon, 27 Jul 2026 07:49:38 GMT"
+      "text": "Paris police arrest suspect after three women wounded in knife attack",
+      "link": "https://www.france24.com/en/france/20260727-paris-police-arrest-suspect-after-knife-attack-three-women",
+      "date": "Mon, 27 Jul 2026 11:48:09 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Lawyer under work, relationship stress took upskirt videos using modified bag, gets jail",
-      "link": "https://www.channelnewsasia.com/singapore/lawyer-stress-upskirt-videos-voyeur-jail-6280096",
-      "date": "Mon, 27 Jul 2026 15:48:00 +0800"
+      "text": "OpenAI to triple workforce at Dublin European headquarters to 350",
+      "link": "https://www.channelnewsasia.com/business/openai-triple-workforce-dublin-european-headquarters-350-6280666",
+      "date": "Mon, 27 Jul 2026 19:43:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tesla wins bid to revive UK lawsuit for 5G patents licence",
+      "link": "https://www.channelnewsasia.com/business/tesla-wins-bid-revive-uk-lawsuit-5g-patents-licence-6280671",
+      "date": "Mon, 27 Jul 2026 19:42:06 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Tadej Pogacar wins Tour de France for a record-equalling fifth time",
-      "link": "https://www.aljazeera.com/sports/2026/7/27/tadej-pogacar-tour-de-france-2026-cycling-record-fifth-title?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 07:40:52 +0000"
+      "text": "Wildfires in southwest Europe: What we know so far",
+      "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 11:32:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
+      "link": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 11:25:48 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "#Spain races to contain 'monster' #fires ahead of new #heatwave",
+      "link": "https://www.france24.com/en/video/20260727-spain-races-to-contain-monster-fires-ahead-of-new-heatwave",
+      "date": "Mon, 27 Jul 2026 11:25:11 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "As Japan swelters, staying cool amid a summer heatwave becomes a way of life",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-summer-heatwave-kokushobi-6280171",
+      "date": "Mon, 27 Jul 2026 19:19:38 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: France, Spain battle ‘monster’ wildfires as more heat looms",
+      "link": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 11:14:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran says it still controls Hormuz, not seeking talks, after Trump halts bombing",
+      "link": "https://www.channelnewsasia.com/world/iran-still-control-strait-hormuz-trump-halts-bombing-6280411",
+      "date": "Mon, 27 Jul 2026 19:11:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Philippines&#039; Marcos says &#039;perhaps time to revisit nuclear energy&#039;",
+      "link": "https://www.channelnewsasia.com/asia/philippines-nuclear-energy-ferdinand-marcos-6280551",
+      "date": "Mon, 27 Jul 2026 19:05:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 07:37:11 GMT"
+      "text": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 11:03:15 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Former preschool teacher jailed for slapping 3-year-old boy, causing his head to hit cupboard",
-      "link": "https://www.channelnewsasia.com/singapore/preschool-teacher-jailed-slapping-boy-6280126",
-      "date": "Mon, 27 Jul 2026 15:24:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man, 30, dies in CTE crash involving car and lorry",
-      "link": "https://www.channelnewsasia.com/singapore/cte-sle-accident-dead-taken-hospital-6280101",
-      "date": "Mon, 27 Jul 2026 15:22:00 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Economic Integration in the Middle East Is a False God",
+      "link": "https://foreignpolicy.com/2026/07/27/middle-east-trump-saudi-arabia-economic-integration-israel-gulf/",
+      "date": "Mon, 27 Jul 2026 11:00:15 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "German arms export licences for Israel surge with focus on sub project",
-      "link": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 07:20:07 +0000"
+      "text": "Moment Ukrainian drones strike Russia’s Belgorod",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 10:59:17 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 10:59:13 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US deports Kenyan former NFL player Daniel Adongo",
+      "link": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 10:56:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why has the US halted its bombing of Iran?",
+      "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 10:55:52 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "South Korea court gives ex-President Yoon suspended jail term for violating election law",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-yoon-suk-yeol-jail-term-election-law-6280026",
-      "date": "Mon, 27 Jul 2026 15:19:00 +0800"
+      "text": "Guan Chong forecasts increased grindings in 2026",
+      "link": "https://www.channelnewsasia.com/business/guan-chong-forecasts-increased-grindings-in-2026-6280571",
+      "date": "Mon, 27 Jul 2026 18:55:21 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 10:46:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli forces storm multiple West Bank towns, settler violence worsens",
+      "link": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 10:41:01 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spending spree shows Tottenham ambition, says Van de Ven",
+      "link": "https://www.channelnewsasia.com/sport/spending-spree-shows-tottenham-ambition-says-van-de-ven-6280531",
+      "date": "Mon, 27 Jul 2026 18:37:10 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+      "link": "https://www.channelnewsasia.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-6280496",
+      "date": "Mon, 27 Jul 2026 18:28:28 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least 10 killed as flash floods and typhoon hit China",
+      "link": "https://news.sky.com/story/at-least-10-killed-as-flash-floods-and-typhoon-hit-china-13567383",
+      "date": "Mon, 27 Jul 2026 11:19:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 09:59:15 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "FIFA president's extraordinary online rant at World Cup critics",
+      "link": "https://news.sky.com/story/world-cup-critics-consumed-by-hate-fifas-gianni-infantino-says-13567364",
+      "date": "Mon, 27 Jul 2026 10:45:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Suspect in Berlin Pride attack shot dead by police",
+      "link": "https://www.france24.com/en/video/20260727-suspect-in-berlin-pride-attack-shot-dead-by-police",
+      "date": "Mon, 27 Jul 2026 09:44:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French firefighters battle the blaze with local residents through the night",
+      "link": "https://www.france24.com/en/video/20260727-french-firefighters-battle-the-blaze-with-local-residents-through-the-night",
+      "date": "Mon, 27 Jul 2026 09:42:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wildfire threatens French defence sites ArianeGroup, Dassault and Thales",
+      "link": "https://www.france24.com/en/video/20260727-wildfire-threatens-french-defence-sites-arianegroup-dassault-and-thales",
+      "date": "Mon, 27 Jul 2026 09:41:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain to start first return of fire evacuees as wildfires advance has slowed",
+      "link": "https://www.france24.com/en/video/20260727-spain-to-start-first-return-of-fire-evacuees-as-wildfires-advance-has-slowed",
+      "date": "Mon, 27 Jul 2026 09:41:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France, Spain wildfires: Climate change increasing frequency, intensity of extreme weather events",
+      "link": "https://www.france24.com/en/video/20260727-france-spain-wildfires-climate-change-increasing-frequency-intensity-of-extreme-weather-events",
+      "date": "Mon, 27 Jul 2026 09:39:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
+      "link": "https://www.aljazeera.com/news/2026/7/27/sam-altman-says-ai-has-entered-singularity-should-we-be-worried?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 09:37:49 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
+      "link": "https://www.aljazeera.com/sports/2026/7/27/fifa-president-infantino-accuses-2026-world-cup-critics-of-spreading-hate-letter?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 09:33:55 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Iran halts retaliatory strikes as US gives diplomacy 'more room'",
+      "link": "https://www.rfi.fr/en/international/20260727-iran-halts-retaliatory-strikes-as-us-gives-diplomacy-more-room",
+      "date": "Mon, 27 Jul 2026 09:24:52 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Millions see leaked copy of The Odyssey movie on X",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 09:21:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France, Spain race to contain 'monster' fires ahead of new heatwave",
+      "link": "https://www.france24.com/en/video/20260727-france-spain-race-to-contain-monster-fires-ahead-of-new-heatwave",
+      "date": "Mon, 27 Jul 2026 08:59:36 GMT"
     },
     {
       "src": "The Guardian",
@@ -80,16 +255,9 @@
       "date": "Mon, 27 Jul 2026 07:00:34 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore economy to stay firm for rest of 2026 as AI boom cushions oil shocks, new US tariff: MAS",
-      "link": "https://www.channelnewsasia.com/singapore/economy-ai-oil-prices-middle-east-conflict-trump-tariffs-mas-6279896",
-      "date": "Mon, 27 Jul 2026 15:00:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "text": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
       "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 27 Jul 2026 06:48:02 GMT"
     },
@@ -99,62 +267,6 @@
       "text": "France and Spain battle vast wildfires as fresh heatwave approaches",
       "link": "https://www.rfi.fr/en/international/20260727-france-and-spain-battle-vast-wildfires-as-fresh-heatwave-approaches",
       "date": "Mon, 27 Jul 2026 06:36:51 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Explosion, &#039;suspected bomb&#039; in Philippine capital before Marcos speech",
-      "link": "https://www.channelnewsasia.com/world/suspected-bomb-marcos-speech-manila-philippines-6280066",
-      "date": "Mon, 27 Jul 2026 14:19:49 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-      "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 06:15:01 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 06:14:06 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "link": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 05:59:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tour de France: Mathieu van der Poel wins legendary final stage",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260727-tour-de-france-mathieu-van-der-poel-wins-legendary-final-stage",
-      "date": "Mon, 27 Jul 2026 05:57:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-      "link": "https://www.aljazeera.com/features/2026/7/27/climate-change-presents-new-threat-to-philippines-unesco-rice-terraces?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 05:47:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats",
-      "link": "https://www.aljazeera.com/news/2026/7/27/pakistans-kashmir-votes-why-the-election-hinges-on-12-disputed-seats?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 05:38:06 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Macron to hold crisis meeting as French wildfires force more than 250,000 to evacuate",
-      "link": "https://www.france24.com/en/europe/20260727-live-macron-crisis-cabinet-meeting-france-devastating-wildfires-macron",
-      "date": "Mon, 27 Jul 2026 05:28:12 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -171,88 +283,11 @@
       "date": "Mon, 27 Jul 2026 05:00:16 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-      "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 04:49:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Firefighters battle wildfires in Spain’s eastern Castellon province",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-wildfires-in-spains-eastern-castellon-province?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 04:48:05 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands march in Pakistan-administered Kashmir amid election unrest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_26-07-sv-pakistan-kashmir-march-km-270726?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 04:40:27 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Wildfires ravage Europe | Could Burnham call early election?",
       "link": "https://news.sky.com/story/wildfires-ravage-europe-could-burnham-call-early-election-13567271",
       "date": "Mon, 27 Jul 2026 05:33:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Britain's new PM Burnham to host Zelensky for first visit by a foreign leader",
-      "link": "https://www.france24.com/en/europe/20260727-burnham-to-welcome-zelensky-on-first-foreign-leader-visit-to-london-since-taking-office",
-      "date": "Mon, 27 Jul 2026 03:15:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Oil prices fall amid pause in US strikes on Iran to give 'space' for diplomacy",
-      "link": "https://www.france24.com/en/middle-east/20260727-oil-prices-fall-amid-pause-in-iran-war-to-give-space-for-diplomacy",
-      "date": "Mon, 27 Jul 2026 03:13:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli ex-army chief emerges as main rival to Netanyahu ahead of general election",
-      "link": "https://www.france24.com/en/middle-east/20260727-ex-army-chief-emerges-as-main-rival-to-netanyahu-in-upcoming-israel-general-election",
-      "date": "Mon, 27 Jul 2026 01:41:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 01:35:51 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 00:27:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Back from Gironde: France 24's Luke Shrago gives firsthand account of fires",
-      "link": "https://www.france24.com/en/video/20260726-france-24-s-luke-shrago-gives-firsthand-account-of-fires-from-l%C3%A8ge-cap-ferret",
-      "date": "Sun, 26 Jul 2026 21:43:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 26 Jul 2026 21:23:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bordeaux under threat as France and Spain battle 'unprecedented' wildfires",
-      "link": "https://www.france24.com/en/europe/20260726-bordeaux-under-threat-as-france-and-spain-battle-unprecedented-wildfires",
-      "date": "Sun, 26 Jul 2026 20:35:39 GMT"
     },
     {
       "src": "Sky News",
@@ -267,13 +302,6 @@
       "text": "No snakes in church and don't eat the frogs: the weird world of US animal laws",
       "link": "https://www.rfi.fr/en/international/20260726-no-snakes-in-church-and-don-t-eat-the-frogs-the-weird-world-of-us-animal-laws",
       "date": "Sun, 26 Jul 2026 19:21:52 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Berlin Pride attack suspect shot and killed during police operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 26 Jul 2026 19:21:26 GMT"
     },
     {
       "src": "RFI",
@@ -367,13 +395,6 @@
       "date": "Sat, 25 Jul 2026 12:00:00 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body'>In France, hotels for wine lovers have turned into evacuation centres</a>",
-      "link": "https://news.sky.com/story/in-france-hotels-for-wine-lovers-have-turned-into-evacuation-centres-13566878",
-      "date": "Sat, 25 Jul 2026 12:56:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Israel's move to recognise Armenian genocide stalls under regional pressure",
@@ -386,13 +407,6 @@
       "text": "Haitians at home and abroad fear fallout from end of US protection",
       "link": "https://www.rfi.fr/en/international/20260725-haitians-in-port-au-prince-and-new-york-fear-fallout-from-end-of-us-protectionn",
       "date": "Sat, 25 Jul 2026 06:18:10 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "NGOs take France to court over companies’ links to Israeli settlements",
-      "link": "https://www.rfi.fr/en/international/20260725-ngos-take-france-to-court-over-companies-links-to-israeli-settlements",
-      "date": "Sat, 25 Jul 2026 05:17:38 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -428,13 +442,6 @@
       "text": "What in the World?",
       "link": "https://foreignpolicy.com/2026/07/24/news-quiz-nicaragua-ortega-zelensky-ukraine-houthi-blockade/",
       "date": "Fri, 24 Jul 2026 18:56:03 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Jonestown Massacre in Black and White",
-      "link": "https://foreignpolicy.com/2026/07/24/jonestown-massacre-guyana-naipaul-racism/",
-      "date": "Fri, 24 Jul 2026 18:30:11 +0000"
     },
     {
       "src": "The Guardian",
