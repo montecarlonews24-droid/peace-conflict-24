@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-27T22:48:12.012Z",
-  "count": 64,
+  "updated": "2026-07-27T23:52:32.015Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Travel skincare essentials: What to pack to protect your skin on holiday",
+      "link": "https://www.channelnewsasia.com/style-beauty/travel-skincare-guide-6240071",
+      "date": "Tue, 28 Jul 2026 07:24:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US diplomats walk out as France addresses UN Security Council",
+      "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 23:07:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Yemen&#039;s internationally recognised government &#039;prepared for any escalations&#039; with Houthis",
+      "link": "https://www.channelnewsasia.com/world/yemen-government-prepared-escalation-houthis-red-sea-bab-el-mandeb-6281806",
+      "date": "Tue, 28 Jul 2026 07:05:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 22:58:49 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -64,27 +92,6 @@
       "text": "Commentary: China’s building crash helps ease the Hormuz pain",
       "link": "https://www.channelnewsasia.com/commentary/china-building-crash-eases-hormuz-pain-6280271",
       "date": "Tue, 28 Jul 2026 05:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Why workers are nostalgic for life before AI",
-      "link": "https://www.channelnewsasia.com/commentary/employees-crave-workplace-chatgpt-generative-ai-6280231",
-      "date": "Tue, 28 Jul 2026 05:58:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Way cleared for pop singer D4vd to stand trial on murder, mutilation charges",
-      "link": "https://www.channelnewsasia.com/world/d4vd-murder-trial-singer-judge-cleared-6281736",
-      "date": "Tue, 28 Jul 2026 05:49:38 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US singer D4vd to go on trial for murder in death of teen",
-      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 21:37:59 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -162,13 +169,6 @@
       "text": "Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice",
       "link": "https://foreignpolicy.com/2026/07/27/trump-nuclear-saudi-arabia-deal-iran-israel/",
       "date": "Mon, 27 Jul 2026 20:33:20 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
-      "link": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 20:32:59 +0000"
     },
     {
       "src": "France 24",
@@ -283,6 +283,48 @@
       "date": "Mon, 27 Jul 2026 12:33:31 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168034",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "High prices and funding cuts stall HIV prevention revolution",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168033",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Conflict and crisis put six World Heritage sites at risk",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168031",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168030",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Economic Integration in the Middle East Is a False God",
@@ -365,6 +407,20 @@
       "text": "Trauma and taboos: how Portugal takes care of migrants' mental health",
       "link": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
       "date": "Sun, 26 Jul 2026 12:59:38 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After war took her leg, this Ukrainian gymnast refused to give up",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
