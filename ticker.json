@@ -1,27 +1,111 @@
 {
-  "updated": "2026-07-27T21:34:32.741Z",
+  "updated": "2026-07-27T22:48:12.012Z",
   "count": 64,
   "items": [
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Shot fired outside US consulate in Canada for second time this year",
+      "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 22:34:38 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen says ready for Houthi escalation after rebels target Saudi Arabia",
+      "link": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
+      "date": "Mon, 27 Jul 2026 22:19:10 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Oil prices slump as US and Iran pause strikes",
-      "link": "https://www.channelnewsasia.com/world/oil-prices-us-stocks-market-wall-street-6281696",
-      "date": "Tue, 28 Jul 2026 05:26:59 +0800"
+      "text": "Why Tasmania’s Chardonnay is gaining global attention",
+      "link": "https://www.channelnewsasia.com/experiences/tasmanian-chardonnay-wineries-6275786",
+      "date": "Tue, 28 Jul 2026 06:09:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "A Japanese town wrestles with identity after protests over its first mosque",
+      "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 22:08:21 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China is building more legal tools for foreign-related disputes. What does it mean for companies, individuals?",
+      "link": "https://www.channelnewsasia.com/east-asia/china-law-foreign-disputes-sue-organisations-individuals-6275506",
+      "date": "Tue, 28 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Some 260 fake Jack Ma videos spreading falsehoods about Singapore on YouTube: CNA investigation",
+      "link": "https://www.channelnewsasia.com/singapore/jack-ma-ai-deepfakes-youtube-disinformation-falsehoods-6273136",
+      "date": "Tue, 28 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Survey finds Singapore workers disengaged - but we shouldn’t resign ourselves to this",
+      "link": "https://www.channelnewsasia.com/commentary/gallup-report-disengaged-worker-job-employer-6272521",
+      "date": "Tue, 28 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore has 36 EV charging companies. Can they all survive?",
+      "link": "https://www.channelnewsasia.com/singapore/ev-charging-36-companies-chargeco-6268371",
+      "date": "Tue, 28 Jul 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: China’s building crash helps ease the Hormuz pain",
+      "link": "https://www.channelnewsasia.com/commentary/china-building-crash-eases-hormuz-pain-6280271",
+      "date": "Tue, 28 Jul 2026 05:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Why workers are nostalgic for life before AI",
+      "link": "https://www.channelnewsasia.com/commentary/employees-crave-workplace-chatgpt-generative-ai-6280231",
+      "date": "Tue, 28 Jul 2026 05:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Way cleared for pop singer D4vd to stand trial on murder, mutilation charges",
+      "link": "https://www.channelnewsasia.com/world/d4vd-murder-trial-singer-judge-cleared-6281736",
+      "date": "Tue, 28 Jul 2026 05:49:38 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US singer D4vd to go on trial for murder in death of teen",
       "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 21:17:05 GMT"
+      "date": "Mon, 27 Jul 2026 21:37:59 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Modi faces challenge from activists over surveillance at India youth protest",
-      "link": "https://www.channelnewsasia.com/world/modi-india-youth-protest-surveillance-6281626",
-      "date": "Tue, 28 Jul 2026 05:11:10 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video shows man subdued after stabbing three women in Paris",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 21:27:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 21:24:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 21:17:15 +0000"
     },
     {
       "src": "BBC World",
@@ -31,11 +115,25 @@
       "date": "Mon, 27 Jul 2026 21:10:56 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "T-Mobile down for thousands of users in US, Downdetector shows",
-      "link": "https://www.channelnewsasia.com/business/t-mobile-down-thousands-users-in-us-downdetector-shows-6281681",
-      "date": "Tue, 28 Jul 2026 05:06:35 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What to Expect at the Trump-Netanyahu Showdown",
+      "link": "https://foreignpolicy.com/2026/07/27/netanyahu-trump-visit-israel-iran-war-elections-mamdani-united-nations/",
+      "date": "Mon, 27 Jul 2026 21:09:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+      "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 21:08:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 21:04:09 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -50,13 +148,6 @@
       "text": "US walks out of UN Security Council meeting as France condemns rights vote",
       "link": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote",
       "date": "Mon, 27 Jul 2026 20:41:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Cadence raises annual forecasts as demand booms for AI chip design",
-      "link": "https://www.channelnewsasia.com/business/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-6281661",
-      "date": "Tue, 28 Jul 2026 04:35:50 +0800"
     },
     {
       "src": "BBC World",
@@ -80,60 +171,11 @@
       "date": "Mon, 27 Jul 2026 20:32:59 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
-      "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 20:27:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump takes economic message to Michigan amid dwindling popularity",
-      "link": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 20:23:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 20:12:45 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "2026 Women's Africa Cup of Nations is underway",
       "link": "https://www.france24.com/en/2026-women-s-africa-cup-of-nations-is-underway",
       "date": "Mon, 27 Jul 2026 20:12:09 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 20:09:16 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sabalenka, Djokovic headline US Open mixed doubles field",
-      "link": "https://www.channelnewsasia.com/sport/sabalenka-djokovic-headline-us-open-mixed-doubles-field-6281606",
-      "date": "Tue, 28 Jul 2026 04:02:38 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump sees &#039;good chance&#039; for Iran deal, warns strikes could resume",
-      "link": "https://www.channelnewsasia.com/world/trump-iran-deal-us-halt-strikes-resume-6281561",
-      "date": "Tue, 28 Jul 2026 03:54:03 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain protests mass ‘touristification’ of Mallorca",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spain-protests-mass-touristification-of-mallorca?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 19:50:55 +0000"
     },
     {
       "src": "BBC World",
@@ -148,27 +190,6 @@
       "text": "Haiti schedules December presidential election despite security concerns",
       "link": "https://www.france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns",
       "date": "Mon, 27 Jul 2026 19:36:34 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Glover says mid-round shoe removal about spike marks, not AimPoint protest",
-      "link": "https://www.channelnewsasia.com/sport/glover-says-mid-round-shoe-removal-about-spike-marks-not-aimpoint-protest-6281576",
-      "date": "Tue, 28 Jul 2026 03:36:06 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN eyeing potential Israeli war crimes in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 19:32:53 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pentagon says US industry still years from matching Ukraine&#039;s wartime drone output",
-      "link": "https://www.channelnewsasia.com/business/pentagon-says-us-industry-still-years-matching-ukraines-wartime-drone-output-6281531",
-      "date": "Tue, 28 Jul 2026 03:03:19 +0800"
     },
     {
       "src": "France 24",
@@ -234,13 +255,6 @@
       "date": "Mon, 27 Jul 2026 15:50:30 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Blaze battle rages in France as wildfire stable but not contained",
-      "link": "https://www.france24.com/en/video/20260727-blaze-battle-rages-in-france-as-wildfire-stable-but-not-contained",
-      "date": "Mon, 27 Jul 2026 15:13:13 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Fight for International Justice Continues",
@@ -253,13 +267,6 @@
       "text": "<a href='https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12136802#liveblog-body'>What's the travel advice for Spain and France?</a>",
       "link": "https://news.sky.com/story/whats-the-travel-advice-for-spain-and-france-13567460",
       "date": "Mon, 27 Jul 2026 15:09:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Carly Simon reveals Parkinson's diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 27 Jul 2026 14:04:01 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -414,13 +421,6 @@
       "text": "Haitians at home and abroad fear fallout from end of US protection",
       "link": "https://www.rfi.fr/en/international/20260725-haitians-in-port-au-prince-and-new-york-fear-fallout-from-end-of-us-protectionn",
       "date": "Sat, 25 Jul 2026 06:18:10 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Swaps Out Tariffs for Even More Tariffs",
-      "link": "https://foreignpolicy.com/2026/07/24/us-tariffs-forced-labor-trump-section-301-trade-protectionism/",
-      "date": "Fri, 24 Jul 2026 21:32:19 +0000"
     },
     {
       "src": "The Guardian",
