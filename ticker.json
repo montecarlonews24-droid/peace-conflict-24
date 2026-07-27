@@ -1,20 +1,125 @@
 {
-  "updated": "2026-07-27T01:05:20.658Z",
+  "updated": "2026-07-27T05:00:04.143Z",
   "count": 62,
   "items": [
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 00:48:06 +0000"
+      "text": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+      "link": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:49:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Firefighters battle wildfires in Spain’s eastern Castellon province",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-wildfires-in-spains-eastern-castellon-province?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:48:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Thousands march in Pakistan-administered Kashmir amid election unrest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_26-07-sv-pakistan-kashmir-march-km-270726?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:40:27 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Shares, bonds bounce as oil skid offers inflation relief",
-      "link": "https://www.channelnewsasia.com/business/shares-bonds-bounce-oil-skid-offers-inflation-relief-6279656",
-      "date": "Mon, 27 Jul 2026 08:41:57 +0800"
+      "text": "Bank of Japan to signal more rate hikes as price pressures build",
+      "link": "https://www.channelnewsasia.com/business/bank-japan-signal-more-rate-hikes-price-pressures-build-6279916",
+      "date": "Mon, 27 Jul 2026 12:27:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Technology can make worksites safer, but good practices remain key: Industry players",
+      "link": "https://www.channelnewsasia.com/singapore/workplace-safety-technology-ns-square-tuas-port-6275511",
+      "date": "Mon, 27 Jul 2026 12:23:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+      "link": "https://www.aljazeera.com/news/2026/7/27/sudans-army-claims-control-of-major-highway-linking-khartoum-and-el-obeid?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:21:37 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mediacorp artiste Gladys Bay wins Outstanding Asian Star award for Singapore at Seoul International Drama Awards",
+      "link": "https://www.channelnewsasia.com/entertainment/gladys-bay-outstanding-asian-star-award-singapore-seoul-international-drama-awards-2026-6279696",
+      "date": "Mon, 27 Jul 2026 12:17:08 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_moment-shots-erupt-at-seattle-festival-260726?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:07:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/sudans-army-regains-control-of-highway-linking-khartoum-with-el-obeid?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 04:00:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shooting at a Seattle food festival leaves 2 dead and wounds 5: Official",
+      "link": "https://www.channelnewsasia.com/world/seattle-shooting-us-food-festival-6279851",
+      "date": "Mon, 27 Jul 2026 11:50:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinese actor Zhang Linghe doesn&#039;t have a regular hairstylist, says his hair is cut &#039;randomly&#039;",
+      "link": "https://www.channelnewsasia.com/entertainment/zhang-linghe-hair-interview-6279756",
+      "date": "Mon, 27 Jul 2026 11:48:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "TV presenter Diana Ser lists out life advice for her children entering university: &#039;Don’t just make friends&#039;",
+      "link": "https://www.channelnewsasia.com/entertainment/diana-ser-advice-university-kids-james-lye-6279786",
+      "date": "Mon, 27 Jul 2026 11:35:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+      "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 03:34:06 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan PM Takaichi&#039;s approval rating slides as inflation bites",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-approval-rating-inflation-6279611",
+      "date": "Mon, 27 Jul 2026 11:17:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "In Israel vote, ex-army chief emerges main rival to Netanyahu",
+      "link": "https://www.channelnewsasia.com/world/israel-election-gadi-eisenkot-main-rival-benjamin-netanyahu-6279821",
+      "date": "Mon, 27 Jul 2026 11:16:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Firefighters battle to contain wildfires still burning near Bordeaux",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss",
+      "date": "Mon, 27 Jul 2026 02:50:05 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 27 Jul 2026 01:35:51 GMT"
     },
     {
       "src": "BBC World",
@@ -22,83 +127,6 @@
       "text": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
       "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 27 Jul 2026 00:27:58 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "The Odyssey has now made over US$600 million globally since its release",
-      "link": "https://www.channelnewsasia.com/entertainment/odyssey-box-office-second-weekend-6279216",
-      "date": "Mon, 27 Jul 2026 08:14:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MAS tightens monetary policy for the second time in a row",
-      "link": "https://www.channelnewsasia.com/singapore/mas-monetary-policy-inflation-economy-outlook-6275571",
-      "date": "Mon, 27 Jul 2026 08:12:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan June services producer prices rise as Iran war keeps freight costs high",
-      "link": "https://www.channelnewsasia.com/business/japan-june-services-producer-prices-rise-iran-war-keeps-freight-costs-high-6279616",
-      "date": "Mon, 27 Jul 2026 08:06:21 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-      "date": "Mon, 27 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 23:44:29 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
-      "link": "https://www.channelnewsasia.com/business/nvidia-in-talks-openai-guarantee-250-billion-financing-data-center-wsj-reports-6279591",
-      "date": "Mon, 27 Jul 2026 07:39:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "This single mum returned to school at 40 – sharing polytechnic life with her teenage son",
-      "link": "https://www.channelnewsasia.com/women/single-mum-returns-school-40-temasek-polytechnic-son-6252531",
-      "date": "Mon, 27 Jul 2026 07:24:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Jefferson-Wooden flawless for 200m title in last day of US championships",
-      "link": "https://www.channelnewsasia.com/sport/jefferson-wooden-flawless-200m-title-in-last-day-us-championships-6279581",
-      "date": "Mon, 27 Jul 2026 07:20:49 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia to acquire $1 billion of new shares of South Korea&#039;s Naver",
-      "link": "https://www.channelnewsasia.com/business/nvidia-acquire-1-billion-new-shares-south-koreas-naver-6279546",
-      "date": "Mon, 27 Jul 2026 07:04:39 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump’s border czar probes possible vetting failures after ICE shooting",
-      "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 21:59:53 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Back from Gironde: France 24's Luke Shrago gives firsthand account of fires",
-      "link": "https://www.france24.com/en/video/20260726-france-24-s-luke-shrago-gives-firsthand-account-of-fires-from-l%C3%A8ge-cap-ferret",
-      "date": "Sun, 26 Jul 2026 21:43:25 GMT"
     },
     {
       "src": "BBC World",
@@ -115,41 +143,6 @@
       "date": "Sun, 26 Jul 2026 21:23:53 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s causing the unprecedented wildfires in Europe?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 21:17:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli government nods to international stabilisation force in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 21:10:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinians hope international peace force can rebuild Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 21:01:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US and Iran hit pause on strikes for second day",
-      "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "date": "Sun, 26 Jul 2026 20:55:52 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bordeaux under threat as France and Spain battle 'unprecedented' wildfires",
-      "link": "https://www.france24.com/en/environment/20260726-bordeaux-under-threat-as-france-spain-battle-unprecedented-wildfires",
-      "date": "Sun, 26 Jul 2026 20:35:39 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "What we know so far about the Berlin Pride ramming attack",
@@ -157,25 +150,11 @@
       "date": "Sun, 26 Jul 2026 20:34:23 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "From stage 6 onwards, Pogacar 'never let go' during Tour de France",
-      "link": "https://www.france24.com/en/from-stage-6-onwards-pogacar-never-let-go-during-tour-de-france",
-      "date": "Sun, 26 Jul 2026 20:02:13 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Sackings, 'drone deal' and a 'long war': Zelenskyy speaks to Sky News",
+      "text": "Zelenskyy on defence sackings, a possible drone deal, and a 'long war'",
       "link": "https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240",
       "date": "Sun, 26 Jul 2026 20:41:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Wildfires have scorched 115,000 hectares across France this year, interior minister says",
-      "link": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
-      "date": "Sun, 26 Jul 2026 19:34:03 GMT"
     },
     {
       "src": "RFI",
@@ -199,39 +178,32 @@
       "date": "Sun, 26 Jul 2026 18:40:08 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Pogacar wins fifth Tour de France as teen Seixas seals stunning fourth place",
-      "link": "https://www.france24.com/en/sport/20260726-pogacar-wins-fifth-tour-de-france-as-teen-seixas-seals-stunning-fourth-place",
-      "date": "Sun, 26 Jul 2026 18:00:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pogacar wins fifth Tour de France as teen Seixas seals stunning fourth place",
-      "link": "https://www.france24.com/en/sport/20260726-pogacar-wins-fifth-tour-de-france-as-teen-seixas-seals-stunning-fourth-place",
-      "date": "Sun, 26 Jul 2026 17:59:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Main suspect in Berlin Pride attack shot dead by police",
-      "link": "https://www.france24.com/en/europe/20260726-deadly-berlin-pride-ramming-was-islamist-terror-attack-says-german-interior-minister",
-      "date": "Sun, 26 Jul 2026 17:46:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfires in France: French farmers provide water tankers to help fight fire",
-      "link": "https://www.france24.com/en/video/20260726-wildfires-in-france-french-farmers-provide-water-tankers-to-help-fight-fire",
-      "date": "Sun, 26 Jul 2026 15:06:10 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Trauma and taboos: how Portugal takes care of migrants' mental health",
       "link": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
       "date": "Sun, 26 Jul 2026 12:59:38 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After war took her leg, this Ukrainian gymnast refused to give up",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -290,11 +262,18 @@
       "date": "Sat, 25 Jul 2026 14:22:35 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 25 Jul 2026 13:51:07 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘I am somebody’: Street-smart youth take their declaration to the UN",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168015",
+      "date": "Sat, 25 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168027",
+      "date": "Sat, 25 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -393,6 +372,27 @@
       "text": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "link": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
       "date": "Fri, 24 Jul 2026 15:28:37 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "International Criminal Court Prosecutor Karim Khan dismissed",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
+      "date": "Fri, 24 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
