@@ -1,13 +1,111 @@
 {
-  "updated": "2026-07-28T20:38:13.420Z",
-  "count": 69,
+  "updated": "2026-07-28T21:53:50.522Z",
+  "count": 61,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spain lets wildfire evacuees return but France fears flames spreading",
+      "link": "https://www.channelnewsasia.com/world/france-spain-wildfire-heatwave-evacuees-6284316",
+      "date": "Wed, 29 Jul 2026 05:41:20 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-OpenAI&#039;s rogue agent compromised an account at a second tech firm, executive says",
+      "link": "https://www.channelnewsasia.com/business/exclusive-openais-rogue-agent-compromised-account-second-tech-firm-executive-says-6284346",
+      "date": "Wed, 29 Jul 2026 05:27:31 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
+      "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 21:07:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 21:01:19 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Scandal Exposes Limits of China’s Scientific Rise",
+      "link": "https://foreignpolicy.com/2026/07/28/china-gene-editing-trial-scandal-death-child-biotech-ethics/",
+      "date": "Tue, 28 Jul 2026 20:54:27 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AT&T closes $23 billion deal to acquire spectrum from Echostar",
+      "link": "https://www.channelnewsasia.com/business/att-closes-23-billion-deal-acquire-spectrum-echostar-6284266",
+      "date": "Wed, 29 Jul 2026 04:53:35 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rome’s viral graffiti cleaner is taking on an ancient problem",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:41:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US midfielder Berhalter joins Middlesbrough on four-year deal",
+      "link": "https://www.channelnewsasia.com/sport/us-midfielder-berhalter-joins-middlesbrough-four-year-deal-6284236",
+      "date": "Wed, 29 Jul 2026 04:40:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:36:48 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
       "link": "https://www.channelnewsasia.com/world/oman-proposal-iran-hormuz-us-paused-strikes-6284111",
       "date": "Wed, 29 Jul 2026 04:35:15 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:29:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "KLA results beat Wall Street estimates, but shares fall on high investor expectations",
+      "link": "https://www.channelnewsasia.com/business/kla-results-beat-wall-street-estimates-shares-fall-high-investor-expectations-6284201",
+      "date": "Wed, 29 Jul 2026 04:28:20 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protests in DC against Netanyahu’s meeting with Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:22:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Keiko Fujimori sworn in as Peru president after narrow election win",
+      "link": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:14:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
+      "link": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 20:11:04 +0000"
     },
     {
       "src": "CNA",
@@ -17,32 +115,11 @@
       "date": "Wed, 29 Jul 2026 04:09:31 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
-      "link": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
-      "date": "Tue, 28 Jul 2026 20:07:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
-      "link": "https://www.france24.com/en/france/20260728-bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up-call-over-wildfires",
-      "date": "Tue, 28 Jul 2026 20:05:05 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Washington’s Reset With Serbia Is a Mistake",
       "link": "https://foreignpolicy.com/2026/07/28/washingtons-reset-serbia-mistake-vucic-autocracy/",
       "date": "Tue, 28 Jul 2026 20:00:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New poll shows confusion over Democratic Socialists of America ideals",
-      "link": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 19:56:07 +0000"
     },
     {
       "src": "RFI",
@@ -59,88 +136,11 @@
       "date": "Tue, 28 Jul 2026 19:49:40 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
-      "link": "https://www.france24.com/en/fifa-plan-for-kushner-backed-20-billion-operation-to-run-world-cup-meets-fury-from-europe-s-uefa",
-      "date": "Tue, 28 Jul 2026 19:45:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What will it take to stop the conflict in Sudan?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 19:36:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "West Bank quarry owner appeals to Trump after settler raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 19:23:29 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "India’s ‘cockroach’ protesters explain how they toppled one of Modi’s ministers",
-      "link": "https://www.france24.com/en/asia-pacific/20260728-india-cockroach-protesters-explain-toppled-modi-ministers",
-      "date": "Tue, 28 Jul 2026 19:14:04 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Tunisia appoint Chaabani as coach until 2030",
       "link": "https://www.channelnewsasia.com/sport/tunisia-appoint-chaabani-coach-until-2030-6284091",
       "date": "Wed, 29 Jul 2026 03:10:32 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Building a 'different kind of forest' after devastating wildfires",
-      "link": "https://www.france24.com/en/video/20260728-building-a-different-kind-of-forest-after-devastating-wildfires",
-      "date": "Tue, 28 Jul 2026 19:03:44 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Before funeral, US lawmakers recall Lindsey Graham as persuasive, funny and hawkish",
-      "link": "https://www.channelnewsasia.com/world/lindsey-graham-funeral-netanyahu-zelenskyy-6284061",
-      "date": "Wed, 29 Jul 2026 02:59:03 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Pressure is high': Football legend Zinedine Zidane inherits a France squad with 'everything to win'",
-      "link": "https://www.france24.com/en/pressure-is-high-football-legend-zinedine-zidane-inherits-a-france-squad-with-everything-to-win",
-      "date": "Tue, 28 Jul 2026 18:47:28 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-      "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 18:46:57 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Trump administration to ban new Chinese robots and inverters, protecting US AI buildout",
-      "link": "https://www.channelnewsasia.com/business/exclusive-trump-administration-ban-new-chinese-robots-and-inverters-protecting-us-ai-buildout-6284051",
-      "date": "Wed, 29 Jul 2026 02:33:01 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Malaysian foreign minister calls for review of UNHCR’s presence",
-      "link": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 18:25:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-      "link": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 18:24:26 +0000"
     },
     {
       "src": "BBC World",
@@ -150,53 +150,11 @@
       "date": "Tue, 28 Jul 2026 18:19:57 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Uganda declares end to Ebola outbreak",
-      "link": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 18:02:03 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Destroyed Aeon mall had just reopened for &#039;fresh start&#039; a decade on from deadly quake",
-      "link": "https://www.channelnewsasia.com/world/aeon-mall-japan-earthquake-reopened-destroyed-6284021",
-      "date": "Wed, 29 Jul 2026 02:01:31 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
-      "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 18:01:03 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfires in France: Volunteers put smiles back on evacuees' faces in Bordeaux",
-      "link": "https://www.france24.com/en/europe/20260728-wildfires-in-france-volunteers-put-smiles-back-on-evacuees-faces-in-bordeaux",
-      "date": "Tue, 28 Jul 2026 17:41:31 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Compromised Candidates",
       "link": "https://foreignpolicy.com/2026/07/28/united-nations-security-council-secretary-general-corruption-reform/",
       "date": "Tue, 28 Jul 2026 17:24:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Celtic sign Denmark forward Hogh on a four-year deal",
-      "link": "https://www.channelnewsasia.com/sport/celtic-sign-denmark-forward-hogh-four-year-deal-6283976",
-      "date": "Wed, 29 Jul 2026 01:04:32 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oil prices fall 5% to two-week low on hopes for US-Iran conflict easing",
-      "link": "https://www.channelnewsasia.com/business/oil-prices-fall-5-two-week-low-hopes-us-iran-conflict-easing-6283956",
-      "date": "Wed, 29 Jul 2026 01:02:42 +0800"
     },
     {
       "src": "The Guardian",
@@ -220,13 +178,6 @@
       "date": "Tue, 28 Jul 2026 16:14:03 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "British MP accuses French patrol boat of firing 'warning shots' near him in Channel",
-      "link": "https://www.france24.com/en/europe/20260728-british-mp-accuses-french-patrol-boat-of-firing-warning-shots-near-him-in-channel",
-      "date": "Tue, 28 Jul 2026 15:58:00 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Uefa and PM criticise Infantino World Cup plan",
@@ -243,7 +194,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "European nations discussing World Cup boycott after FIFA boss floats selling shares in spin-off venture",
+      "text": "European nations discussing World Cup boycott as FIFA accused of 'selling the soul of football'",
       "link": "https://news.sky.com/story/uefa-fury-as-fifa-boss-wants-to-sell-shares-in-world-cup-spin-off-venture-13567834",
       "date": "Tue, 28 Jul 2026 16:12:00 +0100"
     },
@@ -288,6 +239,13 @@
       "text": "UK's Burnham pledges new drone tech to Ukraine in Zelensky meeting",
       "link": "https://www.rfi.fr/en/international/20260728-uk-s-burnham-pledges-new-drone-tech-to-ukraine-in-zelensky-meeting",
       "date": "Tue, 28 Jul 2026 12:26:26 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Climate alarm ‘blaring from every direction’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -374,13 +332,6 @@
       "date": "Tue, 28 Jul 2026 06:25:03 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Economic War on Iran Is—and Isn&#8217;t—Working",
-      "link": "https://foreignpolicy.com/2026/07/28/iran-war-economy-oil-sanctions-reconstruction/",
-      "date": "Tue, 28 Jul 2026 06:09:10 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
@@ -413,13 +364,6 @@
       "col": "#3b82f6",
       "text": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1168035",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "High prices and funding cuts stall HIV prevention revolution",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168033",
       "date": "Mon, 27 Jul 2026 12:00:00 +0000"
     },
     {
