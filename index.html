@@ -46,7 +46,7 @@ html,body{height:100%;background:var(--bg0);color:var(--text);font-family:var(--
 #ticker-bar{background:#c1121f;border-top:1px solid rgba(255,255,255,.2);padding:0;overflow:hidden;position:fixed;bottom:calc(65px + env(safe-area-inset-bottom));left:0;width:100%;z-index:200;display:flex;align-items:center;height:46px;box-shadow:0 -1px 10px rgba(230,57,70,.15)}
 .ticker-live-tag{background:#c1121f;color:#fff;font-family:var(--font-mono);font-size:15px;font-weight:900;letter-spacing:.15em;padding:0 12px;height:100%;display:flex;align-items:center;flex-shrink:0;white-space:nowrap;z-index:1;border-radius:0;margin:0}
 .ticker-wrap{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
-.ticker-inner{display:flex;align-items:center;animation:ticker 220s linear infinite;white-space:nowrap;will-change:transform;color:#fff}
+.ticker-inner{display:flex;align-items:center;animation:ticker 460s linear infinite;white-space:nowrap;will-change:transform;color:#fff}
 .ticker-inner:hover{animation-play-state:paused}
 .tick-item{color:#ffffff;font-weight:bold}
 .tick-item{display:inline-flex;align-items:center;gap:8px;padding:0 24px;font-family:var(--font-mono);font-size:20px;color:#fff;font-weight:700;letter-spacing:.02em}
@@ -1688,7 +1688,7 @@ function doMapRefresh(){
       ticker.style.transition='opacity 0.6s';
       // Do NOT reset ticker.style.animation here: the shorthand restarts the
       // scroll from 0 and replays headlines the user already read. Speed is
-      // owned by setTickerSpeed() (🐢/🐇) and position by renderTickerLive().
+      // owned by setTickerPxPerSec() (🐢/🐇) and position by renderTickerLive().
     },100);
   }
 }
@@ -2681,6 +2681,35 @@ const _origRenderTicker = typeof renderTicker === 'function' ? renderTicker : nu
 let _tickerLastKey = '';
 let _tickerRenderTimer = null;
 
+// ── Ticker speed model: constant PIXELS PER SECOND, not constant cycle time ──
+// The old model pinned the cycle to a fixed 220s. When the RSS feeds finished
+// loading, the strip got several times wider — but 220s stayed 220s, so the same
+// cycle now had to cover far more pixels and the ticker visibly ACCELERATED
+// ~10-20s after launch. Deriving the duration from the width fixes that: more
+// headlines = longer cycle, identical visual speed.
+let tickerPxPerSec = 0;              // calibrated once, on the first render
+const TICKER_BASE_SECONDS = 460;     // DEFAULT SPEED — must match the 460s in .ticker-inner CSS
+const TICKER_MIN_PPS = 6;
+const TICKER_MAX_PPS = 220;
+
+function applyTickerDuration(unitWidth) {
+  if (!(unitWidth > 0) || !(tickerPxPerSec > 0)) return TICKER_BASE_SECONDS;
+  const dur = Math.max(20, unitWidth / tickerPxPerSec);
+  let st = document.getElementById('ticker-speed-style');
+  if (!st) { st = document.createElement('style'); st.id = 'ticker-speed-style'; document.head.appendChild(st); }
+  st.textContent = '.ticker-inner{animation-duration:' + dur.toFixed(1) + 's!important}';
+  return dur;
+}
+
+function setTickerPxPerSec(p) {
+  tickerPxPerSec = Math.min(TICKER_MAX_PPS, Math.max(TICKER_MIN_PPS, p));
+  const el = document.getElementById('ticker-inner');
+  if (el) applyTickerDuration(el.scrollWidth / 2);
+  return tickerPxPerSec;
+}
+
+function getTickerPxPerSec() { return tickerPxPerSec; }
+
 // On startup the RSS loader completes 149 feeds one by one and used to re-render
 // the ticker after every single feed. Every re-render restarted the scroll, so the
 // first headlines kept reappearing. Coalesce those into one render per 10s.
@@ -2727,6 +2756,8 @@ function renderTickerLive() {
 
   // Save current animation position before update
   const computed = window.getComputedStyle(el);
+  const prevDur = parseFloat(computed.animationDuration) || TICKER_BASE_SECONDS;
+  const prevUnitWidth = el.scrollWidth / 2;   // measured BEFORE the content swap
   const matrix = computed.transform;
   let currentX = 0;
   if (matrix && matrix !== 'none') {
@@ -2740,13 +2771,15 @@ function renderTickerLive() {
   el.innerHTML = html;
 
   // Resume animation from current position without resetting.
-  // The real duration comes from the 🐢/🐇 speed controls, which inject an
-  // !important rule. Hardcoding 220 here made the resume point wrong whenever
-  // the speed was changed, which jumped the scroll back and replayed headlines.
-  const parsedDur = parseFloat(computed.animationDuration);
-  const duration = (parsedDur > 0 ? parsedDur : 220);
-  const totalWidth = el.scrollWidth / 2;
-  let progress = totalWidth > 0 ? Math.abs(currentX) / totalWidth : 0;
+  const unitWidth = el.scrollWidth / 2;
+
+  // Calibrate px/sec ONCE from the very first render (reproduces the original
+  // launch feel exactly), then hold that visual speed forever. Every later
+  // render just recomputes the duration from the new width.
+  if (!tickerPxPerSec && unitWidth > 0) setTickerPxPerSec(unitWidth / prevDur);
+  const duration = applyTickerDuration(unitWidth);
+
+  let progress = prevUnitWidth > 0 ? Math.abs(currentX) / prevUnitWidth : 0;
   if (!isFinite(progress) || progress < 0) progress = 0;
   progress = progress % 1;
   const delay = -(progress * duration);
@@ -5514,32 +5547,28 @@ async function generatePDFReport() {
 </div>
 <script src="breaking_news_fix.js"></script>
 <script>
-let tickerSpeed = 220;
+// 🐢 / 🐇 adjust the ticker in PIXELS PER SECOND, so the speed the user picks
+// stays the same regardless of how many headlines are currently loaded.
+function rampTickerPxPerSec(factor) {
+  const start = (typeof getTickerPxPerSec === 'function' ? getTickerPxPerSec() : 0) || 30;
+  const target = start * factor;
+  const steps = 20;
+  let i = 0;
+  const interval = setInterval(() => {
+    i++;
+    setTickerPxPerSec(start + (target - start) * (i / steps));
+    if (i >= steps) clearInterval(interval);
+  }, 50);
+}
+function tickerFaster() { rampTickerPxPerSec(1.25); }
+function tickerSlower() { rampTickerPxPerSec(1 / 1.5); }
+
+// Backwards-compatible shim: converts an absolute cycle time into px/sec, in
+// case any external script still calls setTickerSpeed().
 function setTickerSpeed(s) {
-  tickerSpeed = Math.max(60, Math.min(800, s));
-  let st = document.getElementById('ticker-speed-style');
-  if (!st) { st = document.createElement('style'); st.id = 'ticker-speed-style'; document.head.appendChild(st); }
-  st.textContent = '.ticker-inner{animation-duration:' + tickerSpeed + 's!important}';
-}
-function tickerFaster() {
-  const target = Math.max(60, tickerSpeed - 40);
-  const step = (tickerSpeed - target) / 20;
-  let current = tickerSpeed;
-  const interval = setInterval(() => {
-    current -= step;
-    setTickerSpeed(Math.round(current));
-    if (current <= target) clearInterval(interval);
-  }, 50);
-}
-function tickerSlower() {
-  const target = Math.min(800, tickerSpeed + 120);
-  const step = (target - tickerSpeed) / 20;
-  let current = tickerSpeed;
-  const interval = setInterval(() => {
-    current += step;
-    setTickerSpeed(Math.round(current));
-    if (current >= target) clearInterval(interval);
-  }, 50);
+  const el = document.getElementById('ticker-inner');
+  const w = el ? el.scrollWidth / 2 : 0;
+  if (w > 0 && s > 0) setTickerPxPerSec(w / s);
 }
 </script>
 <script>
