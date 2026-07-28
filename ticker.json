@@ -1,111 +1,258 @@
 {
-  "updated": "2026-07-28T12:18:15.816Z",
+  "updated": "2026-07-28T14:55:11.168Z",
   "count": 60,
   "items": [
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Iconic footballer Zinedine Zidane and ‘Les Bleus’: a love story with a bright future",
-      "link": "https://www.france24.com/en/sport/20260728-iconic-france-footballer-zinedine-zidane-les-bleus-love-story-bright-future",
-      "date": "Tue, 28 Jul 2026 11:51:55 GMT"
+      "text": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
+      "link": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
+      "date": "Tue, 28 Jul 2026 14:33:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EBay, former executives to pay $56 million to settle couple&#039;s harassment case",
+      "link": "https://www.channelnewsasia.com/business/ebay-former-executives-pay-56-million-settle-couples-harassment-case-6283706",
+      "date": "Tue, 28 Jul 2026 22:31:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FIFA mulls stake sale through new $20 billion entity, source says",
+      "link": "https://www.channelnewsasia.com/sport/fifa-mulls-stake-sale-through-new-20-billion-entity-source-says-6283711",
+      "date": "Tue, 28 Jul 2026 22:29:36 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Heatwave threatens firefighting mission in France's southwest",
+      "link": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest",
+      "date": "Tue, 28 Jul 2026 14:29:02 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hedge funds on track for another stellar year on AI boom",
+      "link": "https://www.channelnewsasia.com/business/hedge-funds-track-another-stellar-year-ai-boom-6283661",
+      "date": "Tue, 28 Jul 2026 22:12:17 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
+      "link": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:55:52 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Seattle pays tribute to food festival shooting victims",
+      "text": "Mancini reappointed Italy boss after Pirlo controversy",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 13:54:00 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "French Navy carries out 'shooting drill' mid interview",
+      "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 13:53:26 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French police discover remains of five babies in a home in southeastern France",
+      "link": "https://www.france24.com/en/france/20260728-french-police-discover-remains-of-five-babies-in-a-home-in-southeastern-france",
+      "date": "Tue, 28 Jul 2026 13:48:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "France and Spain brace for heatwave that could worsen raging wildfires",
+      "link": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:39:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "16-year-old gymnast Amanda Yap clinches Singapore&#039;s first Glasgow Commonwealth Games medal",
+      "link": "https://www.channelnewsasia.com/sport/amanda-yap-medal-singapore-commonwealth-games-6283461",
+      "date": "Tue, 28 Jul 2026 21:26:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 13:25:13 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "US reviews troop presence in Europe as Washington pushes NATO burden sharing",
+      "link": "https://www.rfi.fr/en/international/20260728-us-reviews-troop-presence-in-europe-as-washington-pushes-nato-burden-sharing",
+      "date": "Tue, 28 Jul 2026 13:20:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain is seeing 'the light at the end of the tunnel' in its fight against fires",
+      "link": "https://www.france24.com/en/spain-is-seeing-the-light-at-the-end-of-the-tunnel-in-its-fight-against-fires",
+      "date": "Tue, 28 Jul 2026 13:20:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Roberto Mancini named Italy head coach for second time",
+      "link": "https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:19:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli soldier runs marathon around Gaza outpost",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:18:48 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Japan hit by 7.1-magnitude earthquake",
+      "link": "https://www.france24.com/en/japan-hit-by-7-1-magnitude-earthquake",
+      "date": "Tue, 28 Jul 2026 13:18:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
+      "link": "https://www.aljazeera.com/news/2026/7/28/tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-reviewed?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:17:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘The only job I wanted’: Zidane’s first words as France head coach",
+      "link": "https://www.france24.com/en/the-only-job-i-wanted-zidane-s-first-words-as-france-head-coach",
+      "date": "Tue, 28 Jul 2026 13:07:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:06:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "For India, World Cup qualification is still just a distant dream",
+      "link": "https://www.channelnewsasia.com/sport/india-world-cup-qualification-still-just-distant-dream-6283466",
+      "date": "Tue, 28 Jul 2026 21:03:25 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 13:02:50 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Washington Can’t Keep Ignoring Minab",
+      "link": "https://foreignpolicy.com/2026/07/28/united-states-iran-war-minab-accountabilitiy-war-crimes-foreign-policy-hegseth/",
+      "date": "Tue, 28 Jul 2026 13:00:15 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "link": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "date": "Tue, 28 Jul 2026 13:00:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "A look back at Zinedine Zidane's career as he becomes France's new coach",
+      "link": "https://www.france24.com/en/a-look-back-at-zinedine-zidane-s-career-as-he-becomes-france-s-new-coach",
+      "date": "Tue, 28 Jul 2026 12:58:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Apple launches US device leasing program with Klarna",
+      "link": "https://www.channelnewsasia.com/business/apple-launches-us-device-leasing-program-klarna-6283426",
+      "date": "Tue, 28 Jul 2026 20:52:02 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+      "link": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
+      "date": "Tue, 28 Jul 2026 12:51:59 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Flight MH370 families want &#039;facts&#039; as China court hears appeal",
+      "link": "https://www.channelnewsasia.com/asia/flight-mh370-court-appeal-families-6283331",
+      "date": "Tue, 28 Jul 2026 20:51:00 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Haiti schedules first elections in a decade for December",
+      "link": "https://www.rfi.fr/en/international/20260728-haiti-schedules-first-elections-in-a-decade-for-december",
+      "date": "Tue, 28 Jul 2026 12:48:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kenyan footprints shed light on prehistoric human cousin Paranthropus",
+      "link": "https://www.channelnewsasia.com/business/kenyan-footprints-shed-light-prehistoric-human-cousin-paranthropus-6283416",
+      "date": "Tue, 28 Jul 2026 20:48:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Moment Canadian politician accidentally reads AI prompt during speech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-canadian-politician-accidentally-reads-ai-prompt-during-speech?traffic_source=rss",
+      "date": "Tue, 28 Jul 2026 12:36:55 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 12:27:48 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "UK's Burnham pledges new drone tech to Ukraine in Zelensky meeting",
+      "link": "https://www.rfi.fr/en/international/20260728-uk-s-burnham-pledges-new-drone-tech-to-ukraine-in-zelensky-meeting",
+      "date": "Tue, 28 Jul 2026 12:26:26 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Putin Will Escalate",
+      "link": "https://foreignpolicy.com/2026/07/28/why-putin-will-escalate/",
+      "date": "Tue, 28 Jul 2026 11:59:22 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Ebola outbreak in DR Congo 'fastest on record'",
+      "link": "https://news.sky.com/story/ebola-outbreak-in-dr-congo-fastest-on-record-13567760",
+      "date": "Tue, 28 Jul 2026 12:59:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
       "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 28 Jul 2026 11:50:59 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Embolo&#039;s sending-off in World Cup quarter-final against Argentina was wrong, IFAB says",
-      "link": "https://www.channelnewsasia.com/sport/embolos-sending-in-world-cup-quarter-final-against-argentina-was-wrong-ifab-says-6283241",
-      "date": "Tue, 28 Jul 2026 19:49:12 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Multiple deaths in Japan mall collapse after 7.1-magnitude earthquake",
-      "link": "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake",
-      "date": "Tue, 28 Jul 2026 11:45:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Where do the US-Iran talks to end the war stand?",
-      "link": "https://www.france24.com/en/where-do-the-us-iran-talks-to-end-the-war-stand",
-      "date": "Tue, 28 Jul 2026 11:45:18 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fatal Shooting in ICE Operations",
-      "link": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:42:28 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Facemasks return as French southwest air charges in fire smoke",
-      "link": "https://www.france24.com/en/facemasks-return-as-french-southwest-air-charges-in-fire-smoke",
-      "date": "Tue, 28 Jul 2026 11:41:31 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mancini to become Italy coach for second time, source says",
-      "link": "https://www.channelnewsasia.com/sport/mancini-become-italy-coach-second-time-source-says-6283201",
-      "date": "Tue, 28 Jul 2026 19:38:14 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "What to know about the red fire retardant being used against wildfires",
-      "link": "https://www.france24.com/en/what-to-know-about-the-red-fire-retardant-being-used-against-wildfires",
-      "date": "Tue, 28 Jul 2026 11:36:55 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tate’s attorney says allegations ‘puts a target on their backs’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:36:07 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French police look to avoid burglaries in evacuated areas as firefighting continues",
-      "link": "https://www.france24.com/en/french-police-look-to-avoid-burglaries-in-evacuated-areas-as-firefighting-continues",
-      "date": "Tue, 28 Jul 2026 11:34:45 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India mulls tougher punishment for exam paper leaks after protests",
-      "link": "https://www.channelnewsasia.com/asia/india-protests-exam-paper-leaks-punishment-6283156",
-      "date": "Tue, 28 Jul 2026 19:32:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:29:18 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City&#039;s Rodri undergoes back surgery",
-      "link": "https://www.channelnewsasia.com/sport/man-citys-rodri-undergoes-back-surgery-6283181",
-      "date": "Tue, 28 Jul 2026 19:27:52 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settler attack on at-Tuwani",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:27:08 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -115,69 +262,6 @@
       "date": "Tue, 28 Jul 2026 11:24:15 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "BetMGM cuts outlook as prediction market competition grows",
-      "link": "https://www.channelnewsasia.com/business/betmgm-cuts-outlook-prediction-market-competition-grows-6283161",
-      "date": "Tue, 28 Jul 2026 19:18:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-      "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:14:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Korda, Ryu lead Women&#039;s Open field after sharing major spoils",
-      "link": "https://www.channelnewsasia.com/sport/korda-ryu-lead-womens-open-field-after-sharing-major-spoils-6283141",
-      "date": "Tue, 28 Jul 2026 19:11:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AMD signs AI data center deal with Core Scientific",
-      "link": "https://www.channelnewsasia.com/business/amd-signs-ai-data-center-deal-core-scientific-6283131",
-      "date": "Tue, 28 Jul 2026 19:08:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "PayPal presses on with turnaround in pivotal quarter as sale questions linger",
-      "link": "https://www.channelnewsasia.com/business/paypal-presses-turnaround-in-pivotal-quarter-sale-questions-linger-6283121",
-      "date": "Tue, 28 Jul 2026 19:03:10 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
-      "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 11:02:03 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Trump Needs a Way Out of This War': General Yakovlev explains 'charade' over US-Iran negotiations",
-      "link": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
-      "date": "Tue, 28 Jul 2026 10:58:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky to press Trump on air defences while in Washington",
-      "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 10:41:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Monster fires spark debate over France's forest management",
-      "link": "https://www.france24.com/en/monster-fires-spark-debate-over-france-s-forest-management",
-      "date": "Tue, 28 Jul 2026 10:25:40 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
@@ -185,39 +269,11 @@
       "date": "Tue, 28 Jul 2026 10:21:46 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
-      "link": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 10:12:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Moment 7.1-magnitude earthquake rocks southern Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 09:45:13 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 09:45:10 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US walks out of UN Security Council meeting during France's remarks",
       "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 28 Jul 2026 09:32:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zidane confirmed as France head coach",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 09:03:49 GMT"
     },
     {
       "src": "Sky News",
@@ -232,13 +288,6 @@
       "text": "Chad becomes fifth nation to quit ICC amid US pressure campaign",
       "link": "https://www.rfi.fr/en/international/20260728-chad-becomes-fifth-state-to-leave-the-icc-after-us-pressure",
       "date": "Tue, 28 Jul 2026 08:46:12 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ariana Grande sues hackers who leaked music and videos",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 08:37:12 GMT"
     },
     {
       "src": "RFI",
@@ -264,9 +313,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 01:53:58 GMT"
+      "text": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 04:59:36 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -290,13 +339,6 @@
       "date": "Mon, 27 Jul 2026 16:27:44 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Shots fired near US consulate in Canada for second time in four months",
-      "link": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "date": "Mon, 27 Jul 2026 16:20:56 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says",
@@ -316,27 +358,6 @@
       "text": "<a href='https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12136802#liveblog-body'>What's the travel advice for Spain and France?</a>",
       "link": "https://news.sky.com/story/whats-the-travel-advice-for-spain-and-france-13567460",
       "date": "Mon, 27 Jul 2026 15:09:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran’s Arsenal Starts With Its Islands",
-      "link": "https://foreignpolicy.com/2026/07/27/iran-war-islands-qeshm-kharg-greater-tunb-strait-hormuz-irgc-oil-trump-us/",
-      "date": "Mon, 27 Jul 2026 13:56:44 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Economic Integration in the Middle East Is a False God",
-      "link": "https://foreignpolicy.com/2026/07/27/middle-east-trump-saudi-arabia-economic-integration-israel-gulf/",
-      "date": "Mon, 27 Jul 2026 11:00:15 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least 10 killed as flash floods and typhoon hit China",
-      "link": "https://news.sky.com/story/at-least-10-killed-as-flash-floods-and-typhoon-hit-china-13567383",
-      "date": "Mon, 27 Jul 2026 11:19:00 +0100"
     },
     {
       "src": "RFI",
@@ -372,27 +393,6 @@
       "text": "No snakes in church and don't eat the frogs: the weird world of US animal laws",
       "link": "https://www.rfi.fr/en/international/20260726-no-snakes-in-church-and-don-t-eat-the-frogs-the-weird-world-of-us-animal-laws",
       "date": "Sun, 26 Jul 2026 19:21:52 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Trauma and taboos: how Portugal takes care of migrants' mental health",
-      "link": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
-      "date": "Sun, 26 Jul 2026 12:59:38 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Main suspect in Berlin Pride attack shot dead by German police forces",
-      "link": "https://www.rfi.fr/en/international/20260725-several-people-are-injured-at-berlin-s-lgbtq-march-after-a-car-drives-into-the-crowd",
-      "date": "Sat, 25 Jul 2026 21:42:43 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Iran seeks to 'sow confusion among Gulf states' by targeting Bahrain and Kuwait",
-      "link": "https://www.rfi.fr/en/international/20260725-iran-seeks-to-sow-confusion-among-gulf-states-by-targeting-bahrain-and-kuwait",
-      "date": "Sat, 25 Jul 2026 14:22:35 GMT"
     },
     {
       "src": "The Guardian",
