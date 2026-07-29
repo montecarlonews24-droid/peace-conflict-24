@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-28T23:48:06.722Z",
-  "count": 64,
+  "updated": "2026-07-29T01:21:10.388Z",
+  "count": 56,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran and US trade strikes, shattering brief lull in fighting",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 29 Jul 2026 00:51:45 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump administration bans new Chinese humanoid robots",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 29 Jul 2026 00:50:33 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "date": "Wed, 29 Jul 2026 00:48:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 00:25:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 00:00:00 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -15,6 +50,13 @@
       "text": "France braces for fresh evacuations as Spain eases wildfire restrictions",
       "link": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions",
       "date": "Tue, 28 Jul 2026 23:41:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 23:25:53 GMT"
     },
     {
       "src": "CNA",
@@ -36,13 +78,6 @@
       "text": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
       "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
       "date": "Tue, 28 Jul 2026 23:16:44 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-      "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 23:12:09 GMT"
     },
     {
       "src": "CNA",
@@ -129,20 +164,6 @@
       "date": "Tue, 28 Jul 2026 20:41:18 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 20:36:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-      "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-      "date": "Tue, 28 Jul 2026 20:29:42 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Chad to withdraw from the International Criminal Court",
@@ -206,13 +227,6 @@
       "date": "Tue, 28 Jul 2026 19:03:44 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 18:19:57 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Compromised Candidates",
@@ -229,13 +243,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 16:37:02 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
       "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 28 Jul 2026 16:14:03 GMT"
@@ -243,9 +250,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Uefa and PM criticise Infantino World Cup plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 28 Jul 2026 15:36:29 GMT"
+      "text": "Watch: The moment quake hit Japan",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 28 Jul 2026 15:32:37 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -297,48 +304,6 @@
       "date": "Tue, 28 Jul 2026 12:26:26 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Mount Olympus and D-Day beaches among new World Heritage Sites",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Climate alarm ‘blaring from every direction’",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Forced online scams: IOM warns trafficking networks are booming",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168038",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168037",
-      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why Putin Will Escalate",
@@ -388,20 +353,6 @@
       "date": "Tue, 28 Jul 2026 05:01:19 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "75 years later, the promise to protect refugees faces its greatest test",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168036",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168034",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Iran halts retaliatory strikes as US gives diplomacy 'more room'",
@@ -442,13 +393,6 @@
       "text": "Health worker monitored for Ebola in London hospital after working in DRC",
       "link": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
       "date": "Tue, 21 Jul 2026 22:39:00 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "link": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "date": "Tue, 21 Jul 2026 10:00:42 GMT"
     }
   ]
 }
