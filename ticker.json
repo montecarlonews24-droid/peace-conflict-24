@@ -1,20 +1,181 @@
 {
-  "updated": "2026-07-30T13:00:37.980Z",
-  "count": 63,
+  "updated": "2026-07-30T15:28:09.673Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 30 Jul 2026 15:20:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is Pakistan ‘using India’s playbook’ in Kashmir?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/is-pakistan-using-indias-playbook-in-kashmir?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 15:08:58 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "AI cloud provider Nscale to buy software startup Anyscale",
-      "link": "https://www.channelnewsasia.com/business/ai-cloud-provider-nscale-buy-software-startup-anyscale-6288761",
-      "date": "Thu, 30 Jul 2026 20:51:02 +0800"
+      "text": "Scale AI taps former Google Cloud executive as CEO",
+      "link": "https://www.channelnewsasia.com/business/scale-ai-taps-former-google-cloud-executive-ceo-6289006",
+      "date": "Thu, 30 Jul 2026 23:05:39 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "European nations agree to boycott World Cup if FIFA goes ahead with sell-off plan",
+      "link": "https://news.sky.com/story/european-nations-agree-to-boycott-world-cup-if-fifa-goes-ahead-with-world-cup-sell-off-13568508",
+      "date": "Thu, 30 Jul 2026 16:00:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Smoke rises over southern Iran after renewed US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 14:58:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "War on Iran: Phase II: Day 19",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 14:56:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russia pounds Ukraine in new air attack, killing 9, including children",
+      "link": "https://www.channelnewsasia.com/world/russia-pounds-ukraine-in-new-air-attack-killing-9-including-children-6288076",
+      "date": "Thu, 30 Jul 2026 22:48:59 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FA toughens sanctions on Premier League players for discrimination offences",
+      "link": "https://www.channelnewsasia.com/sport/fa-toughens-sanctions-premier-league-players-discrimination-offences-6288966",
+      "date": "Thu, 30 Jul 2026 22:33:15 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Instant View: Yen soars, markets suspect Japan intervention",
+      "link": "https://www.channelnewsasia.com/business/instant-view-yen-soars-markets-suspect-japan-intervention-6288921",
+      "date": "Thu, 30 Jul 2026 22:23:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Police arrest dozens at London rally supporting Palestine Action",
+      "link": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 14:22:02 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "PM Tusk says Russian missile appears to have come down in eastern Poland",
-      "link": "https://www.france24.com/en/video/20260730-pm-tusk-says-russian-missile-appears-to-have-come-down-in-eastern-poland",
-      "date": "Thu, 30 Jul 2026 12:49:12 GMT"
+      "text": "France wildfires: Risk remains 'extremely high' despite slight weather improvement",
+      "link": "https://www.france24.com/en/video/20260730-france-wildfires-risk-remains-extremely-high-despite-slight-weather-improvement",
+      "date": "Thu, 30 Jul 2026 14:18:42 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US government map of Africa mislabels every country at global conference",
+      "link": "https://www.channelnewsasia.com/world/us-africa-government-map-mislabel-country-ai-6288891",
+      "date": "Thu, 30 Jul 2026 22:15:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Yen surges, analysts suspect official Japanese intervention",
+      "link": "https://www.channelnewsasia.com/business/yen-surges-analysts-suspect-official-japanese-intervention-6288906",
+      "date": "Thu, 30 Jul 2026 22:12:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "German minister urges faster AI self-sufficiency after OpenAI test breach",
+      "link": "https://www.channelnewsasia.com/business/german-minister-urges-faster-ai-self-sufficiency-after-openai-test-breach-6288901",
+      "date": "Thu, 30 Jul 2026 22:10:12 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "AI before AI: The forgotten Soviet programme (1/2)",
+      "link": "https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+      "date": "Thu, 30 Jul 2026 14:08:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "El Salvador sentences gang members to 1,000 years in prison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 14:07:49 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Warsaw blames Moscow after a missile crashes in Poland",
+      "link": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
+      "date": "Thu, 30 Jul 2026 14:03:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Goldman Sachs asset arm forms an AI investing platform, memo shows",
+      "link": "https://www.channelnewsasia.com/business/goldman-sachs-asset-arm-forms-ai-investing-platform-memo-shows-6288886",
+      "date": "Thu, 30 Jul 2026 22:02:44 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US government map of Africa mislabels every country at global conference",
+      "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "date": "Thu, 30 Jul 2026 13:59:32 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Greek police believe phone of British woman found dead in suitcase was used to stall investigation - reports",
+      "link": "https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468",
+      "date": "Thu, 30 Jul 2026 14:55:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Go back to your own country’: NZ foreign minister faces backlash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 13:51:52 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 30 Jul 2026 13:38:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Islamabad residents rally in solidarity with Kashmir protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 13:35:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudan’s RSF vows to return to Khartoum",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 13:26:26 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Has Weakened America’s Sanctions Weapon",
+      "link": "https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/",
+      "date": "Thu, 30 Jul 2026 13:10:52 +0000"
     },
     {
       "src": "France 24",
@@ -24,30 +185,23 @@
       "date": "Thu, 30 Jul 2026 12:47:00 GMT"
     },
     {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "link": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "date": "Thu, 30 Jul 2026 12:46:50 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Thousands evacuated in Crete but Spanish PM ends wildfire emergency",
+      "text": "Thousands evacuated in Crete as Europe battles wildfires",
       "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 30 Jul 2026 12:46:16 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Detained Ugandan opposition leader Besigye in intensive care, wife says",
-      "link": "https://www.aljazeera.com/news/2026/7/30/detained-ugandan-opposition-leader-besigye-in-intensive-care-wife-says?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 12:44:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Neymar, Casemiro, Danilo not in Brazil&#039;s plans as Ancelotti turns to next generation",
-      "link": "https://www.channelnewsasia.com/sport/neymar-casemiro-danilo-not-in-brazils-plans-ancelotti-turns-next-generation-6288741",
-      "date": "Thu, 30 Jul 2026 20:41:41 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Record absence of world’s oldest head of state reignites health speculation",
+      "text": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
       "link": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
       "date": "Thu, 30 Jul 2026 12:36:02 GMT"
     },
@@ -59,32 +213,11 @@
       "date": "Thu, 30 Jul 2026 12:33:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Amazon&#039;s Zoox wins first US approval for paid robotaxis with no human controls",
-      "link": "https://www.channelnewsasia.com/business/exclusive-amazons-zoox-wins-first-us-approval-paid-robotaxis-no-human-controls-6288701",
-      "date": "Thu, 30 Jul 2026 20:33:02 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Major central banks steer a cautious hiking path",
-      "link": "https://www.channelnewsasia.com/business/major-central-banks-steer-cautious-hiking-path-6288706",
-      "date": "Thu, 30 Jul 2026 20:29:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Gaza civil defence says Israeli strikes kill four",
-      "link": "https://www.channelnewsasia.com/world/gaza-israeli-strikes-kill-four-6288651",
-      "date": "Thu, 30 Jul 2026 20:24:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France firefighters hopeful, as Spain ends national emergency",
-      "link": "https://www.channelnewsasia.com/world/france-spain-wildfire-national-emergency-lifted-6288641",
-      "date": "Thu, 30 Jul 2026 20:20:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 30 Jul 2026 12:14:00 GMT"
     },
     {
       "src": "France 24",
@@ -94,53 +227,11 @@
       "date": "Thu, 30 Jul 2026 12:11:52 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mastercard profit beats estimates as stable spending drives transaction volumes",
-      "link": "https://www.channelnewsasia.com/business/mastercard-profit-beats-estimates-stable-spending-drives-transaction-volumes-6288636",
-      "date": "Thu, 30 Jul 2026 20:10:22 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Cyber firm Wiz says flaw could have led to mass exposure of Microsoft cloud customers",
-      "link": "https://www.channelnewsasia.com/business/cyber-firm-wiz-says-flaw-could-have-led-mass-exposure-microsoft-cloud-customers-6288616",
-      "date": "Thu, 30 Jul 2026 20:01:28 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England appoint Root and Fleming as Test cricket captain and coach",
-      "link": "https://www.aljazeera.com/sports/2026/7/30/england-appoint-root-and-fleming-as-test-cricket-captain-and-coach?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 11:51:07 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 30 Jul 2026 11:48:50 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How does a safe zone in Lebanon become a target three times?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 11:34:57 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Russia seeks arrest of Telegram's Durov over 'terrorism complicity' claims",
       "link": "https://www.rfi.fr/en/international/20260730-russia-seeks-arrest-of-telegram-s-durov-over-terrorism-complicity-claims",
       "date": "Thu, 30 Jul 2026 11:34:34 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli strikes kill at least four, including children, across Gaza Strip",
-      "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 11:32:30 +0000"
     },
     {
       "src": "France 24",
@@ -164,67 +255,11 @@
       "date": "Thu, 30 Jul 2026 10:49:14 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
-      "link": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 10:35:52 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Nicaraguan leader proposes extending presidential term by another year",
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 30 Jul 2026 10:34:07 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli raids and settler attacks intensify across the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 10:21:53 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Greek firefighters battle deadly wildfires on Crete for a second day",
-      "link": "https://www.france24.com/en/video/20260730-greek-firefighters-battle-deadly-wildfires-on-crete-for-a-second-day",
-      "date": "Thu, 30 Jul 2026 10:21:04 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Attack on northwest Pakistan police post kills 11 officers",
-      "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 10:21:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Several children killed and wounded in Israeli attacks across Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "date": "Thu, 30 Jul 2026 10:20:19 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tens of thousands of French wildfire evacuees allowed to return home",
-      "link": "https://www.france24.com/en/video/20260730-tens-of-thousands-of-french-wildfire-evacuees-allowed-to-return-home",
-      "date": "Thu, 30 Jul 2026 10:19:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 30 Jul 2026 09:34:00 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "FIFA plans to speed up launch of new World Cup spin-off",
-      "link": "https://news.sky.com/story/fifa-plans-to-speed-up-launch-of-new-world-cup-spin-off-13568338",
-      "date": "Thu, 30 Jul 2026 09:05:00 +0100"
     },
     {
       "src": "BBC World",
@@ -285,13 +320,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 29 Jul 2026 20:21:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 29 Jul 2026 18:41:31 GMT"
@@ -325,18 +353,39 @@
       "date": "Wed, 29 Jul 2026 15:11:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Coming to Terms With Middle-Power Populism",
-      "link": "https://foreignpolicy.com/2026/07/29/middle-powers-populism-trump-modi-carney-cooperation/",
-      "date": "Wed, 29 Jul 2026 13:53:53 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Family of missing French tourist demands Japan's national police take over case",
       "link": "https://www.rfi.fr/en/international/20260729-statue-of-disappeared-frenchwoman-erected-in-japan-as-family-pushes-for-probe",
       "date": "Wed, 29 Jul 2026 12:50:33 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168049",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168048",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168045",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -423,25 +472,39 @@
       "date": "Tue, 28 Jul 2026 12:48:46 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Climate alarm ‘blaring from every direction’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
       "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
       "date": "Tue, 28 Jul 2026 10:21:46 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Uganda begins emergency food handouts after 19 die from hunger",
-      "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "date": "Mon, 27 Jul 2026 07:00:34 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Two Russian men jailed in Angola for terrorism and spying",
-      "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "date": "Thu, 23 Jul 2026 14:24:01 GMT"
     }
   ]
 }
