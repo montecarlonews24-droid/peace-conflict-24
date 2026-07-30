@@ -1,55 +1,132 @@
 {
-  "updated": "2026-07-29T23:28:02.936Z",
-  "count": 55,
+  "updated": "2026-07-30T00:52:36.995Z",
+  "count": 71,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 30 Jul 2026 00:41:28 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "link": "https://www.channelnewsasia.com/business/wall-street-closes-down-sharply-after-fed-holds-rates-unchanged-6287106",
-      "date": "Thu, 30 Jul 2026 07:20:25 +0800"
+      "text": "Oil prices slip as tankers continue to ply Middle East conflict zones",
+      "link": "https://www.channelnewsasia.com/business/oil-prices-slip-tankers-continue-ply-middle-east-conflict-zones-6287186",
+      "date": "Thu, 30 Jul 2026 08:36:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Little Farms opens new all-day dining restaurant and picnic kiosk at Singapore Botanic Gardens",
+      "link": "https://www.channelnewsasia.com/dining/little-farms-opens-bloomhouse-singapore-botanic-gardens-6285531",
+      "date": "Thu, 30 Jul 2026 08:36:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’",
+      "text": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 00:26:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia begins legal action against Telegram over alleged pro-terror material",
+      "link": "https://www.channelnewsasia.com/business/australia-begins-legal-action-against-telegram-over-alleged-pro-terror-material-6287161",
+      "date": "Thu, 30 Jul 2026 08:23:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+      "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 00:23:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Copenhagen’s famed Noma restaurant to reopen without founder Redzepi at helm",
+      "link": "https://www.channelnewsasia.com/dining/noma-reopening-without-redzepi-michelin-stars-6286586",
+      "date": "Thu, 30 Jul 2026 08:15:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sony makes acquisition proposal for Japan camera lens maker Tamron",
+      "link": "https://www.channelnewsasia.com/business/sony-makes-acquisition-proposal-japan-camera-lens-maker-tamron-6287156",
+      "date": "Thu, 30 Jul 2026 08:11:20 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung operating profit up 1,800% in second quarter on AI boom",
+      "link": "https://www.channelnewsasia.com/business/samsung-operating-profit-up-second-quarter-ai-boom-6287151",
+      "date": "Thu, 30 Jul 2026 08:03:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "date": "Thu, 30 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "BTS pulls out of Grammys after Asian pop category introduction",
+      "link": "https://www.channelnewsasia.com/entertainment/bts-pulls-out-grammy-awards-6287131",
+      "date": "Thu, 30 Jul 2026 07:55:38 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 23:34:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How some Singapore government agencies became the country&#039;s most engaging social media creators",
+      "link": "https://www.channelnewsasia.com/living/government-agencies-viral-social-media-6282721",
+      "date": "Thu, 30 Jul 2026 07:30:52 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+      "link": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 23:30:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "link": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 23:29:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+      "date": "Wed, 29 Jul 2026 23:25:37 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
+      "link": "https://www.france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges",
+      "date": "Wed, 29 Jul 2026 23:14:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
       "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
       "date": "Wed, 29 Jul 2026 23:10:15 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chinese carmakers piling pressure on UK rivals, auto industry chief says",
-      "link": "https://www.channelnewsasia.com/business/chinese-carmakers-piling-pressure-uk-rivals-auto-industry-chief-says-6287076",
-      "date": "Thu, 30 Jul 2026 07:03:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Intel providing chip technology to startup led by co-investor of Tan in rare deal",
-      "link": "https://www.channelnewsasia.com/business/exclusive-intel-providing-chip-technology-startup-led-co-investor-tan-in-rare-deal-6287056",
-      "date": "Thu, 30 Jul 2026 06:54:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Warsh vows not to &#039;waver&#039; on inflation as divided Fed leaves rates unchanged",
-      "link": "https://www.channelnewsasia.com/world/federal-reserve-rates-unchanged-kevin-warsh-vows-not-waver-inflation-6287021",
-      "date": "Thu, 30 Jul 2026 06:37:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Equinix shares fall on soft third-quarter forecast",
-      "link": "https://www.channelnewsasia.com/business/equinix-shares-fall-soft-third-quarter-forecast-6287026",
-      "date": "Thu, 30 Jul 2026 06:33:06 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
-      "link": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 22:27:35 +0000"
     },
     {
       "src": "BBC World",
@@ -59,32 +136,11 @@
       "date": "Wed, 29 Jul 2026 22:15:33 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Toh Wei Soong clinches silver in men&#039;s 50m freestyle S7 at Commonwealth Games",
-      "link": "https://www.channelnewsasia.com/sport/toh-wei-soong-clinches-silver-in-mens-50m-freestyle-s7-commonwealth-games-6285926",
-      "date": "Thu, 30 Jul 2026 06:01:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "What is ‘salad bar’ extremism, and is a new rehab playbook needed to tackle this form of radicalisation?",
-      "link": "https://www.channelnewsasia.com/singapore/salad-bar-extremism-self-radicalisation-rehabilitation-social-media-6285561",
-      "date": "Thu, 30 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New party Wawasan wants to offer ‘something fresh’ in Malaysian politics, but Bersatu shadow looms",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-wawasan-perikatan-nasional-hamzah-zainudin-saifuddin-abdullah-6282911",
-      "date": "Thu, 30 Jul 2026 06:00:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Is FIFA selling parts of the World Cup to private investors?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 21:46:22 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky warns of possible major Russian strike overnight",
+      "link": "https://www.france24.com/en/europe/20260729-zelensky-warns-of-possible-major-russian-strike-overnight",
+      "date": "Wed, 29 Jul 2026 21:49:55 GMT"
     },
     {
       "src": "BBC World",
@@ -94,32 +150,18 @@
       "date": "Wed, 29 Jul 2026 21:36:06 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Myanmar court sentences activists to 37 years over election protest",
-      "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 21:29:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA charges Argentina after World Cup final brawl with Spain",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 21:20:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump threatens Iran strikes after attack on US base in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 21:18:24 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Anti-Government Protests Resurge in North Africa",
       "link": "https://foreignpolicy.com/2026/07/29/tunisia-libya-north-africa-protests-extreme-heat-power-cuts/",
       "date": "Wed, 29 Jul 2026 21:15:16 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says",
+      "link": "https://www.france24.com/en/drone-hits-storage-tanker-at-egyptian-port-in-major-middle-east-escalation-security-firm-says",
+      "date": "Wed, 29 Jul 2026 20:55:44 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -129,11 +171,18 @@
       "date": "Wed, 29 Jul 2026 20:47:25 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 20:31:10 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "FIFA hit by furious backlash over plans to sell stake in competitions",
+      "link": "https://www.france24.com/en/fifa-hit-by-furious-backlash-over-plans-to-sell-stake-in-competitions",
+      "date": "Wed, 29 Jul 2026 20:45:26 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: France battles new wildfire in south of France as Fontainebleau fire flares up again",
+      "link": "https://www.france24.com/en/europe/20260729-live-massive-wildfire-in-southwest-france-remains-under-control",
+      "date": "Wed, 29 Jul 2026 20:40:48 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -150,11 +199,11 @@
       "date": "Wed, 29 Jul 2026 20:21:46 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump’s attorney general pick faces possible Republican roadblock",
-      "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
-      "date": "Wed, 29 Jul 2026 20:11:54 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Survey reveals rising optimism among African youth",
+      "link": "https://www.france24.com/en/survey-reveals-rising-optimism-among-african-youth",
+      "date": "Wed, 29 Jul 2026 20:17:13 GMT"
     },
     {
       "src": "BBC World",
@@ -164,11 +213,25 @@
       "date": "Wed, 29 Jul 2026 18:41:31 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Education minister resigns: 'Exhilarating moment' for India's youth as they demand accountability",
+      "link": "https://www.france24.com/en/education-minister-resigns-exhilarating-moment-for-india-s-youth-as-they-demand-accountability",
+      "date": "Wed, 29 Jul 2026 17:59:28 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Does Modi Have a Cockroach Problem?",
       "link": "https://foreignpolicy.com/2026/07/29/india-modi-cockroach-janta-party-protests-demands/",
       "date": "Wed, 29 Jul 2026 17:54:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "From deer to hedgehogs: Wildfires devastate France's wildlife",
+      "link": "https://www.france24.com/en/video/20260729-wild-animals-first-victims-of-raging-wildfire-in-southwest-france",
+      "date": "Wed, 29 Jul 2026 17:33:47 GMT"
     },
     {
       "src": "BBC World",
@@ -199,13 +262,6 @@
       "date": "Wed, 29 Jul 2026 17:14:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 29 Jul 2026 15:33:14 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Paradox of Self-Reliance",
@@ -232,6 +288,27 @@
       "text": "Eight years on, family of missing French tourist demands Japan's national police take over case",
       "link": "https://www.rfi.fr/en/international/20260729-statue-of-disappeared-frenchwoman-erected-in-japan-as-family-pushes-for-probe",
       "date": "Wed, 29 Jul 2026 12:50:33 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168048",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168045",
+      "date": "Wed, 29 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -344,6 +421,41 @@
       "text": "UK's Burnham pledges new drone tech to Ukraine in Zelensky meeting",
       "link": "https://www.rfi.fr/en/international/20260728-uk-s-burnham-pledges-new-drone-tech-to-ukraine-in-zelensky-meeting",
       "date": "Tue, 28 Jul 2026 12:26:26 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Climate alarm ‘blaring from every direction’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Forced online scams: IOM warns trafficking networks are booming",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168038",
+      "date": "Tue, 28 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
