@@ -1,27 +1,104 @@
 {
-  "updated": "2026-08-01T21:13:35.339Z",
+  "updated": "2026-08-01T22:23:10.599Z",
   "count": 72,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 20:51:09 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘I don’t want to miss out’: Why India’s youth are choosing debt over savings",
+      "link": "https://www.channelnewsasia.com/cna-insider/fomo-india-youth-bad-debt-loan-apps-borrowing-savings-6291491",
+      "date": "Sun, 02 Aug 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: China is smarter about subsidies than everybody else",
+      "link": "https://www.channelnewsasia.com/commentary/china-smarter-about-subsidies-strategic-sectors-economy-6290556",
+      "date": "Sun, 02 Aug 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Very scary’: Greenland&#039;s Southeast Asian migrants caught in Trump’s takeover push",
+      "link": "https://www.channelnewsasia.com/world/trump-greenland-migrants-economy-thais-filipinos-6269986",
+      "date": "Sun, 02 Aug 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "She left Singapore unable to cook. Now her rempah is reaching kitchens across Britain",
+      "link": "https://www.channelnewsasia.com/people/singaporean-shu-han-lee-rempah-london-britain-6287491",
+      "date": "Sun, 02 Aug 2026 05:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Majority of EU countries call for talks over migrant influx into Ceuta enclave",
+      "link": "https://www.channelnewsasia.com/world/majority-eu-countries-call-talks-over-migrant-influx-ceuta-enclave-6293206",
+      "date": "Sun, 02 Aug 2026 05:51:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pegula sets up Washington Open final against Eala",
+      "link": "https://www.channelnewsasia.com/sport/pegula-sets-up-washington-open-final-against-eala-6293216",
+      "date": "Sun, 02 Aug 2026 05:49:52 +0800"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
       "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "date": "Sat, 01 Aug 2026 20:42:06 GMT"
+      "date": "Sat, 01 Aug 2026 21:47:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+      "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 21:42:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UEFA, CONCACAF target Infantino after FIFA shelve World Cup private investment plan",
+      "link": "https://www.channelnewsasia.com/world/uefa-concacaf-target-infantino-after-fifa-shelve-world-cup-private-investment-plan-6293201",
+      "date": "Sun, 02 Aug 2026 05:39:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bombing at Moscow restaurant kills 3: officials",
+      "link": "https://www.channelnewsasia.com/world/bombing-moscow-restaurant-kills-3-officials-6293196",
+      "date": "Sun, 02 Aug 2026 05:26:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 21:15:50 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+      "text": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 20:39:16 GMT"
+      "date": "Sat, 01 Aug 2026 21:13:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 20:57:04 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 20:51:09 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -36,13 +113,6 @@
       "text": "Greece battles raging wildfires as flames appear to ease in France",
       "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
       "date": "Sat, 01 Aug 2026 20:24:19 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UN says Israeli demolitions in Lebanon &#039;deeply concerning&#039;",
-      "link": "https://www.channelnewsasia.com/world/un-says-israeli-demolitions-in-lebanon-deeply-concerning-6293141",
-      "date": "Sun, 02 Aug 2026 04:12:02 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -94,25 +164,11 @@
       "date": "Sat, 01 Aug 2026 18:51:14 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Noh opens three-shot lead as Women&#039;s British Open heads for thrilling finish",
-      "link": "https://www.channelnewsasia.com/sport/noh-opens-three-shot-lead-womens-british-open-heads-thrilling-finish-6293096",
-      "date": "Sun, 02 Aug 2026 02:36:58 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least three killed in explosion near cafe in Russia’s Moscow",
-      "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 18:22:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
-      "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 17:57:18 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Hundreds of thousands attend Pride events in UK and mainland Europe after deadly Berlin attack",
+      "link": "https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094",
+      "date": "Sat, 01 Aug 2026 19:51:00 +0100"
     },
     {
       "src": "BBC World",
@@ -129,20 +185,6 @@
       "date": "Sat, 01 Aug 2026 17:49:50 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 17:48:41 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rallying-Pajari leads in Finland after Ogier crashes out",
-      "link": "https://www.channelnewsasia.com/sport/rallying-pajari-leads-in-finland-after-ogier-crashes-out-6293041",
-      "date": "Sun, 02 Aug 2026 01:17:34 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Call for 'full review' as pressure grows on Infantino",
@@ -150,25 +192,11 @@
       "date": "Sat, 01 Aug 2026 17:07:46 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chelsea bring in 35-year old striker Welbeck from Brighton",
-      "link": "https://www.channelnewsasia.com/sport/chelsea-bring-in-35-year-old-striker-welbeck-brighton-6293021",
-      "date": "Sun, 02 Aug 2026 00:39:07 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
       "link": "https://www.france24.com/en/sport/20260801-wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey",
       "date": "Sat, 01 Aug 2026 16:32:02 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Brentford sign Sangare from Lens for club-record fee",
-      "link": "https://www.channelnewsasia.com/sport/brentford-sign-sangare-lens-club-record-fee-6293016",
-      "date": "Sun, 02 Aug 2026 00:25:35 +0800"
     },
     {
       "src": "BBC World",
@@ -190,20 +218,6 @@
       "text": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month",
       "link": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month",
       "date": "Sat, 01 Aug 2026 15:29:08 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US embassies urge citizens to &#039;consider departing&#039; Middle East",
-      "link": "https://www.channelnewsasia.com/world/us-embassies-urge-citizens-consider-departing-middle-east-6292981",
-      "date": "Sat, 01 Aug 2026 23:29:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Consortium led by Staveley to buy Gold family&#039;s stakes in West Ham",
-      "link": "https://www.channelnewsasia.com/sport/consortium-led-staveley-buy-gold-familys-stakes-in-west-ham-6292986",
-      "date": "Sat, 01 Aug 2026 23:27:46 +0800"
     },
     {
       "src": "BBC World",
@@ -241,11 +255,11 @@
       "date": "Sat, 01 Aug 2026 14:39:16 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bournemouth sign Portugal centre-back Silva from Benfica",
-      "link": "https://www.channelnewsasia.com/sport/bournemouth-sign-portugal-centre-back-silva-benfica-6292921",
-      "date": "Sat, 01 Aug 2026 22:20:52 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Recovery in Ukraine, one life at a time",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "date": "Sat, 01 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -376,13 +390,6 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "'Heartbroken' family pay tribute to 'devoted' father who died after alleged assault in Turkey",
-      "link": "https://news.sky.com/story/heartbroken-family-pay-tribute-to-devoted-father-who-died-after-alleged-assault-in-turkey-13568817",
-      "date": "Fri, 31 Jul 2026 16:06:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Prince William 'saddened' after death of 'truly unique' mountaineer",
       "link": "https://news.sky.com/story/nirmal-purja-former-british-special-forces-soldier-dead-after-avalanche-13568810",
       "date": "Fri, 31 Jul 2026 15:27:00 +0100"
@@ -462,13 +469,6 @@
       "col": "#3b82f6",
       "text": "Wildfires: Prevention is the best defence, UN says",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1168054",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168052",
       "date": "Thu, 30 Jul 2026 12:00:00 +0000"
     },
     {
