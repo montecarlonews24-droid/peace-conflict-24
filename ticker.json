@@ -1,13 +1,83 @@
 {
-  "updated": "2026-08-01T14:42:33.310Z",
-  "count": 72,
+  "updated": "2026-08-01T15:49:57.800Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 15:46:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month",
+      "link": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month",
+      "date": "Sat, 01 Aug 2026 15:29:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US embassies urge citizens to &#039;consider departing&#039; Middle East",
+      "link": "https://www.channelnewsasia.com/world/us-embassies-urge-citizens-consider-departing-middle-east-6292981",
+      "date": "Sat, 01 Aug 2026 23:29:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Consortium led by Staveley and others to buy Gold family&#039;s stakes in West Ham",
+      "link": "https://www.channelnewsasia.com/sport/consortium-led-staveley-and-others-buy-gold-familys-stakes-in-west-ham-6292986",
+      "date": "Sat, 01 Aug 2026 23:27:46 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 15:25:30 GMT"
+    },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
       "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "date": "Sat, 01 Aug 2026 14:33:20 GMT"
+      "date": "Sat, 01 Aug 2026 15:05:05 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 15:00:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ceuta: Spain slams \"selfish\" EU partners",
+      "link": "https://www.france24.com/en/ceuta-spain-slams-selfish-eu-partners",
+      "date": "Sat, 01 Aug 2026 14:42:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ceuta enclave \"almost\" back to normal after migrant influx",
+      "link": "https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1",
+      "date": "Sat, 01 Aug 2026 14:40:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Scientists study Greenland's melting ice",
+      "link": "https://www.france24.com/en/video/20260801-scientists-study-greenland-s-melting-ice",
+      "date": "Sat, 01 Aug 2026 14:39:16 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 14:28:20 +0000"
     },
     {
       "src": "CNA",
@@ -22,13 +92,6 @@
       "text": "Negeri Sembilan polls: Zahid declares BN-PN supermajority victory, with Anwar’s PH poised to suffer setback",
       "link": "https://www.channelnewsasia.com/asia/malaysia-negeri-sembilan-election-bn-pn-claims-win-supermajority-ph-loss-6292516",
       "date": "Sat, 01 Aug 2026 22:17:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 14:11:40 GMT"
     },
     {
       "src": "France 24",
@@ -122,34 +185,6 @@
       "date": "Sat, 01 Aug 2026 12:44:54 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 12:43:21 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-      "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 12:40:36 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan",
-      "link": "https://www.channelnewsasia.com/asia/nepali-climber-nirmal-purja-die-pakistan-avalanche-6292801",
-      "date": "Sat, 01 Aug 2026 20:34:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spain&#039;s North Africa enclave returns to normal as migrants depart",
-      "link": "https://www.channelnewsasia.com/world/spains-north-africa-enclave-returns-normal-migrants-depart-6292636",
-      "date": "Sat, 01 Aug 2026 19:59:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Africa: Fighting erupts in Ethiopia's Tigray",
@@ -169,34 +204,6 @@
       "text": "France: Major Gironde wildfire contained",
       "link": "https://www.france24.com/en/france-major-wildfire-contained-but-uncontrolled",
       "date": "Sat, 01 Aug 2026 11:49:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "African Union mission in Somalia in question after US funding to end",
-      "link": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end",
-      "date": "Sat, 01 Aug 2026 11:23:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta: 60,000 cross the border, 57 died",
-      "link": "https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died",
-      "date": "Sat, 01 Aug 2026 11:21:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kyiv: 9 dead and 22 hurt in missile attack",
-      "link": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack",
-      "date": "Sat, 01 Aug 2026 11:19:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France Cricket implodes: letters hidden in a drawer and a board at war",
-      "link": "https://www.france24.com/en/sport/20260801-france-cricket-implodes-letters-hidden-in-a-drawer-and-a-board-at-war",
-      "date": "Sat, 01 Aug 2026 10:55:46 GMT"
     },
     {
       "src": "BBC World",
@@ -225,13 +232,6 @@
       "text": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 01 Aug 2026 02:21:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 31 Jul 2026 23:58:12 GMT"
     },
     {
       "src": "Sky News",
@@ -374,27 +374,6 @@
       "date": "Fri, 31 Jul 2026 13:28:00 +0100"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strong El Niño ahead, UN weather agency warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168059",
-      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Wildfire smoke poses hidden health threat",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
-      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
@@ -428,41 +407,6 @@
       "text": "US government map of Africa mislabels every country at global conference",
       "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "date": "Thu, 30 Jul 2026 22:48:02 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The climate pattern putting millions at risk: El Niño explained",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168056",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Fear grows as freedoms shrink in Uganda",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168057",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168055",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Wildfires: Prevention is the best defence, UN says",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168054",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-      "link": "https://news.un.org/feed/view/en/story/2026/07/1168052",
-      "date": "Thu, 30 Jul 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
