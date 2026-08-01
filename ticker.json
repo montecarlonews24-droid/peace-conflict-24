@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-01T10:57:41.768Z",
-  "count": 64,
+  "updated": "2026-08-01T11:58:30.520Z",
+  "count": 56,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 11:52:29 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "date": "Sat, 01 Aug 2026 11:49:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vanishing forests: Why is the Philippines failing at reforestation?",
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 11:30:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain says migrants in Ceuta have returned to Morocco",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 11:29:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump mimics sound of Patriot missile interceptions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 11:21:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India’s Modi says he forgives students who abused him in Cockroach protests",
+      "link": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss",
+      "date": "Sat, 01 Aug 2026 11:08:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "BYD&#039;s sales rise for third month, buoyed by exports",
+      "link": "https://www.channelnewsasia.com/business/byds-sales-rise-third-month-buoyed-exports-6292746",
+      "date": "Sat, 01 Aug 2026 19:05:25 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 01 Aug 2026 11:00:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Missing Singaporean woman found in Cambodia says she was not forced into scam activities",
+      "link": "https://www.channelnewsasia.com/singapore/missing-singaporean-aishah-siregar-left-cambodia-willingly-not-scam-6292736",
+      "date": "Sat, 01 Aug 2026 18:56:00 +0800"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -10,25 +73,11 @@
       "date": "Sat, 01 Aug 2026 10:38:41 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "date": "Sat, 01 Aug 2026 10:32:55 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Iran: The Making of a War",
       "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
       "date": "Sat, 01 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 10:11:39 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -45,23 +94,9 @@
       "date": "Sat, 01 Aug 2026 18:05:45 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's largest wildfire in decades now 'under control', interior minister says",
-      "link": "https://www.france24.com/en/france/20260801-french-firefighters-stop-wildfires-spread-but-they-continue-burn",
-      "date": "Sat, 01 Aug 2026 09:58:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
-      "link": "https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
-      "date": "Sat, 01 Aug 2026 09:52:33 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Uefa has 'lost confidence' in Fifa leadership",
+      "text": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 01 Aug 2026 09:51:05 GMT"
     },
@@ -80,13 +115,6 @@
       "date": "Sat, 01 Aug 2026 09:47:39 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Beneath Tunisia’s silence, public anger simmers",
-      "link": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 09:42:50 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "India&#039;s Modi forgives student protesters who abused him, says punishing them &#039;will not change situation&#039;",
@@ -94,60 +122,11 @@
       "date": "Sat, 01 Aug 2026 17:26:19 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 09:19:47 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Reaction to FIFA backing down on World Cup sell-off plans",
       "link": "https://www.channelnewsasia.com/sport/reaction-fifa-backing-down-world-cup-sell-plans-6292671",
       "date": "Sat, 01 Aug 2026 17:12:08 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "AI safety concerns grow as models go rogue",
-      "link": "https://www.france24.com/en/video/20260801-ai-safety-concerns-grow-as-models-go-rogue",
-      "date": "Sat, 01 Aug 2026 09:10:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Greece fights fires near Athens",
-      "link": "https://www.france24.com/en/greece-fights-fires-near-athens",
-      "date": "Sat, 01 Aug 2026 09:05:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta: Most migrants have returned to Morocco, 57 died crossing the border",
-      "link": "https://www.france24.com/en/video/20260801-ceuta-most-migrants-have-returned-to-morocco-57-died-crossing-the-border-1",
-      "date": "Sat, 01 Aug 2026 09:04:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta: What triggered mass migrant crossing?",
-      "link": "https://www.france24.com/en/video/20260801-ceuta-what-triggered-mass-migrant-crossing-1",
-      "date": "Sat, 01 Aug 2026 09:03:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Settler violence hits \"all-time high\"",
-      "link": "https://www.france24.com/en/west-bank-settler-violence-hits-all-time-high",
-      "date": "Sat, 01 Aug 2026 09:01:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Donald Trump presses Israel to accept deal with Hamas",
-      "link": "https://www.france24.com/en/donald-trump-presses-israel-to-accept-deal-with-hamas",
-      "date": "Sat, 01 Aug 2026 08:59:54 GMT"
     },
     {
       "src": "CNA",
@@ -164,39 +143,11 @@
       "date": "Sat, 01 Aug 2026 16:43:00 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 08:24:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China&#039;s Commerce Ministry denies US accusation of forced labour in Xinjiang",
-      "link": "https://www.channelnewsasia.com/east-asia/chinas-commerce-ministry-denies-us-accusation-forced-labour-in-xinjiang-6292616",
-      "date": "Sat, 01 Aug 2026 16:14:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China conducts naval, air patrols around disputed shoal in South China Sea",
-      "link": "https://www.channelnewsasia.com/east-asia/china-conducts-naval-air-patrols-around-disputed-shoal-in-south-china-sea-6292351",
-      "date": "Sat, 01 Aug 2026 16:11:53 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Most Australian teens still on social media despite landmark ban",
       "link": "https://news.sky.com/story/most-australian-teens-still-on-social-media-despite-landmark-ban-13568966",
       "date": "Sat, 01 Aug 2026 08:48:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
-      "link": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 07:33:33 +0000"
     },
     {
       "src": "BBC World",
@@ -211,13 +162,6 @@
       "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 01 Aug 2026 05:01:56 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protesters detained at rally in support of Pakistan-administered Kashmir",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
-      "date": "Sat, 01 Aug 2026 04:39:22 +0000"
     },
     {
       "src": "BBC World",
