@@ -1,13 +1,55 @@
 {
-  "updated": "2026-08-02T15:50:12.760Z",
+  "updated": "2026-08-02T16:43:33.939Z",
   "count": 71,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 16:37:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wiebes wins second consecutive Tour de France Femmes stage",
+      "link": "https://www.france24.com/en/sport/20260802-wiebes-wins-second-consecutive-tour-de-france-femmes-stage",
+      "date": "Sun, 02 Aug 2026 16:34:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 16:10:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian drone strikes kill at least five in Russia, set another Wildberries warehouse ablaze",
+      "link": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+      "date": "Sun, 02 Aug 2026 16:06:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 15:50:59 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
       "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 02 Aug 2026 15:48:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli settlers shoot Palestinian child during farm raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 15:36:28 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -52,13 +94,6 @@
       "date": "Sun, 02 Aug 2026 15:11:30 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 02 Aug 2026 15:02:56 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Heatwave forces nuclear shutdown in Hungary",
@@ -99,20 +134,6 @@
       "text": "Greek firefighting helicopters in mid-air collision, four crew missing",
       "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
       "date": "Sun, 02 Aug 2026 14:15:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 14:14:25 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 14:11:54 +0000"
     },
     {
       "src": "CNA",
@@ -220,32 +241,11 @@
       "date": "Sun, 02 Aug 2026 17:50:03 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Capital One bank cites money-laundering probe to justify closing Trump Organization accounts",
-      "link": "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts",
-      "date": "Sun, 02 Aug 2026 09:46:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two firefighting helicopters collide near Athens as Greece confronts multiple blazes",
-      "link": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
-      "date": "Sun, 02 Aug 2026 09:03:11 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
       "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
       "date": "Sun, 02 Aug 2026 04:00:11 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 02 Aug 2026 00:29:55 GMT"
     },
     {
       "src": "BBC World",
