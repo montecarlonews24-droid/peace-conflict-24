@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-02T14:44:55.580Z",
-  "count": 72,
+  "updated": "2026-08-02T15:50:12.760Z",
+  "count": 71,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 15:48:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How to end the ‘Hormuz war’",
+      "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 15:33:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Juventus sign young Bosnian winger Alajbegovic",
+      "link": "https://www.channelnewsasia.com/sport/juventus-sign-young-bosnian-winger-alajbegovic-6293841",
+      "date": "Sun, 02 Aug 2026 23:28:02 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Helicopters fighting Greece wildfires collide in mid-air",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 15:21:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukrainian farmers use temporary storage to revive grain exports",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 15:14:26 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fire spread deeper into Athens region",
+      "link": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
+      "date": "Sun, 02 Aug 2026 15:12:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US, Israel to hold off on Iran strikes",
+      "link": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
+      "date": "Sun, 02 Aug 2026 15:11:30 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 15:02:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Heatwave forces nuclear shutdown in Hungary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 14:44:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tanks, troops and space",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 14:34:21 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France steps up fire prevention",
+      "link": "https://www.france24.com/en/video/20260802-france-steps-up-fire-prevention",
+      "date": "Sun, 02 Aug 2026 14:25:18 GMT"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -19,7 +96,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Firefighting helicopters collide near Athens as Greece battles wildfires",
+      "text": "Greek firefighting helicopters in mid-air collision, four crew missing",
       "link": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
       "date": "Sun, 02 Aug 2026 14:15:34 +0000"
     },
@@ -38,39 +115,11 @@
       "date": "Sun, 02 Aug 2026 14:11:54 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
-      "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 13:59:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Communal violence between Hindus and Muslims grips southern Nepal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 13:55:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 13:46:23 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "India&#039;s Chhetri urges Tata Group to reverse Jamshedpur shutdown",
       "link": "https://www.channelnewsasia.com/sport/indias-chhetri-urges-tata-group-reverse-jamshedpur-shutdown-6293731",
       "date": "Sun, 02 Aug 2026 21:44:47 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 13:40:55 +0000"
     },
     {
       "src": "The Guardian",
@@ -185,34 +234,6 @@
       "date": "Sun, 02 Aug 2026 09:03:11 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
-      "link": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
-      "date": "Sun, 02 Aug 2026 08:55:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Football: Brentford sign Ligue 1 star Mamadou Sangaré for €48 million",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260802-football-brentford-sign-ligue-1-star-mamadou-sangar%C3%A9-%E2%82%AC48-million",
-      "date": "Sun, 02 Aug 2026 08:53:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Colombia police station bombed wounding 14 people",
-      "link": "https://www.france24.com/en/colombia-police-station-bombed-wounding-14-people",
-      "date": "Sun, 02 Aug 2026 08:51:49 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sri Lanka deploys troops after prison riot",
-      "link": "https://www.channelnewsasia.com/asia/sri-lanka-police-troops-commandos-prison-riot-aug-2-6293551",
-      "date": "Sun, 02 Aug 2026 16:51:23 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -234,25 +255,11 @@
       "date": "Sat, 01 Aug 2026 23:03:35 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 22:57:55 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
       "date": "Sat, 01 Aug 2026 22:31:13 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 22:23:20 GMT"
     },
     {
       "src": "Sky News",
@@ -274,13 +281,6 @@
       "text": "Hundreds of thousands attend Pride events in UK and mainland Europe after deadly Berlin attack",
       "link": "https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094",
       "date": "Sat, 01 Aug 2026 19:51:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Italy putting nearly all major cities on highest heat alert",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 17:51:46 GMT"
     },
     {
       "src": "Sky News",
@@ -308,13 +308,6 @@
       "col": "#06b6d4",
       "text": "The first solar eclipse in almost 30 years: Where best to view it?",
       "link": "https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455",
-      "date": "Sat, 01 Aug 2026 00:01:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Infantino scraps controversial FIFA sell-off plan saying it 'created divisions'",
-      "link": "https://news.sky.com/story/created-division-gianni-infantino-abandons-fifa-sell-off-plan-following-global-backlash-13568939",
       "date": "Sat, 01 Aug 2026 00:01:00 +0100"
     },
     {
