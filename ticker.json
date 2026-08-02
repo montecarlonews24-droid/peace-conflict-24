@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-02T09:28:32.915Z",
-  "count": 56,
+  "updated": "2026-08-02T10:57:42.685Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 10:46:47 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 02 Aug 2026 10:32:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli soldiers jailed over Sde Teiman walkout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 10:31:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 10:31:25 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran media denies Trump claim that Tehran asked US not to strike",
+      "link": "https://www.channelnewsasia.com/world/iran-donald-trump-tehran-war-strike-6293606",
+      "date": "Sun, 02 Aug 2026 18:28:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: European wildfires, a woolly mammoth and a migrant influx at Spain's Ceuta",
+      "link": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta",
+      "date": "Sun, 02 Aug 2026 10:16:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rescuers recover climber Nirmal Purja&#039;s body: Alpine Club of Pakistan",
+      "link": "https://www.channelnewsasia.com/asia/nirmal-purja-body-recover-pakistan-avalanche-6293586",
+      "date": "Sun, 02 Aug 2026 18:09:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least five dead and dozens missing after Indonesian ferry catches fire",
+      "link": "https://news.sky.com/story/at-least-five-dead-and-41-missing-after-indonesian-ferry-catches-fire-13569145",
+      "date": "Sun, 02 Aug 2026 11:05:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Residents of Spain’s Ceuta shut down far-right anti-migrant rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 09:55:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "A quiet day in Harare after Zimbabwe’s shutdown call",
+      "link": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 09:50:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "4 Singaporeans among foreigners arrested in Vietnam over alleged drug-laced vape trafficking ring",
+      "link": "https://www.channelnewsasia.com/asia/singaporeans-arrested-vietnam-alleged-drug-vape-trafficking-ring-6293571",
+      "date": "Sun, 02 Aug 2026 17:50:03 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Capital One bank cites money-laundering probe to justify closing Trump Organization accounts",
+      "link": "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts",
+      "date": "Sun, 02 Aug 2026 09:46:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+      "date": "Sun, 02 Aug 2026 09:43:10 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -17,11 +108,53 @@
       "date": "Sun, 02 Aug 2026 09:07:20 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
+      "link": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
+      "date": "Sun, 02 Aug 2026 08:55:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Football: Brentford sign Ligue 1 star Mamadou Sangaré for €48 million",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260802-football-brentford-sign-ligue-1-star-mamadou-sangar%C3%A9-%E2%82%AC48-million",
+      "date": "Sun, 02 Aug 2026 08:53:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia police station bombed wounding 14 people",
+      "link": "https://www.france24.com/en/colombia-police-station-bombed-wounding-14-people",
+      "date": "Sun, 02 Aug 2026 08:51:49 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Sri Lanka deploys troops after prison riot",
       "link": "https://www.channelnewsasia.com/asia/sri-lanka-police-troops-commandos-prison-riot-aug-2-6293551",
       "date": "Sun, 02 Aug 2026 16:51:23 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Peru: Tourist plane crashes killing all 13 people aboard",
+      "link": "https://www.france24.com/en/peru-tourist-plane-crashes-killing-all-13-people-aboard",
+      "date": "Sun, 02 Aug 2026 08:50:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe to hold meeting Tuesday over Ceuta after migration flux",
+      "link": "https://www.france24.com/en/europe-to-hold-meeting-tuesday-over-ceuta-after-migration-flux",
+      "date": "Sun, 02 Aug 2026 08:47:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Most of 224,000 evacuees allowed to return home after devastating fires",
+      "link": "https://www.france24.com/en/france-most-of-224-000-evacuees-allowed-to-return-home-after-devastating-fires",
+      "date": "Sun, 02 Aug 2026 08:46:21 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -45,27 +178,6 @@
       "date": "Sun, 02 Aug 2026 08:23:32 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 08:20:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 08:12:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 08:08:19 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "FIFA chief Infantino&#039;s position looks unacceptable, head of European leagues says",
@@ -87,53 +199,11 @@
       "date": "Sun, 02 Aug 2026 13:59:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Arteta says he expects more reinforcements to arrive at Arsenal",
-      "link": "https://www.channelnewsasia.com/sport/arteta-says-he-expects-more-reinforcements-arrive-arsenal-6293496",
-      "date": "Sun, 02 Aug 2026 13:50:11 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least three dead in Idaho shopping mall mass shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 05:29:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "date": "Sun, 02 Aug 2026 05:27:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fleming a &#039;big reason&#039; for Root&#039;s return as England captain",
-      "link": "https://www.channelnewsasia.com/sport/fleming-big-reason-roots-return-england-captain-6293461",
-      "date": "Sun, 02 Aug 2026 12:35:55 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
       "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
       "date": "Sun, 02 Aug 2026 04:00:11 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fritz outlasts compatriot Nakashima, set to face Jodar in Washington Open final",
-      "link": "https://www.channelnewsasia.com/sport/fritz-outlasts-compatriot-nakashima-set-face-jodar-in-washington-open-final-6293401",
-      "date": "Sun, 02 Aug 2026 11:40:18 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 02 Aug 2026 00:55:16 GMT"
     },
     {
       "src": "BBC World",
@@ -169,13 +239,6 @@
       "text": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 01 Aug 2026 22:23:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 01 Aug 2026 20:09:27 GMT"
     },
     {
       "src": "Sky News",
@@ -337,13 +400,6 @@
       "text": "Prince William 'saddened' after death of 'truly unique' mountaineer",
       "link": "https://news.sky.com/story/nirmal-purja-former-british-special-forces-soldier-dead-after-avalanche-13568810",
       "date": "Fri, 31 Jul 2026 15:27:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'She is buried in nature now': Ransom notes released in hunt for kidnapper of TV star's mother",
-      "link": "https://news.sky.com/story/ransom-notes-in-nancy-guthrie-case-released-as-police-hope-writing-style-is-recognised-13568770",
-      "date": "Fri, 31 Jul 2026 13:28:00 +0100"
     },
     {
       "src": "The Guardian",
