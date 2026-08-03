@@ -1,55 +1,244 @@
 {
-  "updated": "2026-08-03T14:10:21.891Z",
-  "count": 70,
+  "updated": "2026-08-03T16:43:53.647Z",
+  "count": 69,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Amazon enters $3 trillion club as AI, cloud growth power rally",
-      "link": "https://www.channelnewsasia.com/business/amazon-enters-3-trillion-club-ai-cloud-growth-power-rally-6295711",
-      "date": "Mon, 03 Aug 2026 21:45:57 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Heatwave in Gaza compounds Palestinian suffering",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 13:31:52 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hard-right Reform UK proposes navy-led operation to stop small migrant boats",
-      "link": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
-      "date": "Mon, 03 Aug 2026 13:29:32 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "People flee as rain triggers landslide in India’s Kerala",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-india-landslide-clip?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 13:25:05 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Massive Attack says members held after pro-Palestine display in Singapore",
-      "link": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 13:23:21 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "After Donald Trump's latest U-turn, uncertainty remains over talks with Iran",
-      "link": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran",
-      "date": "Mon, 03 Aug 2026 13:19:21 GMT"
+      "text": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 16:33:08 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US men’s coach Pochettino agrees new contract through 2030 World Cup",
-      "link": "https://www.channelnewsasia.com/sport/us-mens-coach-pochettino-agrees-new-contract-through-2030-world-cup-6295646",
-      "date": "Mon, 03 Aug 2026 21:18:28 +0800"
+      "text": "Russia set to increase exports from western ports in August amid firm demand in Asia, sources say",
+      "link": "https://www.channelnewsasia.com/business/russia-set-increase-exports-western-ports-in-august-amid-firm-demand-in-asia-sources-say-6295961",
+      "date": "Tue, 04 Aug 2026 00:31:52 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Inside the Palestine Action protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 16:30:56 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wildfires raze neighborhoods in northwest US city of Spokane",
+      "link": "https://www.channelnewsasia.com/world/spokane-wildfires-buildings-evacuees-washington-6295936",
+      "date": "Tue, 04 Aug 2026 00:30:22 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 16:27:43 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Water sports enthusiasts 'fly' above the River Seine",
+      "link": "https://www.france24.com/en/video/20260803-france-water-sports-enthusiasts-fly-above-the-river-seine",
+      "date": "Mon, 03 Aug 2026 16:27:37 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "date": "Mon, 03 Aug 2026 16:26:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+      "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 16:12:55 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU steps up AI regulation as new transparency rules come into effect",
+      "link": "https://www.rfi.fr/en/international/20260803-eu-steps-up-ai-regulation-as-new-transparency-rules-come-into-effect",
+      "date": "Mon, 03 Aug 2026 16:06:09 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "date": "Mon, 03 Aug 2026 16:05:20 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sititi says All Blacks axing was tough as he eyes test return",
+      "link": "https://www.channelnewsasia.com/sport/sititi-says-all-blacks-axing-was-tough-he-eyes-test-return-6295921",
+      "date": "Tue, 04 Aug 2026 00:02:35 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Romanian navy blasts riverbed to protect nuclear plant",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 16:01:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norway&#039;s Haugset rides to solo win, takes yellow jersey in Tour de France Femmes",
+      "link": "https://www.channelnewsasia.com/sport/norways-haugset-rides-solo-win-takes-yellow-jersey-in-tour-de-france-femmes-6295926",
+      "date": "Tue, 04 Aug 2026 00:00:55 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 15:59:48 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 15:57:27 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ceuta migrant influx reignites immigration divisions in Europe",
+      "link": "https://www.france24.com/en/europe/20260803-ceuta-migrant-influx-reignites-immigration-divisions-in-europe",
+      "date": "Mon, 03 Aug 2026 15:57:17 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Broadcom loses court bid to suspend EU antitrust request for US legal papers",
+      "link": "https://www.channelnewsasia.com/business/broadcom-loses-court-bid-suspend-eu-antitrust-request-us-legal-papers-6295911",
+      "date": "Mon, 03 Aug 2026 23:57:09 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indian court acquits ex-wrestling chief in sexual harassment case",
+      "link": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 15:56:01 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bridge collapse in DR Congo reignites debate about mining revenues",
+      "link": "https://www.france24.com/en/africa/20260803-bridge-collapse-dr-congo-reignites-debate-mining-revenues",
+      "date": "Mon, 03 Aug 2026 15:51:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Israel and the European far right tried to exploit Ceuta",
+      "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 15:41:20 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian anti-war politician says he has fled the country",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 15:41:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "After deadly day, Gazans say Trump&#039;s touting of plan jars with grim reality",
+      "link": "https://www.channelnewsasia.com/world/gaza-hamas-disarmament-deal-trump-israel-attacks-6295716",
+      "date": "Mon, 03 Aug 2026 23:32:35 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil slides, stocks rise on hopes of deal to end Middle East war",
+      "link": "https://www.channelnewsasia.com/world/oil-price-stocks-deal-iran-war-us-6295856",
+      "date": "Mon, 03 Aug 2026 23:32:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "\"The situation is out of control\": Greek firefighters battle wildfire for fourth day",
+      "link": "https://www.france24.com/en/video/20260803-the-situation-is-out-of-control-greek-firefighters-battle-wildfire-for-fourth-day",
+      "date": "Mon, 03 Aug 2026 15:30:33 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ireland&#039;s Maguire returns for fourth Solheim Cup as a captain&#039;s pick",
+      "link": "https://www.channelnewsasia.com/sport/irelands-maguire-returns-fourth-solheim-cup-captains-pick-6295866",
+      "date": "Mon, 03 Aug 2026 23:27:23 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Australia’s under-16 social media ban failing, study shows: What it means",
+      "link": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 15:21:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Across the EU, immigration being used as a 'political tool' across the political spectrum",
+      "link": "https://www.france24.com/en/video/20260803-across-the-eu-immigration-being-used-as-a-political-tool-across-the-political-spectrum-1",
+      "date": "Mon, 03 Aug 2026 15:19:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+      "link": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 15:19:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU calls for 'united action' on border protection after Ceuta mass crossing",
+      "link": "https://www.france24.com/en/eu-calls-for-united-action-on-border-protection-after-ceuta-mass-crossing",
+      "date": "Mon, 03 Aug 2026 15:18:51 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
+      "link": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
+      "date": "Mon, 03 Aug 2026 14:56:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
+      "link": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france",
+      "date": "Mon, 03 Aug 2026 14:47:54 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 14:20:56 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+      "date": "Mon, 03 Aug 2026 14:13:01 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "A Saudi-Emirati Thaw Can Help Contain Iran",
+      "link": "https://foreignpolicy.com/2026/08/03/saudi-arabia-emirates-iran-israel-uae-missile-defense-sanctions-hormuz/",
+      "date": "Mon, 03 Aug 2026 14:04:36 +0000"
     },
     {
       "src": "RFI",
@@ -59,109 +248,11 @@
       "date": "Mon, 03 Aug 2026 13:16:03 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Webb telescope finds signs of ancient disaster for Neptune&#039;s moons",
-      "link": "https://www.channelnewsasia.com/business/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-6295626",
-      "date": "Mon, 03 Aug 2026 21:03:57 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why genocide keeps repeating in Sudan",
-      "link": "https://www.aljazeera.com/opinions/2026/8/3/why-genocide-keeps-repeating-in-sudan?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 13:00:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Detained Myanmar leader Suu Kyi  has first foreign visitor in five years",
-      "link": "https://www.aljazeera.com/news/2026/8/3/detained-myanmar-leader-suu-kyi-has-first-foreign-visitor-in-five-years?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 12:56:43 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Worker dies after scaffolding collapses at Jurong Port construction site",
-      "link": "https://www.channelnewsasia.com/singapore/jurong-port-construction-site-lorry-scaffolding-collapsed-6295526",
-      "date": "Mon, 03 Aug 2026 20:52:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal",
-      "link": "https://www.channelnewsasia.com/business/visa-beefs-up-cybersecurity-offerings-24-billion-biocatch-deal-6295586",
-      "date": "Mon, 03 Aug 2026 20:49:42 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran denies Trump's claim that new talks will begin on Monday",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 12:44:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vozinha arrives in Chile to sign for Colo-Colo",
-      "link": "https://www.channelnewsasia.com/sport/vozinha-arrives-in-chile-sign-colo-colo-6295561",
-      "date": "Mon, 03 Aug 2026 20:43:11 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "FIFA&#039;s Infantino sought Trump backing after failed World Cup sell-off plan, NY Post reports",
-      "link": "https://www.channelnewsasia.com/sport/fifas-infantino-sought-trump-backing-after-failed-world-cup-sell-plan-ny-post-reports-6295566",
-      "date": "Mon, 03 Aug 2026 20:42:27 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant",
-      "link": "https://www.france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant",
-      "date": "Mon, 03 Aug 2026 12:34:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
-      "link": "https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 12:27:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea&#039;s central bank to buy gold from domestic producers",
-      "link": "https://www.channelnewsasia.com/business/south-koreas-central-bank-buy-gold-domestic-producers-6295491",
-      "date": "Mon, 03 Aug 2026 20:23:05 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta migrant crisis:  Far-right govts 'ridiculously using these images' to stoke fear for votes",
-      "link": "https://www.france24.com/en/ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-to-stoke-fear-for-votes",
-      "date": "Mon, 03 Aug 2026 12:20:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 12:20:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who will shape post-war Iran?",
-      "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 12:11:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestine’s new ambassador to Spain calls for deeper friendship",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 12:09:19 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Thousands of migrants remain in Ceuta after deadly border rush",
+      "link": "https://news.sky.com/story/thousands-of-migrants-remain-in-ceuta-after-deadly-mass-rush-from-morocco-13569427",
+      "date": "Mon, 03 Aug 2026 13:44:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -171,53 +262,11 @@
       "date": "Mon, 03 Aug 2026 11:31:04 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta: Parents gather at Moroccan border, desperate for news of their children",
-      "link": "https://www.france24.com/en/video/20260803-ceuta-parents-gather-at-moroccan-border-desperate-for-news-of-their-children",
-      "date": "Mon, 03 Aug 2026 11:19:36 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Son of Myanmar's detained former leader Aung San Suu Kyi gives update",
       "link": "https://news.sky.com/story/son-of-myanmars-detained-former-leader-aung-san-suu-kyigives-update-13569395",
       "date": "Mon, 03 Aug 2026 12:10:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 10:59:12 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 10:58:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Spain expects solidarity' as it grapples with aftermath of Ceuta migration surge",
-      "link": "https://www.france24.com/en/video/20260803-spain-expects-solidarity-as-it-grapples-with-aftermath-of-ceuta-migration-surge",
-      "date": "Mon, 03 Aug 2026 10:51:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cuba could collapse. Here’s what Trump wants.",
-      "link": "https://www.france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island",
-      "date": "Mon, 03 Aug 2026 10:37:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "After the fires, France's touristy southwest reckons with their economic fallout",
-      "link": "https://www.france24.com/en/after-the-fires-france-s-southwest-reckons-with-their-economic-fallout",
-      "date": "Mon, 03 Aug 2026 10:24:23 GMT"
     },
     {
       "src": "BBC World",
@@ -276,13 +325,6 @@
       "date": "Mon, 03 Aug 2026 03:32:21 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Massive Attack respond after Singapore ban over Palestine display",
-      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 01:31:05 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Deadly suicide bombing targeting anti-militant rally in Pakistan",
@@ -337,27 +379,6 @@
       "text": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
       "date": "Sat, 01 Aug 2026 22:31:13 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Tourist plane crash leaves 13 dead in Peru",
-      "link": "https://news.sky.com/story/tourist-plane-crash-leaves-13-dead-in-peru-13569102",
-      "date": "Sat, 01 Aug 2026 20:50:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "date": "Sat, 01 Aug 2026 19:03:39 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Hundreds of thousands attend Pride events in UK and mainland Europe after deadly Berlin attack",
-      "link": "https://news.sky.com/story/hundreds-of-thousands-attend-pride-events-in-uk-and-mainland-europe-after-deadly-berlin-attack-13569094",
-      "date": "Sat, 01 Aug 2026 19:51:00 +0100"
     },
     {
       "src": "UN News",
@@ -416,32 +437,11 @@
       "date": "Fri, 31 Jul 2026 19:30:09 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Book That Predicted Pete Hegseth’s Failures",
-      "link": "https://foreignpolicy.com/2026/07/31/hegseth-norman-dixon-iran-war/",
-      "date": "Fri, 31 Jul 2026 19:00:20 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "date": "Fri, 31 Jul 2026 17:52:11 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
       "date": "Fri, 31 Jul 2026 16:29:14 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "'Humanitarian emergency' as influx of migrants overwhelms Spanish enclave Ceuta",
-      "link": "https://www.rfi.fr/en/international/20260731-humanitarian-emergency-as-influx-of-migrants-overwhelms-spanish-enclave-ceuta",
-      "date": "Fri, 31 Jul 2026 16:20:00 GMT"
     },
     {
       "src": "UN News",
@@ -463,13 +463,6 @@
       "text": "Wildfire smoke poses hidden health threat",
       "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
       "date": "Fri, 31 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-      "link": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "date": "Fri, 31 Jul 2026 11:38:46 GMT"
     },
     {
       "src": "UN News",
