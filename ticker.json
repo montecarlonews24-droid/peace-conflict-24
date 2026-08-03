@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-03T18:30:28.999Z",
-  "count": 62,
+  "updated": "2026-08-03T20:12:01.156Z",
+  "count": 70,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
+      "link": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk",
+      "date": "Mon, 03 Aug 2026 19:50:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 03 Aug 2026 19:42:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "White House to host meeting on new AI review regime",
+      "link": "https://www.channelnewsasia.com/world/white-house-host-meeting-new-ai-review-regime-6296116",
+      "date": "Tue, 04 Aug 2026 03:32:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 18:55:25 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US announces first two deaths from cyclospora outbreak",
+      "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 18:35:09 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -59,13 +94,6 @@
       "date": "Mon, 03 Aug 2026 17:44:01 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 17:41:27 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Republicans say they will back Blanche after US Justice Department order",
@@ -120,27 +148,6 @@
       "text": "UK regulator says it is monitoring developments after rogue AI agent hacks",
       "link": "https://www.channelnewsasia.com/business/uk-regulator-says-it-monitoring-developments-after-rogue-ai-agent-hacks-6295981",
       "date": "Tue, 04 Aug 2026 00:52:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Williams sisters awarded doubles wild card for Cincinnati Open",
-      "link": "https://www.channelnewsasia.com/sport/williams-sisters-awarded-doubles-wild-card-cincinnati-open-6295986",
-      "date": "Tue, 04 Aug 2026 00:49:37 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 16:33:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Inside the Palestine Action protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 16:30:56 +0000"
     },
     {
       "src": "BBC World",
@@ -227,13 +234,6 @@
       "date": "Mon, 03 Aug 2026 15:18:51 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
-      "link": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
-      "date": "Mon, 03 Aug 2026 14:56:22 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
@@ -267,6 +267,27 @@
       "text": "Thousands of migrants remain in Spanish city after deadly border rush",
       "link": "https://news.sky.com/story/thousands-of-migrants-remain-in-ceuta-after-deadly-mass-rush-from-morocco-13569427",
       "date": "Mon, 03 Aug 2026 13:44:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "In Somalia, AI is helping deliver food to hungry families",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mothers still lack support to breastfeed, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168065",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: New centre opens at heart of record Ebola outbreak",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -360,6 +381,13 @@
       "date": "Sun, 02 Aug 2026 12:12:32 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168058",
+      "date": "Sun, 02 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "At least five dead and dozens missing after Indonesian ferry catches fire",
@@ -379,6 +407,13 @@
       "text": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
       "date": "Sat, 01 Aug 2026 22:31:13 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Recovery in Ukraine, one life at a time",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "date": "Sat, 01 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -435,6 +470,27 @@
       "text": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
       "date": "Fri, 31 Jul 2026 16:29:14 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strong El Niño ahead, UN weather agency warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168059",
+      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Wildfire smoke poses hidden health threat",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
+      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
     }
   ]
 }
