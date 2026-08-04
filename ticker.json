@@ -1,62 +1,223 @@
 {
-  "updated": "2026-08-04T10:09:11.289Z",
-  "count": 63,
+  "updated": "2026-08-04T12:23:21.994Z",
+  "count": 70,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-      "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 10:04:53 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Former chip executives launch athlete discovery platform",
+      "link": "https://www.channelnewsasia.com/sport/former-chip-executives-launch-athlete-discovery-platform-6298081",
+      "date": "Tue, 04 Aug 2026 20:09:48 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Vietnam rice group proposes export price floor to shield farmers, exporters",
-      "link": "https://www.channelnewsasia.com/business/vietnam-rice-group-proposes-export-price-floor-shield-farmers-exporters-6297621",
-      "date": "Tue, 04 Aug 2026 18:02:42 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Who are the migrants that remain in Spain's Ceuta?",
-      "link": "https://www.france24.com/en/who-are-the-immigrants-that-remain-in-spain-s-ceuta",
-      "date": "Tue, 04 Aug 2026 10:00:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ethiopians flee to neighbouring Sudan after renewed conflict in Tigray",
-      "link": "https://www.france24.com/en/video/20260804-ethiopians-flee-to-neighbouring-sudan-after-renewed-conflict-in-tigray",
-      "date": "Tue, 04 Aug 2026 09:54:20 GMT"
+      "text": "Parliamentary clerks to get retention payments after commission flags rising attrition",
+      "link": "https://www.channelnewsasia.com/singapore/parliamentary-clerks-get-retention-payments-after-commission-flags-rising-attrition-6297936",
+      "date": "Tue, 04 Aug 2026 20:05:00 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "EU opens probe into Spain payment to Japan&#039;s JGC in case over renewable subsidies",
-      "link": "https://www.channelnewsasia.com/business/eu-opens-probe-spain-payment-japans-jgc-in-case-over-renewable-subsidies-6297571",
-      "date": "Tue, 04 Aug 2026 17:51:40 +0800"
+      "text": "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
+      "link": "https://www.channelnewsasia.com/business/obsidian-security-raises-funding-11-billion-valuation-ai-security-demand-6298051",
+      "date": "Tue, 04 Aug 2026 20:03:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Michelin Guide Singapore 2026: 1887 by Andre blazes into the list with 2 stars, 6 new restaurants get their first star",
+      "link": "https://www.channelnewsasia.com/experiences/michelin-guide-singapore-2026-6297336",
+      "date": "Tue, 04 Aug 2026 19:55:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Broadridge quarterly profit climbs on investor communications strength",
+      "link": "https://www.channelnewsasia.com/business/broadridge-quarterly-profit-climbs-investor-communications-strength-6298006",
+      "date": "Tue, 04 Aug 2026 19:54:15 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mediator Qatar says efforts &#039;ongoing&#039; for Iran-US diplomatic solution",
+      "link": "https://www.channelnewsasia.com/world/qatar-mediator-us-iran-war-diplomatic-solution-6297991",
+      "date": "Tue, 04 Aug 2026 19:49:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China draws up safety rules for autonomous vehicles",
+      "link": "https://www.channelnewsasia.com/east-asia/china-autonomous-vehicles-safety-rules-6297976",
+      "date": "Tue, 04 Aug 2026 19:49:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
+      "link": "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:47:45 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What Remains of Rojava",
+      "link": "https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-kobani-isis-integration/",
+      "date": "Tue, 04 Aug 2026 11:46:23 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pasta of the future: Italy tests climate-resistant wheat",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260804-pasta-of-the-future-italy-tests-climate-resistant-wheat",
+      "date": "Tue, 04 Aug 2026 11:44:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Romania, Hungary, France... Europe's nuclear power plants tested by heatwave",
+      "link": "https://www.france24.com/en/video/20260804-romania-hungary-france-europe-s-nuclear-power-plants-tested-by-heatwave",
+      "date": "Tue, 04 Aug 2026 11:33:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:30:30 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Villa win CAS appeal against FIFA block on registering 17-year-old Madjo",
+      "link": "https://www.channelnewsasia.com/sport/villa-win-cas-appeal-against-fifa-block-registering-17-year-old-madjo-6297946",
+      "date": "Tue, 04 Aug 2026 19:26:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:26:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+      "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:21:01 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "What is Trump Media's Truth API and why is it controversial?",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 09:40:47 GMT"
+      "text": "More than 150 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 11:19:08 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "text": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 09:35:06 GMT"
+      "date": "Tue, 04 Aug 2026 11:19:01 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nippon Steel raises FY2026 profit forecast on strong US Steel earnings",
-      "link": "https://www.channelnewsasia.com/business/nippon-steel-raises-fy2026-profit-forecast-strong-us-steel-earnings-6297521",
-      "date": "Tue, 04 Aug 2026 17:32:38 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Amid successive energy blackouts, frustration grows in cut-off Cuba",
+      "link": "https://www.france24.com/en/amid-successive-energy-blackouts-frustration-grows-in-cut-off-cuba",
+      "date": "Tue, 04 Aug 2026 11:11:23 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
+      "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:05:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Who is behind settler violence in the occupied West Bank?",
+      "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 11:04:03 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Despite World Cup success, controversy-marred Infantino faces tough election",
+      "link": "https://www.france24.com/en/despite-world-cup-success-controversy-marred-infantino-loses-election-support",
+      "date": "Tue, 04 Aug 2026 11:01:52 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Guatemala volcano eruption sends lava spewing into the air",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 10:56:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ahead of the midterms, Democrats face reckoning in Michigan primary",
+      "link": "https://www.france24.com/en/ahead-of-the-midterms-democrats-face-reckoning-in-michigan-primary",
+      "date": "Tue, 04 Aug 2026 10:54:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 10:53:33 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Record drought and heatwave bring energy emergency to Eastern Europe",
+      "link": "https://www.france24.com/en/record-drought-and-heatwave-bring-energy-emergency-to-eastern-europe",
+      "date": "Tue, 04 Aug 2026 10:49:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cape Verde's Vozinha signs with Chile's most decorated football club",
+      "link": "https://www.france24.com/en/cape-verde-s-vozinha-signs-with-chile-s-most-decorated-football-club",
+      "date": "Tue, 04 Aug 2026 10:40:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+      "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 10:40:08 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 10:34:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "As blaze abates, tourists and locals slowly returns to France's Cap Ferret",
+      "link": "https://www.france24.com/en/as-blaze-abates-tourists-and-locals-slowly-returns-to-france-s-cap-ferret",
+      "date": "Tue, 04 Aug 2026 10:25:30 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Architecture of Israel’s Genocide in Gaza",
+      "link": "https://foreignpolicy.com/2026/08/04/gaza-palestinian-genocide-israel-book/",
+      "date": "Tue, 04 Aug 2026 10:00:49 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
+      "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
+      "date": "Tue, 04 Aug 2026 10:00:47 GMT"
     },
     {
       "src": "BBC World",
@@ -66,25 +227,11 @@
       "date": "Tue, 04 Aug 2026 09:32:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Greece's wildfires claim lives as firefighters struggle to contain flames",
-      "link": "https://www.france24.com/en/greece-s-wildfires-claim-lives-as-firefighters-struggle-to-contain-flames",
-      "date": "Tue, 04 Aug 2026 09:23:30 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Soldier kills four in gun rampage in Russian-occupied Crimea",
       "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 04 Aug 2026 09:23:06 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong June retail sales rise 4.6%, seem support from visitors growth",
-      "link": "https://www.channelnewsasia.com/business/hong-kong-june-retail-sales-rise-46-seem-support-visitors-growth-6297466",
-      "date": "Tue, 04 Aug 2026 17:17:06 +0800"
     },
     {
       "src": "BBC World",
@@ -94,20 +241,6 @@
       "date": "Tue, 04 Aug 2026 09:13:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Arson suspected in devastating US wildfire that forced 60,000 to evacuate",
-      "link": "https://www.france24.com/en/arson-suspected-in-devastating-us-wildfire-that-forced-60-000-to-evacuate",
-      "date": "Tue, 04 Aug 2026 09:12:31 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan may not have intervened in FX market on Monday despite yen&#039;s surge, BOJ data suggests",
-      "link": "https://www.channelnewsasia.com/business/japan-may-not-have-intervened-in-fx-market-monday-despite-yens-surge-boj-data-suggests-6297446",
-      "date": "Tue, 04 Aug 2026 17:11:48 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Analysis: Trump challenged by cold reality from top allies",
@@ -115,116 +248,11 @@
       "date": "Tue, 04 Aug 2026 09:11:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Raymond Ng declared vexatious litigant, court imposes litigation restraints on Iris Koh",
-      "link": "https://www.channelnewsasia.com/singapore/raymond-ng-vexatious-litigant-iris-koh-restraint-court-6297421",
-      "date": "Tue, 04 Aug 2026 17:11:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How Israel reduced Iran’s historic Rafi-Nia synagogue to rubble (1/2)",
-      "link": "https://www.france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2",
-      "date": "Tue, 04 Aug 2026 09:09:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine strikes inside Russia as Moscow accused of increasingly brutal attacks",
-      "link": "https://www.france24.com/en/ukraine-strikes-inside-russia-as-moscow-accused-of-increasingly-brutal-attacks",
-      "date": "Tue, 04 Aug 2026 09:07:42 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Samsung&#039;s retail investors seek extra shareholder meeting over buybacks, bonuses",
-      "link": "https://www.channelnewsasia.com/business/samsungs-retail-investors-seek-extra-shareholder-meeting-over-buybacks-bonuses-6297386",
-      "date": "Tue, 04 Aug 2026 16:54:40 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian civilians killed in Crimea as Ukraine war takes its toll on Black Sea shores",
-      "link": "https://www.france24.com/en/europe/20260804-at-least-9-russian-civilians-killed-as-ukraine-war-takes-its-toll-on-black-sea-shores",
-      "date": "Tue, 04 Aug 2026 08:53:10 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sri Lanka closes some schools as heavy rains trigger floods and mudslides, killing 5",
-      "link": "https://www.channelnewsasia.com/asia/sri-lanka-heavy-rain-floods-schools-closed-6297076",
-      "date": "Tue, 04 Aug 2026 16:52:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cars burn in reported settler attack in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 08:51:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "We demand accountability for the Beirut blast",
-      "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 08:51:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 08:37:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 08:32:49 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Michigan Democrats pick nominee in high-profile Senate primary amid record pro-Israel spending",
-      "link": "https://www.france24.com/en/americas/20260804-michigan-democrats-pick-nominee-in-high-profile-senate-primary-amid-record-pro-israel-spending-abdul-stevens",
-      "date": "Tue, 04 Aug 2026 07:36:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 07:19:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-      "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 06:00:10 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Push for indictment as Lebanon marks six years since Beirut port blast",
       "link": "https://www.rfi.fr/en/international/20260804-push-for-indictment-as-lebanon-marks-six-years-since-beirut-port-blast",
       "date": "Tue, 04 Aug 2026 05:46:30 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why are the Washington wildfires so severe? Spokane fires explained",
-      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 05:03:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bodycam video shows firefighters battling blaze in Spokane, US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 04:22:28 +0000"
     },
     {
       "src": "Sky News",
@@ -239,13 +267,6 @@
       "text": "UFC star dies aged 34",
       "link": "https://news.sky.com/story/allan-nascimento-ufc-star-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep-13569578",
       "date": "Tue, 04 Aug 2026 00:56:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "EU calls for stronger borders after Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 03 Aug 2026 21:43:10 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -332,18 +353,46 @@
       "date": "Mon, 03 Aug 2026 13:44:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Drone strikes threaten civilians and aid operations in Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "In Somalia, AI is helping deliver food to hungry families",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mothers still lack support to breastfeed, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168065",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: New centre opens at heart of record Ebola outbreak",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Europe’s Dangerous Hesitation on Its Own Air Defense",
       "link": "https://foreignpolicy.com/2026/08/03/nato-europe-russia-missiles-air-defense-ukraine-patriots/",
       "date": "Mon, 03 Aug 2026 11:31:04 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Son of Myanmar's detained former leader Aung San Suu Kyi gives update",
-      "link": "https://news.sky.com/story/son-of-myanmars-detained-former-leader-aung-san-suu-kyigives-update-13569395",
-      "date": "Mon, 03 Aug 2026 12:10:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -355,7 +404,7 @@
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "EU ministers set to meet over migrant crossings in Ceuta",
+      "text": "EU ministers to hold emergency meeting over migrant crossings to Ceuta",
       "link": "https://www.rfi.fr/en/international/20260803-eu-ministers-set-to-meet-over-migrant-crossings-in-ceuta",
       "date": "Mon, 03 Aug 2026 06:16:30 GMT"
     },
@@ -372,13 +421,6 @@
       "text": "Special Treatment for Cuban Refugees Is No More",
       "link": "https://foreignpolicy.com/2026/08/03/cuban-refugees-trump-administration-deportation/",
       "date": "Mon, 03 Aug 2026 04:01:56 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Cure for Russia’s Labor Shortage Is Worse Than the Disease",
-      "link": "https://foreignpolicy.com/2026/08/03/russia-labor-shortage-cure-disease/",
-      "date": "Mon, 03 Aug 2026 04:01:36 +0000"
     },
     {
       "src": "RFI",
@@ -402,6 +444,13 @@
       "date": "Sun, 02 Aug 2026 12:12:32 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168058",
+      "date": "Sun, 02 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -416,18 +465,18 @@
       "date": "Sat, 01 Aug 2026 22:31:13 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Recovery in Ukraine, one life at a time",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "date": "Sat, 01 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Fears of wheat price surge amid Ukraine-Russia clashes in the Black Sea",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260731-fears-of-wheat-price-surge-amid-ukraine-russia-clashes-in-the-black-sea",
       "date": "Fri, 31 Jul 2026 21:20:47 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "France’s Wildfires Are Swallowing Its Politics",
-      "link": "https://foreignpolicy.com/2026/07/31/france-wildfires-macron-politics-le-pen-melenchon/",
-      "date": "Fri, 31 Jul 2026 20:59:25 +0000"
     },
     {
       "src": "RFI",
@@ -437,11 +486,11 @@
       "date": "Fri, 31 Jul 2026 20:51:31 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "date": "Fri, 31 Jul 2026 16:29:14 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+      "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+      "date": "Fri, 31 Jul 2026 12:00:00 +0000"
     }
   ]
 }
