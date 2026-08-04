@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-03T23:57:31.709Z",
-  "count": 62,
+  "updated": "2026-08-04T01:55:08.144Z",
+  "count": 63,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "25 US states sue Trump administration over sweeping new tariffs",
+      "link": "https://www.france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs",
+      "date": "Tue, 04 Aug 2026 01:31:40 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meet the AI tutor helping polytechnic students learn better",
+      "link": "https://www.channelnewsasia.com/brand-studio/meet-ai-tutor-helping-polytechnic-students-learn-better-6288056",
+      "date": "Tue, 04 Aug 2026 09:24:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
+      "link": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
+      "date": "Tue, 04 Aug 2026 01:18:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+      "link": "https://www.channelnewsasia.com/business/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-6296486",
+      "date": "Tue, 04 Aug 2026 09:02:26 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia&#039;s Cooper steps down from leadership group after Commonwealth Games no-show",
+      "link": "https://www.channelnewsasia.com/sport/australias-cooper-steps-down-leadership-group-after-commonwealth-games-no-show-6296476",
+      "date": "Tue, 04 Aug 2026 08:48:40 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spider-Man: Brand New Day beats Avengers: Endgame box office record",
+      "link": "https://www.channelnewsasia.com/entertainment/spider-man-brand-new-day-box-office-record-6295851",
+      "date": "Tue, 04 Aug 2026 08:46:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
+      "link": "https://www.france24.com/en/americas/20260804-us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-burn-in-spokane",
+      "date": "Tue, 04 Aug 2026 00:40:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s Grab lifts 2026 forecasts on solid delivery, ride-hailing demand",
+      "link": "https://www.channelnewsasia.com/business/singapores-grab-lifts-2026-forecasts-solid-delivery-ride-hailing-demand-6296336",
+      "date": "Tue, 04 Aug 2026 08:33:34 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration sued by 25 states over new tariffs on trading partners",
+      "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 00:29:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "All Blacks hooker Bell ruled out of South Africa tour, Slater called up",
+      "link": "https://www.channelnewsasia.com/sport/all-blacks-hooker-bell-ruled-out-south-africa-tour-slater-called-up-6296426",
+      "date": "Tue, 04 Aug 2026 08:03:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Death toll from Venezuela quakes rises past 6,000",
+      "link": "https://www.channelnewsasia.com/world/venezuela-earthquake-death-toll-6000-6296411",
+      "date": "Tue, 04 Aug 2026 07:57:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UFC star dies aged 34",
+      "link": "https://news.sky.com/story/allan-nascimento-ufc-star-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep-13569578",
+      "date": "Tue, 04 Aug 2026 00:56:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+      "date": "Mon, 03 Aug 2026 23:52:02 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -17,39 +115,11 @@
       "date": "Mon, 03 Aug 2026 23:20:37 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout",
-      "link": "https://www.channelnewsasia.com/business/electronic-arts-misses-quarterly-bookings-estimates-ahead-saudi-backed-buyout-6296391",
-      "date": "Tue, 04 Aug 2026 07:17:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Michigan reports first US deaths in cyclosporiasis outbreak",
-      "link": "https://www.channelnewsasia.com/world/us-michigan-death-cyclosporiasis-outbreak-6295811",
-      "date": "Tue, 04 Aug 2026 07:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea inflation cools to three-month low, but risks remain",
-      "link": "https://www.channelnewsasia.com/business/south-korea-inflation-cools-three-month-low-risks-remain-6296371",
-      "date": "Tue, 04 Aug 2026 07:03:52 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
       "link": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
       "date": "Mon, 03 Aug 2026 23:02:07 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australia&#039;s Qantas to exit Jetstar Japan in $52 million share buyback deal",
-      "link": "https://www.channelnewsasia.com/business/australias-qantas-exit-jetstar-japan-in-52-million-share-buyback-deal-6296366",
-      "date": "Tue, 04 Aug 2026 06:59:07 +0800"
     },
     {
       "src": "France 24",
@@ -71,27 +141,6 @@
       "text": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
       "link": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
       "date": "Mon, 03 Aug 2026 22:31:08 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TikTok settling three teen social media lawsuits ahead of trial",
-      "link": "https://www.channelnewsasia.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-6296331",
-      "date": "Tue, 04 Aug 2026 06:08:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why Hermes wants to be taken seriously as a watchmaker",
-      "link": "https://www.channelnewsasia.com/obsessions/hermes-watches-fine-watchmaking-6293396",
-      "date": "Tue, 04 Aug 2026 06:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "This Singaporean retired at 35 without getting rich. Here’s how he made it work",
-      "link": "https://www.channelnewsasia.com/cna-insider/singaporean-colin-lau-retire-35-flat-stop-fearing-retrenchment-6296171",
-      "date": "Tue, 04 Aug 2026 06:00:00 +0800"
     },
     {
       "src": "BBC World",
@@ -122,32 +171,11 @@
       "date": "Mon, 03 Aug 2026 21:10:46 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will Israel withdraw from Gaza if Hamas disarms?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 21:05:11 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "China’s Quiet Bet on Methanol Is Paying Off",
       "link": "https://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/",
       "date": "Mon, 03 Aug 2026 20:59:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 20:58:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds of migrant minors stranded in Ceuta after border crisis",
-      "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
-      "date": "Mon, 03 Aug 2026 20:24:02 +0000"
     },
     {
       "src": "France 24",
@@ -246,27 +274,6 @@
       "text": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
       "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 03 Aug 2026 15:57:27 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta migrant influx reignites immigration divisions in Europe",
-      "link": "https://www.france24.com/en/europe/20260803-ceuta-migrant-influx-reignites-immigration-divisions-in-europe",
-      "date": "Mon, 03 Aug 2026 15:57:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bridge collapse in DR Congo reignites debate about mining revenues",
-      "link": "https://www.france24.com/en/africa/20260803-bridge-collapse-dr-congo-reignites-debate-mining-revenues",
-      "date": "Mon, 03 Aug 2026 15:51:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "\"The situation is out of control\": Greek firefighters battle wildfire for fourth day",
-      "link": "https://www.france24.com/en/video/20260803-the-situation-is-out-of-control-greek-firefighters-battle-wildfire-for-fourth-day",
-      "date": "Mon, 03 Aug 2026 15:30:33 GMT"
     },
     {
       "src": "BBC World",
