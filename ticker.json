@@ -1,13 +1,153 @@
 {
-  "updated": "2026-08-04T18:20:54.573Z",
+  "updated": "2026-08-04T20:05:41.617Z",
   "count": 70,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amazon loses US court ban on Perplexity&#039;s AI shopping tools",
+      "link": "https://www.channelnewsasia.com/business/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-6298941",
+      "date": "Wed, 05 Aug 2026 03:53:13 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Will Trump Destroy the Deep Oceans?",
+      "link": "https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals/",
+      "date": "Tue, 04 Aug 2026 19:49:17 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 170 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 19:45:58 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Three lionesses die in Tokyo zoo as heatwave scorches East Asia",
-      "link": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:50:06 +0000"
+      "text": "Evacuations ordered as Guatemala volcano erupts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 19:41:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Red Cross urges international aid as Sudan crisis deepens",
+      "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 19:39:58 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ukraine slams Russian drone &#039;safari&#039; against civilians",
+      "link": "https://www.channelnewsasia.com/world/ukraine-russia-drone-video-chasing-street-vendor-6298881",
+      "date": "Wed, 05 Aug 2026 03:38:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Telegram says Apple suspension followed content norms violation by one user",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 19:35:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung Electronics launches next-generation AI memory technology",
+      "link": "https://www.channelnewsasia.com/business/samsung-electronics-launches-next-generation-ai-memory-technology-6298916",
+      "date": "Wed, 05 Aug 2026 03:33:31 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 19:30:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Arrests in Egypt after people allegedly impersonate judges",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 19:25:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kazakhstan releases first tiger to restore extinct species",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 19:21:16 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI pays $3.2 million in US probe over hiring foreign workers",
+      "link": "https://www.channelnewsasia.com/business/openai-pays-32-million-in-us-probe-over-hiring-foreign-workers-6298906",
+      "date": "Wed, 05 Aug 2026 03:16:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brotherly love abounds for brutal Springboks ahead of Argentina test",
+      "link": "https://www.channelnewsasia.com/sport/brotherly-love-abounds-brutal-springboks-ahead-argentina-test-6298876",
+      "date": "Wed, 05 Aug 2026 03:06:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "White House to meet AI firms on advanced model safety",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 19:04:18 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 19:00:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
+      "link": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 18:50:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Barcelona sign forward Kerolin from Man City in record WSL sale",
+      "link": "https://www.channelnewsasia.com/sport/barcelona-sign-forward-kerolin-man-city-in-record-wsl-sale-6298846",
+      "date": "Wed, 05 Aug 2026 02:47:34 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mass funeral held for 112 members of two Palestinian families",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 18:35:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+      "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 18:34:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Arson suspect arrested as US northwest battles wildfires",
+      "link": "https://www.channelnewsasia.com/world/spokane-wildfire-arson-arrest-us-6298806",
+      "date": "Wed, 05 Aug 2026 02:21:52 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How to avoid the worst of the Italian heat",
+      "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 18:21:00 GMT"
     },
     {
       "src": "CNA",
@@ -17,48 +157,6 @@
       "date": "Wed, 05 Aug 2026 01:49:47 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:49:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:47:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ipswich sign Florentino from Burnley on five-year deal",
-      "link": "https://www.channelnewsasia.com/sport/ipswich-sign-florentino-burnley-five-year-deal-6298731",
-      "date": "Wed, 05 Aug 2026 01:38:48 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Republicans clear Todd Blanche for top US Justice Department role",
-      "link": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:38:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Heat kills 19 in South Korea this summer: government agency",
-      "link": "https://www.channelnewsasia.com/east-asia/heat-kills-19-in-south-korea-summer-government-agency-6298721",
-      "date": "Wed, 05 Aug 2026 01:38:36 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Next MLS commissioner Berg targets quality improvement to build on World Cup excitement",
-      "link": "https://www.channelnewsasia.com/sport/next-mls-commissioner-berg-targets-quality-improvement-build-world-cup-excitement-6298736",
-      "date": "Wed, 05 Aug 2026 01:37:49 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guatemala volcano eruption prompts evacuation of hundreds of people",
@@ -66,11 +164,11 @@
       "date": "Tue, 04 Aug 2026 17:31:37 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-      "link": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:27:26 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel-Lebanon negotiations 'stalling': 'Situation on ground far from spirit of framework agreement'",
+      "link": "https://www.france24.com/en/video/20260804-israel-lebanon-negotiations-stalling-situation-on-ground-far-from-spirit-of-framework-agreement",
+      "date": "Tue, 04 Aug 2026 17:29:05 GMT"
     },
     {
       "src": "BBC World",
@@ -80,74 +178,25 @@
       "date": "Tue, 04 Aug 2026 17:26:06 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "More than 170 migrants rescued after boat catches fire in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 17:25:41 GMT"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Drone follows man before detonating and injuring him",
+      "link": "https://www.france24.com/en/video/20260804-ukraine-drone-follows-man-before-detonating-and-injuring-him",
+      "date": "Tue, 04 Aug 2026 16:40:54 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Analysis:Oracle Corp goes for high-stakes ratings gamble in AI strategy",
-      "link": "https://www.channelnewsasia.com/business/analysisoracle-corp-goes-high-stakes-ratings-gamble-in-ai-strategy-6298706",
-      "date": "Wed, 05 Aug 2026 01:23:20 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
+      "link": "https://www.france24.com/en/world-s-largest-humanitarian-crisis-thirty-five-million-sudanese-need-humanitarian-assistance",
+      "date": "Tue, 04 Aug 2026 16:14:16 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-      "link": "https://www.channelnewsasia.com/business/ai-data-centre-race-builds-1-trillion-lease-burden-big-tech-6298711",
-      "date": "Wed, 05 Aug 2026 01:22:02 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Austria records all-time temperature high of 41C",
-      "link": "https://www.channelnewsasia.com/world/austria-records-all-time-temperature-high-41c-6298646",
-      "date": "Wed, 05 Aug 2026 01:12:24 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 17:06:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-      "link": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 17:03:24 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Jordan FA chief accuses FIFA&#039;s Infantino of &#039;blackmail&#039; over endorsement",
-      "link": "https://www.channelnewsasia.com/sport/jordan-fa-chief-accuses-fifas-infantino-blackmail-over-endorsement-6298686",
-      "date": "Wed, 05 Aug 2026 01:02:33 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "EU offers emergency aid to Spain to strengthen Ceuta border",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 16:41:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 16:40:44 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 16:07:29 GMT"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘Europe passed the test’ of Ceuta crisis, says EU commissioner",
+      "link": "https://www.france24.com/en/video/20260804-europe-passed-the-test-of-ceuta-crisis-says-eu-commissioner",
+      "date": "Tue, 04 Aug 2026 16:08:45 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -213,20 +262,6 @@
       "date": "Tue, 04 Aug 2026 14:33:50 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Firefighters in Greece gain ground against wildfires near Athens",
-      "link": "https://www.france24.com/en/europe/20260804-firefighters-in-greece-gain-ground-against-wildfires-near-athens",
-      "date": "Tue, 04 Aug 2026 14:31:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta has 're-exposed immigration's divisive nature' in the EU",
-      "link": "https://www.france24.com/en/ceuta-has-re-exposed-immigration-s-divisive-nature-in-the-eu",
-      "date": "Tue, 04 Aug 2026 14:26:21 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "What’s Behind Indonesia’s Anti-Corruption Crusade?",
@@ -234,32 +269,11 @@
       "date": "Tue, 04 Aug 2026 14:07:20 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "FRANCE 24 visits Palace of Versailles' royal chapel, now open to public visits",
-      "link": "https://www.france24.com/en/video/20260804-france-24-visits-palace-of-versailles-royal-chapel-now-open-to-public-visits",
-      "date": "Tue, 04 Aug 2026 13:55:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 13:53:41 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "America’s Cosmic Bet on AI",
       "link": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
       "date": "Tue, 04 Aug 2026 13:50:16 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "After the deadly Ceuta crossing, Moroccan parents search for their children",
-      "link": "https://www.france24.com/en/after-the-deadly-ceuta-crossing-moroccan-parents-search-for-their-children",
-      "date": "Tue, 04 Aug 2026 13:34:20 GMT"
     },
     {
       "src": "RFI",
@@ -304,13 +318,6 @@
       "date": "Tue, 04 Aug 2026 10:00:47 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What will happen when a SpaceX rocket collides with the Moon?",
-      "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 09:13:37 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Push for indictment as Lebanon marks six years since Beirut port blast",
@@ -344,13 +351,6 @@
       "text": "A Patchwork Approach to AI Regulation Is Best—for Now",
       "link": "https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation-safety-california-new-york-pope-leo/",
       "date": "Mon, 03 Aug 2026 21:10:46 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "China’s Quiet Bet on Methanol Is Paying Off",
-      "link": "https://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/",
-      "date": "Mon, 03 Aug 2026 20:59:14 +0000"
     },
     {
       "src": "Sky News",
