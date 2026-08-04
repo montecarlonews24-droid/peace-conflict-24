@@ -1,27 +1,118 @@
 {
-  "updated": "2026-08-04T04:52:30.772Z",
+  "updated": "2026-08-04T07:29:30.366Z",
   "count": 63,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Maroon 5 to perform at Singapore&#039;s National Stadium in February 2027",
-      "link": "https://www.channelnewsasia.com/entertainment/maroon-5-singapore-concert-2027-national-stadium-6296731",
-      "date": "Tue, 04 Aug 2026 12:39:38 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Five dead in Moscow as Ukraine continues warehouse strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 07:20:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UFC’s Allan Nascimento dead aged 34 after apparent heart attack",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 07:19:29 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Morning Bid: Yen clings to gains but bond pressure builds",
-      "link": "https://www.channelnewsasia.com/business/morning-bid-yen-clings-gains-bond-pressure-builds-6296901",
-      "date": "Tue, 04 Aug 2026 12:36:27 +0800"
+      "text": "Filipina Eala lives up to the hype with Washington triumph",
+      "link": "https://www.channelnewsasia.com/sport/filipina-eala-lives-up-hype-washington-triumph-6297166",
+      "date": "Tue, 04 Aug 2026 15:17:24 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 04 Aug 2026 07:13:40 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "China cues start of leaders&#039; secretive Beidaihe summer retreat",
-      "link": "https://www.channelnewsasia.com/east-asia/china-bedaihe-leaders-summer-retreat-6296721",
-      "date": "Tue, 04 Aug 2026 12:32:25 +0800"
+      "text": "Telegram says Apple suspension followed content norms violation by one user",
+      "link": "https://www.channelnewsasia.com/business/telegram-says-apple-suspension-followed-content-norms-violation-one-user-6297146",
+      "date": "Tue, 04 Aug 2026 15:06:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New NCSS chair calls for stronger partnerships to tackle Singapore&#039;s growing social challenges",
+      "link": "https://www.channelnewsasia.com/singapore/ncss-chairperson-social-service-funding-artificial-intelligence-6296896",
+      "date": "Tue, 04 Aug 2026 15:05:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Jamie Oliver says he wants to ban chewing gum in interview, Nathan Hartono &#039;welcomes&#039; him to Singapore",
+      "link": "https://www.channelnewsasia.com/entertainment/jamie-oliver-chewing-gum-interview-nathan-hartono-6296496",
+      "date": "Tue, 04 Aug 2026 14:40:16 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SG Science Fest offers free entry to Science Centre with science shows and activities over National Day weekend",
+      "link": "https://www.channelnewsasia.com/living/sg-science-fest-2026-science-centre-singapore-6296561",
+      "date": "Tue, 04 Aug 2026 14:28:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "GovTech layoffs necessary to maintain quality of digital services for Singaporeans, says Jasmin Lau",
+      "link": "https://www.channelnewsasia.com/singapore/govtech-layoff-retrench-workers-40s-mddi-technology-workforce-6296931",
+      "date": "Tue, 04 Aug 2026 14:28:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rabobank to spend €2 billion in AI and tech as net profit stagnates",
+      "link": "https://www.channelnewsasia.com/business/rabobank-spend-eu2-billion-in-ai-and-tech-net-profit-stagnates-6297056",
+      "date": "Tue, 04 Aug 2026 14:15:34 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SoftBank&#039;s AI funding plans to face reckoning at earnings",
+      "link": "https://www.channelnewsasia.com/business/softbanks-ai-funding-plans-face-reckoning-earnings-6297061",
+      "date": "Tue, 04 Aug 2026 14:14:07 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Haugset takes Women’s Tour de France yellow jersey with long solo breakaway",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260804-haugset-takes-women-tour-de-france-yellow-jersey-with-long-solo-breakaway",
+      "date": "Tue, 04 Aug 2026 06:11:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 06:00:10 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian drone strikes on Russia kill at least six, spark fire at Wildberries warehouses",
+      "link": "https://www.france24.com/en/europe/20260804-ukrainian-drone-strikes-on-russia-kill-at-least-six-spark-fire-at-wildberries-warehouses",
+      "date": "Tue, 04 Aug 2026 05:51:16 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Push for indictment as Lebanon marks six years since Beirut port blast",
+      "link": "https://www.rfi.fr/en/international/20260804-push-for-indictment-as-lebanon-marks-six-years-since-beirut-port-blast",
+      "date": "Tue, 04 Aug 2026 05:46:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 05:03:44 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -36,41 +127,6 @@
       "text": "France wildfires reveal hundreds of WW2 shells in village",
       "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 04 Aug 2026 04:22:12 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Shein seeks $30-$40 billion valuation for August Hong Kong IPO, sources say",
-      "link": "https://www.channelnewsasia.com/business/exclusive-shein-seeks-30-40-billion-valuation-august-hong-kong-ipo-sources-say-6296856",
-      "date": "Tue, 04 Aug 2026 12:08:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Three lions die of suspected heatstroke at Japan zoo",
-      "link": "https://www.channelnewsasia.com/east-asia/japan-zoo-three-lions-heatstroke-6296776",
-      "date": "Tue, 04 Aug 2026 12:07:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Understanding the road to online radicalisation: Why platforms like Roblox are only one part of the puzzle",
-      "link": "https://www.channelnewsasia.com/singapore/road-online-radicalisation-platform-roblox-puzzle-6295306",
-      "date": "Tue, 04 Aug 2026 12:06:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Veteran DJ Andrew Chow, formerly from Zouk, dies at age 63",
-      "link": "https://www.channelnewsasia.com/entertainment/andrew-chow-dj-zouk-phuture-death-6296751",
-      "date": "Tue, 04 Aug 2026 12:04:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Status of US-Iran talks uncertain as ship struck in Hormuz",
-      "link": "https://www.channelnewsasia.com/world/us-iran-war-talks-ship-strait-hormuz-6296766",
-      "date": "Tue, 04 Aug 2026 12:01:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -103,7 +159,14 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "FAA certifies Boeing 737 MAX 7 after years of delays",
+      "text": "Middle East live: Cargo ship hit by 'unknown projectile' in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260804-middle-east-live-cargo-ship-hit-by-unknown-projectile-in-strait-of-hormuz",
+      "date": "Tue, 04 Aug 2026 03:14:18 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US regulators grant Boeing 737 MAX 7 certificate after years of delays",
       "link": "https://www.france24.com/en/americas/20260804-faa-certifies-boeing-737-max-7-after-years-of-delays",
       "date": "Tue, 04 Aug 2026 03:10:43 GMT"
     },
@@ -113,41 +176,6 @@
       "text": "US stocks near record high, oil falls as Trump claims Iran talks under way",
       "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
       "date": "Tue, 04 Aug 2026 02:56:26 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US states sue to block Trump tariffs impacting dozens of countries",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 02:53:00 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
-      "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 02:47:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
-      "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 02:15:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Does the US blockade on Cuba make America safer?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 01:58:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-      "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 01:43:51 +0000"
     },
     {
       "src": "France 24",
@@ -173,7 +201,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
+      "text": "US wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
       "link": "https://www.france24.com/en/americas/20260804-us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-burn-in-spokane",
       "date": "Tue, 04 Aug 2026 00:40:29 GMT"
     },
@@ -201,7 +229,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
+      "text": "Trump says new talks are Iran's 'last chance' to make deal before 'decapitation'",
       "link": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
       "date": "Mon, 03 Aug 2026 22:57:33 GMT"
     },
@@ -234,20 +262,6 @@
       "date": "Mon, 03 Aug 2026 20:59:14 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hundreds flee Tigray after fighting flares near border",
-      "link": "https://www.france24.com/en/hundreds-flee-tigray-after-fighting-flares-near-border",
-      "date": "Mon, 03 Aug 2026 20:15:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
-      "link": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk",
-      "date": "Mon, 03 Aug 2026 19:50:25 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "How Infantino will be framing his battle to remain FIFA president",
@@ -267,13 +281,6 @@
       "text": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
       "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "date": "Mon, 03 Aug 2026 17:44:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Norway's Haugset wins stage 3 to claim Tour de France Femmes lead",
-      "link": "https://www.france24.com/en/sport/20260803-norway-s-haugset-wins-stage-3-to-claim-tour-de-france-femmes-lead",
-      "date": "Mon, 03 Aug 2026 16:59:09 GMT"
     },
     {
       "src": "RFI",
@@ -428,13 +435,6 @@
       "text": "Anti-Semitic attacks at deadliest level in decades, global report warns",
       "link": "https://www.rfi.fr/en/international/20260731-anti-semitic-attacks-at-deadliest-level-in-decades-global-report-warns",
       "date": "Fri, 31 Jul 2026 20:51:31 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "French national's spying conviction upheld by Azerbaijan court",
-      "link": "https://www.rfi.fr/en/international/20260731-french-national-s-spying-conviction-upheld-by-azerbaijan-court",
-      "date": "Fri, 31 Jul 2026 20:39:35 GMT"
     },
     {
       "src": "The Guardian",
