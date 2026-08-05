@@ -1,104 +1,167 @@
 {
-  "updated": "2026-08-05T12:21:28.088Z",
-  "count": 63,
+  "updated": "2026-08-05T14:42:06.451Z",
+  "count": 64,
   "items": [
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
-      "link": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 12:07:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protesters stage sit-in against settler violence-linked Smotrich funds",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 12:03:34 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China’s grip on drone components complicates Europe’s defence self-reliance - and effort to arm Ukraine",
-      "link": "https://www.channelnewsasia.com/east-asia/china-ukraine-war-drone-parts-reliance-europe-6301001",
-      "date": "Wed, 05 Aug 2026 19:58:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Global Payments cuts annual forecasts as Middle East conflict hits travel spending",
-      "link": "https://www.channelnewsasia.com/business/global-payments-cuts-annual-forecasts-middle-east-conflict-hits-travel-spending-6301166",
-      "date": "Wed, 05 Aug 2026 19:52:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkish cargo ship catches fire after Black Sea drone attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 11:49:25 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How a social media campaign triggered huge migrant surge on Ceuta",
-      "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 11:48:55 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 14:39:45 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Waste workers help find binned €1m lottery ticket in Italy",
+      "text": "Drone carrying explosives found at German airport, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 14:32:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+      "link": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 14:31:05 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester United hire Olid to lead women&#039;s team",
+      "link": "https://www.channelnewsasia.com/sport/manchester-united-hire-olid-lead-womens-team-6301556",
+      "date": "Wed, 05 Aug 2026 22:23:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ancient Roman firefighters&#039; barracks may have been found near Colosseum",
+      "link": "https://www.channelnewsasia.com/business/ancient-roman-firefighters-barracks-may-have-been-found-near-colosseum-6301521",
+      "date": "Wed, 05 Aug 2026 22:16:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic to build in-house chip design team for Claude, hire engineers",
+      "link": "https://www.channelnewsasia.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-6301526",
+      "date": "Wed, 05 Aug 2026 22:14:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "GlobalFoundries tops second quarter estimates on AI chip demand",
+      "link": "https://www.channelnewsasia.com/business/globalfoundries-tops-second-quarter-estimates-ai-chip-demand-6301516",
+      "date": "Wed, 05 Aug 2026 22:12:40 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "WP calls for SME-driven economic growth; PAP says Singapore needs both local firms and MNCs",
+      "link": "https://www.channelnewsasia.com/singapore/workers-party-sme-growth-pap-mnc-6301246",
+      "date": "Wed, 05 Aug 2026 22:11:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza father opens play center to restore childhood amid Israeli attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 14:08:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "UN rights chief alarmed by rise in Iran executions since March",
+      "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 14:04:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Boxer Chapman recovering after emergency surgery for brain bleed",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 13:58:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+      "link": "https://www.aljazeera.com/news/2026/8/5/ex-pm-sheikh-hasina-announces-her-plan-to-return-to-bangladesh?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 13:54:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+      "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 13:48:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq faces crisis as Shia armed groups defy disarmament",
+      "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 13:24:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former heavyweight champ ⁠Parker cleared to fight again after doping ban",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/former-heavyweight-champ-%e2%81%a0parker-cleared-to-fight-again-after-doping-ban?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 13:21:53 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore to weigh wider trade-offs before seeking lower US tariff: Gan Kim Yong",
+      "link": "https://www.channelnewsasia.com/singapore/us-tariff-trade-business-gan-kim-yong-forced-labour-6301136",
+      "date": "Wed, 05 Aug 2026 21:15:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Proposed Hormuz deal would give Iran control of inbound traffic: Sources",
+      "link": "https://www.channelnewsasia.com/world/iran-us-strait-hormuz-inbound-traffic-control-6301366",
+      "date": "Wed, 05 Aug 2026 21:10:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN rights chief says Iran executed at least 56 people since March",
+      "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 12:58:22 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chapman recovering after emergency surgery for brain bleed",
+      "link": "https://www.channelnewsasia.com/sport/chapman-recovering-after-emergency-surgery-brain-bleed-6301326",
+      "date": "Wed, 05 Aug 2026 20:48:35 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Waste workers help winner find binned €1m lottery ticket in Italy",
       "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 11:43:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US dollar to retain strength, yen intervention no game changer: Reuters poll",
-      "link": "https://www.channelnewsasia.com/business/us-dollar-retain-strength-yen-intervention-no-game-changer-reuters-poll-6301141",
-      "date": "Wed, 05 Aug 2026 19:42:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "DHL says customers continue to diversify production amid geopolitical uncertainty",
-      "link": "https://www.channelnewsasia.com/business/dhl-customers-diversify-production-geopolitical-uncertainty-tobias-meyer-6300691",
-      "date": "Wed, 05 Aug 2026 19:39:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
-      "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 11:38:51 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zuckerberg apologises to India government over Meta content and errors, local media says",
-      "link": "https://www.channelnewsasia.com/business/zuckerberg-apologises-india-government-over-meta-content-and-errors-local-media-says-6301121",
-      "date": "Wed, 05 Aug 2026 19:32:43 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli forces detain Palestinians during raid in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 11:31:32 +0000"
+      "date": "Wed, 05 Aug 2026 12:33:43 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Record heatwave in South Korea as temperatures soar to 42.5C",
-      "link": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 11:30:39 GMT"
+      "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 12:26:26 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Parker cleared to fight again after failed dope test",
-      "link": "https://www.channelnewsasia.com/sport/parker-cleared-fight-again-after-failed-dope-test-6301076",
-      "date": "Wed, 05 Aug 2026 19:22:23 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Briefing on continuing ISIL terror threat",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strengthening El Niño to push 49 million more people into acute hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -110,23 +173,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 11:19:37 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Canada&#039;s Shopify forecasts revenue above estimates, shares surge",
-      "link": "https://www.channelnewsasia.com/business/canadas-shopify-forecasts-revenue-above-estimates-shares-surge-6301061",
-      "date": "Wed, 05 Aug 2026 19:13:19 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New York Times posts slower digital subscriber growth, shares slump",
-      "link": "https://www.channelnewsasia.com/business/new-york-times-posts-slower-digital-subscriber-growth-shares-slump-6301031",
-      "date": "Wed, 05 Aug 2026 19:10:54 +0800"
+      "text": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 11:19:24 GMT"
     },
     {
       "src": "Sky News",
@@ -136,13 +185,6 @@
       "date": "Wed, 05 Aug 2026 12:07:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-      "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 11:01:32 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Mexican influencer shot dead during livestream",
@@ -150,74 +192,11 @@
       "date": "Wed, 05 Aug 2026 11:00:47 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian drone hits street vendor in Kherson, Zelensky denounces ‘safari’ attack",
-      "link": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack",
-      "date": "Wed, 05 Aug 2026 10:51:32 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 10:50:34 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The era of the machine: Silicon Valley shows off humanoid robots",
-      "link": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots",
-      "date": "Wed, 05 Aug 2026 10:48:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
-      "link": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence",
-      "date": "Wed, 05 Aug 2026 10:45:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Four-tonne piece of Space X rocket believed to have crashed on Moon",
-      "link": "https://www.france24.com/en/video/20260805-four-tonne-piece-of-space-x-rocket-believed-to-have-crashed-on-moon",
-      "date": "Wed, 05 Aug 2026 10:43:19 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
       "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
       "date": "Wed, 05 Aug 2026 10:40:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Guatemala volcano eruption forces hundreds to flee ash, gas and lava",
-      "link": "https://www.france24.com/en/guatemala-volcano-eruption-forces-hundreds-to-flee-ash-gas-and-lava",
-      "date": "Wed, 05 Aug 2026 10:20:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tibet fears erosion of cultural identity under new Chinese Ethnic Unity Law",
-      "link": "https://www.france24.com/en/video/20260805-tibet-fears-erosion-of-cultural-identity-under-new-chinese-ethnic-unity-law",
-      "date": "Wed, 05 Aug 2026 10:19:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "High-stakes Michigan Democratic primary pits progressive against moderates",
-      "link": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates",
-      "date": "Wed, 05 Aug 2026 10:16:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Embattled FIFA head Infantino holds emergency talks amid calls to step down",
-      "link": "https://www.france24.com/en/sport/20260805-embattled-fifa-head-infantino-holds-emergency-talks-with-directors-amid-calls-to-step-down",
-      "date": "Wed, 05 Aug 2026 10:07:09 GMT"
     },
     {
       "src": "The Guardian",
@@ -234,25 +213,11 @@
       "date": "Wed, 05 Aug 2026 08:54:48 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 08:29:30 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "El Niño could push 50m people into acute hunger before end of next year",
       "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
       "date": "Wed, 05 Aug 2026 08:00:13 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 07:04:45 GMT"
     },
     {
       "src": "Sky News",
@@ -267,6 +232,13 @@
       "text": "Kremlin critic leaves Moscow for Paris after ban from running for election",
       "link": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
       "date": "Wed, 05 Aug 2026 06:06:02 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "<a href='https://news.sky.com/video/inside-silwan-jerusalems-demolition-zone-13569791'>Israel guilty of 'ethnic cleansing' in Jerusalem, says top lawyer</a>",
+      "link": "https://news.sky.com/story/inside-silwan-jerusalems-demolition-zone-13569921",
+      "date": "Wed, 05 Aug 2026 07:01:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -288,13 +260,6 @@
       "text": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
       "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
       "date": "Wed, 05 Aug 2026 04:00:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
       "src": "The Guardian",
@@ -393,6 +358,48 @@
       "text": "Ceuta migrants caught between humanitarian disaster and diplomatic row",
       "link": "https://www.rfi.fr/en/international/20260804-ceuta-migrants-caught-between-humanitarian-disaster-and-diplomatic-row",
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Africans bear the brunt of biodiversity loss",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan hunger crisis intensifies as millions left without food aid",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
