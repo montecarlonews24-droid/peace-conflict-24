@@ -1,13 +1,62 @@
 {
-  "updated": "2026-08-04T23:52:22.764Z",
-  "count": 70,
+  "updated": "2026-08-05T01:20:30.428Z",
+  "count": 54,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 01:05:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukrainian man chased by exploding drone recounts his terror",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 00:56:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX&#039;s mobile ambitions jolt US telecom market, analysts debate threat",
+      "link": "https://www.channelnewsasia.com/business/spacexs-mobile-ambitions-jolt-us-telecom-market-analysts-debate-threat-6299381",
+      "date": "Wed, 05 Aug 2026 08:49:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI, Anthropic AI agents implicated in new security breaches",
+      "link": "https://www.channelnewsasia.com/business/openai-anthropic-ai-agents-implicated-in-new-security-breaches-6299361",
+      "date": "Wed, 05 Aug 2026 08:41:01 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan&#039;s services growth slows amid cost pressures, PMI shows",
+      "link": "https://www.channelnewsasia.com/business/japans-services-growth-slows-amid-cost-pressures-pmi-shows-6299366",
+      "date": "Wed, 05 Aug 2026 08:40:58 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Armed man arrested near Trump's golf course ahead of president's visit",
       "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 23:49:42 GMT"
+      "date": "Wed, 05 Aug 2026 00:19:04 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX revenue jumps in debut results as satellite, AI businesses surge",
+      "link": "https://www.channelnewsasia.com/business/spacex-revenue-jumps-in-debut-results-satellite-ai-businesses-surge-6298971",
+      "date": "Wed, 05 Aug 2026 07:54:30 +0800"
     },
     {
       "src": "CNA",
@@ -17,11 +66,18 @@
       "date": "Wed, 05 Aug 2026 07:45:00 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+      "date": "Tue, 04 Aug 2026 23:41:27 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Japan real wages up for sixth straight month in June",
       "link": "https://www.channelnewsasia.com/business/japan-real-wages-up-sixth-straight-month-in-june-6299261",
-      "date": "Wed, 05 Aug 2026 07:33:21 +0800"
+      "date": "Wed, 05 Aug 2026 07:33:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -33,7 +89,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+      "text": "One killed, five injured in Russian ballistic missile attack on Kyiv",
       "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
       "date": "Tue, 04 Aug 2026 23:24:43 +0000"
     },
@@ -52,39 +108,11 @@
       "date": "Wed, 05 Aug 2026 07:08:30 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Defending champion Alcaraz withdraws from Cincinnati Open",
-      "link": "https://www.channelnewsasia.com/sport/defending-champion-alcaraz-withdraws-cincinnati-open-6299191",
-      "date": "Wed, 05 Aug 2026 06:51:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-      "link": "https://www.channelnewsasia.com/business/arista-forecasts-upbeat-quarterly-revenue-ai-driven-networking-demand-6299151",
-      "date": "Wed, 05 Aug 2026 06:14:20 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Elon Musk’s SpaceX reports losses but less than expected",
       "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
       "date": "Tue, 04 Aug 2026 22:02:09 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Has Singapore reached a &#039;when, not if&#039; moment for school attacks?",
-      "link": "https://www.channelnewsasia.com/commentary/singapore-school-attack-security-isa-radicalised-teen-6297456",
-      "date": "Wed, 05 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore&#039;s pig blood curd demand still outpacing supply two months after ban lifted",
-      "link": "https://www.channelnewsasia.com/singapore/pig-blood-curd-high-demand-lack-supply-hawkers-6290586",
-      "date": "Wed, 05 Aug 2026 06:00:00 +0800"
     },
     {
       "src": "BBC World",
@@ -122,39 +150,11 @@
       "date": "Tue, 04 Aug 2026 21:06:05 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Death toll rises to 87 in India’s flood-stricken Assam",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 21:03:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Six years on, Beirut blast families still await justice",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 21:03:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-      "date": "Tue, 04 Aug 2026 20:59:33 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Iran’s ‘Last Chance’ for Peace Talks",
       "link": "https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-oman-strait-hormuz-trump/",
       "date": "Tue, 04 Aug 2026 20:39:48 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Up to 20 years in jail for cocoa land repurpose in Ghana",
-      "link": "https://www.france24.com/en/up-to-20-years-in-jail-for-cocoa-land-repurpose-in-ghana",
-      "date": "Tue, 04 Aug 2026 20:13:02 GMT"
     },
     {
       "src": "RFI",
@@ -185,13 +185,6 @@
       "date": "Tue, 04 Aug 2026 19:25:00 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 19:00:43 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guatemala volcano eruption prompts evacuation of hundreds of people",
@@ -199,39 +192,11 @@
       "date": "Tue, 04 Aug 2026 17:31:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel-Lebanon negotiations 'stalling': 'Situation on ground far from spirit of framework agreement'",
-      "link": "https://www.france24.com/en/video/20260804-israel-lebanon-negotiations-stalling-situation-on-ground-far-from-spirit-of-framework-agreement",
-      "date": "Tue, 04 Aug 2026 17:29:05 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 04 Aug 2026 17:26:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine: Drone follows man before detonating and injuring him",
-      "link": "https://www.france24.com/en/video/20260804-ukraine-drone-follows-man-before-detonating-and-injuring-him",
-      "date": "Tue, 04 Aug 2026 16:40:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
-      "link": "https://www.france24.com/en/world-s-largest-humanitarian-crisis-thirty-five-million-sudanese-need-humanitarian-assistance",
-      "date": "Tue, 04 Aug 2026 16:14:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Europe passed the test’ of Ceuta crisis, says EU commissioner",
-      "link": "https://www.france24.com/en/video/20260804-europe-passed-the-test-of-ceuta-crisis-says-eu-commissioner",
-      "date": "Tue, 04 Aug 2026 16:08:45 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -248,13 +213,6 @@
       "date": "Tue, 04 Aug 2026 15:23:43 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How Togo has become a new entry point for weapons sent by Russia to Mali",
-      "link": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
-      "date": "Tue, 04 Aug 2026 15:15:28 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -267,20 +225,6 @@
       "text": "Sunken Nazi warships emerge from the Danube as water levels drop to record lows",
       "link": "https://news.sky.com/story/sunken-nazi-warships-emerge-from-the-danube-as-water-levels-drop-to-record-lows-13569774",
       "date": "Tue, 04 Aug 2026 16:03:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain and fellow EU nations bury the hatchet after Ceuta migration discord",
-      "link": "https://www.france24.com/en/europe/20260804-spain-and-fellow-eu-nations-bury-the-hatchet-after-ceuta-migration-discord",
-      "date": "Tue, 04 Aug 2026 15:00:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain and fellow EU nations bury the hatchet after Ceuta migration discord",
-      "link": "https://www.france24.com/en/europe/20260804-spain-and-fellow-eu-nations-bury-the-hatchet-after-ceuta-migration-discord",
-      "date": "Tue, 04 Aug 2026 14:48:58 GMT"
     },
     {
       "src": "Sky News",
@@ -309,48 +253,6 @@
       "text": "Ceuta migrants caught between humanitarian disaster and diplomatic row",
       "link": "https://www.rfi.fr/en/international/20260804-ceuta-migrants-caught-between-humanitarian-disaster-and-diplomatic-row",
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Africans bear the brunt of biodiversity loss",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan hunger crisis intensifies as millions left without food aid",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -442,20 +344,6 @@
       "text": "Deadly helicopter crash in Greece highlights danger to crews fighting wildfires",
       "link": "https://www.rfi.fr/en/international/20260803-deadly-helicopter-crash-in-greece-exposes-growing-danger-of-europe-s-wildfires",
       "date": "Mon, 03 Aug 2026 13:16:03 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Drone strikes threaten civilians and aid operations in Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
-      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-      "date": "Mon, 03 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
