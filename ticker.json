@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-05T18:00:22.753Z",
-  "count": 72,
+  "updated": "2026-08-05T19:36:15.892Z",
+  "count": 64,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "date": "Wed, 05 Aug 2026 19:20:28 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Blue Origin zeroes in on rocket engine issue as source of New Glenn explosion",
+      "link": "https://www.channelnewsasia.com/business/blue-origin-zeroes-in-rocket-engine-issue-source-new-glenn-explosion-6301981",
+      "date": "Thu, 06 Aug 2026 03:15:40 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Why has Ukraine's former military chief given up on NATO membership?",
+      "link": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
+      "date": "Wed, 05 Aug 2026 18:54:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+      "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 18:40:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US law enforcement reports deadly mass shooting in North Carolina",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 18:25:07 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 18:19:51 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Newcastle name Jaissle as manager after Howe departure",
+      "link": "https://www.channelnewsasia.com/sport/newcastle-name-jaissle-manager-after-howe-departure-6301936",
+      "date": "Thu, 06 Aug 2026 02:18:01 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Germany opens terrorism probe after explosive drone found at air cargo hub",
+      "link": "https://www.channelnewsasia.com/world/germany-drone-terrorism-probe-airport-6301911",
+      "date": "Thu, 06 Aug 2026 02:17:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is the conflict between Russia and Ukraine deepening?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 18:16:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alpine skiing-Switzerland&#039;s Gut-Behrami announces retirement",
+      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-switzerlands-gut-behrami-announces-retirement-6301906",
+      "date": "Thu, 06 Aug 2026 02:03:39 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What’s Behind the Violence in Pakistan-Administered Kashmir",
+      "link": "https://foreignpolicy.com/2026/08/05/kashmir-pakistan-violence-election-unrest-governance/",
+      "date": "Wed, 05 Aug 2026 18:00:08 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -66,10 +143,17 @@
       "date": "Wed, 05 Aug 2026 17:06:04 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Vollering wins stage 5 as Reusser clings to Tour de Femmes lead",
+      "link": "https://www.france24.com/en/sport/20260805-vollering-wins-stage-as-reusser-clings-to-tour-lead",
+      "date": "Wed, 05 Aug 2026 16:59:09 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Major Wall Street hedge funds targeted in attempted cyberattacks, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/major-wall-street-hedge-funds-targeted-in-attempted-cyberattacks-bloomberg-news-reports-6301841",
+      "text": "Major Wall Street firms targeted in attempted cyberattacks, sources say",
+      "link": "https://www.channelnewsasia.com/business/major-wall-street-firms-targeted-in-attempted-cyberattacks-sources-say-6301841",
       "date": "Thu, 06 Aug 2026 00:50:40 +0800"
     },
     {
@@ -80,13 +164,6 @@
       "date": "Thu, 06 Aug 2026 00:45:25 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia kills 17 in ballistic missile attacks around Kyiv",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 16:42:24 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Mudryk&#039;s long wait ends with emotional Chelsea comeback",
@@ -94,32 +171,11 @@
       "date": "Thu, 06 Aug 2026 00:41:17 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Argentina&#039;s Albornoz gets four-match ban over England fracas",
-      "link": "https://www.channelnewsasia.com/sport/argentinas-albornoz-gets-four-match-ban-over-england-fracas-6301811",
-      "date": "Thu, 06 Aug 2026 00:37:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vollering wins sprint to take Tour de France Femmes stage five, Reusser stays in yellow",
-      "link": "https://www.channelnewsasia.com/sport/vollering-wins-sprint-take-tour-de-france-femmes-stage-five-reusser-stays-in-yellow-6301816",
-      "date": "Thu, 06 Aug 2026 00:34:24 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 05 Aug 2026 16:20:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SpaceX attracts retail buyers after post-earnings share slide",
-      "link": "https://www.channelnewsasia.com/business/spacex-attracts-retail-buyers-after-post-earnings-share-slide-6301796",
-      "date": "Thu, 06 Aug 2026 00:20:03 +0800"
     },
     {
       "src": "France 24",
@@ -134,27 +190,6 @@
       "text": "Drone carrying explosives found at German airport, police say",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 05 Aug 2026 16:06:30 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-      "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 16:05:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Puerto Rican cities hit with water rationing measures during record drought",
-      "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 16:02:58 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Google shakes up AI leadership as DeepMind chief shifts role",
-      "link": "https://www.channelnewsasia.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-6301786",
-      "date": "Thu, 06 Aug 2026 00:02:27 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -255,46 +290,11 @@
       "date": "Wed, 05 Aug 2026 13:55:42 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Outrage in Libya over a video of a woman being publicly flogged for adultery",
-      "link": "https://www.france24.com/en/africa/20260805-libya-woman-flogged-adultery",
-      "date": "Wed, 05 Aug 2026 13:55:20 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Waste workers help winner find binned €1m lottery ticket in Italy",
       "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 05 Aug 2026 12:33:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 12:26:26 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sharp spike in executions, death sentences in Iran",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168081",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strengthening El Niño to push 49 million more people into acute hunger",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -395,13 +395,6 @@
       "date": "Tue, 04 Aug 2026 21:06:05 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran’s ‘Last Chance’ for Peace Talks",
-      "link": "https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-oman-strait-hormuz-trump/",
-      "date": "Tue, 04 Aug 2026 20:39:48 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Seventh round of talks between Lebanon and Israel under way in Rome",
@@ -437,41 +430,6 @@
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Africans bear the brunt of biodiversity loss",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Push for indictment as Lebanon marks six years since Beirut port blast",
@@ -491,20 +449,6 @@
       "text": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
       "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "date": "Mon, 03 Aug 2026 17:44:01 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU steps up AI regulation as new transparency rules come into effect",
-      "link": "https://www.rfi.fr/en/international/20260803-eu-steps-up-ai-regulation-as-new-transparency-rules-come-into-effect",
-      "date": "Mon, 03 Aug 2026 16:06:09 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "date": "Mon, 03 Aug 2026 16:05:20 GMT"
     }
   ]
 }
