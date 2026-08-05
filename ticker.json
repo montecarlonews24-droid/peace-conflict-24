@@ -1,160 +1,223 @@
 {
-  "updated": "2026-08-05T10:07:33.687Z",
+  "updated": "2026-08-05T12:21:28.088Z",
   "count": 63,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SpaceX slides as AI spending worries overshadow early returns",
-      "link": "https://www.channelnewsasia.com/business/spacex-slides-ai-spending-worries-overshadow-early-returns-6300776",
-      "date": "Wed, 05 Aug 2026 18:02:28 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+      "link": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 12:07:56 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Royal Chapel opens for two months at Versailles Palace",
-      "link": "https://www.france24.com/en/france-royal-chapel-opens-for-two-months-at-versailles-palace",
-      "date": "Wed, 05 Aug 2026 09:58:02 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protesters stage sit-in against settler violence-linked Smotrich funds",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 12:03:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China’s grip on drone components complicates Europe’s defence self-reliance - and effort to arm Ukraine",
+      "link": "https://www.channelnewsasia.com/east-asia/china-ukraine-war-drone-parts-reliance-europe-6301001",
+      "date": "Wed, 05 Aug 2026 19:58:47 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Global Payments cuts annual forecasts as Middle East conflict hits travel spending",
+      "link": "https://www.channelnewsasia.com/business/global-payments-cuts-annual-forecasts-middle-east-conflict-hits-travel-spending-6301166",
+      "date": "Wed, 05 Aug 2026 19:52:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 11:49:25 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How a social media campaign triggered huge migrant surge on Ceuta",
+      "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 11:48:55 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Waste workers help find binned €1m lottery ticket in Italy",
+      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 11:43:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US dollar to retain strength, yen intervention no game changer: Reuters poll",
+      "link": "https://www.channelnewsasia.com/business/us-dollar-retain-strength-yen-intervention-no-game-changer-reuters-poll-6301141",
+      "date": "Wed, 05 Aug 2026 19:42:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "DHL says customers continue to diversify production amid geopolitical uncertainty",
+      "link": "https://www.channelnewsasia.com/business/dhl-customers-diversify-production-geopolitical-uncertainty-tobias-meyer-6300691",
+      "date": "Wed, 05 Aug 2026 19:39:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 11:38:51 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Zuckerberg apologises to India government over Meta content and errors, local media says",
+      "link": "https://www.channelnewsasia.com/business/zuckerberg-apologises-india-government-over-meta-content-and-errors-local-media-says-6301121",
+      "date": "Wed, 05 Aug 2026 19:32:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 11:31:32 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "link": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 11:30:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Parker cleared to fight again after failed dope test",
+      "link": "https://www.channelnewsasia.com/sport/parker-cleared-fight-again-after-failed-dope-test-6301076",
+      "date": "Wed, 05 Aug 2026 19:22:23 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pakistan restricts international media reporting",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 11:19:42 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
       "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 09:54:20 GMT"
+      "date": "Wed, 05 Aug 2026 11:19:37 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Salah arrives in Turkey ahead of expected move to Trabzonspor",
-      "link": "https://www.channelnewsasia.com/sport/salah-arrives-in-turkey-ahead-expected-move-trabzonspor-6300736",
-      "date": "Wed, 05 Aug 2026 17:51:58 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukrainian capital lit up by massive overnight Russian strikes, killing 17",
-      "link": "https://www.france24.com/en/ukrainian-capital-lit-up-by-massive-overnight-russian-strikes-killing-17",
-      "date": "Wed, 05 Aug 2026 09:51:46 GMT"
+      "text": "Canada&#039;s Shopify forecasts revenue above estimates, shares surge",
+      "link": "https://www.channelnewsasia.com/business/canadas-shopify-forecasts-revenue-above-estimates-shares-surge-6301061",
+      "date": "Wed, 05 Aug 2026 19:13:19 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "China announces &#039;countermeasures&#039; after US trade sanctions",
-      "link": "https://www.channelnewsasia.com/east-asia/china-restricts-drone-exports-us-blacklist-companies-trade-tariffs-6300721",
-      "date": "Wed, 05 Aug 2026 17:51:00 +0800"
+      "text": "New York Times posts slower digital subscriber growth, shares slump",
+      "link": "https://www.channelnewsasia.com/business/new-york-times-posts-slower-digital-subscriber-growth-shares-slump-6301031",
+      "date": "Wed, 05 Aug 2026 19:10:54 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TCM physician wins S$12,500 in damages from patient who defamed her in Google review",
-      "link": "https://www.channelnewsasia.com/singapore/tcm-physician-wins-damages-patient-defame-google-review-6300541",
-      "date": "Wed, 05 Aug 2026 17:45:05 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Rescued British woman becomes 14th to die after Los Gallardos wildfires in Spain",
+      "link": "https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025",
+      "date": "Wed, 05 Aug 2026 12:07:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Gianni Infantino's problems mount after Wenger and key FIFA ally turn on him after stake sale plan",
-      "link": "https://www.france24.com/en/gianni-infantino-s-problems-mount-after-wenger-and-key-fifa-ally-turn-on-him-after-stake-sale-plan",
-      "date": "Wed, 05 Aug 2026 09:37:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rwanda's big screen moment: Historic Cannes win sparks creative boom",
-      "link": "https://www.france24.com/en/video/20260805-rwanda-s-big-screen-moment-historic-cannes-win-sparks-creative-boom",
-      "date": "Wed, 05 Aug 2026 09:31:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DR Congo is set to open its largest ever Ebola treatment facility",
-      "link": "https://www.france24.com/en/video/20260805-dr-congo-is-set-to-open-its-largest-ever-ebola-treatment-facility",
-      "date": "Wed, 05 Aug 2026 09:29:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cameroon's president reshuffles military as speculation on whereabouts persists",
-      "link": "https://www.france24.com/en/video/20260805-cameroon-s-president-reshuffles-military-as-speculation-on-whereabouts-persists",
-      "date": "Wed, 05 Aug 2026 09:24:12 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+      "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 11:01:32 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 09:22:52 GMT"
+      "text": "Mexican influencer shot dead during livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 05 Aug 2026 11:00:47 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Ghana's cocoa farmers at risk of 20-year prison sentence under new legislation",
-      "link": "https://www.france24.com/en/video/20260805-ghana-s-cocoa-farmers-at-risk-of-20-year-prison-sentence-under-new-legislation",
-      "date": "Wed, 05 Aug 2026 09:21:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Race Course Road fire: 88-year-old man dies after blaze that trapped five people",
-      "link": "https://www.channelnewsasia.com/singapore/race-course-road-fire-88-year-old-man-dies-6300546",
-      "date": "Wed, 05 Aug 2026 17:21:23 +0800"
+      "text": "Russian drone hits street vendor in Kherson, Zelensky denounces ‘safari’ attack",
+      "link": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack",
+      "date": "Wed, 05 Aug 2026 10:51:32 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 09:16:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-      "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 09:16:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Michigan, Missouri, Washington primary elections: Key takeaways",
-      "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 09:14:41 +0000"
+      "text": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
+      "date": "Wed, 05 Aug 2026 10:50:34 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "New round of talks about Israeli withdrawal from south of Lebanon",
-      "link": "https://www.france24.com/en/new-round-of-talks-about-israeli-withdrawal-from-south-of-lebanon",
-      "date": "Wed, 05 Aug 2026 09:10:23 GMT"
+      "text": "The era of the machine: Silicon Valley shows off humanoid robots",
+      "link": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots",
+      "date": "Wed, 05 Aug 2026 10:48:44 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Taiwan launches major war games to test command flexibility",
-      "link": "https://www.channelnewsasia.com/east-asia/taiwan-launches-war-games-military-drills-defence-6299771",
-      "date": "Wed, 05 Aug 2026 17:09:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
+      "link": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence",
+      "date": "Wed, 05 Aug 2026 10:45:00 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 09:05:46 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Four-tonne piece of Space X rocket believed to have crashed on Moon",
+      "link": "https://www.france24.com/en/video/20260805-four-tonne-piece-of-space-x-rocket-believed-to-have-crashed-on-moon",
+      "date": "Wed, 05 Aug 2026 10:43:19 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SMRT Trains profit nearly doubles to S$12.8 million as revenue rises 5.6%",
-      "link": "https://www.channelnewsasia.com/singapore/smrt-trains-profit-rail-revenue-ridership-6300516",
-      "date": "Wed, 05 Aug 2026 17:04:00 +0800"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+      "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "date": "Wed, 05 Aug 2026 10:40:03 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
-      "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 09:03:42 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Guatemala volcano eruption forces hundreds to flee ash, gas and lava",
+      "link": "https://www.france24.com/en/guatemala-volcano-eruption-forces-hundreds-to-flee-ash-gas-and-lava",
+      "date": "Wed, 05 Aug 2026 10:20:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tibet fears erosion of cultural identity under new Chinese Ethnic Unity Law",
+      "link": "https://www.france24.com/en/video/20260805-tibet-fears-erosion-of-cultural-identity-under-new-chinese-ethnic-unity-law",
+      "date": "Wed, 05 Aug 2026 10:19:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "High-stakes Michigan Democratic primary pits progressive against moderates",
+      "link": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates",
+      "date": "Wed, 05 Aug 2026 10:16:43 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Embattled FIFA head Infantino holds emergency talks amid calls to step down",
+      "link": "https://www.france24.com/en/sport/20260805-embattled-fifa-head-infantino-holds-emergency-talks-with-directors-amid-calls-to-step-down",
+      "date": "Wed, 05 Aug 2026 10:07:09 GMT"
     },
     {
       "src": "The Guardian",
@@ -169,34 +232,6 @@
       "text": "France announces further investment to combat drug trafficking in Guiana",
       "link": "https://www.rfi.fr/en/international/20260805-france-announces-further-investment-to-combat-drug-trafficking-in-guiana",
       "date": "Wed, 05 Aug 2026 08:54:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Arsenal agree £75 million deal to sign Newcastle&#039;s Guimaraes - reports",
-      "link": "https://www.channelnewsasia.com/sport/arsenal-agree-ps75-million-deal-sign-newcastles-guimaraes-reports-6300616",
-      "date": "Wed, 05 Aug 2026 16:47:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 08:41:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 08:37:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
-      "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
-      "date": "Wed, 05 Aug 2026 08:35:22 +0000"
     },
     {
       "src": "BBC World",
@@ -222,7 +257,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Suspect appears in court after British woman's body found in suitcase in Greece",
+      "text": "Boxer appears in Greek court after British woman's body found in suitcase",
       "link": "https://news.sky.com/story/suspect-due-in-court-after-scottish-womans-body-found-in-suitcase-in-greece-13569930",
       "date": "Wed, 05 Aug 2026 07:36:00 +0100"
     },
@@ -232,13 +267,6 @@
       "text": "Kremlin critic leaves Moscow for Paris after ban from running for election",
       "link": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
       "date": "Wed, 05 Aug 2026 06:06:02 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/video/inside-silwan-jerusalems-demolition-zone-13569791'>Israel guilty of 'ethnic cleansing' in Jerusalem, says top lawyer</a>",
-      "link": "https://news.sky.com/story/inside-silwan-jerusalems-demolition-zone-13569921",
-      "date": "Wed, 05 Aug 2026 07:01:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -283,20 +311,6 @@
       "date": "Wed, 05 Aug 2026 01:57:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 00:19:04 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 21:45:20 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Ranking the World’s Top 5 Chokepoints",
@@ -330,13 +344,6 @@
       "text": "Will Trump Destroy the Deep Oceans?",
       "link": "https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals/",
       "date": "Tue, 04 Aug 2026 19:49:17 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "date": "Tue, 04 Aug 2026 17:31:37 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -386,13 +393,6 @@
       "text": "Ceuta migrants caught between humanitarian disaster and diplomatic row",
       "link": "https://www.rfi.fr/en/international/20260804-ceuta-migrants-caught-between-humanitarian-disaster-and-diplomatic-row",
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 04 Aug 2026 11:19:01 GMT"
     },
     {
       "src": "RFI",
