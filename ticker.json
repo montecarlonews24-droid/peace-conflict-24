@@ -1,13 +1,139 @@
 {
-  "updated": "2026-08-06T03:56:25.356Z",
-  "count": 70,
+  "updated": "2026-08-06T06:22:24.233Z",
+  "count": 62,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian strikes target Ukraine's Kharkiv and Sumy regions, killing at least six",
+      "link": "https://www.france24.com/en/europe/20260806-at-least-six-killed-russian-strikes-ukraine-officials-say",
+      "date": "Thu, 06 Aug 2026 06:14:50 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Founding Prime Minister Lee Kuan Yew&#039;s Montblanc pen up for auction again in Singapore",
-      "link": "https://www.channelnewsasia.com/living/lee-kuan-yew-fountain-pen-hotlotz-auction-6302481",
-      "date": "Thu, 06 Aug 2026 11:48:53 +0800"
+      "text": "OpenAI asks US judge to dismiss Apple&#039;s trade secrets case",
+      "link": "https://www.channelnewsasia.com/business/openai-asks-us-judge-dismiss-apples-trade-secrets-case-6302946",
+      "date": "Thu, 06 Aug 2026 14:11:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US military families face deportation after immigration protection ends",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 06:09:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Outrage as Ugandan football captain murdered in street gang attack",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 06:04:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Indian journalist Tarun Tejpal convicted in rape case",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 06:00:27 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Revised migrant worker healthcare plan to lower costs for employers, bring clinics closer by April 2027",
+      "link": "https://www.channelnewsasia.com/singapore/migrant-workers-healthcare-primary-care-plan-payment-clinic-2km-6300856",
+      "date": "Thu, 06 Aug 2026 14:00:12 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan&#039;s Mitsubishi Electric to start industrial build-up for GCAP fighter",
+      "link": "https://www.channelnewsasia.com/business/japans-mitsubishi-electric-start-industrial-build-up-gcap-fighter-6302926",
+      "date": "Thu, 06 Aug 2026 13:57:20 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "To quit Cabinet or not? Malaysia’s DAP ‘at crossroads’ ahead of crucial party congress",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-dap-congress-ministers-cabinet-anwar-ibrahim-pakatan-harapan-6300781",
+      "date": "Thu, 06 Aug 2026 13:50:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Myanmar ex-military chief on first Thailand trip as civilian leader",
+      "link": "https://www.channelnewsasia.com/asia/myanmar-ex-military-chief-min-aung-hlaing-visits-thailand-civilian-leader-6302656",
+      "date": "Thu, 06 Aug 2026 13:49:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea&#039;s president orders all-out response to heatwave",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-president-orders-all-out-heatwave-response-6302796",
+      "date": "Thu, 06 Aug 2026 13:21:02 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "FIFA apologises for World Cup private investment controversy",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260806-fifa-apologises-for-world-cup-private-investment-controversy",
+      "date": "Thu, 06 Aug 2026 05:17:49 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dutch shocks for Zverev, Medvedev as seeds fall in Canadian Open",
+      "link": "https://www.channelnewsasia.com/sport/dutch-shocks-zverev-medvedev-seeds-fall-in-canadian-open-6302856",
+      "date": "Thu, 06 Aug 2026 13:06:59 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Carney curses Infantino as FIFA backs its president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 05:05:42 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+      "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 05:05:06 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israel reports troop deaths as Lebanon talks underway in Rome",
+      "link": "https://www.channelnewsasia.com/world/israel-reports-troop-deaths-lebanon-talks-underway-in-rome-6302741",
+      "date": "Thu, 06 Aug 2026 12:59:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 04:44:22 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nigerian security forces rescue more than 300 abductees",
+      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 04:35:33 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 04:02:29 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Oil tanker reports 'two explosions' in Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
+      "date": "Thu, 06 Aug 2026 03:48:53 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -31,46 +157,11 @@
       "date": "Thu, 06 Aug 2026 03:16:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea police raid football association in coach appointment probe",
-      "link": "https://www.channelnewsasia.com/sport/south-korea-police-raid-football-association-coach-hong-myung-bo-probe-6302616",
-      "date": "Thu, 06 Aug 2026 11:16:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Waratahs go back to the future with Foley, Phipps signings",
-      "link": "https://www.channelnewsasia.com/sport/waratahs-go-back-future-foley-phipps-signings-6302621",
-      "date": "Thu, 06 Aug 2026 11:07:31 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pakistan seal first away test win in three years to draw West Indies series",
-      "link": "https://www.channelnewsasia.com/sport/pakistan-seal-first-away-test-win-in-three-years-draw-west-indies-series-6302606",
-      "date": "Thu, 06 Aug 2026 11:06:09 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Iran says Hormuz deal with Oman in final stage as Trump signals breakthrough",
       "link": "https://www.france24.com/en/middle-east/20260806-iran-says-hormuz-deal-with-oman-in-final-stage-as-trump-signals-breakthrough",
       "date": "Thu, 06 Aug 2026 02:55:47 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fitch says Vietnam banks likely to face significant pressure from government growth target",
-      "link": "https://www.channelnewsasia.com/business/fitch-says-vietnam-banks-likely-face-significant-pressure-government-growth-target-6302586",
-      "date": "Thu, 06 Aug 2026 10:48:18 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Driver in Tampines chain collision admits to running red light at 129kmh, crashing into 3 cars and killing 2",
-      "link": "https://www.channelnewsasia.com/singapore/tampines-fatal-collision-driver-plead-guilty-run-red-light-129kmh-6300621",
-      "date": "Thu, 06 Aug 2026 10:45:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -87,20 +178,6 @@
       "date": "Thu, 06 Aug 2026 02:34:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Meta says AI model accessed the internet and hacked another firm",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 06 Aug 2026 02:33:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bain Capital to buy bubble tea chain Gong cha from TA Associates and others",
-      "link": "https://www.channelnewsasia.com/business/bain-capital-buy-bubble-tea-chain-gong-cha-ta-associates-and-others-6302571",
-      "date": "Thu, 06 Aug 2026 10:32:05 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Nigeria rescues more than 300 kidnapping victims in major operation",
@@ -108,46 +185,11 @@
       "date": "Thu, 06 Aug 2026 02:31:59 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Where to watch the National Day Parade 2026 fireworks",
-      "link": "https://www.channelnewsasia.com/living/ndp-2026-fireworks-where-watch-6299496",
-      "date": "Thu, 06 Aug 2026 10:30:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 02:28:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-      "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 02:06:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mexican influencer shot dead during livestream",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 01:28:53 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Meta’s AI model follows rivals in revealing hacks of outside systems",
-      "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 00:40:28 +0000"
     },
     {
       "src": "France 24",
@@ -199,41 +241,6 @@
       "date": "Wed, 05 Aug 2026 20:30:32 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Escalatory spiral of attrition: Drone technology allowing Ukraine to resist Russia asymmetrically'",
-      "link": "https://www.france24.com/en/escalatory-spiral-of-attrition-drone-technology-allowing-ukraine-to-resist-russia-asymmetrically",
-      "date": "Wed, 05 Aug 2026 20:30:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran president says contact with supreme leader is 'very difficult'",
-      "link": "https://www.france24.com/en/middle-east/20260805-iran-president-says-contact-with-supreme-leader-is-very-difficult",
-      "date": "Wed, 05 Aug 2026 20:19:01 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 20:03:36 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Drone carrying explosives found at German airport, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 20:01:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two Frenchmen receive suspended jail sentences after livestreamer's death",
-      "link": "https://www.france24.com/en/france/20260805-french-men-receive-suspended-jail-sentences-after-livestreamer-s-death",
-      "date": "Wed, 05 Aug 2026 19:56:36 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "South Africa’s Global Image Loses Its Luster",
@@ -246,13 +253,6 @@
       "text": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "date": "Wed, 05 Aug 2026 19:20:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 19:02:06 GMT"
     },
     {
       "src": "RFI",
@@ -339,48 +339,6 @@
       "date": "Wed, 05 Aug 2026 13:55:42 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168085",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168082",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sharp spike in executions, death sentences in Iran",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168081",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Strengthening El Niño to push 49 million more people into acute hunger",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Rescued British woman becomes 14th to die after Los Gallardos wildfires in Spain",
@@ -463,20 +421,6 @@
       "text": "Ceuta migrants caught between humanitarian disaster and diplomatic row",
       "link": "https://www.rfi.fr/en/international/20260804-ceuta-migrants-caught-between-humanitarian-disaster-and-diplomatic-row",
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Africans bear the brunt of biodiversity loss",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
