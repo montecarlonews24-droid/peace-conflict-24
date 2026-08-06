@@ -1,111 +1,223 @@
 {
-  "updated": "2026-08-06T06:22:24.233Z",
-  "count": 62,
+  "updated": "2026-08-06T09:18:35.996Z",
+  "count": 70,
   "items": [
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Russian strikes target Ukraine's Kharkiv and Sumy regions, killing at least six",
-      "link": "https://www.france24.com/en/europe/20260806-at-least-six-killed-russian-strikes-ukraine-officials-say",
-      "date": "Thu, 06 Aug 2026 06:14:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI asks US judge to dismiss Apple&#039;s trade secrets case",
-      "link": "https://www.channelnewsasia.com/business/openai-asks-us-judge-dismiss-apples-trade-secrets-case-6302946",
-      "date": "Thu, 06 Aug 2026 14:11:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US military families face deportation after immigration protection ends",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 06:09:50 +0000"
+      "text": "Cape Verde: Illegal sand extractions for construction industry erodes coastline",
+      "link": "https://www.france24.com/en/cape-verde-illegal-sand-extractions-for-construction-industry-erodes-coastline",
+      "date": "Thu, 06 Aug 2026 09:13:08 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Outrage as Ugandan football captain murdered in street gang attack",
+      "text": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 09:12:39 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UN warns drone attacks have become leading cause of civilian death in Sudan",
+      "link": "https://www.france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan",
+      "date": "Thu, 06 Aug 2026 09:10:30 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NDP 2026: Public advised to arrive early for security checks, monitor crowd levels",
+      "link": "https://www.channelnewsasia.com/singapore/ndp-2026-security-traffic-advisory-police-national-stadium-6303001",
+      "date": "Thu, 06 Aug 2026 17:08:48 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Germany arrests Ukrainian national accused of spying on defence firm",
+      "link": "https://www.france24.com/en/europe/20260806-germany-arrests-ukrainian-national-accused-spying-defence-firm",
+      "date": "Thu, 06 Aug 2026 09:06:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iranian footballers who defied Tehran become Australian citizens",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 09:04:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran and Oman 'close to deal' on Hormuz... but not with the US",
+      "link": "https://www.france24.com/en/iran-and-oman-close-to-deal-on-hormuz-but-not-with-the-us",
+      "date": "Thu, 06 Aug 2026 09:02:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cox to replace injured Bethell for Pakistan tests as Root begins new England captaincy stint",
+      "link": "https://www.channelnewsasia.com/sport/cox-replace-injured-bethell-pakistan-tests-root-begins-new-england-captaincy-stint-6303271",
+      "date": "Thu, 06 Aug 2026 17:02:09 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Japan's 'leprosy island': The dark history of Nagashima",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260806-japan-s-leprosy-island-the-dark-history-of-nagashima",
+      "date": "Thu, 06 Aug 2026 09:02:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bomb-disposal robot and drone with explosives discovered at Germany's Leipzig airport",
+      "link": "https://www.france24.com/en/bomb-disposal-robot-and-drone-with-explosives-discovered-at-germany-s-leipzig-airport",
+      "date": "Thu, 06 Aug 2026 08:59:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What to know about this week’s US primary elections in Tennessee and Hawaii",
+      "link": "https://www.aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 08:58:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Indonesia’s security minister Djamari says country remains ‘secure’ amid unrest speculation, misinformation online",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-security-stable-under-control-protests-independence-day-unrest-6303191",
+      "date": "Thu, 06 Aug 2026 16:55:30 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian forces are now 20km away from Ukrainian city of Kramatorsk",
+      "link": "https://www.france24.com/en/russian-forces-are-now-20km-away-from-ukrainian-city-of-kramatorsk",
+      "date": "Thu, 06 Aug 2026 08:47:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "DR Congo’s Ebola outbreak outpaces response as health workers strike over pay",
+      "link": "https://www.france24.com/en/africa/20260806-dr-congo-ebola-outbreak-outpaces-response-efforts-health-workers-strike-pay",
+      "date": "Thu, 06 Aug 2026 08:43:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea police raid Starbucks HQ over &#039;Tank Day&#039; fiasco",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-police-raid-starbucks-hq-tank-day-6303176",
+      "date": "Thu, 06 Aug 2026 16:36:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 08:27:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Shifting US politics offers opportunity for Palestinian self-determination",
+      "link": "https://www.aljazeera.com/opinions/2026/8/6/shifting-us-politics-offers-opportunity-for-palestinian-self-determination?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 08:25:52 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Air India's new CEO faces financial and safety turbulence",
+      "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 08:18:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is France developing a new nuclear strategy?",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 08:17:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 08:15:37 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vape syndicate member&#039;s guilty plea reveals inner workings of local operations",
+      "link": "https://www.channelnewsasia.com/singapore/vape-syndicate-warehouse-telegram-whatsapp-malaysia-leader-6303081",
+      "date": "Thu, 06 Aug 2026 16:10:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Queenstown Sport Centre reopens on Aug 8 with upgraded facilities",
+      "link": "https://www.channelnewsasia.com/singapore/queenstown-sport-centre-reopens-aug-8-upgraded-facilities-6303006",
+      "date": "Thu, 06 Aug 2026 16:04:55 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rice prices surge across southern India as weaker monsoon raises harvest fears",
+      "link": "https://www.channelnewsasia.com/asia/southern-india-rice-prices-surge-monsoon-season-harvest-6303041",
+      "date": "Thu, 06 Aug 2026 15:57:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Blackpink fans express outrage over K-pop group&#039;s 10th anniversary activities",
+      "link": "https://www.channelnewsasia.com/entertainment/blackpink-fans-10th-anniversary-6303011",
+      "date": "Thu, 06 Aug 2026 15:40:26 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+      "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 07:36:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 07:34:12 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 07:27:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss",
+      "date": "Thu, 06 Aug 2026 07:11:48 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Boxer accused of killing UK aid worker and putting body in suitcase back in court",
+      "link": "https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253",
+      "date": "Thu, 06 Aug 2026 07:48:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Outrage as Ugandan football captain beaten to death in street gang attack",
       "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 06 Aug 2026 06:04:28 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Indian journalist Tarun Tejpal convicted in rape case",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 06 Aug 2026 06:00:27 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Revised migrant worker healthcare plan to lower costs for employers, bring clinics closer by April 2027",
-      "link": "https://www.channelnewsasia.com/singapore/migrant-workers-healthcare-primary-care-plan-payment-clinic-2km-6300856",
-      "date": "Thu, 06 Aug 2026 14:00:12 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan&#039;s Mitsubishi Electric to start industrial build-up for GCAP fighter",
-      "link": "https://www.channelnewsasia.com/business/japans-mitsubishi-electric-start-industrial-build-up-gcap-fighter-6302926",
-      "date": "Thu, 06 Aug 2026 13:57:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "To quit Cabinet or not? Malaysia’s DAP ‘at crossroads’ ahead of crucial party congress",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-dap-congress-ministers-cabinet-anwar-ibrahim-pakatan-harapan-6300781",
-      "date": "Thu, 06 Aug 2026 13:50:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Myanmar ex-military chief on first Thailand trip as civilian leader",
-      "link": "https://www.channelnewsasia.com/asia/myanmar-ex-military-chief-min-aung-hlaing-visits-thailand-civilian-leader-6302656",
-      "date": "Thu, 06 Aug 2026 13:49:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea&#039;s president orders all-out response to heatwave",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-president-orders-all-out-heatwave-response-6302796",
-      "date": "Thu, 06 Aug 2026 13:21:02 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "FIFA apologises for World Cup private investment controversy",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260806-fifa-apologises-for-world-cup-private-investment-controversy",
-      "date": "Thu, 06 Aug 2026 05:17:49 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dutch shocks for Zverev, Medvedev as seeds fall in Canadian Open",
-      "link": "https://www.channelnewsasia.com/sport/dutch-shocks-zverev-medvedev-seeds-fall-in-canadian-open-6302856",
-      "date": "Thu, 06 Aug 2026 13:06:59 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Carney curses Infantino as FIFA backs its president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 05:05:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-      "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 05:05:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israel reports troop deaths as Lebanon talks underway in Rome",
-      "link": "https://www.channelnewsasia.com/world/israel-reports-troop-deaths-lebanon-talks-underway-in-rome-6302741",
-      "date": "Thu, 06 Aug 2026 12:59:00 +0800"
+      "text": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 06 Aug 2026 05:00:54 GMT"
     },
     {
       "src": "BBC World",
@@ -117,100 +229,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Nigerian security forces rescue more than 300 abductees",
-      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 06 Aug 2026 04:35:33 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 04:02:29 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Oil tanker reports 'two explosions' in Strait of Hormuz",
-      "link": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
-      "date": "Thu, 06 Aug 2026 03:48:53 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Could the Iran war derail Donald Trump’s legacy?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 03:43:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-      "link": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 03:34:09 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Guatemala declares Fuego volcano eruption over, evacuees return home",
-      "link": "https://www.france24.com/en/americas/20260806-guatemala-declares-fuego-volcano-eruption-over-evacuees-return-home",
-      "date": "Thu, 06 Aug 2026 03:16:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran says Hormuz deal with Oman in final stage as Trump signals breakthrough",
-      "link": "https://www.france24.com/en/middle-east/20260806-iran-says-hormuz-deal-with-oman-in-final-stage-as-trump-signals-breakthrough",
-      "date": "Thu, 06 Aug 2026 02:55:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lightning strike kills Thai footballer during match",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 02:39:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Gambian women are restoring the mangroves protecting Banjul",
-      "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
-      "date": "Thu, 06 Aug 2026 02:34:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nigeria rescues more than 300 kidnapping victims in major operation",
-      "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
-      "date": "Thu, 06 Aug 2026 02:31:59 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "FIFA backs Infantino but apologises over World Cup investment plan",
-      "link": "https://www.france24.com/en/sport/20260806-fifa-backs-infantino-but-apologises-over-world-cup-investment-plan",
-      "date": "Thu, 06 Aug 2026 00:01:11 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/story/world-cup-latest-european-nations-agree-to-boycott-fifa-competitions-over-controversial-sell-off-plan-13568011?postid=12184363#liveblog-body'>'Errors were made': Read FIFA chief's World Cup letter in full</a>",
-      "link": "https://news.sky.com/story/errors-were-made-fifa-chiefs-letter-addresses-world-cup-plan-13570234",
-      "date": "Thu, 06 Aug 2026 00:51:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 23:28:06 GMT"
     },
     {
       "src": "The Guardian",
@@ -218,20 +239,6 @@
       "text": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
       "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
       "date": "Wed, 05 Aug 2026 22:16:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 21:37:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UN warns drone strikes worsen in Sudan",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260805-un-warns-drone-strikes-worsen-in-sudan",
-      "date": "Wed, 05 Aug 2026 20:39:15 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -260,13 +267,6 @@
       "text": "Why has Ukraine's former military chief given up on NATO membership?",
       "link": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
       "date": "Wed, 05 Aug 2026 18:54:49 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 05 Aug 2026 18:19:51 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -337,6 +337,48 @@
       "text": "The Ceuta Crisis Reveals the Limits of European Defense Cooperation",
       "link": "https://foreignpolicy.com/2026/08/05/ceuta-crisis-europe-migration-russia-nato-limits-defense-cooperation/",
       "date": "Wed, 05 Aug 2026 13:55:42 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168085",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168082",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sharp spike in executions, death sentences in Iran",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168081",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Strengthening El Niño to push 49 million more people into acute hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
+      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -421,6 +463,20 @@
       "text": "Ceuta migrants caught between humanitarian disaster and diplomatic row",
       "link": "https://www.rfi.fr/en/international/20260804-ceuta-migrants-caught-between-humanitarian-disaster-and-diplomatic-row",
       "date": "Tue, 04 Aug 2026 12:53:06 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Africans bear the brunt of biodiversity loss",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+      "date": "Tue, 04 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
