@@ -1,13 +1,55 @@
 {
-  "updated": "2026-08-07T19:42:08.823Z",
+  "updated": "2026-08-07T20:26:40.783Z",
   "count": 61,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Greek mayor among three charged over wildfire near Athens",
+      "link": "https://www.channelnewsasia.com/world/greece-mayor-wildfire-athens-arson-6306921",
+      "date": "Sat, 08 Aug 2026 04:19:31 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "The EU has new anti-Beijing instruments, but will China have to face the music?",
+      "link": "https://www.rfi.fr/en/international/20260807-the-eu-has-new-anti-beijing-instruments-but-will-china-have-to-face-the-music",
+      "date": "Fri, 07 Aug 2026 20:05:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Exclusive: WFP to extend Palantir contract despite concerns raised in leaked audit",
+      "link": "https://www.france24.com/en/americas/20260807-never-speak-about-palantir-leaked-audit-reveals-the-un-s-palantir-problem-united-nations-ai-tech-wfp-iaea-ethics",
+      "date": "Fri, 07 Aug 2026 19:58:10 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 19:39:45 GMT"
+      "date": "Fri, 07 Aug 2026 19:51:16 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Contaminated water putting Gaza families at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 19:47:42 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Middle East Tries Its Hand at a NATO-Style Pact",
+      "link": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+      "date": "Fri, 07 Aug 2026 19:45:31 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Explainer-How could New Mexico&#039;s $567 million ruling change Meta?",
+      "link": "https://www.channelnewsasia.com/business/explainer-how-could-new-mexicos-567-million-ruling-change-meta-6306901",
+      "date": "Sat, 08 Aug 2026 03:38:25 +0800"
     },
     {
       "src": "CNA",
@@ -17,11 +59,25 @@
       "date": "Sat, 08 Aug 2026 03:28:12 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+      "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 19:21:01 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "All Blacks win tour opener in unconvincing fashion",
       "link": "https://www.channelnewsasia.com/sport/all-blacks-win-tour-opener-in-unconvincing-fashion-6306886",
       "date": "Sat, 08 Aug 2026 03:17:47 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why China’s Elites Still Want to Leave",
+      "link": "https://foreignpolicy.com/2026/08/07/china-callousness-society-culture-communist-party/",
+      "date": "Fri, 07 Aug 2026 19:03:43 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -55,7 +111,7 @@
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "There’s No Going Back",
-      "link": "https://foreignpolicy.com/2026/08/07/theres-no-going-back/",
+      "link": "https://foreignpolicy.com/2026/08/07/thomas-wright-inflection-point-book-review-us-foreign-policy-trump-biden/",
       "date": "Fri, 07 Aug 2026 18:20:08 +0000"
     },
     {
@@ -115,25 +171,11 @@
       "date": "Fri, 07 Aug 2026 17:42:54 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Captain Kolisi hails Springboks&#039; depth as he returns from injury in Argentina",
-      "link": "https://www.channelnewsasia.com/sport/captain-kolisi-hails-springboks-depth-he-returns-injury-in-argentina-6306786",
-      "date": "Sat, 08 Aug 2026 01:34:11 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "New Delhi on red alert as heavy rains pound the city",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
       "date": "Fri, 07 Aug 2026 17:19:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;Nobody gave us a chance in this group&#039;: Gavin Lee hails Lions after making ASEAN football championship semis",
-      "link": "https://www.channelnewsasia.com/sport/gavin-lee-lions-singapore-qualify-indonesia-asean-football-championship-6306691",
-      "date": "Sat, 08 Aug 2026 01:14:58 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -155,20 +197,6 @@
       "text": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
       "date": "Fri, 07 Aug 2026 16:42:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US labour market sheds jobs in July as labour force participation slumps",
-      "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 16:25:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 16:23:33 +0000"
     },
     {
       "src": "BBC World",
@@ -227,13 +255,6 @@
       "date": "Fri, 07 Aug 2026 15:07:34 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Players use football to champion Afghan women's rights",
-      "link": "https://www.france24.com/en/video/20260807-players-use-football-to-champion-afghan-women-s-rights",
-      "date": "Fri, 07 Aug 2026 15:07:24 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Rwanda in talks with Italy to take in migrants trying to reach EU",
@@ -257,7 +278,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Spain and Italy row over border controls following Morocco migrant influx",
+      "text": "Spain announces new border controls with Italy in migration row",
       "link": "https://news.sky.com/story/spain-threatens-to-retaliate-after-italy-imposes-border-controls-following-ceuta-migrant-influx-13570668",
       "date": "Fri, 07 Aug 2026 12:53:00 +0100"
     },
@@ -302,20 +323,6 @@
       "text": "What Everyone Is Missing About Ceuta",
       "link": "https://foreignpolicy.com/2026/08/06/ceuta-spain-morocco-migrants-history-africa-europe/",
       "date": "Thu, 06 Aug 2026 21:19:07 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "China’s AI Acceleration",
-      "link": "https://foreignpolicy.com/2026/08/06/trump-ai-china-kimi-anthropic-openai/",
-      "date": "Thu, 06 Aug 2026 20:33:21 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why Israel’s Upcoming Election Might Be Its Most Pivotal",
-      "link": "https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians/",
-      "date": "Thu, 06 Aug 2026 19:13:16 +0000"
     },
     {
       "src": "Sky News",
@@ -421,13 +428,6 @@
       "text": "Seventh round of talks between Lebanon and Israel under way in Rome",
       "link": "https://www.rfi.fr/en/international/20260804-seventh-round-of-talks-between-lebanon-and-israel-under-way-in-rome",
       "date": "Tue, 04 Aug 2026 20:06:58 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU ministers agree Schengen zone 'not the problem' in Ceuta migrant influx",
-      "link": "https://www.rfi.fr/en/international/20260804-eu-ministers-agree-schengen-zone-not-the-problem-in-ceuta-migrant-influx",
-      "date": "Tue, 04 Aug 2026 15:23:43 GMT"
     }
   ]
 }
