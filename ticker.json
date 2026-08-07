@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-07T10:24:48.011Z",
-  "count": 60,
+  "updated": "2026-08-07T11:13:04.206Z",
+  "count": 70,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Haitians face arrest and deportation after US removes TPS protections",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+      "date": "Fri, 07 Aug 2026 11:00:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Levi Strauss reveals cybersecurity breach amid wider wave of attacks",
+      "link": "https://www.channelnewsasia.com/business/levi-strauss-reveals-cybersecurity-breach-amid-wider-wave-attacks-6306096",
+      "date": "Fri, 07 Aug 2026 18:58:06 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thailand: Gunman killed grandparents before school attack",
+      "link": "https://www.france24.com/en/thailand-gunman-killed-grandparents-before-school-attack",
+      "date": "Fri, 07 Aug 2026 10:56:11 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cloudflare shares jump after forecast raise on AI-driven demand",
+      "link": "https://www.channelnewsasia.com/business/cloudflare-shares-jump-after-forecast-raise-ai-driven-demand-6306101",
+      "date": "Fri, 07 Aug 2026 18:54:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 10:52:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "In pictures: Drought exposes Word War II ships, strands boats as Europe’s river levels plunge",
+      "link": "https://www.france24.com/en/europe/20260807-in-pictures-drought-exposes-word-war-ii-ships-grounds-boats-europe-river-levels-plunge",
+      "date": "Fri, 07 Aug 2026 10:51:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NParks sterilising long-tailed macaques at Maju Forest to manage population",
+      "link": "https://www.channelnewsasia.com/singapore/nparks-sterilising-long-tailed-macaques-maju-forest-6305651",
+      "date": "Fri, 07 Aug 2026 18:47:56 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French farmers 'heavily impacted' by climate crisis, both psychologically and economically.",
+      "link": "https://www.france24.com/en/french-farmers-heavily-impacted-by-climate-crisis-both-psychologically-and-economically",
+      "date": "Fri, 07 Aug 2026 10:39:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas",
+      "link": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas",
+      "date": "Fri, 07 Aug 2026 10:30:17 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -59,25 +122,32 @@
       "date": "Fri, 07 Aug 2026 17:51:24 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England striker Toney charged with assault at London nightclub",
-      "link": "https://www.channelnewsasia.com/sport/england-striker-toney-charged-assault-london-nightclub-6305936",
-      "date": "Fri, 07 Aug 2026 17:42:54 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nigerian artist transforms ordinary clay into intricate works of art",
+      "link": "https://www.france24.com/en/nigerian-artist-transforms-ordinary-clay-into-intricate-works-of-art",
+      "date": "Fri, 07 Aug 2026 09:35:37 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man jailed for pretending to supply gloves and face masks during COVID-19 pandemic, cheating 11 victims of S$3.79m",
-      "link": "https://www.channelnewsasia.com/singapore/face-mask-covid-pandemic-crime-6305781",
-      "date": "Fri, 07 Aug 2026 17:38:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Africa's textile industry in crisis after migrant workers fled the country",
+      "link": "https://www.france24.com/en/video/20260807-south-africa-s-textile-industry-in-crisis-after-migrant-workers-fled-the-country",
+      "date": "Fri, 07 Aug 2026 09:35:00 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Floods in India&#039;s northeast kill nearly 100",
-      "link": "https://www.channelnewsasia.com/asia/india-floods-assam-death-toll-6305911",
-      "date": "Fri, 07 Aug 2026 17:36:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Award-winning Ethiopian journalist accused authorities of abduction",
+      "link": "https://www.france24.com/en/video/20260807-award-winning-ethiopian-journalist-accused-authorities-of-abduction",
+      "date": "Fri, 07 Aug 2026 09:33:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
+      "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
+      "date": "Fri, 07 Aug 2026 09:32:24 GMT"
     },
     {
       "src": "BBC World",
@@ -127,13 +197,6 @@
       "text": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
       "date": "Fri, 07 Aug 2026 07:00:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
-      "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 06:29:40 +0000"
     },
     {
       "src": "BBC World",
@@ -346,13 +409,6 @@
       "date": "Wed, 05 Aug 2026 18:54:49 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Mexican influencer shot dead while streaming live on social media",
-      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "date": "Wed, 05 Aug 2026 17:31:27 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Bangladesh's ousted ex-prime minister says she will return despite facing death sentence",
@@ -374,6 +430,13 @@
       "date": "Wed, 05 Aug 2026 15:28:00 +0100"
     },
     {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "British fugitive on most-wanted list arrested in Spain",
+      "link": "https://news.sky.com/story/british-fugitive-on-most-wanted-list-arrested-in-spain-13570086",
+      "date": "Wed, 05 Aug 2026 14:58:00 +0100"
+    },
+    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
@@ -386,6 +449,13 @@
       "text": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
       "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Rescued British woman becomes 14th to die after Los Gallardos wildfires in Spain",
+      "link": "https://news.sky.com/story/rescued-british-woman-becomes-14th-to-die-after-los-gallardos-wildfires-in-spain-13570025",
+      "date": "Wed, 05 Aug 2026 12:07:00 +0100"
     },
     {
       "src": "RFI",
