@@ -1,27 +1,139 @@
 {
-  "updated": "2026-08-07T08:03:59.841Z",
-  "count": 69,
+  "updated": "2026-08-07T09:28:42.662Z",
+  "count": 60,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Genshin Impact leakers jailed in landmark criminal case in China",
-      "link": "https://www.channelnewsasia.com/east-asia/china-genshin-impact-leaks-jail-6305696",
-      "date": "Fri, 07 Aug 2026 15:53:06 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US and ASEAN chair call for unconditional release of Myanmar&#039;s Aung San Suu Kyi",
-      "link": "https://www.channelnewsasia.com/asia/myanmar-aung-san-suu-kyi-us-asean-unconditional-release-6305501",
-      "date": "Fri, 07 Aug 2026 15:41:47 +0800"
+      "text": "Nurul Izzah takes leave from PKR deputy president post - why and what next for Anwar’s daughter?",
+      "link": "https://www.channelnewsasia.com/asia/nurul-izzah-anwar-pkr-deputy-president-leave-absence-6305791",
+      "date": "Fri, 07 Aug 2026 17:20:59 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Several killed after student opens fire inside Thailand school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 09:13:48 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "EU Commission signs contract to expand IRIS2 satellite constellation",
-      "link": "https://www.channelnewsasia.com/business/eu-commission-signs-contract-expand-iris2-satellite-constellation-6305706",
-      "date": "Fri, 07 Aug 2026 15:39:58 +0800"
+      "text": "Blowing bubbles helps resting sperm whales avoid floating to the surface",
+      "link": "https://www.channelnewsasia.com/business/blowing-bubbles-helps-resting-sperm-whales-avoid-floating-surface-6305881",
+      "date": "Fri, 07 Aug 2026 17:03:56 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea vows truth over forced overseas adoptions",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-forced-overseas-adoption-truth-6305826",
+      "date": "Fri, 07 Aug 2026 17:02:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260807-antwerp-human-zoo-belgium-confronts-shame-colonial-past",
+      "date": "Fri, 07 Aug 2026 08:57:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hispasat wins lead role in EU&#039;s €15.6 billion IRIS2 satellite network",
+      "link": "https://www.channelnewsasia.com/business/hispasat-wins-lead-role-in-eus-eu156-billion-iris2-satellite-network-6305831",
+      "date": "Fri, 07 Aug 2026 16:52:20 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "FIFA's institutional tensions: Infantino's failed Forward Entity proposal sparks governance crisis",
+      "link": "https://www.france24.com/en/infantino-s-failed-investment-proposal-reflects-deeper-institutional-tensions",
+      "date": "Fri, 07 Aug 2026 08:46:08 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The other classroom: Returning to sacred knowledge",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 08:41:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 08:32:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thailand to cut excise tax for car production,  minister says",
+      "link": "https://www.channelnewsasia.com/business/thailand-cut-excise-tax-car-production-minister-says-6305751",
+      "date": "Fri, 07 Aug 2026 16:23:09 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SK Hynix board approves $38 billion investments for South Korea&#039;s Yongin, Cheongju chip plants",
+      "link": "https://www.channelnewsasia.com/business/sk-hynix-board-approves-38-billion-investments-south-koreas-yongin-cheongju-chip-plants-6305746",
+      "date": "Fri, 07 Aug 2026 16:16:53 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stocks, dollar stall ahead of US jobs data; oil gains as Gulf tensions flare",
+      "link": "https://www.channelnewsasia.com/business/stocks-dollar-stall-ahead-us-jobs-data-oil-gains-gulf-tensions-flare-6305181",
+      "date": "Fri, 07 Aug 2026 16:14:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;AI slop&#039; or not? 2 Singapore films set for National Day release spark debate",
+      "link": "https://www.channelnewsasia.com/entertainment/trace-project-bersama-majulah-ai-film-national-day-6305191",
+      "date": "Fri, 07 Aug 2026 16:06:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Argentina: Thousands protest private property legislation",
+      "link": "https://www.france24.com/en/argentina-thousands-protest-private-property-legislation",
+      "date": "Fri, 07 Aug 2026 08:05:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Heatwaves bring an early wine harvest in France",
+      "link": "https://www.france24.com/en/heatwaves-bring-an-early-wine-harvest-in-france",
+      "date": "Fri, 07 Aug 2026 08:03:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ebola death toll tops 1.800 in DRC",
+      "link": "https://www.france24.com/en/ebola-death-toll-tops-1-800-in-drc",
+      "date": "Fri, 07 Aug 2026 07:58:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+      "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 07:44:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Earthquake strikes as doctors perform surgery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 07:43:05 +0000"
     },
     {
       "src": "France 24",
@@ -31,39 +143,11 @@
       "date": "Fri, 07 Aug 2026 07:23:07 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SK Hynix to announce additional shareholder return measures in third quarter",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-announce-additional-shareholder-return-measures-in-third-quarter-6305626",
-      "date": "Fri, 07 Aug 2026 15:08:35 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
       "date": "Fri, 07 Aug 2026 07:00:11 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wallabies wary of Japan&#039;s threat on the counter in Osaka test",
-      "link": "https://www.channelnewsasia.com/sport/wallabies-wary-japans-threat-counter-in-osaka-test-6305611",
-      "date": "Fri, 07 Aug 2026 14:53:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CATL&#039;s Jianxiawo lithium mine remains closed pending environmental approval, state media reports",
-      "link": "https://www.channelnewsasia.com/business/catls-jianxiawo-lithium-mine-remains-closed-pending-environmental-approval-state-media-reports-6305616",
-      "date": "Fri, 07 Aug 2026 14:52:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thai police say gunman killed grandparents before deadly school shooting, 26 rounds fired",
-      "link": "https://www.channelnewsasia.com/asia/thailand-school-shooting-grandparents-killed-deaths-6305321",
-      "date": "Fri, 07 Aug 2026 14:43:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -78,13 +162,6 @@
       "text": "Teachers, students killed in Thai school shooting near Bangkok",
       "link": "https://www.france24.com/en/asia-pacific/20260807-teachers-students-killed-thai-school-shooting-near-bangkok",
       "date": "Fri, 07 Aug 2026 06:21:39 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysian court postpones graft proceedings against former PM Ismail Sabri to Aug 27 due to health reasons",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-ismail-sabri-former-prime-minister-charged-postponed-heart-condition-6305526",
-      "date": "Fri, 07 Aug 2026 14:20:27 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -122,41 +199,6 @@
       "date": "Fri, 07 Aug 2026 05:00:48 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-      "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 04:43:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least six killed, 15 wounded in Thailand school shooting, police say",
-      "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 04:23:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
-      "link": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 04:04:45 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "AI used to create viruses not found in nature for first time",
-      "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 03:48:22 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Social media giant Meta ordered to pay $567 million in New Mexico child safety ruling",
-      "link": "https://www.france24.com/en/technology/20260807-meta-new-mexico-567-million-child-harm-public-nuisance",
-      "date": "Fri, 07 Aug 2026 02:21:47 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -166,51 +208,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 00:54:03 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two people convicted in relation to death of French streamer",
-      "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 00:51:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Trump again tries to limit US birthright citizenship with new executive orders",
       "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 07 Aug 2026 00:34:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Saudi Arabia, Pakistan and Turkey set to sign defence pact in Jeddah",
-      "link": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
-      "date": "Fri, 07 Aug 2026 00:02:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US-backed Venezuela political transition talks begin without Nobel laureate Machado",
-      "link": "https://www.france24.com/en/americas/20260806-us-backed-venezuela-political-transition-talks-begin-without-nobel-laureate-machado",
-      "date": "Thu, 06 Aug 2026 22:55:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump targets 'birth tourism' in new bid to curb birthright citizenship",
-      "link": "https://www.france24.com/en/americas/20260806-trump-signs-order-new-bid-curb-birthright-citizenship",
-      "date": "Thu, 06 Aug 2026 22:16:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bus explosion near Damascus kills at least two, injures 13",
-      "link": "https://www.france24.com/en/middle-east/20260806-damascus-bus-explosion-kills-two",
-      "date": "Thu, 06 Aug 2026 21:54:18 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -332,48 +332,6 @@
       "date": "Thu, 06 Aug 2026 12:40:32 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola virus reaches displacement camps in DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168092",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168090",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Warnings of famine and collapse as South Sudan&#039;s peace deal frays",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168089",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168088",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
@@ -428,27 +386,6 @@
       "text": "Explosive drone 'attack' was 'professionally carried out'",
       "link": "https://news.sky.com/story/drone-with-explosive-device-found-near-ukraine-cargo-jet-at-leipzig-airport-13570104",
       "date": "Wed, 05 Aug 2026 15:28:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British fugitive on most-wanted list arrested in Spain",
-      "link": "https://news.sky.com/story/british-fugitive-on-most-wanted-list-arrested-in-spain-13570086",
-      "date": "Wed, 05 Aug 2026 14:58:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168087",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
-      "date": "Wed, 05 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
