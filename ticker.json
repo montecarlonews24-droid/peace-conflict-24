@@ -1,13 +1,83 @@
 {
-  "updated": "2026-08-07T15:41:42.209Z",
+  "updated": "2026-08-07T16:39:00.507Z",
   "count": 62,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "text": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 16:33:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man to be charged for causing death of petrol station attendant, driving deregistered car",
+      "link": "https://www.channelnewsasia.com/singapore/petrol-station-attendant-death-man-charged-drive-deregistered-car-6306636",
+      "date": "Sat, 08 Aug 2026 00:16:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Palace sign Japan defender Tomiyasu after trial period",
+      "link": "https://www.channelnewsasia.com/sport/palace-sign-japan-defender-tomiyasu-after-trial-period-6306686",
+      "date": "Sat, 08 Aug 2026 00:15:03 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 16:13:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
+      "link": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 16:10:51 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US appeals court halts construction of Trump’s $400 million White House ballroom project",
+      "link": "https://www.france24.com/en/americas/20260807-us-appeals-court-halts-construction-of-trump-400-million-white-house-ballroom-project",
+      "date": "Fri, 07 Aug 2026 16:06:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Niewiadoma-Phinney conquers Ventoux to snatch Tour de France Femmes lead",
+      "link": "https://www.channelnewsasia.com/sport/niewiadoma-phinney-conquers-ventoux-snatch-tour-de-france-femmes-lead-6306671",
+      "date": "Fri, 07 Aug 2026 23:59:45 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Meta fined in child safety case",
+      "link": "https://www.france24.com/en/meta-fined-in-child-safety-case",
+      "date": "Fri, 07 Aug 2026 15:53:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Seven killed after Thai student opens fire at home and school",
       "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 15:17:59 GMT"
+      "date": "Fri, 07 Aug 2026 15:51:16 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 15:48:49 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mexico and Peru restore diplomatic relations after asylum row",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 15:38:28 GMT"
     },
     {
       "src": "France 24",
@@ -94,13 +164,6 @@
       "date": "Fri, 07 Aug 2026 22:49:00 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 14:41:15 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "FA bans solid pitchside barriers after player dies",
@@ -115,39 +178,11 @@
       "date": "Fri, 07 Aug 2026 14:22:24 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump says Congress wants to regulate AI industry &#039;out of business&#039;",
-      "link": "https://www.channelnewsasia.com/business/trump-says-congress-wants-regulate-ai-industry-out-business-6306486",
-      "date": "Fri, 07 Aug 2026 22:20:03 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
       "date": "Fri, 07 Aug 2026 14:00:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thai students in disbelief after deadly school shooting",
-      "link": "https://www.channelnewsasia.com/asia/thailand-school-shooting-debsirin-nonthaburi-students-6306466",
-      "date": "Fri, 07 Aug 2026 22:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shields says fight with Price likely to take place in 2027",
-      "link": "https://www.channelnewsasia.com/sport/shields-says-fight-price-likely-take-place-in-2027-6306456",
-      "date": "Fri, 07 Aug 2026 21:46:50 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 13:32:41 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -178,32 +213,11 @@
       "date": "Fri, 07 Aug 2026 13:03:54 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo to meet clergy abuse victims during upcoming France visit",
-      "link": "https://www.france24.com/en/france/20260807-pope-leo-meet-clergy-abuse-victims-during-upcoming-france-visit",
-      "date": "Fri, 07 Aug 2026 12:50:14 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
       "date": "Fri, 07 Aug 2026 12:44:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN chief condemns both Ukraine and Russia amid escalation in war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 12:34:13 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Turkey, Saudi Arabia and Pakistan sign defense pact",
-      "link": "https://www.france24.com/en/turkey-saudi-arabia-and-pakistan-sign-defense-pact",
-      "date": "Fri, 07 Aug 2026 12:12:34 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -239,13 +253,6 @@
       "text": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 07 Aug 2026 08:32:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 05:44:29 GMT"
     },
     {
       "src": "BBC World",
@@ -288,13 +295,6 @@
       "text": "Explosive drone 'serious attack' on Germany - as reports claim jet was carrying ammunition",
       "link": "https://news.sky.com/story/leipzig-explosive-drone-serious-attack-on-germany-as-reports-claim-ukraine-jet-was-carrying-ammunition-13570500",
       "date": "Thu, 06 Aug 2026 20:05:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 06 Aug 2026 18:53:51 GMT"
     },
     {
       "src": "Foreign Policy",
