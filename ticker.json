@@ -1,20 +1,83 @@
 {
-  "updated": "2026-08-07T22:02:02.049Z",
+  "updated": "2026-08-07T23:01:01.013Z",
   "count": 69,
   "items": [
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Spain to introduce temporary border checks on visitors from Italy",
-      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "date": "Fri, 07 Aug 2026 21:44:38 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US regulator rejects Dutch fintech Bunq&#039;s application for national bank charter",
+      "link": "https://www.channelnewsasia.com/business/us-regulator-rejects-dutch-fintech-bunqs-application-national-bank-charter-6307101",
+      "date": "Sat, 08 Aug 2026 06:40:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brazil tightens crypto transfers to curb fraud",
+      "link": "https://www.channelnewsasia.com/business/brazil-tightens-crypto-transfers-curb-fraud-6307096",
+      "date": "Sat, 08 Aug 2026 06:29:23 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 07 Aug 2026 22:13:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Data center firm Switch confidentially files for US IPO, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/data-center-firm-switch-confidentially-files-us-ipo-bloomberg-news-reports-6307066",
+      "date": "Sat, 08 Aug 2026 06:11:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
+      "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
+      "date": "Fri, 07 Aug 2026 22:08:49 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 21:32:30 GMT"
+      "date": "Fri, 07 Aug 2026 22:07:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore’s only sake brewery is in Jurong, making pulut hitam sake and winning recognition in Japan",
+      "link": "https://www.channelnewsasia.com/experiences/singapore-only-sake-brewery-orchid-jurong-6301606",
+      "date": "Sat, 08 Aug 2026 06:01:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Adding AI to Google Earth runs counter to what makes it so valuable",
+      "link": "https://www.channelnewsasia.com/commentary/google-earth-ai-nano-banana-fake-trust-maps-6305941",
+      "date": "Sat, 08 Aug 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CNA Explains: What’s driving Japan’s urgent defence push?",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-defence-military-buildup-cna-explains-6303771",
+      "date": "Sat, 08 Aug 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Infantino denies UEFA paid off alleged mistress while he was general secretary",
+      "link": "https://news.sky.com/story/infantino-denies-uefa-paid-off-his-alleged-mistress-while-he-was-general-secretary-13570870",
+      "date": "Fri, 07 Aug 2026 22:52:00 +0100"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Spain to introduce temporary border checks on visitors from Italy",
+      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "date": "Fri, 07 Aug 2026 21:44:38 GMT"
     },
     {
       "src": "CNA",
@@ -101,32 +164,11 @@
       "date": "Fri, 07 Aug 2026 20:39:26 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 20:33:23 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Coach Rennie praises All Blacks character in fighting win over Stormers",
-      "link": "https://www.channelnewsasia.com/sport/coach-rennie-praises-all-blacks-character-in-fighting-win-over-stormers-6306981",
-      "date": "Sat, 08 Aug 2026 04:30:07 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US appeals court upholds injunction pausing Trump’s White House ballroom",
       "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
       "date": "Fri, 07 Aug 2026 20:27:56 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Greek mayor among three charged over wildfire near Athens",
-      "link": "https://www.channelnewsasia.com/world/greece-mayor-wildfire-athens-arson-6306921",
-      "date": "Sat, 08 Aug 2026 04:19:31 +0800"
     },
     {
       "src": "France 24",
@@ -171,34 +213,6 @@
       "date": "Fri, 07 Aug 2026 19:45:31 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Explainer-How could New Mexico&#039;s $567 million ruling change Meta?",
-      "link": "https://www.channelnewsasia.com/business/explainer-how-could-new-mexicos-567-million-ruling-change-meta-6306901",
-      "date": "Sat, 08 Aug 2026 03:38:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Maradona bloated, bedridden and resigned before death, says icon&#039;s masseur",
-      "link": "https://www.channelnewsasia.com/world/maradona-death-trial-masseur-healthcare-6306871",
-      "date": "Sat, 08 Aug 2026 03:28:12 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-      "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
-      "date": "Fri, 07 Aug 2026 19:21:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "All Blacks win tour opener in unconvincing fashion",
-      "link": "https://www.channelnewsasia.com/sport/all-blacks-win-tour-opener-in-unconvincing-fashion-6306886",
-      "date": "Sat, 08 Aug 2026 03:17:47 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why China’s Elites Still Want to Leave",
@@ -232,13 +246,6 @@
       "text": "There’s No Going Back",
       "link": "https://foreignpolicy.com/2026/08/07/thomas-wright-inflection-point-book-review-us-foreign-policy-trump-biden/",
       "date": "Fri, 07 Aug 2026 18:20:08 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Italy defies Spanish demand to lift border curbs over Ceuta crisis",
-      "link": "https://www.channelnewsasia.com/world/ceuta-spain-italy-border-curbs-morocco-6306806",
-      "date": "Sat, 08 Aug 2026 02:19:09 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -442,13 +449,6 @@
       "text": "Why has Ukraine's former military chief given up on NATO membership?",
       "link": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
       "date": "Wed, 05 Aug 2026 18:54:49 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Bangladesh's ousted ex-prime minister says she will return despite facing death sentence",
-      "link": "https://news.sky.com/story/bangladeshs-ousted-ex-prime-minister-sheikh-hasina-says-she-will-return-despite-facing-death-sentence-13570122",
-      "date": "Wed, 05 Aug 2026 18:09:00 +0100"
     },
     {
       "src": "RFI",
