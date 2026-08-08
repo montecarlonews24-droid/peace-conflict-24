@@ -1,13 +1,48 @@
 {
-  "updated": "2026-08-08T19:05:44.937Z",
-  "count": 68,
+  "updated": "2026-08-08T19:49:04.010Z",
+  "count": 60,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 19:18:57 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least 200 people evacuated as wildfire rages near Lake Garda",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 19:13:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 19:00:43 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US Senate advances landmark crypto bill before heading on August recess",
       "link": "https://www.channelnewsasia.com/business/us-senate-advances-landmark-crypto-bill-heading-august-recess-6307856",
       "date": "Sun, 09 Aug 2026 02:59:23 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+      "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 18:57:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+      "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 18:55:20 +0000"
     },
     {
       "src": "CNA",
@@ -80,39 +115,11 @@
       "date": "Sat, 08 Aug 2026 17:07:07 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-      "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 17:05:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 16:52:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-      "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 16:26:36 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win",
       "link": "https://www.channelnewsasia.com/sport/vollering-snatches-overall-lead-in-tour-de-france-femmes-dramatic-stage-eight-win-6307806",
       "date": "Sun, 09 Aug 2026 00:24:13 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Opposition MP hurls eggs at Kosovo Prime Minister",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 16:09:06 +0000"
     },
     {
       "src": "France 24",
@@ -162,13 +169,6 @@
       "text": "Russian strikes kill four as Kyiv hits oil refinery",
       "link": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
       "date": "Sat, 08 Aug 2026 15:29:49 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 15:15:17 GMT"
     },
     {
       "src": "Sky News",
@@ -239,13 +239,6 @@
       "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
       "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
       "date": "Sat, 08 Aug 2026 12:52:36 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "For Brazil’s Indigenous youth, visibility is resistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "France 24",
@@ -367,41 +360,6 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -449,20 +407,6 @@
       "text": "Top Ugandan footballer killed by robbers armed with paving stones",
       "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
