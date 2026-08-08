@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-08T14:55:02.047Z",
+  "updated": "2026-08-08T15:17:10.497Z",
   "count": 60,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 15:15:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 15:01:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+      "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 14:58:42 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -40,9 +61,9 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Father of soccer star Lionel Messi dies at 68 in Argentina",
-      "link": "https://www.channelnewsasia.com/sport/father-soccer-star-lionel-messi-dies-68-in-argentina-6307711",
-      "date": "Sat, 08 Aug 2026 21:53:40 +0800"
+      "text": "Father of football star Lionel Messi dies at 68 in Argentina",
+      "link": "https://www.channelnewsasia.com/sport/lionel-messi-father-jorge-dies-68-6307711",
+      "date": "Sat, 08 Aug 2026 21:53:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -68,7 +89,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+      "text": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
       "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
       "date": "Sat, 08 Aug 2026 13:42:06 +0000"
     },
@@ -124,7 +145,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Irish government jet en route to Dubai to fetch alleged crime boss Daniel Kinahan",
+      "text": "Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan",
       "link": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
     },
@@ -162,20 +183,6 @@
       "text": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
       "link": "https://www.channelnewsasia.com/world/iran-deal-strait-hormuz-close-6307616",
       "date": "Sat, 08 Aug 2026 20:51:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
-      "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 12:30:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 12:07:23 +0000"
     },
     {
       "src": "BBC World",
@@ -323,13 +330,6 @@
       "text": "An ‘Odyssey,’ From a Dog’s Perspective",
       "link": "https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/",
       "date": "Fri, 07 Aug 2026 18:00:10 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 17:42:54 GMT"
     },
     {
       "src": "RFI",
