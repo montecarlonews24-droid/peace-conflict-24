@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-08T16:58:53.658Z",
-  "count": 61,
+  "updated": "2026-08-08T17:26:59.002Z",
+  "count": 69,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 17:23:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain imposes border checks on Italian travellers amid migrant dispute",
+      "link": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
+      "date": "Sat, 08 Aug 2026 17:07:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 17:05:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 16:52:11 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -19,8 +47,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Vollering wins stage eight, takes Tour de France Femmes overall lead",
-      "link": "https://www.channelnewsasia.com/sport/vollering-wins-stage-eight-takes-tour-de-france-femmes-overall-lead-6307806",
+      "text": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win",
+      "link": "https://www.channelnewsasia.com/sport/vollering-snatches-overall-lead-in-tour-de-france-femmes-dramatic-stage-eight-win-6307806",
       "date": "Sun, 09 Aug 2026 00:24:13 +0800"
     },
     {
@@ -29,6 +57,13 @@
       "text": "Opposition MP hurls eggs at Kosovo Prime Minister",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
       "date": "Sat, 08 Aug 2026 16:09:06 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+      "link": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
+      "date": "Sat, 08 Aug 2026 16:05:27 GMT"
     },
     {
       "src": "BBC World",
@@ -66,13 +101,6 @@
       "date": "Sat, 08 Aug 2026 15:49:41 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 15:44:08 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
@@ -92,6 +120,13 @@
       "text": "Aprilia&#039;s Martin extends championship lead with British GP sprint win",
       "link": "https://www.channelnewsasia.com/sport/aprilias-martin-extends-championship-lead-british-gp-sprint-win-6307776",
       "date": "Sat, 08 Aug 2026 23:40:35 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian strikes kill four as Kyiv hits oil refinery",
+      "link": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
+      "date": "Sat, 08 Aug 2026 15:29:49 GMT"
     },
     {
       "src": "BBC World",
@@ -129,13 +164,6 @@
       "date": "Sat, 08 Aug 2026 22:36:49 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi’s father dies aged 68 after a long illness",
-      "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 14:25:38 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -143,18 +171,18 @@
       "date": "Sat, 08 Aug 2026 14:25:19 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "War on Iran: Phase II: Day 28",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 14:09:02 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Father of football star Lionel Messi dies at 68 in Argentina",
       "link": "https://www.channelnewsasia.com/sport/lionel-messi-father-jorge-dies-68-6307711",
       "date": "Sat, 08 Aug 2026 21:53:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
+      "link": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
+      "date": "Sat, 08 Aug 2026 13:45:09 GMT"
     },
     {
       "src": "CNA",
@@ -185,6 +213,13 @@
       "date": "Sat, 08 Aug 2026 21:14:00 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian attacks kill several in Ukraine",
+      "link": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
+      "date": "Sat, 08 Aug 2026 13:12:48 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan",
@@ -192,11 +227,32 @@
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
+      "link": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
+      "date": "Sat, 08 Aug 2026 12:54:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+      "date": "Sat, 08 Aug 2026 12:52:36 GMT"
+    },
+    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "For Brazil’s Indigenous youth, visibility is resistance",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
       "date": "Sat, 08 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France looks up for night of stars",
+      "link": "https://www.france24.com/en/video/20260808-france-looks-up-for-night-of-stars",
+      "date": "Sat, 08 Aug 2026 10:39:12 GMT"
     },
     {
       "src": "RFI",
