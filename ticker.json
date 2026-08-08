@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-08T22:15:32.399Z",
-  "count": 68,
+  "updated": "2026-08-08T22:52:58.731Z",
+  "count": 52,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 22:22:36 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture",
+      "link": "https://www.channelnewsasia.com/people/singapore-designer-faezah-shaharuddin-studio-kallang-furniture-6300731",
+      "date": "Sun, 09 Aug 2026 06:15:00 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -29,6 +43,13 @@
       "text": "Spain starts border checks on Italy after migrant row",
       "link": "https://www.channelnewsasia.com/world/spain-starts-border-checks-italy-after-migrant-row-6307921",
       "date": "Sun, 09 Aug 2026 05:39:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Narrow win for South Africa over Argentina in gritty clash",
+      "link": "https://www.channelnewsasia.com/sport/narrow-win-south-africa-over-argentina-in-gritty-clash-6307946",
+      "date": "Sun, 09 Aug 2026 05:37:34 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -59,11 +80,11 @@
       "date": "Sat, 08 Aug 2026 20:18:28 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
-      "link": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
-      "date": "Sat, 08 Aug 2026 19:48:21 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Algeria, Morocco seal Women’s World Cup qualification",
+      "link": "https://www.channelnewsasia.com/sport/algeria-morocco-seal-womens-world-cup-qualification-6307871",
+      "date": "Sun, 09 Aug 2026 03:48:27 +0800"
     },
     {
       "src": "BBC World",
@@ -108,27 +129,6 @@
       "date": "Sat, 08 Aug 2026 18:55:20 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hamas says still ready to go ahead with Gaza plan",
-      "link": "https://www.channelnewsasia.com/world/hamas-says-still-ready-go-ahead-gaza-plan-6307846",
-      "date": "Sun, 09 Aug 2026 02:55:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-      "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 18:43:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ukraine warns of tough winter as Russia strikes kill 4 in Kyiv region",
-      "link": "https://www.channelnewsasia.com/world/ukraine-warns-tough-winter-russia-strikes-kill-4-in-kyiv-region-6307831",
-      "date": "Sun, 09 Aug 2026 02:13:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
@@ -141,27 +141,6 @@
       "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 08 Aug 2026 17:23:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain imposes border checks on Italian travellers amid migrant dispute",
-      "link": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
-      "date": "Sat, 08 Aug 2026 17:07:07 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win",
-      "link": "https://www.channelnewsasia.com/sport/vollering-snatches-overall-lead-in-tour-de-france-femmes-dramatic-stage-eight-win-6307806",
-      "date": "Sun, 09 Aug 2026 00:24:13 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
-      "link": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
-      "date": "Sat, 08 Aug 2026 16:05:27 GMT"
     },
     {
       "src": "BBC World",
@@ -192,13 +171,6 @@
       "date": "Sat, 08 Aug 2026 15:41:47 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian strikes kill four as Kyiv hits oil refinery",
-      "link": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
-      "date": "Sat, 08 Aug 2026 15:29:49 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Thousands evacuated as huge wildfire spreads in Canada",
@@ -213,46 +185,11 @@
       "date": "Sat, 08 Aug 2026 14:25:19 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
-      "link": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
-      "date": "Sat, 08 Aug 2026 13:45:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian attacks kill several in Ukraine",
-      "link": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
-      "date": "Sat, 08 Aug 2026 13:12:48 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Irish government jet flies to Dubai to extradite alleged crime boss Daniel Kinahan",
       "link": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
-      "link": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
-      "date": "Sat, 08 Aug 2026 12:54:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-      "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-      "date": "Sat, 08 Aug 2026 12:52:36 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "For Brazil’s Indigenous youth, visibility is resistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -367,41 +304,6 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -449,20 +351,6 @@
       "text": "Top Ugandan footballer killed by robbers armed with paving stones",
       "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
