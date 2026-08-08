@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T22:52:58.731Z",
-  "count": 52,
+  "updated": "2026-08-08T23:16:24.277Z",
+  "count": 60,
   "items": [
     {
       "src": "Al Jazeera",
@@ -87,6 +87,13 @@
       "date": "Sun, 09 Aug 2026 03:48:27 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "link": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
+      "date": "Sat, 08 Aug 2026 19:48:21 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -143,6 +150,20 @@
       "date": "Sat, 08 Aug 2026 17:23:31 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain imposes border checks on Italian travellers amid migrant dispute",
+      "link": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
+      "date": "Sat, 08 Aug 2026 17:07:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+      "link": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
+      "date": "Sat, 08 Aug 2026 16:05:27 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
@@ -171,6 +192,13 @@
       "date": "Sat, 08 Aug 2026 15:41:47 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian strikes kill four as Kyiv hits oil refinery",
+      "link": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
+      "date": "Sat, 08 Aug 2026 15:29:49 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Thousands evacuated as huge wildfire spreads in Canada",
@@ -185,11 +213,39 @@
       "date": "Sat, 08 Aug 2026 14:25:19 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
+      "link": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
+      "date": "Sat, 08 Aug 2026 13:45:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian attacks kill several in Ukraine",
+      "link": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
+      "date": "Sat, 08 Aug 2026 13:12:48 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Irish government jet flies to Dubai to extradite alleged crime boss Daniel Kinahan",
       "link": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
+      "link": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
+      "date": "Sat, 08 Aug 2026 12:54:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+      "date": "Sat, 08 Aug 2026 12:52:36 GMT"
     },
     {
       "src": "RFI",
