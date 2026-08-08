@@ -1,13 +1,27 @@
 {
-  "updated": "2026-08-08T17:26:59.002Z",
-  "count": 69,
+  "updated": "2026-08-08T17:54:42.707Z",
+  "count": 60,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+      "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 17:26:59 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 08 Aug 2026 17:23:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+      "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 17:14:09 +0000"
     },
     {
       "src": "France 24",
@@ -143,20 +157,6 @@
       "date": "Sat, 08 Aug 2026 16:10:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 15:01:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 14:58:42 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Moismane set for second spell as South Africa coach",
@@ -239,13 +239,6 @@
       "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
       "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
       "date": "Sat, 08 Aug 2026 12:52:36 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "For Brazil’s Indigenous youth, visibility is resistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "France 24",
@@ -367,41 +360,6 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -449,27 +407,6 @@
       "text": "Top Ugandan footballer killed by robbers armed with paving stones",
       "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Boxer charged with killing UK aid worker and dumping body in suitcase",
-      "link": "https://news.sky.com/story/man-accused-of-killing-scottish-aid-worker-in-athens-back-in-court-13570253",
-      "date": "Thu, 06 Aug 2026 07:48:00 +0100"
     },
     {
       "src": "RFI",
