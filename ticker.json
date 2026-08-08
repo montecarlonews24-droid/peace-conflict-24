@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-08T09:59:55.776Z",
+  "updated": "2026-08-08T10:32:39.980Z",
   "count": 68,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Turkey's new opposition party offers hope, but its future is already in jeopardy",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260808-turkey-s-new-opposition-party-offers-hope-but-its-future-is-already-in-jeopardy",
+      "date": "Sat, 08 Aug 2026 10:20:56 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 10:19:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US scientists turn to sharks for help with hurricane prediction",
+      "link": "https://www.france24.com/en/science/20260808-sharks-tapped-help-with-hurricane-prediction",
+      "date": "Sat, 08 Aug 2026 10:17:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
+      "link": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 10:10:13 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -101,13 +129,6 @@
       "date": "Sat, 08 Aug 2026 08:30:50 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
-      "link": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
-      "date": "Sat, 08 Aug 2026 08:26:53 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
@@ -169,13 +190,6 @@
       "text": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
       "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
       "date": "Sat, 08 Aug 2026 06:03:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-      "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 05:45:58 +0000"
     },
     {
       "src": "The Guardian",
@@ -318,18 +332,25 @@
       "date": "Fri, 07 Aug 2026 15:01:33 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 07 Aug 2026 14:20:27 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Latin America’s Second Pink Tide Recedes",
       "link": "https://foreignpolicy.com/2026/08/07/latin-america-second-pink-tide-legacy-left-wing-leaders/",
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -430,20 +451,6 @@
       "date": "Thu, 06 Aug 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168090",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Warnings of famine and collapse as South Sudan&#039;s peace deal frays",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168089",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Boxer charged with killing UK aid worker and dumping body in suitcase",
@@ -470,13 +477,6 @@
       "text": "France announces further investment to combat drug trafficking in Guiana",
       "link": "https://www.rfi.fr/en/international/20260805-france-announces-further-investment-to-combat-drug-trafficking-in-guiana",
       "date": "Wed, 05 Aug 2026 08:54:48 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Kremlin critic leaves Moscow for Paris after ban from running for election",
-      "link": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
-      "date": "Wed, 05 Aug 2026 06:06:02 GMT"
     }
   ]
 }
