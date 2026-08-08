@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-08T15:17:10.497Z",
+  "updated": "2026-08-08T15:52:29.104Z",
   "count": 60,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 15:51:11 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 15:49:41 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Spain begins border checks on travellers from Italy amid migration showdown",
+      "link": "https://www.rfi.fr/en/international/20260808-spain-begins-border-checks-on-travellers-from-italy-amid-migration-showdown-europe",
+      "date": "Sat, 08 Aug 2026 15:41:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Aprilia&#039;s Martin extends championship lead with British GP sprint win",
+      "link": "https://www.channelnewsasia.com/sport/aprilias-martin-extends-championship-lead-british-gp-sprint-win-6307776",
+      "date": "Sat, 08 Aug 2026 23:40:35 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -117,13 +145,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 13:29:38 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 08 Aug 2026 13:23:16 GMT"
@@ -176,20 +197,6 @@
       "text": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
       "date": "Sat, 08 Aug 2026 12:52:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
-      "link": "https://www.channelnewsasia.com/world/iran-deal-strait-hormuz-close-6307616",
-      "date": "Sat, 08 Aug 2026 20:51:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "NBA forward Clarke's death due to effects of drugs",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 12:05:04 GMT"
     },
     {
       "src": "France 24",
@@ -414,13 +421,6 @@
       "text": "Jordan warns status quo in Jerusalem 'under threat' as ministers meet in Amman",
       "link": "https://www.rfi.fr/en/international/20260805-jordan-warns-status-quo-in-jerusalem-under-threat-as-ministers-meet-in-amman",
       "date": "Wed, 05 Aug 2026 15:07:34 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France announces further investment to combat drug trafficking in Guiana",
-      "link": "https://www.rfi.fr/en/international/20260805-france-announces-further-investment-to-combat-drug-trafficking-in-guiana",
-      "date": "Wed, 05 Aug 2026 08:54:48 GMT"
     }
   ]
 }
