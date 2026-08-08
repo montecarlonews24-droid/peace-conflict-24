@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-08T20:54:06.609Z",
-  "count": 60,
+  "updated": "2026-08-08T21:18:07.411Z",
+  "count": 68,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump’s Former Lawyer Is Now Attorney General",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+      "date": "Sat, 08 Aug 2026 21:04:54 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -106,13 +113,6 @@
       "text": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 08 Aug 2026 17:58:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-      "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 17:26:59 +0000"
     },
     {
       "src": "BBC World",
@@ -229,7 +229,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Irish government jet en route to Dubai to extradite alleged crime boss Daniel Kinahan",
+      "text": "Irish government jet flies to Dubai to extradite alleged crime boss Daniel Kinahan",
       "link": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
     },
@@ -246,6 +246,13 @@
       "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
       "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
       "date": "Sat, 08 Aug 2026 12:52:36 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "For Brazil’s Indigenous youth, visibility is resistance",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
+      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -360,6 +367,41 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -407,6 +449,20 @@
       "text": "Top Ugandan footballer killed by robbers armed with paving stones",
       "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
+      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
+      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
