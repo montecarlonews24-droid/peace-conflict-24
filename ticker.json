@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-09T10:01:41.739Z",
-  "count": 68,
+  "updated": "2026-08-09T10:58:21.171Z",
+  "count": 61,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 10:30:11 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 10:15:10 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds",
+      "link": "https://www.channelnewsasia.com/business/three-in-five-americans-favor-stronger-oversight-social-media-companies-reutersipsos-poll-finds-6308356",
+      "date": "Sun, 09 Aug 2026 18:03:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 10:02:59 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 10:02:52 GMT"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -80,13 +115,6 @@
       "date": "Sun, 09 Aug 2026 16:56:00 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 09 Aug 2026 08:50:14 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Women’s Day in South Africa turns 70 with equality still out of reach",
@@ -143,25 +171,11 @@
       "date": "Sun, 09 Aug 2026 15:30:15 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World number one Sabalenka upset by Alexandrova at Canadian Open",
-      "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 07:10:56 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
       "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
       "date": "Sun, 09 Aug 2026 07:00:08 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel announces tender for 627 settler units in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 06:57:56 +0000"
     },
     {
       "src": "CNA",
@@ -185,25 +199,18 @@
       "date": "Sun, 09 Aug 2026 14:45:27 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Surfing-Wildcard Kelly Slater stars as Tahiti Pro kicks off in unruly surf",
-      "link": "https://www.channelnewsasia.com/sport/surfing-wildcard-kelly-slater-stars-tahiti-pro-kicks-in-unruly-surf-6308251",
-      "date": "Sun, 09 Aug 2026 14:21:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Wildfire forces thousands of evacuations in Western Canada",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 06:10:08 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 00:15:28 GMT"
     },
     {
       "src": "BBC World",
@@ -241,13 +248,6 @@
       "date": "Sat, 08 Aug 2026 15:56:39 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Messi's father Jorge dies aged 68 after illness",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 15:51:11 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Spain begins border checks on travellers from Italy amid migration showdown",
@@ -267,13 +267,6 @@
       "text": "Irish government jet flies to Dubai to extradite alleged crime boss Daniel Kinahan",
       "link": "https://news.sky.com/story/irish-government-jet-en-route-to-dubai-to-fetch-alleged-crime-boss-daniel-kinahan-13570966",
       "date": "Sat, 08 Aug 2026 14:11:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "For Brazil’s Indigenous youth, visibility is resistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -374,41 +367,6 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
-      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -458,25 +416,18 @@
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Why has Ukraine's former military chief given up on NATO membership?",
       "link": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
       "date": "Wed, 05 Aug 2026 18:54:49 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Europe's first total solar eclipse in almost 30 years: What you need to know",
+      "link": "https://news.sky.com/story/europes-first-total-solar-eclipse-in-almost-30-years-what-you-need-to-know-13560160",
+      "date": "Fri, 10 Jul 2026 14:30:00 +0100"
     }
   ]
 }
