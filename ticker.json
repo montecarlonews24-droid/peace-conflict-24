@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-09T20:58:37.525Z",
+  "updated": "2026-08-09T21:27:35.535Z",
   "count": 60,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 21:25:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Helsinki, one beautiful building at a time",
+      "link": "https://www.channelnewsasia.com/experiences/helsinki-art-nouveau-architecture-guide-6302816",
+      "date": "Mon, 10 Aug 2026 05:19:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pope Leo renews call for Ukraine war to end",
+      "link": "https://www.channelnewsasia.com/world/pope-leo-renews-call-ukraine-war-end-6308751",
+      "date": "Mon, 10 Aug 2026 05:06:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 20:58:18 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,18 +38,18 @@
       "date": "Mon, 10 Aug 2026 04:51:11 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 20:40:25 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Lionel Messi bids farewell to father who guided his glittering career",
       "link": "https://www.channelnewsasia.com/world/lionel-messi-bids-farewell-father-who-guided-his-glittering-career-6308736",
       "date": "Mon, 10 Aug 2026 04:15:59 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran vows to keep Strait of Hormuz closed until US meets demands",
-      "link": "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands",
-      "date": "Sun, 09 Aug 2026 20:14:34 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -108,34 +136,6 @@
       "date": "Mon, 10 Aug 2026 01:24:08 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Wildfire rages in southern France, forcing evacuations",
-      "link": "https://www.france24.com/en/france/20260809-wildfire-rages-in-southern-france-forcing-evacuations",
-      "date": "Sun, 09 Aug 2026 17:21:52 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England defender Chalobah joins Como from Chelsea",
-      "link": "https://www.channelnewsasia.com/sport/england-defender-chalobah-joins-como-chelsea-6308661",
-      "date": "Mon, 10 Aug 2026 01:21:44 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sinner withdraws from Cincinnati Open with knee injury ahead of US Open",
-      "link": "https://www.channelnewsasia.com/sport/sinner-withdraws-cincinnati-open-knee-injury-ahead-us-open-6308641",
-      "date": "Mon, 10 Aug 2026 01:07:21 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Demi Vollering wins second Women’s Tour de France title",
-      "link": "https://www.france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title",
-      "date": "Sun, 09 Aug 2026 17:04:49 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
@@ -152,30 +152,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Puerto Rico rations water supplies due to intense drought",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 09 Aug 2026 16:43:23 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Wildfires in Albania and Spain cause hundreds to evacuate",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 16:41:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Drones spotted over German base days after Leipzig bomb incident",
       "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 09 Aug 2026 16:18:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Syria, Russia agree to end military use of key Mediterranean bases",
-      "link": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
-      "date": "Sun, 09 Aug 2026 15:58:21 GMT"
     },
     {
       "src": "BBC World",
@@ -183,41 +162,6 @@
       "text": "Ecuador charges ex-minister over presidential candidate assassination case",
       "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 09 Aug 2026 15:34:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran sets tough terms to reopen Strait of Hormuz",
-      "link": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
-      "date": "Sun, 09 Aug 2026 14:59:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
-      "link": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
-      "date": "Sun, 09 Aug 2026 14:58:11 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 09 Aug 2026 14:18:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russia and Ukraine exchange deadly overnight strikes",
-      "link": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes",
-      "date": "Sun, 09 Aug 2026 13:22:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel, US spar over Gaza withdrawal",
-      "link": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
-      "date": "Sun, 09 Aug 2026 13:20:42 GMT"
     },
     {
       "src": "RFI",
@@ -281,6 +225,13 @@
       "text": "Thousands evacuated as huge wildfire spreads in Canada",
       "link": "https://news.sky.com/story/thousands-evacuated-as-huge-wildfire-spreads-in-canada-13571032",
       "date": "Sat, 08 Aug 2026 16:10:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "For Brazil’s Indigenous youth, visibility is resistance",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
+      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -374,6 +325,41 @@
       "date": "Fri, 07 Aug 2026 12:00:51 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Food prices edged up in July amid heatwaves and energy price hikes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is Iran Winning the Battle Over the Strait of Hormuz?",
@@ -414,6 +400,20 @@
       "text": "Top Ugandan footballer killed by robbers armed with paving stones",
       "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "date": "Thu, 06 Aug 2026 14:30:32 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
+      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
+      "date": "Thu, 06 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
