@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-09T15:25:28.564Z",
-  "count": 61,
+  "updated": "2026-08-09T15:54:27.944Z",
+  "count": 69,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "War on Iran: Phase II: Day 29",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 15:46:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Syria says reached deal with Moscow on fate of Russian bases",
+      "link": "https://www.channelnewsasia.com/world/syria-russia-military-bases-agreement-6308561",
+      "date": "Sun, 09 Aug 2026 23:40:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pentagon urges faster US weapons production amid stockpile concerns",
+      "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 15:38:56 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 15:34:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fire in southwestern Spain active as 470 moved to safety",
+      "link": "https://www.channelnewsasia.com/world/spain-wildfire-active-evacuations-huelva-6308556",
+      "date": "Sun, 09 Aug 2026 23:31:18 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 15:25:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Concerns mount over integrity of Israel’s upcoming October elections",
+      "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 15:20:18 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran sets tough terms to reopen Strait of Hormuz",
+      "link": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
+      "date": "Sun, 09 Aug 2026 14:59:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
+      "link": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
+      "date": "Sun, 09 Aug 2026 14:58:11 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -45,13 +108,6 @@
       "date": "Sun, 09 Aug 2026 14:20:51 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump targets birthright citizenship again",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 14:20:31 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -66,25 +122,25 @@
       "date": "Sun, 09 Aug 2026 22:15:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-      "link": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 13:54:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
-      "link": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 13:53:53 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Netanyahu rejects Gaza plan, in new break from Trump",
       "link": "https://www.channelnewsasia.com/world/israel-netanyahu-rejects-us-gaza-plan-hamas-trump-6308466",
       "date": "Sun, 09 Aug 2026 21:45:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia and Ukraine exchange deadly overnight strikes",
+      "link": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes",
+      "date": "Sun, 09 Aug 2026 13:22:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel, US spar over Gaza withdrawal",
+      "link": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
+      "date": "Sun, 09 Aug 2026 13:20:42 GMT"
     },
     {
       "src": "BBC World",
@@ -99,6 +155,13 @@
       "text": "Netanyahu rejects Gaza plan in new break from Trump",
       "link": "https://www.rfi.fr/en/international/20260809-netanyahu-rejects-gaza-plan-in-new-break-from-trump",
       "date": "Sun, 09 Aug 2026 13:00:27 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: Summer wildfires, a Thai school shooting and the Tour de France Femmes",
+      "link": "https://www.france24.com/en/europe/20260809-the-week-in-pictures-summer-wildfires-thai-school-shooting-tour-de-france-femmes",
+      "date": "Sun, 09 Aug 2026 13:00:19 GMT"
     },
     {
       "src": "CNA",
@@ -122,6 +185,27 @@
       "date": "Sun, 09 Aug 2026 12:27:26 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Blast wounds two as de la Espriella cracks down on prisons",
+      "link": "https://www.france24.com/en/blast-wounds-two-as-de-la-espriella-cracks-down-on-prisons",
+      "date": "Sun, 09 Aug 2026 11:36:54 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France faces reckoning on child abuse",
+      "link": "https://www.france24.com/en/france-faces-reckoning-on-child-abuse",
+      "date": "Sun, 09 Aug 2026 11:34:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran, Oman near deal on Strait of Hormuz",
+      "link": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
+      "date": "Sun, 09 Aug 2026 11:33:01 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Netanyahu rejects Trump's Board of Peace plan for Gaza",
@@ -141,20 +225,6 @@
       "text": "Highlights: Fireworks and fanfare for NDP 2026 at the National Stadium",
       "link": "https://www.channelnewsasia.com/singapore/ndp-2026-national-stadium-watch-live-6300301",
       "date": "Sun, 09 Aug 2026 17:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Taiwan&#039;s 2027 defence spending to rise 16%: Official media reports",
-      "link": "https://www.channelnewsasia.com/east-asia/taiwans-2027-defence-spending-rise-16-official-media-reports-6308326",
-      "date": "Sun, 09 Aug 2026 16:56:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Carrick cautious after Mount&#039;s injury scare in PSG friendly",
-      "link": "https://www.channelnewsasia.com/sport/carrick-cautious-after-mounts-injury-scare-in-psg-friendly-6308316",
-      "date": "Sun, 09 Aug 2026 16:16:34 +0800"
     },
     {
       "src": "RFI",
@@ -190,20 +260,6 @@
       "text": "FIFA attacks critics trying to 'undermine' Gianni Infantino",
       "link": "https://news.sky.com/story/fifa-attacks-critics-trying-to-undermine-gianni-infantino-13571263",
       "date": "Sun, 09 Aug 2026 00:42:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Fifa criticises campaign to oust president Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 22:06:44 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 19:18:57 GMT"
     },
     {
       "src": "RFI",
