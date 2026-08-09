@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-09T04:08:20.822Z",
+  "updated": "2026-08-09T05:27:25.457Z",
   "count": 68,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran issues new demands as Pezeshkian seeks deal",
+      "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 05:06:02 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 05:01:54 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Iran issues list of demands for reopening Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
+      "date": "Sun, 09 Aug 2026 05:01:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Jaissle begins Newcastle rebuild with Valencia win, Elanga scare not serious",
+      "link": "https://www.channelnewsasia.com/sport/jaissle-begins-newcastle-rebuild-valencia-win-elanga-scare-not-serious-6308166",
+      "date": "Sun, 09 Aug 2026 12:35:04 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;Near collision&#039; at Sydney Airport triggers investigation",
+      "link": "https://www.channelnewsasia.com/world/near-collision-sydney-airport-triggers-investigation-6308136",
+      "date": "Sun, 09 Aug 2026 12:34:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Car bomb hits Colombia highway day after new president sworn in",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 04:32:32 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Perez Hilton faces long recovery after self-harm livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran issues demands for reopening of Hormuz",
+      "link": "https://www.channelnewsasia.com/world/iran-issue-demands-strait-hormuz-6308141",
+      "date": "Sun, 09 Aug 2026 12:24:25 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 04:12:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ghana’s cashew apples get a second life",
+      "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
+      "date": "Sun, 09 Aug 2026 04:07:39 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -45,18 +115,25 @@
       "date": "Sun, 09 Aug 2026 08:15:41 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "date": "Sun, 09 Aug 2026 00:00:00 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 09 Aug 2026 00:15:28 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkiye says Mecca defence pact not aimed at Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 23:59:15 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hundreds arrested over French wildfires, but who is to blame?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 23:59:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 08 Aug 2026 23:43:44 GMT"
     },
     {
       "src": "Sky News",
@@ -73,60 +150,11 @@
       "date": "Sun, 09 Aug 2026 07:29:43 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 23:27:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-      "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 23:19:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-      "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-      "date": "Sat, 08 Aug 2026 23:09:30 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Singapore designer Faezah Shaharuddin is taking Malay cultural references to the world through furniture",
       "link": "https://www.channelnewsasia.com/people/singapore-designer-faezah-shaharuddin-studio-kallang-furniture-6300731",
       "date": "Sun, 09 Aug 2026 06:15:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chief Justice Sundaresh Menon, former CPA chairman Eddie Teo receive Singapore&#039;s highest civilian honour",
-      "link": "https://www.channelnewsasia.com/singapore/national-day-awards-sundaresh-menon-eddie-teo-order-temasek-6300406",
-      "date": "Sun, 09 Aug 2026 06:01:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Who needs consultants in the age of AI?",
-      "link": "https://www.channelnewsasia.com/commentary/consultants-ai-transform-consultancy-job-disrupt-6305821",
-      "date": "Sun, 09 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From trackside shacks to new homes, Jakarta families weigh what comes next",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-train-railways-residents-jakarta-6282221",
-      "date": "Sun, 09 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 20:18:28 GMT"
     },
     {
       "src": "France 24",
@@ -150,13 +178,6 @@
       "date": "Sat, 08 Aug 2026 17:58:42 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 17:23:31 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Spain imposes border checks on Italian travellers amid migrant dispute",
@@ -169,13 +190,6 @@
       "text": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
       "link": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
       "date": "Sat, 08 Aug 2026 16:05:27 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 15:59:37 GMT"
     },
     {
       "src": "BBC World",
@@ -213,13 +227,6 @@
       "date": "Sat, 08 Aug 2026 16:10:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 08 Aug 2026 14:25:19 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
@@ -246,13 +253,6 @@
       "text": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
       "link": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
       "date": "Sat, 08 Aug 2026 12:54:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-      "link": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-      "date": "Sat, 08 Aug 2026 12:52:36 GMT"
     },
     {
       "src": "UN News",
