@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-10T17:14:58.171Z",
-  "count": 64,
+  "updated": "2026-08-10T18:09:30.007Z",
+  "count": 72,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "date": "Mon, 10 Aug 2026 18:00:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
+      "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 17:51:18 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 10 Aug 2026 17:50:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK radio broke rules in announcing king&#039;s death: watchdog",
+      "link": "https://www.channelnewsasia.com/world/uk-radio-broke-rules-in-announcing-kings-death-watchdog-6310371",
+      "date": "Tue, 11 Aug 2026 01:50:12 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia bars only anti-war party from elections",
+      "link": "https://www.france24.com/en/live-news/20260810-russia-bars-only-anti-war-party-from-elections",
+      "date": "Mon, 10 Aug 2026 17:49:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
+      "link": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company",
+      "date": "Mon, 10 Aug 2026 17:47:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Liverpool bolster injury-hit defence with loan signing of Barca&#039;s Araujo",
+      "link": "https://www.channelnewsasia.com/sport/liverpool-bolster-injury-hit-defence-loan-signing-barcas-araujo-6310391",
+      "date": "Tue, 11 Aug 2026 01:42:48 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinian club football to restart in September after Gaza war suspension",
+      "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 17:30:36 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Ukrainians Are Trying to Help a Traumatized Generation",
+      "link": "https://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/",
+      "date": "Mon, 10 Aug 2026 17:26:14 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "More than 70 dead after powerful earthquake strikes western Colombia",
+      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "date": "Mon, 10 Aug 2026 17:10:54 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -19,7 +89,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+      "text": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
       "date": "Mon, 10 Aug 2026 17:00:41 +0000"
     },
@@ -43,20 +113,6 @@
       "text": "🔴 Live: At least 47 killed after powerful quake rattles Colombia",
       "link": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
       "date": "Mon, 10 Aug 2026 16:47:20 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
-      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "date": "Mon, 10 Aug 2026 16:47:19 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "At least 47 dead as powerful earthquake strikes western Colombia",
-      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "date": "Mon, 10 Aug 2026 16:40:12 GMT"
     },
     {
       "src": "CNA",
@@ -89,8 +145,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US appeals court allows thousands of lawsuits against social media companies over user addiction claims to proceed",
-      "link": "https://www.channelnewsasia.com/business/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-user-addiction-claims-proceed-6310301",
+      "text": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction",
+      "link": "https://www.channelnewsasia.com/business/us-court-rules-meta-other-tech-companies-must-face-thousands-lawsuits-over-social-media-addiction-6310301",
       "date": "Tue, 11 Aug 2026 00:13:41 +0800"
     },
     {
@@ -115,25 +171,11 @@
       "date": "Tue, 11 Aug 2026 00:03:08 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-      "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 16:01:06 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "In Malaysia, wave of hate speech threatens Rohingya refugees",
       "link": "https://www.france24.com/en/asia-pacific/20260810-in-malaysia-wave-of-hate-speech-threatens-rohingya-refugees",
       "date": "Mon, 10 Aug 2026 15:58:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 15:51:26 +0000"
     },
     {
       "src": "CNA",
@@ -178,34 +220,6 @@
       "date": "Mon, 10 Aug 2026 15:21:27 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Days of heavy rain leave at least 16 dead in Philippines",
-      "link": "https://www.channelnewsasia.com/asia/philippines-heavy-rain-floods-landslides-16-dead-6310201",
-      "date": "Mon, 10 Aug 2026 23:19:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trial opens for ex-gang leader charged with Tupac Shakur's 1996 murder",
-      "link": "https://www.france24.com/en/video/20260810-trial-opens-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder",
-      "date": "Mon, 10 Aug 2026 15:15:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia",
-      "link": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
-      "date": "Mon, 10 Aug 2026 15:09:05 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "All Blacks look to iron out weaknesses in second game on South Africa tour",
-      "link": "https://www.channelnewsasia.com/sport/all-blacks-look-iron-out-weaknesses-in-second-game-south-africa-tour-6310196",
-      "date": "Mon, 10 Aug 2026 23:04:42 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -225,6 +239,27 @@
       "text": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 10 Aug 2026 12:23:21 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168104",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN calls for urgent action to protect children from online information risks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168103",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Humanitarian aid warehouses come under attack in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168102",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -290,13 +325,6 @@
       "date": "Mon, 10 Aug 2026 08:58:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "China evacuates one million from homes as massive storm arrives",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 07:23:54 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "British couple jailed in Iran end hunger strike after several months, family says",
@@ -346,6 +374,13 @@
       "date": "Sun, 09 Aug 2026 13:00:27 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168093",
+      "date": "Sun, 09 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Netanyahu rejects Trump's Board of Peace plan for Gaza",
@@ -365,6 +400,13 @@
       "text": "Spain begins border checks on travellers from Italy amid migration showdown",
       "link": "https://www.rfi.fr/en/international/20260808-spain-begins-border-checks-on-travellers-from-italy-amid-migration-showdown-europe",
       "date": "Sat, 08 Aug 2026 15:41:47 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "For Brazil’s Indigenous youth, visibility is resistance",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
+      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -423,11 +465,25 @@
       "date": "Fri, 07 Aug 2026 18:20:08 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "An ‘Odyssey,’ From a Dog’s Perspective",
-      "link": "https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/",
-      "date": "Fri, 07 Aug 2026 18:00:10 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Peacock party takes pride of place in nod to decades of turbulent history",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
+      "date": "Fri, 07 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
