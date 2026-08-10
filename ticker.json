@@ -1,13 +1,104 @@
 {
-  "updated": "2026-08-10T21:07:44.382Z",
-  "count": 72,
+  "updated": "2026-08-10T22:03:38.488Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "PTPA cites player workload concerns after Canadian Open withdrawals",
+      "link": "https://www.channelnewsasia.com/sport/ptpa-cites-player-workload-concerns-after-canadian-open-withdrawals-6310656",
+      "date": "Tue, 11 Aug 2026 05:53:15 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:48:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Drought forces water restrictions across nearly 70% of France",
+      "link": "https://www.channelnewsasia.com/world/france-drought-water-restrictions-heatwave-6310641",
+      "date": "Tue, 11 Aug 2026 05:46:44 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Turkey's parliament passes limited amnesty law for Kurdish PKK militants",
+      "link": "https://www.france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants",
+      "date": "Mon, 10 Aug 2026 21:36:10 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 10 Aug 2026 21:33:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Europe braces for another heatwave after record-breaking temperatures",
+      "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:29:32 +0000"
+    },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "date": "Mon, 10 Aug 2026 20:52:18 GMT"
+      "date": "Mon, 10 Aug 2026 21:27:13 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Global stocks mixed while oil prices jump on Hormuz",
+      "link": "https://www.channelnewsasia.com/world/stocks-mixed-market-oil-prices-hormuz-6310596",
+      "date": "Tue, 11 Aug 2026 05:20:20 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+      "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:15:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+      "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:14:16 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 10 Aug 2026 21:06:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+      "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:03:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US appeals court says social media addiction lawsuits can proceed",
+      "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 21:02:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump to demand compensation for Tehran’s ‘conflicts’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+      "date": "Mon, 10 Aug 2026 20:55:21 +0000"
     },
     {
       "src": "CNA",
@@ -38,32 +129,11 @@
       "date": "Tue, 11 Aug 2026 04:21:31 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 20:16:34 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Russia bars only party opposing war in Ukraine from parliamentary vote",
       "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
       "date": "Mon, 10 Aug 2026 19:47:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump administration has revoked over 175,000 visas: US State Department",
-      "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 19:46:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 19:30:29 +0000"
     },
     {
       "src": "BBC World",
@@ -80,20 +150,6 @@
       "date": "Mon, 10 Aug 2026 19:14:40 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Migrant children go days without food in Ceuta amid asylum crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 19:08:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "111 dead after Colombia quakes leave trail of destruction",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 18:51:02 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "German killer nurse probed over dozens more deaths",
@@ -101,39 +157,11 @@
       "date": "Tue, 11 Aug 2026 02:47:56 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 18:37:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu’s veto and the limits of American power",
-      "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 18:35:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-      "date": "Mon, 10 Aug 2026 18:34:25 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Albania&#039;s Djimsiti joins Saudi side Diriyah",
       "link": "https://www.channelnewsasia.com/sport/albanias-djimsiti-joins-saudi-side-diriyah-6310456",
       "date": "Tue, 11 Aug 2026 02:29:57 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "New train service connects Finland and Sweden for first time in decades",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 18:28:11 GMT"
     },
     {
       "src": "The Guardian",
@@ -171,32 +199,11 @@
       "date": "Mon, 10 Aug 2026 17:47:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool bolster injury-hit defence with loan signing of Barca&#039;s Araujo",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-bolster-injury-hit-defence-loan-signing-barcas-araujo-6310391",
-      "date": "Tue, 11 Aug 2026 01:42:48 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Ukrainians Are Trying to Help a Traumatized Generation",
       "link": "https://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/",
       "date": "Mon, 10 Aug 2026 17:26:14 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Germany boosts police anti-drone unit after airport incident",
-      "link": "https://www.channelnewsasia.com/world/germany-boosts-police-anti-drone-unit-after-airport-incident-6310326",
-      "date": "Tue, 11 Aug 2026 01:08:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Forest owner Marinakis sues Crystal Palace after provocative fan banner",
-      "link": "https://www.channelnewsasia.com/sport/forest-owner-marinakis-sues-crystal-palace-after-provocative-fan-banner-6310346",
-      "date": "Tue, 11 Aug 2026 00:57:25 +0800"
     },
     {
       "src": "BBC World",
@@ -227,13 +234,6 @@
       "date": "Mon, 10 Aug 2026 15:58:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "India: Students clash with police over exam leaks",
-      "link": "https://www.france24.com/en/video/20260810-india-students-clash-with-police-over-exam-leaks",
-      "date": "Mon, 10 Aug 2026 15:41:47 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Iran says ‘Muslim Nato’ pact reflects retreat from US security umbrella",
@@ -253,48 +253,6 @@
       "text": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 10 Aug 2026 14:34:25 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168108",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN offers support to Colombia after magnitude 7.4 earthquake kills dozens",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168106",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo: Ebola is killing people before they ever reach a doctor",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168105",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168104",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN calls for urgent action to protect children from online information risks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168103",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Humanitarian aid warehouses come under attack in Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168102",
-      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -402,13 +360,6 @@
       "date": "Sun, 09 Aug 2026 13:00:27 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168093",
-      "date": "Sun, 09 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Netanyahu rejects Trump's Board of Peace plan for Gaza",
@@ -428,13 +379,6 @@
       "text": "Spain begins border checks on travellers from Italy amid migration showdown",
       "link": "https://www.rfi.fr/en/international/20260808-spain-begins-border-checks-on-travellers-from-italy-amid-migration-showdown-europe",
       "date": "Sat, 08 Aug 2026 15:41:47 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "For Brazil’s Indigenous youth, visibility is resistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
-      "date": "Sat, 08 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
