@@ -1,13 +1,90 @@
 {
-  "updated": "2026-08-11T15:46:37.372Z",
+  "updated": "2026-08-11T16:43:46.668Z",
   "count": 64,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
+      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 16:19:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wrexham sign goalkeeper Patterson from Sunderland for reported record fee",
+      "link": "https://www.channelnewsasia.com/sport/wrexham-sign-goalkeeper-patterson-sunderland-reported-record-fee-6312711",
+      "date": "Wed, 12 Aug 2026 00:17:47 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "link": "https://www.france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities",
+      "date": "Tue, 11 Aug 2026 16:15:51 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 16:12:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Drought's impact on the cheese industry",
+      "link": "https://www.france24.com/en/france-drought-s-impact-on-the-cheese-industry",
+      "date": "Tue, 11 Aug 2026 16:10:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lunar Light Festival turns Bulgaria's Black Sea coast into open-air exhibition",
+      "link": "https://www.france24.com/en/lunar-light-festival-turns-bulgaria-s-black-sea-coast-into-open-air-exhibition",
+      "date": "Tue, 11 Aug 2026 16:03:54 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Debanking Dissidents",
+      "link": "https://foreignpolicy.com/2026/08/11/debanking-dissidents-russia-trump-sanctions-terrorism-authoritarianism/",
+      "date": "Tue, 11 Aug 2026 15:54:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hungary elects supreme court judge ousted by Orban as new president",
+      "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 15:50:51 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rwanda: The genocide against the Tutsi",
+      "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 15:49:09 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
       "text": "Russia releases former US Marine reported in poor health",
       "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 15:35:01 GMT"
+      "date": "Tue, 11 Aug 2026 15:47:53 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sunderland to set off on 19-day record bid a year later than planned",
+      "link": "https://www.channelnewsasia.com/sport/sunderland-set-19-day-record-bid-year-later-planned-6312671",
+      "date": "Tue, 11 Aug 2026 23:43:25 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Has His Own Communist Manifesto",
+      "link": "https://foreignpolicy.com/2026/08/11/trump-communism-state-capitalism-tariffs-semiconductor-chips/",
+      "date": "Tue, 11 Aug 2026 15:33:48 +0000"
     },
     {
       "src": "BBC World",
@@ -54,8 +131,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "New Zealand joins France in committing to FIFA Under-20 Women&#039;s World Cup",
-      "link": "https://www.channelnewsasia.com/sport/new-zealand-joins-france-in-committing-fifa-under-20-womens-world-cup-6312586",
+      "text": "Poland says preparations for Women&#039;s under-20 World Cup remain on schedule",
+      "link": "https://www.channelnewsasia.com/sport/poland-says-preparations-womens-under-20-world-cup-remain-schedule-6312586",
       "date": "Tue, 11 Aug 2026 23:06:55 +0800"
     },
     {
@@ -89,7 +166,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "text": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
       "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
       "date": "Tue, 11 Aug 2026 14:44:10 +0000"
     },
@@ -127,20 +204,6 @@
       "text": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
       "date": "Tue, 11 Aug 2026 14:30:23 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Formula E announces global streaming deal with Disney+ and ESPN",
-      "link": "https://www.channelnewsasia.com/sport/formula-e-announces-global-streaming-deal-disney-and-espn-6312506",
-      "date": "Tue, 11 Aug 2026 22:25:42 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Disney wins global streaming rights for Formula E races",
-      "link": "https://www.channelnewsasia.com/sport/disney-wins-global-streaming-rights-formula-e-races-6312496",
-      "date": "Tue, 11 Aug 2026 22:25:10 +0800"
     },
     {
       "src": "BBC World",
@@ -185,20 +248,6 @@
       "date": "Tue, 11 Aug 2026 13:57:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe battles wildfires and braces for another summer heatwave",
-      "link": "https://www.france24.com/en/europe-battles-wildfires-and-braces-for-another-summer-heatwave",
-      "date": "Tue, 11 Aug 2026 13:52:06 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-      "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 13:47:50 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "China Has Chosen to Disappoint Its Consumers",
@@ -206,39 +255,11 @@
       "date": "Tue, 11 Aug 2026 13:47:11 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-      "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 13:46:44 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Four killed in suspected Houthi attack on Egyptian ship in the Red Sea",
-      "link": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea",
-      "date": "Tue, 11 Aug 2026 13:34:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Civilian casualties climb as Russia and Ukraine exchange fresh strikes",
-      "link": "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "date": "Tue, 11 Aug 2026 13:03:09 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Former Syrian leader Assad sentenced to death in absentia over war crimes",
       "link": "https://www.rfi.fr/en/international/20260811-former-syrian-leader-assad-sentenced-to-death-in-absentia-over-war-crimes",
       "date": "Tue, 11 Aug 2026 11:58:12 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 11:35:20 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -267,13 +288,6 @@
       "text": "France and EU join international aid effort after Colombia earthquake",
       "link": "https://www.rfi.fr/en/international/20260811-france-eu-join-international-aid-effort-after-colombia-earthquake",
       "date": "Tue, 11 Aug 2026 10:08:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 09:39:58 GMT"
     },
     {
       "src": "Sky News",
@@ -353,13 +367,6 @@
       "date": "Mon, 10 Aug 2026 10:00:39 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Dismantling the ICC Doesn’t Serve U.S. Interests",
-      "link": "https://foreignpolicy.com/2026/08/10/icc-trump-campaign-rubio-sanctions-international-justice/",
-      "date": "Mon, 10 Aug 2026 10:00:19 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Record temperatures swept regions home to 900 million people in July",
@@ -386,13 +393,6 @@
       "text": "Moscow and Damascus reach deal over Russian military bases in Syria",
       "link": "https://www.rfi.fr/en/international/20260810-moscow-and-damascus-reach-deal-over-russian-military-bases-in-syria",
       "date": "Mon, 10 Aug 2026 04:56:38 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Todd Blanche’s Confirmation Would Have Been a Scandal in 1973",
-      "link": "https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-justice-department/",
-      "date": "Mon, 10 Aug 2026 04:01:30 +0000"
     },
     {
       "src": "Sky News",
