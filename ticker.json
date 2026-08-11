@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-11T06:43:15.633Z",
-  "count": 64,
+  "updated": "2026-08-11T08:00:52.308Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town",
+      "link": "https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 07:44:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: Zelensky says Russia fired North Korean missiles at Zaporizhzhia",
+      "link": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+      "date": "Tue, 11 Aug 2026 07:34:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Colombia rescue efforts press on after quake, death toll expected to rise",
+      "link": "https://www.channelnewsasia.com/world/colombia-earthquake-rescue-efforts-death-toll-rise-6311401",
+      "date": "Tue, 11 Aug 2026 15:31:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Toyota to recall over 508,000 US vehicles over instrument cluster display issues",
+      "link": "https://www.channelnewsasia.com/business/toyota-recall-over-508000-us-vehicles-over-instrument-cluster-display-issues-6311511",
+      "date": "Tue, 11 Aug 2026 15:28:23 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+      "link": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 07:13:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shein plans to launch Hong Kong IPO as soon as next Wednesday, sources say",
+      "link": "https://www.channelnewsasia.com/business/shein-plans-launch-hong-kong-ipo-soon-next-wednesday-sources-say-6311481",
+      "date": "Tue, 11 Aug 2026 15:12:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+      "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 07:07:51 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia earthquake rescue efforts enter second day as death toll reaches 164",
+      "link": "https://www.france24.com/en/americas/20260811-colombia-earthquake-rescue-efforts-enter-second-day-as-death-toll-reaches-164",
+      "date": "Tue, 11 Aug 2026 07:04:03 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Never encountered this before’: What an extreme El Nino means for Southeast Asia",
+      "link": "https://www.channelnewsasia.com/asia/southeast-asia-thailand-intense-el-nino-2026-6311201",
+      "date": "Tue, 11 Aug 2026 15:03:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Airbus joins probe into Air India flight plunge",
+      "link": "https://www.channelnewsasia.com/asia/airbus-joins-probe-air-india-flight-plunge-6311456",
+      "date": "Tue, 11 Aug 2026 14:59:39 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CONMEBOL postpones two continental ties due to Colombia earthquake",
+      "link": "https://www.channelnewsasia.com/sport/conmebol-postpones-two-continental-ties-due-colombia-earthquake-6311446",
+      "date": "Tue, 11 Aug 2026 14:53:05 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -28,42 +105,7 @@
       "col": "#84cc16",
       "text": "Prabowo orders coordinated measures against Indonesia wildfires",
       "link": "https://www.channelnewsasia.com/asia/indonesia-wildfire-bromo-el-nino-haze-singapore-sarawak-6311376",
-      "date": "Tue, 11 Aug 2026 14:03:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bank of Korea likely to raise interest rates further, outgoing deputy chief says",
-      "link": "https://www.channelnewsasia.com/business/bank-korea-likely-raise-interest-rates-further-outgoing-deputy-chief-says-6311406",
-      "date": "Tue, 11 Aug 2026 14:02:53 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man fled Singapore on fishing boat to avoid jail, caught at Changi Airport more than 20 years later",
-      "link": "https://www.channelnewsasia.com/singapore/changi-airport-ica-immigration-offence-false-identity-fake-passport-6311291",
-      "date": "Tue, 11 Aug 2026 13:56:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russian barrage on Ukraine kills 9, wounds dozens",
-      "link": "https://www.channelnewsasia.com/world/russian-barrage-ukraine-kills-9-wounds-dozens-6311371",
-      "date": "Tue, 11 Aug 2026 13:53:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vietnam&#039;s Sun PhuQuoc Airways to receive 8 Airbus A330 planes by end-April 2027",
-      "link": "https://www.channelnewsasia.com/business/vietnams-sun-phuquoc-airways-receive-8-airbus-a330-planes-end-april-2027-6311366",
-      "date": "Tue, 11 Aug 2026 13:46:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australia and Vietnam deepen strategic partnership",
-      "link": "https://www.channelnewsasia.com/asia/australia-vietnam-strategic-partnership-lam-anthony-albanese-6310891",
-      "date": "Tue, 11 Aug 2026 13:36:00 +0800"
+      "date": "Tue, 11 Aug 2026 14:03:00 +0800"
     },
     {
       "src": "The Guardian",
@@ -82,7 +124,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "European championships: Thanks to Léon Marchand, France take silver in the 4 x 200m",
+      "text": "European swimming championships: France take silver in 4 x 200m freestyle relay",
       "link": "https://www.france24.com/en/tv-shows/sports/20260811-european-championships-thanks-to-l%C3%A9on-marchand-france-take-silver-in-the-4-x-200m",
       "date": "Tue, 11 Aug 2026 05:21:39 GMT"
     },
@@ -101,13 +143,6 @@
       "date": "Tue, 11 Aug 2026 05:02:58 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Surfing-Slater marches on in Tahiti Pro as Teahupo&#039;o pumps",
-      "link": "https://www.channelnewsasia.com/sport/surfing-slater-marches-in-tahiti-pro-teahupoo-pumps-6311296",
-      "date": "Tue, 11 Aug 2026 13:00:28 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump’s media company reports $238m loss",
@@ -122,20 +157,6 @@
       "date": "Tue, 11 Aug 2026 04:37:27 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "China’s Long March 7A rocket explodes after lift-off",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 04:34:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fire rages after drone strikes Libya’s largest oil refinery",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 04:09:10 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "At least 132 killed in Colombia's largest  earthquake in years",
@@ -148,13 +169,6 @@
       "text": "What Morocco Was Saying to Spain in Ceuta",
       "link": "https://foreignpolicy.com/2026/08/11/morocco-spain-ceuta/",
       "date": "Tue, 11 Aug 2026 04:01:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Where did all the money go if the US is running out of weapons?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 03:32:57 +0000"
     },
     {
       "src": "BBC World",
@@ -180,7 +194,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Ukraine war live: Deadly Russian missiles strike Kyiv and Zaporizhzhia",
+      "text": "Ukraine war live: Zelensky says Russia fired North Korean missiles at Zaporizhzhia",
       "link": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
       "date": "Mon, 10 Aug 2026 23:03:04 GMT"
     },
@@ -190,13 +204,6 @@
       "text": "Trump pushes rethink of school vaccine mandates and MMR shots",
       "link": "https://www.france24.com/en/americas/20260810-trump-pushes-rethink-of-school-vaccine-mandates-and-mmr-shots",
       "date": "Mon, 10 Aug 2026 22:15:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Turkey MPs back historic law on reintegrating Kurdish PKK militants",
-      "link": "https://www.france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants",
-      "date": "Mon, 10 Aug 2026 21:36:10 GMT"
     },
     {
       "src": "BBC World",
@@ -211,13 +218,6 @@
       "text": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
       "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 10 Aug 2026 20:45:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ebola started 3 months earlier than official declaration",
-      "link": "https://www.france24.com/en/ebola-started-3-months-earlier-than-official-declaration",
-      "date": "Mon, 10 Aug 2026 20:26:40 GMT"
     },
     {
       "src": "BBC World",
@@ -267,6 +267,55 @@
       "text": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 10 Aug 2026 14:34:25 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Fighting deepens needs and fuels further displacement in Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168109",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168108",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN offers support to Colombia after magnitude 7.4 earthquake kills dozens",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168106",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: Ebola is killing people before they ever reach a doctor",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168105",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168104",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN calls for urgent action to protect children from online information risks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168103",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Humanitarian aid warehouses come under attack in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168102",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -365,6 +414,13 @@
       "text": "Netanyahu rejects Gaza plan in new break from Trump",
       "link": "https://www.rfi.fr/en/international/20260809-netanyahu-rejects-gaza-plan-in-new-break-from-trump",
       "date": "Sun, 09 Aug 2026 13:00:27 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168093",
+      "date": "Sun, 09 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
