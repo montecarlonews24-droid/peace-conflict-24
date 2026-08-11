@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-11T09:26:53.688Z",
+  "updated": "2026-08-11T10:22:55.413Z",
   "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "France, EU join international aid effort after Colombia earthquake",
+      "link": "https://www.rfi.fr/en/international/20260811-france-eu-join-international-aid-effort-after-colombia-earthquake",
+      "date": "Tue, 11 Aug 2026 10:08:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hong Kong&#039;s tech index plans expansion with AI and robotics themes",
+      "link": "https://www.channelnewsasia.com/business/hong-kong-hang-seng-tech-index-ai-robotics-themes-6311861",
+      "date": "Tue, 11 Aug 2026 18:05:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 09:58:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mentality key to Premier League revival for Spurs, says De Zerbi",
+      "link": "https://www.channelnewsasia.com/sport/mentality-key-premier-league-revival-spurs-says-de-zerbi-6311866",
+      "date": "Tue, 11 Aug 2026 17:53:37 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The Global South’s digital future must not belong to Bezos and Musk",
+      "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 09:52:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
+      "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 09:47:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
+      "link": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 09:43:11 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 09:42:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Colombia quake: Frantic search for survivors as over 2,700 reported missing",
+      "link": "https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 09:41:26 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Esports World Cup underway in Paris",
+      "link": "https://www.france24.com/en/video/20260811-esports-world-cup-underway-in-paris",
+      "date": "Tue, 11 Aug 2026 09:40:49 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 09:39:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UEFA, CONCACAF and AFC accuse Gianni Infantino of 'fundamental breach of trust'",
+      "link": "https://www.france24.com/en/uefa-concacaf-and-afc-accuse-gianni-infantino-of-fundamental-breach-of-trust",
+      "date": "Tue, 11 Aug 2026 09:33:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli settler violence is ‘clear state terrorism’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
+      "date": "Tue, 11 Aug 2026 09:30:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
+      "link": "https://www.france24.com/en/video/20260811-new-ebola-vaccine-trial-launches-as-outbreak-spreads-in-dr-congo",
+      "date": "Tue, 11 Aug 2026 09:29:51 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tupac Shakur murder trial begins 30 years after rapper's death",
+      "link": "https://www.france24.com/en/tupac-shakur-murder-trial-begins-30-years-after-rapper-s-death",
+      "date": "Tue, 11 Aug 2026 09:27:18 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rwandan Tungsten mine enters US defence supply chain",
+      "link": "https://www.france24.com/en/video/20260811-rwandan-tungsten-mine-enters-us-defence-supply-chain",
+      "date": "Tue, 11 Aug 2026 09:24:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "More than 2,400 people caught vaping in second quarter of 2026",
+      "link": "https://www.channelnewsasia.com/singapore/vaping-offenders-caught-etomidate-moh-hsa-6311451",
+      "date": "Tue, 11 Aug 2026 17:23:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Africa name Fortuin as skipper for limited-overs trip to Namibia",
+      "link": "https://www.channelnewsasia.com/sport/south-africa-name-fortuin-skipper-limited-overs-trip-namibia-6311781",
+      "date": "Tue, 11 Aug 2026 17:20:23 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -52,20 +178,6 @@
       "date": "Tue, 11 Aug 2026 16:56:24 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
-      "link": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
-      "date": "Tue, 11 Aug 2026 08:50:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
-      "link": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
-      "date": "Tue, 11 Aug 2026 08:50:29 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Rescue efforts intensify as quake devastates western Colombia towns",
@@ -82,16 +194,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Bashar al Assad sentenced to death in absentia by Syrian court for war crimes",
+      "text": "Bashar al Assad sentenced to death by Syrian court",
       "link": "https://news.sky.com/story/bashar-al-assad-sentenced-to-death-in-absentia-by-syrian-court-for-war-crimes-13571874",
       "date": "Tue, 11 Aug 2026 09:42:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Turkey approves pardon-like bill for thousands of PKK militants",
-      "link": "https://www.france24.com/en/video/20260811-turkey-approves-pardon-like-bill-for-thousands-of-pkk-militants",
-      "date": "Tue, 11 Aug 2026 08:39:15 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -101,86 +206,23 @@
       "date": "Tue, 11 Aug 2026 08:39:14 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
-      "link": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 08:34:26 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Libyan authorities battle big blaze at major oil refinery",
+      "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 08:28:24 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial",
-      "link": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 08:27:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump sends conflicting signals on Iran strategy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 08:26:28 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Driver who severed pedestrian&#039;s body appeals for less jail; prosecution seeks longer sentence",
-      "link": "https://www.channelnewsasia.com/singapore/driver-severed-body-appeal-lower-jail-6311486",
-      "date": "Tue, 11 Aug 2026 16:21:41 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran threat prompted secret Trump flight from Turkiye: Reports",
-      "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 08:18:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-      "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
-      "date": "Tue, 11 Aug 2026 08:13:31 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump secretly swapped planes in Turkey over Iran threat, report says",
-      "link": "https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says",
-      "date": "Tue, 11 Aug 2026 08:11:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Andrea DeCruz and Pierre Png reflect on her liver transplant, their marriage and overcoming fears",
-      "link": "https://www.channelnewsasia.com/entertainment/andrea-decruz-pierre-png-liver-transplant-marriage-6311531",
-      "date": "Tue, 11 Aug 2026 16:05:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Zelensky says Russia fired North Korean missiles at Zaporizhzhia",
-      "link": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-      "date": "Tue, 11 Aug 2026 07:34:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Colombia rescue efforts press on after quake, death toll expected to rise",
-      "link": "https://www.channelnewsasia.com/world/colombia-earthquake-rescue-efforts-death-toll-rise-6311401",
-      "date": "Tue, 11 Aug 2026 15:31:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Toyota to recall over 508,000 US vehicles over instrument cluster display issues",
-      "link": "https://www.channelnewsasia.com/business/toyota-recall-over-508000-us-vehicles-over-instrument-cluster-display-issues-6311511",
-      "date": "Tue, 11 Aug 2026 15:28:23 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 11 Aug 2026 07:55:22 GMT"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Trump 'secretly left NATO summit on military plane over Iran threat'",
+      "text": "Trump 'whisked off plane via catering container before taking secret flight'",
       "link": "https://news.sky.com/story/donald-trump-secretly-left-nato-summit-on-military-plane-over-iran-threat-13571831",
       "date": "Tue, 11 Aug 2026 07:04:00 +0100"
     },
@@ -206,13 +248,6 @@
       "date": "Tue, 11 Aug 2026 04:01:44 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 02:43:01 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Scores dead in Colombia after powerful earthquake strikes west of country",
@@ -234,13 +269,6 @@
       "date": "Mon, 10 Aug 2026 20:45:29 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 19:17:11 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Netanyahu Nixes Trump’s Gaza Deal",
@@ -255,32 +283,11 @@
       "date": "Mon, 10 Aug 2026 17:26:14 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 16:52:47 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Iran says ‘Muslim Nato’ pact reflects retreat from US security umbrella",
       "link": "https://www.rfi.fr/en/international/20260810-iran-says-muslim-nato-pact-reflects-retreat-from-us-security-umbrella",
       "date": "Mon, 10 Aug 2026 15:21:58 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 14:43:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 10 Aug 2026 14:34:25 GMT"
     },
     {
       "src": "UN News",
@@ -449,13 +456,6 @@
       "text": "Turkey's new opposition party offers hope, but its future is already in jeopardy",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260808-turkey-s-new-opposition-party-offers-hope-but-its-future-is-already-in-jeopardy",
       "date": "Sat, 08 Aug 2026 10:20:56 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "High stakes for Ireland's EU presidency amid migration row over Ceuta crisis",
-      "link": "https://www.rfi.fr/en/international/20260808-high-stakes-for-ireland-s-eu-presidency-amid-migration-row-over-ceuta-crisis",
-      "date": "Sat, 08 Aug 2026 07:34:36 GMT"
     },
     {
       "src": "The Guardian",
