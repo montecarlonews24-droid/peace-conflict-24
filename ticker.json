@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-12T17:24:14.239Z",
+  "updated": "2026-08-12T18:12:53.850Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Netanyahu gave a ‘victory to Hamas’ by rejecting US-backed Gaza peace plan",
+      "link": "https://www.france24.com/en/middle-east/20260812-netanyahu-gave-a-victory-to-hamas-by-rejecting-us-backed-gaza-peace-plan",
+      "date": "Wed, 12 Aug 2026 17:48:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hull City sign Senegal defender Mendy from Rayo Vallecano",
+      "link": "https://www.channelnewsasia.com/sport/hull-city-sign-senegal-defender-mendy-rayo-vallecano-6315611",
+      "date": "Thu, 13 Aug 2026 01:47:16 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 12 Aug 2026 17:47:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Inside the Google executive moves that led to its big AI reshuffle",
+      "link": "https://www.channelnewsasia.com/business/exclusive-inside-google-executive-moves-led-its-big-ai-reshuffle-6315591",
+      "date": "Thu, 13 Aug 2026 01:35:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Switzerland seeks to tighten rules on bankers&#039; bonuses",
+      "link": "https://www.channelnewsasia.com/world/switzerland-bank-bonus-rules-credit-suisse-6315571",
+      "date": "Thu, 13 Aug 2026 01:31:58 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "White House construction project to cost almost $1bn",
+      "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
+      "date": "Wed, 12 Aug 2026 17:23:45 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -40,8 +82,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Stocks inch up, oil dips as traders eye US-Iran talks",
-      "link": "https://www.channelnewsasia.com/business/stocks-inch-up-oil-dips-traders-eye-us-iran-talks-6315521",
+      "text": "Oil dips on demand forecasts, global equities gain",
+      "link": "https://www.channelnewsasia.com/business/oil-dips-demand-forecasts-global-equities-gain-6315521",
       "date": "Thu, 13 Aug 2026 00:34:01 +0800"
     },
     {
@@ -94,25 +136,11 @@
       "date": "Wed, 12 Aug 2026 16:00:46 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
-      "link": "https://www.channelnewsasia.com/sport/malawi-fa-chief-backs-infantino-credits-fifa-investment-world-cup-breakthrough-6315451",
-      "date": "Wed, 12 Aug 2026 23:58:51 +0800"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Russia threatens retaliatory seizures of EU ships amid new sanctions push",
       "link": "https://www.rfi.fr/en/international/20260812-russia-threatens-retaliatory-seizures-of-eu-ships-amid-new-sanctions-push",
       "date": "Wed, 12 Aug 2026 15:52:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Brazil agency orders Discord platform to suspend livestreaming over child safety concerns",
-      "link": "https://www.channelnewsasia.com/business/brazil-agency-orders-discord-platform-suspend-livestreaming-over-child-safety-concerns-6315436",
-      "date": "Wed, 12 Aug 2026 23:50:37 +0800"
     },
     {
       "src": "Sky News",
@@ -143,13 +171,6 @@
       "date": "Wed, 12 Aug 2026 15:39:37 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More than 500 fake websites impersonating MHA, Home Team agencies taken down",
-      "link": "https://www.channelnewsasia.com/singapore/fake-websites-impersonate-mha-home-team-taken-down-6315331",
-      "date": "Wed, 12 Aug 2026 23:38:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Is Russia’s economy cracking despite the Iran war windfall?",
@@ -169,13 +190,6 @@
       "text": "Voting ends in US midwest primaries",
       "link": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries",
       "date": "Wed, 12 Aug 2026 15:29:27 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran remains defiant as it vows to fight US until demands met",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
-      "date": "Wed, 12 Aug 2026 15:29:20 +0000"
     },
     {
       "src": "France 24",
@@ -234,18 +248,18 @@
       "date": "Wed, 12 Aug 2026 13:46:11 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Colombia: Woman rescued from under earthquake debris after 36 hours",
-      "link": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
-      "date": "Wed, 12 Aug 2026 13:32:43 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "date": "Wed, 12 Aug 2026 12:21:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Five years after Taliban takeover, Afghan women ‘erased from public life’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168123",
+      "date": "Wed, 12 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -288,13 +302,6 @@
       "text": "North Korea launches missile amid declaration it must possess capability to counter strikes that would make enemy 'survival impossible'",
       "link": "https://news.sky.com/story/north-korea-launches-missile-amid-declaration-it-must-possess-capability-to-counter-strikes-that-would-make-enemy-survival-impossible-13572179",
       "date": "Wed, 12 Aug 2026 09:42:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 12 Aug 2026 07:44:44 GMT"
     },
     {
       "src": "RFI",
@@ -434,13 +441,6 @@
       "col": "#3b82f6",
       "text": "Colombia earthquake: UN joins national response",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168112",
-      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Myanmar: UN investigators document deliberate military attacks on civilians",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168110",
       "date": "Tue, 11 Aug 2026 12:00:00 +0000"
     },
     {
