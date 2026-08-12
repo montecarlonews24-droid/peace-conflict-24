@@ -1,13 +1,104 @@
 {
-  "updated": "2026-08-12T11:37:13.593Z",
-  "count": 64,
+  "updated": "2026-08-12T12:39:17.209Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lebanese parliament passes sweeping amnesty law to reduce overcrowding in prisons",
+      "link": "https://www.france24.com/en/middle-east/20260812-lebanese-parliament-passes-sweeping-amnesty-law-thousands-prisoners-wanted-people",
+      "date": "Wed, 12 Aug 2026 12:28:44 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israeli settlers besieging Palestinian families in West Bank village",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 12 Aug 2026 12:16:22 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Goldman Sachs to buy ETF provider Neos in $2.3 billion deal",
+      "link": "https://www.channelnewsasia.com/business/goldman-sachs-buy-etf-provider-neos-in-23-billion-deal-6314926",
+      "date": "Wed, 12 Aug 2026 20:14:02 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Skywatchers gather in Europe to see total solar eclipse",
+      "link": "https://www.channelnewsasia.com/world/europe-solar-eclipse-spain-iceland-6314916",
+      "date": "Wed, 12 Aug 2026 20:14:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Millions of skywatchers in Europe prepare for total solar eclipse",
+      "link": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse",
+      "date": "Wed, 12 Aug 2026 12:13:29 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 12 Aug 2026 12:10:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What can we learn from eclipses?",
+      "link": "https://www.france24.com/en/what-can-we-learn-from-eclipses",
+      "date": "Wed, 12 Aug 2026 12:05:40 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singaporean fugitive, girlfriend rescued in Malaysia from kidnapping ring seeking US$62,500 ransom",
+      "link": "https://www.channelnewsasia.com/asia/singaporean-fugitive-kidnapped-johor-bahru-malaysia-6314761",
+      "date": "Wed, 12 Aug 2026 19:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nebius beats quarterly revenue estimates as AI demand fuels growth",
+      "link": "https://www.channelnewsasia.com/business/nebius-beats-quarterly-revenue-estimates-ai-demand-fuels-growth-6314856",
+      "date": "Wed, 12 Aug 2026 19:43:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Standard Chartered venture Anchorpoint begins Hong Kong dollar stablecoin rollout",
+      "link": "https://www.channelnewsasia.com/business/standard-chartered-venture-anchorpoint-begins-hong-kong-dollar-stablecoin-rollout-6314846",
+      "date": "Wed, 12 Aug 2026 19:36:11 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 12 Aug 2026 11:32:17 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 12 Aug 2026 11:28:05 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 12 Aug 2026 11:28:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Putin warns of tit-for-tat seizures of European vessels",
+      "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+      "date": "Wed, 12 Aug 2026 11:11:26 +0000"
     },
     {
       "src": "The Guardian",
@@ -101,46 +192,11 @@
       "date": "Wed, 12 Aug 2026 18:22:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Haze risk in Singapore: Preschools ready to move activities indoors if air quality worsens",
-      "link": "https://www.channelnewsasia.com/singapore/haze-risk-preschools-move-activities-indoors-6314551",
-      "date": "Wed, 12 Aug 2026 18:19:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China&#039;s C919 jet makes first international commercial flight",
-      "link": "https://www.channelnewsasia.com/east-asia/china-c919-jet-first-international-commercial-flight-6314586",
-      "date": "Wed, 12 Aug 2026 18:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore must not fear unusual, innovative approaches to future challenges, says Jayakumar at book launch",
-      "link": "https://www.channelnewsasia.com/singapore/jayakumar-singapore-book-three-unique-laws-unusual-innovative-approaches-6314546",
-      "date": "Wed, 12 Aug 2026 18:03:28 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
       "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
       "date": "Wed, 12 Aug 2026 10:02:16 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
-      "link": "https://www.channelnewsasia.com/business/meta-29-states-head-court-in-biggest-test-yet-youth-social-media-litigation-6314596",
-      "date": "Wed, 12 Aug 2026 18:01:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CoreWeave, Super Micro climb on signs of sustained AI buildout",
-      "link": "https://www.channelnewsasia.com/business/coreweave-super-micro-climb-signs-sustained-ai-buildout-6314576",
-      "date": "Wed, 12 Aug 2026 17:58:01 +0800"
     },
     {
       "src": "RFI",
@@ -164,46 +220,11 @@
       "date": "Wed, 12 Aug 2026 09:24:59 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Millions gear up for first total eclipse since 2006",
-      "link": "https://www.france24.com/en/millions-gear-up-for-first-total-eclipse-since-2006",
-      "date": "Wed, 12 Aug 2026 09:20:31 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Zambia’s president rallies for second term ahead of election",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
       "date": "Wed, 12 Aug 2026 09:16:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A hydrogen-powered vehicle sets new land speed record",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
-      "date": "Wed, 12 Aug 2026 09:10:40 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Key US primary races take shape",
-      "link": "https://www.france24.com/en/key-us-primary-races-take-shape",
-      "date": "Wed, 12 Aug 2026 09:07:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Death toll rises after Colombia earthquake",
-      "link": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake",
-      "date": "Wed, 12 Aug 2026 09:06:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tata Group Chairman N Chandrasekaran to step down in February",
-      "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 12 Aug 2026 08:50:52 GMT"
     },
     {
       "src": "Sky News",
@@ -250,13 +271,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 12 Aug 2026 04:29:02 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Trump confirms he switched planes after Nato summit because of possible threat",
       "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 12 Aug 2026 03:44:55 GMT"
@@ -290,25 +304,11 @@
       "date": "Tue, 11 Aug 2026 22:42:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 21:14:56 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Colombia’s New President Faces His First Major Test",
       "link": "https://foreignpolicy.com/2026/08/11/colombia-earthquakes-de-la-espriella-yemen-houthis-russia-yabloko-court-syria-assad/",
       "date": "Tue, 11 Aug 2026 19:52:24 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 11 Aug 2026 19:09:52 GMT"
     },
     {
       "src": "Sky News",
@@ -351,6 +351,55 @@
       "text": "Canadian airline cancels flight after child refuses to wear seatbelt",
       "link": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
       "date": "Tue, 11 Aug 2026 14:03:28 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After post-pandemic improvement, youth unemployment is rising again",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168120",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168118",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola deaths top 2,000 as scientists race to develop vaccine",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168117",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World marks second warmest July on record",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168115",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168113",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: UN joins national response",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168112",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Myanmar: UN investigators document deliberate military attacks on civilians",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168110",
+      "date": "Tue, 11 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -400,6 +449,13 @@
       "text": "Iran says ‘Muslim Nato’ pact reflects retreat from US security umbrella",
       "link": "https://www.rfi.fr/en/international/20260810-iran-says-muslim-nato-pact-reflects-retreat-from-us-security-umbrella",
       "date": "Mon, 10 Aug 2026 15:21:58 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Fighting deepens needs and fuels further displacement in Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168109",
+      "date": "Mon, 10 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
