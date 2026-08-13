@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-13T17:25:03.188Z",
-  "count": 64,
+  "updated": "2026-08-13T18:13:41.725Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+      "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+      "date": "Thu, 13 Aug 2026 17:46:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Poland detains Russian over &#039;execution&#039; plot in Warsaw: Tusk",
+      "link": "https://www.channelnewsasia.com/world/poland-detains-russian-over-execution-plot-in-warsaw-tusk-6318156",
+      "date": "Fri, 14 Aug 2026 01:30:44 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -38,6 +52,27 @@
       "date": "Fri, 14 Aug 2026 01:02:58 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lagos: Electric vehicles offer an alternative as fuel prices soar",
+      "link": "https://www.france24.com/en/video/20260813-lagos-electric-vehicles-offer-an-alternative-as-fuel-prices-soar",
+      "date": "Thu, 13 Aug 2026 16:56:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Solar eclipse 2026: Africa witnesses partial eclipse",
+      "link": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-africa-witnesses-partial-eclipse",
+      "date": "Thu, 13 Aug 2026 16:55:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia-Ukraine war: Grain hub attacks raise fears over global food prices",
+      "link": "https://www.france24.com/en/video/20260813-russia-ukraine-war-grain-hub-attacks-raise-fears-over-global-food-prices",
+      "date": "Thu, 13 Aug 2026 16:53:05 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Sport-More fans are tuning into women’s sports, Nielsen report finds",
@@ -50,6 +85,27 @@
       "text": "Air India to test all pilots for banned substances",
       "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 13 Aug 2026 16:52:15 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Mojtaba Khamenei Is Planning for a Long War",
+      "link": "https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/",
+      "date": "Thu, 13 Aug 2026 16:50:54 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia rescuers cling to hope as quake survival window closes",
+      "link": "https://www.france24.com/en/video/20260813-colombia-rescuers-cling-to-hope-as-quake-survival-window-closes",
+      "date": "Thu, 13 Aug 2026 16:50:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "European drought shrivels crops despite farmers’ best efforts to adapt",
+      "link": "https://www.france24.com/en/europe/20260813-european-drought-shrivels-crops-despite-farmers-best-efforts-to-adapt",
+      "date": "Thu, 13 Aug 2026 16:47:27 GMT"
     },
     {
       "src": "BBC World",
@@ -122,11 +178,11 @@
       "date": "Thu, 13 Aug 2026 15:51:52 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Leicester owners looking to sell club for more than £200 million, BBC reports",
-      "link": "https://www.channelnewsasia.com/sport/leicester-owners-looking-sell-club-more-ps200-million-bbc-reports-6317976",
-      "date": "Thu, 13 Aug 2026 23:48:14 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Eurovision: Winners involved in 'armed conflict' now ineligible to host contest",
+      "link": "https://www.france24.com/en/eurovision-winners-involved-in-armed-conflict-now-ineligible-to-host-contest",
+      "date": "Thu, 13 Aug 2026 15:45:23 GMT"
     },
     {
       "src": "BBC World",
@@ -143,11 +199,25 @@
       "date": "Thu, 13 Aug 2026 15:27:52 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Gaza's beekeepers are rebuilding their livelihoods amid the ruins of war",
+      "link": "https://www.france24.com/en/video/20260813-gaza-s-beekeepers-are-rebuilding-their-livelihoods-amid-the-ruins-of-war",
+      "date": "Thu, 13 Aug 2026 15:18:02 GMT"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
       "date": "Thu, 13 Aug 2026 15:17:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: \"In recent weeks, we've seen a striking escalation in violent acts\"",
+      "link": "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "date": "Thu, 13 Aug 2026 15:11:07 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -162,13 +232,6 @@
       "text": "France and 30 other countries condemn Iran's executions of protestors",
       "link": "https://www.rfi.fr/en/international/20260813-france-and-30-other-countries-condemn-iran-s-executions-of-protestors",
       "date": "Thu, 13 Aug 2026 15:02:28 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-      "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "date": "Thu, 13 Aug 2026 14:59:42 +0000"
     },
     {
       "src": "Sky News",
@@ -225,6 +288,13 @@
       "text": "Morocco steps up border security over fears of new mass crossing into Ceuta",
       "link": "https://www.rfi.fr/en/international/20260813-morocco-steps-up-border-security-over-fears-of-new-mass-crossing-into-ceuta",
       "date": "Thu, 13 Aug 2026 11:59:00 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "One person killed and six injured after explosion at Dutch port",
+      "link": "https://news.sky.com/story/one-person-killed-and-six-injured-after-explosion-at-rotterdam-port-13572584",
+      "date": "Thu, 13 Aug 2026 12:44:00 +0100"
     },
     {
       "src": "BBC World",
@@ -416,13 +486,6 @@
       "date": "Wed, 12 Aug 2026 05:44:33 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Next Front in LNG Sanctions Runs Through China",
-      "link": "https://foreignpolicy.com/2026/08/12/lng-sanctions-russia-shadow-fleet-china/",
-      "date": "Wed, 12 Aug 2026 05:00:49 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Putin sends Trump a gift - and will hope for something in return",
@@ -442,13 +505,6 @@
       "text": "Canadian airline cancels flight after child refuses to wear seatbelt",
       "link": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
       "date": "Tue, 11 Aug 2026 14:03:28 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Trump explains secret plane switch over possible threat",
-      "link": "https://news.sky.com/story/donald-trump-secretly-left-nato-summit-on-military-plane-over-iran-threat-13571831",
-      "date": "Tue, 11 Aug 2026 07:04:00 +0100"
     }
   ]
 }
