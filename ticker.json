@@ -1,13 +1,153 @@
 {
-  "updated": "2026-08-14T12:36:07.457Z",
+  "updated": "2026-08-14T14:06:23.358Z",
   "count": 72,
   "items": [
     {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
+      "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
+      "date": "Fri, 14 Aug 2026 13:58:47 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Sport-More, more, more: Lakers deal is the latest in sports gold rush",
-      "link": "https://www.channelnewsasia.com/sport/sport-more-more-more-lakers-deal-latest-in-sports-gold-rush-6319991",
-      "date": "Fri, 14 Aug 2026 20:31:06 +0800"
+      "text": "Dollar falls on surprise drop in US retail sales",
+      "link": "https://www.channelnewsasia.com/business/dollar-falls-surprise-drop-in-us-retail-sales-6319256",
+      "date": "Fri, 14 Aug 2026 21:58:31 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Birthrate drop in North Africa",
+      "link": "https://www.france24.com/en/birthrate-drop-in-north-africa",
+      "date": "Fri, 14 Aug 2026 13:54:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "World Bank to fund 645-metre bridge linking Bangui and Zongo",
+      "link": "https://www.france24.com/en/world-bank-to-fund-645-metre-bridge-linking-bangui-and-zongo",
+      "date": "Fri, 14 Aug 2026 13:52:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Mount Etna continues to erupt in Italy",
+      "link": "https://www.france24.com/en/mount-etna-continues-to-erupt-in-italy",
+      "date": "Fri, 14 Aug 2026 13:49:18 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "At least S$6.1 million lost to scammers impersonating ICA, China officials",
+      "link": "https://www.channelnewsasia.com/singapore/impersonation-scams-officials-ica-china-6320076",
+      "date": "Fri, 14 Aug 2026 21:48:43 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Chadian President Déby pardons jailed main rival and 8 opposition leaders",
+      "link": "https://www.france24.com/en/africa/20260814-chadian-president-d%C3%A9by-pardons-jailed-main-rival-and-8-opposition-leaders",
+      "date": "Fri, 14 Aug 2026 13:48:13 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Reddit surges on S&P 500 inclusion, set to replace AvalonBay",
+      "link": "https://www.channelnewsasia.com/business/reddit-surges-sp-500-inclusion-set-replace-avalonbay-6320091",
+      "date": "Fri, 14 Aug 2026 21:47:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SATS looking into claims service partner docked S$5 from airport wheelchair assistant&#039;s pay for being 11 seconds late",
+      "link": "https://www.channelnewsasia.com/singapore/wheelchair-assistant-changi-airport-pay-docked-11-seconds-late-sats-6319956",
+      "date": "Fri, 14 Aug 2026 21:42:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Down the rabbit hole: Social media is exploiting youthful angst for profit or politics",
+      "link": "https://www.channelnewsasia.com/today/big-read/youth-online-social-media-influence-consumption-politics-extremist-views-6317066",
+      "date": "Fri, 14 Aug 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "I&#039;m a communications professional who lost my powers of speech. Here&#039;s what aphasia taught me",
+      "link": "https://www.channelnewsasia.com/today/voices/stroke-survivor-aphasia-words-communication-speech-6316441",
+      "date": "Fri, 14 Aug 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meet the people keeping dialects and heritage languages alive in Singapore",
+      "link": "https://www.channelnewsasia.com/today/ground-up/dialect-heritage-language-preservation-hokkien-teochew-baba-malay-malayalam-6316366",
+      "date": "Fri, 14 Aug 2026 21:30:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 13:18:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 France's constitutional authority strikes down social media ban for under-15s",
+      "link": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
+      "date": "Fri, 14 Aug 2026 13:18:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's constitutional authority strikes down social media ban for under-15s",
+      "link": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
+      "date": "Fri, 14 Aug 2026 13:17:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 13:07:19 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 13:04:23 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Mount Etna's ongoing volcanic activity disrupts summer travel",
+      "link": "https://www.france24.com/en/mount-etna-s-ongoing-volcanic-activity-disrupts-summer-travel",
+      "date": "Fri, 14 Aug 2026 12:55:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Persistent Mount Etna ash shuts Sicily&#039;s Catania airport during peak holiday week",
+      "link": "https://www.channelnewsasia.com/world/mount-etna-volcano-italy-sicily-catania-airport-6319756",
+      "date": "Fri, 14 Aug 2026 20:55:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US missionary kidnapped in Niger released after nine months in captivity",
+      "link": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 12:54:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+      "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 12:45:11 +0000"
     },
     {
       "src": "RFI",
@@ -15,6 +155,13 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -38,6 +185,13 @@
       "date": "Fri, 14 Aug 2026 12:02:02 +0000"
     },
     {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Colombia’s Week of Rupture",
+      "link": "https://foreignpolicy.com/2026/08/14/colombia-earthquake-espriella-foreign-policy-trump-us-israel/",
+      "date": "Fri, 14 Aug 2026 12:00:19 +0000"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
@@ -45,46 +199,11 @@
       "date": "Fri, 14 Aug 2026 11:57:56 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Italy recovers Renoir, Cezanne and Matisse works stolen from museum",
-      "link": "https://www.channelnewsasia.com/world/italy-recovers-stolen-art-renoir-cezanne-matisse-museum-6319761",
-      "date": "Fri, 14 Aug 2026 19:57:31 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Zambia suspends election vote counting over reports of violence",
+      "text": "Zambia suspends vote count nationwide amid reports of violence, ballot theft",
       "link": "https://www.france24.com/en/africa/20260814-zambia-suspends-election-vote-counting-over-reports-of-violence",
       "date": "Fri, 14 Aug 2026 11:57:23 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India&#039;s Tata Steel offload top-flight club Jamshedpur for $1",
-      "link": "https://www.channelnewsasia.com/sport/indias-tata-steel-offload-top-flight-club-jamshedpur-1-6319891",
-      "date": "Fri, 14 Aug 2026 19:48:30 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Japan: Record rains kill eight, strand thousands at Narita airport",
-      "link": "https://www.france24.com/en/video/20260814-japan-record-rains-kill-eight-strand-thousands-at-narita-airport",
-      "date": "Fri, 14 Aug 2026 11:48:25 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US warns Iran it will step up economic pressure; two more ships attacked in Hormuz",
-      "link": "https://www.channelnewsasia.com/world/us-iran-hormuz-attacks-step-up-economic-pressure-6319876",
-      "date": "Fri, 14 Aug 2026 19:45:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ferry sinking kills 46 in rural Zimbabwe",
-      "link": "https://www.france24.com/en/ferry-sinking-kills-46-in-rural-zimbabwe",
-      "date": "Fri, 14 Aug 2026 11:37:37 GMT"
     },
     {
       "src": "BBC World",
@@ -94,69 +213,6 @@
       "date": "Fri, 14 Aug 2026 11:37:31 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe swelters under fifth heatwave of summer",
-      "link": "https://www.france24.com/en/europe-swelters-under-fifth-heatwave-of-summer",
-      "date": "Fri, 14 Aug 2026 11:36:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Palestinians families trapped in home",
-      "link": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
-      "date": "Fri, 14 Aug 2026 11:33:16 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
-      "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 11:28:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 11:18:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Winless run against Thailand will not ‘own’ Lions, says Gavin Lee ahead of ASEAN Championship semis",
-      "link": "https://www.channelnewsasia.com/sport/football-singapore-thailand-gavin-lee-asean-championship-semis-6319651",
-      "date": "Fri, 14 Aug 2026 19:14:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-      "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 11:06:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-      "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 11:04:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oil set for weekly gains after US threatens indefinite blockade of Iran",
-      "link": "https://www.channelnewsasia.com/business/oil-set-weekly-gains-after-us-threatens-indefinite-blockade-iran-6319831",
-      "date": "Fri, 14 Aug 2026 19:01:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Manchester City&#039;s Maresca coy on Rodri future ahead of Community Shield",
-      "link": "https://www.channelnewsasia.com/sport/manchester-citys-maresca-coy-rodri-future-ahead-community-shield-6319796",
-      "date": "Fri, 14 Aug 2026 18:56:25 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Stolen Matisse artworks recovered by police in Brazil",
@@ -164,46 +220,11 @@
       "date": "Fri, 14 Aug 2026 10:55:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Prabowo proposes US$230 billion budget for 2027; targets deficit at 2.4% of GDP",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-budget-2027-president-prabowo-subianto-6319501",
-      "date": "Fri, 14 Aug 2026 18:53:41 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Palestinians families trapped in homes",
-      "link": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
-      "date": "Fri, 14 Aug 2026 10:43:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine war: Grain attacks raise food price fears",
-      "link": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
-      "date": "Fri, 14 Aug 2026 10:41:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Global sea temperature reach 21 degrees amid heatwaves",
-      "link": "https://www.france24.com/en/global-sea-temperature-reach-21-degrees-amid-heatwaves",
-      "date": "Fri, 14 Aug 2026 10:37:27 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Unprecedented' rain in Japan kills eight people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 10:36:14 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US missionary released following kidnap in Niger, Christian group says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 10:18:02 GMT"
     },
     {
       "src": "The Guardian",
@@ -269,13 +290,6 @@
       "date": "Thu, 13 Aug 2026 20:45:17 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 13 Aug 2026 20:12:17 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Israel Clashes With Settlers in the West Bank",
@@ -330,6 +344,13 @@
       "text": "Why Israel Won’t Make Qatar an Enemy",
       "link": "https://foreignpolicy.com/2026/08/13/israel-election-netanyahu-qatar-gaza/",
       "date": "Thu, 13 Aug 2026 13:58:34 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
+      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -437,13 +458,6 @@
       "date": "Wed, 12 Aug 2026 21:20:25 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What to Watch in Zambia’s Elections",
-      "link": "https://foreignpolicy.com/2026/08/12/zambia-elections-hichilema-economic-policy-us-china-copper-mines/",
-      "date": "Wed, 12 Aug 2026 21:06:01 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Be very careful': FIFA VP warns those trying to oust Infantino",
@@ -472,13 +486,6 @@
       "date": "Wed, 12 Aug 2026 17:06:00 +0100"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Russia threatens retaliatory seizures of EU ships amid new sanctions push",
-      "link": "https://www.rfi.fr/en/international/20260812-russia-threatens-retaliatory-seizures-of-eu-ships-amid-new-sanctions-push",
-      "date": "Wed, 12 Aug 2026 15:52:14 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
@@ -491,13 +498,6 @@
       "text": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "date": "Wed, 12 Aug 2026 12:21:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Youth advocates gather in New York to launch new AI standards",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168129",
-      "date": "Wed, 12 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
