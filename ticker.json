@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-13T23:09:10.893Z",
-  "count": 56,
+  "updated": "2026-08-14T00:03:50.569Z",
+  "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Donald Trump imposes tariffs of up to 100% on imported drones",
+      "link": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
+      "date": "Fri, 14 Aug 2026 00:02:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Morning erections: Why men get them and when changes could signal a health issue",
+      "link": "https://www.channelnewsasia.com/wellness/morning-erections-causes-health-signs-erectile-dysfunction-6303101",
+      "date": "Fri, 14 Aug 2026 07:38:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "She once struggled with school but is now a recipient of Singapore&#039;s highest youth development award",
+      "link": "https://www.channelnewsasia.com/women/school-struggles-volunteering-found-calling-nyaa-gold-6294966",
+      "date": "Fri, 14 Aug 2026 07:25:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "date": "Thu, 13 Aug 2026 23:09:15 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -14,7 +42,7 @@
       "col": "#84cc16",
       "text": "Europe swelters under fresh wave of extreme heat",
       "link": "https://www.channelnewsasia.com/world/europe-extreme-heat-france-italy-spain-britain-6318591",
-      "date": "Fri, 14 Aug 2026 07:05:53 +0800"
+      "date": "Fri, 14 Aug 2026 07:05:00 +0800"
     },
     {
       "src": "CNA",
@@ -47,23 +75,9 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "China’s AI talent race is starting younger - with parents seeking headstarts for their children",
-      "link": "https://www.channelnewsasia.com/east-asia/chinas-ai-talent-race-starting-younger-parents-seeking-headstarts-their-children-6302251",
+      "text": "From summer camps to big salaries: China’s AI talent race is starting young and going big",
+      "link": "https://www.channelnewsasia.com/east-asia/summer-camps-big-salaries-chinas-ai-talent-race-starting-young-and-going-big-6302251",
       "date": "Fri, 14 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: For the oil market, the Strait of Hormuz isn’t closed",
-      "link": "https://www.channelnewsasia.com/commentary/strait-hormuz-not-closed-oil-prices-iran-war-6317166",
-      "date": "Fri, 14 Aug 2026 05:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: A reality check is needed on Arctic shipping",
-      "link": "https://www.channelnewsasia.com/commentary/arctic-shipping-route-china-reality-check-6317181",
-      "date": "Fri, 14 Aug 2026 05:58:00 +0800"
     },
     {
       "src": "BBC World",
@@ -71,6 +85,13 @@
       "text": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 13 Aug 2026 21:43:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Raul Castro makes rare public appearance at Fidel centenary event",
+      "link": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
+      "date": "Thu, 13 Aug 2026 21:39:57 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -122,18 +143,18 @@
       "date": "Thu, 13 Aug 2026 20:52:48 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Photos: Cuba marks Fidel Castro’s 100th birthday",
-      "link": "https://www.aljazeera.com/gallery/2026/8/13/photos-cuba-marks-fidel-castros-100th-birthday?traffic_source=rss",
-      "date": "Thu, 13 Aug 2026 20:48:18 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Iran War Has Left the U.S. Dangerously Exposed",
       "link": "https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/",
       "date": "Thu, 13 Aug 2026 20:45:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ceremony to pay tribute to capsized ferry victims",
+      "link": "https://www.france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims",
+      "date": "Thu, 13 Aug 2026 20:23:13 GMT"
     },
     {
       "src": "BBC World",
@@ -178,11 +199,46 @@
       "date": "Thu, 13 Aug 2026 18:45:51 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lagos: Electric vehicles offer an alternative as fuel prices soar",
+      "link": "https://www.france24.com/en/video/20260813-lagos-electric-vehicles-offer-an-alternative-as-fuel-prices-soar",
+      "date": "Thu, 13 Aug 2026 16:56:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Solar eclipse 2026: Africa witnesses partial eclipse",
+      "link": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-africa-witnesses-partial-eclipse",
+      "date": "Thu, 13 Aug 2026 16:55:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia-Ukraine war: Grain hub attacks raise fears over global food prices",
+      "link": "https://www.france24.com/en/video/20260813-russia-ukraine-war-grain-hub-attacks-raise-fears-over-global-food-prices",
+      "date": "Thu, 13 Aug 2026 16:53:05 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Mojtaba Khamenei Is Planning for a Long War",
       "link": "https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/",
       "date": "Thu, 13 Aug 2026 16:50:54 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia rescuers cling to hope as quake survival window closes",
+      "link": "https://www.france24.com/en/video/20260813-colombia-rescuers-cling-to-hope-as-quake-survival-window-closes",
+      "date": "Thu, 13 Aug 2026 16:50:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "European drought shrivels crops despite farmers’ best efforts to adapt",
+      "link": "https://www.france24.com/en/europe/20260813-european-drought-shrivels-crops-despite-farmers-best-efforts-to-adapt",
+      "date": "Thu, 13 Aug 2026 16:47:27 GMT"
     },
     {
       "src": "Foreign Policy",
