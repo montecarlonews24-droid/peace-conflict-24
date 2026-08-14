@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-14T10:45:46.056Z",
+  "updated": "2026-08-14T11:35:01.572Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Palestinians families trapped in home",
+      "link": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
+      "date": "Fri, 14 Aug 2026 11:33:16 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 11:18:22 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Winless run against Thailand will not ‘own’ Lions, says Gavin Lee ahead of ASEAN Championship semis",
+      "link": "https://www.channelnewsasia.com/sport/football-singapore-thailand-gavin-lee-asean-championship-semis-6319651",
+      "date": "Fri, 14 Aug 2026 19:14:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 11:06:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 11:04:40 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Vote counting suspended in Zambia over alleged attacks on polling staff",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 11:04:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil set for weekly gains after US threatens indefinite blockade of Iran",
+      "link": "https://www.channelnewsasia.com/business/oil-set-weekly-gains-after-us-threatens-indefinite-blockade-iran-6319831",
+      "date": "Fri, 14 Aug 2026 19:01:55 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester City&#039;s Maresca coy on Rodri future ahead of Community Shield",
+      "link": "https://www.channelnewsasia.com/sport/manchester-citys-maresca-coy-rodri-future-ahead-community-shield-6319796",
+      "date": "Fri, 14 Aug 2026 18:56:25 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Stolen Matisse artworks recovered by police in Brazil",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 10:55:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Prabowo proposes US$230 billion budget for 2027; targets deficit at 2.4% of GDP",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-budget-2027-president-prabowo-subianto-6319501",
+      "date": "Fri, 14 Aug 2026 18:53:41 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 10:52:15 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Maid jailed after struggle over walking stick leaves 94-year-old employer with head injury",
+      "link": "https://www.channelnewsasia.com/singapore/maid-elderly-man-head-injury-walking-stick-6319676",
+      "date": "Fri, 14 Aug 2026 18:50:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China&#039;s Z.ai says new model nears Anthropic&#039;s Mythos 5 in cyber-defence tests",
+      "link": "https://www.channelnewsasia.com/business/china-ai-new-model-glm-anthropic-mythos-5-6319716",
+      "date": "Fri, 14 Aug 2026 18:45:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Palestinians families trapped in homes",
+      "link": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
+      "date": "Fri, 14 Aug 2026 10:43:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine war: Grain attacks raise food price fears",
+      "link": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
+      "date": "Fri, 14 Aug 2026 10:41:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Global sea temperature reach 21 degrees amid heatwaves",
+      "link": "https://www.france24.com/en/global-sea-temperature-reach-21-degrees-amid-heatwaves",
+      "date": "Fri, 14 Aug 2026 10:37:27 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -15,6 +127,13 @@
       "text": "Europe swelters under new heatwave",
       "link": "https://www.france24.com/en/europe-swelters-under-new-heatwave",
       "date": "Fri, 14 Aug 2026 10:33:05 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 10:32:22 +0000"
     },
     {
       "src": "France 24",
@@ -38,6 +157,13 @@
       "date": "Fri, 14 Aug 2026 10:29:10 GMT"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Seven killed in tunnel accident at Indian hydropower project",
+      "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 10:28:34 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Stablecoin issuer Tether says KPMG US has audited its 2025 statements",
@@ -52,13 +178,6 @@
       "date": "Fri, 14 Aug 2026 18:23:08 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Luigi Mangione, accused insurance CEO killer, due in court amid plea deal reports",
-      "link": "https://www.channelnewsasia.com/world/luigi-mangione-trial-us-health-insurance-ceo-murder-plea-deal-6319691",
-      "date": "Fri, 14 Aug 2026 18:19:34 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US missionary released following kidnap in Niger, Christian group says",
@@ -66,60 +185,11 @@
       "date": "Fri, 14 Aug 2026 10:18:02 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India seek boost in Sri Lanka to revive WTC hopes",
-      "link": "https://www.channelnewsasia.com/sport/india-seek-boost-in-sri-lanka-revive-wtc-hopes-6319721",
-      "date": "Fri, 14 Aug 2026 18:17:16 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nolan's Odyssey grossed over $1 billion",
-      "link": "https://www.france24.com/en/video/20260814-nolan-s-odyssey-grossed-over-1-billion",
-      "date": "Fri, 14 Aug 2026 10:15:34 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Alphabet&#039;s SpaceX bet grows 100-fold over a decade to $94 billion",
-      "link": "https://www.channelnewsasia.com/business/alphabets-spacex-bet-grows-100-fold-over-decade-94-billion-6319671",
-      "date": "Fri, 14 Aug 2026 18:05:19 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "American missionary kidnapped in Niger freed after nine months",
       "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "date": "Fri, 14 Aug 2026 09:48:11 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philippine president says joint oil and gas exploration with China a &#039;distinct possibility&#039;",
-      "link": "https://www.channelnewsasia.com/asia/philippines-china-joint-oil-gas-exploration-marcos-6319601",
-      "date": "Fri, 14 Aug 2026 17:45:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Colombia: Hundreds still missing as earthquake resue effort continues",
-      "link": "https://www.france24.com/en/colombia-hundreds-still-missing-as-earthquake-resue-effort-continues",
-      "date": "Fri, 14 Aug 2026 09:41:28 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Cambodia says to resume military drills with US next year",
-      "link": "https://www.channelnewsasia.com/asia/cambodia-us-resume-military-drills-6319606",
-      "date": "Fri, 14 Aug 2026 17:40:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NATO jets shoot down drone in Latvian airspace: Spokesperson",
-      "link": "https://www.channelnewsasia.com/world/latvia-shoots-down-drone-in-airspace-nato-russia-6318841",
-      "date": "Fri, 14 Aug 2026 17:36:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -136,74 +206,11 @@
       "date": "Fri, 14 Aug 2026 09:28:03 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Swiatek defeats Rybakina to claim Canadian Open title​",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 09:26:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK far-right leader Farage re-elected in boycotted by-election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 09:24:24 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli settlers seize Palestinian water source in occupied West Bank to create recreational pool",
-      "link": "https://www.france24.com/en/middle-east/20260814-israeli-settlers-seize-palestinian-water-source-in-occupied-west-bank-to-create-recreational-pool",
-      "date": "Fri, 14 Aug 2026 09:23:33 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "La Liga: Barcelona key talking points heading into new 2026-27 season",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 09:20:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-      "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 09:18:25 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine: Civilian casualties hit highest level since May 2022",
-      "link": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
-      "date": "Fri, 14 Aug 2026 09:08:02 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What is a ‘ceasefire’ supposed to achieve?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 09:00:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tanzid makes history as Bangladesh dominate first Australia Test",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/tanzid-makes-history-as-bangladesh-dominate-first-australia-test?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 08:40:55 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US says dozens of countries helped China dodge Trump's tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 08:39:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Stolen Matisse artworks recovered by police in Brazil",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 08:34:19 GMT"
     },
     {
       "src": "Sky News",
@@ -281,13 +288,6 @@
       "text": "Why Hackers Keep Going After U.S. Water Supplies",
       "link": "https://foreignpolicy.com/2026/08/13/cyberattack-water-iran-united-states/",
       "date": "Thu, 13 Aug 2026 16:25:52 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Person fined after using foghorn to wake sleeping polar bear",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 13 Aug 2026 15:30:57 GMT"
     },
     {
       "src": "The Guardian",
