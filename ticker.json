@@ -1,20 +1,97 @@
 {
-  "updated": "2026-08-14T16:10:41.594Z",
-  "count": 72,
+  "updated": "2026-08-14T17:22:47.666Z",
+  "count": 56,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 16:59:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Analysis: Israel’s government can’t disown West Bank settler violence",
+      "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 16:46:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 16:35:45 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "France's top court blocks social media ban for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 16:35:06 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 16:28:59 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Yes, the Iran War Really Is Similar to Vietnam",
+      "link": "https://foreignpolicy.com/2026/08/14/iran-war-vietnam-similarities-david-halberstam-best-brightest/",
+      "date": "Fri, 14 Aug 2026 16:25:28 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canadian plasma clinics pause collections after deaths of two donors",
+      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+      "date": "Fri, 14 Aug 2026 16:21:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Workday buyout may restore confidence in battered software valuations, analysts say",
+      "link": "https://www.channelnewsasia.com/business/workday-buyout-may-restore-confidence-in-battered-software-valuations-analysts-say-6320366",
+      "date": "Sat, 15 Aug 2026 00:18:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US raises pressure on EU to &#039;deliver&#039; on non-tariff trade commitments",
+      "link": "https://www.channelnewsasia.com/world/us-raises-pressure-eu-deliver-non-tariff-trade-commitments-6320346",
+      "date": "Sat, 15 Aug 2026 00:17:11 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Philippines drug war victims seek justice through truth commission",
+      "link": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 16:08:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Liverpool owners secure new investment from Bezos-backed consortium",
+      "link": "https://www.channelnewsasia.com/sport/liverpool-owners-secure-new-investment-bezos-backed-consortium-6320356",
+      "date": "Sat, 15 Aug 2026 00:05:26 +0800"
+    },
     {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Fake accounts and false rumours drive new Ceuta crossing campaign",
       "link": "https://www.rfi.fr/en/international/20260814-fake-accounts-and-false-rumours-drive-new-ceuta-crossing-campaign",
       "date": "Fri, 14 Aug 2026 16:04:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe: Raging wildfires scorch large swaths of the continent",
-      "link": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
-      "date": "Fri, 14 Aug 2026 16:02:43 GMT"
     },
     {
       "src": "CNA",
@@ -52,46 +129,11 @@
       "date": "Fri, 14 Aug 2026 15:36:58 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France wildfire forces 520 to evacuate",
-      "link": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
-      "date": "Fri, 14 Aug 2026 15:28:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France blocks under 15 social media ban",
-      "link": "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
-      "date": "Fri, 14 Aug 2026 15:25:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
-      "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 15:25:11 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump asks Supreme Court to allow ballroom work to continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 15:10:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ahmed al-Sharaa: A New Vision for Syria",
-      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 15:00:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Washington condemns siege of Palestinian homes",
-      "link": "https://www.france24.com/en/video/20260814-west-bank-washington-condemns-siege-of-palestinian-homes",
-      "date": "Fri, 14 Aug 2026 15:00:00 GMT"
     },
     {
       "src": "CNA",
@@ -106,13 +148,6 @@
       "text": "American missionary kidnapped in Niger freed after nine months",
       "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "date": "Fri, 14 Aug 2026 14:55:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-      "link": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 14:48:54 +0000"
     },
     {
       "src": "CNA",
@@ -136,20 +171,6 @@
       "date": "Fri, 14 Aug 2026 22:32:32 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
-      "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 14:19:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hungry Arsenal target Community Shield as Arteta eyes strong start to the season",
-      "link": "https://www.channelnewsasia.com/sport/hungry-arsenal-target-community-shield-arteta-eyes-strong-start-season-6320141",
-      "date": "Fri, 14 Aug 2026 22:09:31 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
@@ -162,48 +183,6 @@
       "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
       "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
       "date": "Fri, 14 Aug 2026 13:58:47 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar falls on surprise drop in US retail sales",
-      "link": "https://www.channelnewsasia.com/business/dollar-falls-surprise-drop-in-us-retail-sales-6319256",
-      "date": "Fri, 14 Aug 2026 21:58:31 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Birthrate drop in North Africa",
-      "link": "https://www.france24.com/en/birthrate-drop-in-north-africa",
-      "date": "Fri, 14 Aug 2026 13:54:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "World Bank to fund 645-metre bridge linking Bangui and Zongo",
-      "link": "https://www.france24.com/en/world-bank-to-fund-645-metre-bridge-linking-bangui-and-zongo",
-      "date": "Fri, 14 Aug 2026 13:52:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mount Etna continues to erupt in Italy",
-      "link": "https://www.france24.com/en/mount-etna-continues-to-erupt-in-italy",
-      "date": "Fri, 14 Aug 2026 13:49:18 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "At least S$6.1 million lost to scammers impersonating ICA, China officials",
-      "link": "https://www.channelnewsasia.com/singapore/impersonation-scams-officials-ica-china-6320076",
-      "date": "Fri, 14 Aug 2026 21:48:43 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Chadian President Déby pardons jailed main rival and 8 opposition leaders",
-      "link": "https://www.france24.com/en/africa/20260814-chadian-president-d%C3%A9by-pardons-jailed-main-rival-and-8-opposition-leaders",
-      "date": "Fri, 14 Aug 2026 13:48:13 GMT"
     },
     {
       "src": "BBC World",
@@ -234,20 +213,6 @@
       "date": "Fri, 14 Aug 2026 12:00:19 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: The harrowing reality of giving birth in a war zone",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 11:37:31 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Stolen Matisse artworks recovered by police in Brazil",
@@ -260,13 +225,6 @@
       "text": "'Unprecedented' rain in Japan kills eight people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 10:36:14 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 08:39:46 GMT"
     },
     {
       "src": "Sky News",
@@ -295,13 +253,6 @@
       "text": "Revealed: What caused man to be partially sucked out of plane",
       "link": "https://news.sky.com/story/revealedwhat-caused-man-to-be-partially-sucked-out-of-ryanair-plane-13572791",
       "date": "Fri, 14 Aug 2026 01:25:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 13 Aug 2026 23:06:23 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -367,55 +318,6 @@
       "date": "Thu, 13 Aug 2026 13:58:34 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168137",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168135",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Civilian casualties hit highest level since March 2022",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168134",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168132",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco steps up border security over fears of new mass crossing into Ceuta",
@@ -465,13 +367,6 @@
       "date": "Thu, 13 Aug 2026 02:26:10 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Does the Mecca Pact Deliver Pakistan?",
-      "link": "https://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turkey-iran-mutual-defense/",
-      "date": "Wed, 12 Aug 2026 21:20:25 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Be very careful': FIFA VP warns those trying to oust Infantino",
@@ -491,13 +386,6 @@
       "text": "How Britain could help halt often overlooked conflict",
       "link": "https://news.sky.com/story/sudan-war-the-uaes-role-in-this-conflict-is-under-increasing-scrutiny-and-so-is-britains-13572327",
       "date": "Wed, 12 Aug 2026 17:06:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-      "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "date": "Wed, 12 Aug 2026 14:40:36 GMT"
     },
     {
       "src": "The Guardian",
