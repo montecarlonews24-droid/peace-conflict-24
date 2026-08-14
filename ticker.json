@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-14T15:12:17.850Z",
+  "updated": "2026-08-14T16:10:41.594Z",
   "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Fake accounts and false rumours drive new Ceuta crossing campaign",
+      "link": "https://www.rfi.fr/en/international/20260814-fake-accounts-and-false-rumours-drive-new-ceuta-crossing-campaign",
+      "date": "Fri, 14 Aug 2026 16:04:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe: Raging wildfires scorch large swaths of the continent",
+      "link": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
+      "date": "Fri, 14 Aug 2026 16:02:43 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SCDF unveils new ambulance that can be reconfigured quickly to carry 2 patients at a time",
+      "link": "https://www.channelnewsasia.com/singapore/new-ambulance-features-reconfigured-two-patients-scdf-6319726",
+      "date": "Sat, 15 Aug 2026 00:00:36 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Top French court upholds assisted dying law, rejects teen social media ban",
+      "link": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 15:52:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
+      "link": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 15:43:15 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zambia suspends vote counting in election citing violence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 15:40:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 15:36:58 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France wildfire forces 520 to evacuate",
+      "link": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
+      "date": "Fri, 14 Aug 2026 15:28:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France blocks under 15 social media ban",
+      "link": "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
+      "date": "Fri, 14 Aug 2026 15:25:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
+      "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 15:25:11 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump asks Supreme Court to allow ballroom work to continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 15:10:41 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -10,11 +87,25 @@
       "date": "Fri, 14 Aug 2026 15:00:00 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Washington condemns siege of Palestinian homes",
+      "link": "https://www.france24.com/en/video/20260814-west-bank-washington-condemns-siege-of-palestinian-homes",
+      "date": "Fri, 14 Aug 2026 15:00:00 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Qatar challenges AFC over open letter attacking FIFA president Infantino",
       "link": "https://www.channelnewsasia.com/sport/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino-6320231",
       "date": "Fri, 14 Aug 2026 22:55:59 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "American missionary kidnapped in Niger freed after nine months",
+      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "date": "Fri, 14 Aug 2026 14:55:17 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -50,13 +141,6 @@
       "text": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
       "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
       "date": "Fri, 14 Aug 2026 14:19:30 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "American missionary kidnapped in Niger freed after nine months",
-      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "date": "Fri, 14 Aug 2026 14:14:35 GMT"
     },
     {
       "src": "CNA",
@@ -122,67 +206,11 @@
       "date": "Fri, 14 Aug 2026 13:48:13 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Reddit surges on S&P 500 inclusion, set to replace AvalonBay",
-      "link": "https://www.channelnewsasia.com/business/reddit-surges-sp-500-inclusion-set-replace-avalonbay-6320091",
-      "date": "Fri, 14 Aug 2026 21:47:36 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 13:18:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 France's constitutional authority strikes down social media ban for under-15s",
-      "link": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
-      "date": "Fri, 14 Aug 2026 13:18:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's constitutional authority strikes down social media ban for under-15s",
-      "link": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
-      "date": "Fri, 14 Aug 2026 13:17:13 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 13:07:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia stance will be defended in court, pledges World Athletics chief Coe",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 13:04:23 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mount Etna's ongoing volcanic activity disrupts summer travel",
-      "link": "https://www.france24.com/en/mount-etna-s-ongoing-volcanic-activity-disrupts-summer-travel",
-      "date": "Fri, 14 Aug 2026 12:55:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US missionary kidnapped in Niger released after nine months in captivity",
-      "link": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 12:54:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-      "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 12:45:11 +0000"
     },
     {
       "src": "RFI",
@@ -199,13 +227,6 @@
       "date": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli soldiers prevent aid delivery to besieged Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 12:11:56 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Colombia’s Week of Rupture",
@@ -218,13 +239,6 @@
       "text": "Sudan: The harrowing reality of giving birth in a war zone",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
       "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zambia suspends vote count nationwide amid reports of violence, ballot theft",
-      "link": "https://www.france24.com/en/africa/20260814-zambia-suspends-election-vote-counting-over-reports-of-violence",
-      "date": "Fri, 14 Aug 2026 11:57:23 GMT"
     },
     {
       "src": "BBC World",
@@ -288,13 +302,6 @@
       "text": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 13 Aug 2026 23:06:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 13 Aug 2026 21:43:47 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -470,13 +477,6 @@
       "text": "'Be very careful': FIFA VP warns those trying to oust Infantino",
       "link": "https://news.sky.com/story/way-to-challenge-infantino-is-during-fifa-election-african-football-leader-says-13572391",
       "date": "Wed, 12 Aug 2026 20:54:00 +0100"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Iran faces growing isolation and uncertain future amid 'dire' economic situation",
-      "link": "https://www.rfi.fr/en/international/20260812-iran-faces-growing-isolation-and-uncertain-future-amid-dire-economic-situation",
-      "date": "Wed, 12 Aug 2026 18:48:01 GMT"
     },
     {
       "src": "The Guardian",
