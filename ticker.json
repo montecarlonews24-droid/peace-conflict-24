@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-14T06:49:46.825Z",
-  "count": 72,
+  "updated": "2026-08-14T08:05:37.370Z",
+  "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "NATO jets shoot down drone flying over eastern Latvia",
+      "link": "https://www.france24.com/en/europe/20260814-nato-jets-shoot-down-drone-flying-over-eastern-latvia",
+      "date": "Fri, 14 Aug 2026 08:03:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Air India A320 briefly lost key flight controls, Airbus analysis shows",
+      "link": "https://www.channelnewsasia.com/asia/air-india-phuket-delhi-flight-key-controls-unresponsive-airbus-6319356",
+      "date": "Fri, 14 Aug 2026 15:37:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "French taxpayers&#039; data stolen in cyber attack, French Finance Ministry says",
+      "link": "https://www.channelnewsasia.com/business/french-taxpayers-data-stolen-in-cyber-attack-french-finance-ministry-says-6319366",
+      "date": "Fri, 14 Aug 2026 15:33:40 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thai schools step up security after deadly shooting",
+      "link": "https://www.channelnewsasia.com/asia/thailand-schools-step-up-security-after-school-shooting-6319341",
+      "date": "Fri, 14 Aug 2026 15:20:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 07:11:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+      "link": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 07:07:42 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Unprecedented' rains in Japan kill six people",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 14 Aug 2026 07:00:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France evacuates hundreds as new wildfire threatens southwestern Landes region",
+      "link": "https://www.france24.com/en/france/20260814-france-evacuates-hundreds-new-wildfire-threatens-southwestern-landes-region",
+      "date": "Fri, 14 Aug 2026 06:54:27 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Prabowo touts government’s early wins in state address, says Indonesia could hit 6% growth by this year",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-state-nation-6317126",
+      "date": "Fri, 14 Aug 2026 14:51:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Social media firms urge caution on early Australia under-16 ban data",
+      "link": "https://www.channelnewsasia.com/business/social-media-firms-urge-caution-early-australia-under-16-ban-data-6319306",
+      "date": "Fri, 14 Aug 2026 14:50:29 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nigel Farage regains UK parliamentary seat, fights off Count Binface challenge",
+      "link": "https://www.channelnewsasia.com/world/nigel-farage-regains-uk-parliamentary-seat-fights-count-binface-challenge-6319146",
+      "date": "Fri, 14 Aug 2026 14:50:00 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -24,32 +101,11 @@
       "date": "Fri, 14 Aug 2026 06:34:35 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Law Minister Edwin Tong calls on Law Society to release full audit report to members",
-      "link": "https://www.channelnewsasia.com/singapore/law-society-edwin-tong-full-report-audit-6318791",
-      "date": "Fri, 14 Aug 2026 14:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ASEAN Cup: More than 10 venues to screen Singapore-Thailand semi-final live",
-      "link": "https://www.channelnewsasia.com/singapore/asean-cup-venues-screening-singapore-thailand-semi-final-live-6319221",
-      "date": "Fri, 14 Aug 2026 14:24:02 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
       "link": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
       "date": "Fri, 14 Aug 2026 06:22:41 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asia can step up as humanitarian aid sees ‘biggest contraction’ in recent history: IFRC",
-      "link": "https://www.channelnewsasia.com/asia/asia-can-step-up-humanitarian-aid-sees-biggest-contraction-in-recent-history-ifrc-6319181",
-      "date": "Fri, 14 Aug 2026 14:16:21 +0800"
     },
     {
       "src": "France 24",
@@ -59,25 +115,11 @@
       "date": "Fri, 14 Aug 2026 06:08:07 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "K-pop group Babymonster will be in Singapore in August for Adidas Orchard Ignition event",
-      "link": "https://www.channelnewsasia.com/entertainment/babymonster-adidas-orchard-ignition-singapore-2026-6319166",
-      "date": "Fri, 14 Aug 2026 13:55:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MRT network goes 9 months without delay exceeding 30 minutes, longest streak since 2011",
-      "link": "https://www.channelnewsasia.com/singapore/mrt-train-rail-reliability-report-july-2026-lta-6318781",
-      "date": "Fri, 14 Aug 2026 13:54:42 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix",
-      "link": "https://www.channelnewsasia.com/living/ferrari-marina-bay-sands-singapore-f1-2026-6319016",
-      "date": "Fri, 14 Aug 2026 13:43:00 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Four dead in Japan after record-breaking rainfall causes severe flooding",
+      "link": "https://news.sky.com/story/four-dead-near-tokyo-after-heavy-rains-and-floods-with-thousands-stranded-at-railway-station-13572823",
+      "date": "Fri, 14 Aug 2026 07:01:00 +0100"
     },
     {
       "src": "Al Jazeera",
@@ -89,7 +131,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+      "text": "US sailors report dire conditions as replacement carrier heads to Middle East",
       "link": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
       "date": "Fri, 14 Aug 2026 05:30:36 GMT"
     },
@@ -108,13 +150,6 @@
       "date": "Fri, 14 Aug 2026 05:02:19 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Unprecedented' rains in Japan kill four people",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 04:54:13 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
@@ -127,20 +162,6 @@
       "text": "How much power does the US hold in Venezuela?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
       "date": "Fri, 14 Aug 2026 04:51:45 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 04:38:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Water supply for three US states drips down, Lake Mead at record low",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 04:26:09 +0000"
     },
     {
       "src": "BBC World",
@@ -166,7 +187,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Donald Trump imposes tariffs of up to 100% on imported drones",
+      "text": "Trump imposes tariffs of up to 100% on drone imports",
       "link": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
       "date": "Fri, 14 Aug 2026 00:02:12 GMT"
     },
@@ -187,7 +208,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Raul Castro makes rare public appearance at Fidel centenary event",
+      "text": "Cuba's indicted Raul Castro makes rare public appearance at Fidel centenary event",
       "link": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
       "date": "Thu, 13 Aug 2026 21:39:57 GMT"
     },
@@ -197,13 +218,6 @@
       "text": "The Iran War Has Left the U.S. Dangerously Exposed",
       "link": "https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/",
       "date": "Thu, 13 Aug 2026 20:45:17 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceremony to pay tribute to capsized ferry victims",
-      "link": "https://www.france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims",
-      "date": "Thu, 13 Aug 2026 20:23:13 GMT"
     },
     {
       "src": "BBC World",
@@ -232,13 +246,6 @@
       "text": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 13 Aug 2026 19:46:27 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lagos: Electric vehicles offer an alternative as fuel prices soar",
-      "link": "https://www.france24.com/en/video/20260813-lagos-electric-vehicles-offer-an-alternative-as-fuel-prices-soar",
-      "date": "Thu, 13 Aug 2026 16:56:57 GMT"
     },
     {
       "src": "BBC World",
@@ -304,55 +311,6 @@
       "date": "Thu, 13 Aug 2026 13:58:34 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168137",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168135",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Civilian casualties hit highest level since March 2022",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168134",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168132",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco steps up border security over fears of new mass crossing into Ceuta",
@@ -393,6 +351,13 @@
       "text": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
       "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
       "date": "Thu, 13 Aug 2026 04:00:49 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Farage wins UK by-election as Count Binface claims 'moral victory'",
+      "link": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
+      "date": "Thu, 13 Aug 2026 02:26:10 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -444,13 +409,6 @@
       "date": "Wed, 12 Aug 2026 15:52:14 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Eurovision changes rules to prevent winners involved in 'armed conflict' from hosting",
-      "link": "https://news.sky.com/story/eurovision-changes-rules-to-prevent-winners-involved-in-armed-conflict-from-hosting-13572324",
-      "date": "Wed, 12 Aug 2026 16:49:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
@@ -465,13 +423,6 @@
       "date": "Wed, 12 Aug 2026 12:21:08 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Youth advocates gather in New York to launch new AI standards",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168129",
-      "date": "Wed, 12 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
@@ -484,13 +435,6 @@
       "text": "Hungary elects Orban critic Andras Baka as first president in new political era",
       "link": "https://www.rfi.fr/en/international/20260812-hungary-elects-orban-critic-andras-baka-as-first-president-of-new-political-era",
       "date": "Wed, 12 Aug 2026 09:36:40 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Total solar eclipse over Spain to draw millions of viewers across Europe",
-      "link": "https://www.rfi.fr/en/international/20260812-total-solar-eclipse-over-spain-to-draw-millions-of-viewers-across-europe",
-      "date": "Wed, 12 Aug 2026 05:44:33 GMT"
     },
     {
       "src": "Sky News",
