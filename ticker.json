@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-14T19:24:30.070Z",
+  "updated": "2026-08-14T20:00:24.079Z",
   "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Italy&#039;s Euro 2020 winner Immobile retires after 17-year career",
+      "link": "https://www.channelnewsasia.com/sport/italys-euro-2020-winner-immobile-retires-after-17-year-career-6320566",
+      "date": "Sat, 15 Aug 2026 03:46:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "New aerial video reveals huge scale of oil spill off Oman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 19:36:45 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,11 +24,32 @@
       "date": "Sat, 15 Aug 2026 03:12:43 +0800"
     },
     {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/08/14/foreign-policy-news-quiz-colombia-earthquake-typhoon-russia-lebanon-eclipse/",
+      "date": "Fri, 14 Aug 2026 19:08:03 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump asks Supreme Court to allow ballroom work to continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 19:05:22 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+      "date": "Fri, 14 Aug 2026 19:02:49 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Liberalism Is Worth Saving. Here’s How.",
+      "link": "https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/",
+      "date": "Fri, 14 Aug 2026 19:00:37 +0000"
     },
     {
       "src": "CNA",
@@ -157,18 +192,11 @@
       "date": "Fri, 14 Aug 2026 17:03:17 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Liverpool to sell minority stake to consortium including Jeff Bezos",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 16:59:41 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Joshua Kushner&#039;s Thrive Capital discloses $215 million Amazon stake",
-      "link": "https://www.channelnewsasia.com/business/joshua-kushners-thrive-capital-discloses-215-million-amazon-stake-6320391",
-      "date": "Sat, 15 Aug 2026 00:57:12 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "British cyclist, 19, dies in serious incident in Volta a Portugal race",
+      "link": "https://news.sky.com/story/british-cyclist-finlay-tarling-19-dies-in-serious-incident-in-volta-a-portugal-race-13573071",
+      "date": "Fri, 14 Aug 2026 18:01:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -183,13 +211,6 @@
       "text": "Race to free trapped quake survivor offers hope in Colombia",
       "link": "https://www.france24.com/en/americas/20260814-race-to-free-trapped-survivor-offers-hope-in-colombia-earthquake-zone",
       "date": "Fri, 14 Aug 2026 16:49:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Analysis: Israel’s government can’t disown West Bank settler violence",
-      "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 16:46:30 +0000"
     },
     {
       "src": "BBC World",
@@ -297,13 +318,6 @@
       "date": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Colombia’s Week of Rupture",
-      "link": "https://foreignpolicy.com/2026/08/14/colombia-earthquake-espriella-foreign-policy-trump-us-israel/",
-      "date": "Fri, 14 Aug 2026 12:00:19 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Stolen Matisse artworks recovered by police in Brazil",
@@ -344,13 +358,6 @@
       "text": "Revealed: What caused man to be partially sucked out of plane",
       "link": "https://news.sky.com/story/revealedwhat-caused-man-to-be-partially-sucked-out-of-ryanair-plane-13572791",
       "date": "Fri, 14 Aug 2026 01:25:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Iran War Has Left the U.S. Dangerously Exposed",
-      "link": "https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/",
-      "date": "Thu, 13 Aug 2026 20:45:17 +0000"
     },
     {
       "src": "RFI",
@@ -421,13 +428,6 @@
       "text": "Farage wins UK by-election as Count Binface claims 'moral victory'",
       "link": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
       "date": "Thu, 13 Aug 2026 02:26:10 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Be very careful': FIFA VP warns those trying to oust Infantino",
-      "link": "https://news.sky.com/story/way-to-challenge-infantino-is-during-fifa-election-african-football-leader-says-13572391",
-      "date": "Wed, 12 Aug 2026 20:54:00 +0100"
     },
     {
       "src": "The Guardian",
