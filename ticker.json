@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15T06:16:43.230Z",
+  "updated": "2026-08-15T07:03:49.659Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
+      "link": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
+      "date": "Sat, 15 Aug 2026 06:37:15 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 06:21:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "At PKR congress, Anwar vows wider graft crackdown and cites king’s backing",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-pm-anwar-combat-corruption-pkr-congress-6320981",
+      "date": "Sat, 15 Aug 2026 14:20:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+      "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 06:10:07 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -87,25 +115,11 @@
       "date": "Sat, 15 Aug 2026 12:17:44 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 04:12:55 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Did the US really destroy Iran’s ballistic missile capability?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
       "date": "Sat, 15 Aug 2026 03:52:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India marks 80th Independence Day with military display",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 03:39:06 +0000"
     },
     {
       "src": "CNA",
@@ -127,20 +141,6 @@
       "text": "Japan defence minister visits Yasukuni war shrine, PM Takaichi stays away",
       "link": "https://www.channelnewsasia.com/east-asia/japan-yasukuni-shrine-defence-minister-pm-takaichi-6320966",
       "date": "Sat, 15 Aug 2026 10:58:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chinese drone maker DJI gets fresh chance to escape Pentagon&#039;s blacklist",
-      "link": "https://www.channelnewsasia.com/east-asia/china-drone-maker-dji-pentagon-blacklist-6320216",
-      "date": "Sat, 15 Aug 2026 10:19:00 +0800"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Powerful 7.7-magnitude earthquake strikes Indonesia",
-      "link": "https://news.sky.com/story/indonesia-powerful-77-magnitude-earthquake-damage-13573197",
-      "date": "Sat, 15 Aug 2026 02:54:00 +0100"
     },
     {
       "src": "Sky News",
@@ -302,13 +302,6 @@
       "text": "Canadian plasma clinics pause collections after deaths of two donors",
       "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
       "date": "Fri, 14 Aug 2026 16:21:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘We never leave’: Palestinians besieged in West Bank fear Israeli settlers will seize their homes",
-      "link": "https://www.france24.com/en/middle-east/20260814-israel-s-new-west-bank-settlements-bring-chaos-to-palestinians",
-      "date": "Fri, 14 Aug 2026 16:15:18 GMT"
     },
     {
       "src": "RFI",
@@ -498,6 +491,13 @@
       "text": "Farage wins UK by-election as Count Binface claims 'moral victory'",
       "link": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
       "date": "Thu, 13 Aug 2026 02:26:10 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "How Britain could help halt often overlooked conflict",
+      "link": "https://news.sky.com/story/sudan-war-the-uaes-role-in-this-conflict-is-under-increasing-scrutiny-and-so-is-britains-13572327",
+      "date": "Wed, 12 Aug 2026 17:06:00 +0100"
     },
     {
       "src": "The Guardian",
