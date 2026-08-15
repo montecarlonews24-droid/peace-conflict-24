@@ -1,13 +1,34 @@
 {
-  "updated": "2026-08-15T21:10:14.401Z",
+  "updated": "2026-08-15T21:41:29.107Z",
   "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 21:35:19 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 21:03:57 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar denies it is detaining three Iranian bomber pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 20:55:29 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -150,25 +171,18 @@
       "date": "Sat, 15 Aug 2026 18:08:21 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 18:02:30 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta",
       "link": "https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534",
       "date": "Sat, 15 Aug 2026 19:00:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 17:49:42 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 17:47:42 GMT"
     },
     {
       "src": "CNA",
@@ -232,13 +246,6 @@
       "text": "Ebola outbreak in DR Congo: One death every 30 minutes",
       "link": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
       "date": "Sat, 15 Aug 2026 14:46:49 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 13:41:09 GMT"
     },
     {
       "src": "RFI",
@@ -351,13 +358,6 @@
       "text": "How Ronald Reagan Sold Calm to Americans",
       "link": "https://foreignpolicy.com/2026/08/14/how-ronald-reagan-sold-calm-to-americans/",
       "date": "Fri, 14 Aug 2026 18:00:08 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
     {
       "src": "Sky News",
