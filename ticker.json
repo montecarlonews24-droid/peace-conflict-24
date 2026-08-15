@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15T04:56:55.080Z",
+  "updated": "2026-08-15T05:17:21.461Z",
   "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
+      "link": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+      "date": "Sat, 15 Aug 2026 05:12:23 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NEA rebuts accusations of misappropriation, corruption over Beverage Container Return Scheme refunds",
+      "link": "https://www.channelnewsasia.com/singapore/beverage-container-return-scheme-nea-rebut-accusation-6321081",
+      "date": "Sat, 15 Aug 2026 13:06:16 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India PM Modi woos youth with free coaching, AI training",
+      "link": "https://www.channelnewsasia.com/asia/india-modi-education-youth-free-coaching-ai-training-6321086",
+      "date": "Sat, 15 Aug 2026 13:00:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 04:54:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "On the ground in Indonesia following 7.7 magnitude earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 04:49:47 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Taiwan passes defence budget after record delay, retains drone funding",
+      "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 04:44:14 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -73,32 +115,11 @@
       "date": "Sat, 15 Aug 2026 10:58:45 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US President Trump says he will declare Strait of Hormuz US territory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 02:25:09 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Chinese drone maker DJI gets fresh chance to escape Pentagon&#039;s blacklist",
       "link": "https://www.channelnewsasia.com/east-asia/china-drone-maker-dji-pentagon-blacklist-6320216",
       "date": "Sat, 15 Aug 2026 10:19:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-      "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 02:08:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "7.7-magnitude earthquake strikes eastern Indonesia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 02:03:22 +0000"
     },
     {
       "src": "Sky News",
@@ -108,25 +129,18 @@
       "date": "Sat, 15 Aug 2026 02:54:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "link": "https://www.channelnewsasia.com/world/iran-us-war-trump-gas-prices-hormuz-6320876",
-      "date": "Sat, 15 Aug 2026 09:37:07 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US to tell partners they must pick sides in AI race with China",
-      "link": "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671",
-      "date": "Sat, 15 Aug 2026 09:23:47 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trump dismisses concerns about conditions on US aircraft carrier",
       "link": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
       "date": "Sat, 15 Aug 2026 02:05:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
       "src": "Sky News",
@@ -148,13 +162,6 @@
       "text": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
       "date": "Fri, 14 Aug 2026 21:03:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 20:22:56 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -302,13 +309,6 @@
       "text": "Europe: Raging wildfires scorch large swaths of the continent",
       "link": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
       "date": "Fri, 14 Aug 2026 16:02:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France wildfire forces 520 to evacuate",
-      "link": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
-      "date": "Fri, 14 Aug 2026 15:28:55 GMT"
     },
     {
       "src": "The Guardian",
