@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-14T23:43:09.038Z",
-  "count": 64,
+  "updated": "2026-08-15T00:32:13.132Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Families angered by slow search for loved ones after Colombia quake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 00:14:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+      "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-6320831",
+      "date": "Sat, 15 Aug 2026 08:11:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Putin says Russia, North Korea coordinating on regional security: Report",
+      "link": "https://www.channelnewsasia.com/world/north-korea-russia-security-6320736",
+      "date": "Sat, 15 Aug 2026 08:07:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/nvidia-scales-back-funding-guarantee-ohio-openai-data-center-wsj-reports-6320821",
+      "date": "Sat, 15 Aug 2026 07:43:56 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -59,20 +94,6 @@
       "date": "Sat, 15 Aug 2026 06:00:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Has Malaysia exorcised the 1MDB ghost? The markets say yes but that’s only half the story",
-      "link": "https://www.channelnewsasia.com/commentary/malaysia-1mdb-scandal-recovery-economy-bonds-sukuk-6319576",
-      "date": "Sat, 15 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ex-Cambridge professor at centre of plagiarism scandal found dead",
-      "link": "https://www.channelnewsasia.com/world/jason-arday-found-dead-cambridge-plagiarism-6320716",
-      "date": "Sat, 15 Aug 2026 05:56:40 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
@@ -94,18 +115,11 @@
       "date": "Fri, 14 Aug 2026 21:45:20 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Stocks slip in cautious trading after weak US retail sales data",
-      "link": "https://www.channelnewsasia.com/world/stocks-market-us-wall-street-retail-hormuz-6320691",
-      "date": "Sat, 15 Aug 2026 05:42:07 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 21:17:15 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "DR Congo Ebola outbreak spreads to sixth province",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260814-dr-congo-ebola-outbreak-spreads-to-sixth-province",
+      "date": "Fri, 14 Aug 2026 21:10:38 GMT"
     },
     {
       "src": "The Guardian",
@@ -113,13 +127,6 @@
       "text": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
       "date": "Fri, 14 Aug 2026 21:03:43 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-      "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-      "date": "Fri, 14 Aug 2026 21:03:07 +0000"
     },
     {
       "src": "BBC World",
@@ -283,13 +290,6 @@
       "date": "Fri, 14 Aug 2026 15:28:55 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France blocks under 15 social media ban",
-      "link": "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
-      "date": "Fri, 14 Aug 2026 15:25:17 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "American missionary kidnapped in Niger freed after nine months",
@@ -330,6 +330,48 @@
       "text": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
       "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 12:19:21 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -393,6 +435,20 @@
       "text": "French ambassador to CAR investigated over claims he hosted dozens of women",
       "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
       "date": "Thu, 13 Aug 2026 14:21:52 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
+      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
+      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
