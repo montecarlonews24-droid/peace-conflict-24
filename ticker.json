@@ -1,13 +1,41 @@
 {
-  "updated": "2026-08-15T17:41:18.105Z",
-  "count": 64,
+  "updated": "2026-08-15T18:10:55.631Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 17:47:42 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 17:42:36 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Inter sign England&#039;s Spence from Tottenham",
       "link": "https://www.channelnewsasia.com/sport/inter-sign-englands-spence-tottenham-6321651",
       "date": "Sun, 16 Aug 2026 01:32:17 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 17:27:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK PM Burnham reacts to death of former Cambridge professor",
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 17:19:12 +0000"
     },
     {
       "src": "CNA",
@@ -101,20 +129,6 @@
       "date": "Sat, 15 Aug 2026 15:25:51 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How blind football is helping women overcome barriers in Mexico",
-      "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 15:15:45 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five injured, one critically, in shooting at Virginia State University",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 15:09:59 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "French father and two children rescued after 16 hours adrift off Thai island",
@@ -148,13 +162,6 @@
       "text": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
       "link": "https://www.channelnewsasia.com/world/lebanon-reports-11-dead-in-strikes-israel-says-targeted-hezbollah-6321486",
       "date": "Sat, 15 Aug 2026 22:34:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The next Yemen war might be different",
-      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 14:32:07 +0000"
     },
     {
       "src": "BBC World",
@@ -211,6 +218,20 @@
       "text": "Ceuta: False social media posts fuel migration tensions",
       "link": "https://www.france24.com/en/ceuta-false-social-media-posts-fuel-migration-tensions",
       "date": "Sat, 15 Aug 2026 12:56:05 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -339,13 +360,6 @@
       "date": "Fri, 14 Aug 2026 16:56:53 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "France's top court blocks social media ban for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 14 Aug 2026 16:35:06 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canadian plasma clinics pause collections after deaths of two donors",
@@ -386,6 +400,48 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
