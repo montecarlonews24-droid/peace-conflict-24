@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T04:29:46.362Z",
-  "count": 72,
+  "updated": "2026-08-15T04:56:55.080Z",
+  "count": 64,
   "items": [
     {
       "src": "CNA",
@@ -8,6 +8,13 @@
       "text": "South Korea president proposes talks with North to formally end Korean War",
       "link": "https://www.channelnewsasia.com/east-asia/south-korea-propose-talks-north-end-korean-war-6321036",
       "date": "Sat, 15 Aug 2026 12:24:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran says no decision yet on a return to talks with the US",
+      "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 04:24:02 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -77,7 +84,7 @@
       "col": "#84cc16",
       "text": "Chinese drone maker DJI gets fresh chance to escape Pentagon&#039;s blacklist",
       "link": "https://www.channelnewsasia.com/east-asia/china-drone-maker-dji-pentagon-blacklist-6320216",
-      "date": "Sat, 15 Aug 2026 10:19:48 +0800"
+      "date": "Sat, 15 Aug 2026 10:19:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -108,13 +115,6 @@
       "date": "Sat, 15 Aug 2026 09:37:07 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least two killed as magnitude 7.7 quake hits Indonesia",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 01:36:04 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US to tell partners they must pick sides in AI race with China",
@@ -124,7 +124,14 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Potential disaster averted after jets share identical flight number",
+      "text": "Trump dismisses concerns about conditions on US aircraft carrier",
+      "link": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
+      "date": "Sat, 15 Aug 2026 02:05:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Potential disaster between two passenger jets averted in the US",
       "link": "https://news.sky.com/story/potential-disaster-averted-after-jets-share-identical-flight-number-13573194",
       "date": "Sat, 15 Aug 2026 00:43:00 +0100"
     },
@@ -229,7 +236,7 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
@@ -346,48 +353,6 @@
       "date": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: The harrowing reality of giving birth in a war zone",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Unprecedented' rain in Japan kills eight people",
@@ -451,20 +416,6 @@
       "date": "Thu, 13 Aug 2026 14:21:52 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco steps up border security over fears of new mass crossing into Ceuta",
@@ -491,13 +442,6 @@
       "text": "Farage wins UK by-election as Count Binface claims 'moral victory'",
       "link": "https://www.rfi.fr/en/international/20260813-farage-wins-uk-by-election-as-count-binface-claims-moral-victory",
       "date": "Thu, 13 Aug 2026 02:26:10 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "How Britain could help halt often overlooked conflict",
-      "link": "https://news.sky.com/story/sudan-war-the-uaes-role-in-this-conflict-is-under-increasing-scrutiny-and-so-is-britains-13572327",
-      "date": "Wed, 12 Aug 2026 17:06:00 +0100"
     },
     {
       "src": "The Guardian",
