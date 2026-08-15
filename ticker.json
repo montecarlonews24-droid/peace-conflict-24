@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15T11:40:52.644Z",
-  "count": 64,
+  "updated": "2026-08-15T12:13:36.141Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Indonesia hit by two powerful earthquakes",
+      "link": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
+      "date": "Sat, 15 Aug 2026 11:49:36 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 11:48:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine attacks Russian air base and rocket plant in Samara region",
+      "link": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
+      "date": "Sat, 15 Aug 2026 11:43:15 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 11:30:00 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -82,8 +110,8 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Israeli airstrikes in Lebanon kill nine people including three children",
-      "link": "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-13573242",
+      "text": "Israeli airstrikes in Lebanon kill nine people including three children, health ministry says",
+      "link": "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-health-ministry-says-13573242",
       "date": "Sat, 15 Aug 2026 11:19:00 +0100"
     },
     {
@@ -103,8 +131,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Spain&#039;s Perez sets women&#039;s half marathon race walk world record",
-      "link": "https://www.channelnewsasia.com/sport/spains-perez-sets-womens-half-marathon-race-walk-world-record-6321291",
+      "text": "Spain&#039;s Perez and Italian Fiorini set women&#039;s race walk world records",
+      "link": "https://www.channelnewsasia.com/sport/spains-perez-and-italian-fiorini-set-womens-race-walk-world-records-6321291",
       "date": "Sat, 15 Aug 2026 17:49:11 +0800"
     },
     {
@@ -117,8 +145,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "PSG sign Spain forward Torres from Barcelona",
-      "link": "https://www.channelnewsasia.com/sport/psg-sign-spain-forward-torres-barcelona-6321286",
+      "text": "PSG sign Spain&#039;s World Cup hero Torres from Barcelona",
+      "link": "https://www.channelnewsasia.com/sport/psg-sign-spains-world-cup-hero-torres-barcelona-6321286",
       "date": "Sat, 15 Aug 2026 17:42:41 +0800"
     },
     {
@@ -150,13 +178,6 @@
       "date": "Sat, 15 Aug 2026 17:00:24 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 08:52:55 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
@@ -164,32 +185,11 @@
       "date": "Sat, 15 Aug 2026 08:52:10 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bangladesh rock Australia as historic Test win in sight",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 08:50:56 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Five years of Taliban rule: Afghan women face deepening repression",
       "link": "https://www.france24.com/en/five-years-of-taliban-rule-afghan-women-face-deepening-repression",
       "date": "Sat, 15 Aug 2026 08:49:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Indonesia earthquake kills at least 38 as rescue operation continues",
-      "link": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
-      "date": "Sat, 15 Aug 2026 08:47:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Afghan women are erased from public life",
-      "link": "https://www.france24.com/en/afghan-women-are-erased-from-public-life",
-      "date": "Sat, 15 Aug 2026 08:42:06 GMT"
     },
     {
       "src": "CNA",
@@ -381,6 +381,48 @@
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Skies turn red as wildfires burn across Europe - with thousands of people evacuated",
@@ -428,6 +470,20 @@
       "text": "French ambassador to CAR investigated over claims he hosted dozens of women",
       "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
       "date": "Thu, 13 Aug 2026 14:21:52 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
+      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
+      "date": "Thu, 13 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
