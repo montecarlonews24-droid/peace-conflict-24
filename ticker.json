@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T19:41:12.265Z",
+  "updated": "2026-08-15T20:09:09.860Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 20:00:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Salah&#039;s Trabzonspor debut ends in draw after Kasimpasa fight back",
+      "link": "https://www.channelnewsasia.com/sport/salahs-trabzonspor-debut-ends-in-draw-after-kasimpasa-fight-back-6321756",
+      "date": "Sun, 16 Aug 2026 03:52:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Eight-try All Blacks thump Bulls 50-19 in Pretoria",
+      "link": "https://www.channelnewsasia.com/sport/eight-try-all-blacks-thump-bulls-50-19-in-pretoria-6321761",
+      "date": "Sun, 16 Aug 2026 03:50:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "date": "Sat, 15 Aug 2026 19:46:20 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 15 Aug 2026 19:41:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Douglass sets 50m freestyle world record at Pan Pacific",
+      "link": "https://www.channelnewsasia.com/sport/douglass-sets-50m-freestyle-world-record-pan-pacific-6321741",
+      "date": "Sun, 16 Aug 2026 03:40:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran fires back at Trump&#039;s threat to declare Hormuz a US territory",
+      "link": "https://www.channelnewsasia.com/world/iran-fires-back-trumps-threat-declare-hormuz-us-territory-6321731",
+      "date": "Sun, 16 Aug 2026 03:40:00 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "date": "Sat, 15 Aug 2026 19:39:07 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -26,7 +82,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "text": "Death toll from Zimbabwe ferry disaster rises to 72",
       "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
       "date": "Sat, 15 Aug 2026 19:10:06 +0000"
     },
@@ -129,13 +185,6 @@
       "date": "Sat, 15 Aug 2026 16:51:24 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 16:39:52 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Residents evacuate as Belgium wildfire scorches 1,600 hectares",
@@ -171,13 +220,6 @@
       "date": "Sat, 15 Aug 2026 15:09:37 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thailand beat Singapore 3-1 in first leg of ASEAN football championship semi-finals",
-      "link": "https://www.channelnewsasia.com/sport/football-thailand-beat-singapore-asean-championship-semis-6321481",
-      "date": "Sat, 15 Aug 2026 22:59:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Ebola outbreak in DR Congo: One death every 30 minutes",
@@ -187,44 +229,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 14:40:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
-      "link": "https://www.channelnewsasia.com/world/lebanon-reports-11-dead-in-strikes-israel-says-targeted-hezbollah-6321486",
-      "date": "Sat, 15 Aug 2026 22:34:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 15 Aug 2026 13:41:09 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 13:35:57 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Openness overload: Why your employees don&#039;t need to know everything about you",
-      "link": "https://www.channelnewsasia.com/today/voices/oversharing-boss-workplace-boundary-leadership-trust-social-media-6318726",
-      "date": "Sat, 15 Aug 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Can Singapore&#039;s young stamp collectors keep the &#039;king of hobbies&#039; alive?",
-      "link": "https://www.channelnewsasia.com/today/in-pixels/stamp-collectors-hobby-young-alive-6316866",
-      "date": "Sat, 15 Aug 2026 21:30:00 +0800"
     },
     {
       "src": "RFI",
@@ -498,13 +505,6 @@
       "text": "French ambassador to CAR investigated over claims he hosted dozens of women",
       "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
       "date": "Thu, 13 Aug 2026 14:21:52 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "date": "Thu, 13 Aug 2026 04:00:49 GMT"
     }
   ]
 }
