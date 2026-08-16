@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16T20:08:19.097Z",
-  "count": 56,
+  "updated": "2026-08-16T20:43:26.516Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports",
+      "link": "https://www.channelnewsasia.com/sport/man-city-accept-barcelona-bid-spain-midfielder-rodri-say-reports-6322656",
+      "date": "Mon, 17 Aug 2026 04:20:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 20:04:51 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 20:02:09 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -36,6 +57,13 @@
       "text": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 19:18:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "link": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "date": "Sun, 16 Aug 2026 19:12:31 GMT"
     },
     {
       "src": "BBC World",
@@ -80,6 +108,20 @@
       "date": "Mon, 17 Aug 2026 02:03:51 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
+      "link": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
+      "date": "Sun, 16 Aug 2026 18:01:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
+      "link": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
+      "date": "Sun, 16 Aug 2026 17:57:49 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
@@ -99,20 +141,6 @@
       "text": "Why are sandwiches more regulated than AI?",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 17:36:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-      "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 17:18:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cristiano Ronaldo hints at retirement at end of season",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 17:03:18 +0000"
     },
     {
       "src": "CNA",
@@ -136,6 +164,20 @@
       "date": "Sun, 16 Aug 2026 23:58:43 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Senegal: Saint-Louis’ centuries-old pirogue racing tradition",
+      "link": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+      "date": "Sun, 16 Aug 2026 15:51:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+      "link": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+      "date": "Sun, 16 Aug 2026 15:49:59 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Cristiano Ronaldo says it is 'probably' his last season",
@@ -150,11 +192,32 @@
       "date": "Sun, 16 Aug 2026 23:47:31 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "link": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "date": "Sun, 16 Aug 2026 15:40:26 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "PM Wong conveys condolences after deadly earthquakes in Indonesia",
       "link": "https://www.channelnewsasia.com/singapore/pm-wong-condolences-indonesia-earthquake-6322401",
       "date": "Sun, 16 Aug 2026 22:47:12 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India: Modi courts youth amid growing criticism",
+      "link": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+      "date": "Sun, 16 Aug 2026 14:44:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Russian strike destroys Kyiv book market",
+      "link": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+      "date": "Sun, 16 Aug 2026 14:40:52 GMT"
     },
     {
       "src": "Sky News",
@@ -171,13 +234,6 @@
       "date": "Sun, 16 Aug 2026 14:33:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sri Lanka fight back through spinners, India 460-9",
-      "link": "https://www.channelnewsasia.com/sport/sri-lanka-fight-back-through-spinners-india-460-9-6322346",
-      "date": "Sun, 16 Aug 2026 20:50:29 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -190,6 +246,13 @@
       "text": "Belgium turns to European air support as wildfire rages near German border",
       "link": "https://www.rfi.fr/en/international/20260816-belgium-turns-to-european-air-support-as-wildfire-rages-near-german-border",
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
+      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -274,6 +337,20 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -379,6 +456,41 @@
       "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
       "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
       "date": "Fri, 14 Aug 2026 13:58:47 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
