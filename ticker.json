@@ -1,20 +1,41 @@
 {
-  "updated": "2026-08-16T23:08:22.970Z",
-  "count": 64,
+  "updated": "2026-08-16T23:40:07.725Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 23:28:14 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "It’s 2026 – why are brands still objectifying women to sell e-bikes, air-conditioners and more?",
+      "link": "https://www.channelnewsasia.com/women/sexist-advertising-objectifying-women-6314456",
+      "date": "Mon, 17 Aug 2026 07:17:11 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vietnam beat Malaysia to gain upper hand in ASEAN Championship semi-final",
+      "link": "https://www.channelnewsasia.com/sport/vietnam-beat-malaysia-gain-upper-hand-in-asean-championship-semi-final-6322546",
+      "date": "Mon, 17 Aug 2026 07:15:32 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Britain&#039;s Hunt and Asher-Smith set medal records at European Championships",
+      "link": "https://www.channelnewsasia.com/sport/britains-hunt-and-asher-smith-set-medal-records-european-championships-6322801",
+      "date": "Mon, 17 Aug 2026 07:11:46 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Trump says US scaling back military drills with South Korea",
       "link": "https://www.channelnewsasia.com/world/trump-us-south-korea-scaling-back-military-drills-6322776",
       "date": "Mon, 17 Aug 2026 06:53:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 22:41:34 GMT"
     },
     {
       "src": "CNA",
@@ -50,27 +71,6 @@
       "text": "India wants to tap technology to prevent exam paper leaks, but experts say it’s not so simple",
       "link": "https://www.channelnewsasia.com/asia/india-wants-tap-technology-prevent-exam-paper-leaks-experts-say-its-not-so-simple-6319071",
       "date": "Mon, 17 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Slips, falls and stuck wheels: Residents raise concerns over tactile tiles in HDB estates",
-      "link": "https://www.channelnewsasia.com/singapore/hdb-lta-tactile-tiles-falls-residents-6311086",
-      "date": "Mon, 17 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Are perceptions of university prestige changing as Asian institutions rise up the ranks?",
-      "link": "https://www.channelnewsasia.com/commentary/qs-university-ranking-asia-china-study-abroad-6309371",
-      "date": "Mon, 17 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Pandemic lockdowns never ended for some people",
-      "link": "https://www.channelnewsasia.com/commentary/young-people-social-ties-isolation-inequality-6322271",
-      "date": "Mon, 17 Aug 2026 05:59:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -269,6 +269,13 @@
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
+      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
@@ -330,6 +337,20 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -435,6 +456,41 @@
       "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
       "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
       "date": "Fri, 14 Aug 2026 13:58:47 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
