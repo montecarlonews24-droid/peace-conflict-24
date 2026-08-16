@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16T11:09:15.406Z",
+  "updated": "2026-08-16T11:40:54.445Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+      "link": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+      "date": "Sun, 16 Aug 2026 11:33:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "67-year-old man dies in Jurong East flat fire; 50 residents evacuated",
+      "link": "https://www.channelnewsasia.com/singapore/jurong-east-flat-fire-one-person-dead-50-residents-evacuated-6322301",
+      "date": "Sun, 16 Aug 2026 19:26:39 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 11:14:23 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -36,6 +57,20 @@
       "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 16 Aug 2026 10:52:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazil election: Lula and the new face of Bolsonaro's right",
+      "link": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
+      "date": "Sun, 16 Aug 2026 10:46:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Landes wildfire stopped spreading but remains out of control",
+      "link": "https://www.france24.com/en/france-landes-wildfire-stopped-spreading-but-remains-out-of-control",
+      "date": "Sun, 16 Aug 2026 10:43:12 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -129,13 +164,6 @@
       "date": "Sun, 16 Aug 2026 09:20:06 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Morocco tightens security as migrants gather near Ceuta border",
-      "link": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-      "date": "Sun, 16 Aug 2026 09:17:50 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Malaysia’s DAP votes overwhelmingly to stay on in Cabinet, offering reprieve to PM Anwar",
@@ -150,32 +178,11 @@
       "date": "Sun, 16 Aug 2026 17:07:33 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 09:03:05 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Italy recovers millions of euros worth of stolen Renoir, Cézanne and Matisse paintings",
-      "link": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-      "date": "Sun, 16 Aug 2026 08:56:50 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Iran accuses Qatar of thwarting probe into fate of pilots",
       "link": "https://www.channelnewsasia.com/world/iran-accuse-qatar-probe-pilots-war-6322221",
       "date": "Sun, 16 Aug 2026 16:56:39 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-      "link": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-      "date": "Sun, 16 Aug 2026 08:53:56 GMT"
     },
     {
       "src": "BBC World",
@@ -213,13 +220,6 @@
       "date": "Sun, 16 Aug 2026 15:47:43 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Police report lodged after elderly man shoved to ground in dispute over patting girl&#039;s head",
-      "link": "https://www.channelnewsasia.com/singapore/police-report-lodged-after-elderly-man-shoved-ground-in-dispute-over-patting-girls-head-6322146",
-      "date": "Sun, 16 Aug 2026 15:22:00 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Fury' over death of teen British cyclist during Portugal race",
@@ -229,7 +229,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Multiple people killed and others injured in motorway crash in Ireland",
+      "text": "Multiple people killed and injured after car drives wrong way on motorway",
       "link": "https://news.sky.com/story/multiple-people-killed-and-others-injured-in-motorway-crash-in-county-kildare-irish-police-say-13573112",
       "date": "Sun, 16 Aug 2026 00:01:00 +0100"
     },
