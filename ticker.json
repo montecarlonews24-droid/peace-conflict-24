@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T00:32:32.774Z",
-  "count": 64,
+  "updated": "2026-08-16T02:13:46.845Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 01:43:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Army drops roses on Syrian crowds in a far cry from war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 00:50:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Adam Driver will play Mister Sinister and Inde Navarrette will go Rogue in Marvel’s X-Men reboot",
+      "link": "https://www.channelnewsasia.com/entertainment/d23-2026-x-men-frozen-3-star-wars-6321896",
+      "date": "Sun, 16 Aug 2026 08:48:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 00:44:59 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -80,13 +108,6 @@
       "date": "Sun, 16 Aug 2026 06:04:37 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is the latest Ebola outbreak worsening?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 22:00:42 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Commentary: Japan needs deterrence and renewal - not managed decline",
@@ -129,20 +150,6 @@
       "date": "Sat, 15 Aug 2026 20:58:31 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar denies it is detaining three Iranian bomber pilots",
-      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 20:55:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "California tackles multiple wildfires as firefighter workforce faces strain",
-      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 20:40:48 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
@@ -162,13 +169,6 @@
       "text": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 15 Aug 2026 20:21:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Salah&#039;s Trabzonspor debut ends in draw after Kasimpasa fight back",
-      "link": "https://www.channelnewsasia.com/sport/salahs-trabzonspor-debut-ends-in-draw-after-kasimpasa-fight-back-6321756",
-      "date": "Sun, 16 Aug 2026 03:52:46 +0800"
     },
     {
       "src": "BBC World",
@@ -267,6 +267,20 @@
       "text": "Chad bans sand extraction along Chari River, sparking controversy",
       "link": "https://www.france24.com/en/chad-bans-sand-extraction-along-chari-river-sparking-controversy",
       "date": "Sat, 15 Aug 2026 12:58:32 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -421,6 +435,48 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
