@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T03:24:09.950Z",
-  "count": 64,
+  "updated": "2026-08-16T04:04:58.212Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "North Korea&#039;s Kim, Russia&#039;s Putin reaffirm ties on Korean Liberation Day",
+      "link": "https://www.channelnewsasia.com/asia/north-koreas-kim-russias-putin-reaffirm-ties-korean-liberation-day-6321956",
+      "date": "Sun, 16 Aug 2026 11:56:12 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 03:54:11 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+      "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 03:47:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Observers say Zambia’s election marred by reports of intimidation, violence",
+      "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 03:39:32 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -87,39 +115,11 @@
       "date": "Sun, 16 Aug 2026 07:56:17 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 15 Aug 2026 23:34:24 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Yemen’s government says Houthi strikes hit residential areas in Marib",
       "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
       "date": "Sat, 15 Aug 2026 23:27:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least five reported dead amid flooding in US state of Indiana",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 23:19:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-      "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-      "date": "Sat, 15 Aug 2026 23:04:47 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Djokovic falls in Cincinnati heat in first match since Wimbledon",
-      "link": "https://www.channelnewsasia.com/sport/djokovic-falls-in-cincinnati-heat-in-first-match-wimbledon-6321846",
-      "date": "Sun, 16 Aug 2026 06:12:26 +0800"
     },
     {
       "src": "BBC World",
@@ -148,6 +148,13 @@
       "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "link": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
+      "date": "Sat, 15 Aug 2026 20:37:34 GMT"
     },
     {
       "src": "Sky News",
@@ -206,11 +213,60 @@
       "date": "Sat, 15 Aug 2026 19:00:00 +0100"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's Léon Marchand wins 200-meter butterfly final at European Swimming Championships",
+      "link": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+      "date": "Sat, 15 Aug 2026 16:55:43 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
+      "link": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+      "date": "Sat, 15 Aug 2026 16:51:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Korea president proposes talks with Pyongyang to formally end Korean War",
+      "link": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
+      "date": "Sat, 15 Aug 2026 15:39:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hundreds of villagers evacuate as Belgium battles record wildfire",
+      "link": "https://www.france24.com/en/europe/20260815-hundreds-of-villagers-evacuate-as-belgium-battles-record-wildfire",
+      "date": "Sat, 15 Aug 2026 15:37:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French father and two children rescued after 16 hours adrift off Thai island",
+      "link": "https://www.france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island",
+      "date": "Sat, 15 Aug 2026 15:09:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ebola outbreak in DR Congo: One death every 30 minutes",
+      "link": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
+      "date": "Sat, 15 Aug 2026 14:46:49 GMT"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Chad bans sand extraction along Chari River, sparking controversy",
+      "link": "https://www.france24.com/en/chad-bans-sand-extraction-along-chari-river-sparking-controversy",
+      "date": "Sat, 15 Aug 2026 12:58:32 GMT"
     },
     {
       "src": "UN News",
