@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16T09:47:54.011Z",
-  "count": 64,
+  "updated": "2026-08-16T10:11:06.386Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 10:09:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+      "link": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+      "date": "Sun, 16 Aug 2026 09:53:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 09:48:42 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -22,6 +43,13 @@
       "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 16 Aug 2026 09:27:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 09:24:22 +0000"
     },
     {
       "src": "France 24",
@@ -66,13 +94,6 @@
       "date": "Sun, 16 Aug 2026 17:07:33 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 09:04:14 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Cincinnati Open: Djokovic stunned by Tirante in second round",
@@ -106,13 +127,6 @@
       "text": "3-year-old girl rescued 100 hours after Colombia earthquake",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 08:53:14 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Belgium battles its largest wildfire in modern history",
-      "link": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
-      "date": "Sun, 16 Aug 2026 08:51:58 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -171,25 +185,11 @@
       "date": "Sun, 16 Aug 2026 09:04:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 07:47:45 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "New Zealand sweating on injury concerns ahead of first test against Springboks",
       "link": "https://www.channelnewsasia.com/sport/new-zealand-sweating-injury-concerns-ahead-first-test-against-springboks-6322191",
       "date": "Sun, 16 Aug 2026 15:47:43 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New satellite images show Europe’s disappearing rivers due to drought",
-      "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 07:46:22 +0000"
     },
     {
       "src": "CNA",
@@ -288,6 +288,20 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -428,6 +442,48 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
