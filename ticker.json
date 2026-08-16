@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16T06:18:33.692Z",
-  "count": 72,
+  "updated": "2026-08-16T07:05:52.423Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 06:53:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
+      "link": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake",
+      "date": "Sun, 16 Aug 2026 06:25:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How a simple lighter has become the backbone of life in Gaza",
+      "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 06:10:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "A nation divided: What do Israelis want in October’s elections?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 06:06:31 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -136,32 +164,11 @@
       "date": "Sun, 16 Aug 2026 11:56:12 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 03:54:11 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
       "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 03:47:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Observers say Zambia’s election marred by reports of intimidation, violence",
-      "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 03:39:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 02:26:54 +0000"
     },
     {
       "src": "BBC World",
@@ -255,32 +262,11 @@
       "date": "Sat, 15 Aug 2026 16:55:43 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
-      "link": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
-      "date": "Sat, 15 Aug 2026 16:51:24 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -435,48 +421,6 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: The harrowing reality of giving birth in a war zone",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
