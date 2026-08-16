@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T05:49:42.240Z",
-  "count": 64,
+  "updated": "2026-08-16T06:18:33.692Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
+      "link": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
+      "date": "Sun, 16 Aug 2026 06:03:53 GMT"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -14,7 +21,7 @@
       "col": "#84cc16",
       "text": "Japan aims for Mars&#039; moons to unlock clues to origins of the Solar System",
       "link": "https://www.channelnewsasia.com/east-asia/japan-mars-space-mission-martian-moons-exploration-6322126",
-      "date": "Sun, 16 Aug 2026 13:38:07 +0800"
+      "date": "Sun, 16 Aug 2026 13:38:00 +0800"
     },
     {
       "src": "France 24",
@@ -255,18 +262,25 @@
       "date": "Sat, 15 Aug 2026 16:51:24 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-      "link": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
-      "date": "Sat, 15 Aug 2026 15:39:37 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -421,6 +435,48 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: The harrowing reality of giving birth in a war zone",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
