@@ -1,13 +1,55 @@
 {
-  "updated": "2026-08-16T21:08:39.782Z",
+  "updated": "2026-08-16T21:39:54.200Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says US will scale back military drills with South Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 21:27:42 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Anwar Ibrahim: Malaysia between the superpowers",
+      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 21:23:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump&#039;s envoys meet mediators, Israel strikes Gaza",
+      "link": "https://www.channelnewsasia.com/world/trumps-envoys-meet-mediators-israel-strikes-gaza-6322671",
+      "date": "Mon, 17 Aug 2026 05:09:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US commander says mental health a 'priority' on USS Lincoln",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 21:04:27 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Death toll rises to 84 from capsized ferry in Zimbabwe",
       "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 21:03:53 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
+      "link": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
+      "date": "Sun, 16 Aug 2026 21:03:36 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
+      "link": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
+      "date": "Sun, 16 Aug 2026 21:02:44 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -66,13 +108,6 @@
       "date": "Sun, 16 Aug 2026 20:04:51 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 20:02:09 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
@@ -106,13 +141,6 @@
       "text": "Teen suspect in Virginia campus shooting found hiding in closet",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 16 Aug 2026 19:00:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 18:46:12 GMT"
     },
     {
       "src": "The Guardian",
@@ -192,13 +220,6 @@
       "date": "Sun, 16 Aug 2026 16:48:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
-      "link": "https://www.channelnewsasia.com/sport/ronaldo-hints-retirement-says-upcoming-year-could-be-his-last-6322456",
-      "date": "Sun, 16 Aug 2026 23:47:31 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Iran offers $30,000 bounty for killing or capturing US soldiers",
@@ -206,25 +227,18 @@
       "date": "Sun, 16 Aug 2026 15:40:26 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "India: Modi courts youth amid growing criticism",
-      "link": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
-      "date": "Sun, 16 Aug 2026 14:44:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine: Russian strike destroys Kyiv book market",
-      "link": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
-      "date": "Sun, 16 Aug 2026 14:40:52 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Renaissance paintings stolen on Italian national holiday",
       "link": "https://news.sky.com/story/four-renaissance-paintings-by-antonello-da-messina-stolen-on-italian-national-holiday-13573714",
       "date": "Sun, 16 Aug 2026 14:55:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
       "src": "Sky News",
@@ -255,25 +269,11 @@
       "date": "Sun, 16 Aug 2026 12:00:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 11:35:25 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
       "link": "https://www.rfi.fr/en/international/20260816-morocco-arrests-nearly-300-migrants-near-ceuta-amid-renewed-crossing-fears",
       "date": "Sun, 16 Aug 2026 10:13:58 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 09:27:58 GMT"
     },
     {
       "src": "Sky News",
