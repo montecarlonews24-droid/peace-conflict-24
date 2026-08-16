@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16T07:50:44.361Z",
+  "updated": "2026-08-16T08:14:07.881Z",
   "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 07:58:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spanish fighter jet downs drone breaching Romania's airspace",
+      "link": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace",
+      "date": "Sun, 16 Aug 2026 07:50:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New Zealand sweating on injury concerns ahead of first test against Springboks",
+      "link": "https://www.channelnewsasia.com/sport/new-zealand-sweating-injury-concerns-ahead-first-test-against-springboks-6322191",
+      "date": "Sun, 16 Aug 2026 15:47:43 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -24,18 +45,25 @@
       "date": "Sun, 16 Aug 2026 07:04:17 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 06:53:22 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Bangladesh make history with first-ever Test cricket win in Australia",
       "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 06:40:50 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "'Fury' over death of teen British cyclist during Portugal race",
+      "link": "https://news.sky.com/story/finlay-tarling-fury-over-death-of-teen-british-cyclist-during-portugal-race-13573615",
+      "date": "Sun, 16 Aug 2026 07:39:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
+      "link": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake",
+      "date": "Sun, 16 Aug 2026 06:25:43 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -52,11 +80,32 @@
       "date": "Sun, 16 Aug 2026 06:06:31 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
+      "link": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
+      "date": "Sun, 16 Aug 2026 06:03:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+      "link": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
+      "date": "Sun, 16 Aug 2026 05:39:51 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Japan aims for Mars&#039; moons to unlock clues to origins of the Solar System",
       "link": "https://www.channelnewsasia.com/east-asia/japan-mars-space-mission-martian-moons-exploration-6322126",
       "date": "Sun, 16 Aug 2026 13:38:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Flood in rural northwestern Spain kills two, injures two babies",
+      "link": "https://www.france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies",
+      "date": "Sun, 16 Aug 2026 05:18:24 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -87,6 +136,13 @@
       "date": "Sun, 16 Aug 2026 04:54:33 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's Léon Marchand wins first European title in front of home crowd",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260816-france-s-l%C3%A9on-marchand-wins-first-european-title-in-front-of-home-crowd",
+      "date": "Sun, 16 Aug 2026 04:53:20 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Israel strikes south Lebanon again as families flee north",
@@ -99,6 +155,13 @@
       "text": "Makhachev edges Garry to retain UFC welterweight title",
       "link": "https://www.channelnewsasia.com/sport/makhachev-edges-garry-retain-ufc-welterweight-title-6322096",
       "date": "Sun, 16 Aug 2026 12:42:54 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Moscow targeted by 600 drones overnight, explosions heard in Kyiv",
+      "link": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+      "date": "Sun, 16 Aug 2026 04:42:16 GMT"
     },
     {
       "src": "CNA",
@@ -129,13 +192,6 @@
       "date": "Sun, 16 Aug 2026 12:11:22 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asher-Smith equals European medal record, Hunt completes golden treble",
-      "link": "https://www.channelnewsasia.com/sport/asher-smith-equals-european-medal-record-hunt-completes-golden-treble-6322076",
-      "date": "Sun, 16 Aug 2026 12:05:15 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -148,6 +204,13 @@
       "text": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "link": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
+      "date": "Sat, 15 Aug 2026 20:37:34 GMT"
     },
     {
       "src": "Sky News",
@@ -213,20 +276,6 @@
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "In Turkey, one of the world's longest conflicts reaches a turning point",
@@ -250,7 +299,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "BBC trying to subpoena Donald Trump's family members over $10bn Panorama lawsuit",
+      "text": "Trump accuses BBC of 'harassing' him over $10bn lawsuit",
       "link": "https://news.sky.com/story/bbc-trying-to-subpoena-donald-trumps-family-members-over-10bn-panorama-lawsuit-13573212",
       "date": "Sat, 15 Aug 2026 08:08:00 +0100"
     },
@@ -325,13 +374,6 @@
       "date": "Fri, 14 Aug 2026 18:00:08 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British cyclist, 19, dies in serious incident in Volta a Portugal race",
-      "link": "https://news.sky.com/story/british-cyclist-finlay-tarling-19-dies-in-serious-incident-in-volta-a-portugal-race-13573071",
-      "date": "Fri, 14 Aug 2026 18:01:00 +0100"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era",
@@ -379,48 +421,6 @@
       "text": "Controversial Covid-19 study retracted over links to vaccine misinformation",
       "link": "https://www.rfi.fr/en/international/20260814-controversial-covid-19-study-retracted-over-links-to-vaccine-misinformation",
       "date": "Fri, 14 Aug 2026 12:23:56 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: The harrowing reality of giving birth in a war zone",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
