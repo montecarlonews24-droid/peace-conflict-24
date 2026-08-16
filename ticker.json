@@ -1,20 +1,48 @@
 {
-  "updated": "2026-08-16T15:41:57.128Z",
+  "updated": "2026-08-16T16:10:20.196Z",
   "count": 72,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 15:25:38 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 15:51:26 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 15:14:01 GMT"
+      "date": "Sun, 16 Aug 2026 15:50:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ronaldo hints at retirement, says upcoming year could be his last",
+      "link": "https://www.channelnewsasia.com/sport/ronaldo-hints-retirement-says-upcoming-year-could-be-his-last-6322456",
+      "date": "Sun, 16 Aug 2026 23:47:31 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "link": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "date": "Sun, 16 Aug 2026 15:40:26 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 15:35:53 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 15:25:38 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -31,11 +59,32 @@
       "date": "Sun, 16 Aug 2026 22:47:12 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India: Modi courts youth amid growing criticism",
+      "link": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+      "date": "Sun, 16 Aug 2026 14:44:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Russian strike destroys Kyiv book market",
+      "link": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+      "date": "Sun, 16 Aug 2026 14:40:52 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "‘The Mediterranean is a bridge, not a border’",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 14:40:38 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Activist recounts life under settler siege in Qusra",
+      "link": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+      "date": "Sun, 16 Aug 2026 14:38:57 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -87,31 +136,17 @@
       "date": "Sun, 16 Aug 2026 13:19:35 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-      "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 13:18:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-      "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 13:17:57 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Lebanon: How will Israeli strikes affect negotiations?",
+      "link": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+      "date": "Sun, 16 Aug 2026 13:00:14 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "WAFCON final: Women's sport seeks greater recognition",
       "link": "https://www.france24.com/en/wafcon-final-women-s-sport-seeks-greater-recognition",
-      "date": "Sun, 16 Aug 2026 13:00:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South Lebanon: How will Israeli strikes affect negotiations?",
-      "link": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
       "date": "Sun, 16 Aug 2026 13:00:14 GMT"
     },
     {
@@ -171,25 +206,11 @@
       "date": "Sun, 16 Aug 2026 20:13:00 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-      "link": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "date": "Sun, 16 Aug 2026 12:02:18 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 16 Aug 2026 11:35:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-      "link": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-      "date": "Sun, 16 Aug 2026 11:33:32 GMT"
     },
     {
       "src": "CNA",
@@ -213,32 +234,11 @@
       "date": "Sun, 16 Aug 2026 10:53:50 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil election: Lula and the new face of Bolsonaro's right",
-      "link": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
-      "date": "Sun, 16 Aug 2026 10:46:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Landes wildfire stopped spreading but remains out of control",
-      "link": "https://www.france24.com/en/france-landes-wildfire-stopped-spreading-but-remains-out-of-control",
-      "date": "Sun, 16 Aug 2026 10:43:12 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
       "link": "https://www.rfi.fr/en/international/20260816-morocco-arrests-nearly-300-migrants-near-ceuta-amid-renewed-crossing-fears",
       "date": "Sun, 16 Aug 2026 10:13:58 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Belgium counts on air support as record wildfire jumps in size",
-      "link": "https://www.channelnewsasia.com/world/belgium-wildfire-record-size-air-support-6322246",
-      "date": "Sun, 16 Aug 2026 17:30:00 +0800"
     },
     {
       "src": "BBC World",
