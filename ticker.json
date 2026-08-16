@@ -1,20 +1,34 @@
 {
-  "updated": "2026-08-16T17:09:39.925Z",
-  "count": 64,
+  "updated": "2026-08-16T17:40:36.603Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 17:18:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 17:18:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Cristiano Ronaldo hints at retirement at end of season",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+      "date": "Sun, 16 Aug 2026 17:03:18 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
       "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 16:17:36 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two dead and evacuation under way as fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 16:14:26 GMT"
     },
     {
       "src": "CNA",
@@ -38,6 +52,13 @@
       "date": "Sun, 16 Aug 2026 23:58:43 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Senegal: Saint-Louis’ centuries-old pirogue racing tradition",
+      "link": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+      "date": "Sun, 16 Aug 2026 15:51:32 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
@@ -52,6 +73,13 @@
       "date": "Sun, 16 Aug 2026 15:50:12 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+      "link": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+      "date": "Sun, 16 Aug 2026 15:49:59 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Cristiano Ronaldo says it is 'probably' his last season",
@@ -64,6 +92,13 @@
       "text": "Ronaldo hints at retirement, says upcoming year could be his last",
       "link": "https://www.channelnewsasia.com/sport/ronaldo-hints-retirement-says-upcoming-year-could-be-his-last-6322456",
       "date": "Sun, 16 Aug 2026 23:47:31 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "link": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "date": "Sun, 16 Aug 2026 15:40:26 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -94,11 +129,32 @@
       "date": "Sun, 16 Aug 2026 22:47:12 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India: Modi courts youth amid growing criticism",
+      "link": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+      "date": "Sun, 16 Aug 2026 14:44:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine: Russian strike destroys Kyiv book market",
+      "link": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+      "date": "Sun, 16 Aug 2026 14:40:52 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "‘The Mediterranean is a bridge, not a border’",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
       "date": "Sun, 16 Aug 2026 14:40:38 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Activist recounts life under settler siege in Qusra",
+      "link": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+      "date": "Sun, 16 Aug 2026 14:38:57 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -108,11 +164,11 @@
       "date": "Sun, 16 Aug 2026 14:35:15 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-      "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 14:29:18 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Death toll from Zimbabwe capsized ferry accident rises to 80",
+      "link": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+      "date": "Sun, 16 Aug 2026 14:01:56 GMT"
     },
     {
       "src": "Sky News",
@@ -122,18 +178,18 @@
       "date": "Sun, 16 Aug 2026 14:55:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
-      "date": "Sun, 16 Aug 2026 13:53:20 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Two die in Spain mudslide as Belgium battles largest-ever wildfire",
       "link": "https://news.sky.com/story/two-die-in-spain-mudslide-as-belgium-battles-largest-ever-wildfire-13573708",
       "date": "Sun, 16 Aug 2026 14:33:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "WAFCON final: Women's sport seeks greater recognition",
+      "link": "https://www.france24.com/en/wafcon-final-women-s-sport-seeks-greater-recognition",
+      "date": "Sun, 16 Aug 2026 13:00:14 GMT"
     },
     {
       "src": "BBC World",
