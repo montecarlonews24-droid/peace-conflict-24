@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-17T09:08:10.297Z",
-  "count": 64,
+  "updated": "2026-08-17T10:02:20.941Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cameroon wins first Women's Africa Cup of Nations title",
+      "link": "https://www.france24.com/en/cameroon-wins-first-women-s-africa-cup-of-nations-title",
+      "date": "Mon, 17 Aug 2026 09:57:26 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+      "link": "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "date": "Mon, 17 Aug 2026 09:49:46 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Migrants stranded in Ceuta say ‘I’d rather die here than go back to Morocco’",
+      "link": "https://www.rfi.fr/en/international/20260817-migrants-stranded-in-ceuta-say-i-d-rather-die-here-than-go-back-to-morocco",
+      "date": "Mon, 17 Aug 2026 09:48:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Wildfires spread across Europe as thousands evacuated",
+      "link": "https://www.france24.com/en/video/20260817-wildfires-spread-across-europe-as-thousands-evacuated",
+      "date": "Mon, 17 Aug 2026 09:38:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "4am liquor sales in Boat Quay, Clarke Quay to continue following year-long trial",
+      "link": "https://www.channelnewsasia.com/singapore/boat-clarke-quay-alcohol-liquor-hours-4am-6323531",
+      "date": "Mon, 17 Aug 2026 17:31:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+      "link": "https://www.channelnewsasia.com/world/kushner-meet-netanyahu-after-talks-hamas-gaza-plan-6323616",
+      "date": "Mon, 17 Aug 2026 17:26:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US and South Korea begin military drills despite Trump call to scale back",
+      "link": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
+      "date": "Mon, 17 Aug 2026 09:22:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
+      "link": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
+      "date": "Mon, 17 Aug 2026 09:18:49 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rainfall aids fight against Belgium&#039;s biggest wildfire, as blazes rip through Europe",
+      "link": "https://www.channelnewsasia.com/world/belgium-europe-wildfire-rainfall-aid-6323396",
+      "date": "Mon, 17 Aug 2026 17:11:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine launches one of its largest drone attacks on Russia",
+      "link": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia",
+      "date": "Mon, 17 Aug 2026 09:09:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+      "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 09:03:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 09:01:52 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -15,6 +99,13 @@
       "text": "Top Zambian opposition figures arrested days after presidential vote",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 17 Aug 2026 09:01:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+      "link": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "date": "Mon, 17 Aug 2026 09:00:36 GMT"
     },
     {
       "src": "BBC World",
@@ -59,11 +150,18 @@
       "date": "Mon, 17 Aug 2026 08:38:23 GMT"
     },
     {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Top 10 Ways Trump Has Made America Weaker",
+      "link": "https://foreignpolicy.com/2026/08/17/top-10-trump-america-weaker/",
+      "date": "Mon, 17 Aug 2026 08:36:50 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Taiwan&#039;s leader says government to propose record defence spending for 2027",
       "link": "https://www.channelnewsasia.com/east-asia/taiwan-record-defence-spending-proposal-2027-lai-ching-te-6323546",
-      "date": "Mon, 17 Aug 2026 16:33:49 +0800"
+      "date": "Mon, 17 Aug 2026 16:33:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -115,30 +213,9 @@
       "date": "Mon, 17 Aug 2026 15:57:00 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China&#039;s industrial output slows in July, retail sales miss forecasts",
-      "link": "https://www.channelnewsasia.com/business/chinas-industrial-output-slows-in-july-retail-sales-miss-forecasts-6323436",
-      "date": "Mon, 17 Aug 2026 15:55:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea reviewing Trump&#039;s comments on drills, hopes for US-North Korea talks",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-trump-us-drills-north-talks-6323391",
-      "date": "Mon, 17 Aug 2026 15:29:02 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Doctors raise alarm over Trump’s push to scale back US childhood vaccinations",
-      "link": "https://www.channelnewsasia.com/world/doctors-raise-alarm-trump-push-us-childhood-vaccinations-6323361",
-      "date": "Mon, 17 Aug 2026 15:20:13 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/story/money-live-consumer-personal-finance-tips-sky-news-latest-13040934?postid=12238484#liveblog-body'>Eurostar rival finally gets go ahead</a>",
+      "text": "<a href='https://news.sky.com/story/money-live-consumer-personal-finance-tips-sky-news-latest-13040934?postid=12238484#liveblog-body'>Eurostar rival finally gets go ahead - could it mean cheaper tickets?</a>",
       "link": "https://news.sky.com/story/eurostar-rival-finally-gets-go-ahead-13573911",
       "date": "Mon, 17 Aug 2026 08:04:00 +0100"
     },
@@ -157,67 +234,11 @@
       "date": "Mon, 17 Aug 2026 06:24:31 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Japan’s economy slows, missing growth forecasts",
-      "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 06:14:39 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "American actress Hayden Panettiere dies at 36",
-      "link": "https://www.france24.com/en/americas/20260817-american-actress-hayden-panettiere-dies-at-36",
-      "date": "Mon, 17 Aug 2026 06:02:03 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 06:02:02 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lens defeat Paris Saint-Germain to claim second title this year",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
-      "date": "Mon, 17 Aug 2026 05:44:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas",
-      "link": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-      "date": "Mon, 17 Aug 2026 04:45:34 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ebola outbreak in DR Congo becomes deadliest in its history",
       "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 17 Aug 2026 04:41:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
-      "link": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
-      "date": "Mon, 17 Aug 2026 04:38:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "More than 12,000 await aid after deadly Indonesian quake",
-      "link": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
-      "date": "Mon, 17 Aug 2026 04:37:14 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Record rains drench South Korean city as landslide kills one",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 04:34:09 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -234,6 +255,13 @@
       "date": "Mon, 17 Aug 2026 04:01:06 +0000"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ferrari's first ever electric car sold for record $40m",
+      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 02:22:04 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'A wake-up call': Ebola outbreak is now DR Congo's deadliest",
@@ -248,18 +276,11 @@
       "date": "Sun, 16 Aug 2026 22:47:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
-      "link": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
-      "date": "Sun, 16 Aug 2026 21:03:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cameroon beats Malawi to win Women’s Africa Cup of Nations for the first time",
-      "link": "https://www.france24.com/en/sport/20260816-cameroon-beats-malawi-to-win-women-s-africa-cup-of-nations-for-the-first-time",
-      "date": "Sun, 16 Aug 2026 21:02:44 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
       "src": "The Guardian",
@@ -283,13 +304,6 @@
       "date": "Sun, 16 Aug 2026 14:55:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 13:34:38 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Two die in Spain mudslide as Belgium battles largest-ever wildfire",
@@ -302,6 +316,13 @@
       "text": "Belgium turns to European air support as wildfire rages near German border",
       "link": "https://www.rfi.fr/en/international/20260816-belgium-turns-to-european-air-support-as-wildfire-rages-near-german-border",
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
+      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -351,6 +372,20 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The grass beneath our feet: Why rangelands matter",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -409,13 +444,6 @@
       "date": "Fri, 14 Aug 2026 18:30:51 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What the Cockroach Movement Says About the Indian Economy",
-      "link": "https://foreignpolicy.com/2026/08/14/india-cockroach-jobs-economy-modi-janta-education/",
-      "date": "Fri, 14 Aug 2026 18:10:19 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canadian plasma clinics pause collections after deaths of two donors",
@@ -437,11 +465,39 @@
       "date": "Fri, 14 Aug 2026 14:55:17 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
-      "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
-      "date": "Fri, 14 Aug 2026 13:58:47 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "An attack on healthcare every six hours, and no one held to account",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
+      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
