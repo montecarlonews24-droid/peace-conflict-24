@@ -1,13 +1,83 @@
 {
-  "updated": "2026-08-17T05:03:59.491Z",
-  "count": 72,
+  "updated": "2026-08-17T05:55:52.684Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "MPA, Ocean Infinity to trial autonomous and remote marine operations in Singapore port waters",
+      "link": "https://www.channelnewsasia.com/singapore/mpa-ocean-infinity-autonomous-marine-operations-port-ipoc-near-miss-reporting-6323091",
+      "date": "Mon, 17 Aug 2026 13:47:28 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lens defeat Paris Saint-Germain and claim second title this year",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
+      "date": "Mon, 17 Aug 2026 05:44:25 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Heroes actress Hayden Panettiere dies aged 36",
       "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 04:53:27 GMT"
+      "date": "Mon, 17 Aug 2026 05:40:19 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 05:38:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least six dead in ‘stampede-like’ incident at India temple",
+      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 05:32:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Founding Prime Minister Lee Kuan Yew&#039;s Montblanc pen sold for S$461,500 at auction after 111 bids",
+      "link": "https://www.channelnewsasia.com/living/lee-kuan-yew-montblanc-pen-sells-461500-auction-6323186",
+      "date": "Mon, 17 Aug 2026 13:22:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s top negotiator declares victory in war against the US and Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 05:16:18 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 05:06:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Analysis:Big investors hunt for tomorrow&#039;s AI winners as capex angst fades",
+      "link": "https://www.channelnewsasia.com/business/analysisbig-investors-hunt-tomorrows-ai-winners-capex-angst-fades-6323231",
+      "date": "Mon, 17 Aug 2026 13:01:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 04:58:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia ponder way forward after &#039;most humbling&#039; test defeat to Bangladesh",
+      "link": "https://www.channelnewsasia.com/sport/australia-ponder-way-forward-after-most-humbling-test-defeat-bangladesh-6323226",
+      "date": "Mon, 17 Aug 2026 12:55:57 +0800"
     },
     {
       "src": "CNA",
@@ -24,6 +94,13 @@
       "date": "Mon, 17 Aug 2026 04:50:56 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas",
+      "link": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+      "date": "Mon, 17 Aug 2026 04:45:34 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ebola outbreak in DR Congo becomes deadliest in its history",
@@ -33,14 +110,21 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Trump orders Pentagon to scale back military drills with South Korea, hours before start",
+      "text": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
       "link": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
       "date": "Mon, 17 Aug 2026 04:38:01 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "More than 12,000 await aid after deadly Indonesian quake",
+      "link": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
+      "date": "Mon, 17 Aug 2026 04:37:14 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Landslide in South Korea kills one as record rain lashes south",
+      "text": "Record rains drench South Korean city as landslide kills one",
       "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 17 Aug 2026 04:34:09 GMT"
     },
@@ -49,7 +133,7 @@
       "col": "#84cc16",
       "text": "Bike-sharing operator HelloRide warned over attempts to discuss prices with rival Anywheel",
       "link": "https://www.channelnewsasia.com/singapore/helloride-warned-attempting-price-fixing-discussions-anywheel-ccs-bike-sharing-6323116",
-      "date": "Mon, 17 Aug 2026 12:29:46 +0800"
+      "date": "Mon, 17 Aug 2026 12:29:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -94,46 +178,11 @@
       "date": "Mon, 17 Aug 2026 03:41:30 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "American actress Hayden Panettiere dies at 36: Report",
-      "link": "https://www.channelnewsasia.com/entertainment/american-actress-hayden-panettiere-dies-36-report-6323061",
-      "date": "Mon, 17 Aug 2026 11:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Search for Indonesia quake victims underway on Independence Day",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-earthquake-victims-search-independence-day-6323036",
-      "date": "Mon, 17 Aug 2026 11:23:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Rare Pallas’s cat captured on camera in northern Iran mountains",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 02:55:01 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 02:51:27 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
-      "link": "https://www.channelnewsasia.com/world/hawaii-hurricane-lala-tropical-storm-6322496",
-      "date": "Mon, 17 Aug 2026 10:35:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Christy Chung and Jimmy Lin, both in their 50s, recreate photo from 16 years ago",
-      "link": "https://www.channelnewsasia.com/entertainment/christy-chung-jimmy-lin-recreate-photo-16-years-ago-6322976",
-      "date": "Mon, 17 Aug 2026 10:33:28 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -150,27 +199,6 @@
       "date": "Mon, 17 Aug 2026 01:41:40 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 01:28:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can the AU make its current Sudan mission count?",
-      "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 01:13:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 00:11:18 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
@@ -183,6 +211,13 @@
       "text": "'A wake-up call': Ebola outbreak is now DR Congo's deadliest",
       "link": "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
       "date": "Sun, 16 Aug 2026 23:05:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump downscales 'hostile' military drills with South Korea citing 'very good relationship' with Kim Jong Un",
+      "link": "https://news.sky.com/story/trump-downscales-hostile-military-drills-with-south-korea-citing-very-good-relationship-with-kim-jong-un-13573864",
+      "date": "Sun, 16 Aug 2026 22:47:00 +0100"
     },
     {
       "src": "France 24",
@@ -213,13 +248,6 @@
       "date": "Sun, 16 Aug 2026 19:12:31 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 16 Aug 2026 19:03:04 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
@@ -232,27 +260,6 @@
       "text": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
       "link": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
       "date": "Sun, 16 Aug 2026 18:01:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
-      "link": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
-      "date": "Sun, 16 Aug 2026 17:57:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senegal: Saint-Louis’ centuries-old pirogue racing tradition",
-      "link": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
-      "date": "Sun, 16 Aug 2026 15:51:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
-      "link": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
-      "date": "Sun, 16 Aug 2026 15:49:59 GMT"
     },
     {
       "src": "Sky News",
@@ -290,13 +297,6 @@
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
@@ -309,13 +309,6 @@
       "text": "Twelve killed as tourist bus crashes in Hungary",
       "link": "https://news.sky.com/story/twelve-killed-as-tourist-bus-crashes-in-hungary-13573631",
       "date": "Sun, 16 Aug 2026 09:04:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Fury' over death of teen British cyclist during Portugal race",
-      "link": "https://news.sky.com/story/finlay-tarling-fury-over-death-of-teen-british-cyclist-during-portugal-race-13573615",
-      "date": "Sun, 16 Aug 2026 07:39:00 +0100"
     },
     {
       "src": "Sky News",
@@ -358,20 +351,6 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -463,41 +442,6 @@
       "text": "Europe faces rocket shortage by 2030 as satellite demand surges",
       "link": "https://www.rfi.fr/en/international/20260814-europe-faces-rocket-shortage-by-2030-as-satellite-demand-surges",
       "date": "Fri, 14 Aug 2026 13:58:47 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
