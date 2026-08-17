@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T16:51:06.085Z",
-  "count": 72,
+  "updated": "2026-08-17T17:15:32.930Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Coventry sign striker Awoniyi from Forest",
+      "link": "https://www.channelnewsasia.com/sport/coventry-sign-striker-awoniyi-forest-6324401",
+      "date": "Tue, 18 Aug 2026 01:12:26 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -43,6 +50,13 @@
       "text": "Somali army clashes with rebel forces for control of key city Baidoa",
       "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 16:24:43 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 16:17:34 GMT"
     },
     {
       "src": "CNA",
@@ -178,13 +192,6 @@
       "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rights group urges FIFA to block Infantino re-election bid over term limits",
-      "link": "https://www.channelnewsasia.com/sport/rights-group-urges-fifa-block-infantino-re-election-bid-over-term-limits-6324161",
-      "date": "Mon, 17 Aug 2026 22:02:39 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "A new generation of Catalans tries to rekindle the independence movement",
@@ -283,13 +290,6 @@
       "date": "Mon, 17 Aug 2026 06:24:31 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 04:41:31 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "How Ronald Reagan Used Diplomacy to End the Cold War",
@@ -330,13 +330,6 @@
       "text": "Belgium turns to European air support as wildfire rages near German border",
       "link": "https://www.rfi.fr/en/international/20260816-belgium-turns-to-european-air-support-as-wildfire-rages-near-german-border",
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -395,20 +388,6 @@
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "In Turkey, one of the world's longest conflicts reaches a turning point",
@@ -463,41 +442,6 @@
       "text": "American missionary kidnapped in Niger freed after nine months",
       "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "date": "Fri, 14 Aug 2026 14:55:17 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
