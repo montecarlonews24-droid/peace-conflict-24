@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-17T13:57:36.436Z",
-  "count": 72,
+  "updated": "2026-08-17T14:20:49.544Z",
+  "count": 64,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 14:03:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+      "link": "https://www.channelnewsasia.com/sport/rights-group-urges-fifa-block-infantino-re-election-bid-over-term-limits-6324161",
+      "date": "Mon, 17 Aug 2026 22:02:39 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Global condemnation of Israeli settler violence against Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+      "date": "Mon, 17 Aug 2026 14:01:51 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 13:58:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+      "link": "https://www.channelnewsasia.com/world/iran-threatens-go-offensive-in-strait-hormuz-if-diplomacy-us-fails-6324116",
+      "date": "Mon, 17 Aug 2026 21:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Inside JB’s RTS Link station: 25-minute target from concourse to train, high-tech scanners planned",
+      "link": "https://www.channelnewsasia.com/asia/rts-link-jb-bukit-chagar-station-scanners-6323996",
+      "date": "Mon, 17 Aug 2026 21:57:00 +0800"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -10,11 +59,11 @@
       "date": "Mon, 17 Aug 2026 13:53:35 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 13:50:06 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore, China sign pact on peaceful nuclear technology cooperation",
+      "link": "https://www.channelnewsasia.com/singapore/nuclear-agreement-china-singapore-mou-6324001",
+      "date": "Mon, 17 Aug 2026 21:52:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -89,16 +138,16 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Trump threatens to bomb Oman if it gets in way of Iran deal: Report",
-      "link": "https://www.channelnewsasia.com/world/us-trump-threatens-bomb-oman-in-way-iran-deal-6323946",
-      "date": "Mon, 17 Aug 2026 20:50:44 +0800"
+      "text": "Springboks wait on Kolisi, Nche fitness ahead of first All Blacks test",
+      "link": "https://www.channelnewsasia.com/sport/springboks-wait-kolisi-nche-fitness-ahead-first-all-blacks-test-6323986",
+      "date": "Mon, 17 Aug 2026 20:50:05 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Springboks wait on Kolisi, Nche fitness ahead of first All Blacks test",
-      "link": "https://www.channelnewsasia.com/sport/springboks-wait-kolisi-nche-fitness-ahead-first-all-blacks-test-6323986",
-      "date": "Mon, 17 Aug 2026 20:50:05 +0800"
+      "text": "Trump threatens to bomb Oman if it gets in way of Iran deal: Report",
+      "link": "https://www.channelnewsasia.com/world/us-trump-threatens-bomb-oman-in-way-iran-deal-6323946",
+      "date": "Mon, 17 Aug 2026 20:50:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -106,13 +155,6 @@
       "text": "Yemen’s drone war: Rivals flex growing aerial muscle",
       "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 12:44:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
-      "link": "https://www.channelnewsasia.com/business/nvidia-invest-15-billion-in-sb-energy-under-openai-data-center-deal-6323971",
-      "date": "Mon, 17 Aug 2026 20:43:00 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -129,32 +171,11 @@
       "date": "Mon, 17 Aug 2026 12:31:03 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Geely founder Eric Li to step down as chair of flagship auto unit",
-      "link": "https://www.channelnewsasia.com/business/geely-founder-eric-li-step-down-chair-flagship-auto-unit-6323656",
-      "date": "Mon, 17 Aug 2026 20:23:06 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Trump scales down war games with South Korea: Why it matters",
       "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 12:20:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will Europe hear a landmark Russian climate change case?",
-      "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 12:19:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel’s religious right is changing the state from within",
-      "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 12:15:49 +0000"
     },
     {
       "src": "BBC World",
@@ -169,20 +190,6 @@
       "text": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
       "link": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
       "date": "Mon, 17 Aug 2026 12:09:55 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Serve Robotics partners with Grubhub in robot delivery expansion push",
-      "link": "https://www.channelnewsasia.com/business/serve-robotics-partners-grubhub-in-robot-delivery-expansion-push-6323906",
-      "date": "Mon, 17 Aug 2026 20:07:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Higgsfield&#039;s valuation soars fourfold to $5.4 billion in six months on AI content demand",
-      "link": "https://www.channelnewsasia.com/business/higgsfields-valuation-soars-fourfold-54-billion-in-six-months-ai-content-demand-6323856",
-      "date": "Mon, 17 Aug 2026 19:49:09 +0800"
     },
     {
       "src": "France 24",
@@ -218,13 +225,6 @@
       "text": "Nearly 1,600 aftershocks hit Indonesia after earthquake kills at least 68 people",
       "link": "https://news.sky.com/story/nearly-1600-aftershocks-hit-indonesia-after-earthquake-kills-at-least-68-people-13573963",
       "date": "Mon, 17 Aug 2026 10:40:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "date": "Mon, 17 Aug 2026 08:47:18 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -325,13 +325,6 @@
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
@@ -379,20 +372,6 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -463,41 +442,6 @@
       "text": "American missionary kidnapped in Niger freed after nine months",
       "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "date": "Fri, 14 Aug 2026 14:55:17 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
