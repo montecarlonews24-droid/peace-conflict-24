@@ -1,19 +1,54 @@
 {
-  "updated": "2026-08-18T14:57:54.748Z",
-  "count": 72,
+  "updated": "2026-08-18T15:25:23.887Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 15:14:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stocks slide, yields elevated as Mideast conflict fears grow",
+      "link": "https://www.channelnewsasia.com/business/stocks-slide-yields-elevated-mideast-conflict-fears-grow-6326331",
+      "date": "Tue, 18 Aug 2026 23:09:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US cites India on voter IDs, but are elections under Modi clean?",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 15:04:24 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Singapore out of ASEAN football championship despite beating Thailand in second leg",
       "link": "https://www.channelnewsasia.com/sport/football-thailand-singapore-asean-championship-semi-finals-6326156",
-      "date": "Tue, 18 Aug 2026 22:55:31 +0800"
+      "date": "Tue, 18 Aug 2026 22:55:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 14:49:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 14:46:59 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "France to use AI tools to test cybsecurity vulnerabilities after tax agency hacking",
-      "link": "https://www.channelnewsasia.com/business/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-6326276",
+      "text": "French government to hire French AI providers such as Mistral, Minister says",
+      "link": "https://www.channelnewsasia.com/business/french-government-hire-french-ai-providers-such-mistral-minister-says-6326276",
       "date": "Tue, 18 Aug 2026 22:41:52 +0800"
     },
     {
@@ -101,13 +136,6 @@
       "date": "Tue, 18 Aug 2026 21:44:27 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Williams confirm Albon for 2027",
-      "link": "https://www.channelnewsasia.com/sport/williams-confirm-albon-2027-6326151",
-      "date": "Tue, 18 Aug 2026 21:40:00 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Uganda’s Succession Plan Is Already Underway",
@@ -129,39 +157,11 @@
       "date": "Tue, 18 Aug 2026 13:13:54 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 13:12:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian-American confronts Israeli settler at his besieged home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 13:11:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-      "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 13:06:20 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "🔴Live: Sophie Adenot becomes first French female astronaut to venture outside ISS",
       "link": "https://www.france24.com/en/france/20260818-sophie-adenot-set-to-become-first-french-female-astronaut-to-venture-outside-iss",
       "date": "Tue, 18 Aug 2026 12:50:10 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 12:47:41 +0000"
     },
     {
       "src": "RFI",
@@ -197,13 +197,6 @@
       "text": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
       "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 12:04:11 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "France 24",
@@ -332,34 +325,6 @@
       "date": "Mon, 17 Aug 2026 12:39:45 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168155",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola outbreak becomes deadliest in DR Congo’s history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168154",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168151",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Migrants stranded in Ceuta say ‘I’d rather die here than go back to Morocco’",
@@ -423,13 +388,6 @@
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
@@ -463,20 +421,6 @@
       "text": "Nine killed in Israeli strikes on Lebanon as tensions test peace framework",
       "link": "https://www.rfi.fr/en/international/20260815-nine-killed-in-israeli-strikes-on-lebanon-as-tensions-test-peace-framework",
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
