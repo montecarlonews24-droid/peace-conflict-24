@@ -1,12 +1,40 @@
 {
-  "updated": "2026-08-18T19:03:51.235Z",
+  "updated": "2026-08-18T19:45:55.485Z",
   "count": 72,
   "items": [
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The ‘witch-hunt’ of Jason Arday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 19:22:45 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France to expel two Iranian diplomats as arrests row heightens",
+      "link": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens",
+      "date": "Tue, 18 Aug 2026 19:22:11 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge says government can revoke deportation protections for Ethiopians",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 19:09:23 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US SEC proposes new rules for crypto assets",
-      "link": "https://www.channelnewsasia.com/business/us-sec-proposes-new-rules-crypto-assets-6326661",
+      "text": "OpenAI slows model training to bolster security after Hugging Face hack",
+      "link": "https://www.channelnewsasia.com/business/openai-slows-model-training-bolster-security-after-hugging-face-hack-6326676",
+      "date": "Wed, 19 Aug 2026 03:03:10 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US securities regulator proposes long-awaited crypto rules",
+      "link": "https://www.channelnewsasia.com/business/us-securities-regulator-proposes-long-awaited-crypto-rules-6326661",
       "date": "Wed, 19 Aug 2026 02:50:20 +0800"
     },
     {
@@ -80,6 +108,13 @@
       "date": "Wed, 19 Aug 2026 01:53:54 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘You have to be careful, to go slow & fast’: Inside high-risk mission at International Space Station",
+      "link": "https://www.france24.com/en/you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-international-space-station",
+      "date": "Tue, 18 Aug 2026 17:52:48 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
@@ -87,25 +122,11 @@
       "date": "Tue, 18 Aug 2026 17:51:46 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The British state has recast protest as terrorism",
-      "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 17:34:44 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US stocks drop again as bond yields jump",
       "link": "https://www.channelnewsasia.com/world/us-stocks-drop-again-bond-yields-jump-6326581",
       "date": "Wed, 19 Aug 2026 01:26:39 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tropical Storm Lala leaves Hawaii flooded and without power",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 17:22:38 +0000"
     },
     {
       "src": "CNA",
@@ -120,13 +141,6 @@
       "text": "Earthquake rocks Spain's historic Granada, injuring three",
       "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 17:15:39 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rights groups accuse FIFA of silencing dissent after COO Lamour&#039;s exit",
-      "link": "https://www.channelnewsasia.com/sport/rights-groups-accuse-fifa-silencing-dissent-after-coo-lamours-exit-6326541",
-      "date": "Wed, 19 Aug 2026 01:01:34 +0800"
     },
     {
       "src": "RFI",
@@ -159,7 +173,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "'Tons' of nuclear materials found at undisclosed Syrian site, IAEA chief says",
+      "text": "'Tons' of nuclear material found at undisclosed Syrian site, IAEA chief says",
       "link": "https://www.france24.com/en/middle-east/20260818-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says",
       "date": "Tue, 18 Aug 2026 15:50:02 GMT"
     },
@@ -190,20 +204,6 @@
       "text": "France's Vieira appointed head coach of Senegal national football team",
       "link": "https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team",
       "date": "Tue, 18 Aug 2026 14:38:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
-      "link": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
-      "date": "Tue, 18 Aug 2026 14:27:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ISS: Sophie Adenot and Anil Menon conduct spacewalk to replace space-to-ground antenna",
-      "link": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
-      "date": "Tue, 18 Aug 2026 14:18:58 GMT"
     },
     {
       "src": "Foreign Policy",
