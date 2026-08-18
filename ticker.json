@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T17:16:11.822Z",
-  "count": 56,
+  "updated": "2026-08-18T17:49:51.025Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US stocks drop again as bond yields jump",
+      "link": "https://www.channelnewsasia.com/world/us-stocks-drop-again-bond-yields-jump-6326581",
+      "date": "Wed, 19 Aug 2026 01:26:39 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Venus Williams receives US Open wildcard",
+      "link": "https://www.channelnewsasia.com/sport/venus-williams-receives-us-open-wildcard-6326566",
+      "date": "Wed, 19 Aug 2026 01:15:53 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -94,25 +108,11 @@
       "date": "Tue, 18 Aug 2026 16:09:49 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple changes fees for alternative app stores in EU",
-      "link": "https://www.channelnewsasia.com/business/apple-changes-fees-alternative-app-stores-in-eu-6326421",
-      "date": "Wed, 19 Aug 2026 00:03:07 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 16:00:30 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ukraine calls on FIA to reconsider lifting ban on competitors from Russia, Belarus",
-      "link": "https://www.channelnewsasia.com/sport/ukraine-calls-fia-reconsider-lifting-ban-competitors-russia-belarus-6326406",
-      "date": "Tue, 18 Aug 2026 23:56:23 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -136,6 +136,34 @@
       "date": "Tue, 18 Aug 2026 15:53:12 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "In Ceuta, migrants stranded at Europe’s gates await their fate",
+      "link": "https://www.france24.com/en/europe/20260818-ceuta-migrants-stranded-europes-gates-await-their-fate",
+      "date": "Tue, 18 Aug 2026 15:52:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Tons' of nuclear materials found at undisclosed Syrian site, IAEA chief says",
+      "link": "https://www.france24.com/en/middle-east/20260818-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says",
+      "date": "Tue, 18 Aug 2026 15:50:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Search launched after sailboat found adrift off French island",
+      "link": "https://www.france24.com/en/video/20260818-search-launched-after-sailboat-found-adrift-off-french-island",
+      "date": "Tue, 18 Aug 2026 15:46:36 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Palestinian American challenges Israeli army outside his home in the West Bank",
+      "link": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
+      "date": "Tue, 18 Aug 2026 15:43:42 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
@@ -143,11 +171,39 @@
       "date": "Tue, 18 Aug 2026 15:14:17 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sophie Adenot: First French woman to walk in space",
+      "link": "https://www.france24.com/en/video/20260818-sophie-adenot-first-french-woman-to-walk-in-space",
+      "date": "Tue, 18 Aug 2026 15:04:33 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US cites India on voter IDs, but are elections under Modi clean?",
       "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
       "date": "Tue, 18 Aug 2026 15:04:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's Vieira appointed head coach of Senegal national football team",
+      "link": "https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team",
+      "date": "Tue, 18 Aug 2026 14:38:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
+      "link": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
+      "date": "Tue, 18 Aug 2026 14:27:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ISS: Sophie Adenot and Anil Menon conduct spacewalk to replace space-to-ground antenna",
+      "link": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
+      "date": "Tue, 18 Aug 2026 14:18:58 GMT"
     },
     {
       "src": "Foreign Policy",
