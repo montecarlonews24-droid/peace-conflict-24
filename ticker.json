@@ -1,13 +1,55 @@
 {
-  "updated": "2026-08-18T09:20:03.027Z",
+  "updated": "2026-08-18T09:54:46.614Z",
   "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hormuz Strait to remain shut until US meets interim deal conditions, Iran says",
+      "link": "https://www.channelnewsasia.com/world/hormuz-strait-remain-shut-until-us-meets-interim-deal-conditions-iran-says-6325596",
+      "date": "Tue, 18 Aug 2026 17:50:03 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russia warns UK will pay for supplying drones to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 18 Aug 2026 09:11:57 GMT"
+      "date": "Tue, 18 Aug 2026 09:33:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Videos show deadly school shooting in Philippines",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 09:31:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Drone video shows drought-hit fields in England after driest July on record",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 09:29:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Syria sentences to death Assad's detained cousin for war crimes",
+      "link": "https://www.france24.com/en/middle-east/20260818-syria-sentences-to-death-assad-s-detained-cousin-for-war-crimes",
+      "date": "Tue, 18 Aug 2026 09:24:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Visit Rome by night: Italian capital tests new tourism strategy",
+      "link": "https://www.france24.com/en/visit-rome-by-night-italian-capital-tests-new-tourism-strategy",
+      "date": "Tue, 18 Aug 2026 09:20:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+      "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 09:15:03 +0000"
     },
     {
       "src": "CNA",
@@ -26,7 +68,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Kevin Lamour sacked from FIFA after publicly criticising Infantino's plan",
+      "text": "Kevin Lamour sacked by FIFA after publicly criticising Infantino's plan",
       "link": "https://www.france24.com/en/kevin-lamour-sacked-from-fifa-after-publicly-criticising-infantino-s-plan",
       "date": "Tue, 18 Aug 2026 09:06:21 GMT"
     },
@@ -136,34 +178,6 @@
       "date": "Tue, 18 Aug 2026 16:06:43 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-      "link": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 08:05:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 07:59:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestine weekly: Global outcry fails to break West Bank siege",
-      "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 07:46:17 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "RTS Link’s Bukit Chagar station to connect directly to KTM trains, buses and taxis: Malaysia Transport Minister",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-anthony-loke-rts-johor-singapore-bukit-chagar-6325226",
-      "date": "Tue, 18 Aug 2026 15:37:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "China censors public mourning as it holds former premier's funeral",
@@ -192,25 +206,11 @@
       "date": "Tue, 18 Aug 2026 06:00:11 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senior FIFA official FIFA Kevin Lamour leaves after criticising Gianni Infantino",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260818-fifa-chief-of-operations-kevin-lamour-leaves-after-criticizing-gianni-infatino",
-      "date": "Tue, 18 Aug 2026 05:29:05 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
       "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 05:24:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Syria accuses Israel of striking military airport in Idlib province",
-      "link": "https://www.france24.com/en/middle-east/20260818-middle-east-live-iran-declares-60-day-negotiation-deadline-null-and-void",
-      "date": "Tue, 18 Aug 2026 05:07:06 GMT"
     },
     {
       "src": "BBC World",
