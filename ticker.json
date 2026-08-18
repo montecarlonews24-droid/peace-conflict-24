@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T22:09:54.995Z",
-  "count": 72,
+  "updated": "2026-08-18T22:45:58.483Z",
+  "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Angelique Kidjo becomes first Black African to receive Hollywood Walk of Fame star",
+      "link": "https://www.france24.com/en/culture/20260818-angelique-kidjo-hollywood-walk-of-fame",
+      "date": "Tue, 18 Aug 2026 22:41:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says no Iran talks planned, insists Strait of Hormuz remains open",
+      "link": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
+      "date": "Tue, 18 Aug 2026 22:22:09 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -96,7 +110,7 @@
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+      "text": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
       "date": "Tue, 18 Aug 2026 21:24:52 +0000"
     },
@@ -220,20 +234,6 @@
       "date": "Tue, 18 Aug 2026 15:50:02 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Search launched after sailboat found adrift off French island",
-      "link": "https://www.france24.com/en/video/20260818-search-launched-after-sailboat-found-adrift-off-french-island",
-      "date": "Tue, 18 Aug 2026 15:46:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Palestinian American challenges Israeli army outside his home in the West Bank",
-      "link": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
-      "date": "Tue, 18 Aug 2026 15:43:42 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Uganda’s Succession Plan Is Already Underway",
@@ -281,55 +281,6 @@
       "text": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
       "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 12:04:11 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168164",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168163",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Only three per cent of cropland available to grow food",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -393,13 +344,6 @@
       "text": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
       "link": "https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041",
       "date": "Mon, 17 Aug 2026 13:46:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
