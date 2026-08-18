@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-18T20:09:55.349Z",
-  "count": 72,
+  "updated": "2026-08-18T20:45:01.370Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vietnam exonerates ex-MP for fatal crash after online outrage",
+      "link": "https://www.channelnewsasia.com/world/vietnam-car-crash-ex-mp-cuong-6326681",
+      "date": "Wed, 19 Aug 2026 04:31:42 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ICC says US sanctions on top court members 'undermine rule of law'",
+      "link": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
+      "date": "Tue, 18 Aug 2026 20:31:24 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Jailed businessman appears accused of bribes and cartel links",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links",
+      "date": "Tue, 18 Aug 2026 20:28:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US sanctions International Criminal Court president and trial lawyer",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 20:09:07 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,11 +38,25 @@
       "date": "Wed, 19 Aug 2026 04:01:01 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 19:56:48 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Judge swapped in Trump's defamation case against BBC",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 19:52:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkish politician Melih Meric stabbed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 19:51:17 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -108,27 +150,6 @@
       "date": "Wed, 19 Aug 2026 02:31:24 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Police attack Indonesian student protesters, arresting at least 21",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 18:17:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
-      "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 18:01:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nigeria hospital collapses after rain washed away its foundations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-      "date": "Tue, 18 Aug 2026 17:55:26 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
@@ -148,13 +169,6 @@
       "text": "‘You have to be careful, to go slow & fast’: Inside high-risk mission at International Space Station",
       "link": "https://www.france24.com/en/you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-international-space-station",
       "date": "Tue, 18 Aug 2026 17:52:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US stocks drop again as bond yields jump",
-      "link": "https://www.channelnewsasia.com/world/us-stocks-drop-again-bond-yields-jump-6326581",
-      "date": "Wed, 19 Aug 2026 01:26:39 +0800"
     },
     {
       "src": "BBC World",
@@ -213,20 +227,6 @@
       "date": "Tue, 18 Aug 2026 15:43:42 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sophie Adenot: First French woman to walk in space",
-      "link": "https://www.france24.com/en/video/20260818-sophie-adenot-first-french-woman-to-walk-in-space",
-      "date": "Tue, 18 Aug 2026 15:04:33 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's Vieira appointed head coach of Senegal national football team",
-      "link": "https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team",
-      "date": "Tue, 18 Aug 2026 14:38:59 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Uganda’s Succession Plan Is Already Underway",
@@ -274,41 +274,6 @@
       "text": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
       "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 18 Aug 2026 12:04:11 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Only three per cent of cropland available to grow food",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -379,27 +344,6 @@
       "text": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
       "link": "https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041",
       "date": "Mon, 17 Aug 2026 13:46:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168155",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola outbreak becomes deadliest in DR Congo’s history",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168154",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
