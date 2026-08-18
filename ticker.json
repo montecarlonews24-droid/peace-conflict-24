@@ -1,11 +1,67 @@
 {
-  "updated": "2026-08-18T00:30:25.494Z",
-  "count": 72,
+  "updated": "2026-08-18T01:57:48.563Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Vigil held in central London for late Cambridge professor Jason Arday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 01:26:31 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zambia's president Hichilema wins re-election with big economic promises",
+      "link": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
+      "date": "Tue, 18 Aug 2026 01:22:51 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zambia’s Hichilema wins second term as president",
+      "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+      "date": "Tue, 18 Aug 2026 01:17:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia warns UK over supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 18 Aug 2026 01:16:41 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Hayden Panettiere: autopsy finds no trauma after actress dies at 36",
+      "text": "Hayden Panettiere tributes include Viola Davis, Emma Roberts, Brittany Snow and Melissa Barrera",
+      "link": "https://www.channelnewsasia.com/entertainment/hayden-panettiere-tributes-viola-davis-melissa-barrera-6323861",
+      "date": "Tue, 18 Aug 2026 09:16:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+      "link": "https://www.channelnewsasia.com/business/oil-climbs-fading-us-iran-peace-hopes-raise-supply-risks-6324826",
+      "date": "Tue, 18 Aug 2026 09:13:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Two largest US reservoirs hit record lows amid western drought",
+      "link": "https://www.channelnewsasia.com/sustainability/us-reservoirs-lake-mead-record-lows-western-drought-6324806",
+      "date": "Tue, 18 Aug 2026 08:55:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Canada announces US$50 billion plan to boost clean energy",
+      "link": "https://www.channelnewsasia.com/world/canada-announces-us50-billion-plan-boost-clean-energy-6324791",
+      "date": "Tue, 18 Aug 2026 08:33:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hayden Panettiere: Autopsy finds no trauma after actress dies at 36",
       "link": "https://www.channelnewsasia.com/entertainment/hayden-panettiere-death-cardiac-arrest-suspected-overdose-6324756",
       "date": "Tue, 18 Aug 2026 08:23:00 +0800"
     },
@@ -38,6 +94,13 @@
       "date": "Tue, 18 Aug 2026 07:56:42 +0800"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "BBC breaks down Trump's latest shift on North and South Korea",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 23:42:38 GMT"
+    },
+    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "FIFA chief operating officer leaves after criticising Infantino investor plan",
@@ -66,13 +129,6 @@
       "date": "Mon, 17 Aug 2026 23:25:17 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From Beneunder to Bosideng: 5 Chinese outdoor brands every gorpcore fan should know",
-      "link": "https://www.channelnewsasia.com/style-beauty/chinese-outdoor-brands-gorpcore-6290111",
-      "date": "Tue, 18 Aug 2026 07:20:45 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
@@ -80,32 +136,18 @@
       "date": "Mon, 17 Aug 2026 22:26:12 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: What STI’s record run doesn’t say about the Singapore stock market",
-      "link": "https://www.channelnewsasia.com/commentary/singapore-stock-market-sti-dbs-ocbc-uob-share-price-6323681",
-      "date": "Tue, 18 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Suspicious ‘consulting firm’ website trying to hire former Singapore foreign ministry personnel",
-      "link": "https://www.channelnewsasia.com/singapore/fake-think-tanks-mfa-consultancy-recruit-rsis-6323571",
-      "date": "Tue, 18 Aug 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Millions of guns, repeated shootings: Thailand confronts limits of firearm control",
-      "link": "https://www.channelnewsasia.com/asia/thailand-gun-violence-school-shooting-firearms-control-6323466",
-      "date": "Tue, 18 Aug 2026 06:00:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
       "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 21:39:22 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Norway's king admitted to hospital and put on sick leave",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 17 Aug 2026 21:34:26 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -120,20 +162,6 @@
       "text": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
       "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
       "date": "Mon, 17 Aug 2026 20:54:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says Iran will not make the deal he believes is necessary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 20:49:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-      "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "date": "Mon, 17 Aug 2026 20:46:34 +0000"
     },
     {
       "src": "France 24",
@@ -159,16 +187,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "FIFA sacks senior executive who criticised Infantino, Sky News understands",
+      "text": "FIFA sacks Infantino critic",
       "link": "https://news.sky.com/story/fifa-sacks-senior-executive-who-criticised-infantino-sky-news-understands-13574166",
       "date": "Mon, 17 Aug 2026 20:02:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 18:39:39 GMT"
     },
     {
       "src": "France 24",
@@ -176,13 +197,6 @@
       "text": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
       "link": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
       "date": "Mon, 17 Aug 2026 18:14:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 18:03:23 GMT"
     },
     {
       "src": "BBC World",
@@ -227,13 +241,6 @@
       "date": "Mon, 17 Aug 2026 15:28:03 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'",
-      "link": "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity",
-      "date": "Mon, 17 Aug 2026 15:06:00 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Has Turkey Really Resolved Its Kurdish Question?",
@@ -267,20 +274,6 @@
       "text": "China’s New Laws Are Ensnaring Western Companies",
       "link": "https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/",
       "date": "Mon, 17 Aug 2026 12:39:45 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US hiker dies after being struck by lightning on Mount Etna",
-      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 17 Aug 2026 12:23:26 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168151",
-      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -353,13 +346,6 @@
       "date": "Sun, 16 Aug 2026 12:24:17 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "date": "Sun, 16 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Morocco arrests nearly 300 migrants near Ceuta amid renewed crossing fears",
@@ -409,20 +395,6 @@
       "date": "Sat, 15 Aug 2026 13:14:08 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The grass beneath our feet: Why rangelands matter",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "date": "Sat, 15 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "In Turkey, one of the world's longest conflicts reaches a turning point",
@@ -470,34 +442,6 @@
       "text": "American missionary kidnapped in Niger freed after nine months",
       "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "date": "Fri, 14 Aug 2026 14:55:17 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "An attack on healthcare every six hours, and no one held to account",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "date": "Fri, 14 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
