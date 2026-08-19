@@ -1,13 +1,41 @@
 {
-  "updated": "2026-08-19T11:13:40.553Z",
-  "count": 64,
+  "updated": "2026-08-19T11:46:12.025Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine live: Zelensky fires deputy head of presidential office as corruption probe unfolds",
+      "link": "https://www.france24.com/en/europe/20260819-ukraine-live-zelensky-fires-deputy-head-of-presidential-office-as-corruption-probe-unfolds",
+      "date": "Wed, 19 Aug 2026 11:20:23 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hyundai Motor India to raise car prices by up to 1% from September",
+      "link": "https://www.channelnewsasia.com/business/hyundai-motor-india-raise-car-prices-up-1-september-6328671",
+      "date": "Wed, 19 Aug 2026 19:17:09 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 19 Aug 2026 11:00:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Humanitarianism is not collapsing. It is being traded and compromised",
+      "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+      "date": "Wed, 19 Aug 2026 10:59:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+      "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+      "date": "Wed, 19 Aug 2026 10:57:57 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -94,13 +122,6 @@
       "date": "Wed, 19 Aug 2026 18:01:49 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Former Meta engineer resumes testimony in landmark trial over social media&#039;s harm to young users",
-      "link": "https://www.channelnewsasia.com/business/former-meta-engineer-resumes-testimony-in-landmark-trial-over-social-medias-harm-young-users-6328496",
-      "date": "Wed, 19 Aug 2026 18:01:27 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Ukraine anti-graft agencies uncover alleged laundering group tied to presidential official",
@@ -157,20 +178,6 @@
       "date": "Wed, 19 Aug 2026 09:23:28 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-      "date": "Wed, 19 Aug 2026 09:23:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cars swept downhill as flash floods hit northern Chile",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
-      "date": "Wed, 19 Aug 2026 09:22:30 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Iran parliament speaker Ghalibaf in Iraq for talks",
@@ -183,13 +190,6 @@
       "text": "UN atomic watchdog says found tons of nuclear material at Syria site",
       "link": "https://www.france24.com/en/video/20260819-un-atomic-watchdog-says-found-tons-of-nuclear-material-at-syria-site",
       "date": "Wed, 19 Aug 2026 09:19:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ethiopia’s digital IDs scheme offers refugees a way out of limbo",
-      "link": "https://www.france24.com/en/video/20260819-ethiopia-s-digital-ids-scheme-offers-refugees-a-way-out-of-limbo",
-      "date": "Wed, 19 Aug 2026 09:16:00 GMT"
     },
     {
       "src": "The Guardian",
@@ -339,6 +339,55 @@
       "date": "Tue, 18 Aug 2026 13:05:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168164",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168163",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Only three per cent of cropland available to grow food",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Watchdog contacting TikTok over 'joyriding content' after five teens die speeding wrong way on motorway",
@@ -379,6 +428,13 @@
       "text": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "date": "Mon, 17 Aug 2026 14:07:31 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
+      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
