@@ -1,13 +1,48 @@
 {
-  "updated": "2026-08-19T20:13:01.943Z",
-  "count": 72,
+  "updated": "2026-08-19T20:50:22.537Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 19 Aug 2026 20:34:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 19 Aug 2026 20:34:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What’s behind Israel’s latest attack on Syria?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+      "date": "Wed, 19 Aug 2026 20:18:40 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "date": "Wed, 19 Aug 2026 20:17:39 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Kyiv&#039;s ex-defence chief makes risky bet by venturing into electoral grounds",
       "link": "https://www.channelnewsasia.com/world/ukraine-federov-ex-defence-minister-6329511",
       "date": "Thu, 20 Aug 2026 04:02:45 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How Africa Is Battling Climate Extremes",
+      "link": "https://foreignpolicy.com/2026/08/19/africa-climate-change-drought-wildfires-flooding-el-nino/",
+      "date": "Wed, 19 Aug 2026 20:01:47 +0000"
     },
     {
       "src": "BBC World",
@@ -22,13 +57,6 @@
       "text": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
       "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
       "date": "Wed, 19 Aug 2026 19:53:12 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 19 Aug 2026 19:53:05 GMT"
     },
     {
       "src": "France 24",
@@ -129,13 +157,6 @@
       "date": "Wed, 19 Aug 2026 18:15:53 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-      "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-      "date": "Wed, 19 Aug 2026 18:08:09 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Amazon plans drone delivery expansion to about 500 US locales",
@@ -162,13 +183,6 @@
       "text": "As the Israeli Election Nears, Trump Has Leverage Over Netanyahu",
       "link": "https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/",
       "date": "Wed, 19 Aug 2026 17:28:15 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 19 Aug 2026 17:23:42 GMT"
     },
     {
       "src": "BBC World",
@@ -304,13 +318,6 @@
       "date": "Wed, 19 Aug 2026 12:25:30 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Aid workers under fire as drones reshape warfare",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168153",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab",
@@ -320,7 +327,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Four Americans killed in Kenya helicopter crash",
+      "text": "Ecuador intelligence boss and US news exec among seven killed in helicopter crash",
       "link": "https://news.sky.com/story/several-tourists-feared-dead-after-northern-kenya-helicopter-crash-reports-13574663",
       "date": "Wed, 19 Aug 2026 11:24:00 +0100"
     },
@@ -367,13 +374,6 @@
       "date": "Wed, 19 Aug 2026 03:27:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Russian Threats Won’t Stop the U.K.’s Drone Deliveries",
-      "link": "https://foreignpolicy.com/2026/08/18/british-drones-ukraine-russia-war-burnham-missiles/",
-      "date": "Tue, 18 Aug 2026 21:29:27 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Why climate scientists are struggling to explain Europe’s extreme summer",
@@ -386,55 +386,6 @@
       "text": "Liechtenstein changes royal succession rules, giving women equal rights",
       "link": "https://www.rfi.fr/en/international/20260818-liechtenstein-changes-royal-succession-rules-giving-women-equal-rights",
       "date": "Tue, 18 Aug 2026 12:40:18 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168164",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168163",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: Only three per cent of cropland available to grow food",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -498,13 +449,6 @@
       "text": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
       "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
       "date": "Sat, 15 Aug 2026 18:08:21 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "American missionary kidnapped in Niger freed after nine months",
-      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "date": "Fri, 14 Aug 2026 14:55:17 GMT"
     }
   ]
 }
