@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-19T04:04:06.775Z",
-  "count": 64,
+  "updated": "2026-08-19T04:58:20.845Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 19 Aug 2026 04:44:41 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singer Gareth Fernandez performs live at HDB void deck after NDP lip sync debate",
+      "link": "https://www.channelnewsasia.com/entertainment/gareth-fernandez-live-performance-hdb-lip-sync-ndp-6327641",
+      "date": "Wed, 19 Aug 2026 12:43:22 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+      "date": "Wed, 19 Aug 2026 04:25:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Analysis:Investors set sights on Swiss franc for popular carry trades after yen intervention",
+      "link": "https://www.channelnewsasia.com/business/analysisinvestors-set-sights-swiss-franc-popular-carry-trades-after-yen-intervention-6327721",
+      "date": "Wed, 19 Aug 2026 12:02:26 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Johor dumping: NEA issues advisory to construction waste facilities, says waste cannot be exported for disposal",
+      "link": "https://www.channelnewsasia.com/asia/johor-dumping-pontian-construction-waste-nea-swcorp-6327556",
+      "date": "Wed, 19 Aug 2026 12:01:00 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -47,14 +82,14 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Trump says US and Canada strike deal, temporarily pauses 50% tariffs",
+      "text": "Trump pauses tariffs on Canadian imports, Carney says key work remains",
       "link": "https://www.channelnewsasia.com/world/us-canada-strike-deal-temporarily-pause-50-percent-tariffs-donald-trump-6327471",
       "date": "Wed, 19 Aug 2026 11:41:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "South Korea shortens war games with US citing Washington request",
+      "text": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 19 Aug 2026 03:39:41 GMT"
     },
@@ -122,32 +157,11 @@
       "date": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iman Fandi performs at Snoop Dogg’s Los Angeles music event, debuts upcoming single",
-      "link": "https://www.channelnewsasia.com/entertainment/iman-fandi-snoop-dogg-los-angeles-event-6327301",
-      "date": "Wed, 19 Aug 2026 10:45:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "US, Canada reach deal to pause steep tariffs",
+      "text": "Trump pauses 50 percent tariff on Canada in last-minute deal",
       "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
       "date": "Wed, 19 Aug 2026 02:35:15 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan bond yields near 3% as inflation, fiscal worries mount",
-      "link": "https://www.channelnewsasia.com/business/japan-bond-yields-near-3-inflation-fiscal-worries-mount-6327521",
-      "date": "Wed, 19 Aug 2026 10:35:01 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Peter Seah steps down as chair of National Wages Council for personal reasons; Hsieh Fu Hua takes over",
-      "link": "https://www.channelnewsasia.com/singapore/peter-seah-step-down-chair-national-wages-council-hsieh-fu-hua-6327426",
-      "date": "Wed, 19 Aug 2026 10:33:00 +0800"
     },
     {
       "src": "Sky News",
@@ -164,25 +178,11 @@
       "date": "Wed, 19 Aug 2026 02:00:43 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 19 Aug 2026 01:31:15 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Two French filmmakers held in Togo since July 27, Paris says",
       "link": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry",
       "date": "Wed, 19 Aug 2026 00:55:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Ebola became the deadliest outbreak in DR Congo’s history",
-      "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-      "date": "Wed, 19 Aug 2026 00:53:34 +0000"
     },
     {
       "src": "France 24",
@@ -304,6 +304,55 @@
       "date": "Tue, 18 Aug 2026 13:05:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168164",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168163",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Only three per cent of cropland available to grow food",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
+      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Watchdog contacting TikTok over 'joyriding content' after five teens die speeding wrong way on motorway",
@@ -358,6 +407,13 @@
       "text": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
       "link": "https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041",
       "date": "Mon, 17 Aug 2026 13:46:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
+      "date": "Mon, 17 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
