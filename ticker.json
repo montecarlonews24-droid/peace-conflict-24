@@ -1,13 +1,104 @@
 {
-  "updated": "2026-08-20T08:01:42.081Z",
+  "updated": "2026-08-20T09:02:22.154Z",
   "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Whales spark joy in New York but face threats from boat traffic",
+      "link": "https://www.france24.com/en/video/20260820-whales-spark-joy-in-new-york-but-face-threats-from-boat-traffic",
+      "date": "Thu, 20 Aug 2026 08:58:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian strikes kill at least 12 in Kyiv, surrounding region",
+      "link": "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region",
+      "date": "Thu, 20 Aug 2026 08:56:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "ICC says US sanctions 'flagrant attack' on court independence",
+      "link": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence",
+      "date": "Thu, 20 Aug 2026 08:55:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta",
+      "link": "https://www.france24.com/en/video/20260820-migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta",
+      "date": "Thu, 20 Aug 2026 08:54:23 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s Loh Kean Yew exits BWF World Championships after round of 16 loss to Canada&#039;s Victor Lai",
+      "link": "https://www.channelnewsasia.com/sport/loh-kean-yew-exit-world-championships-victor-lai-6330621",
+      "date": "Thu, 20 Aug 2026 16:53:00 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 20 Aug 2026 07:59:55 GMT"
+      "date": "Thu, 20 Aug 2026 08:39:26 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dollar falls to three-month low as Treasury moves to soothe bond jitters",
+      "link": "https://www.channelnewsasia.com/business/dollar-falls-three-month-low-treasury-moves-soothe-bond-jitters-6329866",
+      "date": "Thu, 20 Aug 2026 16:36:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 08:27:55 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 08:24:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video shows Russian missile strike on Ukrainian capital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 08:18:15 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 08:16:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dog&#039;s death during canine-catching operation renews scrutiny of how Malaysia manages strays",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-rocky-stray-dogs-killing-abuse-animal-cruelty-6328981",
+      "date": "Thu, 20 Aug 2026 16:15:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trial opens for man accused of sexually assaulting 16-year-old girl in Admiralty Park female toilet",
+      "link": "https://www.channelnewsasia.com/singapore/admiralty-park-female-toilet-sexual-assault-6330581",
+      "date": "Thu, 20 Aug 2026 16:14:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia passes law to levy tech giants that fail to pay for local news",
+      "link": "https://www.channelnewsasia.com/business/australia-passes-law-levy-tech-giants-fail-pay-local-news-6330636",
+      "date": "Thu, 20 Aug 2026 15:54:57 +0800"
     },
     {
       "src": "CNA",
@@ -17,11 +108,18 @@
       "date": "Thu, 20 Aug 2026 15:52:21 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 07:50:07 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "What property giant Evergrande&#039;s sentence means for China&#039;s economy",
       "link": "https://www.channelnewsasia.com/east-asia/china-property-evergrande-hui-ka-yan-sentence-china-economy-6330606",
-      "date": "Thu, 20 Aug 2026 15:47:11 +0800"
+      "date": "Thu, 20 Aug 2026 15:47:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -45,11 +143,11 @@
       "date": "Thu, 20 Aug 2026 07:33:11 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore and India discuss bilateral cooperation on semiconductors, food security at ministerial meeting",
-      "link": "https://www.channelnewsasia.com/singapore/india-singapore-semiconductors-food-safety-6330246",
-      "date": "Thu, 20 Aug 2026 15:30:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Massive Russian strikes hit Kyiv killing several people",
+      "link": "https://www.france24.com/en/massive-russian-strikes-hit-kyiv-killing-several-people",
+      "date": "Thu, 20 Aug 2026 07:17:50 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -57,13 +155,6 @@
       "text": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
       "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
       "date": "Thu, 20 Aug 2026 07:17:13 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Verstappen will continue with Red Bull Racing until the end of the 2030 Formula One season",
-      "link": "https://www.channelnewsasia.com/sport/verstappen-will-continue-red-bull-racing-until-end-2030-formula-one-season-6330576",
-      "date": "Thu, 20 Aug 2026 15:14:19 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -80,39 +171,18 @@
       "date": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi scores first goal for Inter Miami since father’s death",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 07:08:23 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What property giant Evergrande's sentence means for China's economy",
+      "link": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
+      "date": "Thu, 20 Aug 2026 06:57:10 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Beijing ‘commends’ Malaysia PM Anwar’s ‘One China’ stance following Taiwan’s rebuke",
-      "link": "https://www.channelnewsasia.com/asia/china-malaysia-anwar-ibrahim-taiwan-force-6330456",
-      "date": "Thu, 20 Aug 2026 14:58:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Skanska to build four US data centres for $1.2 billion",
-      "link": "https://www.channelnewsasia.com/business/skanska-build-four-us-data-centres-12-billion-6330536",
-      "date": "Thu, 20 Aug 2026 14:53:43 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bangladesh holds presidential election in first contested vote in 35 years",
-      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 06:38:39 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Mofusand and Starbucks Singapore merchandise launching on Aug 25",
-      "link": "https://www.channelnewsasia.com/dining/mofusand-starbucks-singapore-new-merchandise-6330396",
-      "date": "Thu, 20 Aug 2026 14:34:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "China real estate giant Xu Jiayin sentenced to life in prison",
+      "link": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
+      "date": "Thu, 20 Aug 2026 06:27:09 GMT"
     },
     {
       "src": "Sky News",
@@ -122,6 +192,13 @@
       "date": "Thu, 20 Aug 2026 07:22:00 +0100"
     },
     {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "European drought reveals 100-year-old steam boat and ancient Roman bridge",
+      "link": "https://news.sky.com/story/drought-reveals-100-year-old-boat-in-serbia-and-ancient-roman-bridge-in-italy-13574893",
+      "date": "Thu, 20 Aug 2026 07:10:00 +0100"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -129,32 +206,18 @@
       "date": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says will meet North Korea's Kim later this year",
+      "link": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
+      "date": "Thu, 20 Aug 2026 06:07:05 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Missing teen hiker found dead in Australian bush after eight-day search",
       "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 20 Aug 2026 05:45:53 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 05:43:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 05:06:23 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 04:59:22 +0000"
     },
     {
       "src": "Sky News",
@@ -290,41 +353,6 @@
       "date": "Wed, 19 Aug 2026 13:44:57 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168171",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168168",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Zambia: Arrests and detention of political opponents following election raises concern",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168169",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168165",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Aid workers under fire as drones reshape warfare",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168153",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab",
@@ -360,13 +388,6 @@
       "date": "Wed, 19 Aug 2026 03:47:12 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "US and Canada reach last-minute tariffs deal after 'intense' talks",
-      "link": "https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545",
-      "date": "Wed, 19 Aug 2026 03:27:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Why climate scientists are struggling to explain Europe’s extreme summer",
@@ -379,27 +400,6 @@
       "text": "Liechtenstein changes royal succession rules, giving women equal rights",
       "link": "https://www.rfi.fr/en/international/20260818-liechtenstein-changes-royal-succession-rules-giving-women-equal-rights",
       "date": "Tue, 18 Aug 2026 12:40:18 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168164",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168163",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
