@@ -2647,6 +2647,7 @@ async function loadAllRSSFeeds() {
     liveHeadlines = headlines;
     rssLoaded = true;
     updateNewsSourcesUI(results);
+    try { updateLiveRiskScores(); } catch(e) { console.warn('[RISK] skipped:', e); }
     renderTicker();
     renderNewsFeed();
     renderNewsChips();
@@ -4314,6 +4315,156 @@ function computeWorldRiskIndex() {
   // Weight critical conflicts more
   const weighted = Math.round(Math.min(99, avg + critical * 2.5 + high * 0.8));
   return weighted;
+}
+
+// ═══════════════════════════════════════════════════════════
+// 🔴 LIVE RISK ENGINE — derives risk scores from live RSS coverage
+// ═══════════════════════════════════════════════════════════
+// Every conflict keeps its hand-set BASE score. The engine measures (a) how
+// much of the last 72h of coverage each conflict is attracting and (b) how
+// severe the overall news tone is versus the past week, then nudges the base.
+// The base is snapshotted once and never overwritten, so repeated refreshes
+// can never compound or drift.
+
+const CONFLICT_KEYWORDS = {
+  1:  ['ukraine','ukrainian','kyiv','kiev','zelensky','donetsk','luhansk','kherson','zaporizhzhia','crimea','kremlin','putin'],
+  2:  ['gaza','israel','israeli','hamas','idf','rafah','west bank','netanyahu','khan younis'],
+  3:  ['kashmir','srinagar','jammu','line of control'],
+  4:  ['sudan','sudanese','khartoum','darfur','rsf','omdurman'],
+  5:  ['taiwan strait','taipei','taiwanese'],
+  6:  ['karabakh','nagorno','armenia','armenian','azerbaijan','azeri','baku','yerevan'],
+  7:  ['myanmar','burma','rakhine','rohingya','naypyidaw'],
+  8:  ['mali','bamako','niger','niamey','wagner'],
+  9:  ['mexico','mexican','cartel','cartels','sinaloa','juarez','tijuana'],
+  10: ['venezuela','venezuelan','caracas','maduro'],
+  11: ['lithuania','lithuanian','belarus','belarusian','minsk','lukashenko','vilnius','suwalki'],
+  12: ['libya','libyan','tripoli','benghazi','haftar'],
+  13: ['hormuz','persian gulf','tanker','tankers','oil transit'],
+  14: ['iran','iranian','tehran','irgc','revolutionary guard','khamenei'],
+  15: ['philippines','philippine','manila','scarborough','ayungin','second thomas','south china sea'],
+  16: ['yemen','yemeni','houthi','houthis','sanaa','red sea','aden','bab el-mandeb'],
+  17: ['congo','congolese','drc','m23','goma','kinshasa','rwanda','rwandan','kivu'],
+  18: ['haiti','haitian','port-au-prince'],
+  19: ['north korea','north korean','pyongyang','kim jong','dprk','icbm'],
+  20: ['lebanon','lebanese','hezbollah','beirut'],
+  21: ['burkina','ouagadougou','sahel','jihadist','jihadists'],
+  22: ['ethiopia','ethiopian','amhara','addis ababa','tigray','fano'],
+  23: ['colombia','colombian','eln','bogota','farc'],
+  24: ['moldova','moldovan','transnistria','chisinau','tiraspol'],
+  25: ['georgia','georgian','tbilisi','abkhazia','south ossetia'],
+  26: ['syria','syrian','damascus','aleppo','assad','idlib'],
+  27: ['iraq','iraqi','baghdad','pmf','popular mobilization','erbil'],
+  28: ['somalia','somali','shabaab','mogadishu'],
+  29: ['mozambique','cabo delgado','renamo','maputo'],
+  30: ['pakistan','pakistani','islamabad','ttp','balochistan','waziristan'],
+  31: ['bangladesh','bangladeshi','dhaka','hasina'],
+  32: ['ecuador','ecuadorian','quito','guayaquil','noboa'],
+  33: ['serbia','serbian','kosovo','belgrade','pristina','mitrovica'],
+  34: ['ladakh','galwan','line of actual control','arunachal'],
+  35: ['taiwan','beijing','chinese military','xi jinping'],
+  36: ['nigeria','nigerian','boko haram','abuja','iswap'],
+  37: ['nicaragua','nicaraguan','managua','ortega'],
+  38: ['turkey','turkish','pkk','kurdish','kurds','ankara','erdogan'],
+  39: ['afghanistan','afghan','kabul','taliban'],
+  40: ['bosnia','bosnian','republika srpska','sarajevo','dodik']
+};
+
+const RISK_SEV_WEIGHT = { critical: 3, high: 2, elevated: 1 };
+const RISK_SPREAD     = 4;   // how hard relative coverage pushes one conflict
+// Asymmetric on purpose: a surge in coverage is real evidence of escalation,
+// but a quiet news hour is NOT evidence that a war de-escalated. So scores
+// rise faster than they fall.
+const RISK_MAX_UP     = 6;
+const RISK_MAX_DOWN   = 2;
+const RISK_TILT_MAX   = 4;   // cap on ± applied to every conflict from global tone
+let   _conflictRx     = null;
+
+function buildConflictRegex() {
+  if (_conflictRx) return _conflictRx;
+  _conflictRx = {};
+  Object.keys(CONFLICT_KEYWORDS).forEach(id => {
+    const esc = CONFLICT_KEYWORDS[id].map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    _conflictRx[id] = new RegExp('\\b(' + esc.join('|') + ')\\b', 'i');
+  });
+  return _conflictRx;
+}
+
+// Global tone vs. the past week. Samples are taken at most once every 45 min
+// and kept for 7 days, so this reflects "today vs recent normal", not noise.
+function computeGlobalTilt(sevNow) {
+  const KEY = 'pc_sev_history';
+  let hist = [];
+  try { hist = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch(e) { hist = []; }
+  if (!Array.isArray(hist)) hist = [];
+
+  const now = Date.now();
+  hist = hist.filter(s => s && typeof s.t === 'number' && (now - s.t) < 7*24*3600000);
+  const last = hist[hist.length - 1];
+  if (!last || (now - last.t) > 45*60000) {
+    hist.push({ t: now, v: Number(sevNow.toFixed(4)) });
+    try { localStorage.setItem(KEY, JSON.stringify(hist)); } catch(e) {}
+  }
+
+  if (hist.length < 6) return 0;   // not enough history yet — stay on the base
+  const sorted = hist.map(s => s.v).sort((a,b) => a - b);
+  const median = sorted[Math.floor(sorted.length / 2)];
+  if (!median) return 0;
+  const dev = (sevNow - median) / median;
+  return Math.max(-RISK_TILT_MAX, Math.min(RISK_TILT_MAX, dev * 8));
+}
+
+function updateLiveRiskScores() {
+  const news = (typeof getActiveHeadlines === 'function') ? getActiveHeadlines() : [];
+  if (!news || news.length < 20) return false;   // too little signal — leave bases alone
+
+  // Snapshot the hand-set base ONCE so repeated runs never compound.
+  CONFLICTS.forEach(c => { if (c.baseRisk === undefined) c.baseRisk = c.riskScore; });
+
+  // Score each headline once: severity level × recency.
+  const now = Date.now();
+  const scored = [];
+  let sevTotal = 0;
+  news.forEach(h => {
+    const ageH = (now - new Date(h.date).getTime()) / 3600000;
+    if (!isFinite(ageH) || ageH < 0 || ageH > 72) return;
+    const lvl = scoreHeadline(h.text || '');
+    const sev = lvl ? RISK_SEV_WEIGHT[lvl] : 0.5;
+    sevTotal += sev;
+    scored.push({ text: h.text || '', w: sev * (ageH <= 24 ? 1 : 0.6) });
+  });
+  if (scored.length < 20) return false;
+
+  const tilt = computeGlobalTilt(sevTotal / scored.length);
+
+  // Share of coverage per conflict.
+  const rx = buildConflictRegex();
+  const intensity = {};
+  let totalIntensity = 0;
+  CONFLICTS.forEach(c => {
+    const re = rx[c.id];
+    let sum = 0;
+    if (re) scored.forEach(s => { if (re.test(s.text)) sum += s.w; });
+    intensity[c.id] = sum;
+    totalIntensity += sum;
+  });
+
+  const expected = totalIntensity / CONFLICTS.length;
+  CONFLICTS.forEach(c => {
+    let move = 0;
+    if (expected > 0) {
+      const rel = (intensity[c.id] - expected) / expected;
+      move = rel >= 0
+        ? Math.min(RISK_MAX_UP,  rel * RISK_SPREAD)
+        : Math.max(-RISK_MAX_DOWN, rel * RISK_SPREAD * 0.5);
+    }
+    const live = Math.max(1, Math.min(99, Math.round(c.baseRisk + move + tilt)));
+    c.riskScore = live;
+    c.riskDelta = live - c.baseRisk;
+  });
+
+  if (typeof initWorldRiskIndex === 'function') initWorldRiskIndex();
+  console.log('[RISK] recomputed from', scored.length, 'headlines · tilt', tilt.toFixed(1), '· WRI', computeWorldRiskIndex());
+  return true;
 }
 
 function initWorldRiskIndex() {
