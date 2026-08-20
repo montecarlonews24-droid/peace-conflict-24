@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-20T15:54:23.727Z",
+  "updated": "2026-08-20T16:19:41.900Z",
   "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "British Army sailors rescue bedraggled barn owl 70 nautical miles out to sea",
+      "link": "https://www.france24.com/en/europe/20260820-british-army-sailors-rescue-bedraggled-barn-owl-70-nautical-miles-sea",
+      "date": "Thu, 20 Aug 2026 16:13:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Heatwave-damaged Parc des Princes pitch forces PSG fixture switch",
+      "link": "https://www.channelnewsasia.com/sport/heatwave-damaged-parc-des-princes-pitch-forces-psg-fixture-switch-6331726",
+      "date": "Fri, 21 Aug 2026 00:09:52 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+      "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 15:51:46 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "date": "Thu, 20 Aug 2026 15:42:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 15:41:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+      "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 15:36:59 +0000"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -10,11 +52,39 @@
       "date": "Thu, 20 Aug 2026 15:24:42 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
+      "link": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
+      "date": "Thu, 20 Aug 2026 15:21:33 GMT"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "West Bank village siege fuels concern over growing settler violence",
       "link": "https://www.rfi.fr/en/international/20260820-west-bank-village-siege-fuels-concern-over-growing-settler-violence-qusra",
       "date": "Thu, 20 Aug 2026 15:20:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French PM announces creation of unit to combat cyberattacks",
+      "link": "https://www.france24.com/en/video/20260820-french-pm-announces-creation-of-unit-to-combat-cyberattacks",
+      "date": "Thu, 20 Aug 2026 15:19:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain expands Ceuta migrant shelters to ease crisis",
+      "link": "https://www.france24.com/en/video/20260820-spain-expands-ceuta-migrant-shelters-to-ease-crisis",
+      "date": "Thu, 20 Aug 2026 15:18:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
+      "link": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis",
+      "date": "Thu, 20 Aug 2026 15:17:22 GMT"
     },
     {
       "src": "CNA",
@@ -87,20 +157,6 @@
       "date": "Thu, 20 Aug 2026 14:45:55 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-      "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 14:40:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
-      "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 14:36:35 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Gold mine collapse in Central African Republic leaves at least 100 dead",
@@ -113,13 +169,6 @@
       "text": "World Athletics unveils lane draft, jump-offs for new Ultimate Championship",
       "link": "https://www.channelnewsasia.com/sport/world-athletics-unveils-lane-draft-jump-offs-new-ultimate-championship-6331496",
       "date": "Thu, 20 Aug 2026 22:18:26 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
-      "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 14:10:01 +0000"
     },
     {
       "src": "France 24",
@@ -136,13 +185,6 @@
       "date": "Thu, 20 Aug 2026 14:01:13 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Barca bring back Cancelo for third spell on deal until 2029",
-      "link": "https://www.channelnewsasia.com/sport/barca-bring-back-cancelo-third-spell-deal-until-2029-6331461",
-      "date": "Thu, 20 Aug 2026 22:00:40 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -155,41 +197,6 @@
       "text": "Ceuta: FRANCE 24 brings you up to speed",
       "link": "https://www.france24.com/en/video/20260820-ceuta-france-24-brings-you-up-to-speed",
       "date": "Thu, 20 Aug 2026 13:31:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ICC slams US decision to sanction the court's president and a senior prosecution lawyer",
-      "link": "https://www.france24.com/en/video/20260820-icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-prosecution-lawyer",
-      "date": "Thu, 20 Aug 2026 13:30:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US national debt tops $40 trillion for first time, dealing blow to Trump",
-      "link": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
-      "date": "Thu, 20 Aug 2026 13:28:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Prince Harry and Meghan to move back to Britain",
-      "link": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-      "date": "Thu, 20 Aug 2026 13:27:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DRC’s Ebola outbreak reaches 5,000 cases, outpaces response efforts at unprecedented speed",
-      "link": "https://www.france24.com/en/video/20260820-drc-s-ebola-outbreak-reaches-5-000-cases-outpaces-response-efforts-at-unprecedented-speed",
-      "date": "Thu, 20 Aug 2026 13:25:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
-      "link": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
-      "date": "Thu, 20 Aug 2026 13:24:23 GMT"
     },
     {
       "src": "BBC World",
@@ -442,13 +449,6 @@
       "text": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "date": "Mon, 17 Aug 2026 14:07:31 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "date": "Sat, 15 Aug 2026 19:39:07 GMT"
     }
   ]
 }
