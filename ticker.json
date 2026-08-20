@@ -1,11 +1,39 @@
 {
-  "updated": "2026-08-20T17:21:52.126Z",
+  "updated": "2026-08-20T17:52:33.982Z",
   "count": 64,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New US carrier arrives in Mideast to relieve long-deployed ship",
+      "link": "https://www.channelnewsasia.com/world/uss-washington-carrier-lincoln-middle-east-6331816",
+      "date": "Fri, 21 Aug 2026 01:40:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alcaraz confirms US Open return after four-month injury layoff",
+      "link": "https://www.channelnewsasia.com/sport/alcaraz-confirms-us-open-return-after-four-month-injury-layoff-6331866",
+      "date": "Fri, 21 Aug 2026 01:38:34 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bangladesh elects ruling party veteran Alamgir as president",
+      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 17:35:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Humanoid robots take centre stage in China-US tech race",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 17:17:47 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "text": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
@@ -80,6 +108,13 @@
       "date": "Thu, 20 Aug 2026 16:13:05 GMT"
     },
     {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least 50 people dead after boat carrying farm workers capsizes in Nigeria",
+      "link": "https://news.sky.com/story/at-least-50-people-dead-after-boat-carrying-farm-workers-capsizes-in-nigeria-13575129",
+      "date": "Thu, 20 Aug 2026 17:12:00 +0100"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Heatwave-damaged Parc des Princes pitch forces PSG fixture switch",
@@ -87,25 +122,11 @@
       "date": "Fri, 21 Aug 2026 00:09:52 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-      "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 15:51:46 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "date": "Thu, 20 Aug 2026 15:42:39 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 15:41:56 +0000"
     },
     {
       "src": "France 24",
@@ -162,20 +183,6 @@
       "text": "Tension mounting as Springboks, All Blacks ready for opening test of tour series",
       "link": "https://www.channelnewsasia.com/sport/tension-mounting-springboks-all-blacks-ready-opening-test-tour-series-6331596",
       "date": "Thu, 20 Aug 2026 23:08:22 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Grand Slams create player advisory council amid push for increased prize money",
-      "link": "https://www.channelnewsasia.com/sport/grand-slams-create-player-advisory-council-amid-push-increased-prize-money-6331601",
-      "date": "Thu, 20 Aug 2026 23:07:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "3D X-ray imaging unlocks the secrets of the narwhal&#039;s spiral tusk",
-      "link": "https://www.channelnewsasia.com/business/3d-x-ray-imaging-unlocks-secrets-narwhals-spiral-tusk-6331591",
-      "date": "Thu, 20 Aug 2026 23:07:34 +0800"
     },
     {
       "src": "France 24",
@@ -351,13 +358,6 @@
       "text": "Ukraine’s War Widows Are Fighting for Money",
       "link": "https://foreignpolicy.com/2026/08/19/ukraines-war-widows-are-fighting-for-money/",
       "date": "Wed, 19 Aug 2026 16:15:54 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Second Ukrainian suspect arrested over Nord Stream pipeline blasts",
-      "link": "https://news.sky.com/story/second-ukrainian-suspect-arrested-over-nord-stream-pipeline-blasts-13574750",
-      "date": "Wed, 19 Aug 2026 15:39:00 +0100"
     },
     {
       "src": "Sky News",
