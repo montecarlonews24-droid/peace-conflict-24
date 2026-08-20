@@ -1,13 +1,76 @@
 {
-  "updated": "2026-08-20T19:51:43.750Z",
+  "updated": "2026-08-20T20:15:07.401Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 20 Aug 2026 20:08:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pegula downs Anisimova to advance to Cincinnati Open semi-finals",
+      "link": "https://www.channelnewsasia.com/sport/pegula-downs-anisimova-advance-cincinnati-open-semi-finals-6332031",
+      "date": "Fri, 21 Aug 2026 04:00:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+      "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 19:59:54 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 20 Aug 2026 19:52:48 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "World Cup surprise package Cape Verde name Bettencourt as coach",
+      "link": "https://www.channelnewsasia.com/sport/world-cup-surprise-package-cape-verde-name-bettencourt-coach-6332001",
+      "date": "Fri, 21 Aug 2026 03:48:56 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 19:45:08 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "IndyCar takes to Washington streets for landmark Freedom 250",
+      "link": "https://www.channelnewsasia.com/sport/indycar-takes-washington-streets-landmark-freedom-250-6331996",
+      "date": "Fri, 21 Aug 2026 03:44:45 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Duplantis soars to victory in Lausanne, falls short of world mark",
       "link": "https://www.channelnewsasia.com/sport/duplantis-soars-victory-in-lausanne-falls-short-world-mark-6331986",
       "date": "Fri, 21 Aug 2026 03:41:41 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Could US sanctions destroy the International Criminal Court?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 19:38:29 +0000"
     },
     {
       "src": "CNA",
@@ -24,11 +87,18 @@
       "date": "Fri, 21 Aug 2026 03:28:35 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 20 Aug 2026 19:19:20 GMT"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The U.S. Bond Crisis Highlights a Deeper Fiscal Rot",
+      "link": "https://foreignpolicy.com/2026/08/20/us-bond-crisis-treasury-bessent-trump-national-debt/",
+      "date": "Thu, 20 Aug 2026 19:24:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Walmart sees sales drop as US consumer spending retreats",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+      "date": "Thu, 20 Aug 2026 19:18:38 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -66,13 +136,6 @@
       "date": "Thu, 20 Aug 2026 19:10:45 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 19:09:33 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Prime Video to invest more than $2 billion in Latin America through 2030",
@@ -80,39 +143,11 @@
       "date": "Fri, 21 Aug 2026 03:03:33 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 19:03:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Brook maintains stranglehold over Pakistan for dominant England",
-      "link": "https://www.channelnewsasia.com/sport/brook-maintains-stranglehold-over-pakistan-dominant-england-6331946",
-      "date": "Fri, 21 Aug 2026 03:01:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldinho unsure of playing role after Ravenna arrival",
-      "link": "https://www.channelnewsasia.com/sport/ronaldinho-unsure-playing-role-after-ravenna-arrival-6331951",
-      "date": "Fri, 21 Aug 2026 03:00:19 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thai schools hold shooter drills after deadly attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 18:59:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-      "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-      "date": "Thu, 20 Aug 2026 18:55:52 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "A Tale of Two Socialists",
+      "link": "https://foreignpolicy.com/2026/08/20/sanchez-starmer-burnham-spain-britain-left-wing-labour-socialism-economy/",
+      "date": "Thu, 20 Aug 2026 19:01:29 +0000"
     },
     {
       "src": "BBC World",
@@ -127,13 +162,6 @@
       "text": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
       "link": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
       "date": "Thu, 20 Aug 2026 18:52:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Increased US sanctions on Iran make large-scale war less likely: Bessent",
-      "link": "https://www.channelnewsasia.com/world/iran-us-china-bessent-sanctions-6331921",
-      "date": "Fri, 21 Aug 2026 02:50:26 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -171,13 +199,6 @@
       "date": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Como mayor bans 'beasts' in city centre after being hit by bike",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 20 Aug 2026 16:53:20 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "British Army sailors rescue bedraggled barn owl 70 nautical miles out to sea",
@@ -190,13 +211,6 @@
       "text": "At least 50 people dead after boat carrying farm workers capsizes in Nigeria",
       "link": "https://news.sky.com/story/at-least-50-people-dead-after-boat-carrying-farm-workers-capsizes-in-nigeria-13575129",
       "date": "Thu, 20 Aug 2026 17:12:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "date": "Thu, 20 Aug 2026 15:42:39 GMT"
     },
     {
       "src": "France 24",
@@ -351,20 +365,6 @@
       "text": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
       "date": "Wed, 19 Aug 2026 20:17:39 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Africa Is Battling Climate Extremes",
-      "link": "https://foreignpolicy.com/2026/08/19/africa-climate-change-drought-wildfires-flooding-el-nino/",
-      "date": "Wed, 19 Aug 2026 20:01:47 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Realism Is Unrealistic",
-      "link": "https://foreignpolicy.com/2026/08/19/realism-international-relations-power-america-cold-war-hegemony/",
-      "date": "Wed, 19 Aug 2026 18:15:53 +0000"
     },
     {
       "src": "Sky News",
