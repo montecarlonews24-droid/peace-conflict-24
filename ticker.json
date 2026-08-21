@@ -1,11 +1,144 @@
 {
-  "updated": "2026-08-21T14:03:26.782Z",
-  "count": 64,
+  "updated": "2026-08-21T14:59:17.859Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Several injured after sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 14:58:02 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
+      "link": "https://www.channelnewsasia.com/business/apple-paid-40-its-global-taxes-ireland-in-last-fiscal-year-6333766",
+      "date": "Fri, 21 Aug 2026 22:51:15 +0800"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Several people injured in sword attack at Swedish school",
+      "text": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 14:38:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 14:36:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Moroccan families travel to Ceuta border in search of missing loved ones",
+      "link": "https://www.france24.com/en/europe/20260821-moroccan-families-search-their-missing-children-ceuta-border",
+      "date": "Fri, 21 Aug 2026 14:35:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia invests in data center developer Cloverleaf Infrastructure",
+      "link": "https://www.channelnewsasia.com/business/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure-6333706",
+      "date": "Fri, 21 Aug 2026 22:34:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Airbus backs down on return-to-office after protests, sources say",
+      "link": "https://www.channelnewsasia.com/world/remote-work-return-office-airbus-protests-6333686",
+      "date": "Fri, 21 Aug 2026 22:31:50 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tension with South Africa fuels prospect of better play, says All Blacks captain",
+      "link": "https://www.channelnewsasia.com/sport/tension-south-africa-fuels-prospect-better-play-says-all-blacks-captain-6333696",
+      "date": "Fri, 21 Aug 2026 22:29:26 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What a record-breaking El Nino could mean for the world",
+      "link": "https://www.france24.com/en/video/20260821-what-a-record-breaking-el-nino-could-mean-for-the-world",
+      "date": "Fri, 21 Aug 2026 14:28:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK court orders Prince Harry, six others to pay Daily Mail £9.5 million",
+      "link": "https://www.channelnewsasia.com/world/prince-harry-elton-john-others-ordered-pay-daily-mail-uk-courts-6333676",
+      "date": "Fri, 21 Aug 2026 22:27:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "2,500 dead and rising: UN says DR Congo Ebola outbreak 'growing exponentially'",
+      "link": "https://www.france24.com/en/video/20260821-2-500-dead-and-rising-un-says-dr-congo-ebola-outbreak-growing-exponentially",
+      "date": "Fri, 21 Aug 2026 14:25:25 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "E1 Israeli settlement poses ‘existential threat’ to two-state solution, UN chief warns",
+      "link": "https://www.france24.com/en/video/20260821-e1-israeli-settlement-poses-existential-threat-to-two-state-solution-un-chief-warns",
+      "date": "Fri, 21 Aug 2026 14:24:13 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Liverpool can compete despite need for more signings, says Iraola",
+      "link": "https://www.channelnewsasia.com/sport/liverpool-can-compete-despite-need-more-signings-says-iraola-6333691",
+      "date": "Fri, 21 Aug 2026 22:24:06 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Djibouti Football Federation accused of misusing funds from FIFA",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 14:18:23 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "PSG heavily favoured to win sixth successive Ligue 1 title",
+      "link": "https://www.france24.com/en/sport/20260821-psg-heavily-favoured-win-sixth-successive-ligue-1-title",
+      "date": "Fri, 21 Aug 2026 14:14:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sinner withdraws from US open due to knee injury",
+      "link": "https://www.channelnewsasia.com/sport/sinner-withdraws-us-open-due-knee-injury-6333671",
+      "date": "Fri, 21 Aug 2026 22:13:04 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism",
+      "link": "https://foreignpolicy.com/2026/08/21/southeast-asia-allies-flexible-realism-colby-trump-china/",
+      "date": "Fri, 21 Aug 2026 14:08:52 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Apollo Global reveals data breach after hackers target financial firms",
+      "link": "https://www.channelnewsasia.com/business/apollo-global-reveals-data-breach-after-hackers-target-financial-firms-6333656",
+      "date": "Fri, 21 Aug 2026 22:07:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "War on Iran: The US could focus on economically isolating Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 13:59:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Several people injured in sword attack at school in Sweden",
       "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
       "date": "Fri, 21 Aug 2026 13:48:09 +0000"
     },
@@ -17,25 +150,11 @@
       "date": "Fri, 21 Aug 2026 13:47:26 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK forecasts &#039;biggest&#039; El Nino will smash records, spark hottest year",
-      "link": "https://www.channelnewsasia.com/world/el-nino-temperature-records-heat-6333601",
-      "date": "Fri, 21 Aug 2026 21:43:15 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ghana midfielder Partey joins Al-Shabab",
-      "link": "https://www.channelnewsasia.com/sport/ghana-midfielder-partey-joins-al-shabab-6333596",
-      "date": "Fri, 21 Aug 2026 21:33:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indian tycoon&#039;s giant Vantara zoo announces &#039;reset&#039;, rethinks imports",
-      "link": "https://www.channelnewsasia.com/asia/india-vantara-zoo-reset-6333586",
-      "date": "Fri, 21 Aug 2026 21:31:04 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 13:44:43 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -45,20 +164,6 @@
       "date": "Fri, 21 Aug 2026 13:30:36 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;It was quite scary&#039; – domestic helpers on being caregivers without enough training",
-      "link": "https://www.channelnewsasia.com/today/ground-up/domestic-worker-helper-maid-caregiver-training-elderly-senior-special-needs-6332566",
-      "date": "Fri, 21 Aug 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "I went to China in search of my Teochew lineage. What I found was much more",
-      "link": "https://www.channelnewsasia.com/today/voices/teochew-family-lineage-china-history-immigrant-6328156",
-      "date": "Fri, 21 Aug 2026 21:30:00 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Liverpool preview: Five key questions heading into 2026-27 season",
@@ -66,25 +171,18 @@
       "date": "Fri, 21 Aug 2026 13:29:28 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Weddings in Gaza offer rare moments of joy amid genocide",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 13:29:19 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 13:10:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Maresca unfazed by City exits ahead of season-opener against Bournemouth",
-      "link": "https://www.channelnewsasia.com/sport/maresca-unfazed-city-exits-ahead-season-opener-against-bournemouth-6333576",
-      "date": "Fri, 21 Aug 2026 21:26:35 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "El Nino set to be most intense ‘for over a century’: UK forecasters",
-      "link": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 13:12:07 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fishermen floating in cooler rescued after five days at sea off Mexican coast",
+      "link": "https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast",
+      "date": "Fri, 21 Aug 2026 13:08:30 GMT"
     },
     {
       "src": "BBC World",
@@ -92,27 +190,6 @@
       "text": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 21 Aug 2026 13:07:00 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korea footballers urge safety after extreme heat statistics",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 13:04:32 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "LA28 Olympic ticket sales top 6 million; next public sale set for 2027",
-      "link": "https://www.channelnewsasia.com/sport/la28-olympic-ticket-sales-top-6-million-next-public-sale-set-2027-6333526",
-      "date": "Fri, 21 Aug 2026 21:02:10 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli soldiers throw belongings from besieged Palestinian home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 13:01:54 +0000"
     },
     {
       "src": "France 24",
@@ -129,13 +206,6 @@
       "date": "Fri, 21 Aug 2026 12:55:58 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Photo of reported crocodile sighting at Pandan Reservoir found to be fake; police report lodged: PUB",
-      "link": "https://www.channelnewsasia.com/singapore/pub-pandan-reservoir-crocodile-sighting-fake-photo-police-report-6333501",
-      "date": "Fri, 21 Aug 2026 20:50:00 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "More than 2,500 dead in DR Congo Ebola outbreak, UN says",
@@ -150,46 +220,25 @@
       "date": "Fri, 21 Aug 2026 12:00:55 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Sword-wielding attacker injures several at Swedish school",
+      "link": "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
+      "date": "Fri, 21 Aug 2026 12:59:00 +0100"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 11:57:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ronaldinho returns in search of 'beautiful' 300th goal",
-      "link": "https://www.france24.com/en/video/20260821-ronaldinho-returns-in-search-of-beautiful-300th-goal",
-      "date": "Fri, 21 Aug 2026 11:33:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Key European leaders demand Israel halt West Bank settlement project",
-      "link": "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "date": "Fri, 21 Aug 2026 11:32:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hopes fade after Central African Republic gold mine collapse kills dozens",
-      "link": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens",
-      "date": "Fri, 21 Aug 2026 11:31:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Prince Harry and Meghan are returning to the UK with their children",
-      "link": "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children",
-      "date": "Fri, 21 Aug 2026 11:29:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion",
-      "link": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "date": "Fri, 21 Aug 2026 11:27:54 GMT"
+      "text": "Peru earthquake damages buildings and causes power cuts",
+      "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 11:14:38 GMT"
     },
     {
       "src": "BBC World",
@@ -199,32 +248,11 @@
       "date": "Fri, 21 Aug 2026 10:46:09 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "This year's El Nino set to be strongest in more than a century, UK forecasters say",
-      "link": "https://www.france24.com/en/environment/20260821-this-year-s-el-nino-set-to-be-strongest-in-more-than-a-century-uk-forecasters-say",
-      "date": "Fri, 21 Aug 2026 10:28:32 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 10:03:17 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
       "link": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
       "date": "Fri, 21 Aug 2026 10:00:31 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 09:53:47 GMT"
     },
     {
       "src": "Sky News",
@@ -243,7 +271,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Australian hiker's body recovered - as officials apologise for wrongly reporting she was alive",
+      "text": "Body of Australian hiker recovered - day after officials said she had been found alive",
       "link": "https://news.sky.com/story/hikers-body-recovered-as-authorities-apologise-for-mistakenly-announcing-she-was-found-alive-13575273",
       "date": "Fri, 21 Aug 2026 08:51:00 +0100"
     },
@@ -253,13 +281,6 @@
       "text": "France and European allies press Israel to abandon West Bank settlement plan",
       "link": "https://www.rfi.fr/en/international/20260821-france-and-european-allies-press-israel-to-abandon-west-bank-settlement-plan",
       "date": "Fri, 21 Aug 2026 07:01:15 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Panama Canal to cut number of ships passing through due to El Niño",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 06:46:08 GMT"
     },
     {
       "src": "Sky News",
@@ -302,13 +323,6 @@
       "text": "Trump’s Tech Tensions",
       "link": "https://foreignpolicy.com/2026/08/20/trump-us-national-security-technology-strategy-china/",
       "date": "Thu, 20 Aug 2026 21:43:52 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Ex-Pakistani PM returns to prison after hospital treatment",
-      "link": "https://news.sky.com/story/former-pakistan-prime-minister-imran-khan-moved-from-prison-to-hospital-for-treatment-13575207",
-      "date": "Thu, 20 Aug 2026 22:14:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -367,6 +381,48 @@
       "date": "Thu, 20 Aug 2026 14:01:13 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168176",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168174",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168173",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Spain to open shelters in Ceuta for migrants and transfer 500 girls to mainland",
@@ -379,13 +435,6 @@
       "text": "Tanker boarded by six gunmen off Yemen",
       "link": "https://news.sky.com/story/tanker-boarded-by-six-armed-people-off-yemen-13574987",
       "date": "Thu, 20 Aug 2026 11:54:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Israel and America Agree on Gaza&#8217;s New Leader",
-      "link": "https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/",
-      "date": "Thu, 20 Aug 2026 09:05:39 +0000"
     },
     {
       "src": "The Guardian",
@@ -421,6 +470,13 @@
       "text": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
       "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
       "date": "Wed, 19 Aug 2026 13:44:57 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The clean energy transition needs land. Can it help restore it too?",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168172",
+      "date": "Wed, 19 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
