@@ -1,13 +1,104 @@
 {
-  "updated": "2026-08-21T11:48:17.962Z",
+  "updated": "2026-08-21T12:20:44.875Z",
   "count": 64,
   "items": [
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "More than 2,500 dead in DR Congo Ebola outbreak, UN says",
+      "link": "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
+      "date": "Fri, 21 Aug 2026 13:10:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say",
+      "link": "https://www.channelnewsasia.com/business/eric-trump-backed-space-eyes-appoint-ex-delta-force-officer-and-ex-banker-sources-say-6333451",
+      "date": "Fri, 21 Aug 2026 20:09:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bayern Munich’s Musiala collapsed on-field as a result of medication change",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/jamal-musiala-neurological-disorder-collapse-vincent-kompany-bayern-munich-football?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 12:08:19 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "PTI accuses Pakistan government of defying ex-PM Imran Khan hospital order",
+      "link": "https://www.aljazeera.com/news/2026/8/21/pti-accuses-pakistan-government-of-defying-ex-pm-imran-khan-hospital-order?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 12:05:51 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+      "link": "https://www.channelnewsasia.com/business/exclusive-dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-shows-6333436",
+      "date": "Fri, 21 Aug 2026 20:03:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Antonelli fastest in sole Dutch GP practice",
+      "link": "https://www.channelnewsasia.com/sport/antonelli-fastest-in-sole-dutch-gp-practice-6333441",
+      "date": "Fri, 21 Aug 2026 20:01:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How a Swedish Palestinian minister raised controversy with Star of David",
+      "link": "https://www.aljazeera.com/news/2026/8/21/how-a-swedish-palestinian-minister-raised-controversy-with-star-of-david?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 12:01:36 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sister of ex-Pakistan PM Khan says he is being tortured in jail",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-clip-imran-khan-sister-pk?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 12:00:32 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 11:57:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+      "link": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 11:57:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran president says time to end war while in position of strength",
+      "link": "https://www.channelnewsasia.com/world/iran-president-time-end-war-us-sanctions-6333426",
+      "date": "Fri, 21 Aug 2026 19:49:00 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Duplantis swaps pole for microphone with anthem for World Athletics Ultimate",
       "link": "https://www.channelnewsasia.com/sport/duplantis-swaps-pole-microphone-anthem-world-athletics-ultimate-6333421",
       "date": "Fri, 21 Aug 2026 19:42:27 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ronaldinho returns in search of 'beautiful' 300th goal",
+      "link": "https://www.france24.com/en/video/20260821-ronaldinho-returns-in-search-of-beautiful-300th-goal",
+      "date": "Fri, 21 Aug 2026 11:33:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Key European leaders demand Israel halt West Bank settlement project",
+      "link": "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "date": "Fri, 21 Aug 2026 11:32:35 GMT"
     },
     {
       "src": "BBC World",
@@ -24,11 +115,32 @@
       "date": "Fri, 21 Aug 2026 19:31:49 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hopes fade after Central African Republic gold mine collapse kills dozens",
+      "link": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens",
+      "date": "Fri, 21 Aug 2026 11:31:16 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "CNA Explains: What we know about the Moderna, Merck breakthrough cancer vaccine",
       "link": "https://www.channelnewsasia.com/world/moderna-merck-mrna-cancer-vaccine-breakthrough-6333371",
       "date": "Fri, 21 Aug 2026 19:30:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Prince Harry and Meghan are returning to the UK with their children",
+      "link": "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children",
+      "date": "Fri, 21 Aug 2026 11:29:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion",
+      "link": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "date": "Fri, 21 Aug 2026 11:27:54 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -52,32 +164,11 @@
       "date": "Fri, 21 Aug 2026 19:04:21 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore government beta testing new chatbot to make official information more accessible",
-      "link": "https://www.channelnewsasia.com/singapore/ai-chatbot-government-information-6333261",
-      "date": "Fri, 21 Aug 2026 19:00:43 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Charter plane crash near Alaskan military site kills 8",
       "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
       "date": "Fri, 21 Aug 2026 10:59:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-      "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 10:59:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Serie A: Key talking points heading into the new 2026-27 season",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 10:56:43 +0000"
     },
     {
       "src": "BBC World",
@@ -87,39 +178,11 @@
       "date": "Fri, 21 Aug 2026 10:46:09 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan protests Russian missile tests off disputed islands",
-      "link": "https://www.channelnewsasia.com/east-asia/japan-protests-russia-missile-tests-disputed-islands-putin-visit-6333311",
-      "date": "Fri, 21 Aug 2026 18:42:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "This year's El Nino set to be strongest in more than a century, UK forecasters say",
       "link": "https://www.france24.com/en/environment/20260821-this-year-s-el-nino-set-to-be-strongest-in-more-than-a-century-uk-forecasters-say",
       "date": "Fri, 21 Aug 2026 10:28:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Williams boss was concerned Sainz and Albon might both leave",
-      "link": "https://www.channelnewsasia.com/sport/williams-boss-was-concerned-sainz-and-albon-might-both-leave-6333281",
-      "date": "Fri, 21 Aug 2026 18:15:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-      "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 10:10:52 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How Tether&#039;s bitcoin mining plans in Uruguay unraveled",
-      "link": "https://www.channelnewsasia.com/business/how-tethers-bitcoin-mining-plans-in-uruguay-unraveled-6333266",
-      "date": "Fri, 21 Aug 2026 18:09:06 +0800"
     },
     {
       "src": "France 24",
@@ -134,20 +197,6 @@
       "text": "Bodies of two hikers missing for decades found after Swiss glacier melts",
       "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 21 Aug 2026 10:03:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Philippines floods fuel anger over alleged corruption",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 10:01:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 10:01:17 +0000"
     },
     {
       "src": "The Guardian",
@@ -169,41 +218,6 @@
       "text": "In Senegal's Saint-Louis, traces of slave-trading past fade away",
       "link": "https://www.france24.com/en/video/20260821-in-senegal-s-saint-louis-traces-of-slave-trading-past-fade-away",
       "date": "Fri, 21 Aug 2026 09:50:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
-      "link": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
-      "date": "Fri, 21 Aug 2026 09:48:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hong Kong's Tiananmen vigils organisers convicted in national security case",
-      "link": "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case",
-      "date": "Fri, 21 Aug 2026 09:47:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France’s heatwaves bring bumper salt harvest in Guérande",
-      "link": "https://www.france24.com/en/video/20260821-france-s-heatwaves-bring-bumper-salt-harvest-in-gu%C3%A9rande",
-      "date": "Fri, 21 Aug 2026 09:45:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ex-Pakistan PM Khan taken back to jail after hospital checks",
-      "link": "https://www.france24.com/en/video/20260821-ex-pakistan-pm-khan-taken-back-to-jail-after-hospital-checks",
-      "date": "Fri, 21 Aug 2026 09:44:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "El Niño rains in Peru disrupt access to Machu Picchu",
-      "link": "https://www.france24.com/en/video/20260821-el-ni%C3%B1o-rains-in-peru-disrupt-access-to-machu-picchu",
-      "date": "Fri, 21 Aug 2026 09:43:30 GMT"
     },
     {
       "src": "Sky News",
@@ -234,25 +248,11 @@
       "date": "Fri, 21 Aug 2026 07:01:15 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British YouTuber to face retrial on rape charges in Australia",
-      "link": "https://news.sky.com/story/british-youtuber-yung-filly-to-face-retrial-on-rape-charges-in-australia-13575236",
-      "date": "Fri, 21 Aug 2026 07:54:00 +0100"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Panama Canal to cut number of ships passing through due to El Niño",
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 21 Aug 2026 06:46:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 06:33:32 GMT"
     },
     {
       "src": "Sky News",
