@@ -1,13 +1,27 @@
 {
-  "updated": "2026-08-21T20:45:20.584Z",
-  "count": 64,
+  "updated": "2026-08-21T21:12:07.045Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "One killed in sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 21 Aug 2026 21:03:24 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Manchester United agree deal for Brighton&#039;s Baleba",
-      "link": "https://www.channelnewsasia.com/sport/manchester-united-agree-deal-brightons-baleba-6334221",
+      "text": "Manchester United agree deal for Brighton midfielder Baleba",
+      "link": "https://www.channelnewsasia.com/sport/manchester-united-agree-deal-brighton-midfielder-baleba-6334221",
       "date": "Sat, 22 Aug 2026 04:37:33 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tunisian protesters call for President Kais Saied to step down",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 20:35:07 +0000"
     },
     {
       "src": "CNA",
@@ -15,6 +29,13 @@
       "text": "SEC charges former Bank of America investment banker with insider trading",
       "link": "https://www.channelnewsasia.com/business/sec-charges-former-bank-america-investment-banker-insider-trading-6334206",
       "date": "Sat, 22 Aug 2026 04:27:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can a humanitarian disaster be averted in Somalia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 20:27:14 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -59,6 +80,13 @@
       "date": "Sat, 22 Aug 2026 03:59:34 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
+      "link": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings",
+      "date": "Fri, 21 Aug 2026 19:53:39 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US Supreme Court allows Trump’s ballroom project to continue for now",
@@ -92,27 +120,6 @@
       "text": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
       "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
       "date": "Fri, 21 Aug 2026 19:29:20 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 19:22:05 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-      "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 19:21:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-      "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 19:20:17 +0000"
     },
     {
       "src": "CNA",
@@ -157,6 +164,20 @@
       "date": "Fri, 21 Aug 2026 18:09:38 GMT"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
+      "link": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+      "date": "Fri, 21 Aug 2026 18:07:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+      "link": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+      "date": "Fri, 21 Aug 2026 18:04:40 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Land Without the Troubles?",
@@ -192,6 +213,13 @@
       "date": "Fri, 21 Aug 2026 17:00:12 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Does Putin travel without security?",
+      "link": "https://www.france24.com/en/europe/20260821-does-putin-travel-without-security",
+      "date": "Fri, 21 Aug 2026 16:05:17 GMT"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "More Russians seeking to leave as fears of another mobilisation grow",
@@ -204,6 +232,27 @@
       "text": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Who are the eight candidates running to succeed Antonio Guterres as UN chief?",
+      "link": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief",
+      "date": "Fri, 21 Aug 2026 15:32:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Millions in Cuba face water shortages as oil crisis deepens",
+      "link": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
+      "date": "Fri, 21 Aug 2026 15:28:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Deadly daytime heat turns Japanese farmers nocturnal",
+      "link": "https://www.france24.com/en/video/20260821-deadly-daytime-heat-turns-japanese-farmers-nocturnal",
+      "date": "Fri, 21 Aug 2026 15:25:21 GMT"
     },
     {
       "src": "Sky News",
@@ -225,6 +274,13 @@
       "text": "Trump’s Twin Blunders",
       "link": "https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-pacific/",
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazillian football star Ronaldinho makes a comeback at the age of 46",
+      "link": "https://www.france24.com/en/video/20260821-brazillian-football-star-ronaldinho-makes-a-comeback-at-the-age-of-46",
+      "date": "Fri, 21 Aug 2026 15:04:06 GMT"
     },
     {
       "src": "Sky News",
