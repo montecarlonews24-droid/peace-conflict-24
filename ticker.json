@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-21T20:11:48.464Z",
-  "count": 72,
+  "updated": "2026-08-21T20:45:20.584Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester United agree deal for Brighton&#039;s Baleba",
+      "link": "https://www.channelnewsasia.com/sport/manchester-united-agree-deal-brightons-baleba-6334221",
+      "date": "Sat, 22 Aug 2026 04:37:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SEC charges former Bank of America investment banker with insider trading",
+      "link": "https://www.channelnewsasia.com/business/sec-charges-former-bank-america-investment-banker-insider-trading-6334206",
+      "date": "Sat, 22 Aug 2026 04:27:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 20:16:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Werro wins in Lausanne as Tebogo, Wanyonyi lay down markers for Budapest",
+      "link": "https://www.channelnewsasia.com/sport/werro-wins-in-lausanne-tebogo-wanyonyi-lay-down-markers-budapest-6334186",
+      "date": "Sat, 22 Aug 2026 04:15:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 20:07:40 +0000"
+    },
     {
       "src": "Foreign Policy",
       "col": "#1a73e8",
@@ -10,18 +45,18 @@
       "date": "Fri, 21 Aug 2026 20:05:26 +0000"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Western allies slam Israel for ending World Central Kitchen strike probe",
+      "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+      "date": "Fri, 21 Aug 2026 20:03:35 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US health department seeks public feedback on vaccine guidelines after Trump order",
       "link": "https://www.channelnewsasia.com/world/us-health-department-seeks-public-feedback-vaccine-guidelines-after-trump-order-6333796",
       "date": "Sat, 22 Aug 2026 03:59:34 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
-      "link": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings",
-      "date": "Fri, 21 Aug 2026 19:53:39 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -80,32 +115,11 @@
       "date": "Fri, 21 Aug 2026 19:20:17 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian victims of Israeli settler attacks face battle for justice",
-      "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 19:14:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-      "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 19:08:30 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Inter Milan bring in midfielder Jones from Liverpool",
       "link": "https://www.channelnewsasia.com/sport/inter-milan-bring-in-midfielder-jones-liverpool-6334106",
       "date": "Sat, 22 Aug 2026 02:58:19 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
-      "date": "Fri, 21 Aug 2026 18:55:22 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -143,20 +157,6 @@
       "date": "Fri, 21 Aug 2026 18:09:38 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Back-to-back Russian drone strikes kill more than a dozen at Ukraine shopping centre",
-      "link": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-      "date": "Fri, 21 Aug 2026 18:07:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
-      "link": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
-      "date": "Fri, 21 Aug 2026 18:04:40 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Land Without the Troubles?",
@@ -192,34 +192,6 @@
       "date": "Fri, 21 Aug 2026 17:00:12 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Root disappointed over Headingley missing out on Ashes test",
-      "link": "https://www.channelnewsasia.com/sport/root-disappointed-over-headingley-missing-out-ashes-test-6334001",
-      "date": "Sat, 22 Aug 2026 00:57:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Norris still believes he can retain his F1 title",
-      "link": "https://www.channelnewsasia.com/sport/norris-still-believes-he-can-retain-his-f1-title-6333991",
-      "date": "Sat, 22 Aug 2026 00:52:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shakhtar to play Champions League home games at Chelsea&#039;s Stamford Bridge",
-      "link": "https://www.channelnewsasia.com/sport/shakhtar-play-champions-league-home-games-chelseas-stamford-bridge-6333961",
-      "date": "Sat, 22 Aug 2026 00:12:32 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Does Putin travel without security?",
-      "link": "https://www.france24.com/en/europe/20260821-does-putin-travel-without-security",
-      "date": "Fri, 21 Aug 2026 16:05:17 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "More Russians seeking to leave as fears of another mobilisation grow",
@@ -232,27 +204,6 @@
       "text": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 21 Aug 2026 15:58:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Who are the eight candidates running to succeed Antonio Guterres as UN chief?",
-      "link": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief",
-      "date": "Fri, 21 Aug 2026 15:32:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Millions in Cuba face water shortages as oil crisis deepens",
-      "link": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
-      "date": "Fri, 21 Aug 2026 15:28:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Deadly daytime heat turns Japanese farmers nocturnal",
-      "link": "https://www.france24.com/en/video/20260821-deadly-daytime-heat-turns-japanese-farmers-nocturnal",
-      "date": "Fri, 21 Aug 2026 15:25:21 GMT"
     },
     {
       "src": "Sky News",
@@ -274,13 +225,6 @@
       "text": "Trump’s Twin Blunders",
       "link": "https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-pacific/",
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazillian football star Ronaldinho makes a comeback at the age of 46",
-      "link": "https://www.france24.com/en/video/20260821-brazillian-football-star-ronaldinho-makes-a-comeback-at-the-age-of-46",
-      "date": "Fri, 21 Aug 2026 15:04:06 GMT"
     },
     {
       "src": "Sky News",
