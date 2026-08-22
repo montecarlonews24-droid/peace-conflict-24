@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22T05:16:35.219Z",
-  "count": 64,
+  "updated": "2026-08-22T05:49:13.031Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 22 Aug 2026 05:15:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia 50-3 in reply to Bangladesh&#039;s 64 in second test",
+      "link": "https://www.channelnewsasia.com/sport/australia-50-3-in-reply-bangladeshs-64-in-second-test-6334661",
+      "date": "Sat, 22 Aug 2026 13:09:31 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -75,7 +89,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Infantino likes a baldy joke, but the fans will see it as bare-faced cheek",
+      "text": "Infantino likes a baldy joke, but fans will see it as bare-faced cheek",
       "link": "https://news.sky.com/story/infantino-likes-a-baldy-joke-but-the-fans-will-see-it-as-bare-faced-cheek-13575678",
       "date": "Sat, 22 Aug 2026 05:01:00 +0100"
     },
@@ -92,13 +106,6 @@
       "text": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
       "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
       "date": "Sat, 22 Aug 2026 03:19:58 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 22 Aug 2026 03:17:29 GMT"
     },
     {
       "src": "CNA",
@@ -148,13 +155,6 @@
       "text": "As they return to the UK, Harry and Meghan search for a brand that sticks",
       "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "The debate on traditional gender roles has taken a turn",
-      "link": "https://www.channelnewsasia.com/today/big-read/masculinity-traditional-norms-household-responsibilities-sexual-consent-6330311",
-      "date": "Sat, 22 Aug 2026 08:00:00 +0800"
     },
     {
       "src": "BBC World",
@@ -325,6 +325,34 @@
       "date": "Fri, 21 Aug 2026 13:10:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI for Good: How the UN uses AI to advance human rights",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New initiative launched to shield terrorism victims from online harm",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "One dead after teenager carries out sword attack at Swedish school",
@@ -400,6 +428,34 @@
       "text": "US-backed Gaza peace plan ‘fails to overcome central obstacles’, warns expert",
       "link": "https://www.rfi.fr/en/international/20260820-us-led-roadmap-must-overcome-two-central-obstacles-to-end-impasse",
       "date": "Thu, 20 Aug 2026 14:01:13 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168176",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
