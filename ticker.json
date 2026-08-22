@@ -1,18 +1,88 @@
 {
-  "updated": "2026-08-22T10:10:37.782Z",
+  "updated": "2026-08-22T10:45:23.437Z",
   "count": 72,
   "items": [
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Turkey accuses Netanyahu of 'genocide', Israeli PM calls Erdogan 'antisemitic dictator'",
+      "link": "https://www.france24.com/en/turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator",
+      "date": "Sat, 22 Aug 2026 10:38:30 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pedro signs contract extension with Chelsea",
+      "link": "https://www.channelnewsasia.com/sport/pedro-signs-contract-extension-chelsea-6334831",
+      "date": "Sat, 22 Aug 2026 18:25:32 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Former envoys urge joint French, UK action on Palestinian territories",
+      "link": "https://www.channelnewsasia.com/world/france-uk-palestinian-territories-action-israel-6334816",
+      "date": "Sat, 22 Aug 2026 18:24:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethiopia uncorks a wine boom, Bordeaux vines driving exports and local demand",
+      "link": "https://www.france24.com/en/ethiopia-uncorks-a-wine-boom-bordeaux-vines-driving-exports-and-local-demand",
+      "date": "Sat, 22 Aug 2026 10:14:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
+      "date": "Sat, 22 Aug 2026 10:13:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+      "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
+      "date": "Sat, 22 Aug 2026 10:13:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Manchester City preview: Five key questions heading into 2026-27 season",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+      "date": "Sat, 22 Aug 2026 10:09:11 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "FIFA sanctions Argentina over brawl at World Cup final game",
+      "link": "https://www.france24.com/en/fifa-sanctions-argentina-over-brawl-at-world-cup-final-game",
+      "date": "Sat, 22 Aug 2026 10:08:25 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Dozens missing after gold mine collapse in Central African Republic",
+      "link": "https://www.france24.com/en/dozens-missing-after-gold-mine-collapse-in-central-african-republic",
+      "date": "Sat, 22 Aug 2026 10:06:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ebola epidemic in DR Congo is spreading 18 times faster than deadliest outbreak on record",
+      "link": "https://www.france24.com/en/ebola-epidemic-in-dr-congo-is-spreading-18-times-faster-than-deadliest-outbreak-on-record",
+      "date": "Sat, 22 Aug 2026 10:06:08 GMT"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall",
+      "text": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 22 Aug 2026 10:01:22 GMT"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "FIFA president Infantino asked to stay away from youth tournament",
+      "text": "FIFA president Infantino asked to stay away from youth tournament - exclusive",
       "link": "https://news.sky.com/story/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-world-cup-sell-off-plan-13575730",
       "date": "Sat, 22 Aug 2026 10:52:00 +0100"
     },
@@ -22,6 +92,20 @@
       "text": "Former world champion boxer Zolani Tete shot and killed in South Africa",
       "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
       "date": "Sat, 22 Aug 2026 09:51:50 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait",
+      "link": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
+      "date": "Sat, 22 Aug 2026 09:48:45 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Former envoys urge joint French, UK action on Palestinian territories",
+      "link": "https://www.rfi.fr/en/international/20260822-former-envoys-urge-joint-french-uk-action-on-palestinian-territories",
+      "date": "Sat, 22 Aug 2026 09:46:11 GMT"
     },
     {
       "src": "The Guardian",
@@ -43,13 +127,6 @@
       "text": "Children among wounded in Zelensky's hometown, struck by Russian drones",
       "link": "https://www.france24.com/en/children-among-wounded-in-zelensky-s-hometown-struck-by-russian-drones",
       "date": "Sat, 22 Aug 2026 09:38:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Maradona's 'Hand of God' ball in match against England goes for auction",
-      "link": "https://www.france24.com/en/maradona-s-hand-of-god-ball-in-match-against-england-goes-for-auction",
-      "date": "Sat, 22 Aug 2026 09:37:21 GMT"
     },
     {
       "src": "CNA",
@@ -87,34 +164,6 @@
       "date": "Sat, 22 Aug 2026 09:14:09 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's Fontainebleau forest reopens one month after wilfire",
-      "link": "https://www.france24.com/en/france-s-fontainebleau-forest-reopens-one-month-after-wilfire",
-      "date": "Sat, 22 Aug 2026 09:11:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "TikTok settles children's privacy case with $400 million payment",
-      "link": "https://www.france24.com/en/tiktok-settles-children-s-privacy-case-with-400-million-payment",
-      "date": "Sat, 22 Aug 2026 09:11:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli settlers kill Palestinian teen in the occupied West Bank",
-      "link": "https://www.france24.com/en/israeli-settlers-kill-palestinian-teen-in-the-occupied-west-bank",
-      "date": "Sat, 22 Aug 2026 09:10:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian strikes Zelensky's hometown in Ukraine, killing 15 people, wounding 130",
-      "link": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130",
-      "date": "Sat, 22 Aug 2026 09:08:13 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Japan dad ditches 7-year-old for hours to climb Mt Fuji",
@@ -134,13 +183,6 @@
       "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 22 Aug 2026 08:40:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Marseille kick off new Ligue 1 season by thrashing Strasbourg at home",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260822-marseille-kick-off-new-ligue-1-season-by-thrashing-strasbourg-at-home",
-      "date": "Sat, 22 Aug 2026 08:38:16 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -169,41 +211,6 @@
       "text": "How will Trump’s tariffs affect Canada’s economy?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
       "date": "Sat, 22 Aug 2026 08:01:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 08:00:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Five children, two sets of twins ease Maddison&#039;s injury recovery",
-      "link": "https://www.channelnewsasia.com/sport/five-children-two-sets-twins-ease-maddisons-injury-recovery-6334711",
-      "date": "Sat, 22 Aug 2026 15:55:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lethal left-armers star as Australia take 101-run lead against Bangladesh in second test",
-      "link": "https://www.channelnewsasia.com/sport/lethal-left-armers-star-australia-take-101-run-lead-against-bangladesh-in-second-test-6334706",
-      "date": "Sat, 22 Aug 2026 15:48:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 07:41:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Libya’s brain drain, 15 years after Tripoli fell",
-      "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 07:41:10 +0000"
     },
     {
       "src": "Sky News",
@@ -491,13 +498,6 @@
       "text": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
       "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
       "date": "Wed, 19 Aug 2026 14:33:24 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Ukraine war was Putin's 'fatal mistake' says Russian politician exiled in Paris",
-      "link": "https://www.rfi.fr/en/international/20260819-ukraine-war-was-putins-fatal-mistake-says-russian-politician-exiled-in-paris-boris-nadezhdin-ukraine-war",
-      "date": "Wed, 19 Aug 2026 14:07:30 GMT"
     },
     {
       "src": "The Guardian",
