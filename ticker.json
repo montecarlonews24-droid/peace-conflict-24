@@ -1,13 +1,41 @@
 {
-  "updated": "2026-08-22T13:48:40.990Z",
-  "count": 72,
+  "updated": "2026-08-22T14:09:21.291Z",
+  "count": 64,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "date": "Sat, 22 Aug 2026 14:04:57 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "France to send interceptor missiles to Ukraine after Russian strikes",
+      "link": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
+      "date": "Sat, 22 Aug 2026 13:52:51 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 22 Aug 2026 13:48:06 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Hull stun Manchester United 2-0 on Premier League return",
       "link": "https://www.channelnewsasia.com/sport/hull-stun-manchester-united-2-0-premier-league-return-6334946",
       "date": "Sat, 22 Aug 2026 21:37:08 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+      "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+      "date": "Sat, 22 Aug 2026 13:35:57 +0000"
     },
     {
       "src": "CNA",
@@ -143,13 +171,6 @@
       "date": "Sat, 22 Aug 2026 11:30:51 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 11:15:39 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
@@ -197,13 +218,6 @@
       "text": "Over 100 former envoys urge joint French, UK action on Palestinian territories",
       "link": "https://www.rfi.fr/en/international/20260822-former-envoys-urge-joint-french-uk-action-on-palestinian-territories",
       "date": "Sat, 22 Aug 2026 09:46:11 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
-      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "date": "Sat, 22 Aug 2026 09:45:27 GMT"
     },
     {
       "src": "Sky News",
@@ -318,13 +332,6 @@
       "date": "Fri, 21 Aug 2026 16:03:05 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 21 Aug 2026 15:58:57 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Argentina players banned for World Cup brawl and AFA fined over Falklands banner",
@@ -344,34 +351,6 @@
       "text": "Trump’s Twin Blunders",
       "link": "https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-pacific/",
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI for Good: How the UN uses AI to advance human rights",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New initiative launched to shield terrorism victims from online harm",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -442,41 +421,6 @@
       "text": "US-backed Gaza peace plan ‘fails to overcome central obstacles’, warns expert",
       "link": "https://www.rfi.fr/en/international/20260820-us-led-roadmap-must-overcome-two-central-obstacles-to-end-impasse",
       "date": "Thu, 20 Aug 2026 14:01:13 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168176",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Spain to open shelters in Ceuta for migrants and transfer 500 girls to mainland",
-      "link": "https://www.rfi.fr/en/international/20260820-spain-to-open-shelters-in-ceuta-for-migrants-and-transfer-500-girls-to-mainland",
-      "date": "Thu, 20 Aug 2026 11:45:22 GMT"
     },
     {
       "src": "The Guardian",
