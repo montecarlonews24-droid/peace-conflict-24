@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-22T15:41:50.504Z",
+  "updated": "2026-08-22T16:09:28.108Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 22 Aug 2026 16:05:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fontainebleau forest near Paris reopens after devastating wildfire",
+      "link": "https://www.france24.com/en/france/20260822-fontainebleau-forest-reopens-after-devastating-wildfire",
+      "date": "Sat, 22 Aug 2026 15:57:29 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "'17-year-old girl killed' in sword attack at Swedish school",
+      "link": "https://news.sky.com/story/17-year-old-girl-killed-in-sword-attack-at-swedish-school-13575868",
+      "date": "Sat, 22 Aug 2026 16:49:00 +0100"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -19,8 +40,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Norris puts McLaren on pole at Zandvoort",
-      "link": "https://www.channelnewsasia.com/sport/norris-puts-mclaren-pole-zandvoort-6335021",
+      "text": "Norris beats Russell to pole in Dutch hat-trick for McLaren",
+      "link": "https://www.channelnewsasia.com/sport/norris-beats-russell-pole-in-dutch-hat-trick-mclaren-6335021",
       "date": "Sat, 22 Aug 2026 23:12:53 +0800"
     },
     {
@@ -206,20 +227,6 @@
       "date": "Sat, 22 Aug 2026 12:30:20 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 22 Aug 2026 12:20:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
-      "link": "https://www.france24.com/en/video/20260822-antwerp-s-human-zoo-belgium-confronts-shame-of-colonial-past-1",
-      "date": "Sat, 22 Aug 2026 11:05:57 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "FIFA president Infantino asked to stay away from youth tournament",
@@ -379,13 +386,6 @@
       "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
       "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "One dead after teenager carries out sword attack at Swedish school",
-      "link": "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
-      "date": "Fri, 21 Aug 2026 12:59:00 +0100"
     },
     {
       "src": "The Guardian",
