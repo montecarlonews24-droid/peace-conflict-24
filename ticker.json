@@ -1,13 +1,48 @@
 {
-  "updated": "2026-08-23T08:54:10.332Z",
+  "updated": "2026-08-23T09:15:45.180Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Korea tests Arctic route with a first container shipped to Europe",
+      "link": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe",
+      "date": "Sun, 23 Aug 2026 09:03:56 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Senior Minister Lee Hsien Loong to make official visits to Kazakhstan and Uzbekistan",
+      "link": "https://www.channelnewsasia.com/singapore/kazakhstan-uzbekistan-singapore-lee-hsien-loong-6330961",
+      "date": "Sun, 23 Aug 2026 17:02:42 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+      "link": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+      "date": "Sun, 23 Aug 2026 09:02:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran escalates threats as US pushes economic isolation",
+      "link": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+      "date": "Sun, 23 Aug 2026 09:02:14 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 23 Aug 2026 08:47:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli wounded in occupied West Bank stabbing",
+      "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 08:38:01 +0000"
     },
     {
       "src": "CNA",
@@ -101,13 +136,6 @@
       "date": "Sun, 23 Aug 2026 06:48:34 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-      "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 06:15:50 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -124,8 +152,8 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Australia thrash Bangladesh by innings and 51 runs in Mackay to tie series",
-      "link": "https://www.channelnewsasia.com/sport/australia-thrash-bangladesh-innings-and-51-runs-in-mackay-tie-series-6335641",
+      "text": "Starc destroys Bangladesh in Mackay as Australia bounce back from Darwin disaster",
+      "link": "https://www.channelnewsasia.com/sport/starc-destroys-bangladesh-in-mackay-australia-bounce-back-darwin-disaster-6335641",
       "date": "Sun, 23 Aug 2026 13:13:16 +0800"
     },
     {
@@ -134,13 +162,6 @@
       "text": "Bangladesh&#039;s gas crisis hits factories, homes and transport",
       "link": "https://www.channelnewsasia.com/asia/bangladesh-gas-shortage-energy-crisis-6335601",
       "date": "Sun, 23 Aug 2026 12:42:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City boss Maresca targets next Rodri after midfielder&#039;s exit",
-      "link": "https://www.channelnewsasia.com/sport/man-city-boss-maresca-targets-next-rodri-after-midfielders-exit-6335571",
-      "date": "Sun, 23 Aug 2026 12:13:11 +0800"
     },
     {
       "src": "BBC World",
@@ -220,13 +241,6 @@
       "date": "Sat, 22 Aug 2026 15:07:39 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
-      "link": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
-      "date": "Sat, 22 Aug 2026 14:50:57 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
@@ -246,20 +260,6 @@
       "text": "France to send interceptor missiles to Ukraine after Russian strikes",
       "link": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
       "date": "Sat, 22 Aug 2026 13:52:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
-      "link": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
-      "date": "Sat, 22 Aug 2026 13:26:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DR Congo receives Ebola vaccines in face of 'exponential' outbreak",
-      "link": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak",
-      "date": "Sat, 22 Aug 2026 12:47:14 GMT"
     },
     {
       "src": "BBC World",
