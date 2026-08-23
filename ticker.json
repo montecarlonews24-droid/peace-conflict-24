@@ -1,13 +1,62 @@
 {
-  "updated": "2026-08-23T20:08:44.051Z",
-  "count": 72,
+  "updated": "2026-08-23T20:44:45.216Z",
+  "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran discovers major new gas reserves amid war-hit energy sector",
+      "link": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
+      "date": "Sun, 23 Aug 2026 20:38:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump caps summer of US 250th birthday at IndyCar race through Washington",
+      "link": "https://www.channelnewsasia.com/world/trump-caps-summer-us-250th-birthday-indycar-race-through-washington-6336461",
+      "date": "Mon, 24 Aug 2026 04:32:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is Israel about to split the occupied West Bank in half?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 20:23:01 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 23 Aug 2026 20:19:36 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pope calls for more efforts to stop Ebola in DR Congo",
+      "link": "https://www.channelnewsasia.com/world/pope-calls-more-efforts-stop-ebola-in-dr-congo-6336416",
+      "date": "Mon, 24 Aug 2026 04:19:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Severe winds toss four aircraft across Italian airport tarmac",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 20:00:22 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Crans-Montana bar owner detained over alleged domestic abuse",
       "link": "https://www.france24.com/en/europe/20260823-crans-montana-bar-owner-detained-over-alleged-domestic-abuse",
       "date": "Sun, 23 Aug 2026 19:57:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 19:52:12 +0000"
     },
     {
       "src": "CNA",
@@ -108,53 +157,11 @@
       "date": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 23 Aug 2026 18:17:34 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Formula One leader Antonelli to take grid drop at Monza home race",
       "link": "https://www.channelnewsasia.com/sport/formula-one-leader-antonelli-take-grid-drop-monza-home-race-6336356",
       "date": "Mon, 24 Aug 2026 02:16:45 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 18:15:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Newcastle draw 2-2 with Liverpool as former hero Keegan hailed",
-      "link": "https://www.channelnewsasia.com/sport/newcastle-draw-2-2-liverpool-former-hero-keegan-hailed-6336351",
-      "date": "Mon, 24 Aug 2026 02:08:49 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China says unmanned moon mission delayed over &#039;launch conditions&#039;",
-      "link": "https://www.channelnewsasia.com/east-asia/china-says-unmanned-moon-mission-delayed-over-launch-conditions-6335991",
-      "date": "Mon, 24 Aug 2026 02:06:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tunisia sees protests after migrant boat sinking kills eight",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 17:57:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-      "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 17:55:52 +0000"
     },
     {
       "src": "BBC World",
@@ -173,7 +180,7 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "text": "Frustration builds in Indiana town struggling without power for 12 days",
       "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 23 Aug 2026 15:54:32 GMT"
     },
@@ -218,13 +225,6 @@
       "text": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon",
       "link": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
       "date": "Sun, 23 Aug 2026 14:23:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Greek Ithaca island hopes for big tourism boost thanks to Odyssey movie",
-      "link": "https://www.france24.com/en/greek-ithaca-island-hopes-for-big-tourism-boost-thanks-to-odyssey-movie",
-      "date": "Sun, 23 Aug 2026 13:43:52 GMT"
     },
     {
       "src": "BBC World",
@@ -295,13 +295,6 @@
       "text": "France to send interceptor missiles to Ukraine after Russian strikes",
       "link": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
       "date": "Sat, 22 Aug 2026 13:52:51 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Breaking the silence over sexual violence against men and boys in war",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168150",
-      "date": "Sat, 22 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -402,34 +395,6 @@
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI for Good: How the UN uses AI to advance human rights",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New initiative launched to shield terrorism victims from online harm",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France and European allies press Israel to abandon West Bank settlement plan",
@@ -456,27 +421,6 @@
       "text": "West Bank village siege fuels concern over growing settler violence",
       "link": "https://www.rfi.fr/en/international/20260820-west-bank-village-siege-fuels-concern-over-growing-settler-violence-qusra",
       "date": "Thu, 20 Aug 2026 15:20:07 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
