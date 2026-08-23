@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-23T00:33:13.213Z",
-  "count": 64,
+  "updated": "2026-08-23T02:16:32.825Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 01:51:47 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Swedish sword attack victim was 17-year-old girl, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 23 Aug 2026 01:34:15 GMT"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
@@ -115,13 +129,6 @@
       "date": "Sat, 22 Aug 2026 21:02:29 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 20:49:17 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -141,13 +148,6 @@
       "text": "Togo says it has 'serious' evidence against detained French filmmakers",
       "link": "https://www.france24.com/en/africa/20260822-togo-says-it-has-serious-evidence-against-detained-french-filmmakers",
       "date": "Sat, 22 Aug 2026 19:05:17 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US military newspaper editor voices censorship fears after being fired",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 22 Aug 2026 16:57:19 GMT"
     },
     {
       "src": "France 24",
@@ -367,6 +367,34 @@
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI for Good: How the UN uses AI to advance human rights",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New initiative launched to shield terrorism victims from online harm",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
@@ -421,6 +449,34 @@
       "text": "US-backed Gaza peace plan ‘fails to overcome central obstacles’, warns expert",
       "link": "https://www.rfi.fr/en/international/20260820-us-led-roadmap-must-overcome-two-central-obstacles-to-end-impasse",
       "date": "Thu, 20 Aug 2026 14:01:13 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168176",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
