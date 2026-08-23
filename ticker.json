@@ -1,13 +1,34 @@
 {
-  "updated": "2026-08-23T17:10:43.182Z",
-  "count": 64,
+  "updated": "2026-08-23T17:41:30.762Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 23 Aug 2026 17:39:33 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump arrives at high-speed IndyCar race through Washington's streets",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 23 Aug 2026 16:57:05 GMT"
+      "date": "Sun, 23 Aug 2026 17:31:29 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "date": "Sun, 23 Aug 2026 17:24:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Ukraine celebrates National Flag Day",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 17:18:25 +0000"
     },
     {
       "src": "CNA",
@@ -124,7 +145,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Nordic FAs lose confidence in Gianni Infantino and raise 'serious concerns' with FIFA chief",
+      "text": "Nordic FAs lose confidence in FIFA chief Gianni Infantino",
       "link": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
       "date": "Sun, 23 Aug 2026 16:07:00 +0100"
     },
@@ -134,13 +155,6 @@
       "text": "New Zealand select Mo’unga at flyhalf to face Lions on South Africa tour",
       "link": "https://www.channelnewsasia.com/sport/new-zealand-select-mounga-flyhalf-face-lions-south-africa-tour-6336216",
       "date": "Sun, 23 Aug 2026 23:04:21 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "France links rise in drownings to heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 23 Aug 2026 15:00:17 GMT"
     },
     {
       "src": "France 24",
@@ -169,13 +183,6 @@
       "text": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon",
       "link": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
       "date": "Sun, 23 Aug 2026 14:23:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
-      "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 14:17:18 +0000"
     },
     {
       "src": "France 24",
@@ -290,6 +297,13 @@
       "date": "Sat, 22 Aug 2026 13:52:51 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Breaking the silence over sexual violence against men and boys in war",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168150",
+      "date": "Sat, 22 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "FIFA president Infantino asked to stay away from youth tournament",
@@ -381,18 +395,39 @@
       "date": "Fri, 21 Aug 2026 16:03:05 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-      "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-      "date": "Fri, 21 Aug 2026 15:22:48 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Trump’s Twin Blunders",
       "link": "https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-pacific/",
       "date": "Fri, 21 Aug 2026 15:15:38 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI for Good: How the UN uses AI to advance human rights",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New initiative launched to shield terrorism victims from online harm",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -421,6 +456,27 @@
       "text": "West Bank village siege fuels concern over growing settler violence",
       "link": "https://www.rfi.fr/en/international/20260820-west-bank-village-siege-fuels-concern-over-growing-settler-violence-qusra",
       "date": "Thu, 20 Aug 2026 15:20:07 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
