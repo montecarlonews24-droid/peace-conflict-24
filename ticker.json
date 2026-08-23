@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T05:51:28.594Z",
+  "updated": "2026-08-23T06:19:48.110Z",
   "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kazakhstan parliamentary elections begin: What’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 05:55:10 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -134,13 +141,6 @@
       "text": "Iran war live: Tehran warns neighbours against joining US economic war",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
       "date": "Sun, 23 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran threatens countries that join US ‘economic D-Day’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-      "date": "Sat, 22 Aug 2026 23:56:32 +0000"
     },
     {
       "src": "CNA",
