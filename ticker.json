@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-23T18:11:20.048Z",
-  "count": 64,
+  "updated": "2026-08-23T18:53:27.855Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 18:27:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 23 Aug 2026 18:17:37 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 23 Aug 2026 18:17:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Formula One leader Antonelli to take grid drop at Monza home race",
+      "link": "https://www.channelnewsasia.com/sport/formula-one-leader-antonelli-take-grid-drop-monza-home-race-6336356",
+      "date": "Mon, 24 Aug 2026 02:16:45 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "date": "Sun, 23 Aug 2026 18:15:22 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Newcastle draw 2-2 with Liverpool as former hero Keegan hailed",
+      "link": "https://www.channelnewsasia.com/sport/newcastle-draw-2-2-liverpool-former-hero-keegan-hailed-6336351",
+      "date": "Mon, 24 Aug 2026 02:08:49 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -22,13 +64,6 @@
       "text": "Thousands displaced as wildfire threatens homes in US state of Nevada",
       "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
       "date": "Sun, 23 Aug 2026 17:55:52 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 23 Aug 2026 17:54:34 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -108,20 +143,6 @@
       "date": "Mon, 24 Aug 2026 00:46:05 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-      "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 16:12:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Nigeria cash in on Iran war?",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-      "date": "Sun, 23 Aug 2026 16:07:01 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Thousands struggling without power in Indiana 12 days after severe storms",
@@ -129,18 +150,11 @@
       "date": "Sun, 23 Aug 2026 15:54:32 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Britain&#039;s Brennan wins Vuelta stage two, Pogacar keeps overall lead",
-      "link": "https://www.channelnewsasia.com/sport/britains-brennan-wins-vuelta-stage-two-pogacar-keeps-overall-lead-6336276",
-      "date": "Sun, 23 Aug 2026 23:53:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NDR 2026: November BTO demand could rise with higher income ceiling; but resale market impact limited, say analysts",
-      "link": "https://www.channelnewsasia.com/singapore/income-ceiling-raised-bto-exercise-demand-hdb-ec-ndr-2026-6336231",
-      "date": "Sun, 23 Aug 2026 23:51:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+      "link": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+      "date": "Sun, 23 Aug 2026 15:54:21 GMT"
     },
     {
       "src": "Sky News",
@@ -148,6 +162,55 @@
       "text": "Nordic FAs lose confidence in FIFA chief Gianni Infantino",
       "link": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
       "date": "Sun, 23 Aug 2026 16:07:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands rally in Sweden to protest climate policies ahead of general election",
+      "link": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
+      "date": "Sun, 23 Aug 2026 14:59:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+      "link": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "date": "Sun, 23 Aug 2026 14:49:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "link": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "date": "Sun, 23 Aug 2026 14:48:39 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon",
+      "link": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
+      "date": "Sun, 23 Aug 2026 14:23:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Greek Ithaca island hopes for big tourism boost thanks to Odyssey movie",
+      "link": "https://www.france24.com/en/greek-ithaca-island-hopes-for-big-tourism-boost-thanks-to-odyssey-movie",
+      "date": "Sun, 23 Aug 2026 13:43:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How will European politicians react to a summer of extreme heat?",
+      "link": "https://www.france24.com/en/how-will-european-politicians-react-to-a-summer-of-extreme-heat",
+      "date": "Sun, 23 Aug 2026 13:15:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
+      "link": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine",
+      "date": "Sun, 23 Aug 2026 13:09:15 GMT"
     },
     {
       "src": "BBC World",
@@ -211,13 +274,6 @@
       "text": "'Scores of people' kidnapped from mosque in Nigeria",
       "link": "https://news.sky.com/story/scores-of-people-kidnapped-from-mosque-in-nigeria-residents-say-13576166",
       "date": "Sun, 23 Aug 2026 02:17:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 22 Aug 2026 19:03:03 GMT"
     },
     {
       "src": "Sky News",
