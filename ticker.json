@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-24T10:59:24.157Z",
-  "count": 64,
+  "updated": "2026-08-24T11:26:04.453Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 11:25:21 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 11:17:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four arrested over suspected poisoning of elephants in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 11:08:27 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Typhoon Narra wreaks havoc in China, Vietnam as rains lead to floods",
+      "link": "https://www.channelnewsasia.com/east-asia/typhoon-narra-wreaks-havoc-in-china-vietnam-rains-lead-floods-6336951",
+      "date": "Mon, 24 Aug 2026 19:03:33 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Humanoid robot beats Usain Bolt's 100m world record",
+      "link": "https://www.france24.com/en/video/20260824-humanoid-robot-beats-usain-bolt-s-100m-world-record",
+      "date": "Mon, 24 Aug 2026 10:58:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norris showing more self-confidence, says Stella after Dutch win",
+      "link": "https://www.channelnewsasia.com/sport/norris-showing-more-self-confidence-says-stella-after-dutch-win-6337661",
+      "date": "Mon, 24 Aug 2026 18:53:44 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
+      "link": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 10:53:21 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,11 +59,32 @@
       "date": "Mon, 24 Aug 2026 18:53:00 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
+      "link": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 10:42:16 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 24 Aug 2026 10:40:22 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 10:39:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe ramps up support to Ukraine as its US-dependent air defence runs low",
+      "link": "https://www.france24.com/en/europe-ramps-up-support-to-ukraine-as-its-us-dependent-air-defence-runs-low",
+      "date": "Mon, 24 Aug 2026 10:37:54 GMT"
     },
     {
       "src": "CNA",
@@ -43,13 +113,6 @@
       "text": "US threatens toughest sanctions yet against Iran: What we know",
       "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
       "date": "Mon, 24 Aug 2026 10:23:11 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Access to Zambian courts prevented as election petition deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 10:22:45 GMT"
     },
     {
       "src": "France 24",
@@ -87,13 +150,6 @@
       "date": "Mon, 24 Aug 2026 18:09:39 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 10:08:40 GMT"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "France and Saudi Arabia hold talks ranging from Middle East to esports",
@@ -115,13 +171,6 @@
       "date": "Mon, 24 Aug 2026 17:59:01 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oil falls ahead of US announcement of new sanctions on Iran",
-      "link": "https://www.channelnewsasia.com/business/oil-falls-ahead-us-announcement-new-sanctions-iran-6336641",
-      "date": "Mon, 24 Aug 2026 17:58:12 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "US military says strike on alleged drug-smuggling boat kills two",
@@ -134,13 +183,6 @@
       "text": "War-torn Ukraine celebrates resilience on anniversary of its independence",
       "link": "https://www.france24.com/en/war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independence",
       "date": "Mon, 24 Aug 2026 09:56:58 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea says US cancels joint marine drill over Iran war",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-us-cancels-joint-marine-drill-iran-war-6337511",
-      "date": "Mon, 24 Aug 2026 17:49:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -178,13 +220,6 @@
       "date": "Mon, 24 Aug 2026 09:30:20 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 09:29:26 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Strategic talks in Paris show France and Saudi Arabia 'need each other too much'",
@@ -192,25 +227,11 @@
       "date": "Mon, 24 Aug 2026 09:27:33 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Despite ceasefire, Israeli strikes still kill in Gaza and the West Bank",
-      "link": "https://www.france24.com/en/despite-ceasefire-israeli-strikes-still-kill-in-gaza-and-the-west-bank",
-      "date": "Mon, 24 Aug 2026 09:17:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "European leaders rally in Kyiv to celebrate Ukraine's Independence Day",
-      "link": "https://www.france24.com/en/european-leaders-rally-in-kyiv-to-celebrate-ukraine-s-independence-day",
-      "date": "Mon, 24 Aug 2026 09:12:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 09:11:46 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Dutch broadcaster to boycott Eurovision 2027",
+      "link": "https://news.sky.com/story/dutch-broadcaster-avrotros-to-boycott-2027-eurovision-song-contest-13576558",
+      "date": "Mon, 24 Aug 2026 09:59:00 +0100"
     },
     {
       "src": "Sky News",
@@ -250,9 +271,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
+      "text": "Nearly three million Teslas recalled in China over hidden door handles",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
       "src": "Sky News",
@@ -267,13 +288,6 @@
       "text": "What Donald Duck Can Teach Trump About Going to War",
       "link": "https://foreignpolicy.com/2026/08/24/trump-war-public-opinion-donald-duck/",
       "date": "Mon, 24 Aug 2026 04:01:49 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 03:55:35 GMT"
     },
     {
       "src": "The Guardian",
@@ -295,13 +309,6 @@
       "text": "Landslide kills 30 after mound of waste collapses at landfill site",
       "link": "https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442",
       "date": "Sun, 23 Aug 2026 20:29:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
       "src": "The Guardian",
@@ -332,13 +339,6 @@
       "date": "Sun, 23 Aug 2026 08:26:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Scores of people' kidnapped from mosque in Nigeria",
-      "link": "https://news.sky.com/story/scores-of-people-kidnapped-from-mosque-in-nigeria-residents-say-13576166",
-      "date": "Sun, 23 Aug 2026 02:17:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
@@ -351,6 +351,13 @@
       "text": "France to send interceptor missiles to Ukraine after Russian strikes",
       "link": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
       "date": "Sat, 22 Aug 2026 13:52:51 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Breaking the silence over sexual violence against men and boys in war",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168150",
+      "date": "Sat, 22 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -416,6 +423,34 @@
       "date": "Fri, 21 Aug 2026 16:03:05 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI for Good: How the UN uses AI to advance human rights",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "New initiative launched to shield terrorism victims from online harm",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
+      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France and European allies press Israel to abandon West Bank settlement plan",
@@ -435,6 +470,27 @@
       "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "date": "Thu, 20 Aug 2026 19:57:59 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
+      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
