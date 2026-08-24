@@ -4712,8 +4712,9 @@ function sendQuickMsg(text) {
 function sentinelMd(raw) {
   let s = String(raw)
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  s = s.replace(/^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/gm, '<hr style="border:0;border-top:1px solid rgba(255,255,255,.12);margin:10px 0">');
   s = s.replace(/^\s*#{1,6}\s*(.+)$/gm, '<strong style="color:var(--amber)">$1</strong>');
-  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/\*\*([^\n]+?)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/__([^_]+)__/g, '<strong>$1</strong>');
   s = s.replace(/^\s*[-*•]\s+/gm, '• ');
   s = s.replace(/(^|[\s(])\*([^*\n]+)\*(?=[\s.,;:!?)]|$)/g, '$1<em>$2</em>');
