@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-24T15:06:34.312Z",
+  "updated": "2026-08-24T16:01:11.733Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 15:54:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vuelta third stage abandoned after hailstorm in Pyrenees",
+      "link": "https://www.channelnewsasia.com/sport/vuelta-third-stage-abandoned-after-hailstorm-in-pyrenees-6338286",
+      "date": "Mon, 24 Aug 2026 23:49:54 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Looking up: Hunting stars and nebulae from the peaks of the French Alps",
+      "link": "https://www.rfi.fr/en/international/20260824-looking-up-hunting-stars-and-nebulae-from-the-peaks-of-the-french-alps",
+      "date": "Mon, 24 Aug 2026 15:48:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Are humanoid robots the future of warfare?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 15:30:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Russia launches rocket into space with military satellite",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 15:29:14 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 15:17:36 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 15:15:55 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+      "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 15:02:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England drop Carse after investigation into club incident",
+      "link": "https://www.channelnewsasia.com/sport/england-drop-carse-after-investigation-club-incident-6338211",
+      "date": "Mon, 24 Aug 2026 23:01:29 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -31,6 +94,13 @@
       "date": "Mon, 24 Aug 2026 22:48:58 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houses set on fire as fresh violence erupts in India’s Manipur",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 14:48:53 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "New Zealand&#039;s Mo’unga returns to stake World Cup claims",
@@ -47,7 +117,7 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Trump threatens tariffs on all cars and trucks to 50% amid Canada trade spat",
+      "text": "Trump says to double tariffs on Canada autos as trade fight heats up",
       "link": "https://www.channelnewsasia.com/world/us-canada-trade-war-trump-tariff-cars-trucks-carney-6338056",
       "date": "Mon, 24 Aug 2026 22:08:00 +0800"
     },
@@ -122,20 +192,6 @@
       "date": "Mon, 24 Aug 2026 21:29:02 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore and Ecuador seek deeper cooperation in areas including trade, food security",
-      "link": "https://www.channelnewsasia.com/singapore/ecuador-singapore-cooperation-president-state-visit-6337926",
-      "date": "Mon, 24 Aug 2026 21:26:51 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zillow settles FTC claims it paid Redfin to stop competing on apartment listings",
-      "link": "https://www.channelnewsasia.com/business/zillow-settles-ftc-claims-it-paid-redfin-stop-competing-apartment-listings-6337986",
-      "date": "Mon, 24 Aug 2026 21:16:15 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Germany’s Firewall Has Completely Failed",
@@ -157,32 +213,11 @@
       "date": "Mon, 24 Aug 2026 13:14:10 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 13:02:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-      "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 12:59:55 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Mideast live: Trump claims Iran is ‘completely collapsing’ as US readies new sanctions",
       "link": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
       "date": "Mon, 24 Aug 2026 12:50:27 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Four arrested over fatal shooting of South African boxer Zolani Tete",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 12:48:53 +0000"
     },
     {
       "src": "France 24",
@@ -199,13 +234,6 @@
       "date": "Mon, 24 Aug 2026 12:34:40 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-      "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 12:28:26 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Mediterranean migrant rescue ships threatened by Libyan groups, warns NGO",
@@ -220,20 +248,6 @@
       "date": "Mon, 24 Aug 2026 13:11:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Activists occupy UK aircraft parts factory over Israel links",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 12:07:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 12:04:46 +0000"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
@@ -246,13 +260,6 @@
       "text": "Sudan war: $22 million education boost to help 200,000 children",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168187",
       "date": "Mon, 24 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Four arrested over suspected poisoning of elephants in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 11:08:27 GMT"
     },
     {
       "src": "Sky News",
@@ -477,13 +484,6 @@
       "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
       "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France and European allies press Israel to abandon West Bank settlement plan",
-      "link": "https://www.rfi.fr/en/international/20260821-france-and-european-allies-press-israel-to-abandon-west-bank-settlement-plan",
-      "date": "Fri, 21 Aug 2026 07:01:15 GMT"
     },
     {
       "src": "The Guardian",
