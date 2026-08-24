@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T11:26:04.453Z",
-  "count": 72,
+  "updated": "2026-08-24T11:50:14.189Z",
+  "count": 64,
   "items": [
     {
       "src": "BBC World",
@@ -8,6 +8,13 @@
       "text": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 24 Aug 2026 11:25:21 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Millions of Teslas recalled in China over door handle safety",
+      "link": "https://www.channelnewsasia.com/east-asia/tesla-recall-china-hidden-door-handle-safety-6337706",
+      "date": "Mon, 24 Aug 2026 19:23:00 +0800"
     },
     {
       "src": "BBC World",
@@ -162,13 +169,6 @@
       "text": "Washington Is Creating Forever Enemies",
       "link": "https://foreignpolicy.com/2026/08/24/iran-afghanistan-united-states-war-enemies/",
       "date": "Mon, 24 Aug 2026 10:00:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Filipino woman jailed for being part of Cambodia scam syndicate targeting Singapore victims",
-      "link": "https://www.channelnewsasia.com/singapore/woman-jailed-cambodia-scam-syndicate-singapore-6337476",
-      "date": "Mon, 24 Aug 2026 17:59:01 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -353,13 +353,6 @@
       "date": "Sat, 22 Aug 2026 13:52:51 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Breaking the silence over sexual violence against men and boys in war",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168150",
-      "date": "Sat, 22 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Diplomats urge France and UK to uphold rule of law in Palestinian territories",
@@ -423,34 +416,6 @@
       "date": "Fri, 21 Aug 2026 16:03:05 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI for Good: How the UN uses AI to advance human rights",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "New initiative launched to shield terrorism victims from online harm",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-      "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France and European allies press Israel to abandon West Bank settlement plan",
@@ -470,27 +435,6 @@
       "text": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "date": "Thu, 20 Aug 2026 19:57:59 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
-      "date": "Thu, 20 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
