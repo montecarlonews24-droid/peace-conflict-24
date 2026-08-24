@@ -4708,6 +4708,20 @@ function sendQuickMsg(text) {
   sendAIChatMsg();
 }
 
+// ── Markdown → HTML (SENTINEL AI chat replies only) ──
+function sentinelMd(raw) {
+  let s = String(raw)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  s = s.replace(/^\s*#{1,6}\s*(.+)$/gm, '<strong style="color:var(--amber)">$1</strong>');
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/__([^_]+)__/g, '<strong>$1</strong>');
+  s = s.replace(/^\s*[-*•]\s+/gm, '• ');
+  s = s.replace(/(^|[\s(])\*([^*\n]+)\*(?=[\s.,;:!?)]|$)/g, '$1<em>$2</em>');
+  s = s.replace(/`([^`\n]+)`/g, '<code style="font-family:var(--font-mono);font-size:12px">$1</code>');
+  s = s.replace(/\n/g, '<br>');
+  return s;
+}
+
 function appendChatMessage(role, content) {
   const container = document.getElementById('ai-chat-messages');
   if (!container) return;
@@ -4731,7 +4745,7 @@ function appendChatMessage(role, content) {
         <span style="font-size:12px">🛡️</span>
         <span style="font-family:var(--font-mono);font-size:9px;color:var(--amber)">SENTINEL AI</span>
       </div>
-      <div style="line-height:1.6">${content.replace(/\n/g,'<br>')}</div>`;
+      <div style="line-height:1.6">${sentinelMd(content)}</div>`;
   }
   container.appendChild(div);
   container.scrollTop = container.scrollHeight;
