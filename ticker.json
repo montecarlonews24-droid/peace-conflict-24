@@ -1,13 +1,83 @@
 {
-  "updated": "2026-08-24T19:07:15.883Z",
+  "updated": "2026-08-24T19:50:32.975Z",
   "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s Houthis report attack on Saudi ship",
+      "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 19:44:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Israel attacks desalination plant and mosque in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 19:21:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli restrictions cause fuel shortage in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 19:18:00 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Ukraine's allies pledge to continue support with focus on air defence",
+      "link": "https://www.rfi.fr/en/international/20260824-ukraine-s-allies-pledge-to-continue-support-with-focus-on-air-defence",
+      "date": "Mon, 24 Aug 2026 19:17:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+      "link": "https://www.channelnewsasia.com/business/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-6336766",
+      "date": "Tue, 25 Aug 2026 03:16:04 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 24 Aug 2026 19:12:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 19:09:45 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Federer playing Flushing Meadows exhibition in long overdue US Open sendoff",
+      "link": "https://www.channelnewsasia.com/sport/federer-playing-flushing-meadows-exhibition-in-long-overdue-us-open-sendoff-6338521",
+      "date": "Tue, 25 Aug 2026 03:05:34 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel threatens attacks in Gaza over children’s kites",
+      "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 19:00:55 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Cameroon federation chief Eto&#039;o backs FIFA&#039;s Infantino",
       "link": "https://www.channelnewsasia.com/sport/cameroon-federation-chief-etoo-backs-fifas-infantino-6338506",
       "date": "Tue, 25 Aug 2026 02:56:05 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+      "date": "Mon, 24 Aug 2026 18:55:43 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -28,14 +98,7 @@
       "col": "#84cc16",
       "text": "US unveils &#039;economic D-Day&#039; of sanctions to isolate Iran",
       "link": "https://www.channelnewsasia.com/world/us-unveils-economic-d-day-sanctions-isolate-iran-6338471",
-      "date": "Tue, 25 Aug 2026 02:43:36 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 24 Aug 2026 18:39:53 GMT"
+      "date": "Tue, 25 Aug 2026 02:43:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -73,6 +136,13 @@
       "date": "Mon, 24 Aug 2026 18:13:11 GMT"
     },
     {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Saudi Arabia to invest $7 bn in theme parks near Paris: French presidency",
+      "link": "https://www.rfi.fr/en/international/20260824-saudi-arabia-to-invest-7-bn-in-theme-parks-near-paris-french-presidency",
+      "date": "Mon, 24 Aug 2026 18:08:12 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Senegal keeper Diaw joins Al Shabab",
@@ -87,18 +157,18 @@
       "date": "Mon, 24 Aug 2026 18:02:50 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump administration announces global economic war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 17:53:00 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "What the renewed Black Sea blockade means for Ukraine’s farmers",
       "link": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
       "date": "Mon, 24 Aug 2026 17:41:42 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Prince Harry steps down from board of wildlife charity",
+      "link": "https://news.sky.com/story/prince-harry-steps-down-from-board-of-wildlife-charity-ahead-of-return-to-uk-with-meghan-13576743",
+      "date": "Mon, 24 Aug 2026 18:41:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -129,13 +199,6 @@
       "date": "Tue, 25 Aug 2026 01:20:36 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Japanese delegation seeks to soothe strained ties with China",
-      "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 17:16:10 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
@@ -143,44 +206,9 @@
       "date": "Mon, 24 Aug 2026 17:16:05 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump administration announces ‘economic D-day’ sanctions on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 17:10:37 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
-      "link": "https://www.channelnewsasia.com/world/uk-ukraine-sign-ai-defence-partnership-linked-battlefield-technology-6338351",
-      "date": "Tue, 25 Aug 2026 01:01:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nearly one in two Ebola patients dying in DR Congo outbreak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 17:00:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
-      "link": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 16:59:47 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iraq&#039;s Australian coach Arnold renews contract for six months",
-      "link": "https://www.channelnewsasia.com/sport/iraqs-australian-coach-arnold-renews-contract-six-months-6338336",
-      "date": "Tue, 25 Aug 2026 00:37:56 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "MBS in the City of Light: In a world of realpolitik, does West value economic interests over values?",
+      "text": "Mohammed bin Salman in the City of Light: Does West value economic interests over 'Western values'?",
       "link": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
       "date": "Mon, 24 Aug 2026 16:26:34 GMT"
     },
@@ -374,20 +402,6 @@
       "date": "Sun, 23 Aug 2026 20:29:00 +0100"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
-      "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-      "date": "Sun, 23 Aug 2026 17:24:46 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Nordic FAs lose confidence in FIFA chief Gianni Infantino",
-      "link": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
-      "date": "Sun, 23 Aug 2026 16:07:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Southern African mothers plead for sons lured to Russia's war in Ukraine",
@@ -409,13 +423,6 @@
       "date": "Sat, 22 Aug 2026 09:46:11 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Turkey, Saudi Arabia and Pakistan strengthen ties as Israel tensions rise",
-      "link": "https://www.rfi.fr/en/podcasts/international-report/20260822-turkey-saudi-arabia-and-pakistan-strengthen-ties-as-israel-tensions-rise",
-      "date": "Sat, 22 Aug 2026 08:07:40 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Trump Needs China’s Help to Effectively Sanction Iran",
@@ -435,13 +442,6 @@
       "text": "Who Reaps the Benefits of India’s Growth?",
       "link": "https://foreignpolicy.com/2026/08/21/sixth-humanity-review-kapur-subramanian-india-development-economy/",
       "date": "Fri, 21 Aug 2026 18:30:02 +0000"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "More Russians seeking to leave as fears of another mobilisation grow",
-      "link": "https://www.rfi.fr/en/international/20260821-mobilisation-fears-fuel-renewed-russian-interest-in-leaving-the-country-relokatz",
-      "date": "Fri, 21 Aug 2026 16:03:05 GMT"
     },
     {
       "src": "The Guardian",
