@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-24T21:17:12.404Z",
-  "count": 72,
+  "updated": "2026-08-24T21:49:49.387Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US removes Syria from state sponsor of terrorism list",
+      "link": "https://www.channelnewsasia.com/world/us-syria-terrorism-list-sanctions-6338666",
+      "date": "Tue, 25 Aug 2026 05:38:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 21:35:10 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 21:32:24 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Former NBA players not eligible for WNBA, sources say",
+      "link": "https://www.channelnewsasia.com/sport/former-nba-players-not-eligible-wnba-sources-say-6338661",
+      "date": "Tue, 25 Aug 2026 05:20:50 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,10 +38,17 @@
       "date": "Tue, 25 Aug 2026 05:13:21 +0800"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+      "date": "Mon, 24 Aug 2026 21:12:06 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Chelsea start Alonso era with exciting 3-2 win at Fulham",
-      "link": "https://www.channelnewsasia.com/sport/chelsea-start-alonso-era-exciting-3-2-win-fulham-6338646",
+      "text": "Chelsea start Alonso era with exciting 3-2 win at neighbours Fulham",
+      "link": "https://www.channelnewsasia.com/sport/chelsea-start-alonso-era-exciting-3-2-win-neighbours-fulham-6338646",
       "date": "Tue, 25 Aug 2026 05:08:24 +0800"
     },
     {
@@ -73,13 +108,6 @@
       "date": "Tue, 25 Aug 2026 04:26:08 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Violence flares in Haiti as gang attack kills 30 people",
-      "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 20:23:39 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
@@ -94,20 +122,6 @@
       "date": "Tue, 25 Aug 2026 04:21:47 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 20:03:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-      "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-      "date": "Mon, 24 Aug 2026 20:00:18 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Ukraine's allies pledge to continue support with focus on air defence",
@@ -115,25 +129,11 @@
       "date": "Mon, 24 Aug 2026 19:17:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-      "link": "https://www.channelnewsasia.com/business/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-6336766",
-      "date": "Tue, 25 Aug 2026 03:16:04 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 24 Aug 2026 19:12:35 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Federer playing Flushing Meadows exhibition in long overdue US Open sendoff",
-      "link": "https://www.channelnewsasia.com/sport/federer-playing-flushing-meadows-exhibition-in-long-overdue-us-open-sendoff-6338521",
-      "date": "Tue, 25 Aug 2026 03:05:34 +0800"
     },
     {
       "src": "The Guardian",
@@ -150,32 +150,11 @@
       "date": "Mon, 24 Aug 2026 18:22:14 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
-      "link": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years",
-      "date": "Mon, 24 Aug 2026 18:16:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
-      "link": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
-      "date": "Mon, 24 Aug 2026 18:13:11 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Saudi Arabia to invest $7 bn in theme parks near Paris: French presidency",
       "link": "https://www.rfi.fr/en/international/20260824-saudi-arabia-to-invest-7-bn-in-theme-parks-near-paris-french-presidency",
       "date": "Mon, 24 Aug 2026 18:08:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "What the renewed Black Sea blockade means for Ukraine’s farmers",
-      "link": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
-      "date": "Mon, 24 Aug 2026 17:41:42 GMT"
     },
     {
       "src": "Sky News",
@@ -206,46 +185,11 @@
       "date": "Mon, 24 Aug 2026 17:24:25 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-      "link": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-      "date": "Mon, 24 Aug 2026 17:16:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mohammed bin Salman in the City of Light: Does West value economic interests over 'Western values'?",
-      "link": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
-      "date": "Mon, 24 Aug 2026 16:26:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceasefire verification mission deploys to eastern DR Congo",
-      "link": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
-      "date": "Mon, 24 Aug 2026 16:04:37 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Looking up: Hunting stars and nebulae from the peaks of the French Alps",
       "link": "https://www.rfi.fr/en/international/20260824-looking-up-hunting-stars-and-nebulae-from-the-peaks-of-the-french-alps",
       "date": "Mon, 24 Aug 2026 15:48:56 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine celebrates Independence Day amid war's latest escalation",
-      "link": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation",
-      "date": "Mon, 24 Aug 2026 15:44:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse",
-      "link": "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse",
-      "date": "Mon, 24 Aug 2026 14:55:13 GMT"
     },
     {
       "src": "The Guardian",
@@ -257,7 +201,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Trump tells Canada to 'fall in line' after politician threatens to cut off electricity to the US over tariffs",
+      "text": "Canadian politician threatens to cut off electricity to the US - as Trump issues 'fall in line' warning",
       "link": "https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665",
       "date": "Mon, 24 Aug 2026 14:59:00 +0100"
     },
