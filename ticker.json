@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-25T08:04:14.982Z",
+  "updated": "2026-08-25T09:04:43.267Z",
   "count": 72,
   "items": [
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "At least 40 killed as gangs attack displaced people near Haiti capital",
+      "link": "https://www.rfi.fr/en/international/20260825-at-least-40-killed-as-gangs-attack-displaced-people-near-haiti-capital",
+      "date": "Tue, 25 Aug 2026 08:53:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "New Saudi-backed manga-themed amusement park set to open near Paris",
+      "link": "https://www.france24.com/en/new-saudi-backed-manga-themed-amusement-park-set-to-open-near-paris",
+      "date": "Tue, 25 Aug 2026 08:53:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "In Haitin, dozens die in gang coalition attack on a farming community",
+      "link": "https://www.france24.com/en/in-haitin-dozens-die-in-gang-coalition-attack-on-a-farming-community",
+      "date": "Tue, 25 Aug 2026 08:47:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "As Canada prepares to retaliate in the trade war, what pain can it inflict the US?",
+      "link": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
+      "date": "Tue, 25 Aug 2026 08:38:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan says significant progress made in talks on Iran-US war",
+      "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 08:32:52 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 08:24:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amos Yee to be charged over online posts allegedly promoting racial disharmony, making indecent statements about children",
+      "link": "https://www.channelnewsasia.com/singapore/amos-yee-charged-racial-harmony-offences-indecent-comments-children-6339566",
+      "date": "Tue, 25 Aug 2026 16:24:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japanese bond ETFs attract a record $1.5 billion in net inflows in 2026 so far, Morningstar say",
+      "link": "https://www.channelnewsasia.com/business/japanese-bond-etfs-attract-record-15-billion-in-net-inflows-in-2026-so-far-morningstar-say-6339591",
+      "date": "Tue, 25 Aug 2026 16:18:07 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Changing workplace attitudes a ‘much harder’ challenge in supporting parenthood: Indranee",
+      "link": "https://www.channelnewsasia.com/singapore/changing-workplace-attitudes-much-harder-challenge-supporting-parenthood-indranee-rajah-6339486",
+      "date": "Tue, 25 Aug 2026 16:14:03 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Global ocean temperatures hit record high as El Nino intensifies",
+      "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 08:10:10 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Doctor accused of causing patient&#039;s death by cutting wrong arteries restricted from surgery for 18 months",
+      "link": "https://www.channelnewsasia.com/singapore/doctor-fong-yan-kit-restricted-surgery-smc-6339501",
+      "date": "Tue, 25 Aug 2026 16:02:14 +0800"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -12,9 +96,16 @@
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Japan debt-servicing cost to rise 17% to record in next fiscal year, Kyodo reports",
-      "link": "https://www.channelnewsasia.com/business/japan-debt-servicing-cost-rise-17-record-in-next-fiscal-year-kyodo-reports-6339556",
+      "text": "Japan&#039;s debt-servicing costs seen at record in next fiscal year, Kyodo reports",
+      "link": "https://www.channelnewsasia.com/business/japans-debt-servicing-costs-seen-record-in-next-fiscal-year-kyodo-reports-6339556",
       "date": "Tue, 25 Aug 2026 15:50:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 07:50:26 +0000"
     },
     {
       "src": "CNA",
@@ -22,6 +113,20 @@
       "text": "China says its cooperation with Iran should not be disrupted",
       "link": "https://www.channelnewsasia.com/east-asia/china-iran-cooperation-us-sanctions-6339551",
       "date": "Tue, 25 Aug 2026 15:49:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 07:46:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Federer to play tennis at US Open but rules out Williams-like return",
+      "link": "https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 07:45:34 +0000"
     },
     {
       "src": "BBC World",
@@ -52,46 +157,11 @@
       "date": "Tue, 25 Aug 2026 07:21:46 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Government quality, capability set successful nations apart in a contested world: Chan Chun Sing",
-      "link": "https://www.channelnewsasia.com/singapore/government-public-service-rules-based-order-vietnam-chan-chun-sing-6339021",
-      "date": "Tue, 25 Aug 2026 15:15:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Prabowo orders permits to be revoked for firms linked to Indonesia forest fires",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-haze-forest-fires-permit-revocation-malaysia-singapore-6339461",
-      "date": "Tue, 25 Aug 2026 15:15:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philippines seeking to expand military drone capabilities, says defence chief",
-      "link": "https://www.channelnewsasia.com/asia/philippines-expand-military-drone-capabilities-defence-6339456",
-      "date": "Tue, 25 Aug 2026 15:07:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Lockerbie bombing trial postponed days before it was due to start",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 06:59:03 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 06:54:46 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shein&#039;s up to US$1.8 billion Hong Kong IPO order book covered, sources say",
-      "link": "https://www.channelnewsasia.com/business/sheins-up-us18-billion-hong-kong-ipo-order-book-covered-sources-say-6339391",
-      "date": "Tue, 25 Aug 2026 14:50:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -108,58 +178,23 @@
       "date": "Tue, 25 Aug 2026 06:32:43 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 06:12:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Libya factions draft initial election pact amid lingering mistrust",
-      "link": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 06:10:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
-      "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 06:00:38 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Two US carrier groups in Middle East strain navy resources",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 05:19:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 05:09:25 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Syrian president thanks nation for getting off US state terror list",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 04:38:24 +0000"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Namibia paves way for phosphate mining in the Atlantic Ocean",
+      "link": "https://www.rfi.fr/en/international/20260825-namibia-paves-way-for-phosphate-mining-in-the-atlantic-ocean",
+      "date": "Tue, 25 Aug 2026 05:32:11 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "text": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
       "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 04:06:34 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Mideast live: Oil tanker struck by projectile in Strait of Hormuz off Oman",
+      "text": "Middle East live: China to 'firmly safeguard' its interests after US threatens Iran's trade partners",
       "link": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
       "date": "Tue, 25 Aug 2026 03:31:45 GMT"
     },
@@ -218,27 +253,6 @@
       "text": "Moment tornado tears through southern France",
       "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 00:16:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How the French language contributes to the US-Canada trade war",
-      "link": "https://www.france24.com/en/americas/20260824-how-the-french-language-contributed-to-the-us-canada-trade-war",
-      "date": "Mon, 24 Aug 2026 23:07:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump administration to revoke hundreds of thousands of asylum visas",
-      "link": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
-      "date": "Mon, 24 Aug 2026 22:54:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tornado devastates village in southwestern France’s Aude region",
-      "link": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region",
-      "date": "Mon, 24 Aug 2026 22:16:12 GMT"
     },
     {
       "src": "The Guardian",
@@ -470,20 +484,6 @@
       "text": "Southern African mothers plead for sons lured to Russia's war in Ukraine",
       "link": "https://www.rfi.fr/en/international/20260823-southern-african-mothers-plead-for-sons-lured-to-russia-s-war",
       "date": "Sun, 23 Aug 2026 11:28:37 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France to send interceptor missiles to Ukraine after Russian strikes",
-      "link": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
-      "date": "Sat, 22 Aug 2026 13:52:51 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Diplomats urge France and UK to uphold rule of law in Palestinian territories",
-      "link": "https://www.rfi.fr/en/international/20260822-former-envoys-urge-joint-french-uk-action-on-palestinian-territories",
-      "date": "Sat, 22 Aug 2026 09:46:11 GMT"
     },
     {
       "src": "Foreign Policy",
