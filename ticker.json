@@ -1,13 +1,83 @@
 {
-  "updated": "2026-08-25T17:02:10.078Z",
+  "updated": "2026-08-25T17:51:24.556Z",
   "count": 72,
   "items": [
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+      "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+      "date": "Tue, 25 Aug 2026 17:35:16 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain requests emergency funding from the EU over Ceuta migrants",
+      "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 17:31:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 17:27:01 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India police clash with protestors over jobs and exam transparency",
+      "link": "https://www.channelnewsasia.com/world/india-protests-jobs-exams-police-6340631",
+      "date": "Wed, 26 Aug 2026 01:12:06 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nigeria’s president orders rescue operation after mass kidnapping at mosque",
+      "link": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "date": "Tue, 25 Aug 2026 17:10:23 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Canada hits US with counter-tariffs on more than 700 products",
+      "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 17:08:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+      "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 17:02:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Star-studded pairing Djokovic and Sabalenka stunned in US Open mixed doubles",
+      "link": "https://www.channelnewsasia.com/sport/star-studded-pairing-djokovic-and-sabalenka-stunned-in-us-open-mixed-doubles-6340641",
+      "date": "Wed, 26 Aug 2026 00:57:28 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 16:56:20 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/anthropic-expected-tell-investors-it-sees-over-30-trillion-in-potential-revenue-wsj-reports-6340636",
+      "date": "Wed, 26 Aug 2026 00:56:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Carlos Baleba joins Manchester United in transfer from Brighton",
+      "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 16:55:29 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -29,6 +99,13 @@
       "text": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
       "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
       "date": "Tue, 25 Aug 2026 16:39:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Japan: 1,800 people pull 360-tonne Hirosaki Castle keep by hand",
+      "link": "https://www.france24.com/en/video/20260825-japan-1-800-people-pull-360-tonne-hirosaki-castle-keep-by-hand",
+      "date": "Tue, 25 Aug 2026 16:33:12 GMT"
     },
     {
       "src": "CNA",
@@ -87,13 +164,6 @@
       "date": "Wed, 26 Aug 2026 00:12:53 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pogacar&#039;s 50-km solo raid delivers Vuelta stage four win in Andorra",
-      "link": "https://www.channelnewsasia.com/sport/pogacars-50-km-solo-raid-delivers-vuelta-stage-four-win-in-andorra-6340571",
-      "date": "Wed, 26 Aug 2026 00:07:43 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Students clash with police in India in a new protest over exam leaks",
@@ -115,32 +185,11 @@
       "date": "Tue, 25 Aug 2026 15:58:20 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Instagram head Adam Mosseri to testify at Meta child social media addiction trial",
-      "link": "https://www.channelnewsasia.com/business/instagram-head-adam-mosseri-testify-meta-child-social-media-addiction-trial-6340541",
-      "date": "Tue, 25 Aug 2026 23:57:13 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nevada wildfire contained to 27 percent as thousands still displaced",
-      "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 15:52:42 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Canada's tariffs on US about 'sovereignty to get people on board' with trade war",
       "link": "https://www.france24.com/en/canada-s-tariffs-on-us-about-sovereignty-to-get-people-on-board-with-trade-war",
       "date": "Tue, 25 Aug 2026 15:51:29 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New coach Xavi promises Netherlands new energy after poor World Cup",
-      "link": "https://www.channelnewsasia.com/sport/new-coach-xavi-promises-netherlands-new-energy-after-poor-world-cup-6340511",
-      "date": "Tue, 25 Aug 2026 23:45:47 +0800"
     },
     {
       "src": "France 24",
@@ -150,53 +199,11 @@
       "date": "Tue, 25 Aug 2026 15:44:13 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 15:42:43 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Replay: Canada announces countermeasures to new US tariffs",
       "link": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
       "date": "Tue, 25 Aug 2026 15:42:36 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
-      "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 15:42:21 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Tornado ravages small village",
-      "link": "https://www.france24.com/en/video/20260825-france-tornado-ravages-small-village",
-      "date": "Tue, 25 Aug 2026 15:36:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "CIA director Ratcliffe visits Moscow, US media reports",
-      "link": "https://www.france24.com/en/europe/20260825-cia-director-ratcliffe-visits-moscow-us-media-reports",
-      "date": "Tue, 25 Aug 2026 15:26:36 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nine years of Rohingya refugee crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 15:24:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 15:23:17 +0000"
     },
     {
       "src": "BBC World",
@@ -229,7 +236,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Canada announces retaliatory tariffs - as trade war with US heats up",
+      "text": "Canada announces tariffs on $20bn worth of US goods",
       "link": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
       "date": "Tue, 25 Aug 2026 15:29:00 +0100"
     },
@@ -351,13 +358,6 @@
       "text": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
       "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
       "date": "Tue, 25 Aug 2026 00:34:47 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "date": "Mon, 24 Aug 2026 21:40:48 GMT"
     },
     {
       "src": "Foreign Policy",
