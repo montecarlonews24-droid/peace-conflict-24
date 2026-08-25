@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-25T20:14:41.086Z",
+  "updated": "2026-08-25T20:51:48.406Z",
   "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Dolly Parton, beloved US country music icon, dies at 80",
+      "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 20:14:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brighton sign Algeria defender Hadjam on deal until 2031",
+      "link": "https://www.channelnewsasia.com/sport/brighton-sign-algeria-defender-hadjam-deal-until-2031-6340896",
+      "date": "Wed, 26 Aug 2026 04:10:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 20:08:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration: Kennedy Center may be demolished if repairs not made",
+      "link": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 20:08:33 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -15,6 +43,13 @@
       "text": "Man United&#039;s Fernandes named PFA Player of the Year",
       "link": "https://www.channelnewsasia.com/sport/man-uniteds-fernandes-named-pfa-player-year-6340886",
       "date": "Wed, 26 Aug 2026 04:02:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: US country music legend Dolly Parton dies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:58:56 +0000"
     },
     {
       "src": "BBC World",
@@ -31,11 +66,18 @@
       "date": "Tue, 25 Aug 2026 19:48:14 GMT"
     },
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:47:51 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US spy chief visits Russia for meetings, media reports",
       "link": "https://www.channelnewsasia.com/world/us-spy-chief-russia-visit-ratcliffe-6340786",
-      "date": "Wed, 26 Aug 2026 03:46:37 +0800"
+      "date": "Wed, 26 Aug 2026 03:46:00 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -66,39 +108,11 @@
       "date": "Tue, 25 Aug 2026 19:27:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India police clash with protesters a month after Gen Z demonstrations",
-      "link": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 19:24:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kurdish-led forces in Syria dissolve after merging with army",
-      "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 19:13:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli protesters block aid trucks from reaching Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 19:02:18 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "All Blacks come from behind to edge Lions and stay unbeaten on tour",
       "link": "https://www.channelnewsasia.com/sport/all-blacks-come-behind-edge-lions-and-stay-unbeaten-tour-6340801",
       "date": "Wed, 26 Aug 2026 03:01:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Video: Israeli forces raid UN training centre and raise Israeli flag",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 18:54:01 +0000"
     },
     {
       "src": "CNA",
@@ -113,13 +127,6 @@
       "text": "Syrian Kurdish leader announces SDF dissolution after its integration into army",
       "link": "https://www.france24.com/en/middle-east/20260825-syrian-kurdish-leader-dissolves-force-that-spearheaded-jihadist-fight",
       "date": "Tue, 25 Aug 2026 18:49:09 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Syria’s economy poised for improvement after US sanctions removal",
-      "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 18:43:42 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -148,13 +155,6 @@
       "text": "Beloved US country music icon Dolly Parton dies at 80",
       "link": "https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at",
       "date": "Tue, 25 Aug 2026 18:17:17 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran, Oman say discussed temporary Hormuz corridor, mine-clearing",
-      "link": "https://www.channelnewsasia.com/world/iran-oman-say-discussed-temporary-hormuz-corridor-mine-clearing-6340691",
-      "date": "Wed, 26 Aug 2026 02:15:41 +0800"
     },
     {
       "src": "Sky News",
