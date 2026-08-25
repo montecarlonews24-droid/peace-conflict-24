@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:24:46.395Z",
+  "updated": "2026-08-25T10:56:45.240Z",
   "count": 72,
   "items": [
     {
@@ -10,11 +10,39 @@
       "date": "Tue, 25 Aug 2026 12:00:00 +0000"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Haiti: Gang coalition unleashes violent new attack",
+      "link": "https://www.france24.com/en/video/20260825-haiti-gang-coalition-unleashes-violent-new-attack",
+      "date": "Tue, 25 Aug 2026 10:52:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Thermal safety: Not just climate in action; it's biology & physiological capacity to cope & recover",
+      "link": "https://www.france24.com/en/thermal-safety-not-just-climate-in-action-it-s-biology-physiological-capacity-to-cope-recover",
+      "date": "Tue, 25 Aug 2026 10:49:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 10:22:00 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Malaysia records unhealthy air quality in around 30 areas as haze spreads",
       "link": "https://www.channelnewsasia.com/asia/malaysia-haze-unhealthy-air-quality-sarawak-selangor-johor-perak-6339811",
       "date": "Tue, 25 Aug 2026 18:14:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+      "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 10:11:46 +0000"
     },
     {
       "src": "CNA",
@@ -43,6 +71,13 @@
       "text": "Thinking of running the Ultimate Trail of the Mont Blanc? Residents might object",
       "link": "https://www.france24.com/en/thinking-of-running-the-ultimate-trail-of-the-mont-blanc-residents-might-object",
       "date": "Tue, 25 Aug 2026 09:52:55 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US firefighters say major blaze near Reno about a quarter contained",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 09:49:02 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -171,32 +206,18 @@
       "date": "Tue, 25 Aug 2026 08:53:34 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nvidia, Supermicro employees charged over export of AI servers to China",
-      "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 08:51:48 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 08:52:17 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "In Haitin, dozens die in gang coalition attack on a farming community",
-      "link": "https://www.france24.com/en/in-haitin-dozens-die-in-gang-coalition-attack-on-a-farming-community",
-      "date": "Tue, 25 Aug 2026 08:47:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As Canada prepares to retaliate in the trade war, what pain can it inflict the US?",
-      "link": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
-      "date": "Tue, 25 Aug 2026 08:38:31 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan says significant progress made in talks on Iran-US war",
-      "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 08:32:52 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Tornado injures 39 and damages hundreds of homes in France",
+      "link": "https://news.sky.com/story/tornado-injures-39-and-damages-hundreds-of-homes-in-southwest-france-13576902",
+      "date": "Tue, 25 Aug 2026 09:36:00 +0100"
     },
     {
       "src": "Sky News",
@@ -225,13 +246,6 @@
       "text": "Namibia paves way for phosphate mining in the Atlantic Ocean",
       "link": "https://www.rfi.fr/en/international/20260825-namibia-paves-way-for-phosphate-mining-in-the-atlantic-ocean",
       "date": "Tue, 25 Aug 2026 05:32:11 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 04:06:34 GMT"
     },
     {
       "src": "Sky News",
@@ -267,13 +281,6 @@
       "text": "US removes Syria from list of state sponsors of terrorism",
       "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 00:17:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Moment tornado tears through southern France",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
       "src": "The Guardian",
@@ -449,13 +456,6 @@
       "text": "Ditching Chinese Rare Earths Is Hard. Just Ask Japan.",
       "link": "https://foreignpolicy.com/2026/08/24/rare-earths-china-japan-trade-united-states-trump-supply-chain/",
       "date": "Mon, 24 Aug 2026 09:30:20 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Cricket legends urge Pakistan to provide 'proper medical care' for Imran Khan",
-      "link": "https://news.sky.com/story/imran-khan-must-get-humane-treatment-and-proper-medical-care-in-prison-ex-cricket-captains-urge-pakistan-13576496",
-      "date": "Mon, 24 Aug 2026 06:15:00 +0100"
     },
     {
       "src": "RFI",
