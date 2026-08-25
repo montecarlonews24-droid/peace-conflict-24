@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:56:45.240Z",
+  "updated": "2026-08-25T11:18:53.804Z",
   "count": 72,
   "items": [
     {
@@ -8,6 +8,27 @@
       "text": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168196",
       "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 10:56:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is AIPAC’s political standing declining in the US?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 10:55:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "DBS brings back PayLah! campaign with up to S$3 cashback on 17 Saturdays from Aug 29",
+      "link": "https://www.channelnewsasia.com/singapore/dbs-paylah-cashback-campaign-aug-29-hawker-wet-market-6339896",
+      "date": "Tue, 25 Aug 2026 18:54:55 +0800"
     },
     {
       "src": "France 24",
@@ -131,7 +152,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "French astronaut Sophie Adenot prepares for second ISS mission spacewalk",
+      "text": "French astronaut Sophie Adenot set for second ISS mission spacewalk",
       "link": "https://www.france24.com/en/technology/20260825-french-astronaut-sophie-adenot-prepares-for-second-iss-mission-spacewalk",
       "date": "Tue, 25 Aug 2026 09:40:00 GMT"
     },
@@ -164,13 +185,6 @@
       "date": "Tue, 25 Aug 2026 09:24:14 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "PUB trial aims to halve energy used to pre-treat seawater for desalination",
-      "link": "https://www.channelnewsasia.com/singapore/pub-seawater-desalination-ceramic-membrane-technology-trial-meiden-6338876",
-      "date": "Tue, 25 Aug 2026 17:24:09 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Who are Iran’s top trading partners US would need to target to isolate it?",
@@ -183,13 +197,6 @@
       "text": "Lockerbie bombing trial postponed days before it was due to start",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 09:08:13 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 09:05:54 +0000"
     },
     {
       "src": "RFI",
@@ -225,13 +232,6 @@
       "text": "No one held accountable one year after Israeli double strike on Gaza hospital",
       "link": "https://news.sky.com/story/no-one-held-accountable-one-year-after-israeli-double-strike-on-gaza-hospital-13576883",
       "date": "Tue, 25 Aug 2026 09:10:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
       "src": "BBC World",
@@ -313,7 +313,7 @@
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "Saudi Arabia to invest $7bn in theme parks near Paris: French presidency",
+      "text": "Saudi Arabia to invest €6bn in building theme parks near Paris",
       "link": "https://www.rfi.fr/en/international/20260824-saudi-arabia-to-invest-7-bn-in-theme-parks-near-paris-french-presidency",
       "date": "Mon, 24 Aug 2026 18:08:12 GMT"
     },
@@ -439,7 +439,7 @@
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+      "text": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
       "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
       "date": "Mon, 24 Aug 2026 10:11:34 GMT"
     },
