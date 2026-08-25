@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-25T19:05:33.552Z",
+  "updated": "2026-08-25T19:51:38.566Z",
   "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 19:48:14 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 19:30:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Two unvaccinated people die of measles in US state of Pennsylvania",
+      "link": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:27:11 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:27:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India police clash with protesters a month after Gen Z demonstrations",
+      "link": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:24:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kurdish-led forces in Syria dissolve after merging with the army",
+      "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:13:52 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli protesters block aid trucks from reaching Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 19:02:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "All Blacks come from behind to edge Lions and stay unbeaten on tour",
+      "link": "https://www.channelnewsasia.com/sport/all-blacks-come-behind-edge-lions-and-stay-unbeaten-tour-6340801",
+      "date": "Wed, 26 Aug 2026 03:01:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+      "date": "Tue, 25 Aug 2026 18:54:01 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,11 +73,25 @@
       "date": "Wed, 26 Aug 2026 02:52:06 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Syrian Kurdish leader announces SDF dissolution after its integration into army",
+      "link": "https://www.france24.com/en/middle-east/20260825-syrian-kurdish-leader-dissolves-force-that-spearheaded-jihadist-fight",
+      "date": "Tue, 25 Aug 2026 18:49:09 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Syria’s economy poised for improvement after US sanctions removal",
       "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
       "date": "Tue, 25 Aug 2026 18:43:42 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
+      "link": "https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections/",
+      "date": "Tue, 25 Aug 2026 18:42:28 +0000"
     },
     {
       "src": "CNA",
@@ -31,6 +108,13 @@
       "date": "Wed, 26 Aug 2026 02:31:55 +0800"
     },
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Beloved US country music icon Dolly Parton dies at 80",
+      "link": "https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at",
+      "date": "Tue, 25 Aug 2026 18:17:17 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Iran, Oman say discussed temporary Hormuz corridor, mine-clearing",
@@ -43,13 +127,6 @@
       "text": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
       "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
       "date": "Tue, 25 Aug 2026 18:13:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
-      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 18:01:37 +0000"
     },
     {
       "src": "Sky News",
@@ -66,32 +143,11 @@
       "date": "Tue, 25 Aug 2026 17:54:03 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-      "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 17:39:22 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
       "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
       "date": "Tue, 25 Aug 2026 17:35:16 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain requests emergency funding from the EU over Ceuta migrants",
-      "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 17:31:09 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-      "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 17:27:01 +0000"
     },
     {
       "src": "CNA",
@@ -108,32 +164,11 @@
       "date": "Tue, 25 Aug 2026 17:10:23 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canada hits US with counter-tariffs on more than 700 products",
-      "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 17:08:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
-      "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
-      "date": "Tue, 25 Aug 2026 17:02:29 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Star-studded pairing Djokovic and Sabalenka stunned in US Open mixed doubles",
       "link": "https://www.channelnewsasia.com/sport/star-studded-pairing-djokovic-and-sabalenka-stunned-in-us-open-mixed-doubles-6340641",
       "date": "Wed, 26 Aug 2026 00:57:28 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 16:56:20 GMT"
     },
     {
       "src": "CNA",
@@ -152,9 +187,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Two unvaccinated people die of measles in Pennsylvania",
-      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 16:43:08 GMT"
+      "text": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 16:40:11 GMT"
     },
     {
       "src": "France 24",
@@ -162,13 +197,6 @@
       "text": "Japan: 1,800 people pull 360-tonne Hirosaki Castle keep by hand",
       "link": "https://www.france24.com/en/video/20260825-japan-1-800-people-pull-360-tonne-hirosaki-castle-keep-by-hand",
       "date": "Tue, 25 Aug 2026 16:33:12 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man United sign midfielder Carlos Baleba",
-      "link": "https://www.channelnewsasia.com/sport/man-united-sign-midfielder-carlos-baleba-6340611",
-      "date": "Wed, 26 Aug 2026 00:31:28 +0800"
     },
     {
       "src": "France 24",
@@ -204,20 +232,6 @@
       "text": "Canada's tariffs on US about 'sovereignty to get people on board' with trade war",
       "link": "https://www.france24.com/en/canada-s-tariffs-on-us-about-sovereignty-to-get-people-on-board-with-trade-war",
       "date": "Tue, 25 Aug 2026 15:51:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran offers $10 million to kill Trump's son",
-      "link": "https://www.france24.com/en/iran-offers-10-million-to-kill-trump-s-son",
-      "date": "Tue, 25 Aug 2026 15:44:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Replay: Canada announces countermeasures to new US tariffs",
-      "link": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
-      "date": "Tue, 25 Aug 2026 15:42:36 GMT"
     },
     {
       "src": "RFI",
@@ -278,13 +292,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Lockerbie bombing trial postponed days before it was due to start",
-      "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 11:54:03 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 25 Aug 2026 11:53:36 GMT"
@@ -293,7 +300,7 @@
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Everything You Always Wanted to Know About IR Grad School",
-      "link": "https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-pdf-ma/",
+      "link": "https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-phd-ma/",
       "date": "Tue, 25 Aug 2026 09:33:54 +0000"
     },
     {
@@ -393,13 +400,6 @@
       "text": "Canadian politician threatens to cut off electricity to the US - as Trump issues 'fall in line' warning",
       "link": "https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665",
       "date": "Mon, 24 Aug 2026 14:59:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Where Is King Abdullah?",
-      "link": "https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/",
-      "date": "Mon, 24 Aug 2026 13:38:08 +0000"
     },
     {
       "src": "RFI",
