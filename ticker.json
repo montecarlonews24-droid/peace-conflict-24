@@ -1,7 +1,112 @@
 {
-  "updated": "2026-08-26T18:09:36.754Z",
-  "count": 62,
+  "updated": "2026-08-26T20:17:55.494Z",
+  "count": 70,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 19:41:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
+      "link": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 19:31:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UNRWA chief condemns Israeli seizure of East Jerusalem facility",
+      "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 19:25:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "German airport workers die from malaria caught from plane-riding mosquito",
+      "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 19:21:26 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 19:19:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Newcastle land Gonzalez from Manchester City",
+      "link": "https://www.channelnewsasia.com/sport/newcastle-land-gonzalez-manchester-city-6343511",
+      "date": "Thu, 27 Aug 2026 03:15:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli forces install new gate, isolating Palestinian village",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 19:09:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI report says its network was hacked by its own rogue AI agents",
+      "link": "https://www.channelnewsasia.com/business/openai-report-says-its-network-was-hacked-its-own-rogue-ai-agents-6343476",
+      "date": "Thu, 27 Aug 2026 03:01:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What could change for US teens on Instagram and Facebook",
+      "link": "https://www.channelnewsasia.com/world/meta-platforms-settlement-instagram-facebook-6343436",
+      "date": "Thu, 27 Aug 2026 02:53:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 18:19:14 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+      "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
+      "date": "Wed, 26 Aug 2026 18:15:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
+      "link": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 18:13:54 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source",
+      "link": "https://www.channelnewsasia.com/world/iran-oman-talks-hormuz-shipping-us-6343371",
+      "date": "Thu, 27 Aug 2026 02:09:50 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tim Curry, star of 'The Rocky Horror Picture Show' and 'It', dies at 80",
+      "link": "https://www.france24.com/en/culture/20260826-tim-curry-star-of-the-rocky-horror-picture-show-and-it-dies-at-80",
+      "date": "Wed, 26 Aug 2026 18:09:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US imposes sanctions on Palestine Action and other left-wing groups",
+      "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 18:08:50 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -15,20 +120,6 @@
       "text": "F1 leaders Mercedes granted engine upgrades, none for Red Bull",
       "link": "https://www.channelnewsasia.com/sport/f1-leaders-mercedes-granted-engine-upgrades-none-red-bull-6343396",
       "date": "Thu, 27 Aug 2026 01:48:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US inflation remains sticky in July",
-      "link": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 17:28:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Prince Harry and Meghan Markle return to UK after royal rift",
-      "link": "https://www.aljazeera.com/news/2026/8/26/prince-harry-and-meghan-markle-return-to-uk-after-royal-rift?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 17:27:49 +0000"
     },
     {
       "src": "CNA",
@@ -45,39 +136,11 @@
       "date": "Thu, 27 Aug 2026 01:14:17 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 26 Aug 2026 17:08:04 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 50 injured as fireworks explode into crowd at Spanish festival",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 17:07:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why Hormuz remains high risk for ships despite US claims of mine-clearing",
-      "link": "https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 17:05:57 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Tim Curry, actor famed for Rocky Horror Picture Show, dead at 80",
       "link": "https://www.channelnewsasia.com/world/tim-curry-dies-age-80-british-actor-6343316",
       "date": "Thu, 27 Aug 2026 00:58:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran emphasises self-sufficiency in battle against US economic war",
-      "link": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 16:53:20 +0000"
     },
     {
       "src": "France 24",
@@ -87,60 +150,11 @@
       "date": "Wed, 26 Aug 2026 16:39:49 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ogura withdraws from Aragon GP due to injury",
-      "link": "https://www.channelnewsasia.com/sport/ogura-withdraws-aragon-gp-due-injury-6343306",
-      "date": "Thu, 27 Aug 2026 00:35:34 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
-      "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 16:27:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Luxury watches worth $1.2 million stolen from a popular mall in Tokyo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/luxury-watches-worth-1-2-million-stolen-from-a-popular-mall-in-tokyo?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 16:25:12 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kremlin says US spy chief met with Russian counterparts during Moscow visit",
-      "link": "https://www.channelnewsasia.com/world/us-spy-chief-russia-talks-ratcliffe-6343216",
-      "date": "Thu, 27 Aug 2026 00:23:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
-      "link": "https://www.channelnewsasia.com/business/apple-launch-next-iphone-september-9-in-first-major-event-under-new-ceo-ternus-6343271",
-      "date": "Thu, 27 Aug 2026 00:20:13 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Video: Man kills eight relatives in Montana gun attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-man-kills-eight-relatives-in-montana-gun-attack?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 16:16:02 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Syria: Why is the dissolution of the Kurdish forces significant?",
       "link": "https://www.france24.com/en/video/20260826-syria-why-is-the-dissolution-of-the-kurdish-forces-significant",
       "date": "Wed, 26 Aug 2026 16:16:01 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Barcelona still interested in Atletico&#039;s Alvarez, says Laporta",
-      "link": "https://www.channelnewsasia.com/sport/barcelona-still-interested-in-atleticos-alvarez-says-laporta-6343256",
-      "date": "Thu, 27 Aug 2026 00:14:19 +0800"
     },
     {
       "src": "France 24",
@@ -192,13 +206,6 @@
       "date": "Wed, 26 Aug 2026 15:09:58 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hundreds missing in Nepal catastrophic flash floods",
-      "link": "https://www.france24.com/en/video/20260826-hundreds-missing-in-nepal-catastrophic-flash-floods",
-      "date": "Wed, 26 Aug 2026 15:01:42 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -225,6 +232,27 @@
       "text": "Why Iceland Might Finally Join the EU",
       "link": "https://foreignpolicy.com/2026/08/26/iceland-eu-accession-referendum-sovereignty-vote/",
       "date": "Wed, 26 Aug 2026 12:45:09 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Deadly floods cause widespread destruction in China, Nepal",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168208",
+      "date": "Wed, 26 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "More health workers, stronger systems: Africa’s new ambitious goal",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168207",
+      "date": "Wed, 26 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Rising tensions in Gaza, West Bank",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168204",
+      "date": "Wed, 26 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -332,13 +360,6 @@
       "date": "Tue, 25 Aug 2026 18:57:00 +0100"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-      "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-      "date": "Tue, 25 Aug 2026 17:35:16 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Iran’s Economy May Outlast Trump’s Presidency",
@@ -365,6 +386,41 @@
       "text": "Canada announces tariffs on $20bn worth of US goods",
       "link": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
       "date": "Tue, 25 Aug 2026 15:29:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168203",
+      "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "One million children in Afghanistan face deadly malnutrition",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168202",
+      "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "As wars spread, the global food system unravels",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168201",
+      "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168200",
+      "date": "Tue, 25 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Land degradation is costing far more than restoring: UN deputy chief",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168198",
+      "date": "Tue, 25 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
