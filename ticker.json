@@ -1,13 +1,139 @@
 {
-  "updated": "2026-08-26T10:03:23.266Z",
-  "count": 72,
+  "updated": "2026-08-26T10:57:22.385Z",
+  "count": 71,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 10:51:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kremlin says CIA chief met Russian counterparts, not Putin, in Moscow",
+      "link": "https://www.france24.com/en/europe/20260826-kremlin-says-cia-chief-met-russian-counterparts-not-putin-in-moscow",
+      "date": "Wed, 26 Aug 2026 10:44:26 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Infantino has no future at FIFA, says European Leagues chief",
+      "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 10:42:01 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester City sign Morocco midfielder Bouaddi from Lille",
+      "link": "https://www.channelnewsasia.com/sport/manchester-city-sign-morocco-midfielder-bouaddi-lille-6342416",
+      "date": "Wed, 26 Aug 2026 18:34:16 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "China’s Xi to visit Kyrgyzstan, Egypt",
+      "link": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 10:29:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Germany increasingly in the crosshairs of hybrid attacks",
+      "link": "https://www.france24.com/en/video/20260826-germany-increasingly-in-the-crosshairs-of-hybrid-attacks",
+      "date": "Wed, 26 Aug 2026 10:29:05 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is Japan trying to build bridges with China after Taiwan spat?",
+      "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 10:28:52 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "One million Afghan children suffer 'life-threatening' malnutrition",
+      "link": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
+      "date": "Wed, 26 Aug 2026 10:27:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
+      "link": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates",
+      "date": "Wed, 26 Aug 2026 10:22:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "America unites in mourning for Dolly Parton",
+      "link": "https://www.france24.com/en/video/20260826-america-unites-in-mourning-for-dolly-parton",
+      "date": "Wed, 26 Aug 2026 10:19:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus",
+      "link": "https://www.france24.com/en/video/20260826-syria-s-kurdish-led-sdf-dissolves-as-part-of-integration-with-damascus",
+      "date": "Wed, 26 Aug 2026 10:18:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel takes control of UN training centre for Palestinians",
+      "link": "https://www.france24.com/en/video/20260826-israel-takes-control-of-un-training-centre-for-palestinians",
+      "date": "Wed, 26 Aug 2026 10:15:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ebola in DRC: Authorities step up river patrols as Kinshasa fears grow",
+      "link": "https://www.france24.com/en/video/20260826-ebola-in-drc-authorities-step-up-river-patrols-as-kinshasa-fears-grow",
+      "date": "Wed, 26 Aug 2026 10:12:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore cannot rely on more land, labour or carbon for next phase of growth: Tan See Leng",
+      "link": "https://www.channelnewsasia.com/singapore/economy-trade-geopolitics-western-islands-environmental-6342311",
+      "date": "Wed, 26 Aug 2026 18:08:19 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "link": "https://www.channelnewsasia.com/business/exclusive-hack-water-sector-supplier-draws-fbi-scrutiny-iran-linked-cyber-concerns-grow-6342341",
+      "date": "Wed, 26 Aug 2026 18:02:13 +0800"
+    },
     {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
       "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
       "date": "Wed, 26 Aug 2026 10:00:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 10:00:05 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Europe Ready for a New Era of Russian Dirty Tricks?",
+      "link": "https://foreignpolicy.com/2026/08/26/russia-ukraine-war-putin-europe-attacks-drones-sabotage-nato-hybrid-gray-zone-warfare/",
+      "date": "Wed, 26 Aug 2026 09:49:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
+      "date": "Wed, 26 Aug 2026 09:48:36 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -35,7 +161,7 @@
       "col": "#84cc16",
       "text": "Audemars Piguet brings rare watches and watchmaking demonstrations to Singapore",
       "link": "https://www.channelnewsasia.com/obsessions/audemars-piguet-singapore-exhibition-6342226",
-      "date": "Wed, 26 Aug 2026 17:08:34 +0800"
+      "date": "Wed, 26 Aug 2026 17:08:00 +0800"
     },
     {
       "src": "CNA",
@@ -59,39 +185,11 @@
       "date": "Wed, 26 Aug 2026 09:00:35 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US immigration agents arrested more than 49,500 people in July",
-      "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 08:55:23 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 08:54:35 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Indonesia’s forestry ministry processes 42 forest fire cases, sanctions six companies",
       "link": "https://www.channelnewsasia.com/asia/indonesia-forest-fires-haze-kalimantan-6342171",
       "date": "Wed, 26 Aug 2026 16:48:31 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands in Japan are pulling this historic castle back into place",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 08:46:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lindsey Graham’s sister up for election to his US Senate seat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/lindsey-grahams-sister-up-for-election-to-his-us-senate-seat?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 08:42:28 +0000"
     },
     {
       "src": "CNA",
@@ -101,88 +199,39 @@
       "date": "Wed, 26 Aug 2026 16:39:03 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man who made more than 1,000 silent calls to police &#039;for fun and enjoyment&#039; gets jail",
-      "link": "https://www.channelnewsasia.com/singapore/1000-silent-calls-police-npc-obstruction-6342106",
-      "date": "Wed, 26 Aug 2026 16:35:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 08:17:45 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Embraced across divides, Dolly Parton leaves a lasting legacy",
-      "link": "https://www.france24.com/en/culture/20260826-embraced-across-divides-dolly-parton-leaves-a-lasting-legacy",
-      "date": "Wed, 26 Aug 2026 08:21:41 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 08:01:56 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump’s Korean gambit exposes a shifting East Asian order",
-      "link": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
-      "date": "Wed, 26 Aug 2026 08:18:55 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 07:26:03 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singer Angela Chang briefly stops concert for medical treatment, returns to finish show",
-      "link": "https://www.channelnewsasia.com/entertainment/angela-chang-chengdu-concert-ill-costume-heart-6342046",
-      "date": "Wed, 26 Aug 2026 16:15:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 26 Aug 2026 01:32:07 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea steps up checks as China probes formaldehyde-tainted cabbages",
-      "link": "https://www.channelnewsasia.com/east-asia/china-cabbage-formaldehyde-south-korea-food-safety-6342101",
-      "date": "Wed, 26 Aug 2026 16:11:36 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump scores much-needed double primary victory in South Carolina, Oklahoma",
-      "link": "https://www.france24.com/en/americas/20260826-trump-scores-much-needed-double-primary-victory-in-south-carolina-oklahoma",
-      "date": "Wed, 26 Aug 2026 07:41:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fire at maternity ward in Islamabad hospital kills 14 infants",
-      "link": "https://www.france24.com/en/asia-pacific/20260826-smoke-chokes-pakistan-maternity-ward-as-fire-kills-14-infants",
-      "date": "Wed, 26 Aug 2026 06:45:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Premier League: Cameroon's Carlos Baleba transferred to Manchester United",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260826-premier-league-cameroon-s-carlos-baleba-transferred-to-manchester-united",
-      "date": "Wed, 26 Aug 2026 06:30:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman",
-      "link": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
-      "date": "Wed, 26 Aug 2026 06:04:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iceland to vote on reopening EU membership talks in close referendum",
-      "link": "https://www.france24.com/en/europe/20260826-iceland-to-vote-on-reopening-eu-membership-talks-in-close-referendum",
-      "date": "Wed, 26 Aug 2026 05:23:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump sends Saudi civil nuclear agreement to Congress for review",
-      "link": "https://www.france24.com/en/americas/20260826-trump-saudi-civil-nuclear-agreement-congress",
-      "date": "Wed, 26 Aug 2026 03:17:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "SpaceX to build $100 billion rocket launch facility in southern Louisiana",
-      "link": "https://www.france24.com/en/americas/20260826-spacex-to-build-100-billion-rocket-launch-complex-in-southern-louisiana",
-      "date": "Wed, 26 Aug 2026 02:36:40 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says all mines cleared from Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 21:23:41 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -213,20 +262,6 @@
       "date": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 19:48:14 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 19:30:37 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Ukrainians Skeptical as Former Defense Minister Pushes for Elections",
@@ -255,6 +290,13 @@
       "date": "Tue, 25 Aug 2026 17:35:16 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 25 Aug 2026 17:12:21 GMT"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Iran’s Economy May Outlast Trump’s Presidency",
@@ -262,25 +304,11 @@
       "date": "Tue, 25 Aug 2026 16:44:40 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 16:40:11 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "'Shocking' book about Putin's private life wins French literary prize",
       "link": "https://www.rfi.fr/en/international/20260825-shocking-book-about-putin-s-private-life-wins-french-literary-prize",
       "date": "Tue, 25 Aug 2026 16:02:13 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "European rights court orders Turkey to free imprisoned businessman",
-      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 15:58:20 GMT"
     },
     {
       "src": "RFI",
@@ -316,13 +344,6 @@
       "text": "Peacemaking Is Power Politics Again",
       "link": "https://foreignpolicy.com/2026/08/25/peacemaking-power-politics-united-nations-trump/",
       "date": "Tue, 25 Aug 2026 13:51:41 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "A Pact Without Impact",
-      "link": "https://foreignpolicy.com/2026/08/25/mecca-pact-saud-arabia-turkey-pakistan-nato-israel-iran/",
-      "date": "Tue, 25 Aug 2026 13:14:57 +0000"
     },
     {
       "src": "UN News",
@@ -374,20 +395,6 @@
       "date": "Tue, 25 Aug 2026 12:00:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Brain disease in dead NFL players 'higher than previously shown'",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 11:54:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 11:53:36 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "At least 14 newborn babies die in Islamabad hospital fire",
@@ -400,13 +407,6 @@
       "text": "At least 40 killed as gangs attack displaced people near Haiti capital",
       "link": "https://www.rfi.fr/en/international/20260825-at-least-40-killed-as-gangs-attack-displaced-people-near-haiti-capital",
       "date": "Tue, 25 Aug 2026 08:53:49 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 25 Aug 2026 08:52:17 GMT"
     },
     {
       "src": "Sky News",
@@ -442,13 +442,6 @@
       "text": "Saudi Arabia to invest €6bn in building theme parks near Paris",
       "link": "https://www.rfi.fr/en/international/20260824-saudi-arabia-to-invest-7-bn-in-theme-parks-near-paris-french-presidency",
       "date": "Mon, 24 Aug 2026 18:08:12 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Prince Harry steps down from board of wildlife charity",
-      "link": "https://news.sky.com/story/prince-harry-steps-down-from-board-of-wildlife-charity-ahead-of-return-to-uk-with-meghan-13576743",
-      "date": "Mon, 24 Aug 2026 18:41:00 +0100"
     },
     {
       "src": "The Guardian",
