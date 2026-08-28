@@ -1,55 +1,293 @@
 {
-  "updated": "2026-08-27T16:36:02.273Z",
-  "count": 64,
+  "updated": "2026-08-28T01:11:43.998Z",
+  "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "OpenAI, Anthropic join global call to strengthen cyber defences",
+      "link": "https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+      "date": "Fri, 28 Aug 2026 01:05:51 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nepal-Tibet floods: Authorities warn lakes could breach as search for survivors continues",
+      "link": "https://www.channelnewsasia.com/asia/nepal-tibet-flood-landslide-live-update-day-3-6346556",
+      "date": "Fri, 28 Aug 2026 09:03:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "This Singapore designer turns discarded eggshells from a carrot cake hawker into homeware",
+      "link": "https://www.channelnewsasia.com/living/singapore-designer-eggshells-hawker-stall-homeware-6344061",
+      "date": "Fri, 28 Aug 2026 08:49:00 +0800"
+    },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Besieged Qusra residents fear permanent Israeli presence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/besieged-qusra-residents-fear-permanent-israeli-presence?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 16:23:13 +0000"
+      "text": "US aid cuts threaten Ghana’s child immunisation gains",
+      "link": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss",
+      "date": "Fri, 28 Aug 2026 00:19:22 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
-      "link": "https://www.channelnewsasia.com/world/ratko-mladic-dies-bosnia-genocide-6345921",
-      "date": "Fri, 28 Aug 2026 00:22:24 +0800"
+      "text": "Kiss seeks two starting sides from depth-challenged Wallabies",
+      "link": "https://www.channelnewsasia.com/sport/kiss-seeks-two-starting-sides-depth-challenged-wallabies-6346536",
+      "date": "Fri, 28 Aug 2026 08:14:21 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
+      "date": "Fri, 28 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues",
+      "link": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 23:58:26 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Google agrees to settle UK app developers&#039; lawsuit for $353 million",
-      "link": "https://www.channelnewsasia.com/business/google-agrees-settle-uk-app-developers-lawsuit-353-million-6345931",
-      "date": "Fri, 28 Aug 2026 00:11:27 +0800"
+      "text": "Two killed in oil tanker fire off South Korea: Report",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-two-killed-oil-tanker-fire-6346531",
+      "date": "Fri, 28 Aug 2026 07:49:00 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Pogacar sprints past rivals but Mas makes him sweat for Vuelta stage six win",
-      "link": "https://www.channelnewsasia.com/sport/pogacar-sprints-past-rivals-mas-makes-him-sweat-vuelta-stage-six-win-6345936",
-      "date": "Fri, 28 Aug 2026 00:10:59 +0800"
+      "text": "Tokyo core inflation creeps near BOJ&#039;s target, bolsters rate-hike chance",
+      "link": "https://www.channelnewsasia.com/business/tokyo-core-inflation-creeps-near-bojs-target-bolsters-rate-hike-chance-6346526",
+      "date": "Fri, 28 Aug 2026 07:45:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge questions the push to add Trump’s name back to the Kennedy Center",
+      "link": "https://www.aljazeera.com/news/2026/8/27/us-judge-questions-the-push-to-add-trumps-name-back-to-the-kennedy-center?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 23:29:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Black Panther star Winston Duke on &#039;crazy surprises&#039; in Avengers: Doomsday, Dragon Ball Z and Japan",
+      "link": "https://www.channelnewsasia.com/entertainment/winston-duke-interview-dragon-ball-z-avengers-doomsday-6337301",
+      "date": "Fri, 28 Aug 2026 07:29:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Young girls are becoming obsessed with skincare and makeup – why is this happening?",
+      "link": "https://www.channelnewsasia.com/women/sephora-kids-girls-skincare-makeup-obsession-cosmeticorexia-6339516",
+      "date": "Fri, 28 Aug 2026 07:20:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Syria’s president appoints ex-commander of Kurdish-led SDF as advisor",
+      "link": "https://www.aljazeera.com/news/2026/8/27/syrias-president-appoints-ex-commander-of-kurdish-led-sdf-as-advisor?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 23:09:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US FTC probes YouTube over social media policies, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/us-ftc-probes-youtube-over-social-media-policies-bloomberg-news-reports-6346496",
+      "date": "Fri, 28 Aug 2026 07:03:05 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump signs executive order to rename Lake Ontario as Lake America",
+      "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "date": "Thu, 27 Aug 2026 22:55:04 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 27 Aug 2026 22:54:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Haiti police confront public frustration after deadly gang attack kills 47",
+      "link": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 22:51:44 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bosnian Serb General Ratko Mladic has died",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 22:48:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kherson residents urged to leave as Russian attacks threaten power and heating",
+      "link": "https://www.france24.com/en/europe/20260827-kherson-residents-urged-to-leave-as-russian-attacks-threaten-power-and-heating",
+      "date": "Thu, 27 Aug 2026 22:40:52 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Settler Violence Is Consuming the West Bank",
+      "link": "https://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/",
+      "date": "Thu, 27 Aug 2026 22:05:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support",
+      "link": "https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss",
+      "date": "Thu, 27 Aug 2026 22:00:43 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Tech companies call for collective action against AI-enabled cyber attacks",
+      "link": "https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985",
+      "date": "Thu, 27 Aug 2026 22:52:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US military faces ‘beyond critical’ shortage of Patriot missiles in Europe",
+      "link": "https://www.france24.com/en/americas/20260827-us-military-faces-beyond-critical-shortage-of-patriot-missiles-in-europe",
+      "date": "Thu, 27 Aug 2026 21:41:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nigeria: the lucrative business of kidnappings",
+      "link": "https://www.france24.com/en/nigeria-the-lucrative-business-of-kidnappings",
+      "date": "Thu, 27 Aug 2026 20:49:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back",
+      "link": "https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back",
+      "date": "Thu, 27 Aug 2026 20:39:59 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 27 Aug 2026 20:39:16 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Death Toll Rises in Nepal-Tibet Flash Flood",
+      "link": "https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming/",
+      "date": "Thu, 27 Aug 2026 20:19:42 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Optimus Prime voice actor dies",
+      "link": "https://news.sky.com/story/peter-cullen-who-voiced-eeyore-and-optimus-prime-dies-aged-85-13577938",
+      "date": "Thu, 27 Aug 2026 21:04:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French presidential candidates clash at first debate before upcoming elections",
+      "link": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections",
+      "date": "Thu, 27 Aug 2026 19:12:55 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China’s Success Is Forcing a U.S. AI Rethink",
+      "link": "https://foreignpolicy.com/2026/08/27/china-ai-technology-trump-silicon-valley-open-weights/",
+      "date": "Thu, 27 Aug 2026 18:35:13 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Myanmar Shows War Doesn’t Stop Mining",
+      "link": "https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/",
+      "date": "Thu, 27 Aug 2026 17:54:51 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Red Cross mobilises in Nepal following natural disaster: 'Entire villages & communities washed out'",
+      "link": "https://www.france24.com/en/red-cross-mobilises-in-nepal-following-natural-disaster-entire-villages-communities-washed-out",
+      "date": "Thu, 27 Aug 2026 17:53:51 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Norwegians lay flowers at palace as King Harald's condition worsens",
       "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 27 Aug 2026 16:09:07 GMT"
+      "date": "Thu, 27 Aug 2026 17:42:04 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others",
-      "link": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 16:04:22 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why North Korea Doesn’t Want to Meet With Trump",
+      "link": "https://foreignpolicy.com/2026/08/27/north-korea-kim-jong-un-trump-meeting-nuclear/",
+      "date": "Thu, 27 Aug 2026 17:34:53 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Germany’s Rhine River Is Drying Up",
+      "link": "https://foreignpolicy.com/2026/08/27/germany-rhine-river-economy-war/",
+      "date": "Thu, 27 Aug 2026 17:33:18 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump signs order renaming Lake Ontario as 'Lake America' in the US",
+      "link": "https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819",
+      "date": "Thu, 27 Aug 2026 18:29:00 +0100"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout",
-      "link": "https://www.france24.com/en/asia-pacific/20260827-pakistan-protests-continue-in-azad-kashmir-despite-repression-and-internet-blackout",
-      "date": "Thu, 27 Aug 2026 16:04:09 GMT"
+      "text": "Why Trump wants H-1B skilled worker visas to cost employers more than $100,000",
+      "link": "https://www.france24.com/en/americas/20260827-why-trump-wants-h-1b-skilled-worker-visas-to-cost-employers-more-than-100-000",
+      "date": "Thu, 27 Aug 2026 17:24:55 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two killed in 'domestic violence incident' at school near Berlin",
+      "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 27 Aug 2026 17:07:32 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 27 Aug 2026 17:05:22 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Don’t Freak Out Over the Pentagon’s Europe Plans",
+      "link": "https://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troops-elbridge-colby-hegseth-nato/",
+      "date": "Thu, 27 Aug 2026 17:00:02 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Keeps Stabbing Japan in the Back",
+      "link": "https://foreignpolicy.com/2026/08/27/trump-japan-takaichi-alliance/",
+      "date": "Thu, 27 Aug 2026 16:50:13 +0000"
     },
     {
       "src": "RFI",
@@ -57,153 +295,6 @@
       "text": "Nepal’s deadly glacier collapse exposes climate risks across the Himalayas",
       "link": "https://www.rfi.fr/en/international/20260827-nepal-s-deadly-glacier-collapse-exposes-climate-risks-across-the-himalayas",
       "date": "Thu, 27 Aug 2026 16:01:45 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Luis Enrique stresses importance of PSG squad as Dembele gets time to rest",
-      "link": "https://www.channelnewsasia.com/sport/luis-enrique-stresses-importance-psg-squad-dembele-gets-time-rest-6345906",
-      "date": "Thu, 27 Aug 2026 23:54:29 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "LIVE: Barcelona vs Athletic Club – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/27/live-barcelona-vs-athletic-club-la-liga?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:51:17 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two killed in 'violent incident' at school near Berlin",
-      "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 27 Aug 2026 15:47:34 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ratko Mladic, ‘Butcher of Bosnia’, dies aged 84",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/ratko-mladic-butcher-of-bosnia-dies-aged-84?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:47:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Villa sign Germany midfielder Goretzka on free transfer",
-      "link": "https://www.channelnewsasia.com/sport/villa-sign-germany-midfielder-goretzka-free-transfer-6345896",
-      "date": "Thu, 27 Aug 2026 23:45:11 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia to start employee-funded US political action committee",
-      "link": "https://www.channelnewsasia.com/business/nvidia-start-employee-funded-us-political-action-committee-6345866",
-      "date": "Thu, 27 Aug 2026 23:38:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UEFA asks US court for FIFA documents for criminal case against Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:32:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Burnham’s expected UK ban on Israeli settlement goods draws broad support",
-      "link": "https://www.aljazeera.com/news/2026/8/27/do-more-than-just-condemn?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:29:52 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "A Cabinet Full of Roy Cohns",
-      "link": "https://foreignpolicy.com/2026/08/27/roy-cohn-american-scoundrel-regime-change-book/",
-      "date": "Thu, 27 Aug 2026 15:28:19 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Police warn Fun Coffee victims against fake fund recovery services",
-      "link": "https://www.channelnewsasia.com/singapore/fun-coffee-scheme-scam-fund-recovery-service-6345741",
-      "date": "Thu, 27 Aug 2026 23:26:18 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Arsenal&#039;s rivals seek to lay down markers after tough starts",
-      "link": "https://www.channelnewsasia.com/sport/arsenals-rivals-seek-lay-down-markers-after-tough-starts-6345831",
-      "date": "Thu, 27 Aug 2026 23:26:08 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
-      "link": "https://www.france24.com/en/video/20260827-ratko-mladic-former-general-convicted-of-bosnia-genocide-dies",
-      "date": "Thu, 27 Aug 2026 15:22:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'National treasure: If we could all be like Dolly, it would be a much better place in the world'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260827-national-treasure-if-we-could-all-be-like-dolly-it-would-be-a-much-better-place-in-the-world",
-      "date": "Thu, 27 Aug 2026 15:21:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 27 Aug 2026 15:16:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Great public test': French presidential hopefuls to face off at business summit",
-      "link": "https://www.france24.com/en/video/20260827-great-public-test-french-presidential-hopefuls-to-face-off-at-business-summit",
-      "date": "Thu, 27 Aug 2026 15:15:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tottenham sign Man City’s Egypt forward Omar Marmoush on season-long loan",
-      "link": "https://www.aljazeera.com/sports/2026/8/27/tottenham-sign-man-citys-egypt-forward-omar-marmoush-on-season-long-loan?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:09:48 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Exclusive - French astronaut describes climate change as seen from space",
-      "link": "https://www.france24.com/en/video/20260827-exclusive-french-astronaut-describes-climate-change-as-seen-from-space-1",
-      "date": "Thu, 27 Aug 2026 15:09:11 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Freewheeling India Envoy Muddles South Asia Policy",
-      "link": "https://foreignpolicy.com/2026/08/27/sergio-gor-trump-modi-india-ambassador-south-asia-pakistan/",
-      "date": "Thu, 27 Aug 2026 15:03:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Meta’s $18bn settlement: How social platforms will change for child users",
-      "link": "https://www.aljazeera.com/features/2026/8/27/metas-18bn-settlement-how-social-platforms-will-change-for-child-users?traffic_source=rss",
-      "date": "Thu, 27 Aug 2026 15:01:57 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "An 'icon' of contemporary art: A look back at the career of Yayoi Kusama",
-      "link": "https://www.france24.com/en/video/20260827-an-icon-of-contemporary-art-a-look-back-at-the-career-of-yayoi-kusama",
-      "date": "Thu, 27 Aug 2026 15:01:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Extremely challenging' conditions hamper Nepal-Tibet flood rescue efforts",
-      "link": "https://www.france24.com/en/video/20260827-extremely-challenging-conditions-hamper-nepal-tibet-flood-rescue-efforts",
-      "date": "Thu, 27 Aug 2026 14:57:30 GMT"
     },
     {
       "src": "BBC World",
@@ -220,13 +311,6 @@
       "date": "Thu, 27 Aug 2026 14:02:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?",
-      "link": "https://www.france24.com/en/why-were-so-many-indian-pilgrims-in-tibet-during-the-himalayan-mudslide-disaster",
-      "date": "Thu, 27 Aug 2026 13:57:23 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "British woman died after becoming 'trapped' by Spanish wildfires",
@@ -241,13 +325,6 @@
       "date": "Thu, 27 Aug 2026 14:11:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 27 Aug 2026 12:41:16 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "UEFA preparing to bring criminal proceedings against Gianni Infantino",
@@ -255,18 +332,46 @@
       "date": "Thu, 27 Aug 2026 13:04:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Missile Math Problem",
-      "link": "https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/",
-      "date": "Thu, 27 Aug 2026 11:40:58 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168220",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Turkey’s Rise Is Israel’s New Problem",
-      "link": "https://foreignpolicy.com/2026/08/27/turkeys-rise-is-israels-new-problem/",
-      "date": "Thu, 27 Aug 2026 11:33:23 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168219",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN chief condemns “indifference” as Ebola cases mount in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168217",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: Civilian risks grow as military activity continues, UN says",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168215",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Tracking Syria’s transition",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168214",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Shock and devastation remain, a day after Himalayan flood disaster",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168213",
+      "date": "Thu, 27 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -276,39 +381,11 @@
       "date": "Thu, 27 Aug 2026 11:23:28 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Americans Aren’t as Skeptical of Foreign Aid as Washington Thinks",
-      "link": "https://foreignpolicy.com/2026/08/27/americans-opinion-foreign-aid/",
-      "date": "Thu, 27 Aug 2026 10:00:34 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Geopolitics Behind Rising U.S. Bond Yields",
-      "link": "https://foreignpolicy.com/2026/08/27/geopolitics-us-bond-yields/",
-      "date": "Thu, 27 Aug 2026 10:00:31 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 27 Aug 2026 09:55:02 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
       "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 27 Aug 2026 09:50:10 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Japanese artist Yayoi Kusama dies aged 97",
-      "link": "https://news.sky.com/story/japanese-artist-yayoi-kusama-dies-aged-97-13577660",
-      "date": "Thu, 27 Aug 2026 09:13:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -323,27 +400,6 @@
       "text": "EU joins aid effort as more than 1,300 remain missing after Nepal floods",
       "link": "https://www.rfi.fr/en/international/20260827-eu-sends-help-as-nepal-flood-kills-165-hundreds-of-tourists-remain-missing",
       "date": "Thu, 27 Aug 2026 06:36:05 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Endangered' parrot eggs hatch after two arrested in wildlife smuggling crackdown",
-      "link": "https://news.sky.com/story/endangered-parrot-eggs-hatch-in-south-africa-after-two-arrested-in-wildlife-smuggling-crackdown-13577639",
-      "date": "Thu, 27 Aug 2026 07:29:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The ‘Stability-Instability Paradox’ Comes for Markets",
-      "link": "https://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/",
-      "date": "Thu, 27 Aug 2026 04:01:07 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran, Oman Agree to Temporary Strait of Hormuz Deal",
-      "link": "https://foreignpolicy.com/2026/08/26/iran-oman-strait-hormuz-deal-us-trump-oil-shipping/",
-      "date": "Wed, 26 Aug 2026 20:48:28 +0000"
     },
     {
       "src": "The Guardian",
@@ -374,6 +430,20 @@
       "date": "Wed, 26 Aug 2026 14:40:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Land models sprout as degradation threatens billions of livelihoods",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168212",
+      "date": "Wed, 26 Aug 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Red Sea nations step up maritime cooperation as regional threats grow",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168211",
+      "date": "Wed, 26 Aug 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Mpox is back – and in new countries. How can this outbreak be contained?",
@@ -395,13 +465,6 @@
       "date": "Wed, 26 Aug 2026 09:00:39 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Wife of US soldier deported after Trump rollback on military family protections",
-      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "date": "Tue, 25 Aug 2026 20:23:55 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "How Dolly Parton became much more than country music’s 'backwoods Barbie'",
@@ -421,13 +484,6 @@
       "text": "US and Denmark push for nationwide expansion of UN arms embargo in Sudan",
       "link": "https://www.rfi.fr/en/international/20260825-us-and-denmark-push-for-nationwide-expansion-of-un-arms-embargo-in-sudan",
       "date": "Tue, 25 Aug 2026 15:00:21 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least 14 newborn babies die in Islamabad hospital fire",
-      "link": "https://news.sky.com/story/at-least-14-newborn-babies-die-in-islamabad-hospital-fire-13576928",
-      "date": "Tue, 25 Aug 2026 11:21:00 +0100"
     },
     {
       "src": "RFI",
