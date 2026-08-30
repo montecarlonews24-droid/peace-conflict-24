@@ -1,125 +1,195 @@
 {
-  "updated": "2026-08-30T01:23:56.474Z",
+  "updated": "2026-08-30T06:52:22.306Z",
   "count": 72,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Manhunt after one killed and five injured in Swiss shooting, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 30 Aug 2026 06:43:26 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Norway&#039;s King Haakon honours &#039;dear father&#039; Harald in first speech as sovereign",
-      "link": "https://www.channelnewsasia.com/world/norways-king-haakon-honours-dear-father-harald-in-first-speech-sovereign-6349996",
-      "date": "Sun, 30 Aug 2026 08:46:33 +0800"
+      "text": "India&#039;s aviation boom faces turbulence amid safety concerns",
+      "link": "https://www.channelnewsasia.com/asia/india-aviation-boom-indigo-safety-concerns-6350191",
+      "date": "Sun, 30 Aug 2026 14:11:29 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+      "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "date": "Sun, 30 Aug 2026 06:00:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+      "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 05:58:28 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;Words simply fall short&#039;: Inter Miami interim coach marvels at Messi masterclass",
+      "link": "https://www.channelnewsasia.com/sport/words-simply-fall-short-inter-miami-interim-coach-marvels-messi-masterclass-6350201",
+      "date": "Sun, 30 Aug 2026 13:53:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump&#039;s Greenland threats cast a shadow on Iceland&#039;s vote on whether to trigger EU membership talks",
+      "link": "https://www.channelnewsasia.com/world/iceland-referendum-vote-eu-membership-greenland-6349091",
+      "date": "Sun, 30 Aug 2026 13:51:54 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Putin, Xi set for Central Asia summit as Russia, China seek to counter Western influence",
+      "link": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
+      "date": "Sun, 30 Aug 2026 05:51:53 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Manhunt under way after deadly shooting at 'rave' in Switzerland",
+      "link": "https://news.sky.com/story/manhunt-under-way-after-deadly-shooting-at-rave-in-switzerland-13578925",
+      "date": "Sun, 30 Aug 2026 06:51:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vietnamese coffee farmers ride China&#039;s durian wave",
+      "link": "https://www.channelnewsasia.com/asia/vietnam-coffee-farmers-china-durian-demand-6350141",
+      "date": "Sun, 30 Aug 2026 13:26:23 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "NASA set to launch Roman telescope to map the universe",
+      "link": "https://www.france24.com/en/americas/20260830-nasa-set-to-launch-roman-telescope-to-map-the-universe",
+      "date": "Sun, 30 Aug 2026 05:26:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
+      "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 05:09:11 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Canada installs large Lake Ontario sign in latest jab at US",
+      "text": "WhatsApp chat used to send cash for crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 30 Aug 2026 04:59:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nepal-Tibet floods live: At least 750 dead as rising water levels hamper rescue efforts",
+      "link": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises",
+      "date": "Sun, 30 Aug 2026 04:59:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US police officer pulls hair, throws punches during arrest in Arkansas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 04:50:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protests as India’s Hindu nationalists take centre stage in New York",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 04:31:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+      "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 04:28:10 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudanese repair roads by hand in Darfur to improve emergency access",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 04:05:04 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iceland EU referendum on a knife edge as counting continues",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 30 Aug 2026 03:57:01 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+      "link": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 03:51:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "About 1,200 BTO flats in Toa Payoh, Sin Ming to have shorter waiting time of under 3 years",
+      "link": "https://www.channelnewsasia.com/singapore/1200-bto-flats-toay-payoh-sin-ming-shorter-waiting-times-6350066",
+      "date": "Sun, 30 Aug 2026 11:33:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US deports relative of Afghans who aided military to Africa",
+      "link": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
+      "date": "Sun, 30 Aug 2026 03:10:06 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China says 16 dead, 546 missing in Tibet mudslide: State media",
+      "link": "https://www.channelnewsasia.com/east-asia/nepal-tibet-mudslide-china-death-toll-missing-6350021",
+      "date": "Sun, 30 Aug 2026 11:09:09 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nepal to preserve DNA of unidentified flood victims before burying them: Prime minister",
+      "link": "https://www.channelnewsasia.com/asia/nepal-tibet-disaster-dna-unidentified-bodies-6350031",
+      "date": "Sun, 30 Aug 2026 11:04:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Parry defeats Mertens in Monterrey to claim maiden WTA singles title",
+      "link": "https://www.channelnewsasia.com/sport/parry-defeats-mertens-in-monterrey-claim-maiden-wta-singles-title-6350056",
+      "date": "Sun, 30 Aug 2026 10:45:43 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Killing of Palestinian children and teens by Israel surges in West Bank",
+      "link": "https://www.rfi.fr/en/international/20260830-killing-of-palestinian-children-and-teens-by-israel-surges-in-west-bank",
+      "date": "Sun, 30 Aug 2026 02:20:24 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Large Lake Ontario sign installed in Canada in latest jab at US",
       "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 30 Aug 2026 00:17:25 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-      "link": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
-      "date": "Sun, 30 Aug 2026 00:16:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Online anti-Muslim backlash collides with different reality in South Africa",
-      "link": "https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss",
-      "date": "Sun, 30 Aug 2026 00:06:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
-      "date": "Sun, 30 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ethiopian Gobena and Kenya&#039;s Jepchirchir take Sydney marathon honours",
-      "link": "https://www.channelnewsasia.com/sport/ethiopian-gobena-and-kenyas-jepchirchir-take-sydney-marathon-honours-6349976",
-      "date": "Sun, 30 Aug 2026 07:48:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settlers attack international news team in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
-      "date": "Sat, 29 Aug 2026 23:48:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "North Korea defence minister dismissed: State media",
-      "link": "https://www.channelnewsasia.com/asia/north-korea-defence-minister-dismissed-state-media-6349961",
-      "date": "Sun, 30 Aug 2026 07:43:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
-      "date": "Sat, 29 Aug 2026 23:34:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Voting closes in Iceland’s knife-edge EU referendum",
-      "link": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
-      "date": "Sat, 29 Aug 2026 23:33:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukrainian nuclear power plant without external power for over a week",
-      "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-      "date": "Sat, 29 Aug 2026 23:25:07 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Should you be taking psyllium husk? What to know about the fibre supplement",
-      "link": "https://www.channelnewsasia.com/wellness/health-benefits-psyllium-husk-6331256",
-      "date": "Sun, 30 Aug 2026 07:04:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fit enough for Hyrox or a marathon? Why that doesn’t necessarily mean your heart is ready",
-      "link": "https://www.channelnewsasia.com/wellness/hyrox-heart-screening-endurance-race-6339361",
-      "date": "Sun, 30 Aug 2026 07:04:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hrgovic storms back to defeat Itauma for IBF heavyweight title",
-      "link": "https://www.channelnewsasia.com/sport/hrgovic-storms-back-defeat-itauma-ibf-heavyweight-title-6349941",
-      "date": "Sun, 30 Aug 2026 06:57:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
-      "link": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
-      "date": "Sat, 29 Aug 2026 22:50:27 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rescuers dig into tunnel as missing toll from Nepal, China disaster nears 3,000",
-      "link": "https://www.channelnewsasia.com/asia/rescuers-tunnel-nepal-china-disaster-death-toll-missing-6349891",
-      "date": "Sun, 30 Aug 2026 06:47:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Djokovic says early exit in Cincinnati helped him prepare for US Open",
-      "link": "https://www.channelnewsasia.com/sport/djokovic-says-early-exit-in-cincinnati-helped-him-prepare-us-open-6349886",
-      "date": "Sun, 30 Aug 2026 06:30:13 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Inside Jenin, where life is hard for displaced Palestinians - and the pain keeps getting worse",
+      "link": "https://news.sky.com/story/inside-jenin-where-life-is-hard-for-displaced-palestinians-and-the-pain-keeps-getting-worse-13578574",
+      "date": "Sun, 30 Aug 2026 00:01:00 +0100"
     },
     {
       "src": "BBC World",
@@ -134,13 +204,6 @@
       "text": "Missing toll from Nepal, China flood nears 3,000 as race for survivors continues",
       "link": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues",
       "date": "Sat, 29 Aug 2026 20:12:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Former Ecuadorian president imprisoned for corruption",
-      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 29 Aug 2026 19:44:54 GMT"
     },
     {
       "src": "BBC World",
@@ -199,27 +262,6 @@
       "date": "Sat, 29 Aug 2026 15:22:32 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Situation in Niger 'not stabilised yet' as security forces deploy around airport",
-      "link": "https://www.france24.com/en/situation-in-niger-not-stabilised-yet-as-security-forces-deploy-around-airport",
-      "date": "Sat, 29 Aug 2026 13:59:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Referendum on EU membership: An ‘existential question’ for Icelanders",
-      "link": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders",
-      "date": "Sat, 29 Aug 2026 12:46:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rescue operations ongoing as death toll continues to rise",
-      "link": "https://www.france24.com/en/rescue-operations-ongoing-as-death-toll-continues-to-rise",
-      "date": "Sat, 29 Aug 2026 12:37:17 GMT"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
@@ -257,7 +299,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Icelanders head to polls for referendum on whether to resume talks to join EU",
+      "text": "Iceland counts votes in tight referendum on EU membership talks",
       "link": "https://news.sky.com/story/icelanders-head-to-polls-for-referendum-on-whether-to-resume-talks-to-join-eu-13578427",
       "date": "Sat, 29 Aug 2026 06:34:00 +0100"
     },
@@ -281,20 +323,6 @@
       "text": "Rescuers claw through mud as missing toll from Nepal, China flood nears 3,000",
       "link": "https://www.rfi.fr/en/international/20260829-rescuers-claw-through-mud-as-missing-toll-from-nepal-china-flood-nears-3-000",
       "date": "Sat, 29 Aug 2026 01:38:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 29 Aug 2026 00:56:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 29 Aug 2026 00:32:17 GMT"
     },
     {
       "src": "The Guardian",
@@ -381,13 +409,6 @@
       "date": "Fri, 28 Aug 2026 14:46:25 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "World's youngest reigning monarch dies age 34",
-      "link": "https://news.sky.com/story/ugandan-ruler-named-worlds-youngest-monarch-died-age-34-13578122",
-      "date": "Fri, 28 Aug 2026 13:25:00 +0100"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Four children killed as separate attacks in Gaza destroy aid supplies",
@@ -451,13 +472,6 @@
       "date": "Fri, 28 Aug 2026 04:00:48 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Optimus Prime voice actor dies",
-      "link": "https://news.sky.com/story/peter-cullen-who-voiced-eeyore-and-optimus-prime-dies-aged-85-13577938",
-      "date": "Thu, 27 Aug 2026 21:04:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Serb war criminal Mladic, dubbed the ‘Butcher of Bosnia,’ dies aged 84",
@@ -470,13 +484,6 @@
       "text": "Nepal’s deadly glacier collapse exposes climate risks across the Himalayas",
       "link": "https://www.rfi.fr/en/international/20260827-nepal-s-deadly-glacier-collapse-exposes-climate-risks-across-the-himalayas",
       "date": "Thu, 27 Aug 2026 16:01:45 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Haiti families plead for release of hostages after deadly gang attack",
-      "link": "https://www.rfi.fr/en/international/20260827-haiti-families-plead-for-release-of-hostages-after-deadly-gang-attack",
-      "date": "Thu, 27 Aug 2026 14:02:37 GMT"
     },
     {
       "src": "UN News",
@@ -498,13 +505,6 @@
       "text": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
       "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
       "date": "Wed, 26 Aug 2026 15:09:58 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Mpox is back – and in new countries. How can this outbreak be contained?",
-      "link": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "date": "Wed, 26 Aug 2026 11:00:12 GMT"
     }
   ]
 }
