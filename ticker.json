@@ -1,48 +1,230 @@
 {
-  "updated": "2026-08-31T14:11:03.011Z",
-  "count": 72,
+  "updated": "2026-08-31T20:13:29.001Z",
+  "count": 64,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Shein prices Hong Kong IPO at midpoint of range, raises $1.74 billion",
-      "link": "https://www.channelnewsasia.com/business/shein-prices-hong-kong-ipo-midpoint-range-raises-174-billion-6352496",
-      "date": "Mon, 31 Aug 2026 22:03:16 +0800"
+      "text": "Anisimova cruises to birthday win at US Open",
+      "link": "https://www.channelnewsasia.com/sport/anisimova-cruises-birthday-win-us-open-6352951",
+      "date": "Tue, 01 Sep 2026 04:07:08 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Greece signs $3.5bn air defence deal with Israel",
-      "link": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:52:40 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Beijing and Washington Can Build AI Safety Despite Mutual Distrust",
+      "link": "https://foreignpolicy.com/2026/08/31/china-us-safety-ai-artificial-intelligence-summit-regulation/",
+      "date": "Mon, 31 Aug 2026 20:06:17 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is piracy picking up off Somalia’s coast again?",
-      "link": "https://www.aljazeera.com/news/2026/8/31/why-is-piracy-picking-up-off-somalias-coast-again?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:52:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Transfer day: What and when is the deadline for club football signings?",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:52:02 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "English Football League disappointed with UEFA over fixtures clash",
-      "link": "https://www.channelnewsasia.com/sport/english-football-league-disappointed-uefa-over-fixtures-clash-6352486",
-      "date": "Mon, 31 Aug 2026 21:51:44 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "U.S.-Iran Fighting Reignites",
+      "link": "https://foreignpolicy.com/2026/08/31/us-iran-strikes-fighting-resumes-larak-island-jordan-uae-kharg/",
+      "date": "Mon, 31 Aug 2026 20:01:18 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France gears up for an election year defined by a fragmented left",
-      "link": "https://www.france24.com/en/france-gears-up-for-an-election-year-defined-by-a-fragmented-left",
-      "date": "Mon, 31 Aug 2026 13:49:59 GMT"
+      "text": "Marine Le Pen's National Rally plans to \"sanction\" the wearing of the veil with a fine",
+      "link": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
+      "date": "Mon, 31 Aug 2026 20:01:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nepal disaster: fake and AI images flood social media as deaths mount",
+      "link": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
+      "date": "Mon, 31 Aug 2026 20:00:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "GTA 6: Why is the world’s most anticipated game facing backlash?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 19:44:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What to know: US court hearing held for alleged Lockerbie bombmaker",
+      "link": "https://www.aljazeera.com/news/2026/8/31/what-to-know-us-court-hearing-held-for-alleged-lockerbie-bombmaker?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 19:41:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pogacar undergoes clavicular surgery after Vuelta crash",
+      "link": "https://www.channelnewsasia.com/sport/pogacar-undergoes-clavicular-surgery-after-vuelta-crash-6352926",
+      "date": "Tue, 01 Sep 2026 03:38:26 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 19:30:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Macron seals €4.3-bn French frigate deal in Sweden",
+      "link": "https://www.france24.com/en/video/20260831-macron-seals-%E2%82%AC4-3-bn-french-frigate-deal-in-sweden",
+      "date": "Mon, 31 Aug 2026 19:28:22 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+      "link": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 19:25:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Top US general says no plans to send troops to polls for November elections",
+      "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 19:20:28 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Last-minute flood warning saved over 900 Nepal students, school head says",
+      "link": "https://www.channelnewsasia.com/asia/last-minute-flood-warning-saved-over-900-nepal-students-school-head-says-6352481",
+      "date": "Tue, 01 Sep 2026 03:09:38 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Jared Kushner's brother breaks silence on World Cup sell-off plans",
+      "link": "https://news.sky.com/story/joshua-kushner-would-be-fifa-investor-linked-to-trump-breaks-silence-on-world-cup-sell-off-plans-13579569",
+      "date": "Mon, 31 Aug 2026 19:56:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Former French prime minister Édouard Balladur dies at 97",
+      "link": "https://www.france24.com/en/france/20260831-former-french-prime-minister-%C3%A9douard-balladur-dies-at-97",
+      "date": "Mon, 31 Aug 2026 18:47:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Former French PM Édouard Balladur, once defeated by ally Jacques Chirac, dies at 97",
+      "link": "https://www.france24.com/en/france/20260831-former-french-prime-minister-%C3%A9douard-balladur-dies-at-97",
+      "date": "Mon, 31 Aug 2026 18:46:34 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Firecracker factory blast in India kills 8 children",
+      "link": "https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 18:44:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Let Data Reign’: Trump decries opposition to data centres in US",
+      "link": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 18:42:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai?traffic_source=rss",
+      "date": "Mon, 31 Aug 2026 18:42:08 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;All the joy he gave us&#039;: Argentines thank Messi as he announces international retirement",
+      "link": "https://www.channelnewsasia.com/sport/all-joy-he-gave-us-argentines-thank-messi-he-announces-international-retirement-6352881",
+      "date": "Tue, 01 Sep 2026 02:41:39 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
+      "link": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
+      "date": "Mon, 31 Aug 2026 18:37:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "link": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china",
+      "date": "Mon, 31 Aug 2026 18:34:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump vows to hit back &#039;hard&#039; after first exchange of fire with Iran in weeks",
+      "link": "https://www.channelnewsasia.com/world/trump-vows-hit-back-hard-after-first-exchange-fire-iran-in-weeks-6352671",
+      "date": "Tue, 01 Sep 2026 02:34:12 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amazon sued by FTC, 22 US states over advertising practices",
+      "link": "https://www.channelnewsasia.com/business/amazon-sued-ftc-22-us-states-over-advertising-practices-6352861",
+      "date": "Tue, 01 Sep 2026 02:19:41 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ex-congressman George Santos banned from betting platform for life",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 31 Aug 2026 18:15:12 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 31 Aug 2026 17:54:23 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pakistan replace coach Sarfaraz and seven players ahead of third England test",
+      "link": "https://www.channelnewsasia.com/sport/pakistan-replace-coach-sarfaraz-and-seven-players-ahead-third-england-test-6352816",
+      "date": "Tue, 01 Sep 2026 01:43:28 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 31 Aug 2026 17:30:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sabalenka&#039;s gets US Open &#039;three-peat&#039; campaign off to strong start",
+      "link": "https://www.channelnewsasia.com/sport/sabalenkas-gets-us-open-three-peat-campaign-strong-start-6352801",
+      "date": "Tue, 01 Sep 2026 01:30:32 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
+      "link": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
+      "date": "Mon, 31 Aug 2026 16:54:13 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "What the SDF’s dissolution means for Syria’s Kurds and neighbouring Turkey",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260831-what-the-sdf-s-dissolution-means-for-syria-s-kurds-and-neighbouring-turkey",
+      "date": "Mon, 31 Aug 2026 15:19:19 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 31 Aug 2026 14:50:36 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -59,25 +241,11 @@
       "date": "Mon, 31 Aug 2026 13:47:30 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korea court gives church leader two years in jail for bribery",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/south-korea-court-gives-church-leader-two-years-in-jail-for-bribery?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:43:32 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Veteran diplomat Tommy Koh wins Ramon Magsaysay Award",
-      "link": "https://www.channelnewsasia.com/singapore/tommy-koh-wins-ramon-magsaysay-award-6352391",
-      "date": "Mon, 31 Aug 2026 21:42:43 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:40:28 +0000"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "South African airline defends dramatic low-level flyby before rugby union clash",
+      "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
+      "date": "Mon, 31 Aug 2026 13:44:39 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -87,74 +255,11 @@
       "date": "Mon, 31 Aug 2026 13:25:41 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Backstage at Rock en Seine 2026 with up-and-coming British singer Sekou",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260831-backstage-at-rock-en-seine-2026-with-up-and-coming-british-singer-sekou",
-      "date": "Mon, 31 Aug 2026 13:25:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France and Sweden look to boost European sovereignty through stronger defence ties",
-      "link": "https://www.france24.com/en/france-and-sweden-look-to-boost-european-sovereignty-through-stronger-defence-ties",
-      "date": "Mon, 31 Aug 2026 13:22:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta removes ads for fraud apps posing as porn after India sounds alarm",
-      "link": "https://www.channelnewsasia.com/business/meta-removes-ads-fraud-apps-posing-porn-after-india-sounds-alarm-6352456",
-      "date": "Mon, 31 Aug 2026 21:21:40 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer",
-      "link": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "date": "Mon, 31 Aug 2026 13:18:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bradley Barcola joins Liverpool from PSG for record fee",
-      "link": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "date": "Mon, 31 Aug 2026 13:17:35 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Glasner was key reason for joining Nottingham Forest, says Munoz",
-      "link": "https://www.channelnewsasia.com/sport/glasner-was-key-reason-joining-nottingham-forest-says-munoz-6352446",
-      "date": "Mon, 31 Aug 2026 21:13:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool sign France forward Barcola from PSG",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-sign-france-forward-barcola-psg-6352441",
-      "date": "Mon, 31 Aug 2026 21:12:05 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Man arrested after Swiss rave shooting that killed woman",
       "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 31 Aug 2026 13:11:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nepal grapples with destruction and loss in wake of deadly floods",
-      "link": "https://www.france24.com/en/nepal-grapples-with-destruction-and-loss-in-wake-of-deadly-floods",
-      "date": "Mon, 31 Aug 2026 13:10:04 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Manchester City sign Brazilian winger Allan Elias from Palmeiras",
-      "link": "https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:03:40 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -164,60 +269,11 @@
       "date": "Mon, 31 Aug 2026 13:00:48 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
-      "link": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 13:00:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
-      "link": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 12:57:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Engine Capital pushes EPAM for share buybacks or sale, source says",
-      "link": "https://www.channelnewsasia.com/business/engine-capital-pushes-epam-share-buybacks-or-sale-source-says-6352346",
-      "date": "Mon, 31 Aug 2026 20:56:24 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 12:55:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Executive diversity and inclusion: How to promote female leadership",
-      "link": "https://www.france24.com/en/tv-shows/people-profit/20260831-executive-diversity-and-inclusion-how-to-promote-female-leadership",
-      "date": "Mon, 31 Aug 2026 12:51:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Strait of Hormuz accessibility at the centre of US-Iran war flare-up",
-      "link": "https://www.france24.com/en/strait-of-hormuz-accessibility-at-the-centre-of-us-iran-war-flare-up",
-      "date": "Mon, 31 Aug 2026 12:47:11 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Italy and Spain extend tit-for-tat border controls after Ceuta migrant surge",
       "link": "https://news.sky.com/story/italy-and-spain-extend-tit-for-tat-border-controls-after-ceuta-migrant-surge-13579414",
       "date": "Mon, 31 Aug 2026 13:46:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City confirm signing of Allan Elias from Palmeiras",
-      "link": "https://www.channelnewsasia.com/sport/man-city-confirm-signing-allan-elias-palmeiras-6352241",
-      "date": "Mon, 31 Aug 2026 20:08:35 +0800"
     },
     {
       "src": "The Guardian",
@@ -232,13 +288,6 @@
       "text": "The jury's options in Lindsay Clancy's murder trial",
       "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 31 Aug 2026 11:53:21 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 11:41:05 GMT"
     },
     {
       "src": "Sky News",
@@ -267,13 +316,6 @@
       "text": "Morocco not to blame for Ceuta border breach, says Spanish PM",
       "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
       "date": "Mon, 31 Aug 2026 10:21:56 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 10:18:07 GMT"
     },
     {
       "src": "RFI",
@@ -311,13 +353,6 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Moonies' church leader jailed for two years over bribery offences",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 06:56:40 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Macron in Sweden to sign frigate deal, strengthening 'strategic partnership'",
@@ -346,13 +381,6 @@
       "date": "Mon, 31 Aug 2026 03:27:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Google renames Lake Ontario as 'Lake America' after Trump order",
-      "link": "https://news.sky.com/story/google-renames-lake-ontario-as-lake-america-for-us-users-after-trump-order-13579311",
-      "date": "Mon, 31 Aug 2026 01:07:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
@@ -367,25 +395,11 @@
       "date": "Sun, 30 Aug 2026 15:08:33 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168228",
-      "date": "Sun, 30 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "'No' camp seen winning Iceland's EU referendum",
       "link": "https://www.rfi.fr/en/international/20260830-no-camp-seen-winning-iceland-s-eu-referendum",
       "date": "Sun, 30 Aug 2026 07:59:55 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Iceland rejects government proposal to resume EU membership talks",
-      "link": "https://news.sky.com/story/iceland-rejects-government-proposal-to-resume-eu-membership-talks-13578939",
-      "date": "Sun, 30 Aug 2026 08:37:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -409,25 +423,11 @@
       "date": "Sat, 29 Aug 2026 15:54:58 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168206",
-      "date": "Sat, 29 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
       "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
       "date": "Sat, 29 Aug 2026 10:00:24 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Trapped for 115 days, cargo ship captain recounts ordeal in Strait of Hormuz",
-      "link": "https://www.rfi.fr/en/international/20260829-trapped-for-115-days-cargo-ship-captain-recounts-ordeal-in-strait-of-hormuz",
-      "date": "Sat, 29 Aug 2026 09:16:34 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -437,20 +437,6 @@
       "date": "Fri, 28 Aug 2026 21:07:16 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why Are Yields on U.S. Treasury Bonds Rising?",
-      "link": "https://foreignpolicy.com/2026/08/28/treasury-bonds-bessent-trump-economy/",
-      "date": "Fri, 28 Aug 2026 20:56:35 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Yes, We’re in an AI Bubble. Just Look to 1980s Japan.",
-      "link": "https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/",
-      "date": "Fri, 28 Aug 2026 20:40:39 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
@@ -458,53 +444,11 @@
       "date": "Fri, 28 Aug 2026 14:46:25 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Four children killed as separate attacks in Gaza destroy aid supplies",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "As the Himalayas melt, deadly floods become the new normal",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168227",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Deadly gang attacks spike in Haiti",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168222",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168226",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168224",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168221",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-      "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-      "date": "Fri, 28 Aug 2026 04:00:48 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Lionel Messi retires from international football",
+      "link": "https://news.sky.com/story/lionel-messi-retires-from-international-football-13572837",
+      "date": "Fri, 14 Aug 2026 08:21:00 +0100"
     }
   ]
 }
