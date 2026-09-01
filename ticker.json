@@ -1,111 +1,216 @@
 {
-  "updated": "2026-09-01T02:51:04.987Z",
-  "count": 72,
+  "updated": "2026-09-01T08:02:16.279Z",
+  "count": 64,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australian judge floats giving court-appointed expert access to Tesla&#039;s engineering systems",
-      "link": "https://www.channelnewsasia.com/world/australia-tesla-judge-access-engineering-systems-6353636",
-      "date": "Tue, 01 Sep 2026 10:45:49 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Death toll from devastating floods in China and Nepal surpasses 1,000",
+      "link": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:49:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nepal-Tibet floods live: Rescue efforts under way, death toll crosses 1,000",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/nepal-tibet-floods-live-rescue-efforts-under-way-death-toll-crosses-1000?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:44:35 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+      "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+      "date": "Tue, 01 Sep 2026 07:42:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Moment motorcyclist flies through bus door, avoiding deadly crash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/moment-motorcyclist-flies-through-bus-door-avoiding-deadly-crash?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:42:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "White House unveils more details of Trump’s Venezuela oil deal",
+      "link": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:39:52 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 07:37:24 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Shelton advances at US Open after shaky start against Griekspoor",
-      "link": "https://www.channelnewsasia.com/sport/shelton-advances-us-open-after-shaky-start-against-griekspoor-6353626",
-      "date": "Tue, 01 Sep 2026 10:34:30 +0800"
+      "text": "Japan to relax overtime regulation under workaholic PM Takaichi",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-overtime-regulation-karoshi-overwork-death-6354291",
+      "date": "Tue, 01 Sep 2026 15:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Influenza cases rise in Singapore; CDA says infections not more severe than usual",
+      "link": "https://www.channelnewsasia.com/singapore/rise-influenza-cases-cda-monitoring-6354281",
+      "date": "Tue, 01 Sep 2026 15:30:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+      "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:25:54 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nepal-Tibet toll tops 1,000 as tunnel rescue offers last hope",
+      "link": "https://www.channelnewsasia.com/asia/nepal-tibet-toll-1000-rescue-tunnel-6354286",
+      "date": "Tue, 01 Sep 2026 15:24:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zambia's president to be sworn in for second term while opponent detained",
+      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 07:19:45 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 07:02:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
+      "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 07:02:25 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Carney&#039;s Liberals sweep Canada by-elections as US trade war rages",
+      "link": "https://www.channelnewsasia.com/world/carneys-liberals-sweep-canada-elections-us-trade-war-rages-6353906",
+      "date": "Tue, 01 Sep 2026 15:02:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Leslie Cheung&#039;s Days Of Being Wild to screen in 4K with original Cantonese audio at Golden Village",
+      "link": "https://www.channelnewsasia.com/entertainment/leslie-cheung-golden-village-days-being-wild-4k-6353941",
+      "date": "Tue, 01 Sep 2026 15:01:09 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Retailer loses defamation suit against customer over negative Shopee review",
+      "link": "https://www.channelnewsasia.com/singapore/retailer-sue-defamation-negative-shopee-review-6354111",
+      "date": "Tue, 01 Sep 2026 14:56:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI, working parents, growth markets: New Minister of State Foo Cexiang on his priorities",
+      "link": "https://www.channelnewsasia.com/singapore/foo-cexiang-minister-state-mti-mom-priorities-ai-working-parents-new-growth-markets-6354166",
+      "date": "Tue, 01 Sep 2026 14:49:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nine killed, over a dozen injured as Russia strikes Kyiv region for sixth successive day",
+      "link": "https://www.channelnewsasia.com/world/nine-killed-over-dozen-injured-russia-strikes-kyiv-region-sixth-successive-day-6353301",
+      "date": "Tue, 01 Sep 2026 14:42:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Teen faces life over livestream of San Diego mosque attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 06:39:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US Open: Alcaraz wins on return, aggressive Sabalenka advances",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss",
+      "date": "Tue, 01 Sep 2026 06:36:25 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Russian missile and drone attack on Kyiv kills at least four",
+      "text": "'Glaciers in Himalayas retreating': Nepal floods triggered by 'glacier collapse & massive landslide'",
+      "link": "https://www.france24.com/en/video/20260901-glaciers-in-himalayas-retreating-nepal-floods-triggered-by-glacier-collapse-massive-landslide",
+      "date": "Tue, 01 Sep 2026 06:26:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Deadly Russian air attack hits railway depot in Kyiv",
+      "link": "https://www.france24.com/en/europe/20260901-live-deadly-russian-air-attack-hits-railway-depot-in-kyiv",
+      "date": "Tue, 01 Sep 2026 06:04:26 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 06:02:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 05:47:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Government air strikes kill 20 alleged guerrillas in Colombia, president says",
+      "link": "https://www.france24.com/en/americas/20260901-government-air-strikes-kill-20-alleged-guerrillas-in-colombia-president-says",
+      "date": "Tue, 01 Sep 2026 05:42:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Sea change: Much of the world's economic GDP has moved to the Asia-Pacific region' - Rana Mitter",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260901-sea-change-much-of-the-world-s-economic-gdp-has-moved-to-the-asia-pacific-region-rana-mitter",
+      "date": "Tue, 01 Sep 2026 05:22:44 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 05:00:34 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Shein shares fall in long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 01 Sep 2026 04:15:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Oil prices extend gains as US-Iran tensions flare again",
+      "link": "https://www.france24.com/en/middle-east/20260901-middle-east-live-oil-prices-extend-gains-as-us-iran-tensions-flare-again",
+      "date": "Tue, 01 Sep 2026 03:38:18 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian missile and drone attack on Kyiv kills at least eight",
       "link": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
       "date": "Tue, 01 Sep 2026 02:26:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-      "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 02:23:03 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 01 Sep 2026 02:18:26 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China warns of &#039;consequences&#039; over Taiwan&#039;s attendance at Pacific leaders meeting",
-      "link": "https://www.channelnewsasia.com/east-asia/china-taiwan-pacific-islands-forum-palau-consequences-6353411",
-      "date": "Tue, 01 Sep 2026 10:14:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "American singer Lionel Richie hospitalised in ICU after concert",
-      "link": "https://www.channelnewsasia.com/entertainment/lionel-richie-icu-hospitalised-2026-6353571",
-      "date": "Tue, 01 Sep 2026 10:10:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Army Secretary Driscoll submits resignation: White House",
-      "link": "https://www.channelnewsasia.com/world/us-army-secretary-resign-dan-driscoll-6353576",
-      "date": "Tue, 01 Sep 2026 10:09:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
-      "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 02:06:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Katseye&#039;s Sophia not joining group on Wildworld tour",
-      "link": "https://www.channelnewsasia.com/entertainment/katseye-sophia-not-joining-wildworld-tour-6353436",
-      "date": "Tue, 01 Sep 2026 10:02:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Key player Kushner regrets the way FIFA private investment proposal played out",
-      "link": "https://www.channelnewsasia.com/sport/key-player-kushner-regrets-way-fifa-private-investment-proposal-played-out-6353536",
-      "date": "Tue, 01 Sep 2026 09:43:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shein shares slide 10% in long-awaited Hong Kong trading debut",
-      "link": "https://www.channelnewsasia.com/business/shein-shares-hong-kong-trading-debut-6353146",
-      "date": "Tue, 01 Sep 2026 09:41:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New York police kill knife-wielding woman in Times Square",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 01:19:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "African NGOs demand probe into six bodies found in Guinea mass grave",
-      "link": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 01:17:59 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US army secretary resigns after months of tension",
-      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 01 Sep 2026 01:01:03 GMT"
     },
     {
       "src": "France 24",
@@ -122,74 +227,11 @@
       "date": "Tue, 01 Sep 2026 00:53:52 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
-      "link": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 00:15:22 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "EU suspends Brazilian meat imports over antibiotic compliance concerns",
-      "link": "https://www.france24.com/en/europe/20260901-eu-suspends-brazilian-meat-imports-over-antibiotic-compliance-concerns",
-      "date": "Tue, 01 Sep 2026 00:14:28 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-      "date": "Tue, 01 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Melting Himalayas? Nepal disaster exposes growing risk of glacial flooding",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260831-melting-himalayas-nepal-disaster-exposes-growing-risk-of-glacial-flooding",
-      "date": "Mon, 31 Aug 2026 23:35:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Glacial flood death toll surpasses 900 in Nepal and Tibet",
-      "link": "https://www.france24.com/en/asia-pacific/20260831-glacial-flood-death-toll-surpasses-900-in-nepal-and-tibet",
-      "date": "Mon, 31 Aug 2026 23:34:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
-      "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 23:23:00 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 22:38:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Three minors killed in Colombia armed group crackdown",
-      "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
-      "date": "Mon, 31 Aug 2026 22:30:23 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
-      "link": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
-      "date": "Mon, 31 Aug 2026 20:51:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump threatens to ‘hit Iran hard’ as strikes resume after month-long lull",
-      "link": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
-      "date": "Mon, 31 Aug 2026 20:36:16 GMT"
+      "text": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 31 Aug 2026 21:28:49 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -206,25 +248,11 @@
       "date": "Mon, 31 Aug 2026 20:01:18 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Festival honouring Dolly Parton set for Nashville and London",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 18:58:35 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Jared Kushner's brother breaks silence on World Cup sell-off plans",
       "link": "https://news.sky.com/story/joshua-kushner-would-be-fifa-investor-linked-to-trump-breaks-silence-on-world-cup-sell-off-plans-13579569",
       "date": "Mon, 31 Aug 2026 19:56:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 17:54:23 GMT"
     },
     {
       "src": "RFI",
@@ -234,25 +262,11 @@
       "date": "Mon, 31 Aug 2026 15:19:19 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 14:50:36 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Jordan Sees Bigger Threat From Israel Than Iran",
       "link": "https://foreignpolicy.com/2026/08/31/jordan-israel-iran-west-bank-annexation-refugees-gaza/",
       "date": "Mon, 31 Aug 2026 13:48:41 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 13:47:30 GMT"
     },
     {
       "src": "The Guardian",
@@ -269,13 +283,6 @@
       "date": "Mon, 31 Aug 2026 13:25:41 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Man arrested after Swiss rave shooting that killed woman",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 31 Aug 2026 13:11:35 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "China Is Trying to Make AI Work for Health Care",
@@ -288,27 +295,6 @@
       "text": "Italy and Spain extend tit-for-tat border controls after Ceuta migrant surge",
       "link": "https://news.sky.com/story/italy-and-spain-extend-tit-for-tat-border-controls-after-ceuta-migrant-surge-13579414",
       "date": "Mon, 31 Aug 2026 13:46:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Nepal flooding deaths surpass 900 as needs climb",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168233",
-      "date": "Mon, 31 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Slavery is not a thing of the past’: UN supports call for reparations",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168232",
-      "date": "Mon, 31 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168231",
-      "date": "Mon, 31 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -416,13 +402,6 @@
       "date": "Sun, 30 Aug 2026 15:08:33 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168228",
-      "date": "Sun, 30 Aug 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "'No' camp seen winning Iceland's EU referendum",
@@ -451,20 +430,6 @@
       "date": "Sat, 29 Aug 2026 15:54:58 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168206",
-      "date": "Sat, 29 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
-      "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
-      "date": "Sat, 29 Aug 2026 10:00:24 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Iceland’s EU Ambitions",
@@ -477,27 +442,6 @@
       "text": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
       "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
       "date": "Fri, 28 Aug 2026 14:46:25 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Four children killed as separate attacks in Gaza destroy aid supplies",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "As the Himalayas melt, deadly floods become the new normal",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168227",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Deadly gang attacks spike in Haiti",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168222",
-      "date": "Fri, 28 Aug 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
