@@ -1,7 +1,105 @@
 {
-  "updated": "2026-09-02T22:18:51.389Z",
+  "updated": "2026-09-03T00:23:18.555Z",
   "count": 72,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Minneapolis apartment shooting leaves one dead, six injured",
+      "link": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
+      "date": "Thu, 03 Sep 2026 00:01:52 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dolly Parton to get new Hollywood star after vandalism",
+      "link": "https://www.channelnewsasia.com/entertainment/dolly-parton-get-new-hollywood-star-after-vandalism-6359011",
+      "date": "Thu, 03 Sep 2026 07:59:19 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
+      "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
+      "date": "Wed, 02 Sep 2026 23:28:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung insurers plan to buy Canopius for $1.5 billion, Korea Economic Daily reports",
+      "link": "https://www.channelnewsasia.com/business/samsung-insurers-plan-buy-canopius-15-billion-korea-economic-daily-reports-6358986",
+      "date": "Thu, 03 Sep 2026 07:26:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Did DOGE ruin America’s food safety system?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/aje-onl-nf_did-doge-ruin-americas-food-safety-system-020926?traffic_source=rss",
+      "date": "Wed, 02 Sep 2026 23:25:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How Thai beauty brand Sudtana&#039;s founder took family herbal remedies to Asia&#039;s luxury hotels and resorts",
+      "link": "https://www.channelnewsasia.com/style-beauty/sudtana-thai-beauty-herbal-remedies-6323056",
+      "date": "Thu, 03 Sep 2026 07:19:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Uber and AI-firm Wayve launch London&#039;s first robotaxis",
+      "link": "https://www.channelnewsasia.com/business/uber-and-ai-firm-wayve-launch-londons-first-robotaxis-6358941",
+      "date": "Thu, 03 Sep 2026 07:02:11 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
+      "link": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine",
+      "date": "Wed, 02 Sep 2026 22:46:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports",
+      "link": "https://www.channelnewsasia.com/business/nscale-touts-103-billion-contracted-revenue-ahead-potential-ipo-information-reports-6358926",
+      "date": "Thu, 03 Sep 2026 06:40:43 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cameroon&#039;s Eto&#039;o says African federations should support Infantino",
+      "link": "https://www.channelnewsasia.com/sport/cameroons-etoo-says-african-federations-should-support-infantino-6358916",
+      "date": "Thu, 03 Sep 2026 06:31:30 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Olympus-backed Accelevation files for US IPO",
+      "link": "https://www.channelnewsasia.com/business/olympus-backed-accelevation-files-us-ipo-6358901",
+      "date": "Thu, 03 Sep 2026 06:22:35 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ukrainian Koval confirms she left NCAA women&#039;s program after signing of Russian player",
+      "link": "https://www.channelnewsasia.com/sport/ukrainian-koval-confirms-she-left-ncaa-womens-program-after-signing-russian-player-6358876",
+      "date": "Thu, 03 Sep 2026 06:17:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+      "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+      "date": "Wed, 02 Sep 2026 22:15:32 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -15,62 +113,6 @@
       "text": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
       "link": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
       "date": "Wed, 02 Sep 2026 22:11:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why this landscape designer never wants you to see a garden all at once",
-      "link": "https://www.channelnewsasia.com/people/tropical-garden-design-jirachai-rengthong-6353711",
-      "date": "Thu, 03 Sep 2026 06:09:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "F1 champion Norris co-founds single-seater junior team",
-      "link": "https://www.channelnewsasia.com/sport/f1-champion-norris-co-founds-single-seater-junior-team-6358856",
-      "date": "Thu, 03 Sep 2026 06:05:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Walking away from Air India could cost SIA more",
-      "link": "https://www.channelnewsasia.com/commentary/sia-air-india-losses-tata-exit-stay-airline-6357466",
-      "date": "Thu, 03 Sep 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CNA Explains: How Singapore could reclaim more land in the future",
-      "link": "https://www.channelnewsasia.com/singapore/land-reclamation-western-island-long-island-explainer-6356586",
-      "date": "Thu, 03 Sep 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Can Singapore protect teens on social media without a ban? Seeking answers across borders",
-      "link": "https://www.channelnewsasia.com/cna-insider/social-media-ban-protect-teenagers-age-singapore-australia-malaysia-6354736",
-      "date": "Thu, 03 Sep 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "More than ordinary shops: China strengthens a decades-old network for an age of disruption",
-      "link": "https://www.channelnewsasia.com/east-asia/china-rural-commerce-food-security-disruption-cooperative-6354186",
-      "date": "Thu, 03 Sep 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: The US-Venezuela oil deal looks like it is built on quicksand",
-      "link": "https://www.channelnewsasia.com/commentary/us-donald-trump-venezuela-oil-deal-built-quicksand-6357341",
-      "date": "Thu, 03 Sep 2026 05:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: The extremist risk behind smart glasses",
-      "link": "https://www.channelnewsasia.com/commentary/smart-glasses-extremist-risk-attack-propaganda-6357566",
-      "date": "Thu, 03 Sep 2026 05:58:00 +0800"
     },
     {
       "src": "France 24",
@@ -150,13 +192,6 @@
       "date": "Wed, 02 Sep 2026 21:15:12 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "date": "Wed, 02 Sep 2026 20:59:46 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "US-Iran war: Old videos falsely claim to show new attacks on American bases",
@@ -164,32 +199,11 @@
       "date": "Wed, 02 Sep 2026 20:57:27 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US oversees signing of ‘billions’ in deals between Venezuela and Chevron, ENI, GE",
-      "link": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
-      "date": "Wed, 02 Sep 2026 20:54:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The long-term implications of Pete Hegseth’s US military purges",
-      "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-      "date": "Wed, 02 Sep 2026 20:48:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nepal families hold symbolic funerals, thousands still missing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
-      "date": "Wed, 02 Sep 2026 20:30:24 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kenyan editor found safe after abduction",
-      "link": "https://www.france24.com/en/kenyan-editor-found-safe-after-abduction",
-      "date": "Wed, 02 Sep 2026 20:15:44 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Maltese businessman cleared over murder of journalist Daphne Caruana Galizia",
+      "link": "https://news.sky.com/story/maltese-businessman-cleared-over-murder-of-journalist-daphne-caruana-galizia-13580542",
+      "date": "Wed, 02 Sep 2026 21:43:00 +0100"
     },
     {
       "src": "BBC World",
@@ -197,13 +211,6 @@
       "text": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
       "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 02 Sep 2026 20:12:32 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "date": "Wed, 02 Sep 2026 20:12:14 +0000"
     },
     {
       "src": "RFI",
@@ -393,13 +400,6 @@
       "text": "Joshua Wong pleads guilty under Hong Kong's security law",
       "link": "https://news.sky.com/story/joshua-wong-pleads-guilty-under-hong-kongs-security-law-13580218",
       "date": "Wed, 02 Sep 2026 03:16:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Stop doing memes and throwing shade, Carney tells Trump",
-      "link": "https://news.sky.com/story/mark-carney-tells-trump-stop-doing-memes-and-throwing-shade-13580195",
-      "date": "Tue, 01 Sep 2026 23:37:00 +0100"
     },
     {
       "src": "Foreign Policy",
