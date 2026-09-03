@@ -1,76 +1,230 @@
 {
-  "updated": "2026-09-03T13:40:15.712Z",
+  "updated": "2026-09-03T17:20:56.549Z",
   "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Anthropic still flagged as risk to defense industrial base, US official says",
-      "link": "https://www.channelnewsasia.com/business/anthropic-still-flagged-risk-defense-industrial-base-us-official-says-6360751",
-      "date": "Thu, 03 Sep 2026 21:30:47 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli attacks in West Bank at 'unprecedented' level, PNI leader Barghouti says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says",
-      "date": "Thu, 03 Sep 2026 13:26:12 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kais Saied’s economic experiment has failed Tunisia",
-      "link": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 13:09:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Victims sue South African government over 1960 Sharpeville massacre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 13:07:13 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
-      "link": "https://www.france24.com/en/video/20260903-ceuta-crisis-no-evidence-morocco-behind-border-surge-1",
-      "date": "Thu, 03 Sep 2026 13:05:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 13:02:59 +0000"
+      "text": "Hikers describe intense rain and wind before floodwaters ravage Grand Canyon",
+      "link": "https://www.channelnewsasia.com/world/hikers-rain-wind-floodwaters-grand-canyon-6360891",
+      "date": "Fri, 04 Sep 2026 01:05:17 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "NFL-How NFL players are becoming game changers in the fashion industry",
-      "link": "https://www.channelnewsasia.com/sport/nfl-how-nfl-players-are-becoming-game-changers-in-fashion-industry-6360666",
-      "date": "Thu, 03 Sep 2026 21:02:46 +0800"
+      "text": "Brazil, ECB studying instant payments link in potential first cross-border move for Pix, sources say",
+      "link": "https://www.channelnewsasia.com/business/brazil-ecb-studying-instant-payments-link-in-potential-first-cross-border-move-pix-sources-say-6361176",
+      "date": "Fri, 04 Sep 2026 01:00:31 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Anti-Christian murder in Syria? No indication he was killed because of his faith",
+      "link": "https://www.france24.com/en/middle-east/20260903-anti-christian-murder-syria-no-indication-killed-faith",
+      "date": "Thu, 03 Sep 2026 17:00:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli bombing seen behind journalist reporting from Lebanese village",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/israeli-bombing-seen-behind-journalist-reporting-from-lebanese-village?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 16:56:55 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Abu Dhabi AI institute releases fully open-source models with training data, code",
-      "link": "https://www.channelnewsasia.com/business/abu-dhabi-ai-institute-releases-fully-open-source-models-training-data-code-6360661",
-      "date": "Thu, 03 Sep 2026 21:02:10 +0800"
+      "text": "Lawson says biggest challenge pre-Monza was working with two teams at once",
+      "link": "https://www.channelnewsasia.com/sport/lawson-says-biggest-challenge-pre-monza-was-working-two-teams-once-6361151",
+      "date": "Fri, 04 Sep 2026 00:47:02 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+      "link": "https://www.channelnewsasia.com/world/us-pressure-iran-sanctions-blockade-6360946",
+      "date": "Fri, 04 Sep 2026 00:47:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
+      "link": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 16:45:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Real Madrid’s Raul Asencio acquitted in sex-tape sharing case",
+      "link": "https://www.aljazeera.com/sports/2026/9/3/real-madrids-raul-asencio-acquitted-in-sex-tape-sharing-case?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 16:34:21 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
+      "link": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
+      "date": "Thu, 03 Sep 2026 16:17:29 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houthi fighters clash with Yemeni government forces in country’s southwest",
+      "link": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 16:13:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "WMO chief says El Nino could be strongest in four decades",
+      "link": "https://www.france24.com/en/video/20260903-wmo-chief-says-el-nino-could-be-strongest-in-four-decades",
+      "date": "Thu, 03 Sep 2026 16:11:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army",
+      "link": "https://www.france24.com/en/video/20260903-two-palestinian-teens-killed-in-west-bank-raid-by-israeli-settlers-and-army",
+      "date": "Thu, 03 Sep 2026 16:09:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mas extends Vuelta lead, Omrzel wins stage 12",
+      "link": "https://www.channelnewsasia.com/sport/mas-extends-vuelta-lead-omrzel-wins-stage-12-6361101",
+      "date": "Fri, 04 Sep 2026 00:09:26 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US energy firms dominate Venezuela deals worth billions",
+      "link": "https://www.france24.com/en/video/20260903-us-energy-firms-dominate-venezuela-deals-worth-billions",
+      "date": "Thu, 03 Sep 2026 16:06:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France agriculture production sees economic hit from heatwaves",
+      "link": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
+      "date": "Thu, 03 Sep 2026 16:05:41 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Antonelli says grid penalty takes pressure off and he can enjoy home race",
+      "link": "https://www.channelnewsasia.com/sport/antonelli-says-grid-penalty-takes-pressure-and-he-can-enjoy-home-race-6361091",
+      "date": "Fri, 04 Sep 2026 00:04:39 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Culture or Kremlin influence? Europe divided over its Russian Houses",
+      "link": "https://www.rfi.fr/en/international/20260903-culture-or-kremlin-influence-europe-divided-over-its-russian-houses",
+      "date": "Thu, 03 Sep 2026 16:01:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Automakers urge Congress to quickly pass law banning Chinese cars",
+      "link": "https://www.channelnewsasia.com/business/automakers-urge-congress-quickly-pass-law-banning-chinese-cars-6361071",
+      "date": "Fri, 04 Sep 2026 00:01:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadpool-Wolverine derby in the offing as Hugh Jackman targets Norwich City",
+      "link": "https://www.aljazeera.com/sports/2026/9/3/deadpool-wolverine-derby-in-the-offing-as-hugh-jackman-targets-norwich-city?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 15:59:44 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "20 million children a year face online sexual abuse, UNICEF says",
+      "link": "https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 15:51:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Billionaire Leon Black sues US congressional panel over Epstein subpoena",
+      "link": "https://www.aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 15:48:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US feminist icon and journalist Gloria Steinem dies aged 92",
+      "link": "https://www.france24.com/en/video/20260903-us-feminist-icon-and-journalist-gloria-steinem-dies-aged-92",
+      "date": "Thu, 03 Sep 2026 15:39:33 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How much oil is going through Hormuz? Why data doesn’t match US claims",
+      "link": "https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss",
+      "date": "Thu, 03 Sep 2026 15:38:19 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 03 Sep 2026 15:35:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
+      "link": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
+      "date": "Thu, 03 Sep 2026 15:34:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Giorgia Meloni government becomes Italy's longest-lasting since World War II",
+      "link": "https://www.france24.com/en/video/20260903-giorgia-meloni-government-becomes-italy-s-longest-lasting-since-world-war-ii",
+      "date": "Thu, 03 Sep 2026 15:29:48 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Real Madrid&#039;s Asencio acquitted in sex-video sharing case",
+      "link": "https://www.channelnewsasia.com/sport/real-madrids-asencio-acquitted-in-sex-video-sharing-case-6360971",
+      "date": "Thu, 03 Sep 2026 23:08:32 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 03 Sep 2026 15:05:57 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China Isn’t Scared of Trump’s Squeeze on Iran",
+      "link": "https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/",
+      "date": "Thu, 03 Sep 2026 14:58:17 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Turkey’s Kurdish Peace Process Is Not About Erdogan",
+      "link": "https://foreignpolicy.com/2026/09/03/turkey-erdogan-israel-ocalan-kurds-peace-israel-iran-syria/",
+      "date": "Thu, 03 Sep 2026 14:53:40 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 03 Sep 2026 13:54:49 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 03 Sep 2026 12:57:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?",
-      "link": "https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 12:52:54 +0000"
+      "date": "Thu, 03 Sep 2026 13:52:18 GMT"
     },
     {
       "src": "The Guardian",
@@ -78,48 +232,6 @@
       "text": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
       "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
       "date": "Thu, 03 Sep 2026 12:52:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France recorded 'hottest summer ever' in 2026, environment minister says",
-      "link": "https://www.france24.com/en/france/20260903-france-recorded-hottest-summer-ever-in-2026-environment-minister-says",
-      "date": "Thu, 03 Sep 2026 12:47:11 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UEFA opens disciplinary case against Fenerbahce’s Guendouzi and Greenwood",
-      "link": "https://www.aljazeera.com/sports/2026/9/3/uefa-opens-disciplinary-case-against-fenerbahces-guendouzi-and-greenwood?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 12:38:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why has the Netherlands moved $10bn of its gold from the US?",
-      "link": "https://www.aljazeera.com/news/2026/9/3/why-has-the-netherlands-moved-10bn-of-its-gold-from-the-us?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 12:25:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Feminist icon Gloria Steinem dies aged 92",
-      "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 12:13:54 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
-      "link": "https://www.channelnewsasia.com/business/nvidia-buy-hugging-face-13-billion-in-big-bet-open-ai-models-6360541",
-      "date": "Thu, 03 Sep 2026 20:11:52 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UEFA opens disciplinary case against Guendouzi and Greenwood, Fenerbahce say",
-      "link": "https://www.channelnewsasia.com/sport/uefa-opens-disciplinary-case-against-guendouzi-and-greenwood-fenerbahce-say-6360546",
-      "date": "Thu, 03 Sep 2026 20:10:27 +0800"
     },
     {
       "src": "The Guardian",
@@ -131,7 +243,14 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
-      "text": "External involvement fuelling Sudan war, new report finds",
+      "text": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Outside forces fuel Sudan war, new report finds",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168270",
       "date": "Thu, 03 Sep 2026 12:00:00 +0000"
     },
@@ -157,20 +276,6 @@
       "date": "Thu, 03 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain's Sanchez says no 'solid proof' that Morocco planned Ceuta crisis",
-      "link": "https://www.france24.com/en/video/20260903-spain-s-sanchez-says-no-solid-proof-that-morocco-planned-ceuta-crisis",
-      "date": "Thu, 03 Sep 2026 11:58:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Families perform symbolic funerals for missing Nepal flood victims",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
-      "date": "Thu, 03 Sep 2026 11:58:26 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "British, French leaders hold talks on migrants and EU relations",
@@ -178,32 +283,11 @@
       "date": "Thu, 03 Sep 2026 11:46:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "American hurdler Russell senses more to come after world record",
-      "link": "https://www.channelnewsasia.com/sport/american-hurdler-russell-senses-more-come-after-world-record-6360481",
-      "date": "Thu, 03 Sep 2026 19:42:40 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
       "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 03 Sep 2026 11:35:52 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK&#039;s VodafoneThree launches TV and guaranteed-speed mobile offer",
-      "link": "https://www.channelnewsasia.com/business/uks-vodafonethree-launches-tv-and-guaranteed-speed-mobile-offer-6360471",
-      "date": "Thu, 03 Sep 2026 19:31:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Autonomous trucking software firm PlusAI to go public in $800 million SPAC deal",
-      "link": "https://www.channelnewsasia.com/business/autonomous-trucking-software-firm-plusai-go-public-in-800-million-spac-deal-6360441",
-      "date": "Thu, 03 Sep 2026 19:27:59 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -215,37 +299,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "About 80 confirmed dead after migrant boat gets into difficulty off Gran Canaria",
+      "text": "About 80 dead in migrant boat tragedy",
       "link": "https://news.sky.com/story/about-80-confirmed-dead-after-migrant-boat-gets-into-difficulty-off-gran-canaria-13580794",
       "date": "Thu, 03 Sep 2026 12:01:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senegalese consumers rally online against rising cost of living",
-      "link": "https://www.france24.com/en/video/20260903-senegalese-consumers-rally-online-against-rising-cost-of-living",
-      "date": "Thu, 03 Sep 2026 10:53:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nepal: How are the hundreds of victims from the floods being identified?",
-      "link": "https://www.france24.com/en/video/20260903-nepal-how-are-the-hundreds-of-victims-from-the-floods-being-identified",
-      "date": "Thu, 03 Sep 2026 10:52:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Premier League sets new transfer market record",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260903-premier-league-sets-new-transfer-market-record",
-      "date": "Thu, 03 Sep 2026 10:51:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "DRC Ebola outbreak shows no signs of slowing as deaths top 3,000",
-      "link": "https://www.france24.com/en/video/20260903-drc-ebola-outbreak-shows-no-signs-of-slowing-as-deaths-top-3-000",
-      "date": "Thu, 03 Sep 2026 10:45:36 GMT"
     },
     {
       "src": "BBC World",
@@ -262,13 +318,6 @@
       "date": "Thu, 03 Sep 2026 10:36:14 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 03 Sep 2026 10:25:43 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France asserts sovereignty over disputed Pacific islands as Vanuatu turns to ICJ",
@@ -278,16 +327,9 @@
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Victims sue South African government over 1961 Sharpeville massacre that left 91 dead",
+      "text": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
       "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
       "date": "Thu, 03 Sep 2026 10:11:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US man struck by lightning describes 'horrific' experience",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 03 Sep 2026 10:01:33 GMT"
     },
     {
       "src": "The Guardian",
@@ -302,13 +344,6 @@
       "text": "Ukraine’s Mood Swing",
       "link": "https://foreignpolicy.com/2026/09/03/ukraine-war-zelensky-corrupton-scandal-cabinet-election/",
       "date": "Thu, 03 Sep 2026 10:00:08 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 03 Sep 2026 09:53:58 GMT"
     },
     {
       "src": "Sky News",
@@ -358,13 +393,6 @@
       "text": "Nepal’s Disaster Demands a Regional Response",
       "link": "https://foreignpolicy.com/2026/09/02/nepal-floods-disaster-regional-cooperation-climate/",
       "date": "Wed, 02 Sep 2026 21:39:59 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-      "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "date": "Wed, 02 Sep 2026 21:15:12 GMT"
     },
     {
       "src": "Sky News",
@@ -451,25 +479,11 @@
       "date": "Wed, 02 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: Air attack destroys food aid for families in South Kordofan",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168251",
-      "date": "Wed, 02 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
       "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
       "date": "Wed, 02 Sep 2026 09:20:55 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Macron opens Bayeux Tapestry exhibition before first Burnham talks",
-      "link": "https://www.rfi.fr/en/international/20260902-macron-opens-bayeux-tapestry-exhibition-before-first-burnham-talks",
-      "date": "Wed, 02 Sep 2026 07:20:38 GMT"
     },
     {
       "src": "The Guardian",
@@ -484,20 +498,6 @@
       "text": "Rivals Circle an Out-of-Touch Prabowo",
       "link": "https://foreignpolicy.com/2026/09/02/prabowo-grib-jaya-jakarta-protest/",
       "date": "Wed, 02 Sep 2026 05:00:28 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Is BRICS Losing Its Mojo?",
-      "link": "https://foreignpolicy.com/2026/09/02/brics-new-delhi-summit-india/",
-      "date": "Wed, 02 Sep 2026 04:01:37 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Nepal’s Deadly Floods Put China and India on Edge",
-      "link": "https://foreignpolicy.com/2026/09/01/nepal-tibet-floods-china-india-disaster-response-border-dispute/",
-      "date": "Tue, 01 Sep 2026 22:17:34 +0000"
     },
     {
       "src": "The Guardian",
