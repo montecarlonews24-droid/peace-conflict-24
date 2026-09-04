@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-04T21:54:16.642Z",
-  "count": 64,
+  "updated": "2026-09-04T23:29:33.483Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 04 Sep 2026 23:07:23 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haze in Singapore: Air quality at unhealthy range in two regions",
+      "link": "https://www.channelnewsasia.com/singapore/haze-singapore-unhealthy-three-regions-6362856",
+      "date": "Sat, 05 Sep 2026 06:54:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mock Republican convention website redirects users to Epstein Files",
+      "link": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+      "date": "Fri, 04 Sep 2026 22:51:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 04 Sep 2026 22:48:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Anthropic IPO launch shifts toward mid-October, sources say",
+      "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-launch-shifts-toward-mid-october-sources-say-6364056",
+      "date": "Sat, 05 Sep 2026 06:42:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Inside Singapore’s secret intelligence agency: Three former SID leaders on threats, sacrifice and service",
+      "link": "https://www.channelnewsasia.com/singapore/security-intelligence-division-secret-agency-sid-mindef-6362946",
+      "date": "Sat, 05 Sep 2026 06:21:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US Justice Department pauses cooperation with Canadian government, WSJ reports",
+      "link": "https://www.channelnewsasia.com/world/us-justice-department-pauses-cooperation-canadian-government-6364001",
+      "date": "Sat, 05 Sep 2026 06:00:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Chevron just exposed the gap between Venezuela rhetoric and reality",
+      "link": "https://www.channelnewsasia.com/commentary/chevron-oil-deal-venezuela-us-trump-6362696",
+      "date": "Sat, 05 Sep 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Can China’s chip ambitions reshape the global tech landscape?",
+      "link": "https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E",
+      "date": "Sat, 05 Sep 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+      "link": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "date": "Fri, 04 Sep 2026 21:58:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Andre Fu reflects on 25 years of design and his enduring Singapore connection",
+      "link": "https://www.channelnewsasia.com/people/andre-fu-hotel-design-singapore-hong-kong-6357066",
+      "date": "Sat, 05 Sep 2026 05:52:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Costa Rican president signals openness to domestic US military operations",
+      "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+      "date": "Fri, 04 Sep 2026 21:45:56 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -10,18 +94,25 @@
       "date": "Sat, 05 Sep 2026 05:39:57 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mbappe denied at the death as Betis beat Real Madrid",
-      "link": "https://www.channelnewsasia.com/sport/mbappe-denied-death-betis-beat-real-madrid-6363976",
-      "date": "Sat, 05 Sep 2026 05:36:00 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+      "link": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+      "date": "Fri, 04 Sep 2026 21:37:56 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Navarro stuns seventh seed Muchova to reach US Open fourth round",
-      "link": "https://www.channelnewsasia.com/sport/navarro-stuns-seventh-seed-muchova-reach-us-open-fourth-round-6363966",
-      "date": "Sat, 05 Sep 2026 05:23:54 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Three hurricanes in Pacific show the power of El Nino",
+      "link": "https://news.sky.com/story/three-hurricanes-in-pacific-show-the-power-of-el-nino-13581570",
+      "date": "Fri, 04 Sep 2026 22:29:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US regulator opens safety investigation as Tesla launches driverless taxis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
+      "date": "Fri, 04 Sep 2026 21:27:26 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -31,25 +122,11 @@
       "date": "Fri, 04 Sep 2026 21:19:05 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Monaco rally to edge winless PSG as Lyon beat Auxerre in Ligue 1",
-      "link": "https://www.channelnewsasia.com/sport/monaco-rally-edge-winless-psg-lyon-beat-auxerre-in-ligue-1-6363951",
-      "date": "Sat, 05 Sep 2026 05:15:25 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
       "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
       "date": "Fri, 04 Sep 2026 21:05:03 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Early Isak double leads Liverpool to victory at Ipswich",
-      "link": "https://www.channelnewsasia.com/sport/early-isak-double-leads-liverpool-victory-ipswich-6363941",
-      "date": "Sat, 05 Sep 2026 05:02:08 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -66,74 +143,11 @@
       "date": "Fri, 04 Sep 2026 20:53:25 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nigel Farage heckled as he denies Reform UK took illegal funding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
-      "date": "Fri, 04 Sep 2026 20:53:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will Europe pay the US to provide military aid to Ukraine?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
-      "date": "Fri, 04 Sep 2026 20:52:55 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/video/could-the-uk-defend-the-falkland-islands-today-miluitary-analysis-with-sean-bell-13581344'>Could Argentina take the Falklands? And how prepared is the UK to defend them again?</a>",
-      "link": "https://news.sky.com/story/could-the-uk-defend-the-falkland-islands-today-military-analysis-with-sean-bell-13581542",
-      "date": "Fri, 04 Sep 2026 21:44:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israeli strikes on Lebanon kills at least three: state media",
-      "link": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-two-6362756",
-      "date": "Sat, 05 Sep 2026 04:41:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Uber withdraws from Nigeria",
       "link": "https://www.france24.com/en/uber-withdraws-from-nigeria",
       "date": "Fri, 04 Sep 2026 20:39:08 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Van de Donk seals London City win over Man United in WSL curtain-raiser",
-      "link": "https://www.channelnewsasia.com/sport/van-de-donk-seals-london-city-win-over-man-united-in-wsl-curtain-raiser-6363921",
-      "date": "Sat, 05 Sep 2026 04:36:47 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
-      "date": "Fri, 04 Sep 2026 20:28:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Watchdog report alleges misconduct by Trump’s former labour secretary",
-      "link": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
-      "date": "Fri, 04 Sep 2026 20:27:11 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russia hits Ukraine&#039;s security service headquarters in Kyiv, Zelenskyy says",
-      "link": "https://www.channelnewsasia.com/world/russia-hits-ukraines-security-service-kyiv-6363281",
-      "date": "Sat, 05 Sep 2026 04:22:55 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
-      "date": "Fri, 04 Sep 2026 20:22:42 +0000"
     },
     {
       "src": "The Guardian",
@@ -155,13 +169,6 @@
       "text": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
       "date": "Fri, 04 Sep 2026 19:52:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "UN votes to adopt new world map to reflect Africa's true size",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 04 Sep 2026 19:44:40 GMT"
     },
     {
       "src": "Sky News",
@@ -325,6 +332,34 @@
       "date": "Fri, 04 Sep 2026 13:50:43 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN tells the world: Stop making Africa look small",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN aims to raise nearly $50 million for Nepal flood response",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -360,13 +395,6 @@
       "date": "Fri, 04 Sep 2026 08:36:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 04 Sep 2026 04:06:41 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trump avoids backing UK over Falklands, saying Britain 'not there to help' in Iran",
@@ -386,6 +414,34 @@
       "text": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
       "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
       "date": "Thu, 03 Sep 2026 12:52:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gloria Steinem: A voice for women, to the very end",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168272",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
