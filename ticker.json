@@ -1,25 +1,144 @@
 {
-  "updated": "2026-09-05T05:54:48.012Z",
-  "count": 64,
+  "updated": "2026-09-05T09:33:24.938Z",
+  "count": 72,
   "items": [
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US imposes sanctions on Turkish bank, prompting legal threat",
-      "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 05:19:05 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Families of missing Ecuadorian fishermen allege US involvement",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 05:08:15 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nepal: Temporary education centres help flood-displaced children",
+      "link": "https://www.france24.com/en/video/20260905-nepal-temporary-education-centres-help-flood-displaced-children",
+      "date": "Sat, 05 Sep 2026 09:20:03 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Middle East live: Israeli strikes on south and east Lebanon kill three people",
+      "text": "Monaco rally to edge winless PSG and reclaim top spot",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260905-monaco-rally-to-edge-winless-psg-and-reclaim-top-spot",
+      "date": "Sat, 05 Sep 2026 09:16:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump sends envoys to Moscow, Kyiv with new plan to 'end war'",
+      "link": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
+      "date": "Sat, 05 Sep 2026 09:15:34 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump signs order to remove endangered species protection for grey wolves",
+      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 05 Sep 2026 09:12:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
+      "link": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 09:11:58 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Police looking into &#039;shameful&#039; racist online comments about Nepal-Tibet disaster, Air India: SM Shanmugam",
+      "link": "https://www.channelnewsasia.com/singapore/racist-comments-nepal-air-india-shanmugam-police-6364346",
+      "date": "Sat, 05 Sep 2026 17:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/orangutan-mother-and-infant-rescued-from-wildfire-hit-forest-in-indonesia?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 08:44:40 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 05 Sep 2026 08:41:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
+      "link": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 08:40:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
+      "link": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 08:37:34 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+      "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 08:14:46 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
+      "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 08:07:08 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Worried’ and ‘confused’: Sarawakians grapple with worst haze since 2019",
+      "link": "https://www.channelnewsasia.com/asia/sarawak-haze-kuching-serian-businesses-state-emergency-forest-fires-6364401",
+      "date": "Sat, 05 Sep 2026 16:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Niger accuses France of orchestrating failed military mutiny",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 07:42:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
+      "link": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
+      "date": "Sat, 05 Sep 2026 07:15:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nepal tunnel rescue revives hopes 10 days after flood",
+      "link": "https://www.channelnewsasia.com/asia/nepal-survivor-chinese-national-flood-underground-hydropower-projects-6364381",
+      "date": "Sat, 05 Sep 2026 14:36:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Two senior Reform UK officials resign as Farage faces fresh foreign donations scandal",
+      "link": "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal",
+      "date": "Sat, 05 Sep 2026 06:30:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Philippine VP Duterte posts bail over &#039;grave threats&#039; against Marcos",
+      "link": "https://www.channelnewsasia.com/asia/philippine-sara-duterte-bail-over-ferdinand-marcos-6364366",
+      "date": "Sat, 05 Sep 2026 13:56:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+      "link": "https://www.channelnewsasia.com/business/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-6364376",
+      "date": "Sat, 05 Sep 2026 13:55:42 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Explosions of unknown origin heard near Iran's Kharg Island",
       "link": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
       "date": "Sat, 05 Sep 2026 05:01:24 GMT"
     },
@@ -31,25 +150,11 @@
       "date": "Sat, 05 Sep 2026 12:32:53 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire",
-      "link": "https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 04:29:33 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 05 Sep 2026 04:28:21 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN approves new map showing Africa’s true size",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 04:13:25 +0000"
     },
     {
       "src": "CNA",
@@ -59,13 +164,6 @@
       "date": "Sat, 05 Sep 2026 12:06:14 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Blasts at Bolivian military base kill at least 10, injure dozens",
-      "link": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 03:56:16 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "US midterms begin with chaos over mail-voting crackdown",
@@ -73,79 +171,16 @@
       "date": "Sat, 05 Sep 2026 11:52:13 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-      "link": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 03:48:17 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Did Israel’s destruction of Gaza worsen its water crisis?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 03:46:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "White House reviews candidates to replace Hegseth deputy Feinberg, sources say",
-      "link": "https://www.channelnewsasia.com/world/white-house-reviews-candidates-replace-hegseth-deputy-feinberg-sources-6364151",
-      "date": "Sat, 05 Sep 2026 11:26:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump sends envoys to Russia, Ukraine with new peace plan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-      "date": "Sat, 05 Sep 2026 03:25:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-      "link": "https://www.channelnewsasia.com/business/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-6364191",
-      "date": "Sat, 05 Sep 2026 11:00:10 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 05 Sep 2026 02:59:40 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US embassy issues health alert for Cuba amid oil blockade, sanctions",
-      "link": "https://www.channelnewsasia.com/world/us-embassy-health-alert-cuba-6364161",
-      "date": "Sat, 05 Sep 2026 10:44:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bangladesh measles toll nears grim 1,000-child mark",
-      "link": "https://www.channelnewsasia.com/asia/bangladesh-measles-toll-nears-grim-1000-child-mark-6364166",
-      "date": "Sat, 05 Sep 2026 10:38:36 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+      "text": "Trump sends envoys to Moscow and Kyiv with new plan to 'end the war'",
       "link": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
       "date": "Sat, 05 Sep 2026 02:37:17 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Explosion at Bolivia military base kills at least 10, dozens injured",
-      "link": "https://www.channelnewsasia.com/world/bolivia-military-base-explosion-deaths-injuries-6364116",
-      "date": "Sat, 05 Sep 2026 10:28:06 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Explosion kills at least 10 at military base in Bolivia",
+      "text": "Explosion kills at least two at military base in Bolivia with 14 missing",
       "link": "https://news.sky.com/story/explosion-kills-at-least-10-at-bolivian-military-base-13581596",
       "date": "Sat, 05 Sep 2026 03:21:00 +0100"
     },
@@ -227,27 +262,6 @@
       "date": "Fri, 04 Sep 2026 18:40:12 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "German power grid sabotage attack linked to ‘climate extremism’",
-      "link": "https://www.france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism",
-      "date": "Fri, 04 Sep 2026 18:40:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UN ditches Mercator map to adopt more accurate one reflecting Africa's true size",
-      "link": "https://www.france24.com/en/earth/20260904-un-ditches-mercator-map-to-adopt-more-accurate-one-reflecting-africa-s-true-size",
-      "date": "Fri, 04 Sep 2026 18:31:21 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
-      "date": "Fri, 04 Sep 2026 18:31:15 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Novel Imagining Life After a Second Civil War",
@@ -283,25 +297,11 @@
       "date": "Fri, 04 Sep 2026 16:49:15 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-      "link": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-      "date": "Fri, 04 Sep 2026 16:26:55 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "How China’s Paracel expansion extends its military reach towards Vietnam",
       "link": "https://www.rfi.fr/en/international/20260904-how-china-s-paracel-expansion-extends-its-military-reach-towards-vietnam-paracel-islands",
       "date": "Fri, 04 Sep 2026 16:07:09 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 04 Sep 2026 16:02:32 GMT"
     },
     {
       "src": "RFI",
@@ -325,25 +325,46 @@
       "date": "Fri, 04 Sep 2026 15:39:27 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 04 Sep 2026 14:40:00 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Trump says US envoys bringing 'proposal to end war' to Russia and Ukraine",
-      "link": "https://news.sky.com/story/russian-drone-strikes-ukraines-security-service-headquarters-in-kyiv-zelenskyysays-13581351",
-      "date": "Fri, 04 Sep 2026 15:11:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
       "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
       "date": "Fri, 04 Sep 2026 13:50:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 04 Sep 2026 12:30:56 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN tells the world: Stop making Africa look small",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN aims to raise nearly $50 million for Nepal flood response",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -395,11 +416,46 @@
       "date": "Thu, 03 Sep 2026 12:52:08 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gloria Steinem: A voice for women, to the very end",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168272",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "British, French leaders hold talks on migrants and EU relations",
       "link": "https://www.rfi.fr/en/international/20260903-british-french-leaders-hold-talks-on-migrants-eu-relations",
       "date": "Thu, 03 Sep 2026 11:46:25 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "About 80 dead in migrant boat tragedy",
+      "link": "https://news.sky.com/story/about-80-confirmed-dead-after-migrant-boat-gets-into-difficulty-off-gran-canaria-13580794",
+      "date": "Thu, 03 Sep 2026 12:01:00 +0100"
     },
     {
       "src": "RFI",
