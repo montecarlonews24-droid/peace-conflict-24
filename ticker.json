@@ -1,20 +1,195 @@
 {
-  "updated": "2026-09-06T09:00:06.061Z",
-  "count": 63,
+  "updated": "2026-09-06T12:39:56.431Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "FIFA confirms Infantino to stand for re-election as president",
+      "link": "https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281",
+      "date": "Sun, 06 Sep 2026 13:01:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Germany's far-right AfD clear frontrunner in eastern state vote",
+      "link": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote-1",
+      "date": "Sun, 06 Sep 2026 11:54:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethan Hawke receives the Deauville Talent Award",
+      "link": "https://www.france24.com/en/video/20260906-ethan-hawke-receives-the-deauville-talent-award",
+      "date": "Sun, 06 Sep 2026 11:49:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US Army Secretary Dan Driscoll quits: \"What we've seen is almost a factional clash\"",
+      "link": "https://www.france24.com/en/video/20260906-us-army-secretary-dan-driscoll-quits-what-we-ve-seen-is-almost-a-factional-clash",
+      "date": "Sun, 06 Sep 2026 11:34:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jovic moved to tears after beating ‘incredible’ friend Eala in US Open epic",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/jovic-moved-to-tears-after-beating-incredible-friend-eala-in-us-open-epic?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 11:28:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore air quality remains in moderate range",
+      "link": "https://www.channelnewsasia.com/singapore/haze-air-quality-sep-6-moderate-range-psi-6365571",
+      "date": "Sun, 06 Sep 2026 19:26:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 06 Sep 2026 11:19:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can you guess the real size of each country on the new world map?",
+      "link": "https://www.aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 11:15:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 11:13:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 10:49:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+      "link": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 10:42:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tibet death toll from Himalayas flood now 43 with 519 missing: Chinese media",
+      "link": "https://www.channelnewsasia.com/east-asia/tibet-death-toll-himalayas-flood-now-43-519-missing-chinese-media-6365566",
+      "date": "Sun, 06 Sep 2026 18:31:34 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Turkey seeks Black Sea shipping deal as attacks threaten grain trade",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260906-turkey-seeks-black-sea-shipping-deal-as-attacks-threaten-grain-trade",
+      "date": "Sun, 06 Sep 2026 10:30:19 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Four killed in Israeli strikes on southern Lebanon",
+      "link": "https://news.sky.com/story/four-killed-in-israeli-strikes-on-southern-lebanon-13582240",
+      "date": "Sun, 06 Sep 2026 11:19:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Trump's envoys Witkoff and Kushner arrive in Kyiv after 'substantive' talks with Putin",
+      "link": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
+      "date": "Sun, 06 Sep 2026 10:18:24 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Travel chaos hits Changi and Jakarta airports as volcanic ash grounds flights between the two hubs",
+      "link": "https://www.channelnewsasia.com/singapore/travel-chaos-changi-airport-soekarno-hatta-volcano-6365516",
+      "date": "Sun, 06 Sep 2026 17:59:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 06 Sep 2026 09:56:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "LIVE: Everton vs Manchester United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 09:47:31 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US aircraft carrier departs Thailand after port call",
+      "link": "https://www.channelnewsasia.com/asia/us-thailand-navy-port-call-aircraft-carrier-depart-6365541",
+      "date": "Sun, 06 Sep 2026 17:41:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli flags become the latest weapon of settlers in West Bank domination",
+      "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 09:40:06 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Anak Krakatau: Volcano eruption disrupts hundreds of flights",
+      "link": "https://news.sky.com/story/anak-krakatau-volcano-eruption-disrupts-hundreds-of-flights-13582234",
+      "date": "Sun, 06 Sep 2026 10:32:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli air attacks on Lebanon kill at least four",
+      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 09:15:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore must never allow prejudice against any community to become accepted or normalised: PM Wong",
+      "link": "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-racist-comments-shanmugam-nepal-tibet-sia-6365481",
+      "date": "Sun, 06 Sep 2026 17:14:37 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+      "link": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+      "date": "Sun, 06 Sep 2026 09:04:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nepal floods: Search operations enter 12th day",
+      "link": "https://www.france24.com/en/video/20260906-nepal-floods-search-operations-enter-12th-day",
+      "date": "Sun, 06 Sep 2026 09:03:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Germany's far-right AfD clear frontrunner in eastern state vote",
+      "link": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+      "date": "Sun, 06 Sep 2026 08:59:26 GMT"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
       "link": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
       "date": "Sun, 06 Sep 2026 08:49:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel bombards several towns in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 08:44:03 +0000"
     },
     {
       "src": "RFI",
@@ -31,39 +206,11 @@
       "date": "Sun, 06 Sep 2026 08:05:22 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 07:59:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How do you arrest 50,000 people quietly?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 07:45:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 07:37:00 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "SCDF NSF dies after incident at Marina Bay Fire Station",
       "link": "https://www.channelnewsasia.com/singapore/scdf-muhammad-nur-ilham-mohammed-iswadi-death-full-time-ns-man-6365471",
       "date": "Sun, 06 Sep 2026 15:28:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-      "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 07:20:37 +0000"
     },
     {
       "src": "CNA",
@@ -73,46 +220,11 @@
       "date": "Sun, 06 Sep 2026 15:17:32 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 07:10:33 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 06 Sep 2026 07:06:50 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 06:52:23 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin",
-      "link": "https://www.france24.com/en/a-bad-sign-us-envoys-head-to-kyiv-after-three-hour-talks-with-putin",
-      "date": "Sun, 06 Sep 2026 06:18:30 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
       "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
       "date": "Sun, 06 Sep 2026 06:00:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Germany's far-right AfD eyes historic state victory in Saxony-Anhalt election",
-      "link": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
-      "date": "Sun, 06 Sep 2026 05:52:06 GMT"
     },
     {
       "src": "Sky News",
@@ -129,67 +241,11 @@
       "date": "Sun, 06 Sep 2026 13:21:51 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "‘A lot more difficult’: On the ground with Singapore police working to identify Nepal’s flood dead",
-      "link": "https://www.channelnewsasia.com/asia/singapore-missing-persons-nepal-tibet-floods-6365286",
-      "date": "Sun, 06 Sep 2026 13:20:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Flames burst from Qantas plane engine after New Zealand takeoff",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 05:02:23 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Trump's envoys head to Ukraine after 'substantive' talks with Putin",
-      "link": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
-      "date": "Sun, 06 Sep 2026 04:57:43 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Messi sets up Miami goal in first game since Argentina retirement",
-      "link": "https://www.channelnewsasia.com/sport/messi-sets-up-miami-goal-in-first-game-argentina-retirement-6365356",
-      "date": "Sun, 06 Sep 2026 11:43:40 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Jovic puts friendship with Eala on hold to win three-hour battle at US Open",
-      "link": "https://www.channelnewsasia.com/sport/jovic-puts-friendship-eala-hold-win-three-hour-battle-us-open-6365336",
-      "date": "Sun, 06 Sep 2026 10:56:45 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US envoys set for Ukraine talks after meeting Putin in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 06 Sep 2026 02:24:16 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From boardroom chic to battling win, Osaka reaches US Open last 16",
-      "link": "https://www.channelnewsasia.com/sport/boardroom-chic-battling-win-osaka-reaches-us-open-last-16-6365296",
-      "date": "Sun, 06 Sep 2026 10:05:55 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
       "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 06 Sep 2026 01:54:29 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Jakarta airport suspends flights due to Mount Anak Krakatau ash; SIA among affected airlines",
-      "link": "https://www.channelnewsasia.com/asia/jakarta-airport-suspends-flights-due-mount-anak-krakatau-ash-sia-among-affected-airlines-6365251",
-      "date": "Sun, 06 Sep 2026 08:55:00 +0800"
     },
     {
       "src": "Sky News",
@@ -229,23 +285,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Prince William to represent Charles at funeral of Norway's King Harald",
-      "link": "https://news.sky.com/story/prince-william-to-represent-charles-at-funeral-of-king-harald-of-norway-13581691",
-      "date": "Sat, 05 Sep 2026 22:00:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Two pilots die in Greek military jet crash",
       "link": "https://news.sky.com/story/two-pilots-die-in-greek-military-jet-crash-13582090",
       "date": "Sat, 05 Sep 2026 20:01:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Witkoff: Putin’s Messenger?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260905-witkoff-putin-s-messenger",
-      "date": "Sat, 05 Sep 2026 18:02:24 GMT"
     },
     {
       "src": "The Guardian",
@@ -253,27 +295,6 @@
       "text": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
       "date": "Sat, 05 Sep 2026 18:00:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The closely-watched Lindsay Clancy trial ends with one last dramatic moment",
-      "link": "https://www.france24.com/en/video/20260905-the-closely-watched-lindsay-clancy-trial-ends-with-one-last-dramatic-moment",
-      "date": "Sat, 05 Sep 2026 16:31:52 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Wallace & Gromit' creators turn 50 with spook-tacular Shaun yarn",
-      "link": "https://www.france24.com/en/video/20260905-wallace-gromit-creators-turn-50-with-spook-tacular-shaun-yarn",
-      "date": "Sat, 05 Sep 2026 16:29:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UN approves resolution in support of map that shows Africa's true size",
-      "link": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
-      "date": "Sat, 05 Sep 2026 16:23:58 GMT"
     },
     {
       "src": "RFI",
@@ -302,13 +323,6 @@
       "text": "Trump signs order to remove endangered species protection for grey wolves",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 05 Sep 2026 09:12:48 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Explosion kills at least two at military base in Bolivia with 14 missing",
-      "link": "https://news.sky.com/story/explosion-kills-at-least-10-at-bolivian-military-base-13581596",
-      "date": "Sat, 05 Sep 2026 03:21:00 +0100"
     },
     {
       "src": "BBC World",
@@ -421,13 +435,6 @@
       "text": "British, French leaders hold talks on migrants and EU relations",
       "link": "https://www.rfi.fr/en/international/20260903-british-french-leaders-hold-talks-on-migrants-eu-relations",
       "date": "Thu, 03 Sep 2026 11:46:25 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU lawmakers demand Brussels force Meta to 'protect' European children",
-      "link": "https://www.rfi.fr/en/international/20260903-eu-lawmakers-demand-brussels-force-meta-to-protect-european-children",
-      "date": "Thu, 03 Sep 2026 10:36:14 GMT"
     },
     {
       "src": "The Guardian",
