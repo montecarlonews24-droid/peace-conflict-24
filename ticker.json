@@ -1,27 +1,139 @@
 {
-  "updated": "2026-09-06T17:49:37.611Z",
-  "count": 64,
+  "updated": "2026-09-06T19:40:55.171Z",
+  "count": 72,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "German far-right set for big win in eastern state - projections",
+      "text": "German far-right set for big win in eastern state, projections show",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 06 Sep 2026 17:42:19 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/f1-leader-kimi-antonelli-wins-italian-gp-after-epic-charge-from-the-back?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 17:40:41 +0000"
+      "date": "Sun, 06 Sep 2026 19:30:14 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Arsenal pass Chelsea test in style with comeback win",
-      "link": "https://www.channelnewsasia.com/sport/arsenal-pass-chelsea-test-in-style-comeback-win-6365861",
-      "date": "Mon, 07 Sep 2026 01:39:14 +0800"
+      "text": "Still on court after 20 years, the Honey Deuce keeps winning at the US Open",
+      "link": "https://www.channelnewsasia.com/sport/still-court-after-20-years-honey-deuce-keeps-winning-us-open-6365911",
+      "date": "Mon, 07 Sep 2026 03:16:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kimi is in control of title race and deserves to be, says Russell",
+      "link": "https://www.channelnewsasia.com/sport/kimi-in-control-title-race-and-deserves-be-says-russell-6365906",
+      "date": "Mon, 07 Sep 2026 03:12:11 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israel&#039;s Netanyahu orders West Bank settler outposts to be removed, sources say",
+      "link": "https://www.channelnewsasia.com/world/israels-netanyahu-orders-west-bank-settler-outposts-be-removed-sources-say-6365756",
+      "date": "Mon, 07 Sep 2026 03:08:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indonesia volcano eruption disrupts hundreds of flights",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:58:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:56:25 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nepali rescuers buoyed by miracle finds but tough conditions persist",
+      "link": "https://www.channelnewsasia.com/asia/nepali-rescuers-buoyed-miracle-finds-tough-conditions-persist-6365891",
+      "date": "Mon, 07 Sep 2026 02:50:50 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump administration appeals again to US Supreme Court over mail-in voting",
+      "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:47:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hamilton wants written rules of engagement at Ferrari after Leclerc clash",
+      "link": "https://www.channelnewsasia.com/sport/hamilton-wants-written-rules-engagement-ferrari-after-leclerc-clash-6365901",
+      "date": "Mon, 07 Sep 2026 02:40:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Argentina reviving the Falklands dispute?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:36:40 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 06 Sep 2026 18:33:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:28:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sabalenka through to US Open quarterfinals",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:12:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Algerian boy found dead after four days trapped in a well",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 18:10:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US envoys make first Kyiv visit amid Ukraine war peace push",
+      "link": "https://www.channelnewsasia.com/world/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-6365591",
+      "date": "Mon, 07 Sep 2026 02:08:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mainz thrash Hamburg, Augsburg go top with win in Frankfurt",
+      "link": "https://www.channelnewsasia.com/sport/mainz-thrash-hamburg-augsburg-go-top-win-in-frankfurt-6365871",
+      "date": "Mon, 07 Sep 2026 01:57:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Like a walk on water: Wolff hails Antonelli&#039;s Monza miracle",
+      "link": "https://www.channelnewsasia.com/sport/walk-water-wolff-hails-antonellis-monza-miracle-6365876",
+      "date": "Mon, 07 Sep 2026 01:56:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "date": "Sun, 06 Sep 2026 17:56:13 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "\"Ready to talk\": German far-right celebrates victory",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260906-ready-to-talk-german-far-right-celebrates-victory",
+      "date": "Sun, 06 Sep 2026 17:32:02 GMT"
     },
     {
       "src": "The Guardian",
@@ -31,46 +143,11 @@
       "date": "Sun, 06 Sep 2026 17:05:11 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Carrick hurt by stoppage-time blow in Man United draw at Everton",
-      "link": "https://www.channelnewsasia.com/sport/carrick-hurt-stoppage-time-blow-in-man-united-draw-everton-6365841",
-      "date": "Mon, 07 Sep 2026 01:04:37 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-      "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 17:03:20 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Iran warns of 'faster, heavier, more painful response' to US attacks",
       "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 06 Sep 2026 17:00:56 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 16:59:04 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Open day eight",
-      "link": "https://www.channelnewsasia.com/sport/us-open-day-eight-6365826",
-      "date": "Mon, 07 Sep 2026 00:58:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 16:55:38 +0000"
     },
     {
       "src": "BBC World",
@@ -85,13 +162,6 @@
       "text": "🔴Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
       "link": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
       "date": "Sun, 06 Sep 2026 16:18:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran touts military response as US maintains blockade, hits tankers",
-      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 16:17:06 +0000"
     },
     {
       "src": "France 24",
@@ -115,27 +185,6 @@
       "date": "Sun, 06 Sep 2026 16:07:44 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 16:07:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 16:04:56 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Van Aert triumphs after Vuelta stage shortened",
-      "link": "https://www.channelnewsasia.com/sport/van-aert-triumphs-after-vuelta-stage-shortened-6365796",
-      "date": "Mon, 07 Sep 2026 00:03:09 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
@@ -148,41 +197,6 @@
       "text": "Deauville Film Festival: What’s your favourite American film?",
       "link": "https://www.france24.com/en/video/20260906-deauville-film-festival-what-s-your-favourite-american-film",
       "date": "Sun, 06 Sep 2026 15:43:25 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Niger military accuses France of orchestrating failed mutiny: What to know",
-      "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
-      "date": "Sun, 06 Sep 2026 15:42:00 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shaw strikes second-half double as Manchester City beat Birmingham 3-1 in WSL",
-      "link": "https://www.channelnewsasia.com/sport/shaw-strikes-second-half-double-manchester-city-beat-birmingham-3-1-in-wsl-6365786",
-      "date": "Sun, 06 Sep 2026 23:34:28 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 06 Sep 2026 15:32:27 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Maitland-Niles screamer earns Everton 2-2 draw with Man Utd",
-      "link": "https://www.channelnewsasia.com/sport/maitland-niles-screamer-earns-everton-2-2-draw-man-utd-6365766",
-      "date": "Sun, 06 Sep 2026 23:10:29 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Antonelli takes sensational home Italian GP win from back of grid",
-      "link": "https://www.channelnewsasia.com/sport/antonelli-takes-sensational-home-italian-gp-win-back-grid-6365761",
-      "date": "Sun, 06 Sep 2026 23:04:06 +0800"
     },
     {
       "src": "Sky News",
@@ -211,20 +225,6 @@
       "text": "Germany: AfD's Ulrich Siegmund eyes outright majority",
       "link": "https://www.france24.com/en/video/20260906-germany-afd-s-ulrich-siegmund-eyes-outright-majority",
       "date": "Sun, 06 Sep 2026 14:07:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine-Russia talks: What are the US objectives?",
-      "link": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
-      "date": "Sun, 06 Sep 2026 14:03:26 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Italian Grand Prix re-started after Leclerc crashes out",
-      "link": "https://www.channelnewsasia.com/sport/italian-grand-prix-re-started-after-leclerc-crashes-out-6365701",
-      "date": "Sun, 06 Sep 2026 21:42:36 +0800"
     },
     {
       "src": "RFI",
@@ -339,6 +339,20 @@
       "date": "Sat, 05 Sep 2026 15:24:23 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "As wildfires spread north, UN agencies race to help Europe adapt",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168273",
+      "date": "Sat, 05 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Central Park adapts to climate change while helping New York stay cool",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168277",
+      "date": "Sat, 05 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "UN backs effort to drop Mercator map and show size of Africa more accurately",
@@ -430,11 +444,53 @@
       "date": "Fri, 04 Sep 2026 15:39:27 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN tells the world: Stop making Africa look small",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN aims to raise nearly $50 million for Nepal flood response",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
       "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
       "date": "Thu, 03 Sep 2026 12:52:08 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
+      "date": "Thu, 03 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
