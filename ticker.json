@@ -1,167 +1,265 @@
 {
-  "updated": "2026-09-08T11:49:50.038Z",
-  "count": 64,
+  "updated": "2026-09-08T15:30:11.991Z",
+  "count": 72,
   "items": [
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
-      "link": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 11:40:21 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool announce five-year sponsorship deal with Turkish Airlines",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-announce-five-year-sponsorship-deal-turkish-airlines-6369901",
-      "date": "Tue, 08 Sep 2026 19:38:14 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 11:38:07 GMT"
+      "text": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 15:19:40 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Russia pounds Kyiv, ending three-day halt for US talks",
-      "link": "https://www.france24.com/en/video/20260908-russia-pounds-kyiv-ending-three-day-halt-for-us-talks",
-      "date": "Tue, 08 Sep 2026 11:35:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ASML breaks ground on new manufacturing facilities in major expansion",
-      "link": "https://www.channelnewsasia.com/business/asml-breaks-ground-new-manufacturing-facilities-in-major-expansion-6369891",
-      "date": "Tue, 08 Sep 2026 19:32:27 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli forces kill Palestinian man and withhold his body near Nablus",
-      "link": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 11:29:35 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kalshi&#039;s $400 million-plus monthly commodity trade volume outpaces early crypto growth",
-      "link": "https://www.channelnewsasia.com/business/kalshis-400-million-plus-monthly-commodity-trade-volume-outpaces-early-crypto-growth-6369866",
-      "date": "Tue, 08 Sep 2026 19:23:47 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
-      "link": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 11:21:13 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Air quality to remain in moderate to low unhealthy range on Wednesday: NEA",
-      "link": "https://www.channelnewsasia.com/singapore/haze-moderate-low-unhealthy-psi-advisory-nea-sep-9-6369816",
-      "date": "Tue, 08 Sep 2026 19:20:00 +0800"
+      "text": "Eiffel Tower reopens after row over limits on women staff",
+      "link": "https://www.france24.com/en/video/20260908-eiffel-tower-reopens-after-row-over-limits-on-women-staff",
+      "date": "Tue, 08 Sep 2026 15:18:54 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "In Ukraine, teens try to heal from trauma of war at summer camp",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260908-in-ukraine-teens-try-to-heal-from-trauma-of-war-at-summer-camp",
-      "date": "Tue, 08 Sep 2026 11:10:20 GMT"
+      "text": "Middle East live: Israel to close British consulate in Jerusalem after sanctions on settlements",
+      "link": "https://www.france24.com/en/middle-east/20260908-middle-east-live-israel-to-close-british-consulate-in-jerusalem-after-sanctions-on-settlements",
+      "date": "Tue, 08 Sep 2026 15:10:03 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Liverpool&#039;s Mac Allister &#039;very sad&#039; not to receive new contract offer",
+      "link": "https://www.channelnewsasia.com/sport/liverpools-mac-allister-very-sad-not-receive-new-contract-offer-6370501",
+      "date": "Tue, 08 Sep 2026 22:55:23 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK bans goods from Israeli West Bank settlements: What that really means",
+      "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 14:52:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France joins ban on products from Israeli settlements in West Bank",
+      "link": "https://www.france24.com/en/video/20260908-france-joins-ban-on-products-from-israeli-settlements-in-west-bank",
+      "date": "Tue, 08 Sep 2026 14:48:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK ban on goods from Israeli settlements 'evidence of Netanyahu's failure'",
+      "link": "https://www.france24.com/en/video/20260908-uk-ban-on-goods-from-israeli-settlements-evidence-of-natanyahu-s-failure",
+      "date": "Tue, 08 Sep 2026 14:47:39 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Argentina targets oil company operating in Falklands",
+      "text": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 14:46:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Israel to shut down UK consulate in Jerusalem in response to sanctions on settlements",
+      "link": "https://www.france24.com/en/middle-east/20260908-france-and-canada-to-join-uk-in-banning-goods-from-israeli-west-bank-settlements",
+      "date": "Tue, 08 Sep 2026 14:45:01 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 14:44:16 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore open to considering chemical castration for sex offenders if proven effective: SM Shanmugam",
+      "link": "https://www.channelnewsasia.com/singapore/chemical-castration-sex-crimes-offenders-shanmugam-mha-6370321",
+      "date": "Tue, 08 Sep 2026 22:40:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hungary expels 10 Russian diplomats as relations worsen",
+      "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 14:38:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Eiffel Tower reopens after row over removing women staff",
+      "link": "https://www.france24.com/en/video/20260908-eiffel-tower-reopens-after-row-over-removing-women-staff",
+      "date": "Tue, 08 Sep 2026 14:38:14 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Robinhood expands prediction-market push with Crypto.com, OG.com tie-up",
+      "link": "https://www.channelnewsasia.com/business/robinhood-expands-prediction-market-push-cryptocom-ogcom-tie-up-6370431",
+      "date": "Tue, 08 Sep 2026 22:32:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "European Leagues tackles FIFA over women&#039;s match calendar in expanded EU complaint",
+      "link": "https://www.channelnewsasia.com/sport/european-leagues-tackles-fifa-over-womens-match-calendar-in-expanded-eu-complaint-6370436",
+      "date": "Tue, 08 Sep 2026 22:31:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The Tempe 57: A father’s fight for justice after Greece’s worst train crash",
+      "link": "https://www.aljazeera.com/video/witness/2026/9/8/the-tempe-57-a-fathers-fight-for-justice-after-greeces-worst-train-crash?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 14:30:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "More than 100,000 back complaint over Infantino&#039;s Trump ties, says FairSquare",
+      "link": "https://www.channelnewsasia.com/sport/more-100000-back-complaint-over-infantinos-trump-ties-says-fairsquare-6370406",
+      "date": "Tue, 08 Sep 2026 22:25:18 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amazon accused in lawsuit of systematic pregnancy discrimination",
+      "link": "https://www.channelnewsasia.com/business/amazon-accused-in-lawsuit-systematic-pregnancy-discrimination-6370391",
+      "date": "Tue, 08 Sep 2026 22:18:13 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s reignited war fuels a new wave in child recruitment",
+      "link": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 14:16:56 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Europe Needs a Real Policy on Israel-Palestine",
+      "link": "https://foreignpolicy.com/2026/09/08/europe-israel-palestine-washington-gaza/",
+      "date": "Tue, 08 Sep 2026 14:13:59 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sounding the fire alarm: Why French firefighters are going on strike",
+      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260908-sounding-the-fire-alarm-why-french-firefighters-are-going-on-strike",
+      "date": "Tue, 08 Sep 2026 14:12:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spoiler alert: AI in cinema 'just a tool, won’t replace actors and human beings'",
+      "link": "https://www.france24.com/en/video/20260908-spoiler-alert-ai-in-cinema-just-a-tool-won-t-replace-actors-and-human-beings-1",
+      "date": "Tue, 08 Sep 2026 14:11:18 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One year on from Nepal protests, have Gen Z demands been met?",
+      "link": "https://www.aljazeera.com/news/2026/9/8/one-year-on-from-nepal-protests-have-gen-z-demands-been-met?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 14:09:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
+      "link": "https://www.channelnewsasia.com/world/yemen-houthi-oil-site-strikes-saudi-arabia-retaliation-6369716",
+      "date": "Tue, 08 Sep 2026 22:06:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 14:03:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "MS Now rolls out membership program featuring live Q&A with reporters",
+      "link": "https://www.channelnewsasia.com/business/ms-now-rolls-out-membership-program-featuring-live-qa-reporters-6370351",
+      "date": "Tue, 08 Sep 2026 22:01:59 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 13:58:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-germany-says-icj-lacks-jurisdiction-in-nicaragua-genocide-case?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 13:52:44 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-saudi-russia-press-conference-in-moscow-key?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 13:43:49 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four Renoir paintings worth millions stolen in French museum heist",
+      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 13:35:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Napoli’s Scott McTominay undergoes successful heart surgery",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/napolis-scott-mctominay-undergoes-successful-heart-surgery?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 13:34:03 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "South Korea Should Help Defend Ukraine’s Skies",
+      "link": "https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/",
+      "date": "Tue, 08 Sep 2026 13:15:03 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The U.S. and China Don’t Need an AI Grand Bargain",
+      "link": "https://foreignpolicy.com/2026/09/08/us-china-ai-negotiations-safety-governance-trump-xi-summit/",
+      "date": "Tue, 08 Sep 2026 13:01:11 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "In Gaza, women-headed households face ‘impossible choices’ to survive",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168291",
+      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Tobacco use can undermine fertility, UN health agency warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168290",
+      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Man wanted in UK over murder of wife and two children admits unlawful possession of firearm",
+      "link": "https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-admits-unlawful-possession-of-firearm-13583115",
+      "date": "Tue, 08 Sep 2026 12:19:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Argentina to file criminal case against oil company operating in Falklands",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 08 Sep 2026 11:09:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi political analyst says ‘No prolonged war with the Houthis’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 11:01:21 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Google warns of lower quality as it revamps Europe search results to avoid EU fines",
-      "link": "https://www.channelnewsasia.com/business/exclusive-google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-6369791",
-      "date": "Tue, 08 Sep 2026 19:01:12 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Limit overshoot, peak, decline’: A new global goal for climate change?",
-      "link": "https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 10:58:21 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Over S$46 million in potential scam losses averted in joint operation by police, banks",
-      "link": "https://www.channelnewsasia.com/singapore/scam-attempts-disrupted-police-bank-joint-operation-6369636",
-      "date": "Tue, 08 Sep 2026 18:51:24 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
-      "link": "https://www.channelnewsasia.com/business/boston-scientific-says-unlikely-meet-2026-sales-profit-forecast-after-cyberattack-6369756",
-      "date": "Tue, 08 Sep 2026 18:42:32 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
-      "link": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 10:41:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Three paintings worth $10m stolen from Renoir Museum in southern France",
-      "link": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 10:35:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK expected to announce sanctions on Israeli settlements in West Bank",
-      "link": "https://www.channelnewsasia.com/world/uk-israel-settlers-sanctions-west-bank-6369681",
-      "date": "Tue, 08 Sep 2026 18:33:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Paris looks to profit as Céline Dion fans flock to French capital",
-      "link": "https://www.france24.com/en/video/20260908-paris-looks-to-profit-as-c%C3%A9line-dion-fans-flock-to-french-capital",
-      "date": "Tue, 08 Sep 2026 10:32:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France, South Korea pledge 1 billion euros to support cinema amid AI threat",
-      "link": "https://www.france24.com/en/video/20260908-france-south-korea-pledge-1-billion-euros-to-support-cinema-amid-ai-threat",
-      "date": "Tue, 08 Sep 2026 10:28:33 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least two people dead after Russian strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 10:23:01 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How South Korea finds itself trapped in the US-Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 10:00:52 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -169,41 +267,6 @@
       "text": "The World’s Only Real Hope of Maintaining Order",
       "link": "https://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/",
       "date": "Tue, 08 Sep 2026 10:00:10 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Pheromone maxxing': Men avoid showers before dates to boost attraction",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
-      "date": "Tue, 08 Sep 2026 09:59:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nepal’s Gen Z protests one year on",
-      "link": "https://www.france24.com/en/video/20260908-nepal-s-gen-z-protests-one-year-on",
-      "date": "Tue, 08 Sep 2026 09:52:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Truly terrifying’: AfD election win sparks protests across Germany",
-      "link": "https://www.france24.com/en/video/20260908-truly-terrifying-afd-election-win-sparks-protests-across-germany",
-      "date": "Tue, 08 Sep 2026 09:50:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "London pub celebrates Bayeux Tapestry loan with ‘Beer Tapestry’",
-      "link": "https://www.france24.com/en/video/20260908-london-pub-celebrates-bayeux-tapestry-loan-with-beer-tapestry",
-      "date": "Tue, 08 Sep 2026 09:42:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 09:31:26 GMT"
     },
     {
       "src": "BBC World",
@@ -220,18 +283,18 @@
       "date": "Tue, 08 Sep 2026 08:53:09 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nepal cracks down on online abuse of flood survivors",
-      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 08:31:01 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Black box recorders recovered from Amazon plane crash as more details emerge",
+      "link": "https://news.sky.com/story/black-box-recorders-recovered-from-amazon-plane-crash-as-more-details-emerge-13583023",
+      "date": "Tue, 08 Sep 2026 08:41:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 04:39:14 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Women 'asked to leave workstations so that men could take their places' at Eiffel Tower",
+      "link": "https://news.sky.com/story/investigation-launched-after-female-eiffel-tower-staff-hidden-from-hindu-delegation-13583042",
+      "date": "Tue, 08 Sep 2026 08:13:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -255,18 +318,18 @@
       "date": "Tue, 08 Sep 2026 04:00:27 GMT"
     },
     {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies",
+      "link": "https://news.sky.com/story/trump-threatens-to-halt-sale-of-canadian-bombardier-jets-in-us-as-trade-war-intensifies-13582998",
+      "date": "Tue, 08 Sep 2026 03:14:00 +0100"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
       "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
       "date": "Tue, 08 Sep 2026 02:00:24 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 01:32:56 GMT"
     },
     {
       "src": "RFI",
@@ -281,6 +344,20 @@
       "text": "EU chief unveils €200m Greenland package amid tensions over Trump claims",
       "link": "https://www.rfi.fr/en/international/20260907-eu-chief-unveils-%E2%82%AC200m-greenland-package-amid-tensions-over-trump-claims",
       "date": "Mon, 07 Sep 2026 14:58:35 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Thousands gather for funeral of 'Butcher of Bosnia' Ratko Mladic",
+      "link": "https://news.sky.com/story/thousands-gather-for-funeral-of-butcher-of-bosnia-ratko-mladic-13582813",
+      "date": "Mon, 07 Sep 2026 14:25:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "EU to invest £171m in Greenland amid Trump tensions",
+      "link": "https://news.sky.com/story/greenland-to-get-huge-eu-investment-to-improve-relations-amid-trump-tensions-13582803",
+      "date": "Mon, 07 Sep 2026 14:01:00 +0100"
     },
     {
       "src": "RFI",
@@ -309,6 +386,13 @@
       "text": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168283",
       "date": "Mon, 07 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Race driver thanks rival for saving his life with 'incredible act of bravery'",
+      "link": "https://news.sky.com/story/race-driver-ollie-millroy-thanks-rival-loek-hartog-for-saving-his-life-by-pulling-him-from-burning-ferrari-during-china-gt-race-in-shanghai-13582764",
+      "date": "Mon, 07 Sep 2026 12:08:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -395,39 +479,11 @@
       "date": "Sat, 05 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Central Park adapts to climate change while helping New York stay cool",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168277",
-      "date": "Sat, 05 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Milei Renews Argentina’s Falklands Push",
       "link": "https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
       "date": "Fri, 04 Sep 2026 20:53:25 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Was the War on Terror?",
-      "link": "https://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
-      "date": "Fri, 04 Sep 2026 19:00:06 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Conservative Case for International Law",
-      "link": "https://foreignpolicy.com/2026/09/04/conservative-case-for-international-law/",
-      "date": "Fri, 04 Sep 2026 18:40:12 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Novel Imagining Life After a Second Civil War",
-      "link": "https://foreignpolicy.com/2026/09/04/international-fiction-releases-emily-st-john-mandel-exit-party-ben-eastham-floating-world/",
-      "date": "Fri, 04 Sep 2026 18:30:39 +0000"
     },
     {
       "src": "The Guardian",
@@ -437,11 +493,11 @@
       "date": "Fri, 04 Sep 2026 16:49:29 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN tells the world: Stop making Africa look small",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
-      "date": "Fri, 04 Sep 2026 12:00:00 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Paintings worth millions stolen from museum",
+      "link": "https://news.sky.com/story/thieves-steal-three-paintings-from-renoir-museum-on-french-riviera-13581407",
+      "date": "Fri, 04 Sep 2026 17:42:00 +0100"
     },
     {
       "src": "The Guardian",
