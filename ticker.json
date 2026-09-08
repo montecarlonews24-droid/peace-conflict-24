@@ -1,41 +1,160 @@
 {
-  "updated": "2026-09-08T21:29:53.058Z",
-  "count": 72,
+  "updated": "2026-09-08T23:32:25.927Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 23:11:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US DOJ widens probe into Fox&#039;s Roku deal, Semafor reports",
+      "link": "https://www.channelnewsasia.com/business/us-doj-widens-probe-foxs-roku-deal-semafor-reports-6371236",
+      "date": "Wed, 09 Sep 2026 07:10:12 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 23:07:45 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: US destroys five Iranian oil tankers as Iran threatens Kuwait and Bahrain",
+      "link": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
+      "date": "Tue, 08 Sep 2026 23:07:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japan manufacturers&#039; mood hits near 5-year high on semiconductor demand: Reuters poll",
+      "link": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-near-5-year-high-semiconductor-demand-reuters-poll-6371221",
+      "date": "Wed, 09 Sep 2026 07:05:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Air traffic control issue disrupts flights at major UK airports",
+      "link": "https://www.channelnewsasia.com/world/major-uk-airports-air-traffic-control-issue-disrupts-flights-6370426",
+      "date": "Wed, 09 Sep 2026 07:04:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple",
+      "date": "Tue, 08 Sep 2026 22:43:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 22:39:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 22:34:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "War expands as Iran-backed Houthis attack Saudi cities and US strikes Iranian tankers",
+      "link": "https://www.channelnewsasia.com/world/iran-us-war-expands-houthis-saudi-arabia-6371136",
+      "date": "Wed, 09 Sep 2026 06:32:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What we know about masked anti-migrant protesters in the UK",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 22:28:56 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Noskova plans to &#039;get drunk and forget&#039; after heartbreaking loss to Sabalenka",
+      "link": "https://www.channelnewsasia.com/sport/noskova-plans-get-drunk-and-forget-after-heartbreaking-loss-sabalenka-6371146",
+      "date": "Wed, 09 Sep 2026 06:22:33 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Forget champagne: How AI millionaires are rewriting the rules of luxury",
+      "link": "https://www.channelnewsasia.com/obsessions/ai-millionaires-luxury-spending-6366616",
+      "date": "Wed, 09 Sep 2026 06:07:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protesters, police clash in Albania over Trump-linked project",
+      "link": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 22:05:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singaporean Malone Lam pleads guilty in US court over role in US$260m cryptocurrency theft ring",
+      "link": "https://www.channelnewsasia.com/world/malone-lam-pleads-guilty-260m-crypto-heist-6370726",
+      "date": "Wed, 09 Sep 2026 06:04:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Beyond Beijing and Shanghai: Why more foreign tourists are venturing into rural China",
+      "link": "https://www.channelnewsasia.com/east-asia/foreign-tourists-travel-rural-china-6369086",
+      "date": "Wed, 09 Sep 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Is China’s Officer Corps So Sprawling?",
+      "link": "https://foreignpolicy.com/2026/09/08/china-pla-officer-corps-military-ccp/",
+      "date": "Tue, 08 Sep 2026 21:50:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Haaland to the double as Manchester City beat Porto in Champions League",
+      "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 21:46:58 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 08 Sep 2026 21:46:31 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What the UK ban on goods from illegal Israeli settlements really means",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 21:35:36 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US warns Ford over ties with Chinese firms amid tensions",
+      "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
+      "date": "Tue, 08 Sep 2026 21:24:03 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Mourinho's Real Madrid edge Inter Milan in Champions League opener",
       "link": "https://www.france24.com/en/sport/20260908-mourinho-real-madrid-edge-inter-milan-in-champions-league-opener",
       "date": "Tue, 08 Sep 2026 21:23:46 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sunderland beat Hull City 1-0 to reach League Cup last 16",
-      "link": "https://www.channelnewsasia.com/sport/sunderland-beat-hull-city-1-0-reach-league-cup-last-16-6371041",
-      "date": "Wed, 09 Sep 2026 05:16:10 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way",
-      "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 21:10:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
-      "link": "https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 21:07:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 21:06:48 +0000"
     },
     {
       "src": "France 24",
@@ -52,13 +171,6 @@
       "date": "Tue, 08 Sep 2026 21:02:16 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
-      "link": "https://www.aljazeera.com/sports/2026/9/8/dembele-mbappe-kane-and-yamal-top-ballon-dor-shortlist?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 21:00:29 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Breakaway league LIV Golf files for bankruptcy protection",
@@ -66,39 +178,11 @@
       "date": "Tue, 08 Sep 2026 21:58:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "LIV Golf files for Chapter 11 bankruptcy in New Jersey, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/sport/liv-golf-files-chapter-11-bankruptcy-in-new-jersey-bloomberg-news-reports-6371001",
-      "date": "Wed, 09 Sep 2026 04:51:45 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Police bodycam captures Russian missile strike on Kyiv",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 20:43:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
-      "link": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 20:43:16 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Berlin Is Shedding Light on the Gray Zone",
       "link": "https://foreignpolicy.com/2026/09/08/germany-russia-drones-gray-zone-hybrid-warfare-putin/",
       "date": "Tue, 08 Sep 2026 20:42:52 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Head of Smithsonian museums announces he will be stepping down",
-      "link": "https://www.aljazeera.com/news/2026/9/8/head-of-smithsonian-museums-announces-he-will-be-stepping-down?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 20:32:52 +0000"
     },
     {
       "src": "RFI",
@@ -113,20 +197,6 @@
       "text": "Kenya cracks down on foreign traders",
       "link": "https://www.france24.com/en/kenya-cracks-down-on-foreign-traders",
       "date": "Tue, 08 Sep 2026 20:29:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wiese relishing one last shot at New Zealand to wrap up series",
-      "link": "https://www.channelnewsasia.com/sport/wiese-relishing-one-last-shot-new-zealand-wrap-up-series-6370951",
-      "date": "Wed, 09 Sep 2026 04:25:50 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds of UK flights disrupted by air traffic control glitch",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/hundreds-of-uk-flights-disrupted-by-air-traffic-control-glitch?traffic_source=rss",
-      "date": "Tue, 08 Sep 2026 20:24:26 +0000"
     },
     {
       "src": "France 24",
@@ -150,53 +220,11 @@
       "date": "Tue, 08 Sep 2026 20:11:06 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean",
-      "link": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
-      "date": "Tue, 08 Sep 2026 19:43:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Europe's museums are under siege', art recovery expert says",
-      "link": "https://www.france24.com/en/europe-s-museums-are-under-siege-art-recovery-expert-says",
-      "date": "Tue, 08 Sep 2026 19:39:17 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 08 Sep 2026 19:11:39 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Real beat Inter, Haaland&#039;s brace gives Man City winning start",
-      "link": "https://www.channelnewsasia.com/sport/real-beat-inter-haalands-brace-gives-man-city-winning-start-6370856",
-      "date": "Wed, 09 Sep 2026 02:59:38 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sabalenka steamrolls into US Open semis, home fans await &#039;Battle of the Billionaires&#039;",
-      "link": "https://www.channelnewsasia.com/sport/sabalenka-steamrolls-us-open-semis-home-fans-await-battle-billionaires-6370841",
-      "date": "Wed, 09 Sep 2026 02:52:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US FCC proposes to open more spectrum for space-based wireless service",
-      "link": "https://www.channelnewsasia.com/business/us-fcc-proposes-open-more-spectrum-space-based-wireless-service-6370836",
-      "date": "Wed, 09 Sep 2026 02:43:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sabalenka survives Noskova test to reach US Open semis",
-      "link": "https://www.channelnewsasia.com/sport/sabalenka-survives-noskova-test-reach-us-open-semis-6370811",
-      "date": "Wed, 09 Sep 2026 02:24:44 +0800"
     },
     {
       "src": "Sky News",
@@ -211,20 +239,6 @@
       "text": "British widow faces deportation from Sweden after 22 years",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 08 Sep 2026 18:02:42 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US accuses Chinese AI firms of &#039;industrial-scale&#039; theft of AI technology",
-      "link": "https://www.channelnewsasia.com/business/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-6370776",
-      "date": "Wed, 09 Sep 2026 01:47:38 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 17:24:25 GMT"
     },
     {
       "src": "BBC World",
@@ -264,13 +278,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 08 Sep 2026 13:58:32 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Renoir paintings worth millions stolen in French museum heist",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 08 Sep 2026 13:35:28 GMT"
@@ -288,55 +295,6 @@
       "text": "The U.S. and China Don’t Need an AI Grand Bargain",
       "link": "https://foreignpolicy.com/2026/09/08/us-china-ai-negotiations-safety-governance-trump-xi-summit/",
       "date": "Tue, 08 Sep 2026 13:01:11 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168298",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI datacentres pose growing threat to electricity systems worldwide",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168296",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola response in eastern DR Congo must include food aid, WFP says",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168295",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168293",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168292",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "In Gaza, women-headed households face ‘impossible choices’ to survive",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Tobacco use can undermine fertility, UN health agency warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168290",
-      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -358,13 +316,6 @@
       "text": "The World’s Only Real Hope of Maintaining Order",
       "link": "https://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/",
       "date": "Tue, 08 Sep 2026 10:00:10 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran’s Proxy Strategy Is Never Coming Back",
-      "link": "https://foreignpolicy.com/2026/09/08/irans-proxy-strategy-hezbollah-lebanon-iraq/",
-      "date": "Tue, 08 Sep 2026 08:53:09 +0000"
     },
     {
       "src": "Sky News",
@@ -421,13 +372,6 @@
       "text": "Jamaica steps up slavery reparations campaign with petition to King Charles III",
       "link": "https://www.rfi.fr/en/international/20260907-jamaica-steps-up-slavery-reparations-campaign-with-petition-to-king-charles-iii",
       "date": "Mon, 07 Sep 2026 12:16:37 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168288",
-      "date": "Mon, 07 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
