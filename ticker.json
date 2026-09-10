@@ -1,34 +1,230 @@
 {
-  "updated": "2026-09-10T13:42:19.056Z",
-  "count": 64,
+  "updated": "2026-09-10T17:21:20.149Z",
+  "count": 72,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The struggle for women to get care in Afghanistan",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20260910-nobody-cares-about-what-women-think-in-afghanistan-says-videojournalist",
-      "date": "Thu, 10 Sep 2026 13:29:29 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Jamaican sprint star Bolt marvels at prize money on eve of inaugural Ultimate Championship",
+      "link": "https://www.channelnewsasia.com/sport/jamaican-sprint-star-bolt-marvels-prize-money-eve-inaugural-ultimate-championship-6376891",
+      "date": "Fri, 11 Sep 2026 01:10:35 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Robinson strikes twice as England close in on Pakistan whitewash",
+      "link": "https://www.channelnewsasia.com/sport/robinson-strikes-twice-england-close-in-pakistan-whitewash-6376866",
+      "date": "Fri, 11 Sep 2026 00:57:12 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "House Democrat urges US action over sleeping Tesla drivers",
+      "link": "https://www.channelnewsasia.com/business/house-democrat-urges-us-action-over-sleeping-tesla-drivers-6376851",
+      "date": "Fri, 11 Sep 2026 00:53:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Leclerc and Hamilton clear the air but no written rules of engagement",
+      "link": "https://www.channelnewsasia.com/sport/leclerc-and-hamilton-clear-air-no-written-rules-engagement-6376856",
+      "date": "Fri, 11 Sep 2026 00:48:19 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-      "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 13:29:20 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows",
-      "link": "https://www.france24.com/en/video/20260910-houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows",
-      "date": "Thu, 10 Sep 2026 13:25:11 GMT"
+      "text": "US Supreme Court blocks Republican-drawn congressional map in Missouri",
+      "link": "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 16:44:13 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 13:25:06 +0000"
+      "text": "Trump’s Iran war now has a midterm election problem",
+      "link": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 16:43:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/saudi-wealth-fund-weighs-ea-savvy-merger-bloomberg-news-reports-6376841",
+      "date": "Fri, 11 Sep 2026 00:43:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI-powered documentary tests cinema&#039;s boundaries in Venice",
+      "link": "https://www.channelnewsasia.com/business/ai-powered-documentary-tests-cinemas-boundaries-in-venice-6376751",
+      "date": "Fri, 11 Sep 2026 00:32:11 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 16:31:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jerusalem Daily: Israeli strikes devastate Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 16:27:37 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 20 children feared dead in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 16:21:50 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Eiffel Tower row exposes BAPS Hindu group as 'spearhead of Modi's soft power'",
+      "link": "https://www.rfi.fr/en/international/20260910-eiffel-tower-row-exposes-baps-hindu-group-as-spearhead-of-modi-s-soft-power",
+      "date": "Thu, 10 Sep 2026 16:16:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Swiss Kung wins Vuelta stage 18, Mas retains healthy overall lead",
+      "link": "https://www.channelnewsasia.com/sport/swiss-kung-wins-vuelta-stage-18-mas-retains-healthy-overall-lead-6376791",
+      "date": "Fri, 11 Sep 2026 00:13:28 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Céline Dion: Fan recounts experience singing with the superstar",
+      "link": "https://www.france24.com/en/video/20260910-c%C3%A9line-dion-fan-recounts-experience-singing-with-the-superstar",
+      "date": "Thu, 10 Sep 2026 16:08:28 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Hindu sect BAPS comes under scrutiny in France, US",
+      "link": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
+      "date": "Thu, 10 Sep 2026 16:06:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Middle East live: Houthis close in on Bab el-Mandeb as Brent barrel price soars to over $106",
+      "link": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
+      "date": "Thu, 10 Sep 2026 16:06:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Oil jumps to $105, pushing up chances of a US interest rate increase",
+      "link": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 16:05:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "LIVE: Manchester United vs Sabah – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 16:04:07 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "August hottest month ever recorded globally as huge El Nino emerges",
+      "link": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
+      "date": "Thu, 10 Sep 2026 15:57:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky's plane 'almost hit' by drone en route to Oslo, Norway PM says",
+      "link": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
+      "date": "Thu, 10 Sep 2026 15:55:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 15:54:17 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "TV presenter v secret son: the succession dispute engulfing a Ugandan kingdom",
+      "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+      "date": "Thu, 10 Sep 2026 15:53:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Infantino's FIFA re-election bid faces setback as France withdraws support",
+      "link": "https://www.france24.com/en/video/20260910-infantino-s-fifa-re-election-bid-faces-setback-as-france-withdraws-support",
+      "date": "Thu, 10 Sep 2026 15:52:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI chip startup Positron&#039;s valuation skyrockets in latest funding round",
+      "link": "https://www.channelnewsasia.com/business/ai-chip-startup-positrons-valuation-skyrockets-in-latest-funding-round-6376731",
+      "date": "Thu, 10 Sep 2026 23:47:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
+      "link": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 15:46:52 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "9/11: Drones light up NYC ahead of 25th anniversary",
+      "link": "https://www.france24.com/en/video/20260910-9-11-drones-light-up-nyc-ahead-of-25th-anniversary",
+      "date": "Thu, 10 Sep 2026 15:46:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sandra Hüller: from European cinema to working with Tom Cruise and Ryan Gosling",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20260910-sandra-h%C3%BCller-from-european-cinema-to-working-with-tom-cruise-and-ryan-gosling",
+      "date": "Thu, 10 Sep 2026 15:43:10 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 15:38:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least 20 killed in school fire in rebel-held DR Congo city",
+      "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 15:37:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houthis capture Yemeni town of Mocha: Why it’s important",
+      "link": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 14:53:11 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Paradox of Prabowonomics",
+      "link": "https://foreignpolicy.com/2026/09/10/prabowo-subianto-indonesia-economy-politics-middle-income/",
+      "date": "Thu, 10 Sep 2026 13:49:49 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
+      "link": "https://www.rfi.fr/en/international/20260910-algeria-cuts-diplomatic-ties-with-uae-after-years-of-mounting-tensions",
+      "date": "Thu, 10 Sep 2026 13:47:29 GMT"
     },
     {
       "src": "BBC World",
@@ -38,34 +234,6 @@
       "date": "Thu, 10 Sep 2026 13:23:37 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
-      "link": "https://www.channelnewsasia.com/business/chip-startup-d-matrix-use-nvidia-chip-linking-tech-in-ai-servers-6376391",
-      "date": "Thu, 10 Sep 2026 21:22:50 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "25 years on, America seeks to keep 9/11 memories alive",
-      "link": "https://www.france24.com/en/video/20260910-25-years-on-america-seeks-to-keep-9-11-memories-alive",
-      "date": "Thu, 10 Sep 2026 13:22:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France withdraws support for Infantino in FIFA presidential election",
-      "link": "https://www.france24.com/en/video/20260910-france-withdraws-support-for-infantino-in-fifa-presidential-election",
-      "date": "Thu, 10 Sep 2026 13:19:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Political salary debate: PAP MPs, NMPs weigh in on pay structure, relay residents&#039; concerns",
-      "link": "https://www.channelnewsasia.com/singapore/political-ministers-salary-debate-nmp-mp-6376241",
-      "date": "Thu, 10 Sep 2026 21:15:55 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Political Cost of Sending Korean Forces to Hormuz",
@@ -73,109 +241,11 @@
       "date": "Thu, 10 Sep 2026 13:15:29 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthis advance along Yemen’s southern Red Sea coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 13:14:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/manchester-united-scouted-mbappe-but-didnt-sign-him-says-ryan-giggs?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 13:13:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Government to study quality of life indicators, wary of KPIs that ‘drive the wrong behaviour’: Chan Chun Sing",
-      "link": "https://www.channelnewsasia.com/singapore/political-salaries-mps-bonus-quality-life-chan-chun-sing-6376201",
-      "date": "Thu, 10 Sep 2026 21:13:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 10 Sep 2026 13:12:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Revisited: Consequences of the 2022 Nord Stream pipeline sabotage are still being felt",
-      "link": "https://www.france24.com/en/tv-shows/revisited/20260910-revisited-consequences-of-the-2022-nord-stream-pipeline-sabotage-are-still-being-felt",
-      "date": "Thu, 10 Sep 2026 13:07:59 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Okafor says he will not play for Switzerland under Yakin",
-      "link": "https://www.channelnewsasia.com/sport/okafor-says-he-will-not-play-switzerland-under-yakin-6376351",
-      "date": "Thu, 10 Sep 2026 21:03:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The Trump loyalty test: Will his supporters ever disagree with him?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 12:59:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Manchester rivals set for early-season litmus test at Old Trafford",
-      "link": "https://www.channelnewsasia.com/sport/manchester-rivals-set-early-season-litmus-test-old-trafford-6376306",
-      "date": "Thu, 10 Sep 2026 20:55:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bending Spoons to buy Miro in $1.36 billion cash deal",
-      "link": "https://www.channelnewsasia.com/business/bending-spoons-buy-miro-in-136-billion-cash-deal-6376296",
-      "date": "Thu, 10 Sep 2026 20:52:40 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Serpent clutch, 15-carat diamond: First look at forfeited luxury goods from S$3b money laundering case",
-      "link": "https://www.channelnewsasia.com/singapore/3b-money-laundering-forfeited-luxury-goods-auction-hotlotz-6376011",
-      "date": "Thu, 10 Sep 2026 20:49:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
-      "link": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 12:47:35 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Figure skating-ISU revokes Russian skater Valieva&#039;s neutral status",
-      "link": "https://www.channelnewsasia.com/sport/figure-skating-isu-revokes-russian-skater-valievas-neutral-status-6376291",
-      "date": "Thu, 10 Sep 2026 20:45:42 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 25 dead after cargo ship catches fire in China",
-      "link": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 12:45:11 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "RN 'breach': Amid 'severe' differences with 'bright, young' Bardella, Le Pen 'dictates party line'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line",
-      "date": "Thu, 10 Sep 2026 12:39:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Algeria says cutting diplomatic ties with UAE",
-      "link": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 12:26:06 +0000"
     },
     {
       "src": "BBC World",
@@ -199,18 +269,11 @@
       "date": "Thu, 10 Sep 2026 12:00:38 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Algeria cuts diplomatic ties with United Arab Emirates over 'provocative and hostile actions'",
-      "link": "https://www.france24.com/en/africa/20260910-algeria-cuts-diplomatic-ties-with-united-arab-emirates-over-provocative-and-hostile-actions",
-      "date": "Thu, 10 Sep 2026 11:50:14 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Colombia court orders President de la Espriella to hide social media videos of him with dead bodies",
-      "link": "https://www.france24.com/en/americas/20260910-colombia-court-orders-president-de-la-espriella-to-hide-social-media-videos-of-him-with-dead-bodies",
-      "date": "Thu, 10 Sep 2026 11:31:34 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Human cost of violence in South Sudan ‘continues to grow’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -218,13 +281,6 @@
       "text": "At least 20 people killed after fire breaks out on cargo ship in Chinese port",
       "link": "https://news.sky.com/story/at-least-20-people-killed-after-fire-breaks-out-on-cargo-ship-in-china-port-13583942",
       "date": "Thu, 10 Sep 2026 11:58:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 10:43:53 GMT"
     },
     {
       "src": "RFI",
@@ -248,25 +304,11 @@
       "date": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 07:12:32 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Top Signs You’re Heading for a Quagmire",
       "link": "https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/",
       "date": "Thu, 10 Sep 2026 06:57:24 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 06:30:19 GMT"
     },
     {
       "src": "Sky News",
@@ -302,13 +344,6 @@
       "text": "Notorious Ecuadorian crime gang designated a terrorist group by US",
       "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
       "date": "Wed, 09 Sep 2026 22:19:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 09 Sep 2026 21:23:45 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -388,11 +423,46 @@
       "date": "Wed, 09 Sep 2026 14:19:47 +0000"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU chiefs slam Serbia over Mladić funeral 'disgrace'",
-      "link": "https://www.rfi.fr/en/international/20260909-eu-chiefs-slam-serbia-over-mladi%C4%87-funeral-disgrace",
-      "date": "Wed, 09 Sep 2026 10:56:00 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168306",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Flood-ravaged Nepal calls for climate justice",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168305",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168303",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168302",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres urges leaders to invest in peace as conflicts deepen",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168301",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Record number of attacks on education, global fund warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168300",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -400,13 +470,6 @@
       "text": "More than 10% chance AI 'could kill all humans' - as Anthropic reveals another 'cybersecurity' incident",
       "link": "https://news.sky.com/story/more-than-10-chance-ai-could-kill-all-humans-anthropic-researcher-13583522",
       "date": "Wed, 09 Sep 2026 11:43:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "German Democracy, as We Knew It, Is Over",
-      "link": "https://foreignpolicy.com/2026/09/09/germany-afd-democracy-election-merz-cdu/",
-      "date": "Wed, 09 Sep 2026 08:37:47 +0000"
     },
     {
       "src": "The Guardian",
@@ -423,11 +486,11 @@
       "date": "Wed, 09 Sep 2026 04:00:58 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France among 12 nations to sanction trade with Israeli settlements",
-      "link": "https://www.rfi.fr/en/international/20260908-france-among-twelve-nations-to-sanction-trade-with-israeli-settlements",
-      "date": "Tue, 08 Sep 2026 20:32:37 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168297",
+      "date": "Tue, 08 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -442,13 +505,6 @@
       "text": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
       "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
       "date": "Mon, 07 Sep 2026 08:27:08 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "date": "Sat, 05 Sep 2026 18:00:15 GMT"
     }
   ]
 }
