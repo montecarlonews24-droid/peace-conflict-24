@@ -1,146 +1,237 @@
 {
-  "updated": "2026-09-10T04:57:03.560Z",
+  "updated": "2026-09-10T09:18:55.724Z",
   "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Nepal’s flood-hit China trade route exposes risks in its push to diversify from India",
-      "link": "https://www.channelnewsasia.com/asia/nepal-china-flood-disaster-trade-routes-6374776",
-      "date": "Thu, 10 Sep 2026 12:31:32 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Actor Kiki Darling leaves Ah Boys To Firefighters after past sexual assault conviction surfaces online",
-      "link": "https://www.channelnewsasia.com/entertainment/kiki-darling-case-ah-boys-firefighters-sexual-assault-conviction-6374431",
-      "date": "Thu, 10 Sep 2026 12:27:17 +0800"
+      "text": "North Korea leader&#039;s daughter believed to have younger sibling: Seoul",
+      "link": "https://www.channelnewsasia.com/east-asia/kim-jong-un-daughter-ju-ae-has-sister-north-korea-6375471",
+      "date": "Thu, 10 Sep 2026 17:05:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 04:21:00 GMT"
+      "text": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 09:00:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU&#039;s cybersecurity agency granted access to Mythos 5 AI model, Commission says",
+      "link": "https://www.channelnewsasia.com/business/eus-cybersecurity-agency-granted-access-mythos-5-ai-model-commission-says-6375521",
+      "date": "Thu, 10 Sep 2026 16:56:32 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 08:44:19 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hong Kong’s Buildings Department files 259 charges over repair works at fire-hit Wang Fuk Court",
+      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-buildings-department-wang-fuk-court-fire-charges-6375401",
+      "date": "Thu, 10 Sep 2026 16:40:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Egomaniac': Papers discuss 'Trumpapalooza' midterm convention",
+      "link": "https://www.france24.com/en/egomaniac-papers-discuss-trumpapalooza-midterm-convention",
+      "date": "Thu, 10 Sep 2026 08:39:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Macron calls for 'shared governance' of space at Paris summit",
+      "link": "https://www.france24.com/en/france/20260910-macron-calls-for-shared-governance-space-paris-space-summit",
+      "date": "Thu, 10 Sep 2026 08:38:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Khaw Boon Wan to step down as SPH Media Trust chairman",
+      "link": "https://www.channelnewsasia.com/singapore/khaw-boon-wan-step-down-sph-media-trust-chairman-6375236",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
+      "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 07:57:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinese auto supplier compensates 107 graduates fired barely a month into jobs, punishes managers",
+      "link": "https://www.channelnewsasia.com/east-asia/china-auto-supplier-xingyu-graduates-fired-compensated-6375396",
+      "date": "Thu, 10 Sep 2026 15:56:39 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
+      "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 07:52:33 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Airbnb faces potential new restrictions as EU proposes clampdown on holiday rentals",
+      "link": "https://news.sky.com/story/airbnb-faces-potential-new-restrictions-as-eu-proposes-clampdown-on-holiday-rentals-13583874",
+      "date": "Thu, 10 Sep 2026 08:51:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+      "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 07:50:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli attacks kill at least four Palestinians in northern Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 07:45:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea leader rules out term extension",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-term-extension-6375341",
+      "date": "Thu, 10 Sep 2026 15:36:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Racketeering conspiracy trial against Chinese tech giant Huawei begins in New York",
+      "link": "https://www.channelnewsasia.com/world/racketeering-conspiracy-trial-against-chinese-tech-giant-huawei-begins-in-new-york-6374016",
+      "date": "Thu, 10 Sep 2026 15:30:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-VinFast plans to develop two India-specific EVs in strategy shift, sources say",
+      "link": "https://www.channelnewsasia.com/business/exclusive-vinfast-plans-develop-two-india-specific-evs-in-strategy-shift-sources-say-6375381",
+      "date": "Thu, 10 Sep 2026 15:29:51 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Top Signs You’re Heading for a Quagmire",
+      "link": "https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/",
+      "date": "Thu, 10 Sep 2026 06:57:24 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
       "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 04:08:07 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Five dead, dozens missing in Philippines ferry fire",
-      "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 03:43:18 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore parliament debates changes to political salary framework",
-      "link": "https://www.channelnewsasia.com/singapore/minister-salary-review-parliament-debate-6369416",
-      "date": "Thu, 10 Sep 2026 11:29:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
-      "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 03:14:52 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump offers US$5,000 to every American if Republicans win midterm elections",
-      "link": "https://www.channelnewsasia.com/world/donald-trump-offers-us5000-republicans-midterm-elections-6374646",
-      "date": "Thu, 10 Sep 2026 11:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
-      "link": "https://www.channelnewsasia.com/business/bank-korea-assess-conditions-determine-pace-and-timing-tightening-says-board-member-6374696",
-      "date": "Thu, 10 Sep 2026 11:05:05 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is Iran bombing Jordan’s Al-Azraq base?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 03:02:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump vows to be at centre of US midterms: Republican convention takeaways",
-      "link": "https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 03:01:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lamine Yamal becomes Barcelona&#039;s youngest captain at 19",
-      "link": "https://www.channelnewsasia.com/sport/lamine-yamal-becomes-barcelonas-youngest-captain-19-6374691",
-      "date": "Thu, 10 Sep 2026 11:01:54 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy",
-      "link": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 02:54:38 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singaporean actress Chen Yixin moves to Paris: &#039;I have to trust the process and I have to grow&#039;",
-      "link": "https://www.channelnewsasia.com/entertainment/chen-yixin-moves-paris-6374566",
-      "date": "Thu, 10 Sep 2026 10:53:54 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Several dead, dozens missing after ferry fire in Philippines tourist spot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 02:50:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Apple unveils first-ever foldable iPhone Duo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/apple-unveils-first-ever-foldable-iphone-duo?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 02:48:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zverev passes Van de Zandschulp test to reach US Open semis",
-      "link": "https://www.channelnewsasia.com/sport/zverev-passes-van-de-zandschulp-test-reach-us-open-semis-6374631",
-      "date": "Thu, 10 Sep 2026 10:48:43 +0800"
+      "date": "Thu, 10 Sep 2026 06:30:19 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Middle East live: Trump warns Iran 'not to get cute' over activity at Pickaxe Mountain",
-      "link": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
-      "date": "Thu, 10 Sep 2026 02:46:54 GMT"
+      "text": "Netanyahu visits troops in occupied Syria as Damascus slams 'blatant violation' of sovereignty",
+      "link": "https://www.france24.com/en/middle-east/20260910-netanyahu-visits-troops-occupied-syria-damascus-slams-blatant-violation-sovereignty",
+      "date": "Thu, 10 Sep 2026 06:23:50 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Tunisian flotilla activists remain jailed as hunger striker worsens",
-      "link": "https://www.aljazeera.com/news/2026/9/10/tunisian-flotilla-activists-remain-jailed-as-hunger-striker-worsens?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 02:41:50 +0000"
+      "text": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
+      "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 06:16:36 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 10 Sep 2026 05:56:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Europe’s far right: Putin’s best friend?",
+      "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 05:55:57 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "At least five killed, 87 missing after ferry fire in Philippines",
-      "link": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
-      "date": "Thu, 10 Sep 2026 01:24:32 GMT"
+      "text": "PSG make perfect start to Champions League title defence",
+      "link": "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence",
+      "date": "Thu, 10 Sep 2026 05:41:57 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least five dead and more than 80 missing after fire on Philippines ferry",
+      "link": "https://news.sky.com/story/at-least-five-dead-and-dozens-missing-after-fire-on-philippines-ferry-13583838",
+      "date": "Thu, 10 Sep 2026 06:40:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Trump can see the writing on the wall here': Republicans hold midterm convention",
+      "link": "https://www.france24.com/en/trump-can-see-the-writing-on-the-wall-here-republicans-hold-midterm-convention",
+      "date": "Thu, 10 Sep 2026 05:39:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How a former BAPS temple worker in the US got his freedom, but still seeks justice",
+      "link": "https://www.france24.com/en/americas/20260910-how-a-former-baps-temple-worker-in-the-us-got-his-freedom-but-still-seeks-justice",
+      "date": "Thu, 10 Sep 2026 05:37:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
+      "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 05:33:55 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
+      "link": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 05:30:41 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says he'll give Americans $5,000 each if Republicans win midterm elections",
+      "link": "https://www.france24.com/en/americas/20260910-trump-says-give-americans-5-000-each-if-republicans-win-midterm-elections",
+      "date": "Thu, 10 Sep 2026 05:15:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Oil spike past $100 dampens stock prices, fans inflation fears",
+      "link": "https://www.france24.com/en/middle-east/20260910-stock-prices-drop-as-oil-spike-fans-fears-of-worsening-inflation",
+      "date": "Thu, 10 Sep 2026 02:47:10 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens",
+      "link": "https://www.rfi.fr/en/international/20260910-bayeux-tapestry-mania-sweeps-uk-as-sold-out-exhibition-opens",
+      "date": "Thu, 10 Sep 2026 02:06:30 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "August hottest month ever recorded globally, says EU monitor",
+      "link": "https://www.rfi.fr/en/international/20260910-august-hottest-month-ever-recorded-globally-says-eu-monitor",
+      "date": "Thu, 10 Sep 2026 02:04:17 GMT"
     },
     {
       "src": "The Guardian",
@@ -148,27 +239,6 @@
       "text": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
       "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
       "date": "Thu, 10 Sep 2026 01:02:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil Supreme Court chief suspends rival rulings amid election row",
-      "link": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
-      "date": "Wed, 09 Sep 2026 23:44:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Champions League: Iraola celebrates Liverpool win against Atletico Madrid",
-      "link": "https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid",
-      "date": "Wed, 09 Sep 2026 23:24:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rubio to seek $45 million in additional security funding for Ecuador",
-      "link": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
-      "date": "Wed, 09 Sep 2026 22:58:25 GMT"
     },
     {
       "src": "The Guardian",
@@ -192,13 +262,6 @@
       "date": "Wed, 09 Sep 2026 21:19:26 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump 'believes in the power of his own charisma', analyst says",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260909-trump-believes-in-the-power-of-his-own-charisma-analyst-says",
-      "date": "Wed, 09 Sep 2026 21:09:54 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "What India Gets Out of BRICS",
@@ -206,32 +269,18 @@
       "date": "Wed, 09 Sep 2026 21:01:50 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump claims firefighters carried him to safety ‘right after’ 9/11, but his account is disputed",
-      "link": "https://www.france24.com/en/trump-claims-firefighters-carried-him-to-safety-right-after-9-11-but-his-account-is-disputed-1",
-      "date": "Wed, 09 Sep 2026 20:52:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Aid cuts force clinic closures across Sudan",
-      "link": "https://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
-      "date": "Wed, 09 Sep 2026 20:32:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran referred to UN Security Council for nuclear non-compliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 09 Sep 2026 20:22:51 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Apple launches first foldable iPhone",
       "link": "https://news.sky.com/story/apple-launches-first-foldable-iphone-its-most-expensive-to-date-13583745",
       "date": "Wed, 09 Sep 2026 21:08:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 09 Sep 2026 20:00:33 GMT"
     },
     {
       "src": "RFI",
@@ -290,13 +339,6 @@
       "date": "Wed, 09 Sep 2026 15:10:53 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 09 Sep 2026 15:01:58 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Container ship arrives in UK after landmark voyage from China via the Arctic",
@@ -309,13 +351,6 @@
       "text": "How Could Iran Happen? An Autopsy.",
       "link": "https://foreignpolicy.com/2026/09/09/trump-iran-deep-state-purges-intelligence-bureaucracy/",
       "date": "Wed, 09 Sep 2026 14:19:47 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 09 Sep 2026 13:29:33 GMT"
     },
     {
       "src": "UN News",
@@ -416,13 +451,6 @@
       "date": "Wed, 09 Sep 2026 04:32:30 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How to Survive in a World Without Rules",
-      "link": "https://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
-      "date": "Wed, 09 Sep 2026 04:02:35 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Babies born to anaemic mothers have smaller brains, study finds",
@@ -430,25 +458,11 @@
       "date": "Wed, 09 Sep 2026 04:00:58 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Breakaway league LIV Golf files for bankruptcy protection",
-      "link": "https://news.sky.com/story/breakaway-league-liv-golf-files-for-bankruptcy-protection-13583339",
-      "date": "Tue, 08 Sep 2026 21:58:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France among 12 nations to sanction trade with Israeli settlements",
       "link": "https://www.rfi.fr/en/international/20260908-france-among-twelve-nations-to-sanction-trade-with-israeli-settlements",
       "date": "Tue, 08 Sep 2026 20:32:37 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "UK summons Serbian diplomat over 'Butcher of Bosnia' funeral",
-      "link": "https://news.sky.com/story/uk-summons-serbian-diplomat-over-countrys-role-in-butcher-of-bosnia-funeral-13583224",
-      "date": "Tue, 08 Sep 2026 16:28:00 +0100"
     },
     {
       "src": "UN News",
@@ -477,20 +491,6 @@
       "text": "Merz ‘deeply shocked’ as far-right victory tests Germany’s political firewall",
       "link": "https://www.rfi.fr/en/international/20260907-merz-deeply-shocked-as-far-right-victory-tests-germany-s-political-firewall",
       "date": "Mon, 07 Sep 2026 15:17:36 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU chief unveils €200m Greenland package amid tensions over Trump claims",
-      "link": "https://www.rfi.fr/en/international/20260907-eu-chief-unveils-%E2%82%AC200m-greenland-package-amid-tensions-over-trump-claims",
-      "date": "Mon, 07 Sep 2026 14:58:35 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Jamaica steps up slavery reparations campaign with petition to King Charles III",
-      "link": "https://www.rfi.fr/en/international/20260907-jamaica-steps-up-slavery-reparations-campaign-with-petition-to-king-charles-iii",
-      "date": "Mon, 07 Sep 2026 12:16:37 GMT"
     },
     {
       "src": "The Guardian",
