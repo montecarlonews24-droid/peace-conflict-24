@@ -1,20 +1,111 @@
 {
-  "updated": "2026-09-10T22:01:04.555Z",
+  "updated": "2026-09-11T00:16:40.944Z",
   "count": 72,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+      "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 23:46:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "link": "https://www.channelnewsasia.com/world/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-6377186",
+      "date": "Fri, 11 Sep 2026 07:26:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meet Sally Amaki, the voice actress-idol whose funny videos regularly go viral: ‘Sometimes you just gotta vent&#039;",
+      "link": "https://www.channelnewsasia.com/entertainment/sally-amaki-voice-actress-interview-6369156",
+      "date": "Fri, 11 Sep 2026 07:25:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
+      "link": "https://www.channelnewsasia.com/world/red-sea-houthis-advance-yemen-coast-saudi-oil-exports-6376816",
+      "date": "Fri, 11 Sep 2026 07:21:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+      "link": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 23:08:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US House to take up bill aimed at curbing data center-driven electricity costs",
+      "link": "https://www.channelnewsasia.com/business/us-house-take-up-bill-aimed-curbing-data-center-driven-electricity-costs-6377411",
+      "date": "Fri, 11 Sep 2026 06:59:38 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "link": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
+      "date": "Thu, 10 Sep 2026 22:55:18 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+      "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 22:33:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Surging oil prices, higher bond yields weigh on stocks",
+      "link": "https://www.channelnewsasia.com/world/surging-oil-prices-higher-bond-yields-weigh-stocks-6377296",
+      "date": "Fri, 11 Sep 2026 06:31:37 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut",
+      "link": "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
+      "date": "Thu, 10 Sep 2026 22:25:34 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Microsoft plans 38 gigawatts of data center capacity by 2032, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/microsoft-plans-38-gigawatts-data-center-capacity-2032-bloomberg-news-reports-6377351",
+      "date": "Fri, 11 Sep 2026 06:21:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: The changing face of terrorism 25 years after 9/11",
+      "link": "https://www.channelnewsasia.com/commentary/911-september-11-terrorism-threat-singapore-asia-6375511",
+      "date": "Fri, 11 Sep 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘No problem at all’: Tour operators, foreign travellers unfazed by China&#039;s new exit-entry rules",
+      "link": "https://www.channelnewsasia.com/east-asia/china-exit-entry-rules-foreign-travellers-tour-operators-6375096",
+      "date": "Fri, 11 Sep 2026 06:00:00 +0800"
+    },
     {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "What Makes a Good Counterterrorism Strategy?",
       "link": "https://foreignpolicy.com/2026/09/10/us-terrorism-9-11-anniversary-jihadism-al-qaeda/",
       "date": "Thu, 10 Sep 2026 21:53:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI can plan your holiday. But would you trust it to book the trip?",
-      "link": "https://www.channelnewsasia.com/experiences/ai-travel-planning-booking-6366406",
-      "date": "Fri, 11 Sep 2026 05:50:34 +0800"
     },
     {
       "src": "France 24",
@@ -24,46 +115,32 @@
       "date": "Thu, 10 Sep 2026 21:50:24 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Mexico coach Marquez intent on leading team to new heights",
-      "link": "https://www.channelnewsasia.com/sport/new-mexico-coach-marquez-intent-leading-team-new-heights-6377281",
-      "date": "Fri, 11 Sep 2026 05:32:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fenerbahce coach announces resignation, club president tells him to stay",
-      "link": "https://www.channelnewsasia.com/sport/fenerbahce-coach-announces-resignation-club-president-tells-him-stay-6377286",
-      "date": "Fri, 11 Sep 2026 05:28:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US lawmakers call on American government to blacklist three Indian hack-for-hire firms",
-      "link": "https://www.channelnewsasia.com/business/us-lawmakers-call-american-government-blacklist-three-indian-hack-hire-firms-6377271",
-      "date": "Fri, 11 Sep 2026 05:27:19 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
+      "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 21:47:14 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 21:19:16 +0000"
+      "text": "LG defends smart-TV features amid audio surveillance allegations",
+      "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 21:33:28 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Gaza hospitals ration power as fuel shortages deepen",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 21:17:09 +0000"
+      "text": "Peru joins US-led ‘Shield of the Americas’ security alliance",
+      "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 21:31:06 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US slaps new sanctions on networks aiding Iran&#039;s proxies in Middle East",
-      "link": "https://www.channelnewsasia.com/world/us-slaps-new-sanctions-networks-aiding-irans-proxies-in-middle-east-6377111",
-      "date": "Fri, 11 Sep 2026 05:08:00 +0800"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
+      "date": "Thu, 10 Sep 2026 21:31:03 +0000"
     },
     {
       "src": "France 24",
@@ -73,60 +150,11 @@
       "date": "Thu, 10 Sep 2026 21:05:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trading Day: Inflation palpitations",
-      "link": "https://www.channelnewsasia.com/business/trading-day-inflation-palpitations-6377261",
-      "date": "Fri, 11 Sep 2026 05:04:58 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian strike hits shopping centre in central Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 21:03:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 21:00:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Manchester United beat Sabah 4-0 on Champions League return",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 20:54:47 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Several killed and injured in Swiss Alps coach crash",
       "link": "https://news.sky.com/story/several-killed-and-injured-as-dutch-tour-bus-overturns-in-swiss-alps-13584148",
       "date": "Thu, 10 Sep 2026 21:53:00 +0100"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "All Blacks ring the changes for last test against South Africa",
-      "link": "https://www.channelnewsasia.com/sport/all-blacks-ring-changes-last-test-against-south-africa-6377226",
-      "date": "Fri, 11 Sep 2026 04:49:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Canada agrees on C$350 million air defense package for Ukraine, Carney says",
-      "link": "https://www.channelnewsasia.com/world/canada-agrees-c350-million-air-defense-package-ukraine-carney-says-6375251",
-      "date": "Fri, 11 Sep 2026 04:47:23 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
-      "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 20:46:16 +0000"
     },
     {
       "src": "BBC World",
@@ -136,25 +164,11 @@
       "date": "Thu, 10 Sep 2026 20:44:51 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will foreign workers leave South Africa?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 20:42:29 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Canada offers air defense support for Ukraine as Zelenskyy visits",
       "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
       "date": "Thu, 10 Sep 2026 20:35:06 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s happening in Yemen and how did we get here?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
-      "date": "Thu, 10 Sep 2026 20:24:47 +0000"
     },
     {
       "src": "France 24",
@@ -204,20 +218,6 @@
       "text": "The Bab el-Mandeb Problem",
       "link": "https://foreignpolicy.com/2026/09/10/houthis-yemen-mokha-port-red-sea-bab-el-mandeb-iran-saudi-arabia-strait-hormuz/",
       "date": "Thu, 10 Sep 2026 20:04:01 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French firefighters on six-week strike after record summer blazes",
-      "link": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
-      "date": "Thu, 10 Sep 2026 19:41:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks",
-      "link": "https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks",
-      "date": "Thu, 10 Sep 2026 19:32:33 GMT"
     },
     {
       "src": "BBC World",
