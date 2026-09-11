@@ -1,27 +1,230 @@
 {
-  "updated": "2026-09-11T09:13:23.885Z",
-  "count": 64,
+  "updated": "2026-09-11T13:40:19.078Z",
+  "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UMNO chief Zahid calls for &#039;immediate&#039; GE16, takes apparent swipes at PM Anwar",
-      "link": "https://www.channelnewsasia.com/asia/umno-general-assembly-zahid-hamidi-anwar-malaysia-6375551",
-      "date": "Fri, 11 Sep 2026 17:04:58 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How the media has changed since 9/11",
+      "link": "https://www.france24.com/en/tv-shows/scoop/20260911-how-the-media-has-changed-since-9-11",
+      "date": "Fri, 11 Sep 2026 13:37:44 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Toei Animation store with One Piece, Dragon Ball and Digimon to open at Jewel Changi Airport in October",
-      "link": "https://www.channelnewsasia.com/entertainment/toei-animation-store-singapore-one-piece-jewel-changi-airport-6378286",
-      "date": "Fri, 11 Sep 2026 17:02:00 +0800"
+      "text": "Morocco PM slams federation chief over 2030 World Cup final boast",
+      "link": "https://www.channelnewsasia.com/sport/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast-6379036",
+      "date": "Fri, 11 Sep 2026 21:33:53 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Oracle shares rise as AI cloud backlog beats estimates",
-      "link": "https://www.channelnewsasia.com/business/oracle-shares-rise-ai-cloud-backlog-beats-estimates-6378456",
-      "date": "Fri, 11 Sep 2026 17:01:19 +0800"
+      "text": "Young, old, single, divorced: The many faces of Singapore’s one-person households",
+      "link": "https://www.channelnewsasia.com/today/big-read/young-old-single-divorced-one-person-households-6375696",
+      "date": "Fri, 11 Sep 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "When going all in doesn’t pay off: Meet the ex-entrepreneurs who chased their dreams and failed",
+      "link": "https://www.channelnewsasia.com/today/ground-up/failed-business-entrepreneurship-reality-challenges-6368881",
+      "date": "Fri, 11 Sep 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "I attended a lecture in a bar and rediscovered the joy of learning so-called useless things",
+      "link": "https://www.channelnewsasia.com/today/voices/learning-fun-working-adults-curiosity-upskilling-6368491",
+      "date": "Fri, 11 Sep 2026 21:30:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Norway's Princess Astrid dies two days after funeral of her brother, the late King Harald",
+      "link": "https://news.sky.com/story/norways-princess-astrid-dies-two-days-after-funeral-of-her-brother-the-late-king-harald-13584441",
+      "date": "Fri, 11 Sep 2026 14:22:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+      "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 13:09:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dollar edges higher against euro after US inflation data",
+      "link": "https://www.channelnewsasia.com/business/dollar-edges-higher-against-euro-after-us-inflation-data-6377536",
+      "date": "Fri, 11 Sep 2026 21:06:15 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Israel’s Soft Power Is Its Hard Power",
+      "link": "https://foreignpolicy.com/2026/09/11/israels-soft-power-is-its-hard-power/",
+      "date": "Fri, 11 Sep 2026 12:54:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ghana&#039;s Inaki Williams announces international retirement",
+      "link": "https://www.channelnewsasia.com/sport/ghanas-inaki-williams-announces-international-retirement-6378961",
+      "date": "Fri, 11 Sep 2026 20:53:15 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russell leads Mercedes one-two in first F1 practice at the Madring",
+      "link": "https://www.channelnewsasia.com/sport/russell-leads-mercedes-one-two-in-first-f1-practice-madring-6378966",
+      "date": "Fri, 11 Sep 2026 20:50:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Francisco Partners, KKR to buy minority stakes in Italy&#039;s TeamSystem, sources say",
+      "link": "https://www.channelnewsasia.com/business/exclusive-francisco-partners-kkr-buy-minority-stakes-in-italys-teamsystem-sources-say-6378931",
+      "date": "Fri, 11 Sep 2026 20:43:36 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 12:30:02 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Myanmar airport closed following reported drone attack",
+      "link": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 12:22:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
+      "link": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 12:09:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 11 Sep 2026 12:04:46 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Jamaica’s Reparations Push",
+      "link": "https://foreignpolicy.com/2026/09/11/jamaica-uk-slavery-reparations-history-colonialism-caribbean/",
+      "date": "Fri, 11 Sep 2026 12:00:57 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 11 Sep 2026 11:34:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final",
+      "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 11:27:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Swiss police report five killed in Dutch tour bus crash",
+      "link": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 11:18:08 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Half a million Russians killed in Ukraine war, British intelligence says",
+      "link": "https://news.sky.com/story/half-a-million-russians-killed-in-ukraine-war-british-intelligence-says-13584379",
+      "date": "Fri, 11 Sep 2026 11:52:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Republican midterm message: Democrats are the threat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 10:50:33 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 11 Sep 2026 10:50:04 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+      "date": "Fri, 11 Sep 2026 10:48:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Canada pledges air defense support for Ukraine as Zelensky visits",
+      "link": "https://www.france24.com/en/video/20260911-canada-pledges-air-defense-support-for-ukraine-as-zelensky-visits",
+      "date": "Fri, 11 Sep 2026 10:06:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Massive' security operation in place for 9/11 anniversary",
+      "link": "https://www.france24.com/en/video/20260911-massive-security-operation-in-place-for-9-11-anniversary",
+      "date": "Fri, 11 Sep 2026 10:04:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Venice gives 25-minute ovation for film on Israel's mass killing of Gaza civilians",
+      "link": "https://www.france24.com/en/video/20260911-venice-gives-25-minute-ovation-for-film-on-israel-s-mass-killing-of-gaza-civilians",
+      "date": "Fri, 11 Sep 2026 09:59:58 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Six Nigerians accused of romance scams to be extradited to the US",
+      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 11 Sep 2026 09:54:51 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nepal: Rescue efforts continue in the aftermath of a flash flooding disaster",
+      "link": "https://www.france24.com/en/tv-shows/reporters/20260911-nepal-rescue-efforts-continue-in-the-aftermath-of-a-flash-flooding-disaster",
+      "date": "Fri, 11 Sep 2026 09:41:40 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel says destroys Hezbollah tunnels as explosions triggers tremor",
+      "link": "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor",
+      "date": "Fri, 11 Sep 2026 09:34:01 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Clashing narratives': How are young Americans today taught about 9/11?",
+      "link": "https://www.france24.com/en/video/20260911-clashing-narratives-how-are-young-americans-today-taught-about-9-11",
+      "date": "Fri, 11 Sep 2026 09:24:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Did the War on Terror succeed? Or did Washington fall into al Qaeda’s trap?",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260911-did-the-war-on-terror-succeed-or-did-washington-fall-into-al-qaeda-s-trap",
+      "date": "Fri, 11 Sep 2026 09:16:34 GMT"
     },
     {
       "src": "BBC World",
@@ -31,62 +234,6 @@
       "date": "Fri, 11 Sep 2026 08:54:20 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "White blazers, pink ties as North Koreans land in Japan for Asian Games",
-      "link": "https://www.channelnewsasia.com/east-asia/north-korea-japan-asian-games-6378421",
-      "date": "Fri, 11 Sep 2026 16:52:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World Athletics Ultimate Championship opens with record $10m prize pot",
-      "link": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:50:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran, Saudi Arabia discuss regional &#039;insecurity&#039; as Yemen fighting flares",
-      "link": "https://www.channelnewsasia.com/world/iran-saudi-arabia-discuss-regional-insecurity-yemen-fighting-flares-6378386",
-      "date": "Fri, 11 Sep 2026 16:48:41 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "25 years after 9/11, a world reshaped by the attacks",
-      "link": "https://www.channelnewsasia.com/world/25-years-after-september-11-attacks-world-reshaped-6378241",
-      "date": "Fri, 11 Sep 2026 16:45:44 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pro-Palestine student suspended by King’s College London returns to campus",
-      "link": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:22:02 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Western athletes try their hand at Kyrgyzstan’s Nomad Games",
-      "link": "https://www.channelnewsasia.com/sport/western-athletes-try-their-hand-kyrgyzstans-nomad-games-6378346",
-      "date": "Fri, 11 Sep 2026 16:21:36 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What did 25 years of the “war on terror” leave behind?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:20:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How 9/11 helped Israel sell its war on Palestinians to America",
-      "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:18:18 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Anthropic blocks possible attempt to use AI to make biological weapons",
@@ -94,67 +241,11 @@
       "date": "Fri, 11 Sep 2026 08:15:25 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anthropic warns of bids to use AI to build biological weapons",
-      "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:08:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
-      "link": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 08:00:28 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
-      "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 07:59:26 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong court jails two Tiananmen vigil group leaders for 7 years",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-court-jails-tiananmen-vigil-group-leaders-6378281",
-      "date": "Fri, 11 Sep 2026 15:58:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US",
-      "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 07:57:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "From hours at security to bulletproof cockpits: How 9/11 changed air travel",
-      "link": "https://www.aljazeera.com/news/2026/9/11/from-hours-at-security-to-bulletproof-cockpits-how-9-11-changed-air?traffic_source=rss",
-      "date": "Fri, 11 Sep 2026 07:43:30 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says",
-      "link": "https://www.france24.com/en/technology/20260911-anthropic-ai-surveillance-targeting-dissidents-china-iran-west-africa",
-      "date": "Fri, 11 Sep 2026 07:35:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 06:54:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Vance tries to label Democrats as 'party of hatred' as he seizes MAGA spotlight",
-      "link": "https://www.france24.com/en/americas/20260911-vance-tries-label-democrats-as-party-of-hatred-seizes-maga-spotlight",
-      "date": "Fri, 11 Sep 2026 06:45:36 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Anthropic blocks effort to use AI to research potential biological weapons",
+      "link": "https://news.sky.com/story/anthropic-blocks-effort-to-use-ai-to-research-potential-biological-weapons-13584258",
+      "date": "Fri, 11 Sep 2026 09:13:00 +0100"
     },
     {
       "src": "Sky News",
@@ -166,16 +257,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Man jailed after threatening to kill son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 06:28:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lens secure an epic comeback win to kick off their Champions League campaign",
-      "link": "https://www.france24.com/en/sport/20260911-lens-secure-epic-comeback-win-kick-off-their-champions-league-campaign",
-      "date": "Fri, 11 Sep 2026 05:57:52 GMT"
+      "text": "Philippine rescuers board ferry 40 hours after blaze began",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 11 Sep 2026 06:33:15 GMT"
     },
     {
       "src": "BBC World",
@@ -192,13 +276,6 @@
       "date": "Fri, 11 Sep 2026 05:16:42 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Yemen’s Houthis seize key island in Bab al-Mandab strait",
-      "link": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
-      "date": "Fri, 11 Sep 2026 04:52:21 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Putin in India for Brics summit overshadowed by war",
@@ -211,41 +288,6 @@
       "text": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
       "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
       "date": "Fri, 11 Sep 2026 04:00:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars",
-      "link": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
-      "date": "Fri, 11 Sep 2026 02:08:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hong Kong court sentences Tiananmen vigil activists to between 5 and 7 years in jail",
-      "link": "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail",
-      "date": "Fri, 11 Sep 2026 01:49:17 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump absent as New York marks 25 years since 9/11 with first Muslim mayor",
-      "link": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
-      "date": "Fri, 11 Sep 2026 01:47:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "link": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
-      "date": "Thu, 10 Sep 2026 22:55:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 22:36:02 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -290,13 +332,6 @@
       "date": "Thu, 10 Sep 2026 18:18:51 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 10 Sep 2026 18:15:47 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
@@ -339,6 +374,41 @@
       "date": "Thu, 10 Sep 2026 12:00:38 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Human cost of violence in South Sudan ‘continues to grow’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "At least 20 people killed after fire breaks out on cargo ship in Chinese port",
@@ -358,27 +428,6 @@
       "text": "Inside Trump's Texan convention",
       "link": "https://news.sky.com/story/insidetrumps-texanconvention-13583928",
       "date": "Thu, 10 Sep 2026 11:22:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Iceland set to open store in Falklands and become first UK high street retailer on islands",
-      "link": "https://news.sky.com/story/iceland-set-to-open-store-in-falklands-and-become-first-uk-high-street-retailer-on-islands-13583914",
-      "date": "Thu, 10 Sep 2026 11:08:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Top Signs You’re Heading for a Quagmire",
-      "link": "https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/",
-      "date": "Thu, 10 Sep 2026 06:57:24 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least five dead and more than 80 missing after fire on Philippines ferry",
-      "link": "https://news.sky.com/story/at-least-five-dead-and-dozens-missing-after-fire-on-philippines-ferry-13583838",
-      "date": "Thu, 10 Sep 2026 06:40:00 +0100"
     },
     {
       "src": "RFI",
@@ -409,20 +458,6 @@
       "date": "Wed, 09 Sep 2026 22:19:25 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran Launches Massive Attack on Global Shipping",
-      "link": "https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/",
-      "date": "Wed, 09 Sep 2026 21:19:26 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Apple launches first foldable iPhone",
-      "link": "https://news.sky.com/story/apple-launches-first-foldable-iphone-its-most-expensive-to-date-13583745",
-      "date": "Wed, 09 Sep 2026 21:08:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Europe’s ‘imagination gap’ risks empowering far right, survey warns",
@@ -435,6 +470,27 @@
       "text": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
       "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
       "date": "Wed, 09 Sep 2026 18:20:24 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168306",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Flood-ravaged Nepal calls for climate justice",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168305",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168303",
+      "date": "Wed, 09 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
