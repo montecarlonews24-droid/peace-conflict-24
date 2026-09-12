@@ -1,55 +1,181 @@
 {
-  "updated": "2026-09-12T04:46:35.308Z",
+  "updated": "2026-09-12T08:54:38.572Z",
   "count": 64,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Festival Of Thrills at RWS returns with Halloween Horror Nights, Minions live show, racing experiences and more",
-      "link": "https://www.channelnewsasia.com/entertainment/festival-thrills-resorts-world-sentosa-2026-6379881",
-      "date": "Sat, 12 Sep 2026 12:29:30 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump at residence of Irish president  for first engagement during visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 08:53:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French police investigate suspected sabotage in train derailment",
+      "link": "https://www.france24.com/en/europe/20260912-french-police-investigate-suspected-sabotage-in-train-derailment",
+      "date": "Sat, 12 Sep 2026 08:48:48 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 08:04:16 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Antonio returns to English football with Watford move",
-      "link": "https://www.channelnewsasia.com/sport/antonio-returns-english-football-watford-move-6379966",
-      "date": "Sat, 12 Sep 2026 12:03:34 +0800"
+      "text": "Saudi Arabia shuts down pipeline as Houthis seize island, opening new front in Iran war",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-yemen-houthi-rebels-bab-el-mandeb-strait-iran-war-6379486",
+      "date": "Sat, 12 Sep 2026 15:48:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 04:00:23 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Southeast Asia&#039;s first Moutai House opens at Fullerton Waterboat House in October",
-      "link": "https://www.channelnewsasia.com/dining/moutai-house-singapore-fullerton-waterboat-house-6376676",
-      "date": "Sat, 12 Sep 2026 12:00:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "First bodies of Philippines ferry fire victims land as toll hits 35",
-      "link": "https://www.channelnewsasia.com/asia/philippine-ferry-fire-death-toll-palawan-6379931",
-      "date": "Sat, 12 Sep 2026 11:55:00 +0800"
+      "text": "Trump may be BRICS’s best recruitment agent",
+      "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 07:44:06 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Mexican authorities rescue eight from violent cartel’s secret site",
-      "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 03:32:54 +0000"
+      "text": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+      "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 07:40:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How to plan a wedding when you don’t know what tomorrow will bring",
+      "link": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 07:33:24 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Brics leaders gather in New Delhi as bloc seeks greater global influence",
+      "link": "https://www.rfi.fr/en/international/20260912-brics-leaders-gather-in-new-delhi-as-bloc-seeks-greater-global-influence",
+      "date": "Sat, 12 Sep 2026 07:24:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man waving Palestinian flag tackled on Yankee Stadium field",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 07:17:38 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/mondo-duplantis-jakob-ingebrigtsen-world-athletics-ultimate-championship?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 07:17:37 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "BRICS leaders gather in India as wars and US tensions test unity",
+      "link": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
+      "date": "Sat, 12 Sep 2026 06:51:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Shelton advances to US Open 2026 men’s final for Zverev showdown",
+      "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 06:40:00 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Shelton advances to US Open final for Zverev showdown",
-      "link": "https://www.channelnewsasia.com/sport/shelton-advances-us-open-final-zverev-showdown-6379916",
-      "date": "Sat, 12 Sep 2026 11:16:02 +0800"
+      "text": "Malaysia’s Islamist party PAS criticised over latest proposal to reserve Cabinet roles for Muslims",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-pas-hadi-muslim-cabinet-roles-criticism-6380086",
+      "date": "Sat, 12 Sep 2026 14:25:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "20 Team Singapore athletes to compete in nine sports at Asian Para Games in Japan",
+      "link": "https://www.channelnewsasia.com/sport/asian-para-games-team-singapore-athletes-japan-6380066",
+      "date": "Sat, 12 Sep 2026 14:23:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘War on terror’: How 9/11 changed the language of conflict",
+      "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 05:26:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Celine Dion poised for emotional comeback concert in Paris",
+      "link": "https://www.france24.com/en/europe/20260912-a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
+      "date": "Sat, 12 Sep 2026 05:23:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Chileans clash over 9/11 military coup legacy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 05:22:29 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shelton relishing challenge of first Grand Slam final against Zverev",
+      "link": "https://www.channelnewsasia.com/sport/shelton-relishing-challenge-first-grand-slam-final-against-zverev-6380056",
+      "date": "Sat, 12 Sep 2026 13:20:46 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Saudi Arabia shuts down critical oil pipeline after attacks",
+      "link": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+      "date": "Sat, 12 Sep 2026 05:19:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spurs&#039; Mudryk sidelined by injury after comeback from doping ban",
+      "link": "https://www.channelnewsasia.com/sport/spurs-mudryk-sidelined-injury-after-comeback-doping-ban-6380061",
+      "date": "Sat, 12 Sep 2026 13:19:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tiafoe proud of comeback season despite Shelton semi-final loss",
+      "link": "https://www.channelnewsasia.com/sport/tiafoe-proud-comeback-season-despite-shelton-semi-final-loss-6380026",
+      "date": "Sat, 12 Sep 2026 13:02:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Police warn of rise in unauthorised cryptocurrency account access through compromised emails",
+      "link": "https://www.channelnewsasia.com/singapore/cryptocurrency-unauthorised-access-compromised-emails-data-breach-scams-6380001",
+      "date": "Sat, 12 Sep 2026 13:00:49 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lady Gaga welcomes first child with fiance: US media",
+      "link": "https://www.channelnewsasia.com/entertainment/lady-gaga-first-child-6380016",
+      "date": "Sat, 12 Sep 2026 12:46:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 04:43:10 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Woman, 54, gives birth after using embryo frozen for 22 years",
+      "link": "https://news.sky.com/story/greek-woman-54-gives-birth-after-using-embryo-frozen-for-22-years-13584694",
+      "date": "Sat, 12 Sep 2026 04:51:00 +0100"
     },
     {
       "src": "BBC World",
@@ -66,81 +192,18 @@
       "date": "Sat, 12 Sep 2026 02:29:49 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-      "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 02:25:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 02:22:29 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Xi Jinping heads to India for BRICS summit overshadowed by war",
-      "link": "https://www.channelnewsasia.com/asia/brics-china-xi-jinping-india-modi-war-6379866",
-      "date": "Sat, 12 Sep 2026 10:20:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 02:18:52 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Trump due to arrive in Ireland as major security operation under way",
+      "text": "Trump arrives in Ireland as major security operation under way",
       "link": "https://news.sky.com/story/trump-due-to-arrive-in-ireland-as-major-security-operation-under-way-13584681",
       "date": "Sat, 12 Sep 2026 03:06:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-      "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 01:22:41 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Canadians are bracing for the impact of Trump’s trade war",
-      "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 00:52:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Passenger train derails in France, leaving 44 injured, 1 critical",
-      "link": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 00:36:44 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Zverev goes from &#039;pointless&#039; start to US Open final",
-      "link": "https://www.channelnewsasia.com/sport/zverev-goes-pointless-start-us-open-final-6379796",
-      "date": "Sat, 12 Sep 2026 08:00:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Blackpink&#039;s Jisoo hopes fans see more of her personality on new album",
-      "link": "https://www.channelnewsasia.com/entertainment/blackpink-jisoo-new-album-6379781",
-      "date": "Sat, 12 Sep 2026 07:43:52 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 22:17:45 GMT"
+      "text": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 00:43:00 GMT"
     },
     {
       "src": "BBC World",
@@ -206,13 +269,6 @@
       "date": "Fri, 11 Sep 2026 19:13:14 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Can we slowdown AI, and 9/11, who has the right to remember?",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260911-can-we-slowdown-ai-and-9-11-who-has-the-right-to-remember",
-      "date": "Fri, 11 Sep 2026 18:43:53 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Deaths in Philippines ferry fire rises to at least 35",
@@ -248,41 +304,6 @@
       "date": "Fri, 11 Sep 2026 16:24:29 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
-      "link": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
-      "date": "Fri, 11 Sep 2026 16:21:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
-      "link": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
-      "date": "Fri, 11 Sep 2026 16:11:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 16:00:59 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 15:50:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump delivers remarks at Pentagon ceremony to mark 25th anniversary of 9/11",
-      "link": "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11",
-      "date": "Fri, 11 Sep 2026 15:29:15 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "At least 44 people injured after train derails in northern France",
@@ -306,23 +327,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "<a href='https://news.sky.com/story/the-most-striking-pictures-of-the-week-13584410'>Most striking pictures of the week</a>",
-      "link": "https://news.sky.com/story/most-striking-pictures-of-the-week-13584464",
-      "date": "Fri, 11 Sep 2026 15:25:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Norway's Princess Astrid dies two days after funeral of her brother, the late King Harald",
       "link": "https://news.sky.com/story/norways-princess-astrid-dies-two-days-after-funeral-of-her-brother-the-late-king-harald-13584441",
       "date": "Fri, 11 Sep 2026 14:22:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 11 Sep 2026 10:50:04 GMT"
     },
     {
       "src": "Sky News",
@@ -421,13 +428,6 @@
       "text": "Notorious Ecuadorian crime gang designated a terrorist group by US",
       "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
       "date": "Wed, 09 Sep 2026 22:19:25 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Europe’s ‘imagination gap’ risks empowering far right, survey warns",
-      "link": "https://www.rfi.fr/en/international/20260909-europe-s-imagination-gap-risks-empowering-far-right-survey-warns",
-      "date": "Wed, 09 Sep 2026 18:53:19 GMT"
     },
     {
       "src": "The Guardian",
