@@ -1,20 +1,125 @@
 {
-  "updated": "2026-09-12T17:56:01.602Z",
-  "count": 64,
+  "updated": "2026-09-12T19:50:36.326Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Second crypto billionaire says donated record £36 million to Reform UK",
+      "link": "https://www.channelnewsasia.com/world/second-crypto-billionaire-says-donated-record-ps36-million-reform-uk-6380681",
+      "date": "Sun, 13 Sep 2026 03:46:33 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fire at nursing home in Chile kills 16 residents",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 19:36:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+      "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:34:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:17:37 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Danish WWII drama wins Golden Lion at Venice Film Festival",
+      "link": "https://www.france24.com/en/culture/20260912-danish-wwii-drama-wins-golden-lion-at-venice-film-festival",
+      "date": "Sat, 12 Sep 2026 19:15:14 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Werro outpaces Hodgkinson to win inaugural Ultimate Championship 800m title",
+      "link": "https://www.channelnewsasia.com/sport/werro-outpaces-hodgkinson-win-inaugural-ultimate-championship-800m-title-6380671",
+      "date": "Sun, 13 Sep 2026 03:05:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
+      "link": "https://www.channelnewsasia.com/world/anthropic-boss-calls-ai-slowdown-altman-and-musk-agree-6380651",
+      "date": "Sun, 13 Sep 2026 03:04:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shelton bids to end US men&#039;s major drought in final with Zverev",
+      "link": "https://www.channelnewsasia.com/sport/shelton-bids-end-us-mens-major-drought-in-final-zverev-6380676",
+      "date": "Sun, 13 Sep 2026 03:04:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
+      "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:02:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 18:53:31 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Has Trump Left MBS hanging over Yemen?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260912-has-trump-left-mbs-hanging-over-yemen",
+      "date": "Sat, 12 Sep 2026 18:49:43 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "link": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641",
+      "date": "Sun, 13 Sep 2026 02:47:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Larry Ellison cancels plan to sell Oracle stock",
+      "link": "https://www.channelnewsasia.com/business/larry-ellison-cancels-plan-sell-oracle-stock-6380631",
+      "date": "Sun, 13 Sep 2026 02:38:16 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 18:36:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Harrison and Skupski win US Open men&#039;s doubles title",
+      "link": "https://www.channelnewsasia.com/sport/harrison-and-skupski-win-us-open-mens-doubles-title-6380616",
+      "date": "Sun, 13 Sep 2026 02:26:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Milan substitutes come to the rescue as they draw at Lazio",
+      "link": "https://www.channelnewsasia.com/sport/milan-substitutes-come-rescue-they-draw-lazio-6380621",
+      "date": "Sun, 13 Sep 2026 02:25:49 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 12 Sep 2026 17:42:38 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool draw blank as Iraola&#039;s players struggle to click",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-draw-blank-iraolas-players-struggle-click-6380581",
-      "date": "Sun, 13 Sep 2026 01:38:37 +0800"
     },
     {
       "src": "Al Jazeera",
@@ -38,60 +143,11 @@
       "date": "Sat, 12 Sep 2026 17:15:45 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Couple welcomes child from embryo frozen for 22 years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/couple-welcomes-child-from-embryo-frozen-for-22-years?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 17:14:46 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Tens of thousands protest against far-right AfD party in Germany",
       "link": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
       "date": "Sat, 12 Sep 2026 17:12:10 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Overtaking at the Madring? Not a chance, says Verstappen",
-      "link": "https://www.channelnewsasia.com/sport/overtaking-madring-not-chance-says-verstappen-6380561",
-      "date": "Sun, 13 Sep 2026 01:10:37 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hull extend unbeaten start with 2-2 draw at Chelsea",
-      "link": "https://www.channelnewsasia.com/sport/hull-extend-unbeaten-start-2-2-draw-chelsea-6380566",
-      "date": "Sun, 13 Sep 2026 01:09:09 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Aryna Sabalenka vs Elena Rybakina live: US Open women’s singles final 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 17:07:54 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Liverpool and Chelsea held, wins for Forest and Ipswich",
-      "link": "https://www.channelnewsasia.com/sport/liverpool-and-chelsea-held-wins-forest-and-ipswich-6380541",
-      "date": "Sun, 13 Sep 2026 00:59:12 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Revolut confirms sensitive customer data breach, falling for fake government requests",
-      "link": "https://www.channelnewsasia.com/business/revolut-confirms-sensitive-customer-data-breach-falling-fake-government-requests-6380536",
-      "date": "Sun, 13 Sep 2026 00:58:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Chelsea draw with Hull, Liverpool held by Fulham and Villa remain winless",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/chelsea-draw-with-hull-liverpool-held-by-fulham-and-villa-remain-winless?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 16:57:52 +0000"
     },
     {
       "src": "BBC World",
@@ -101,32 +157,11 @@
       "date": "Sat, 12 Sep 2026 16:55:31 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man gets nine years over robbery of Manchester City&#039;s Donnarumma",
-      "link": "https://www.channelnewsasia.com/sport/man-gets-nine-years-over-robbery-manchester-citys-donnarumma-6380516",
-      "date": "Sun, 13 Sep 2026 00:42:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ingebrigtsen pulls out of Ultimate Championship 1,500m, delaying Kerr showdown",
-      "link": "https://www.channelnewsasia.com/sport/ingebrigtsen-pulls-out-ultimate-championship-1500m-delaying-kerr-showdown-6380501",
-      "date": "Sun, 13 Sep 2026 00:15:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will the Houthi attacks activate the Mecca Pact?",
-      "link": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 16:06:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
-      "link": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 15:58:53 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France beats Germany to reach first women's World Cup basketball  final",
+      "link": "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final",
+      "date": "Sat, 12 Sep 2026 16:29:10 GMT"
     },
     {
       "src": "France 24",
@@ -134,13 +169,6 @@
       "text": "Kenya: Crocodiles pushed towards homes by rising lakes",
       "link": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
       "date": "Sat, 12 Sep 2026 15:51:07 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mas survives final test to all but secure Vuelta victory",
-      "link": "https://www.channelnewsasia.com/sport/mas-survives-final-test-all-secure-vuelta-victory-6380496",
-      "date": "Sat, 12 Sep 2026 23:51:04 +0800"
     },
     {
       "src": "France 24",
@@ -162,13 +190,6 @@
       "text": "French police suspect train derailment was sabotage",
       "link": "https://www.france24.com/en/video/20260912-french-police-suspect-train-derailment-was-sabotage",
       "date": "Sat, 12 Sep 2026 15:47:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "BRICS: What is in the joint statement from the 11 members?",
-      "link": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members",
-      "date": "Sat, 12 Sep 2026 15:45:34 GMT"
     },
     {
       "src": "RFI",
@@ -199,20 +220,6 @@
       "date": "Sat, 12 Sep 2026 15:05:53 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "BRICS nations urge 'maximum restraint' in Middle East war",
-      "link": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
-      "date": "Sat, 12 Sep 2026 14:42:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Céline Dion's comeback: Why did she choose Paris?",
-      "link": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-s-come-back-why-did-she-choose-paris",
-      "date": "Sat, 12 Sep 2026 14:41:09 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Six Nigerians extradited to US over $6M online romance scam",
@@ -234,11 +241,11 @@
       "date": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 10:00:05 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168320",
+      "date": "Sat, 12 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -353,6 +360,34 @@
       "date": "Fri, 11 Sep 2026 14:22:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The world just had the hottest August ever",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168317",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Surge in displacement following fighting in southwest Yemen",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168314",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168313",
+      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Israel strike on Hezbollah tunnel triggers earthquake-like tremor",
@@ -414,6 +449,27 @@
       "text": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
       "link": "https://www.rfi.fr/en/international/20260910-algeria-cuts-diplomatic-ties-with-uae-after-years-of-mounting-tensions",
       "date": "Thu, 10 Sep 2026 13:47:29 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
