@@ -1,7 +1,112 @@
 {
-  "updated": "2026-09-12T19:50:36.326Z",
+  "updated": "2026-09-12T21:45:36.598Z",
   "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 21:25:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 12 Sep 2026 21:16:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mbappe scores brace as Real Madrid secure routine victory over Rayo Vallecano",
+      "link": "https://www.channelnewsasia.com/sport/mbappe-scores-brace-real-madrid-secure-routine-victory-over-rayo-vallecano-6380771",
+      "date": "Sun, 13 Sep 2026 05:15:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Guimaraes opens Arsenal account in win at Sunderland",
+      "link": "https://www.channelnewsasia.com/sport/guimaraes-opens-arsenal-account-in-win-sunderland-6380761",
+      "date": "Sun, 13 Sep 2026 05:05:16 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+      "link": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "date": "Sat, 12 Sep 2026 20:51:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 20:44:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Second crypto billionaire donates record $49m to far-right Reform UK",
+      "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 20:43:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fire at nursing home in Chile kills 16 elderly residents",
+      "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 20:42:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+      "link": "https://www.channelnewsasia.com/business/openai-ipo-will-not-happen-in-2026-amid-ai-safety-fears-altman-says-6380731",
+      "date": "Sun, 13 Sep 2026 04:38:16 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants",
+      "link": "https://www.channelnewsasia.com/asia/russian-attacks-kill-six-injure-dozens-in-ukraine-moscow-says-it-hits-ships-plants-6380511",
+      "date": "Sun, 13 Sep 2026 04:32:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Holders US battle past Spain to reach women&#039;s World Cup final",
+      "link": "https://www.channelnewsasia.com/sport/holders-us-battle-past-spain-reach-womens-world-cup-final-6380716",
+      "date": "Sun, 13 Sep 2026 04:22:05 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Céline Dion makes historic Paris comeback, six years after last tour",
+      "link": "https://www.france24.com/en/culture/20260912-c%C3%A9line-dion-makes-historic-comeback-in-paris-six-years-after-last-tour",
+      "date": "Sat, 12 Sep 2026 20:05:53 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel bombs southern Lebanon as talks postponed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:56:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:50:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US court blocks Trump administration plan to cut disaster agency workforce",
+      "link": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+      "date": "Sat, 12 Sep 2026 19:49:29 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
@@ -52,95 +157,11 @@
       "date": "Sun, 13 Sep 2026 03:04:28 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shelton bids to end US men&#039;s major drought in final with Zverev",
-      "link": "https://www.channelnewsasia.com/sport/shelton-bids-end-us-mens-major-drought-in-final-zverev-6380676",
-      "date": "Sun, 13 Sep 2026 03:04:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
-      "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 19:02:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 18:53:31 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Has Trump Left MBS hanging over Yemen?",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260912-has-trump-left-mbs-hanging-over-yemen",
       "date": "Sat, 12 Sep 2026 18:49:43 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "link": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641",
-      "date": "Sun, 13 Sep 2026 02:47:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Larry Ellison cancels plan to sell Oracle stock",
-      "link": "https://www.channelnewsasia.com/business/larry-ellison-cancels-plan-sell-oracle-stock-6380631",
-      "date": "Sun, 13 Sep 2026 02:38:16 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran, UAE hold first talks at BRICS summit since conflict began",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 18:36:17 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Harrison and Skupski win US Open men&#039;s doubles title",
-      "link": "https://www.channelnewsasia.com/sport/harrison-and-skupski-win-us-open-mens-doubles-title-6380616",
-      "date": "Sun, 13 Sep 2026 02:26:31 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Milan substitutes come to the rescue as they draw at Lazio",
-      "link": "https://www.channelnewsasia.com/sport/milan-substitutes-come-rescue-they-draw-lazio-6380621",
-      "date": "Sun, 13 Sep 2026 02:25:49 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 17:42:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Selling the war: Purges, polygraphs and propaganda",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 17:31:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 17:18:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man arrested over killing of Tasia Fortune, found hanging from tree",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 17:15:45 +0000"
     },
     {
       "src": "France 24",
@@ -159,7 +180,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France beats Germany to reach first women's World Cup basketball  final",
+      "text": "France beats Germany to reach first women's World Cup basketball final",
       "link": "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final",
       "date": "Sat, 12 Sep 2026 16:29:10 GMT"
     },
@@ -176,20 +197,6 @@
       "text": "Trump in Ireland: What are Irish people saying about the visit?",
       "link": "https://www.france24.com/en/video/20260912-trump-in-ireland-what-are-irish-people-saying-about-the-visit",
       "date": "Sat, 12 Sep 2026 15:50:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'The excitement is just too much!': Céline Dion poised for emotional comeback in Paris",
-      "link": "https://www.france24.com/en/video/20260912-the-excitement-is-just-too-much-celine-dion-poised-for-emotional-comeback-in-paris",
-      "date": "Sat, 12 Sep 2026 15:49:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French police suspect train derailment was sabotage",
-      "link": "https://www.france24.com/en/video/20260912-french-police-suspect-train-derailment-was-sabotage",
-      "date": "Sat, 12 Sep 2026 15:47:35 GMT"
     },
     {
       "src": "RFI",
@@ -222,16 +229,9 @@
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Six Nigerians extradited to US over $6M online romance scam",
+      "text": "Six Nigerians extradited to US over $6m online romance scam",
       "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
       "date": "Sat, 12 Sep 2026 14:05:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 13:56:20 GMT"
     },
     {
       "src": "BBC World",
