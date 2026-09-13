@@ -1,13 +1,111 @@
 {
-  "updated": "2026-09-13T16:29:50.971Z",
+  "updated": "2026-09-13T18:52:38.292Z",
   "count": 64,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 18:49:37 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump doubles down on united Ireland comments on day two of visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 18:49:28 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Anthropic selects Nasdaq for IPO, Business Insider reports",
-      "link": "https://www.channelnewsasia.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-6381551",
-      "date": "Mon, 14 Sep 2026 00:23:27 +0800"
+      "text": "VAR in focus as Haaland goal gives Man City controversial derby win",
+      "link": "https://www.channelnewsasia.com/sport/var-in-focus-haaland-goal-gives-man-city-controversial-derby-win-6381696",
+      "date": "Mon, 14 Sep 2026 02:42:47 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dos Santos delivers again as Sedjati springs 800m surprise in Budapest",
+      "link": "https://www.channelnewsasia.com/sport/dos-santos-delivers-again-sedjati-springs-800m-surprise-in-budapest-6381701",
+      "date": "Mon, 14 Sep 2026 02:42:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norris goes from Madring pole high to feeling &#039;insanely unlucky&#039;",
+      "link": "https://www.channelnewsasia.com/sport/norris-goes-madring-pole-high-feeling-insanely-unlucky-6381691",
+      "date": "Mon, 14 Sep 2026 02:36:36 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "About 500 evacuated as wildfire rages on Croatian island of Brac",
+      "link": "https://www.channelnewsasia.com/world/about-500-evacuated-wildfire-rages-croatian-island-brac-6381686",
+      "date": "Mon, 14 Sep 2026 02:35:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lowry delights home fans and cheering Trump with Irish Open win",
+      "link": "https://www.channelnewsasia.com/sport/lowry-delights-home-fans-and-cheering-trump-irish-open-win-6381681",
+      "date": "Mon, 14 Sep 2026 02:32:10 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sweden's centre-left opposition leads election as far-right slips, exit polls show",
+      "link": "https://www.france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show",
+      "date": "Sun, 13 Sep 2026 18:25:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 18:20:22 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 18:15:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kane winner hands Bayern laborious 2-1 win at promoted  Elversberg",
+      "link": "https://www.channelnewsasia.com/sport/kane-winner-hands-bayern-laborious-2-1-win-promoted-elversberg-6381666",
+      "date": "Mon, 14 Sep 2026 02:04:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mas wins Vuelta a Espana for maiden Grand Tour victory",
+      "link": "https://www.channelnewsasia.com/sport/mas-wins-vuelta-espana-maiden-grand-tour-victory-6381641",
+      "date": "Mon, 14 Sep 2026 01:51:44 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran says Oman meeting aims to boost security cooperation",
+      "link": "https://www.channelnewsasia.com/world/iran-says-oman-meeting-aims-boost-security-cooperation-6381626",
+      "date": "Mon, 14 Sep 2026 01:49:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 17:38:29 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "French TV programme pulled after actress speaks out on Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 17:15:36 +0000"
     },
     {
       "src": "Al Jazeera",
@@ -24,18 +122,18 @@
       "date": "Sun, 13 Sep 2026 16:11:41 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 16:05:41 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
       "link": "https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss",
       "date": "Sun, 13 Sep 2026 16:05:33 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sweden: Tight election puts all eyes on the far right",
+      "link": "https://www.france24.com/en/sweden-tight-election-puts-all-eyes-on-the-far-right",
+      "date": "Sun, 13 Sep 2026 15:55:50 GMT"
     },
     {
       "src": "Al Jazeera",
@@ -45,18 +143,11 @@
       "date": "Sun, 13 Sep 2026 15:50:46 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump doubles down on united Ireland comments on day two of visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 15:42:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump says &#039;very negative forces&#039; raising exaggerated concerns over AI",
-      "link": "https://www.channelnewsasia.com/world/trump-ai-concerns-negative-forces-6381456",
-      "date": "Sun, 13 Sep 2026 23:42:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "AI : 'We need to take the risk seriously and have more coordination'",
+      "link": "https://www.france24.com/en/ai-we-need-to-take-the-risk-seriously-and-have-more-coordination",
+      "date": "Sun, 13 Sep 2026 15:50:30 GMT"
     },
     {
       "src": "France 24",
@@ -73,13 +164,6 @@
       "date": "Sun, 13 Sep 2026 15:40:24 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US congressman swims to safety after his plane is forced to land on a lake",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 15:30:43 GMT"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
@@ -89,7 +173,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Boris Johnson in Ukraine security scare after train hit by Russian drone - reports",
+      "text": "Boris Johnson in Ukraine security scare after train hit by Russian drone",
       "link": "https://news.sky.com/story/boris-johnson-in-ukraine-security-scare-after-train-hit-by-russian-drone-reports-13585471",
       "date": "Sun, 13 Sep 2026 16:22:00 +0100"
     },
@@ -108,53 +192,11 @@
       "date": "Sun, 13 Sep 2026 15:04:49 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What are the five pros and cons of artificial intelligence?",
-      "link": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 15:03:48 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Valencia sack CEO and manager Corberan after winless start to season",
-      "link": "https://www.channelnewsasia.com/sport/valencia-sack-ceo-and-manager-corberan-after-winless-start-season-6381486",
-      "date": "Sun, 13 Sep 2026 23:01:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 15:00:47 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Antonelli is Madring&#039;s first F1 winner after slow pitstop thwarts Norris",
-      "link": "https://www.channelnewsasia.com/sport/antonelli-madrings-first-f1-winner-after-slow-pitstop-thwarts-norris-6381481",
-      "date": "Sun, 13 Sep 2026 22:56:20 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 14:53:40 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 13 Sep 2026 14:25:56 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldo calls for lifetime bans after &#039;Jota&#039; chants aimed at Neves",
-      "link": "https://www.channelnewsasia.com/sport/ronaldo-calls-lifetime-bans-after-jota-chants-aimed-neves-6381436",
-      "date": "Sun, 13 Sep 2026 22:24:17 +0800"
     },
     {
       "src": "BBC World",
@@ -185,53 +227,11 @@
       "date": "Sun, 13 Sep 2026 13:17:21 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Marquez seizes championship lead with San Marino win after Bezzecchi crash",
-      "link": "https://www.channelnewsasia.com/sport/marquez-seizes-championship-lead-san-marino-win-after-bezzecchi-crash-6381396",
-      "date": "Sun, 13 Sep 2026 21:16:34 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
-      "link": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
-      "date": "Sun, 13 Sep 2026 13:15:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Swedish far-right eyes role in government",
-      "link": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
-      "date": "Sun, 13 Sep 2026 13:11:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Radio France staff strike over appointment of far-right weekly editor",
-      "link": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
-      "date": "Sun, 13 Sep 2026 12:44:54 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-      "link": "https://www.channelnewsasia.com/world/saudi-pipeline-houthis-global-oil-6381366",
-      "date": "Sun, 13 Sep 2026 20:40:00 +0800"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "From townships to TikTok, South Africa's amapiano gets the world dancing",
       "link": "https://www.rfi.fr/en/international/20260913-from-townships-to-tiktok-as-south-africa-amapiano-gets-the-world-dancing",
       "date": "Sun, 13 Sep 2026 12:18:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New era beckons for holders Al-Ahli ahead of Asian Champions League title defence",
-      "link": "https://www.channelnewsasia.com/sport/new-era-beckons-holders-al-ahli-ahead-asian-champions-league-title-defence-6381326",
-      "date": "Sun, 13 Sep 2026 20:00:04 +0800"
     },
     {
       "src": "BBC World",
