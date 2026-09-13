@@ -1,118 +1,139 @@
 {
-  "updated": "2026-09-13T01:18:36.699Z",
-  "count": 72,
+  "updated": "2026-09-13T06:22:02.025Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;Second life&#039;: Nepal tunnel survivor recalls ordeal",
+      "link": "https://www.channelnewsasia.com/asia/nepal-china-disaster-tunnel-survivor-ordeal-6381081",
+      "date": "Sun, 13 Sep 2026 13:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sainz to start home Spanish GP 20th after three-place grid penalty",
+      "link": "https://www.channelnewsasia.com/sport/sainz-start-home-spanish-gp-20th-after-three-place-grid-penalty-6381116",
+      "date": "Sun, 13 Sep 2026 13:27:22 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "link": "https://www.channelnewsasia.com/business/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-6381111",
+      "date": "Sun, 13 Sep 2026 13:27:13 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
+      "link": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "date": "Sun, 13 Sep 2026 05:11:17 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "1,400 Yemenis flee to Djibouti within 24 hours",
+      "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 04:40:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Search underway for Indonesian passenger ship carrying 240 people after it loses contact",
+      "link": "https://www.channelnewsasia.com/asia/search-indonesia-passenger-ship-loses-contact-6381016",
+      "date": "Sun, 13 Sep 2026 12:37:50 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 04:22:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Modi and Xi &#039;expressed commitment&#039; to resolving border issue, strengthening ties",
+      "link": "https://www.channelnewsasia.com/asia/xi-modi-india-china-brics-summit-6381056",
+      "date": "Sun, 13 Sep 2026 12:01:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+      "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 03:41:14 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Search for 140 people missing from Indonesian passenger ship",
+      "link": "https://news.sky.com/story/indonesia-search-for-140-people-missing-from-passenger-ship-13585242",
+      "date": "Sun, 13 Sep 2026 04:34:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Speculators turn net long on yen for first time since February",
+      "link": "https://www.channelnewsasia.com/business/speculators-turn-net-long-yen-first-time-february-6381026",
+      "date": "Sun, 13 Sep 2026 11:07:48 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 02:44:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/we-started-to-plummet-turbulence-rocks-turkish-airlines-flight?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 02:37:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+      "link": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 02:32:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore Fitness Alliance helping True Fitness, True Yoga employees find jobs",
+      "link": "https://www.channelnewsasia.com/singapore/true-fitness-yoga-singapore-fitness-alliance-staff-jobs-6380976",
+      "date": "Sun, 13 Sep 2026 10:03:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+      "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 01:41:10 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 01:32:56 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 00:49:08 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "South Africa felt series against All Blacks in the balance until close to the end",
       "link": "https://www.channelnewsasia.com/sport/south-africa-felt-series-against-all-blacks-in-balance-until-close-end-6380946",
       "date": "Sun, 13 Sep 2026 08:47:11 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 00:43:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 00:24:29 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Zealand on right path ahead of World Cup despite losing to Boks",
-      "link": "https://www.channelnewsasia.com/sport/new-zealand-right-path-ahead-world-cup-despite-losing-boks-6380931",
-      "date": "Sun, 13 Sep 2026 08:23:22 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hyundai Motor to roll out in-house driver-assist system in 2029",
-      "link": "https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911",
-      "date": "Sun, 13 Sep 2026 08:01:42 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 00:00:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sabalenka feels weight of three-peat in US Open final loss",
-      "link": "https://www.channelnewsasia.com/sport/sabalenka-feels-weight-three-peat-in-us-open-final-loss-6380916",
-      "date": "Sun, 13 Sep 2026 07:59:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Reacher star Alan Ritchson splits from wife after 20 years of marriage",
-      "link": "https://www.channelnewsasia.com/entertainment/alan-ritchson-splits-wife-6380901",
-      "date": "Sun, 13 Sep 2026 07:58:11 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Teen rescued after clinging to boat for two days off Alaska",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 23:56:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Death toll from Philippine ferry fire rises to 76",
-      "link": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 23:50:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 23:43:32 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "The most important longevity term you’ve probably never heard of",
-      "link": "https://www.channelnewsasia.com/wellness/intrinsic-capacity-longevity-measure-6357926",
-      "date": "Sun, 13 Sep 2026 07:33:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Can &#039;lymphatic workouts&#039; really help with bloating or swelling?",
-      "link": "https://www.channelnewsasia.com/wellness/lymphatic-walking-jumping-workouts-6355196",
-      "date": "Sun, 13 Sep 2026 07:33:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Managing 5 or more medications for an elderly family member? Here&#039;s what caregivers should know",
-      "link": "https://www.channelnewsasia.com/wellness/senior-multiple-medications-caregiver-safety-6364221",
-      "date": "Sun, 13 Sep 2026 07:32:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 23:25:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-      "date": "Sat, 12 Sep 2026 23:14:28 +0000"
     },
     {
       "src": "Sky News",
@@ -199,13 +220,6 @@
       "date": "Sat, 12 Sep 2026 15:51:07 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump in Ireland: What are Irish people saying about the visit?",
-      "link": "https://www.france24.com/en/video/20260912-trump-in-ireland-what-are-irish-people-saying-about-the-visit",
-      "date": "Sat, 12 Sep 2026 15:50:55 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Erdogan hints at larger nuclear partnership with Russia, unsettling Turkey's allies",
@@ -248,13 +262,6 @@
       "date": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168320",
-      "date": "Sat, 12 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Trump calls for Irish reunification - and claims 'it will happen eventually'",
@@ -267,13 +274,6 @@
       "text": "Brics leaders gather in New Delhi as bloc seeks greater global influence",
       "link": "https://www.rfi.fr/en/international/20260912-brics-leaders-gather-in-new-delhi-as-bloc-seeks-greater-global-influence",
       "date": "Sat, 12 Sep 2026 07:24:06 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 05:55:15 GMT"
     },
     {
       "src": "Sky News",
@@ -360,41 +360,6 @@
       "date": "Fri, 11 Sep 2026 14:30:46 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168318",
-      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The world just had the hottest August ever",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168317",
-      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Surge in displacement following fighting in southwest Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168314",
-      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168313",
-      "date": "Fri, 11 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Israel strike on Hezbollah tunnel triggers earthquake-like tremor",
-      "link": "https://news.sky.com/story/41-magnitude-tremor-recorded-after-israel-destroys-hezbollah-tunnel-network-in-southern-lebanon-13584236",
-      "date": "Fri, 11 Sep 2026 07:40:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "On 25th anniversary of 9/11, New York remembers victims poisoned by debris",
@@ -449,27 +414,6 @@
       "text": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
       "link": "https://www.rfi.fr/en/international/20260910-algeria-cuts-diplomatic-ties-with-uae-after-years-of-mounting-tensions",
       "date": "Thu, 10 Sep 2026 13:47:29 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168312",
-      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168311",
-      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168310",
-      "date": "Thu, 10 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
