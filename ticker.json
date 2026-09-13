@@ -1,27 +1,237 @@
 {
-  "updated": "2026-09-13T12:08:28.949Z",
+  "updated": "2026-09-13T16:29:50.971Z",
   "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Anthropic selects Nasdaq for IPO, Business Insider reports",
+      "link": "https://www.channelnewsasia.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-6381551",
+      "date": "Mon, 14 Sep 2026 00:23:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 16:11:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kosovo approves new government after months of political deadlock",
+      "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 16:11:41 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 16:05:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
+      "link": "https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 16:05:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Six killed, 130 missing after Indonesian passenger ship capsizes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 15:50:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump doubles down on united Ireland comments on day two of visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 15:42:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump says &#039;very negative forces&#039; raising exaggerated concerns over AI",
+      "link": "https://www.channelnewsasia.com/world/trump-ai-concerns-negative-forces-6381456",
+      "date": "Sun, 13 Sep 2026 23:42:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's far-right Marine Le Pen kicks off 2027 presidential campaign",
+      "link": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
+      "date": "Sun, 13 Sep 2026 15:41:05 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "World leaders gather in New Delhi for final day of BRICS summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 15:40:24 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US congressman swims to safety after his plane is forced to land on a lake",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 15:30:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+      "link": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 15:22:59 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Boris Johnson in Ukraine security scare after train hit by Russian drone - reports",
+      "link": "https://news.sky.com/story/boris-johnson-in-ukraine-security-scare-after-train-hit-by-russian-drone-reports-13585471",
+      "date": "Sun, 13 Sep 2026 16:22:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The race to make AI safer",
+      "link": "https://www.france24.com/en/the-race-to-make-ai-safer",
+      "date": "Sun, 13 Sep 2026 15:16:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Surfing: France tests Olympic venue ahead of LA 2028",
+      "link": "https://www.france24.com/en/surfing-france-tests-olympic-venue-ahead-of-la-2028",
+      "date": "Sun, 13 Sep 2026 15:04:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What are the five pros and cons of artificial intelligence?",
+      "link": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 15:03:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Valencia sack CEO and manager Corberan after winless start to season",
+      "link": "https://www.channelnewsasia.com/sport/valencia-sack-ceo-and-manager-corberan-after-winless-start-season-6381486",
+      "date": "Sun, 13 Sep 2026 23:01:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+      "date": "Sun, 13 Sep 2026 15:00:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Antonelli is Madring&#039;s first F1 winner after slow pitstop thwarts Norris",
+      "link": "https://www.channelnewsasia.com/sport/antonelli-madrings-first-f1-winner-after-slow-pitstop-thwarts-norris-6381481",
+      "date": "Sun, 13 Sep 2026 22:56:20 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 14:53:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 14:25:56 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ronaldo calls for lifetime bans after &#039;Jota&#039; chants aimed at Neves",
+      "link": "https://www.channelnewsasia.com/sport/ronaldo-calls-lifetime-bans-after-jota-chants-aimed-neves-6381436",
+      "date": "Sun, 13 Sep 2026 22:24:17 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 14:01:44 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 13 Sep 2026 13:30:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen: The Houthis test Iran's regional influence",
+      "link": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
+      "date": "Sun, 13 Sep 2026 13:29:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Indonesia: Second ferry disaster in five days",
+      "link": "https://www.france24.com/en/indonesia-second-ferry-disaster-in-five-days",
+      "date": "Sun, 13 Sep 2026 13:17:21 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Marquez seizes championship lead with San Marino win after Bezzecchi crash",
+      "link": "https://www.channelnewsasia.com/sport/marquez-seizes-championship-lead-san-marino-win-after-bezzecchi-crash-6381396",
+      "date": "Sun, 13 Sep 2026 21:16:34 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
+      "link": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
+      "date": "Sun, 13 Sep 2026 13:15:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Swedish far-right eyes role in government",
+      "link": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
+      "date": "Sun, 13 Sep 2026 13:11:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Radio France staff strike over appointment of far-right weekly editor",
+      "link": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+      "date": "Sun, 13 Sep 2026 12:44:54 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+      "link": "https://www.channelnewsasia.com/world/saudi-pipeline-houthis-global-oil-6381366",
+      "date": "Sun, 13 Sep 2026 20:40:00 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "From townships to TikTok, South Africa's amapiano gets the world dancing",
+      "link": "https://www.rfi.fr/en/international/20260913-from-townships-to-tiktok-as-south-africa-amapiano-gets-the-world-dancing",
+      "date": "Sun, 13 Sep 2026 12:18:13 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "New era beckons for holders Al-Ahli ahead of Asian Champions League title defence",
       "link": "https://www.channelnewsasia.com/sport/new-era-beckons-holders-al-ahli-ahead-asian-champions-league-title-defence-6381326",
       "date": "Sun, 13 Sep 2026 20:00:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 11:45:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 11:35:04 +0000"
     },
     {
       "src": "BBC World",
@@ -31,137 +241,11 @@
       "date": "Sun, 13 Sep 2026 11:23:42 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sabitzer to take break from Austria national team",
-      "link": "https://www.channelnewsasia.com/sport/sabitzer-take-break-austria-national-team-6381286",
-      "date": "Sun, 13 Sep 2026 19:22:09 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "While World Athletics firm on Russia ban, Coe acknowledges need for solution",
-      "link": "https://www.channelnewsasia.com/sport/while-world-athletics-firm-russia-ban-coe-acknowledges-need-solution-6381271",
-      "date": "Sun, 13 Sep 2026 19:13:45 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 11:13:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil: Michelle Bolsonaro's key role in the presidential race",
-      "link": "https://www.france24.com/en/brazil-michelle-bolsonaro-s-key-role-in-the-presidential-race",
-      "date": "Sun, 13 Sep 2026 11:08:22 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Revival of rugby tour between New Zealand and South Africa proves a success",
-      "link": "https://www.channelnewsasia.com/sport/revival-rugby-tour-between-new-zealand-and-south-africa-proves-success-6381261",
-      "date": "Sun, 13 Sep 2026 19:01:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Gladbach sack coach Polanski after losing Bundesliga start",
-      "link": "https://www.channelnewsasia.com/sport/gladbach-sack-coach-polanski-after-losing-bundesliga-start-6381251",
-      "date": "Sun, 13 Sep 2026 18:58:16 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The week in pictures: 9/11 anniversary, far-right win in Germany and Houthis' Yemen offensive",
-      "link": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
-      "date": "Sun, 13 Sep 2026 10:48:49 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 10:47:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli attack on Gaza kills two Palestinians",
-      "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 10:22:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A kingdom within a republic: Inside Uganda’s Buganda",
-      "link": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 10:12:15 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Coe touts faster format, richer rewards after Ultimate debut",
-      "link": "https://www.channelnewsasia.com/sport/coe-touts-faster-format-richer-rewards-after-ultimate-debut-6381226",
-      "date": "Sun, 13 Sep 2026 18:04:05 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sweden election: A turning point for the far right?",
-      "link": "https://www.france24.com/en/sweden-election-a-turning-point-for-the-far-right",
-      "date": "Sun, 13 Sep 2026 09:48:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 09:42:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Germany: Thousands rally against far-right after AfD victory",
-      "link": "https://www.france24.com/en/germany-thousands-rally-against-far-right-after-afd-victory",
-      "date": "Sun, 13 Sep 2026 09:41:57 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Teenager Ugochukwu becomes first F3 champion from the United States",
-      "link": "https://www.channelnewsasia.com/sport/teenager-ugochukwu-becomes-first-f3-champion-united-states-6381206",
-      "date": "Sun, 13 Sep 2026 17:35:27 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "BRICS summit: What came out of the New Delhi meeting",
-      "link": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting",
-      "date": "Sun, 13 Sep 2026 09:27:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UK: Police probe £72 million donation to Reform UK",
-      "link": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
-      "date": "Sun, 13 Sep 2026 09:26:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Macron, Carney to visit North Atlantic French islands after Trump's map post",
-      "link": "https://www.france24.com/en/americas/20260913-macron-carney-to-visit-french-islands-after-trump-s-map-post",
-      "date": "Sun, 13 Sep 2026 09:25:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Yemen: Houthi offensive triggers new displacement crisis",
-      "link": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
-      "date": "Sun, 13 Sep 2026 09:18:55 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Drone alert over Lithuania turns out to be flock of birds - as NATO jet scrambled",
+      "link": "https://news.sky.com/story/drone-alert-over-lithuania-turns-out-to-be-flock-of-birds-as-nato-jet-scrambled-13548988",
+      "date": "Sun, 13 Sep 2026 11:49:00 +0100"
     },
     {
       "src": "Sky News",
@@ -173,58 +257,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Backlash grows over Trump's 'completely wrong' comments on Irish reunification",
-      "link": "https://news.sky.com/story/backlash-grows-over-trumps-completely-wrong-comments-on-irish-reunification-13585285",
-      "date": "Sun, 13 Sep 2026 09:59:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Niger military government reshuffles army command weeks after deadly mutiny",
-      "link": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 08:54:32 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Voting under way in Sweden election that could see far right in government",
-      "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 08:39:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-      "link": "https://www.channelnewsasia.com/world/attack-strait-hormuz-shipping-oil-6381001",
-      "date": "Sun, 13 Sep 2026 16:17:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-      "date": "Sun, 13 Sep 2026 08:13:56 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Six dead and search under way for 130 missing from Indonesian passenger ship",
       "link": "https://news.sky.com/story/indonesia-search-for-140-people-missing-from-passenger-ship-13585242",
       "date": "Sun, 13 Sep 2026 04:34:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 13 Sep 2026 00:49:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 23:51:05 GMT"
     },
     {
       "src": "Sky News",
@@ -232,27 +267,6 @@
       "text": "Celine Dion in tears during comeback concert after health battle",
       "link": "https://news.sky.com/story/i-made-a-promise-celine-dion-moved-to-tears-during-paris-comeback-concert-13585222",
       "date": "Sat, 12 Sep 2026 23:35:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 21:25:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 21:19:11 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 12 Sep 2026 20:27:25 GMT"
     },
     {
       "src": "RFI",
@@ -353,13 +367,6 @@
       "date": "Fri, 11 Sep 2026 16:02:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Atlantic Ocean has seen no hurricanes so far this season - this is why",
-      "link": "https://news.sky.com/story/atlantic-ocean-has-seen-no-hurricanes-so-far-this-season-all-due-to-el-nino-13584471",
-      "date": "Fri, 11 Sep 2026 15:38:00 +0100"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why 9/11 Baffles Us 25 Years Later",
@@ -421,13 +428,6 @@
       "text": "New Caledonia activists file complaint against French ministers over 2024 riots",
       "link": "https://www.rfi.fr/en/international/20260910-new-caledonia-activists-file-complaint-against-french-ministers-over-2024-riots",
       "date": "Thu, 10 Sep 2026 10:28:12 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens",
-      "link": "https://www.rfi.fr/en/international/20260910-bayeux-tapestry-mania-sweeps-uk-as-sold-out-exhibition-opens",
-      "date": "Thu, 10 Sep 2026 02:06:30 GMT"
     },
     {
       "src": "The Guardian",
