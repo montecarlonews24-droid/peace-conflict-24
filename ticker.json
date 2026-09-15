@@ -1,97 +1,237 @@
 {
-  "updated": "2026-09-15T15:19:19.263Z",
+  "updated": "2026-09-15T19:06:47.130Z",
   "count": 64,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Study shows marvels of the Roman Empire&#039;s road network",
-      "link": "https://www.channelnewsasia.com/business/study-shows-marvels-roman-empires-road-network-6386631",
-      "date": "Tue, 15 Sep 2026 23:03:45 +0800"
+      "text": "SpaceX targets first Starship orbital test on September 22",
+      "link": "https://www.channelnewsasia.com/business/spacex-targets-first-starship-orbital-test-september-22-6387026",
+      "date": "Wed, 16 Sep 2026 02:52:23 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Canada's Carney seeking closer EU ties, to attend State of the EU address",
+      "link": "http://www.rfi.fr/en/international/20260915-canada-s-carney-seeking-closer-eu-ties-to-attend-state-of-the-eu-address",
+      "date": "Tue, 15 Sep 2026 18:50:18 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "British woman abducted in Malawi, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 15:03:27 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta launches subscriptions with enhanced AI features",
-      "link": "https://www.channelnewsasia.com/business/meta-launches-subscriptions-enhanced-ai-features-6386626",
-      "date": "Tue, 15 Sep 2026 23:01:41 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/openai-working-anthropic-google-ai-safety-bloomberg-news-reports-6386596",
-      "date": "Tue, 15 Sep 2026 22:52:54 +0800"
+      "text": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 18:49:45 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Russia warns Denmark after near miss in Baltic Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 14:51:22 +0000"
+      "text": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 18:41:48 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Saudi crown prince seeks neighbours' backing as Houthi attacks rattle Red Sea oil routes",
+      "link": "http://www.france24.com/en/saudi-crown-prince-seeks-neighbours-backing-as-houthi-attacks-rattle-red-sea-oil-routes",
+      "date": "Tue, 15 Sep 2026 18:37:00 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "NUS academics distance themselves from study on civil servants&#039; home purchases near unannounced MRT stations",
-      "link": "https://www.channelnewsasia.com/singapore/civil-servants-nus-professors-psd-housing-data-mrt-6386491",
-      "date": "Tue, 15 Sep 2026 22:51:00 +0800"
+      "text": "US orbital weapons acknowledgement a \"landmark\" move, US Space Command official says",
+      "link": "https://www.channelnewsasia.com/world/us-orbital-weapons-space-air-force-6386981",
+      "date": "Wed, 16 Sep 2026 02:36:31 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "LA28 could generate up to $40.6 billion for region, study says",
+      "link": "https://www.channelnewsasia.com/sport/la28-could-generate-up-406-billion-region-study-says-6387016",
+      "date": "Wed, 16 Sep 2026 02:35:50 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 14:49:42 +0000"
+      "text": "Eto’o could face Cameroon probe over alleged Russia payment",
+      "link": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 18:35:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US acknowledges for the first time that it has deployed weapons in space",
+      "link": "http://www.france24.com/en/us-acknowledges-for-the-first-time-that-it-has-deployed-weapons-in-space",
+      "date": "Tue, 15 Sep 2026 18:34:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "First Hormuz, now the Red Sea? Oil spikes as Saudis sucked into Yemen spiral",
+      "link": "http://www.france24.com/en/tv-shows/the-debate/20260915-first-hormuz-now-the-red-sea-oil-spikes-as-saudis-sucked-into-yemen-spiral",
+      "date": "Tue, 15 Sep 2026 18:32:47 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Italian NATO fighter jet shoots down stray drone over Lithuania",
-      "link": "https://www.channelnewsasia.com/world/italian-nato-fighter-jet-shoots-down-stray-drone-over-lithuania-6386291",
-      "date": "Tue, 15 Sep 2026 22:44:00 +0800"
+      "text": "US agency orders Tesla to answer questions on Cybercab certification",
+      "link": "https://www.channelnewsasia.com/business/us-agency-orders-tesla-answer-questions-cybercab-certification-6386996",
+      "date": "Wed, 16 Sep 2026 02:27:07 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Uzbek mother-son duo arrested for allegedly stealing about S$5,000 worth of items from Changi Airport shops",
-      "link": "https://www.channelnewsasia.com/singapore/uzbek-mother-son-shoplifting-changi-airport-6386476",
-      "date": "Tue, 15 Sep 2026 22:41:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "PGA Tour not considering return program for LIV players",
-      "link": "https://www.channelnewsasia.com/sport/pga-tour-not-considering-return-program-liv-players-6386576",
-      "date": "Tue, 15 Sep 2026 22:37:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK, US and Netherlands issue advisory on Iran spyware",
-      "link": "https://www.channelnewsasia.com/business/uk-us-and-netherlands-issue-advisory-iran-spyware-6386571",
-      "date": "Tue, 15 Sep 2026 22:33:43 +0800"
+      "text": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
+      "link": "https://www.channelnewsasia.com/business/ai-coding-agent-startup-factory-triples-valuation-5-billion-in-latest-funding-round-6386991",
+      "date": "Wed, 16 Sep 2026 02:22:48 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-      "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 14:33:29 +0000"
+      "text": "India beat Afghanistan by seven wickets to seal T20 series",
+      "link": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 18:15:43 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Can the Houthis hold on to Yemen’s strategic western coast?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 14:28:31 +0000"
+      "text": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+      "link": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 18:05:24 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South African president vows justice as more women's bodies found near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 18:01:51 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Police crack down on protests against constitutional change in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 17:58:53 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rob Reiner son will not face death penalty, prosecutor says",
+      "link": "https://www.channelnewsasia.com/world/reiner-rob-nick-death-penalty-murder-6386911",
+      "date": "Wed, 16 Sep 2026 01:56:37 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Canada is a 'safe harbour' for global finance, Carney says",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 17:54:46 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Are Chinese Firms Handing the United States Data?",
+      "link": "https://foreignpolicy.com/2026/09/15/china-us-ai-artificial-intelligence-data-summit-anthropic/",
+      "date": "Tue, 15 Sep 2026 17:46:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "More than 100,000 displaced as they flee violence in Yemen: UN",
+      "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 17:39:58 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pro Ref chief Webb says VAR &#039;tunnel vision&#039; led to Manchester derby error",
+      "link": "https://www.channelnewsasia.com/sport/pro-ref-chief-webb-says-var-tunnel-vision-led-manchester-derby-error-6386896",
+      "date": "Wed, 16 Sep 2026 01:22:35 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise",
+      "link": "http://www.france24.com/en/technology/20260915-openai-anthropic-and-google-in-talks-to-create-a-standards-body-as-ai-fears-rise",
+      "date": "Tue, 15 Sep 2026 17:03:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 16:55:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi, Egypt demand open Red Sea, as Riyadh vows to hit back against Houthis",
+      "link": "https://www.channelnewsasia.com/world/saudi-egypt-demand-open-red-sea-riyadh-vows-hit-back-against-houthis-6386751",
+      "date": "Wed, 16 Sep 2026 00:54:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How an Israeli cell orchestrated an anti-Qatar campaign",
+      "link": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 16:50:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘Putin looking to see how far he can push NATO’",
+      "link": "http://www.france24.com/en/video/20260915-putin-looking-to-see-how-far-he-can-push-nato",
+      "date": "Tue, 15 Sep 2026 16:48:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US diesel prices hit new record high as Trump seeks to blame Kyiv",
+      "link": "http://www.france24.com/en/video/20260915-us-diesel-prices-hit-new-record-high-as-trump-seeks-to-blame-kyiv",
+      "date": "Tue, 15 Sep 2026 16:45:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Houthis seize Red Sea islands, attack Saudi targets",
+      "link": "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets",
+      "date": "Tue, 15 Sep 2026 16:37:48 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump's claim of energy truce in doubt as Russia hits Kyiv petrol station",
+      "link": "http://www.france24.com/en/video/20260915-trump-s-claim-of-energy-truce-in-doubt-as-russia-hits-kyiv-petrol-station",
+      "date": "Tue, 15 Sep 2026 16:36:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+      "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+      "date": "Tue, 15 Sep 2026 16:15:13 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 16:13:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 15 Sep 2026 15:31:34 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Brazil’s Election Won’t Fix Its Biggest Problems",
+      "link": "https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt/",
+      "date": "Tue, 15 Sep 2026 14:43:42 +0000"
     },
     {
       "src": "BBC World",
@@ -99,62 +239,6 @@
       "text": "What weapon could the US have put into space?",
       "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 15 Sep 2026 14:23:14 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is NFL billionaire Robert Kraft?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 13:59:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What are ‘space weapons’, which US says it has deployed into orbit?",
-      "link": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 13:57:31 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Canada is a 'safe harbour' for global finance, Carney says",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 13:43:01 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
-      "link": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 13:40:32 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 13:33:16 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korea embraces Central Asian leaders, looking to boost regional clout",
-      "link": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
-      "date": "Tue, 15 Sep 2026 13:30:03 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 13:05:36 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 12:59:21 GMT"
     },
     {
       "src": "BBC World",
@@ -185,41 +269,6 @@
       "date": "Tue, 15 Sep 2026 10:14:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 15 Sep 2026 08:49:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Amid France’s political 'fragmentation', 'a case needs to be made for participatory democracy’",
-      "link": "http://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
-      "date": "Tue, 15 Sep 2026 08:01:35 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Corruption ‘endemic’ in Trump administration: 'Checks and balances only in effect at lower courts'",
-      "link": "http://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
-      "date": "Tue, 15 Sep 2026 07:52:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lack of 'enforcement of EU laws': Consumer products contain 'illegal levels of restricted chemicals'",
-      "link": "http://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
-      "date": "Tue, 15 Sep 2026 07:28:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French labour strike reduces capacity at key Dunkirk gas terminal",
-      "link": "http://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
-      "date": "Tue, 15 Sep 2026 07:24:43 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Only China, India, and Russia Can End the Iran War",
@@ -227,32 +276,11 @@
       "date": "Tue, 15 Sep 2026 06:57:36 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran war exposes US munitions shortfall, industrial bottlenecks, Pentagon report says",
-      "link": "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "date": "Tue, 15 Sep 2026 06:07:23 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "NATO jets shoot down drone over Lithuania in latest Baltic security incident",
       "link": "http://www.rfi.fr/en/international/20260915-nato-jets-shoot-down-drone-over-lithuania-in-latest-baltic-security-incident",
       "date": "Tue, 15 Sep 2026 05:53:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mbappé, Yamal, Dembélé, Kane: Ballon d'Or campaign is in full swing",
-      "link": "http://www.france24.com/en/tv-shows/sports/20260915-mbapp%C3%A9-yamal-demb%C3%A9l%C3%A9-kane-ballon-d-or-campaign-is-in-full-swing",
-      "date": "Tue, 15 Sep 2026 05:44:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Middle East live: Pentagon report says Iran war has led to munitions shortfall",
-      "link": "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
-      "date": "Tue, 15 Sep 2026 05:28:45 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -276,13 +304,6 @@
       "date": "Tue, 15 Sep 2026 04:00:26 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Middle East live: Iran rejects talks with US after 'mixed signals' from Trump",
-      "link": "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
-      "date": "Tue, 15 Sep 2026 03:06:54 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Panama canal traffic to be cut again as drought from El Niño worsens",
@@ -297,13 +318,6 @@
       "date": "Mon, 14 Sep 2026 21:11:14 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Macklemore 'removed' from Ed Sheeran tour over 'Free Palestine' comment",
-      "link": "https://news.sky.com/story/macklemore-claims-hes-been-removed-from-ed-sheeran-tour-over-free-palestine-comment-13585934",
-      "date": "Mon, 14 Sep 2026 22:10:00 +0100"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why My Kyiv Visit Worried Me So Much",
@@ -313,7 +327,7 @@
     {
       "src": "Foreign Policy",
       "col": "#1a73e8",
-      "text": "The Laws of War Must Change for the Drone Age",
+      "text": "Civilians Need Better Protections in the Drone Age",
       "link": "https://foreignpolicy.com/2026/09/14/drones-civilians-law-geneva-conventions/",
       "date": "Mon, 14 Sep 2026 18:28:46 +0000"
     },
@@ -353,13 +367,6 @@
       "date": "Mon, 14 Sep 2026 14:54:35 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Is Killing ‘Strategic Ambiguity’ Over Taiwan",
-      "link": "https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/",
-      "date": "Mon, 14 Sep 2026 14:53:52 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "The London hospital funded by donors who invested in the slave trade",
@@ -379,13 +386,6 @@
       "text": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
       "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
       "date": "Mon, 14 Sep 2026 12:38:51 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Congress Empowered Presidential War-Making After 9/11",
-      "link": "https://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-11/",
-      "date": "Mon, 14 Sep 2026 05:58:45 +0000"
     },
     {
       "src": "RFI",
@@ -437,11 +437,11 @@
       "date": "Sat, 12 Sep 2026 15:09:05 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Brics leaders gather in New Delhi as bloc seeks greater global influence",
-      "link": "http://www.rfi.fr/en/international/20260912-brics-leaders-gather-in-new-delhi-as-bloc-seeks-greater-global-influence",
-      "date": "Sat, 12 Sep 2026 07:24:06 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Woman, 54, gives birth after using embryo frozen for 22 years",
+      "link": "https://news.sky.com/story/greek-woman-54-gives-birth-after-using-embryo-frozen-for-22-years-13584694",
+      "date": "Sat, 12 Sep 2026 04:51:00 +0100"
     },
     {
       "src": "The Guardian",
