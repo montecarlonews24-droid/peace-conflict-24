@@ -1,55 +1,272 @@
 {
-  "updated": "2026-09-21T14:38:09.926Z",
+  "updated": "2026-09-21T19:48:10.442Z",
   "count": 72,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "CNN, MS NOW, Politico to sue Trump administration after White House ban",
-      "link": "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban",
-      "date": "Mon, 21 Sep 2026 14:34:15 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US halts flights at busy East Coast airports, says fiber line cut at construction site",
+      "link": "https://www.channelnewsasia.com/world/us-airports-east-coast-flight-delays-6400521",
+      "date": "Tue, 22 Sep 2026 03:37:11 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 19:22:15 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 19:10:52 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Wrexham owners buy Turf pub next to Racecourse Ground",
-      "link": "https://www.channelnewsasia.com/sport/wrexham-owners-buy-turf-pub-next-racecourse-ground-6400031",
-      "date": "Mon, 21 Sep 2026 22:31:28 +0800"
+      "text": "Infantino says he is open to talks over FIFA reform",
+      "link": "https://www.channelnewsasia.com/sport/infantino-says-he-open-talks-over-fifa-reform-6400511",
+      "date": "Tue, 22 Sep 2026 03:07:40 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "FAA begins use of AI tool in bid to reduce flight delays",
+      "link": "https://www.channelnewsasia.com/business/faa-begins-use-ai-tool-in-bid-reduce-flight-delays-6400506",
+      "date": "Tue, 22 Sep 2026 02:58:43 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singing lemurs may use a soprano-like trick to project songs",
+      "link": "https://www.channelnewsasia.com/business/singing-lemurs-may-use-soprano-trick-project-songs-6400496",
+      "date": "Tue, 22 Sep 2026 02:57:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "California governor signs broad data center oversight bill package",
+      "link": "https://www.channelnewsasia.com/business/california-governor-signs-broad-data-center-oversight-bill-package-6400466",
+      "date": "Tue, 22 Sep 2026 02:42:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Gaza’s children return to class in tents and ruins",
+      "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 18:40:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s NSE IPO draws over US$10 billion, traders eye modest listing pop",
+      "link": "https://www.channelnewsasia.com/asia/indias-nse-ipo-draws-over-us10-billion-traders-eye-modest-listing-pop-6400386",
+      "date": "Tue, 22 Sep 2026 02:21:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI could boost LatAm, Caribbean economy 5.1% but wages may fall, IDB says",
+      "link": "https://www.channelnewsasia.com/business/ai-could-boost-latam-caribbean-economy-51-wages-may-fall-idb-says-6400446",
+      "date": "Tue, 22 Sep 2026 02:19:22 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protesters march on Islamabad over soaring fuel prices",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 17:48:51 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 14:30:38 GMT"
+      "text": "First UK charges brought over 1994 Rwanda genocide",
+      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 21 Sep 2026 17:48:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Banking on a national brand': Bolsonaro sons Carlos, Jair Renan run for power in Brazil's south",
+      "link": "https://www.france24.com/en/americas/20260921-bolsonaro-sons-carlos-and-race-for-power-brazil-south",
+      "date": "Mon, 21 Sep 2026 17:46:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+      "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 17:45:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Renewables hit record in 2025, but world must move faster: report",
+      "link": "https://www.channelnewsasia.com/world/renewable-energy-record-un-chief-6400261",
+      "date": "Tue, 22 Sep 2026 01:42:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Paramount settles with US states in step towards merger with Warner Bros",
+      "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 17:42:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Licence to kill:’ French protests decry police use-of-force bill",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 17:38:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan?traffic_source=rss",
+      "date": "Mon, 21 Sep 2026 17:32:34 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Colombia declares public calamity as wildfire threatens popular tourist area",
+      "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+      "date": "Mon, 21 Sep 2026 17:13:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Seven Ethiopian rebel groups form new alliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 21 Sep 2026 17:02:47 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 14:26:29 GMT"
+      "date": "Mon, 21 Sep 2026 16:54:56 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AMD becomes latest chipmaker to reach $1 trillion valuation on AI demand",
-      "link": "https://www.channelnewsasia.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-6400021",
-      "date": "Mon, 21 Sep 2026 22:20:59 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Iran pushes bill to jail citizens who have contact with ‘hostile’ foreign media",
+      "link": "https://www.rfi.fr/en/international/20260921-iran-pushes-bill-to-jail-citizens-who-have-contact-with-hostile-foreign-media",
+      "date": "Mon, 21 Sep 2026 16:42:29 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Belgium&#039;s Aikido launches cybersecurity AI model as demand for local tools grows",
-      "link": "https://www.channelnewsasia.com/business/belgiums-aikido-launches-cybersecurity-ai-model-demand-local-tools-grows-6400016",
-      "date": "Mon, 21 Sep 2026 22:14:39 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘National security threat’: Trump’s latest attack on US media",
+      "link": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
+      "date": "Mon, 21 Sep 2026 16:35:08 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Czech Republic approves Tesla&#039;s FSD after earlier safety concerns",
-      "link": "https://www.channelnewsasia.com/business/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-6400006",
-      "date": "Mon, 21 Sep 2026 22:09:13 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Inside the US system deporting migrants through African countries",
+      "link": "https://www.rfi.fr/en/international/20260921-inside-the-us-system-deporting-migrants-through-african-countries-deportation-project-forbidden-stories",
+      "date": "Mon, 21 Sep 2026 16:20:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Typhoon Dujuan: Japan urges two million to evacuate",
+      "link": "https://www.france24.com/en/video/20260921-typhoon-dujuan-japan-urges-two-million-to-evacuate",
+      "date": "Mon, 21 Sep 2026 16:12:03 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French singer Amanda Lear accuses US star Miley Cyrus of 'copying' 1970s hit",
+      "link": "https://www.france24.com/en/french-singer-amanda-lear-accuses-us-star-miley-cyrus-copying-1970s-hit",
+      "date": "Mon, 21 Sep 2026 16:08:12 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU and five other countries condemn Russia's 'sham' elections",
+      "link": "https://www.rfi.fr/en/international/20260921-eu-and-five-other-countries-condemn-russia-s-sham-elections",
+      "date": "Mon, 21 Sep 2026 16:05:55 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 21 Sep 2026 15:58:53 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN expert says",
+      "link": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity",
+      "date": "Mon, 21 Sep 2026 15:54:43 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "A new divide in Germany",
+      "link": "https://www.rfi.fr/en/video/20260921-a-new-divide-in-germany",
+      "date": "Mon, 21 Sep 2026 15:47:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bayeux Tapestry craze prompts photo ban at British Museum",
+      "link": "https://www.france24.com/en/europe/20260921-bayeux-tapestry-craze-prompts-photo-ban-at-british-museum",
+      "date": "Mon, 21 Sep 2026 15:45:07 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Xhaka under investigation over Covid-19 certificate",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 21 Sep 2026 15:24:51 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington",
+      "link": "https://foreignpolicy.com/2026/09/21/uranium-russia-us-nuclear-energy-enrichment-sanctions-putin-trump/",
+      "date": "Mon, 21 Sep 2026 15:22:39 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU fines Google €403 million for improperly using location data",
+      "link": "https://www.france24.com/en/europe/20260921-eu-fines-google-%E2%82%AC403-million-for-improperly-using-location-data",
+      "date": "Mon, 21 Sep 2026 15:05:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Merz’s election setback: What it means for Germany?",
+      "link": "https://www.france24.com/en/merz-s-election-setback-what-it-means-for-germany",
+      "date": "Mon, 21 Sep 2026 15:02:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France and Canada deepen economic and defense ties",
+      "link": "https://www.france24.com/en/france-and-canada-deepen-economic-and-defense-ties",
+      "date": "Mon, 21 Sep 2026 14:59:44 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
+      "link": "https://www.theguardian.com/world/2026/sep/21/gunfire-belleville-ontario-synagogue-yom-kippur",
+      "date": "Mon, 21 Sep 2026 14:56:58 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 21 Sep 2026 14:14:16 GMT"
     },
     {
       "src": "BBC World",
@@ -59,116 +276,11 @@
       "date": "Mon, 21 Sep 2026 14:06:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Projectile hits tanker as it enters the Strait of Hormuz",
-      "link": "https://www.france24.com/en/middle-east/20260921-projectile-hits-tanker-as-it-enters-the-strait-of-hormuz",
-      "date": "Mon, 21 Sep 2026 14:03:15 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:59:13 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong proposes easier rules for deals, spin-offs",
-      "link": "https://www.channelnewsasia.com/business/hong-kong-proposes-easier-rules-deals-spin-offs-6399971",
-      "date": "Mon, 21 Sep 2026 21:35:32 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
-      "link": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:32:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Being managed by Zidane for France is &#039;like a movie&#039;, says Mbappe",
-      "link": "https://www.channelnewsasia.com/sport/being-managed-zidane-france-movie-says-mbappe-6399926",
-      "date": "Mon, 21 Sep 2026 21:28:10 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US media outlets to sue Trump administration after White House ban",
-      "link": "https://www.channelnewsasia.com/world/us-trump-media-outlets-white-house-ban-6399911",
-      "date": "Mon, 21 Sep 2026 21:27:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Inside Kazakhstan’s push to become a regional AI centre",
-      "link": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:26:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump administration prepares sanctions against International Criminal Court, source says",
-      "link": "https://www.channelnewsasia.com/world/us-sanctions-international-criminal-court-icc-trump-6397981",
-      "date": "Mon, 21 Sep 2026 21:22:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:20:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who is Yu Zidi, China’s 13-year-old swimming sensation?",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:19:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cargo ship crashes into Chinese fishing boat near Singapore",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:18:20 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "CNN, Politico, MS NOW to sue Trump administration over White House ban",
-      "link": "https://www.aljazeera.com/news/2026/9/21/cnn-politico-ms-now-to-sue-trump-administration-over-white-house-ban?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 13:15:24 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Closure of French language centre in Tehran prompts row between France and Iran",
       "link": "https://www.rfi.fr/en/international/20260921-closure-of-french-language-centre-in-tehran-prompts-row-between-france-and-iran",
       "date": "Mon, 21 Sep 2026 13:14:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Germany's Merz vows to hold ruling coalition together after election gains by far right, hard left",
-      "link": "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats",
-      "date": "Mon, 21 Sep 2026 13:02:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "West Bank: Israeli settler, Palestinian killed in latest violence",
-      "link": "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "date": "Mon, 21 Sep 2026 12:58:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "REPLAY: German Chancellor Friedrich Merz in post-vote comments",
-      "link": "https://www.france24.com/en/replay-german-chancellor-friedrich-merz-in-post-vote-comments",
-      "date": "Mon, 21 Sep 2026 12:56:09 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -178,46 +290,25 @@
       "date": "Mon, 21 Sep 2026 12:55:27 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Midterm elections: Trump looms large over 2026 vote as Democrats eye gains",
-      "link": "https://www.france24.com/en/midterm-elections-trump-looms-large-over-2026-vote-as-democrats-eye-gains",
-      "date": "Mon, 21 Sep 2026 12:51:48 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168386",
+      "date": "Mon, 21 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Moroccan parties mobilise in markets and online for parliamentary elections",
-      "link": "https://www.aljazeera.com/news/2026/9/21/moroccan-parties-mobilise-in-markets-and-online-for-parliamentary-elections?traffic_source=rss",
-      "date": "Mon, 21 Sep 2026 12:49:23 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168383",
+      "date": "Mon, 21 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sorbonne Professor Hans Stark: 'Merz is in a very, very fragile situation'",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20260921-sorbonne-professor-hans-stark-merz-is-in-a-very-very-fragile-situation",
-      "date": "Mon, 21 Sep 2026 12:25:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Three held over woman's murder as South Africa police investigate eight other body finds",
-      "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 12:22:00 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Xhaka under investigation over Covid-19 certificate",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 12:21:52 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 12:08:56 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Why climate action now comes down to speed, finance and cooperation",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168382",
+      "date": "Mon, 21 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -253,20 +344,6 @@
       "text": "Flood and landslide warnings as typhoon approaches Tokyo",
       "link": "https://news.sky.com/story/flood-and-landslide-warnings-as-typhoon-approaches-tokyo-13590425",
       "date": "Mon, 21 Sep 2026 12:51:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Seven Ethiopian rebel groups form new alliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 21 Sep 2026 11:46:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Moscow: Ukraine launches huge drone attack as election wraps up",
-      "link": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up",
-      "date": "Mon, 21 Sep 2026 11:04:47 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -325,13 +402,6 @@
       "date": "Mon, 21 Sep 2026 04:01:02 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-      "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
-      "date": "Mon, 21 Sep 2026 01:09:23 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "ICE agent shoots man in Texas after traffic stop, city officials say",
@@ -344,13 +414,6 @@
       "text": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 21 Sep 2026 00:05:11 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
-      "link": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
-      "date": "Sun, 20 Sep 2026 20:17:44 GMT"
     },
     {
       "src": "RFI",
@@ -381,13 +444,6 @@
       "date": "Sun, 20 Sep 2026 13:59:00 +0100"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Michelle Bachelet withdraws from race to become UN secretary general",
-      "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
-      "date": "Sun, 20 Sep 2026 12:04:08 GMT"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "The right to development: Why equity, not charity, is a human right",
@@ -416,20 +472,6 @@
       "date": "Sat, 19 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Denmark welcomes deal with US over Greenland after Trump annexation threats",
-      "link": "https://www.rfi.fr/en/international/20260919-denmark-welcomes-deal-with-us-over-greenland-after-trump-annexation-threats",
-      "date": "Sat, 19 Sep 2026 11:33:01 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "As far right gains ground in Germany, Berlin election tests Europe's centre",
-      "link": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
-      "date": "Sat, 19 Sep 2026 07:39:03 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -444,13 +486,6 @@
       "date": "Fri, 18 Sep 2026 20:36:44 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Will Russia Ever Be ‘Normal’?",
-      "link": "https://foreignpolicy.com/2026/09/18/russia-war-putin-empire-imperialism-history-ukraine-neighbors-soviet/",
-      "date": "Fri, 18 Sep 2026 19:00:16 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
@@ -458,46 +493,11 @@
       "date": "Fri, 18 Sep 2026 17:27:39 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Sweeping raids leave Turkey’s LGBTQI+ community fearing what comes next",
-      "link": "https://www.rfi.fr/en/podcasts/international-report/20260918-sweeping-raids-leave-turkey-s-lgbtqi-community-fearing-what-comes-next",
-      "date": "Fri, 18 Sep 2026 14:13:57 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN Crime Congress: Technology is transforming crime – and the response to it",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168370",
-      "date": "Fri, 18 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168375",
-      "date": "Fri, 18 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: UN peacekeeping under pressure",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168376",
-      "date": "Fri, 18 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "British woman who was kidnapped in Malawi rescued by police after shootout",
       "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
       "date": "Fri, 18 Sep 2026 11:21:36 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Russians vote for new parliament after campaign marked by near silence",
-      "link": "https://www.rfi.fr/en/international/20260918-russians-vote-for-new-parliament-after-campaign-marked-by-near-silence",
-      "date": "Fri, 18 Sep 2026 10:51:45 GMT"
     },
     {
       "src": "The Guardian",
