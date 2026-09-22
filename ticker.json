@@ -1,69 +1,251 @@
 {
-  "updated": "2026-09-22T19:19:39.243Z",
-  "count": 70,
+  "updated": "2026-09-22T22:20:22.981Z",
+  "count": 71,
   "items": [
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 19:14:41 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Tropical Storm Polo turns into category 5 monster hurricane off south-west coast of Mexico",
-      "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
-      "date": "Tue, 22 Sep 2026 19:09:29 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Is Ethiopia heading towards renewed civil war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:51:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UN Goodwill Ambassador: Millions of refugee children missing school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:49:36 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nathan Yong’s new collection for British furniture brand Heal’s draws on Singapore memories",
+      "link": "https://www.channelnewsasia.com/obsessions/nathan-yong-heals-singapore-furniture-designer-6399176",
+      "date": "Wed, 23 Sep 2026 06:15:45 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Trump bought and sold shares in Musk&#039;s SpaceX in July, financial disclosure shows",
-      "link": "https://www.channelnewsasia.com/business/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-6403201",
-      "date": "Wed, 23 Sep 2026 02:48:56 +0800"
+      "text": "Commentary: How concerned should Singapore be about food safety lapses abroad?",
+      "link": "https://www.channelnewsasia.com/commentary/food-safety-china-formaldehyde-cabbage-us-outbreak-6401936",
+      "date": "Wed, 23 Sep 2026 06:00:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
-      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:48:37 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "IN FOCUS: As Putrajaya and Bangkok warm up to Naypyidaw, Myanmar refugees fear being sent home",
+      "link": "https://www.channelnewsasia.com/asia/myanmar-refugees-malaysia-thailand-repatriation-6401701",
+      "date": "Wed, 23 Sep 2026 06:00:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-      "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:46:32 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CNA Explains: Why are lawyers using so much paper for court cases in this digital day and age?",
+      "link": "https://www.channelnewsasia.com/singapore/cna-explains-printing-costs-court-cases-6387826",
+      "date": "Wed, 23 Sep 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Jollibee shouldn’t rush its global IPO",
+      "link": "https://www.channelnewsasia.com/commentary/philippines-jollibee-ipo-mcdonalds-fast-food-6401931",
+      "date": "Wed, 23 Sep 2026 05:59:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "A Tale of Two UNGA Speeches",
+      "link": "https://foreignpolicy.com/2026/09/22/unga-speech-guterres-trump-united-nations-zelensky/",
+      "date": "Tue, 22 Sep 2026 21:53:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 22 Sep 2026 21:50:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
+      "link": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
+      "date": "Tue, 22 Sep 2026 21:38:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil prices retreat as markets welcome US-Iran talks",
+      "link": "https://www.channelnewsasia.com/world/oil-prices-retreat-markets-welcome-us-iran-talks-6403421",
+      "date": "Wed, 23 Sep 2026 05:37:15 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US to build two military bases in Greenland under new deal with Denmark",
       "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 18:43:29 GMT"
+      "date": "Tue, 22 Sep 2026 21:36:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Anthropic, OpenEvidence partner to bring medical AI worldwide",
+      "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-openevidence-partner-bring-medical-ai-worldwide-6403491",
+      "date": "Wed, 23 Sep 2026 05:31:29 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:27:01 +0000"
+      "text": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+      "link": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 21:30:51 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
+      "link": "https://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/",
+      "date": "Tue, 22 Sep 2026 21:20:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 21:11:47 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 21:09:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Macron: France won’t ‘yield an inch’ on Ukraine support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 21:09:03 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Guterres pleads for 'world built on interdependence' in final General Assembly address",
+      "link": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
+      "date": "Tue, 22 Sep 2026 21:02:47 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How Ceuta, football and Israel are shaping Morocco's election",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 22 Sep 2026 20:59:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sailing-Black Foils focus on future after tough SailGP season",
+      "link": "https://www.channelnewsasia.com/sport/sailing-black-foils-focus-future-after-tough-sailgp-season-6403406",
+      "date": "Wed, 23 Sep 2026 04:57:51 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French government scales up targeted fuel price relief",
+      "link": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
+      "date": "Tue, 22 Sep 2026 20:54:51 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Xi Comes to Washington Armed With a Rare-Earth Card",
+      "link": "https://foreignpolicy.com/2026/09/22/china-rare-earth-xi-trump-meeting-summit/",
+      "date": "Tue, 22 Sep 2026 20:53:02 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The West Is Sending Russia the Wrong Signals",
+      "link": "https://foreignpolicy.com/2026/09/22/ukraine-putin-russia-signaling-trump-germany/",
+      "date": "Tue, 22 Sep 2026 20:46:15 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Viral NATO video falsely framed as ‘war propaganda’ against Russia",
+      "link": "https://www.france24.com/en/viral-nato-video-falsely-framed-as-war-propaganda-against-russia-1",
+      "date": "Tue, 22 Sep 2026 20:44:29 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 20:27:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump: US-Iran meeting at UN was ‘very good’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 20:23:48 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Don’t Expect Fireworks From the Trump-Xi Summit",
+      "link": "https://foreignpolicy.com/2026/09/22/trump-xi-summit-china-us-ai-trade-critical-minerals-iran-taiwan/",
+      "date": "Tue, 22 Sep 2026 20:20:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US refusing to give Sudan's de facto leader visa for UN",
+      "link": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
+      "date": "Tue, 22 Sep 2026 20:13:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
+      "link": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
+      "date": "Tue, 22 Sep 2026 20:08:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+      "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 20:03:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+      "date": "Tue, 22 Sep 2026 19:59:36 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 22 Sep 2026 19:47:44 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Fifteen jailed for life over involvement in Sri Lanka attacks that killed more than 260",
+      "link": "https://news.sky.com/story/fifteen-jailed-for-life-over-involvement-in-sri-lanka-bombings-that-killed-more-than-260-13590838",
+      "date": "Tue, 22 Sep 2026 20:42:00 +0100"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+      "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+      "date": "Tue, 22 Sep 2026 19:09:29 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 22 Sep 2026 19:06:06 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How AI Fits Into Humanity’s Troubling History",
+      "link": "https://foreignpolicy.com/2026/09/22/artificial-intelligence-human-history-technological-development-risks/",
+      "date": "Tue, 22 Sep 2026 18:46:54 +0000"
     },
     {
       "src": "The Guardian",
@@ -80,116 +262,11 @@
       "date": "Tue, 22 Sep 2026 18:14:41 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says US officials met for three hours with Iranian delegation",
-      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:14:12 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran &#039;toughened&#039; conditions for ending war after US deal collapse: Guards spokesman",
-      "link": "https://www.channelnewsasia.com/world/us-iran-war-toughened-conditions-6403086",
-      "date": "Wed, 23 Sep 2026 02:13:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
-      "link": "https://www.channelnewsasia.com/business/openai-expands-gpt-6-lineup-cheaper-sol-and-luna-models-6403136",
-      "date": "Wed, 23 Sep 2026 02:01:58 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
-      "date": "Tue, 22 Sep 2026 18:01:49 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "🔴Watch live: French President Emmanuel Macron addresses UN General Assembly",
       "link": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
       "date": "Tue, 22 Sep 2026 17:41:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ShinyHunters hackers say they breached FBI",
-      "link": "https://www.channelnewsasia.com/business/shinyhunters-hackers-say-they-breached-fbi-6403081",
-      "date": "Wed, 23 Sep 2026 01:38:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ex-Google safety chief warns AI could harm children more than social media did",
-      "link": "https://www.channelnewsasia.com/business/ex-google-safety-chief-warns-ai-could-harm-children-more-social-media-did-6403061",
-      "date": "Wed, 23 Sep 2026 01:32:48 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
-      "link": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "date": "Tue, 22 Sep 2026 17:09:26 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump warns in UN speech he could &#039;annihilate&#039; Iran without peace deal",
-      "link": "https://www.channelnewsasia.com/world/iran-us-un-trump-speech-peace-deal-6402951",
-      "date": "Wed, 23 Sep 2026 01:00:41 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 16:57:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Top South African policeman charged with sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 16:54:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Motivated De Bruyne wants to keep playing for Belgium",
-      "link": "https://www.channelnewsasia.com/sport/motivated-de-bruyne-wants-keep-playing-belgium-6403006",
-      "date": "Wed, 23 Sep 2026 00:45:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Anthropic unveils Claude Opus 5.5",
-      "link": "https://www.channelnewsasia.com/business/anthropic-unveils-claude-opus-55-6402976",
-      "date": "Wed, 23 Sep 2026 00:33:38 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴Live: 'Nobody with a conscience can close their eyes to what is happening in Gaza', Erdogan tells UN",
-      "link": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-      "date": "Tue, 22 Sep 2026 16:24:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iran: Trump believes in an agreement after US midterms",
-      "link": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
-      "date": "Tue, 22 Sep 2026 16:17:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
-      "link": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
-      "date": "Tue, 22 Sep 2026 16:13:28 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -199,39 +276,11 @@
       "date": "Tue, 22 Sep 2026 16:08:53 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How is the EU responding to record fuel prices?",
-      "link": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices",
-      "date": "Tue, 22 Sep 2026 16:07:06 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety",
       "link": "https://foreignpolicy.com/2026/09/22/ai-safety-risk-united-nations-un-amandeep-singh-gill-interview/",
       "date": "Tue, 22 Sep 2026 16:02:43 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 15:17:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Syrian man reunited with secret library hidden for 15 years",
-      "link": "https://www.france24.com/en/video/20260922-syrian-man-reunited-with-secret-library-hidden-for-15-years",
-      "date": "Tue, 22 Sep 2026 15:15:25 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Washington Should Embrace Space Warfare",
-      "link": "https://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/",
-      "date": "Tue, 22 Sep 2026 15:12:13 +0000"
     },
     {
       "src": "RFI",
@@ -243,23 +292,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 14:03:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
       "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 22 Sep 2026 13:58:42 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Japan’s New CIA Could Be Takaichi’s Trump Card",
-      "link": "https://foreignpolicy.com/2026/09/22/japan-intelligence-agency-secret-service-takaichi-trump-security-military-alliance/",
-      "date": "Tue, 22 Sep 2026 13:21:51 +0000"
     },
     {
       "src": "BBC World",
@@ -278,6 +313,34 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
+      "text": "‘Time is running out’ for Israel-Palestine two-State solution",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Choose international order over ‘law of the jungle’, urges Macron",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168402",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168400",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168399",
+      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
       "text": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168397",
       "date": "Tue, 22 Sep 2026 12:00:00 +0000"
@@ -292,7 +355,7 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
-      "text": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly president",
+      "text": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly President",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168394",
       "date": "Tue, 22 Sep 2026 12:00:00 +0000"
     },
@@ -304,46 +367,18 @@
       "date": "Tue, 22 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Millions of children return to schools that still can’t provide clean water or a working toilet",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168393",
-      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Displacement on the rise in Yemen as fighting continues",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168390",
-      "date": "Tue, 22 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Will Inuit in Canada Turn to China?",
-      "link": "https://foreignpolicy.com/2026/09/22/canada-far-north-inuit-foreign-influence-carney-china-us/",
-      "date": "Tue, 22 Sep 2026 11:00:53 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Eleven injured in shooting outside Turkish school",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 22 Sep 2026 10:42:47 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China",
-      "link": "https://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/",
-      "date": "Tue, 22 Sep 2026 10:00:15 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Macron presses Trump on Hormuz and Ukraine as oil prices surge",
       "link": "https://www.rfi.fr/en/international/20260922-macron-presses-trump-on-hormuz-and-ukraine-as-oil-prices-surge",
       "date": "Tue, 22 Sep 2026 06:52:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 22 Sep 2026 06:03:22 GMT"
     },
     {
       "src": "The Guardian",
@@ -360,25 +395,11 @@
       "date": "Tue, 22 Sep 2026 04:28:10 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "UNGA Convenes With Uncertainty on the Horizon",
-      "link": "https://foreignpolicy.com/2026/09/21/unga-conflict-trump-guterres-secretary-general-uncertainty/",
-      "date": "Mon, 21 Sep 2026 23:38:27 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "date": "Mon, 21 Sep 2026 22:33:40 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security",
-      "link": "https://foreignpolicy.com/2026/09/21/greenland-security-trump-united-states-denmark-nato-ukraine-russia-pakistan-afghanistan-ethiopia/",
-      "date": "Mon, 21 Sep 2026 22:23:53 +0000"
     },
     {
       "src": "Sky News",
@@ -421,20 +442,6 @@
       "text": "Closure of French language centre in Tehran prompts row between France and Iran",
       "link": "https://www.rfi.fr/en/international/20260921-closure-of-french-language-centre-in-tehran-prompts-row-between-france-and-iran",
       "date": "Mon, 21 Sep 2026 13:14:54 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "In Tanzania, the sea is moving inland – and taking livelihoods with it",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168389",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168387",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
