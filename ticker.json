@@ -1,13 +1,258 @@
 {
-  "updated": "2026-09-24T15:33:40.704Z",
-  "count": 69,
+  "updated": "2026-09-24T19:34:08.582Z",
+  "count": 71,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel must win 'because we’ve got no other choice’, PM Netanyahu tells UN",
+      "link": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
+      "date": "Thu, 24 Sep 2026 19:31:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "REPLAY:  Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "link": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
+      "date": "Thu, 24 Sep 2026 19:28:01 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "text": "Priest killed and four injured in knife attack at Polish abbey",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 19:18:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+      "date": "Thu, 24 Sep 2026 19:05:59 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump-Xi summit in Washington begins with great fanfare but low expectations",
+      "link": "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-iran-taiwan-ai-6409161",
+      "date": "Fri, 25 Sep 2026 03:04:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+      "link": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 19:02:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 19:02:36 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Residents in West Bank's Masafer Yatta face Israeli demolitions",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
+      "date": "Thu, 24 Sep 2026 18:47:22 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 18:19:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US and China presidents discuss cooperation, trade and AI risks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 18:19:01 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: ‘We’re going to win because we’ve got no other choice’, Israeli PM Netanyahu says at UN",
+      "link": "https://www.france24.com/en/americas/20260924-live-netanyahu-faces-un-over-gaza-as-abbas-set-to-address-assembly-by-video",
+      "date": "Thu, 24 Sep 2026 18:18:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 18:13:32 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "date": "Thu, 24 Sep 2026 17:56:06 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 17:55:44 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 15:31:54 GMT"
+      "date": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
+      "link": "https://www.channelnewsasia.com/business/white-house-asks-openai-anthropic-hold-models-british-testers-politico-reports-6409141",
+      "date": "Fri, 25 Sep 2026 01:46:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iranian-American group sues Trump over war",
+      "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 17:45:52 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New US sanctions shut down Iranian flights",
+      "link": "https://www.channelnewsasia.com/world/new-us-sanctions-shut-down-iranian-flights-6409036",
+      "date": "Fri, 25 Sep 2026 01:38:57 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Saudi Arabia Bribed the Wrong People",
+      "link": "https://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/",
+      "date": "Thu, 24 Sep 2026 17:36:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 17:15:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 17:08:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Collapsing currency and inflation leave families struggling in Sudan",
+      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
+      "date": "Thu, 24 Sep 2026 17:03:55 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;Alvarez is in the past&#039;, says Deco as Barcelona embrace Raphinha reinvention",
+      "link": "https://www.channelnewsasia.com/sport/alvarez-in-past-says-deco-barcelona-embrace-raphinha-reinvention-6409056",
+      "date": "Fri, 25 Sep 2026 00:58:49 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Zidane feels immense emotion before first match in charge of France",
+      "link": "https://www.channelnewsasia.com/sport/zidane-feels-immense-emotion-first-match-in-charge-france-6409041",
+      "date": "Fri, 25 Sep 2026 00:55:41 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Premier League in joint call for FIFA reform amid Infantino crisis",
+      "link": "https://news.sky.com/story/premier-league-in-joint-call-for-fifa-reform-amid-infantino-crisis-13591534",
+      "date": "Thu, 24 Sep 2026 17:46:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CNN, MS NOW, Politico allowed back in White House after judge&#039;s order",
+      "link": "https://www.channelnewsasia.com/world/cnn-ms-now-politico-allowed-back-in-white-house-after-judges-order-6409006",
+      "date": "Fri, 25 Sep 2026 00:43:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China’s Human Rights Crisis Hasn’t Disappeared",
+      "link": "https://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christians/",
+      "date": "Thu, 24 Sep 2026 16:41:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haas to decide 2027 driver line-up within couple of weeks",
+      "link": "https://www.channelnewsasia.com/sport/haas-decide-2027-driver-line-up-within-couple-weeks-6408961",
+      "date": "Fri, 25 Sep 2026 00:17:19 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Can AI Be Regulated?",
+      "link": "https://foreignpolicy.com/2026/09/24/ai-regulation-technology-pace-frontier-stock-market/",
+      "date": "Thu, 24 Sep 2026 16:14:30 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Breetzke ton leads South Africa to 67-run win over Australia",
+      "link": "https://www.channelnewsasia.com/sport/breetzke-ton-leads-south-africa-67-run-win-over-australia-6408941",
+      "date": "Fri, 25 Sep 2026 00:08:01 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 16:00:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli policies threaten 'life and existence' of Palestinians, Abbas tells UN",
+      "link": "https://www.france24.com/en/americas/20260924-israel-policies-threaten-life-existence-palestinian-says-abbas-un",
+      "date": "Thu, 24 Sep 2026 15:54:28 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Macklemore announces Free Palestine Tour after Ed Sheeran controversy",
+      "link": "https://news.sky.com/story/macklemore-announces-free-palestine-tour-after-ed-sheeran-controversy-13591502",
+      "date": "Thu, 24 Sep 2026 16:48:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 15:42:07 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 24 Sep 2026 15:37:45 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "date": "Thu, 24 Sep 2026 15:29:42 GMT"
     },
     {
       "src": "France 24",
@@ -24,45 +269,10 @@
       "date": "Thu, 24 Sep 2026 15:09:04 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "REPLAY: Palestinian president Abbas addresses UN General Assembly",
-      "link": "https://www.france24.com/en/video/20260924-replay-palestinian-president-abbas-addresses-un-general-assembly",
-      "date": "Thu, 24 Sep 2026 15:06:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How do the French feel about religion?",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260924-how-do-the-french-feel-about-religion",
-      "date": "Thu, 24 Sep 2026 15:03:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Trump views US-China relations as a personal friendship: Xi views US as an adversary to be managed'",
-      "link": "https://www.france24.com/en/trump-views-us-china-relations-as-a-personal-friendship-xi-views-us-as-an-adversary-to-be-managed",
-      "date": "Thu, 24 Sep 2026 15:01:53 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
-      "link": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 14:56:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "United States: Trump's unconventional welcome for Xi's state visit",
-      "link": "https://www.france24.com/en/video/20260924-united-states-trump-s-unconventional-welcome-for-xi-s-state-visit",
-      "date": "Thu, 24 Sep 2026 14:40:50 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Law of the Sea Is in Trouble",
-      "link": "https://foreignpolicy.com/2026/09/24/rnli-lifeboats-migrants-trump-boats/",
+      "link": "https://foreignpolicy.com/2026/09/24/migrants-britain-royal-national-lifeboat-institution-united-states-trump/",
       "date": "Thu, 24 Sep 2026 14:38:51 +0000"
     },
     {
@@ -73,109 +283,11 @@
       "date": "Thu, 24 Sep 2026 14:37:34 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why are Ireland vs Israel football matches so controversial?",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 14:36:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Forever Chemicals: Ground Zero",
-      "link": "https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 14:30:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
-      "link": "https://www.france24.com/en/americas/20260924-live-netanyahu-faces-un-over-gaza-as-abbas-set-to-address-assembly-by-video",
-      "date": "Thu, 24 Sep 2026 14:29:20 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scaffold netting outside buildings must be fire-retardant from March 2027",
-      "link": "https://www.channelnewsasia.com/singapore/mom-building-scaffold-fire-safety-requirements-construction-6408551",
-      "date": "Thu, 24 Sep 2026 22:26:39 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nigerian superstar Yemi Alade: From viral hit 'Johnny' to working with Beyoncé",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260924-nigerian-superstar-yemi-alade-from-viral-hit-johnny-to-working-with-beyonc%C3%A9",
-      "date": "Thu, 24 Sep 2026 14:16:18 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 14:15:35 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 14:08:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-      "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 14:04:43 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Thank Goodness Europe Doesn’t Have a Phone Number",
       "link": "https://foreignpolicy.com/2026/09/24/europe-phone-number-eu/",
       "date": "Thu, 24 Sep 2026 13:57:16 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Google plans first test of AI chips in space under Project Suncatcher",
-      "link": "https://www.channelnewsasia.com/business/google-plans-first-test-ai-chips-in-space-under-project-suncatcher-6408686",
-      "date": "Thu, 24 Sep 2026 21:55:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Morgan Stanley Asia deals leaked in missent email attachment",
-      "link": "https://www.channelnewsasia.com/business/morgan-stanley-deals-leaked-missent-email-6408671",
-      "date": "Thu, 24 Sep 2026 21:48:00 +0800"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "date": "Thu, 24 Sep 2026 13:43:09 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
-      "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 13:42:05 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Has China received US F-35 parts by diverting an Australian shipment?",
-      "link": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 13:36:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu at UNGA over the years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss",
-      "date": "Thu, 24 Sep 2026 13:35:45 +0000"
     },
     {
       "src": "Sky News",
@@ -185,13 +297,6 @@
       "date": "Thu, 24 Sep 2026 14:21:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "link": "https://www.channelnewsasia.com/sport/infantino-looks-set-stay-fifa-faces-new-war-over-power-6408596",
-      "date": "Thu, 24 Sep 2026 21:19:03 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Priest killed and four wounded after stabbing rampage at Polish abbey",
@@ -199,44 +304,23 @@
       "date": "Thu, 24 Sep 2026 14:13:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump-Xi summit: Trump welcomes Xi to White House for high-stakes talks",
-      "link": "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-washington-china-us-6407711",
-      "date": "Thu, 24 Sep 2026 21:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Alaba joins Udinese with plenty of big-name free agents still available",
-      "link": "https://www.channelnewsasia.com/sport/alaba-joins-udinese-plenty-big-name-free-agents-still-available-6408546",
-      "date": "Thu, 24 Sep 2026 20:49:37 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 12:49:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Oracle cites &#039;force majeure&#039; to shield itself on data center, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/oracle-cites-force-majeure-shield-itself-data-center-bloomberg-news-reports-6408541",
-      "date": "Thu, 24 Sep 2026 20:48:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Joshua and Fury to face off in Cardiff on December 11",
-      "link": "https://www.channelnewsasia.com/sport/joshua-and-fury-face-in-cardiff-december-11-6408521",
-      "date": "Thu, 24 Sep 2026 20:42:18 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief, ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168427",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
       "col": "#3b82f6",
-      "text": "LIVE: World leaders tackle sea level rise, a stark marker of climate change",
+      "text": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168426",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "LIVE: World leaders approve new declaration to tackle rising sea levels",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168423",
       "date": "Thu, 24 Sep 2026 12:00:00 +0000"
     },
@@ -255,13 +339,6 @@
       "date": "Thu, 24 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 11:59:23 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Hurricane Polo brings heavy rain to Mexican coast with fears of life-threatening floods",
@@ -276,32 +353,11 @@
       "date": "Thu, 24 Sep 2026 11:31:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 10:11:15 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 07:10:58 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Germany Is Officially Adrift",
       "link": "https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections-afd/",
       "date": "Thu, 24 Sep 2026 06:54:45 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 06:47:12 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -316,20 +372,6 @@
       "text": "Jaishankar Leads India’s UNGA Delegation",
       "link": "https://foreignpolicy.com/2026/09/23/india-unga-jaishankar-us-sanctions-russia-oil/",
       "date": "Wed, 23 Sep 2026 21:51:02 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "A $2.45 Billion Recovery Plan for Gaza",
-      "link": "https://foreignpolicy.com/2026/09/23/board-of-peace-gaza-reconstruction-plan-israel-hamas-trump-cease-fire/",
-      "date": "Wed, 23 Sep 2026 21:04:53 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What to Know About Djibouti’s Refugee Crisis",
-      "link": "https://foreignpolicy.com/2026/09/23/what-to-know-about-djiboutis-refugee-crisis/",
-      "date": "Wed, 23 Sep 2026 21:01:41 +0000"
     },
     {
       "src": "Sky News",
@@ -351,13 +393,6 @@
       "text": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
       "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
       "date": "Wed, 23 Sep 2026 18:50:43 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How to Create a Billion Jobs",
-      "link": "https://foreignpolicy.com/2026/09/23/ajay-banga-world-bank-private-sector-global-job-growth-plan/",
-      "date": "Wed, 23 Sep 2026 18:21:09 +0000"
     },
     {
       "src": "RFI",
@@ -395,20 +430,6 @@
       "date": "Wed, 23 Sep 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Rohingya refugees deserve a future beyond survival, not endless displacement",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168417",
-      "date": "Wed, 23 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168416",
-      "date": "Wed, 23 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Indian billionaire’s payments firm plots biggest London flotation in years",
@@ -428,13 +449,6 @@
       "text": "Macron urges world to resist ‘law of the jungle’ in final UN address",
       "link": "https://www.rfi.fr/en/international/20260923-macron-urges-world-to-resist-law-of-the-jungle-in-final-un-address",
       "date": "Wed, 23 Sep 2026 07:08:47 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
-      "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
-      "date": "Wed, 23 Sep 2026 01:15:26 GMT"
     },
     {
       "src": "RFI",
