@@ -1,69 +1,216 @@
 {
-  "updated": "2026-09-25T05:47:47.241Z",
-  "count": 64,
+  "updated": "2026-09-25T10:41:50.126Z",
+  "count": 72,
   "items": [
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Takeaway: UN General Assembly debate Day 3",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168434",
+      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Meet Southeast Asia&#039;s first okapi calf, born at Singapore&#039;s Rainforest Wild Adventure",
-      "link": "https://www.channelnewsasia.com/living/first-baby-okapi-calf-southeast-asia-singapore-mandai-6410151",
-      "date": "Fri, 25 Sep 2026 13:46:00 +0800"
+      "text": "Singapore&#039;s Shanti Pereira fastest qualifier for Asian Games 100m final",
+      "link": "https://www.channelnewsasia.com/sport/singapores-shanti-pereira-fastest-qualifier-asian-games-100m-final-6410776",
+      "date": "Fri, 25 Sep 2026 18:38:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 25 Sep 2026 10:36:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Govt reviewing property purchases by rail planning officers between 2007 and 2011 after working paper allegations",
+      "link": "https://www.channelnewsasia.com/singapore/private-properties-mrt-stations-rail-planning-officials-review-nber-paper-6410066",
+      "date": "Fri, 25 Sep 2026 18:30:19 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "date": "Fri, 25 Sep 2026 10:28:45 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "AFCON 2027 Qualifiers: African giants kick off their campaigns",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260925-afcon-2027-qualifiers-african-giants-kick-off-their-campaigns",
-      "date": "Fri, 25 Sep 2026 05:21:50 GMT"
+      "text": "🔴 Live: Pope Leo gives first address of France visit at Élysée presidential palace",
+      "link": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+      "date": "Fri, 25 Sep 2026 10:22:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Journalism and resistance under Taliban rule",
+      "link": "https://www.france24.com/en/tv-shows/the-51/20260925-journalism-and-resistance-under-taliban-rule",
+      "date": "Fri, 25 Sep 2026 10:21:53 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Multiple regions in Russia come under Ukrainian drone attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 05:18:35 +0000"
+      "text": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 10:10:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Zelenskyy says Trump made &#039;final decision&#039; to give Ukraine Patriot licence",
+      "link": "https://www.channelnewsasia.com/world/zelenskyy-says-trump-made-final-decision-give-ukraine-patriot-licence-6410706",
+      "date": "Fri, 25 Sep 2026 18:09:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pact with Saudi and Pakistan could expand to Muslim world, including Iran, says Turkish speaker",
+      "link": "https://www.channelnewsasia.com/world/defence-pact-mecca-saudi-pakistan-turkiye-iran-6410701",
+      "date": "Fri, 25 Sep 2026 18:08:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "First US trial against TikTok to test claims platform fueled teen mental health crisis",
+      "link": "https://www.channelnewsasia.com/business/first-us-trial-against-tiktok-test-claims-platform-fueled-teen-mental-health-crisis-6410691",
+      "date": "Fri, 25 Sep 2026 18:03:02 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israeli football player sent off after gun-firing goal celebration",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 05:09:54 +0000"
+      "text": "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
+      "link": "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 10:00:17 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Revamped Food Opera food court at Ion Orchard has Cantonese eatery Hillman, Ming Chung White Lor Mee and more",
-      "link": "https://www.channelnewsasia.com/dining/food-opera-ion-orchard-6410106",
-      "date": "Fri, 25 Sep 2026 12:57:00 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Woman Remaking Brazil’s Far Right",
+      "link": "https://foreignpolicy.com/2026/09/25/brazil-election-michelle-bolsonaro-flavio-lula-feminism-far-right/",
+      "date": "Fri, 25 Sep 2026 10:00:09 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mediacorp named TV Network of the Year at Cannes TV Awards",
-      "link": "https://www.channelnewsasia.com/singapore/mediacorp-named-tv-network-year-cannes-tv-awards-6410041",
-      "date": "Fri, 25 Sep 2026 12:47:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran saga",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260925-us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-sa",
+      "date": "Fri, 25 Sep 2026 09:54:43 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Pakistani forces kill Afghan Taliban fighters in border escalation",
-      "link": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 04:22:10 +0000"
+      "text": "Iran pitches seven-day roadmap to end conflict with US",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 09:54:40 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Exclusive-Japan&#039;s SMBC in talks to increase stake in Vietnam&#039;s VPBank, sources say",
-      "link": "https://www.channelnewsasia.com/business/exclusive-japans-smbc-in-talks-increase-stake-in-vietnams-vpbank-sources-say-6410111",
-      "date": "Fri, 25 Sep 2026 12:17:49 +0800"
+      "text": "Snap Insight: Though Trump-Xi summit achieves little, 2026 is a high point in US-China relations",
+      "link": "https://www.channelnewsasia.com/commentary/trump-xi-summit-washington-trade-snap-insight-6410591",
+      "date": "Fri, 25 Sep 2026 17:54:10 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo visits France: Pontiff wants to focus world's attention on peace, human dignity, technology",
+      "link": "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology",
+      "date": "Fri, 25 Sep 2026 09:50:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Pope Leo XIV welcomed by Macron at the Élysée",
+      "link": "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-welcomed-by-macron-at-the-%C3%A9lys%C3%A9e",
+      "date": "Fri, 25 Sep 2026 09:48:07 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Veteran Chinese actor You Benchang dies of illness at age 93",
-      "link": "https://www.channelnewsasia.com/entertainment/you-benchang-ji-gong-actor-dies-93-6410021",
-      "date": "Fri, 25 Sep 2026 12:03:00 +0800"
+      "text": "Europe&#039;s biggest leagues demand sweeping FIFA reforms",
+      "link": "https://www.channelnewsasia.com/sport/europes-biggest-leagues-demand-sweeping-fifa-reforms-6410651",
+      "date": "Fri, 25 Sep 2026 17:48:06 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+      "link": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 09:46:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What happens after an animal dies at the Singapore Zoo? Meet the vet who investigates every death",
+      "link": "https://www.channelnewsasia.com/singapore/mandai-zoo-pathologist-vet-dr-hsu-chia-da-animal-death-post-mortem-care-6410536",
+      "date": "Fri, 25 Sep 2026 17:39:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Donald Trump courts Xi Jinping during high-profile White House visit",
+      "link": "https://www.france24.com/en/donald-trump-courts-xi-jinping-during-high-profile-white-house-visit",
+      "date": "Fri, 25 Sep 2026 09:38:50 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 25 Sep 2026 09:35:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Switzerland’s neutrality vote is asking the wrong question",
+      "link": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 09:32:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nepal PM says global order is broken in fighting climate crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 09:11:52 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "REPLAY : Pope Leo XIV arrives in France for four-day visit",
+      "link": "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "date": "Fri, 25 Sep 2026 09:01:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's Catholic influencers take faith from social media to real life",
+      "link": "https://www.france24.com/en/france-s-catholic-influencers-take-faith-from-social-media-to-real-life",
+      "date": "Fri, 25 Sep 2026 08:53:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi Arabia allies line up support as Houthi attacks mount",
+      "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 08:32:48 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Man shot during Trump assassination attempt dies",
+      "link": "https://news.sky.com/story/man-shot-during-trump-assassination-attempt-in-butler-pennsylvania-dies-13591687",
+      "date": "Fri, 25 Sep 2026 09:11:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mamdani plants olive tree with Gaza families",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
+      "date": "Fri, 25 Sep 2026 07:55:41 +0000"
     },
     {
       "src": "BBC World",
@@ -73,88 +220,11 @@
       "date": "Fri, 25 Sep 2026 03:57:09 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jewish protestors join Free Palestine march to denounce Netanyahu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 03:49:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Young men flee Tigray amid fears of forced recruitment",
-      "link": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 03:45:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 03:41:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man charged with taking part in public assemblies near Changi Prison without a permit",
-      "link": "https://www.channelnewsasia.com/singapore/man-charged-taking-part-in-public-assemblies-near-changi-prison-without-permit-6409996",
-      "date": "Fri, 25 Sep 2026 11:40:32 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-      "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 03:35:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "When AI’s moving this fast, who’s protecting us?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 03:34:54 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
       "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
       "date": "Fri, 25 Sep 2026 03:33:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scaloni says he did his best to convince Messi to return for Argentina farewell",
-      "link": "https://www.channelnewsasia.com/sport/scaloni-says-he-did-his-best-convince-messi-return-argentina-farewell-6409991",
-      "date": "Fri, 25 Sep 2026 11:16:09 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Science Centre Singapore has an illuminated night trail and a silent disco for Mid-Autumn Festival",
-      "link": "https://www.channelnewsasia.com/living/science-centre-singapore-mid-autumn-festival-2026-6409921",
-      "date": "Fri, 25 Sep 2026 11:08:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Argentina's poverty rate climbs to nearly one in three under Milei",
-      "link": "https://www.france24.com/en/americas/20260925-argentina-poverty-rate-nearly-one-in-three-milei",
-      "date": "Fri, 25 Sep 2026 02:30:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Pope heads to France on first state visit in 18 years",
-      "link": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
-      "date": "Fri, 25 Sep 2026 01:57:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nepal’s catastrophic floods were ‘warning to the world', PM Shah tells UN",
-      "link": "https://www.france24.com/en/asia-pacific/20260925-nepal-floods-warning-world-pm-shah-un",
-      "date": "Fri, 25 Sep 2026 01:42:59 GMT"
     },
     {
       "src": "BBC World",
@@ -171,27 +241,6 @@
       "date": "Fri, 25 Sep 2026 00:44:04 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Saudi Arabia, Turkey, Pakistan to hold urgent meeting over Houthi attacks",
-      "link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
-      "date": "Thu, 24 Sep 2026 23:52:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi reports fresh Houthi attacks as France pledges to defend key oil port",
-      "link": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
-      "date": "Thu, 24 Sep 2026 23:34:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hundreds of thousands expected in Paris for Pope's visit",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 23:17:00 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Netanyahu Faces an UNGA Walkout (Again)",
@@ -206,32 +255,11 @@
       "date": "Thu, 24 Sep 2026 21:39:17 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump and Xi meet, but hopes for AI cooperation stay slim",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20260924-trump-and-xi-meet-but-hopes-for-ai-cooperation-stay-slim",
-      "date": "Thu, 24 Sep 2026 21:04:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "‘Send in the Clowns’: Viral video fuels claims Denmark trolled Trump and Rubio",
-      "link": "https://www.france24.com/en/send-in-the-clowns-viral-video-fuels-claims-denmark-trolled-trump-and-rubio-1",
-      "date": "Thu, 24 Sep 2026 21:00:16 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "At least 41 dead after boat capsizes in DR Congo",
       "link": "https://news.sky.com/story/at-least-41-dead-after-boat-capsizes-in-dr-congo-13591586",
       "date": "Thu, 24 Sep 2026 21:04:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 24 Sep 2026 19:32:59 GMT"
     },
     {
       "src": "BBC World",
@@ -339,6 +367,55 @@
       "date": "Thu, 24 Sep 2026 14:13:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168433",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168432",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168431",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Rising seas are sinking futures’",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168430",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168429",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168427",
+      "date": "Thu, 24 Sep 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Hurricane Polo brings heavy rain to Mexican coast with fears of life-threatening floods",
@@ -346,32 +423,11 @@
       "date": "Thu, 24 Sep 2026 12:57:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "DR Congo short of health workers as it battles 'out-of-control' Ebola outbreak",
-      "link": "https://news.sky.com/story/dr-congo-short-of-health-workers-as-it-battles-out-of-control-ebola-outbreak-13591372",
-      "date": "Thu, 24 Sep 2026 11:31:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Germany Is Officially Adrift",
-      "link": "https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections-afd/",
-      "date": "Thu, 24 Sep 2026 06:54:45 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "The global machinery built to carry out Trump’s mass deportation drive",
       "link": "https://www.rfi.fr/en/international/20260923-the-global-machinery-built-to-carry-out-trump-s-mass-deportation-drive-forbidden-stories-deportation-project",
       "date": "Wed, 23 Sep 2026 19:01:33 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-      "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "date": "Wed, 23 Sep 2026 18:50:43 GMT"
     },
     {
       "src": "RFI",
