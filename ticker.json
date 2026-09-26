@@ -1,20 +1,153 @@
 {
-  "updated": "2026-09-26T01:01:00.174Z",
-  "count": 72,
+  "updated": "2026-09-26T06:13:40.615Z",
+  "count": 64,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US, China to set up &#039;communication channel&#039; for AI incidents",
+      "link": "https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426",
+      "date": "Sat, 26 Sep 2026 13:59:17 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "CNN removed from Trump press pool, despite judge order to reinstate White House access",
+      "link": "https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access",
+      "date": "Sat, 26 Sep 2026 05:56:01 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+      "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 05:25:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+      "link": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 05:23:09 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 05:09:09 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 05:03:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
+      "link": "https://www.channelnewsasia.com/asia/bangkok-heavy-rain-flooding-evacuations-6412356",
+      "date": "Sat, 26 Sep 2026 13:03:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+      "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:48:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bangkok on red alert as massive floods hit the city",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:43:39 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US official claims Trump holds all the cards in Iran talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:37:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran pitches US a seven-day end to the war at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:28:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+      "link": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:27:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "PAM wins big in Morocco parliament elections but falls short of majority",
+      "link": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 04:19:11 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;World records not enough&#039;: North Korea weightlifters target Olympic gold rush",
+      "link": "https://www.channelnewsasia.com/sport/north-korea-weightlifting-olympic-gold-asian-games-6412301",
+      "date": "Sat, 26 Sep 2026 11:37:28 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mamma Mia Focaccia, which drew queues for its Italian sandwiches, closes after less than a year",
+      "link": "https://www.channelnewsasia.com/dining/mamma-mia-focaccia-closes-6412241",
+      "date": "Sat, 26 Sep 2026 10:29:46 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump reportedly rejects Iran’s 7-day plan to reopen Strait of Hormuz",
+      "link": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "date": "Sat, 26 Sep 2026 02:06:07 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "ShinyHunters hackers expanded attacks on Oracle&#039;s PeopleSoft, Google says",
+      "link": "https://www.channelnewsasia.com/business/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-6412246",
+      "date": "Sat, 26 Sep 2026 10:05:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s Loh Kean Yew beats India&#039;s Lakshya Sen, advances to Asian Games round of 16",
+      "link": "https://www.channelnewsasia.com/sport/asian-games-badminton-loh-kean-yew-beats-indias-lakshya-sen-6412176",
+      "date": "Sat, 26 Sep 2026 09:40:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 01:24:31 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Man to be charged after allegedly starting fire in front of mosque",
       "link": "https://www.channelnewsasia.com/singapore/spf-man-charged-allegedly-starting-fire-mosque-6412191",
       "date": "Sat, 26 Sep 2026 08:43:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pro-Imran Khan rally delayed amid government closures",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 00:38:34 +0000"
     },
     {
       "src": "CNA",
@@ -26,72 +159,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 00:09:45 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why don’t I recover from workouts as quickly as I used to?",
-      "link": "https://www.channelnewsasia.com/wellness/workout-recovery-aging-exercise-6395081",
-      "date": "Sat, 26 Sep 2026 08:09:21 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How Stage 4 lung cancer changed this former nightlife boss: From 5 litres of beer a night to Everest Base Camp",
-      "link": "https://www.channelnewsasia.com/wellness/living-stage-4-lung-cancer-michael-chuah-6382671",
-      "date": "Sat, 26 Sep 2026 08:07:05 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US court rules against Kalshi, says states can regulate prediction markets",
-      "link": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 23:56:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran says it awaits US response on seven-day roadmap to end war",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 23:52:18 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 25 Sep 2026 23:38:48 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pope Leo XIV warns AI could undermine humanity during France visit",
-      "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 23:21:52 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "South African white genocide does not exist, new ambassador to US tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 25 Sep 2026 23:20:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Internationals stun US with 5-0 sweep to take Presidents Cup lead",
-      "link": "https://www.channelnewsasia.com/sport/internationals-stun-us-5-0-sweep-take-presidents-cup-lead-6412131",
-      "date": "Sat, 26 Sep 2026 07:16:26 +0800"
     },
     {
       "src": "BBC World",
@@ -101,60 +171,11 @@
       "date": "Fri, 25 Sep 2026 23:05:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Two Singapore chefs are putting homegrown flavours on the menu in Hong Kong",
-      "link": "https://www.channelnewsasia.com/experiences/singapore-chefs-barry-quek-keith-teo-whey-hong-kong-6401426",
-      "date": "Sat, 26 Sep 2026 06:58:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pochettino regrets limited role in Balogun appeal, says controversy changed US energy",
-      "link": "https://www.channelnewsasia.com/sport/pochettino-regrets-limited-role-in-balogun-appeal-says-controversy-changed-us-energy-6412101",
-      "date": "Sat, 26 Sep 2026 06:50:52 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TikTok settles with Alabama ahead of first state trial over claims of teen harms",
-      "link": "https://www.channelnewsasia.com/business/tiktok-settles-alabama-ahead-first-state-trial-over-claims-teen-harms-6412081",
-      "date": "Sat, 26 Sep 2026 06:38:25 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 22:33:27 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
       "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
       "date": "Fri, 25 Sep 2026 22:21:15 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-      "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 22:16:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "date": "Fri, 25 Sep 2026 21:37:35 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 25 Sep 2026 21:16:59 GMT"
     },
     {
       "src": "France 24",
@@ -241,27 +262,6 @@
       "date": "Fri, 25 Sep 2026 18:00:55 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 25 Sep 2026 17:59:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis",
-      "link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
-      "date": "Fri, 25 Sep 2026 17:35:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
-      "link": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
-      "date": "Fri, 25 Sep 2026 17:09:55 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Big Tech Is Destroying Democracy. Here’s How to Fight Back.",
@@ -318,62 +318,6 @@
       "date": "Fri, 25 Sep 2026 12:19:43 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN voices grave concern as fighting spreads across northern Ethiopia",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168450",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Tuvalu urges decisive global action as rising seas threaten its future",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168449",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan,  Haiti diplacement, AI hub to boost gender equality",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168447",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168444",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Invest with Iraq’: PM sets out vision for new economic future",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168443",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168441",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Africa needs its own AI solutions, not borrowed ones, says expert",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168440",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Hurricane Polo barrels towards Baja California region of Mexico",
@@ -383,15 +327,15 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Man shot during Trump assassination attempt dies",
-      "link": "https://news.sky.com/story/man-shot-during-trump-assassination-attempt-in-butler-pennsylvania-dies-13591687",
+      "text": "Powerful explosion in Athens destroys building near Acropolis",
+      "link": "https://news.sky.com/story/powerful-explosion-in-athens-destroys-building-near-acropolis-13591684",
       "date": "Fri, 25 Sep 2026 09:11:00 +0100"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Powerful explosion in Athens destroys building near Acropolis",
-      "link": "https://news.sky.com/story/powerful-explosion-in-athens-destroys-building-near-acropolis-13591684",
+      "text": "Man shot during Trump assassination attempt dies",
+      "link": "https://news.sky.com/story/man-shot-during-trump-assassination-attempt-in-butler-pennsylvania-dies-13591687",
       "date": "Fri, 25 Sep 2026 09:11:00 +0100"
     },
     {
