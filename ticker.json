@@ -1,13 +1,139 @@
 {
-  "updated": "2026-09-26T18:39:01.872Z",
+  "updated": "2026-09-26T21:40:08.231Z",
   "count": 72,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+      "link": "https://www.channelnewsasia.com/world/boeing-737-max-glitch-landing-wsj-reports-6413071",
+      "date": "Sun, 27 Sep 2026 05:20:48 +0800"
+    },
+    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Tenth woman's body found in South Africa suburb as police probe killings",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 18:30:04 GMT"
+      "text": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 21:13:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 21:09:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "World champions Spain punish England errors to win Nations League thriller at Wembley",
+      "link": "https://www.channelnewsasia.com/sport/spain-punish-england-win-nations-league-6413106",
+      "date": "Sun, 27 Sep 2026 05:03:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 20:57:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is violence between Pakistan and Afghanistan recurring?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 20:55:44 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 20:33:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo XIV celebrates open-air Mass in front of 800,000 people in central Paris",
+      "link": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
+      "date": "Sat, 26 Sep 2026 20:28:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 20:21:56 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thousands march in Madrid to protest Spain&#039;s housing crisis after eviction of 87-year-old woman",
+      "link": "https://www.channelnewsasia.com/world/madrid-protest-eviction-87-year-old-woman-6413036",
+      "date": "Sun, 27 Sep 2026 04:02:13 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Republic of Ireland to wear black armbands for Israel game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 19:59:00 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 19:48:06 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+      "link": "https://www.channelnewsasia.com/world/china-us-ai-tariff-cuts-xi-6413066",
+      "date": "Sun, 27 Sep 2026 03:45:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 19:43:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ireland decide to play Israel in Nations League after squad vote",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 19:42:57 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "date": "Sat, 26 Sep 2026 19:40:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Georgia replace manager Sagnol with Svanadze after Northern Ireland loss",
+      "link": "https://www.channelnewsasia.com/sport/georgia-replace-manager-sagnol-svanadze-after-northern-ireland-loss-6413051",
+      "date": "Sun, 27 Sep 2026 03:26:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump predicts Cuba and US will make a deal",
+      "link": "https://www.channelnewsasia.com/world/trump-cuba-us-will-deal-6412811",
+      "date": "Sun, 27 Sep 2026 03:19:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Vollering edges rival Niewiadoma-Phinney for road race world title",
+      "link": "https://www.channelnewsasia.com/sport/vollering-edges-rival-niewiadoma-phinney-road-race-world-title-6413041",
+      "date": "Sun, 27 Sep 2026 03:12:46 +0800"
     },
     {
       "src": "BBC World",
@@ -17,130 +143,46 @@
       "date": "Sat, 26 Sep 2026 18:17:12 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South African police discover body of 10th woman near Johannesburg",
-      "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 18:08:12 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Maricarmen Vs The ‘Vultures’: A “social tragedy” mobilising Spaniards",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260926-maricarmen-vs-the-vultures-a-social-tragedy-mobilising-spaniards",
+      "date": "Sat, 26 Sep 2026 18:03:40 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Mbappe diagnosed with knee hyperextension, say Real Madrid",
-      "link": "https://www.channelnewsasia.com/sport/mbappe-diagnosed-knee-hyperextension-say-real-madrid-6413011",
-      "date": "Sun, 27 Sep 2026 02:03:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 18:00:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:55:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "F1 leader Antonelli calls Azerbaijan weekend the worst of his season",
-      "link": "https://www.channelnewsasia.com/sport/f1-leader-antonelli-calls-azerbaijan-weekend-worst-his-season-6413006",
-      "date": "Sun, 27 Sep 2026 01:53:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Late try gives England win over New Zealand, extends unbeaten run to 41",
-      "link": "https://www.channelnewsasia.com/sport/late-try-gives-england-win-over-new-zealand-extends-unbeaten-run-41-6412996",
-      "date": "Sun, 27 Sep 2026 01:47:11 +0800"
+      "link": "https://www.channelnewsasia.com/sport/mbappe-knee-hyperextension-real-madrid-6413011",
+      "date": "Sun, 27 Sep 2026 02:03:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "text": "Nor'easter storm brings coastal flooding as New York and New Jersey declare emergency",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 26 Sep 2026 17:47:09 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hundreds of thousands in Paris cheer Pope Leo in largest event of French tour",
-      "link": "https://www.channelnewsasia.com/world/pope-leo-hundreds-thousands-paris-event-6412851",
-      "date": "Sun, 27 Sep 2026 01:45:10 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo XIV addresses youth at giant Paris Mass",
+      "link": "https://www.france24.com/en/video/20260926-pope-leo-xiv-addresses-youth-at-giant-paris-mass",
+      "date": "Sat, 26 Sep 2026 17:04:48 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump rejects combining US-China AI efforts",
-      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:39:18 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands march in Madrid to protest eviction of 87-year-old woman",
+      "link": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
+      "date": "Sat, 26 Sep 2026 17:04:06 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iraq seeks US exemption from ban on Iranian flights",
-      "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:35:11 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "De Minaur stuns Zverev, Tien beats Cobolli as Team World take 5-3 lead in Laver Cup",
-      "link": "https://www.channelnewsasia.com/sport/de-minaur-stuns-zverev-tien-beats-cobolli-team-world-take-5-3-lead-in-laver-cup-6412991",
-      "date": "Sun, 27 Sep 2026 01:34:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Munich picked as Germany’s candidate to host Summer Games",
-      "link": "https://www.channelnewsasia.com/sport/munich-germanys-candidate-host-games-6412756",
-      "date": "Sun, 27 Sep 2026 01:32:57 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:27:19 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China pushes back against US on Iran and Cuba in UN speech",
-      "link": "https://www.channelnewsasia.com/asia/china-us-iran-cuba-un-speech-6412806",
-      "date": "Sun, 27 Sep 2026 01:23:03 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
-      "link": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:22:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 17:15:43 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israel say football and politics must stay separate, after Ireland vote to fulfil fixture",
-      "link": "https://www.channelnewsasia.com/sport/israel-say-football-and-politics-must-stay-separate-after-ireland-vote-fulfil-fixture-6412966",
-      "date": "Sun, 27 Sep 2026 01:00:45 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 16:53:32 GMT"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo XIV 600,000 people gather for Mass on the Champs-Élysées",
+      "link": "https://www.france24.com/en/video/20260926-pope-leo-xiv-600-000-people-gather-for-mass-on-the-champs-%C3%A9lys%C3%A9es",
+      "date": "Sat, 26 Sep 2026 16:46:30 GMT"
     },
     {
       "src": "France 24",
@@ -178,53 +220,11 @@
       "date": "Sat, 26 Sep 2026 15:40:10 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's baptism boom as more young people seek catholic community",
-      "link": "https://www.france24.com/en/france-s-baptism-boom-as-more-young-people-seek-catholic-community",
-      "date": "Sat, 26 Sep 2026 15:31:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Leo XIV in France: 700,000 crowd attend Pope mass in central Paris",
-      "link": "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris",
-      "date": "Sat, 26 Sep 2026 15:19:59 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 15:12:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Leo XIV fills central Paris with around 600,000 people at giant outdoor Mass",
-      "link": "https://www.france24.com/en/leo-xiv-fills-central-paris-with-around-600-000-people-at-giant-outdoor-mass",
-      "date": "Sat, 26 Sep 2026 15:09:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Leo XIV visits France: Pope blesses babies on way to giant Paris Mass",
-      "link": "https://www.france24.com/en/leo-xiv-visits-france-pope-blesses-babies-on-way-to-giant-paris-mass",
-      "date": "Sat, 26 Sep 2026 15:03:34 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Trump says he rejects Iran proposal on Strait of Hormuz",
       "link": "https://www.rfi.fr/en/international/20260926-iran-proposes-hormuz-plan-trump-reportedly-refuses",
       "date": "Sat, 26 Sep 2026 13:10:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Pope Leo celebrates Mass before hundreds of thousands at Concord in central Paris",
-      "link": "https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris",
-      "date": "Sat, 26 Sep 2026 12:56:47 GMT"
     },
     {
       "src": "BBC World",
@@ -243,9 +243,30 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Ireland confirms Nations League game against Israel will go ahead",
+      "text": "Ireland goalkeeper boycotting Nations League game against Israel - but match will go ahead",
       "link": "https://news.sky.com/story/ireland-confirms-nations-league-game-against-israel-will-go-ahead-13592048",
       "date": "Sat, 26 Sep 2026 13:02:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Countries far from conflict paying the price for wars not their own, India tells UN",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+      "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+      "date": "Sat, 26 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+      "date": "Sat, 26 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -420,27 +441,6 @@
       "col": "#3b82f6",
       "text": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168453",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN voices grave concern as fighting spreads across northern Ethiopia",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168450",
-      "date": "Fri, 25 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Tuvalu urges decisive global action as rising seas threaten its future",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168449",
       "date": "Fri, 25 Sep 2026 12:00:00 +0000"
     },
     {
