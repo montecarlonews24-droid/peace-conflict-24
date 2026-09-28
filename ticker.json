@@ -1,20 +1,153 @@
 {
-  "updated": "2026-09-28T00:05:05.897Z",
+  "updated": "2026-09-28T05:37:10.388Z",
   "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NIO inks battery-swapping deal with Geely, values energy unit at $2.4 billion",
-      "link": "https://www.channelnewsasia.com/business/nio-inks-battery-swapping-deal-geely-values-energy-unit-24-billion-6414406",
-      "date": "Mon, 28 Sep 2026 07:56:34 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Switzerland rejects hard right push for stricter definition of neutrality",
+      "link": "https://www.rfi.fr/en/international/20260928-switzerland-rejects-hard-right-push-for-stricter-definition-of-neutrality",
+      "date": "Mon, 28 Sep 2026 05:29:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russian strikes kill eight, injure dozens across Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 05:06:11 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Trump confirms meeting with Anthropic&#039;s Amodei, repeats dismissal of AI fears",
-      "link": "https://www.channelnewsasia.com/world/us-trump-meet-anthropic-amodei-ai-regulation-6413916",
-      "date": "Mon, 28 Sep 2026 07:31:00 +0800"
+      "text": "England&#039;s Tuchel says calls for rotation are &#039;madness&#039;",
+      "link": "https://www.channelnewsasia.com/sport/englands-tuchel-says-calls-rotation-are-madness-6414871",
+      "date": "Mon, 28 Sep 2026 12:56:33 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 04:56:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Serbia’s president resigns to run for prime minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 04:50:46 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 04:44:12 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Supermarket unit pricing pilot to be expanded from Oct 1 to cover more operators, grocery items",
+      "link": "https://www.channelnewsasia.com/singapore/supermarket-unit-pricing-pilot-expanded-oct-1-6414786",
+      "date": "Mon, 28 Sep 2026 12:42:59 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thailand&#039;s August car production rises 10.9% on year",
+      "link": "https://www.channelnewsasia.com/business/thailands-august-car-production-rises-109-year-6414846",
+      "date": "Mon, 28 Sep 2026 12:31:26 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump offered to sell arms to China, US ambassador tells Fox News",
+      "link": "https://www.channelnewsasia.com/world/trump-offers-sell-arms-china-taiwan-us-6414801",
+      "date": "Mon, 28 Sep 2026 12:13:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans",
+      "link": "https://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/",
+      "date": "Mon, 28 Sep 2026 04:01:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s TakeMe2Space to launch orbital computing satellite on SpaceX rocket",
+      "link": "https://www.channelnewsasia.com/business/indias-takeme2space-launch-orbital-computing-satellite-spacex-rocket-6414701",
+      "date": "Mon, 28 Sep 2026 11:27:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China says US trade truce extension creates space to advance talks",
+      "link": "https://www.channelnewsasia.com/east-asia/china-us-trade-truce-extension-trump-xi-jinping-6414681",
+      "date": "Mon, 28 Sep 2026 11:21:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Taxi, private-hire drivers can switch to bus driving under new career pathway amid AV rollout",
+      "link": "https://www.channelnewsasia.com/singapore/taxi-phv-bus-drivers-career-switch-autonomous-vehicles-6413401",
+      "date": "Mon, 28 Sep 2026 11:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Avengers: Doomsday tickets now available for purchase in Singapore",
+      "link": "https://www.channelnewsasia.com/entertainment/avengers-doomsday-tickets-singapore-6414586",
+      "date": "Mon, 28 Sep 2026 10:58:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Anthropic CEO Amodei to have dinner with Trump at White House",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 02:57:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Venezuelans rally for opposition leader’s return and presidential elections",
+      "link": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 02:36:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestine Action protesters arrested outside UK Labour Party conference",
+      "link": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 02:23:30 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+      "link": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
+      "date": "Mon, 28 Sep 2026 02:07:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 01:39:02 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope to speak on EU integration from French border town of Metz",
+      "link": "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "date": "Mon, 28 Sep 2026 01:18:09 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+      "link": "https://news.sky.com/story/bill-gates-warns-ai-global-framework-talks-harder-than-cold-war-era-nuclear-negotiations-13592595",
+      "date": "Mon, 28 Sep 2026 01:38:00 +0100"
     },
     {
       "src": "France 24",
@@ -31,34 +164,6 @@
       "date": "Sun, 27 Sep 2026 23:24:10 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "She once interviewed boy bands – now she fights for migrant workers’ dignity and rights",
-      "link": "https://www.channelnewsasia.com/women/stephanie-chok-home-migrant-worker-rights-6398766",
-      "date": "Mon, 28 Sep 2026 07:23:35 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pope pledges action on clergy child abuse in meeting with French survivors",
-      "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 23:14:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 23:09:48 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Houthis say Saudi strikes on Yemen&#039;s Taiz leave dozens of casualties",
-      "link": "https://www.channelnewsasia.com/world/yemen-taiz-strikes-houthis-saudi-arabia-6414126",
-      "date": "Mon, 28 Sep 2026 07:08:21 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
@@ -66,46 +171,11 @@
       "date": "Sun, 27 Sep 2026 22:59:25 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Powerful storm floods US Northeast, causes power outages",
-      "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 22:51:29 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea demands apology from Ukraine over North Korean prisoners of war disclosure",
-      "link": "https://www.channelnewsasia.com/east-asia/north-korea-prisoners-war-ukraine-transfer-disclosure-6414156",
-      "date": "Mon, 28 Sep 2026 06:48:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
       "link": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
       "date": "Sun, 27 Sep 2026 22:10:44 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US roar back to beat Internationals for 11th consecutive Presidents Cup win",
-      "link": "https://www.channelnewsasia.com/sport/us-roar-back-beat-internationals-11th-consecutive-presidents-cup-win-6414301",
-      "date": "Mon, 28 Sep 2026 06:05:52 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Luxury watch warranties are getting longer – but do buyers really benefit?",
-      "link": "https://www.channelnewsasia.com/obsessions/luxury-watch-warranties-explained-6398971",
-      "date": "Mon, 28 Sep 2026 06:04:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Pressures of platform work in Singapore push drivers and riders to take risks",
-      "link": "https://www.channelnewsasia.com/commentary/food-delivery-platform-work-accident-driver-6413446",
-      "date": "Mon, 28 Sep 2026 06:00:00 +0800"
     },
     {
       "src": "France 24",
@@ -122,20 +192,6 @@
       "date": "Sun, 27 Sep 2026 21:47:40 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ireland defeats Israel in controversial UEFA Nations League match",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 21:41:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Alleged rape on campus sparks violent protest at Indian university",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 21:17:05 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Inside Yemen's front-line city as Houthis battle for control",
@@ -150,27 +206,6 @@
       "date": "Sun, 27 Sep 2026 22:14:00 +0100"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Floods inundate roads in southeastern Algeria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 21:03:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 21:02:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deadly strike hits market in Yemen’s Taiz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 21:00:55 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Embattled Serbian president resigns, paving way for early elections",
@@ -180,7 +215,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France's far right gains ground in indirect Senate elections",
+      "text": "France's far right gains ground in Senate elections",
       "link": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
       "date": "Sun, 27 Sep 2026 19:34:30 GMT"
     },
@@ -190,20 +225,6 @@
       "text": "🔴 Serbian President Aleksandar Vucic resigns, expected to run for prime minister",
       "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
       "date": "Sun, 27 Sep 2026 18:20:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
-      "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-      "date": "Sun, 27 Sep 2026 18:17:00 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Non! Why the Swiss rejected stricter neutrality",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260927-non-why-the-swiss-rejected-stricter-neutrality",
-      "date": "Sun, 27 Sep 2026 17:33:09 GMT"
     },
     {
       "src": "BBC World",
@@ -318,13 +339,6 @@
       "date": "Sat, 26 Sep 2026 12:34:24 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Ireland goalkeeper boycotting Nations League game against Israel - but match will go ahead",
-      "link": "https://news.sky.com/story/ireland-confirms-nations-league-game-against-israel-will-go-ahead-13592048",
-      "date": "Sat, 26 Sep 2026 13:02:00 +0100"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Canada urges stronger partnerships as global order faces ‘rupture’",
@@ -390,6 +404,13 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
+      "text": "<a href='https://news.sky.com/story/the-most-striking-pictures-of-the-week-13592004'>The most striking pictures of the week</a>",
+      "link": "https://news.sky.com/story/the-most-striking-pictures-of-the-week-13592010",
+      "date": "Sat, 26 Sep 2026 10:00:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
       "text": "OpenAI models accessed US government data and 'tried to hack another site'",
       "link": "https://news.sky.com/story/openai-models-accessed-us-government-data-and-tried-to-hack-education-site-13591998",
       "date": "Sat, 26 Sep 2026 08:56:00 +0100"
@@ -400,13 +421,6 @@
       "text": "British man and Greek wife 'killed in Athens gas leak explosion'",
       "link": "https://news.sky.com/story/british-man-and-greek-wife-killed-in-athens-building-collapse-13591977",
       "date": "Sat, 26 Sep 2026 06:12:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Iran says it has given US 'concrete' seven-day plan to reopen Strait of Hormuz",
-      "link": "https://news.sky.com/story/iran-says-it-has-given-us-concrete-seven-day-plan-to-reopen-strait-of-hormuz-13591945",
-      "date": "Fri, 25 Sep 2026 21:36:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -465,13 +479,6 @@
       "date": "Fri, 25 Sep 2026 13:41:52 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Arab Israelis Really Think About Israel’s Election",
-      "link": "https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/",
-      "date": "Fri, 25 Sep 2026 12:19:43 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
@@ -484,13 +491,6 @@
       "text": "The global machinery built to carry out Trump’s mass deportation drive",
       "link": "https://www.rfi.fr/en/international/20260923-the-global-machinery-built-to-carry-out-trump-s-mass-deportation-drive-forbidden-stories-deportation-project",
       "date": "Wed, 23 Sep 2026 19:01:33 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections",
-      "link": "https://www.rfi.fr/en/international/20260923-trump-hosts-china-s-xi-for-high-stakes-summit-ahead-of-us-midterm-elections",
-      "date": "Wed, 23 Sep 2026 15:06:20 GMT"
     },
     {
       "src": "The Guardian",
