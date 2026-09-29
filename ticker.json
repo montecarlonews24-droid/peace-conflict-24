@@ -1,34 +1,216 @@
 {
-  "updated": "2026-09-29T17:08:31.314Z",
-  "count": 64,
+  "updated": "2026-09-29T21:27:57.355Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tesla lines up $30 billion credit lines as capex, AI push accelerate",
+      "link": "https://www.channelnewsasia.com/business/tesla-lines-up-30-billion-credit-lines-capex-ai-push-accelerate-6419826",
+      "date": "Wed, 30 Sep 2026 05:23:21 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi Arabia resumes Yanbu oil loading after pipeline restart",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-yanbu-oil-pipeline-aramco-resume-6419751",
+      "date": "Wed, 30 Sep 2026 05:09:54 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "French students clash with police as protests over education cuts spread",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 21:09:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lamine nets double as Spain win again and England beat 10-man Czechs",
+      "link": "https://www.channelnewsasia.com/sport/lamine-nets-double-spain-win-again-and-england-beat-10-man-czechs-6419801",
+      "date": "Wed, 30 Sep 2026 05:07:24 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What is white phosphorus, and why is Israel using it in Lebanon?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 21:05:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain protests: Evicted 87-year-old woman to return to Madrid home",
+      "link": "https://www.aljazeera.com/news/2026/9/29/spain-protests-evicted-87-year-old-woman-to-return-to-madrid-home?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 21:02:02 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+      "date": "Tue, 29 Sep 2026 21:00:26 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Inside McDonald’s push to have AI price your Big Mac",
+      "link": "https://www.channelnewsasia.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-6419791",
+      "date": "Wed, 30 Sep 2026 04:59:16 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+      "link": "https://www.france24.com/en/safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says",
+      "date": "Tue, 29 Sep 2026 20:58:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Public service announcement or Donald Trump propaganda?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260929-public-service-announcement-or-donald-trump-propaganda",
+      "date": "Tue, 29 Sep 2026 20:56:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What we know about RAF Fairford ‘bomb plot’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 20:55:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+      "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-6419771",
+      "date": "Wed, 30 Sep 2026 04:52:26 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Egypt’s Diplomacy Clever or Clumsy?",
+      "link": "https://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/",
+      "date": "Tue, 29 Sep 2026 20:52:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US sanctions 10 entities for allegedly supporting Iran’s military",
+      "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 20:48:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France intends to borrow record €340 billion as Covid-era debt comes due",
+      "link": "https://www.france24.com/en/business/20260929-france-intends-to-borrow-record-340-billion-euros-covid-era-debt-comes-due",
+      "date": "Tue, 29 Sep 2026 20:34:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ugandan coronation under social media scrutiny",
+      "link": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
+      "date": "Tue, 29 Sep 2026 20:22:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Explainer-What is a public benefit corporation, the Anthropic legal structure?",
+      "link": "https://www.channelnewsasia.com/business/explainer-what-public-benefit-corporation-anthropic-legal-structure-6419696",
+      "date": "Wed, 30 Sep 2026 04:12:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
+      "link": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 20:08:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Sanchez, Swanson return to US squad for Spain friendlies",
+      "link": "https://www.channelnewsasia.com/sport/sanchez-swanson-return-us-squad-spain-friendlies-6419691",
+      "date": "Wed, 30 Sep 2026 04:05:56 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Has Gaza broken the Israel consensus in the US?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 20:05:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump, tech executives sign &#039;morally binding&#039; AI document",
+      "link": "https://www.channelnewsasia.com/business/trump-tech-executives-sign-morally-binding-ai-document-6419686",
+      "date": "Wed, 30 Sep 2026 04:04:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "One in eight cancers worldwide linked to infections, WHO agency says",
+      "link": "https://www.france24.com/en/one-in-eight-cancers-worldwide-linked-to-infections-who-agency-says",
+      "date": "Tue, 29 Sep 2026 20:03:09 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US troops fully withdraw from Baghdad base after two decades",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 20:00:31 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Mystery over UK airbase scare as police find 'quantity of petrol' but no explosives",
+      "link": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
+      "date": "Tue, 29 Sep 2026 19:05:41 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Eiffel Tower boss to stand down after female staff excluded during Hindu group visit",
+      "link": "https://news.sky.com/story/eiffel-tower-boss-to-stand-down-after-female-staff-excluded-during-hindu-group-visit-13593420",
+      "date": "Tue, 29 Sep 2026 20:01:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Burnham sets out 'new path' for Britain, vows to seek consensus on ties with EU",
+      "link": "https://www.france24.com/en/europe/20260929-burnham-sets-out-new-path-for-britain-vows-to-seek-consensus-on-ties-with-eu",
+      "date": "Tue, 29 Sep 2026 17:54:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+      "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 17:31:30 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)",
+      "link": "https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/",
+      "date": "Tue, 29 Sep 2026 17:15:19 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "First female prime minister named in Morocco after winning elections",
+      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 17:14:10 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
       "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 29 Sep 2026 16:56:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Senate Republican says Chinese vehicle bill will not ban Mercedes-Benz in US",
-      "link": "https://www.channelnewsasia.com/business/senate-republican-says-chinese-vehicle-bill-will-not-ban-mercedes-benz-in-us-6419336",
-      "date": "Wed, 30 Sep 2026 00:50:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City surprised after Premier League confirm findings of serious financial breaches",
-      "link": "https://www.channelnewsasia.com/sport/man-city-surprised-after-premier-league-confirm-findings-serious-financial-breaches-6419331",
-      "date": "Wed, 30 Sep 2026 00:47:42 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man City guilty of all serious financial breach charges: Premier League",
-      "link": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 16:30:50 +0000"
     },
     {
       "src": "BBC World",
@@ -38,90 +220,6 @@
       "date": "Tue, 29 Sep 2026 16:23:58 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israel PM says &#039;indications&#039; enemies will try to attack ahead of elections",
-      "link": "https://www.channelnewsasia.com/world/israel-elections-netanyahu-enemies-attack-6419221",
-      "date": "Wed, 30 Sep 2026 00:18:48 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Anthropic says rogue AI agents pose uncertain legal risk for the company",
-      "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-company-6419291",
-      "date": "Wed, 30 Sep 2026 00:17:47 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘New path’: UK’s Burnham promises huge expansion of public services",
-      "link": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 16:13:04 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump rules out joint US-China venture to develop AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 16:09:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Marrakesh mayor Fatima Ezzahra El Mansouri becomes first woman prime minister of Morocco",
-      "link": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
-      "date": "Tue, 29 Sep 2026 16:09:01 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City found guilty of all charges of financial rule breaches, Premier League confirms",
-      "link": "https://www.channelnewsasia.com/sport/man-city-found-guilty-all-charges-financial-rule-breaches-premier-league-confirms-6419256",
-      "date": "Wed, 30 Sep 2026 00:08:18 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Morocco's king appoints Marrakesh mayor El Mansouri as first woman prime minister",
-      "link": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
-      "date": "Tue, 29 Sep 2026 16:08:05 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian nuclear-capable bomber plane crashes, killing six people",
-      "link": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 16:03:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "LIVE: Spain vs Croatia – Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:59:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "European telcos may get more time to phase out high-risk suppliers under EU proposal",
-      "link": "https://www.channelnewsasia.com/business/european-telcos-may-get-more-time-phase-out-high-risk-suppliers-under-eu-proposal-6419231",
-      "date": "Tue, 29 Sep 2026 23:53:53 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:49:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-      "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:47:37 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Dutch police arrest suspected member of group that claimed FBI hack",
@@ -129,81 +227,11 @@
       "date": "Tue, 29 Sep 2026 15:40:10 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ireland undecided on approach for next game against Israel, coach says",
-      "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:33:42 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK PM to set out &#039;options&#039; for EU ties around 2026 summit",
-      "link": "https://www.channelnewsasia.com/world/uk-pm-set-out-options-eu-ties-around-2026-summit-6419066",
-      "date": "Tue, 29 Sep 2026 23:32:12 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "&#039;The emperor is naked&#039;: UEFA&#039;s Ceferin takes aim at FIFA boss Infantino",
-      "link": "https://www.channelnewsasia.com/sport/emperor-naked-uefas-ceferin-takes-aim-fifa-boss-infantino-6419161",
-      "date": "Tue, 29 Sep 2026 23:28:01 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US-Iran talks in New York: What’s the latest?",
-      "link": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:09:53 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Nigerian dances non-stop for seven days in world record bid",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 29 Sep 2026 14:50:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Legion of Honour: Police investigate corruption claims for France’s top award",
-      "link": "https://www.france24.com/en/france/20260929-legion-of-honour-police-investigate-corruption-claims-for-france-s-top-award",
-      "date": "Tue, 29 Sep 2026 14:43:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "A view from Brazil: The fight for the favela vote",
-      "link": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote",
-      "date": "Tue, 29 Sep 2026 14:41:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French civil servants strike, demand additional budgetary resources",
-      "link": "https://www.france24.com/en/video/20260929-french-civil-servants-strike-demand-additional-budgetary-resources",
-      "date": "Tue, 29 Sep 2026 14:40:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Over 100 settlers attack Occupied West Bank village, clash with Israeli forces",
-      "link": "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces",
-      "date": "Tue, 29 Sep 2026 14:38:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit",
-      "link": "https://www.france24.com/en/france/20260929-eiffel-tower-chief-to-step-down-over-removal-of-women-staff-during-hindu-group-visit-baps",
-      "date": "Tue, 29 Sep 2026 14:22:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French far-right leader Bardella denies anti-Semitism accusations",
-      "link": "https://www.france24.com/en/video/20260929-french-far-right-leader-bardella-denies-anti-semitism-accusations",
-      "date": "Tue, 29 Sep 2026 14:11:21 GMT"
     },
     {
       "src": "Sky News",
@@ -220,11 +248,11 @@
       "date": "Tue, 29 Sep 2026 13:28:28 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 13:15:51 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Man and woman charged with perjury following Conor McGregor's failed appeal over sexual assault finding",
+      "link": "https://news.sky.com/story/man-and-woman-charged-with-perjury-following-conor-mcgregors-failed-appeal-over-sexual-assault-finding-13593281",
+      "date": "Tue, 29 Sep 2026 14:22:00 +0100"
     },
     {
       "src": "BBC World",
@@ -239,6 +267,55 @@
       "text": "Israeli settlers attack West Bank village and block Palestinian family's return home",
       "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 29 Sep 2026 12:39:18 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Clean your plate – to reduce food loss and waste",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168485",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "LIVE: Weighing nuclear risks amid rising tensions and war",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168481",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Yemen escalation fuels fears of further cholera, measles spread",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168480",
+      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -297,32 +374,11 @@
       "date": "Tue, 29 Sep 2026 07:14:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Pope says concerns about AI going rogue are not 'fake news' after Trump 'hoax' claims",
-      "link": "https://news.sky.com/story/pope-says-concerns-about-ai-going-rogue-are-not-fake-news-after-trump-hoax-claims-13593054",
-      "date": "Mon, 28 Sep 2026 21:41:00 +0100"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "What Xi Actually Thinks of Trump",
       "link": "https://foreignpolicy.com/2026/09/28/xi-trump-summit-washington-us-china/",
       "date": "Mon, 28 Sep 2026 20:40:22 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The U.S. and China Agree to Slash Tariffs",
-      "link": "https://foreignpolicy.com/2026/09/28/us-china-tariffs-soybeans-trade-war-truce-taiwan-selling-weapons/",
-      "date": "Mon, 28 Sep 2026 20:07:18 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Trump Is Sparking a Slovenian Website Boom",
-      "link": "https://foreignpolicy.com/2026/09/28/trump-super-intelligence-unga-slovenia-web-domain-demand/",
-      "date": "Mon, 28 Sep 2026 19:41:11 +0000"
     },
     {
       "src": "The Guardian",
@@ -346,11 +402,11 @@
       "date": "Mon, 28 Sep 2026 14:20:23 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Trump asked China's president if he wanted to buy US weapons, says ambassador",
-      "link": "https://news.sky.com/story/trump-asked-chinas-president-if-he-wanted-to-buy-us-weapons-says-ambassador-13592653",
-      "date": "Mon, 28 Sep 2026 09:24:00 +0100"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The Takeaway Day 6: General Debate ends with call to turn words into action",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168478",
+      "date": "Mon, 28 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
