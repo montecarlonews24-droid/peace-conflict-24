@@ -1,55 +1,195 @@
 {
-  "updated": "2026-09-29T00:01:22.457Z",
+  "updated": "2026-09-29T05:54:47.299Z",
   "count": 72,
   "items": [
     {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Public transport drivers strike in Manila over soaring fuel prices",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 05:21:50 +0000"
+    },
+    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "French student protests fuel political clash ahead of Presidential vote",
+      "text": "Nations League: Promising France defeat Belgium thanks to Olise",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260929-nations-league-promising-france-defeat-belgium-thanks-olise",
+      "date": "Tue, 29 Sep 2026 05:21:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thai Airways to clear 5,000 bags stranded at Bangkok airport, CEO says",
+      "link": "https://www.channelnewsasia.com/business/thai-airways-clear-5000-bags-stranded-bangkok-airport-ceo-says-6417666",
+      "date": "Tue, 29 Sep 2026 13:21:09 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "More than 80 reported abducted in Nigeria as police find human remains",
+      "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 05:17:35 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Google challenges EU orders to open up to AI, search-engine rivals",
+      "link": "https://www.channelnewsasia.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-6417651",
+      "date": "Tue, 29 Sep 2026 13:06:22 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo says AI risk concerns not ‘fake news’",
+      "link": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 04:51:46 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+      "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 04:46:38 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ethiopian army claims to have taken Tigrayan stronghold",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 04:37:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man charged over AI-generated image of crocodile that led to search operations at Pandan Reservoir",
+      "link": "https://www.channelnewsasia.com/singapore/ai-generated-crocodile-image-pandan-reservoir-man-charged-6417156",
+      "date": "Tue, 29 Sep 2026 12:34:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Australia&#039;s Codan jumps to record high on robust forecast",
+      "link": "https://www.channelnewsasia.com/business/australias-codan-jumps-record-high-robust-forecast-6417546",
+      "date": "Tue, 29 Sep 2026 12:33:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Signal faults, communication problems caused Indonesia&#039;s April deadly train collision: Investigators",
+      "link": "https://www.channelnewsasia.com/asia/signal-faults-communication-problems-bekasi-train-crash-indonesia-6415666",
+      "date": "Tue, 29 Sep 2026 12:32:58 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore Airlines unveils new and refreshed in-flight dishes, including poached lobster and beef short rib sambal percik",
+      "link": "https://www.channelnewsasia.com/travel/singapore-airlines-sia-new-dishes-chefs-selection-6417341",
+      "date": "Tue, 29 Sep 2026 12:32:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 04:30:13 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tata stocks slip after Trusts propose move to prevent holding company listing",
+      "link": "https://www.channelnewsasia.com/business/tata-stocks-slip-after-trusts-propose-move-prevent-holding-company-listing-6417496",
+      "date": "Tue, 29 Sep 2026 12:27:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stocks drop and oil rises as Hormuz hopes fade",
+      "link": "https://www.channelnewsasia.com/business/stocks-drop-and-oil-rises-hormuz-hopes-fade-6417441",
+      "date": "Tue, 29 Sep 2026 12:12:58 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 04:10:33 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 04:06:43 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 03:50:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+      "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 03:38:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fighter jets escort Pope Leo on final day of his France tour",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 03:00:01 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "OpenAI cancels release of new AI model over safety concerns",
+      "link": "https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns",
+      "date": "Tue, 29 Sep 2026 02:54:49 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tennessee governor declines to halt execution of state's lone woman on death row",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 02:36:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 02:36:25 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project",
+      "link": "https://www.france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project",
+      "date": "Tue, 29 Sep 2026 02:13:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Evicted Spanish pensioner can move back home, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 01:28:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US prosecutors reopen Cornell university gang rape investigation",
+      "link": "https://www.france24.com/en/americas/20260929-us-prosecutors-cornell-university-gang-rape-investigation",
+      "date": "Tue, 29 Sep 2026 00:04:48 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French student protests fuel political clash ahead of 2027 presidential vote",
       "link": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
       "date": "Mon, 28 Sep 2026 23:54:27 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Anthropic&#039;s path from AI startup to industry-defining IPO",
-      "link": "https://www.channelnewsasia.com/business/anthropics-path-ai-startup-industry-defining-ipo-6416996",
-      "date": "Tue, 29 Sep 2026 07:52:43 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore gears up for F1 Singapore Grand Prix 2026 with after-parties and race weekend brunches",
-      "link": "https://www.channelnewsasia.com/experiences/singapore-f1-grand-prix-2026-nightlife-guide-6401611",
-      "date": "Tue, 29 Sep 2026 07:37:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australia&#039;s Megaport wins $687 million AI infrastructure deals, raises 2027 earnings forecast",
-      "link": "https://www.channelnewsasia.com/business/australias-megaport-wins-687-million-ai-infrastructure-deals-raises-2027-earnings-forecast-6416976",
-      "date": "Tue, 29 Sep 2026 07:32:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "5 years of Spring Sprang Sprung: How this Singapore watch fair grew from 24 to more than 70 brands",
-      "link": "https://www.channelnewsasia.com/style-beauty/spring-sprang-sprung-2026-independent-watch-fair-singapore-6368431",
-      "date": "Tue, 29 Sep 2026 07:19:08 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Anthropic&#039;s IPO prospectus shows sweeping AI vision, surging costs",
-      "link": "https://www.channelnewsasia.com/business/exclusive-anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-6416961",
-      "date": "Tue, 29 Sep 2026 07:17:22 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta taps Australia&#039;s Firmus for AI computing capacity in Southeast Asia",
-      "link": "https://www.channelnewsasia.com/business/meta-taps-australias-firmus-ai-computing-capacity-in-southeast-asia-6416946",
-      "date": "Tue, 29 Sep 2026 07:10:43 +0800"
     },
     {
       "src": "France 24",
@@ -57,27 +197,6 @@
       "text": "Evicted 87-year-old Spanish pensioner to return home after deal",
       "link": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
       "date": "Mon, 28 Sep 2026 22:34:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI shelves new AI model after internal safety tests: Report",
-      "link": "https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906",
-      "date": "Tue, 29 Sep 2026 06:34:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
-      "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 22:05:43 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: 4,620 retrenchments in Q2 - but that&#039;s not the only figure we should watch",
-      "link": "https://www.channelnewsasia.com/commentary/singapore-retrenchments-jobs-pmet-pay-cut-career-conversion-6415396",
-      "date": "Tue, 29 Sep 2026 06:00:00 +0800"
     },
     {
       "src": "BBC World",
@@ -94,74 +213,11 @@
       "date": "Mon, 28 Sep 2026 21:38:08 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gold falls amid rising oil prices and higher US dollar",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 21:34:51 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260928-expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
       "date": "Mon, 28 Sep 2026 21:25:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
-      "link": "https://www.france24.com/en/expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-      "date": "Mon, 28 Sep 2026 21:23:39 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds set up tent encampments in Madrid over housing crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 21:12:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Olise scores late to grab France 1-0 Nations League win at Belgium",
-      "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 21:04:58 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
-      "link": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-      "date": "Mon, 28 Sep 2026 20:55:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 20:53:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "French far-right leader Bardella refutes anti-Semitism allegations",
-      "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 20:52:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Sudan calls for sanctions to be lifted at UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 20:45:52 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France braces for a day of strikes and protests over civil servants' pay",
-      "link": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
-      "date": "Mon, 28 Sep 2026 20:42:09 GMT"
     },
     {
       "src": "Sky News",
@@ -178,27 +234,6 @@
       "date": "Mon, 28 Sep 2026 20:40:22 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Slovenia’s U-turn towards Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 20:35:51 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ethiopian forces claim Tigray town",
-      "link": "https://www.france24.com/en/ethiopian-forces-claim-tigray-town",
-      "date": "Mon, 28 Sep 2026 20:32:38 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 20:23:12 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The U.S. and China Agree to Slash Tariffs",
@@ -213,46 +248,11 @@
       "date": "Mon, 28 Sep 2026 19:41:11 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 17:26:21 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 17:15:00 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Four bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 16:13:44 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "DRC politician beaten to death after radio appearance about Ebola outbreak",
       "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
       "date": "Mon, 28 Sep 2026 15:54:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nigerian attempts to break world record by dancing non-stop for seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 15:39:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 14:57:31 GMT"
     },
     {
       "src": "RFI",
@@ -285,7 +285,7 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
-      "text": "The Takeaway Day 6: General Debate ends with a plea to turn words into action",
+      "text": "The Takeaway Day 6: General Debate ends with call to turn words into action",
       "link": "https://news.un.org/feed/view/en/story/2026/09/1168478",
       "date": "Mon, 28 Sep 2026 12:00:00 +0000"
     },
@@ -430,6 +430,13 @@
       "date": "Sun, 27 Sep 2026 09:35:35 GMT"
     },
     {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+      "link": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+      "date": "Sun, 27 Sep 2026 06:45:54 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Only diplomacy ​can solve conflict, says Iran after Trump rejects peace plan",
@@ -442,13 +449,6 @@
       "text": "Spain housing crisis protest after 87-year-old woman evicted",
       "link": "https://news.sky.com/story/spain-housing-crisis-protest-after-87-year-old-woman-evicted-13592322",
       "date": "Sun, 27 Sep 2026 03:25:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-      "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-      "date": "Sat, 26 Sep 2026 16:00:39 GMT"
     },
     {
       "src": "RFI",
