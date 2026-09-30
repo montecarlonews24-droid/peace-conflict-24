@@ -1,76 +1,258 @@
 {
-  "updated": "2026-09-30T12:49:45.452Z",
-  "count": 72,
+  "updated": "2026-09-30T18:11:04.049Z",
+  "count": 64,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:55:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Syria removed from US arms export ban list",
+      "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:55:13 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 17:51:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:36:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:34:55 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 17:14:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
+      "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:13:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK-France 'one in, one out' migrant exchange deal is scrapped",
+      "link": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
+      "date": "Wed, 30 Sep 2026 17:12:12 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "UK-France 'one in, one out' migrant scheme scrapped",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 17:11:08 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
+      "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:07:09 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France to unveil 2027 budget as debt hits record high",
+      "link": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
+      "date": "Wed, 30 Sep 2026 16:58:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel PM says pilot of rerouted flight tried to crash plane",
+      "link": "https://www.france24.com/en/video/20260930-israel-pm-says-pilot-of-rerouted-flight-tried-to-crash-plane",
+      "date": "Wed, 30 Sep 2026 16:57:41 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "New York Gov pushes for probe into Cornell's handling of gang rape allegation",
+      "link": "https://www.france24.com/en/video/20260930-new-york-gov-pushes-for-probe-into-cornell-s-handling-of-gang-rape-allegation",
+      "date": "Wed, 30 Sep 2026 16:55:36 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Climate change reshaping the polar oceans, says report",
+      "link": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
+      "date": "Wed, 30 Sep 2026 16:53:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces",
+      "link": "https://www.france24.com/en/video/20260930-syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces",
+      "date": "Wed, 30 Sep 2026 16:45:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US appeals court halts Tennessee execution of Christa Pike",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 16:44:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 16:38:25 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘Attempted terror attack’: What happened on board the rerouted Flydubai flight?",
+      "link": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
+      "date": "Wed, 30 Sep 2026 16:04:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
+      "link": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
+      "date": "Wed, 30 Sep 2026 16:03:32 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "date": "Wed, 30 Sep 2026 15:59:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Swiss Football Association withdraws support for Infantino",
+      "link": "https://www.channelnewsasia.com/sport/swiss-football-association-withdraws-support-infantino-6422136",
+      "date": "Wed, 30 Sep 2026 23:50:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alpine skiing-After Olympic sweep, Swiss Von Allmen shrugs off pressure ahead of new season",
+      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-after-olympic-sweep-swiss-von-allmen-shrugs-pressure-ahead-new-season-6422131",
+      "date": "Wed, 30 Sep 2026 23:45:35 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Lula Bets Big on Defense Ahead of Election",
+      "link": "https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industrial-policy-economy-trump/",
+      "date": "Wed, 30 Sep 2026 15:34:09 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 15:29:11 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Butterfly wing patterns may trick predators with motion illusions",
+      "link": "https://www.channelnewsasia.com/business/butterfly-wing-patterns-may-trick-predators-motion-illusions-6422111",
+      "date": "Wed, 30 Sep 2026 23:25:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "2027 London Marathon dates decided by game of rock-paper-scissors",
+      "link": "https://www.channelnewsasia.com/sport/2027-london-marathon-dates-decided-game-rock-paper-scissors-6422106",
+      "date": "Wed, 30 Sep 2026 23:22:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Half of F1 grid faces unknown as Sepang returns after nine-year absence",
+      "link": "https://www.channelnewsasia.com/sport/half-f1-grid-faces-unknown-sepang-returns-after-nine-year-absence-6422096",
+      "date": "Wed, 30 Sep 2026 23:17:05 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US Transport Chief Duffy sees no safety concern from 737 MAX software issue",
+      "link": "https://www.channelnewsasia.com/business/us-transport-chief-duffy-sees-no-safety-concern-737-max-software-issue-6422071",
+      "date": "Wed, 30 Sep 2026 23:06:23 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 15:04:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brazilian soccer teams cry foul at Lula&#039;s online betting ban",
+      "link": "https://www.channelnewsasia.com/sport/brazilian-soccer-teams-cry-foul-lulas-online-betting-ban-6422051",
+      "date": "Wed, 30 Sep 2026 23:02:37 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 12:42:34 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iraq celebrates National Sovereignty Day as US troops withdraw",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:17:00 +0000"
+      "date": "Wed, 30 Sep 2026 14:53:02 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Real Madrid defender Asencio to undergo shin surgery",
-      "link": "https://www.channelnewsasia.com/sport/real-madrid-defender-asencio-undergo-shin-surgery-6421576",
-      "date": "Wed, 30 Sep 2026 20:11:23 +0800"
+      "text": "Nearly 100,000 Bee Cheng Hiang customers&#039; email addresses exposed in first AI-related data breach in Singapore",
+      "link": "https://www.channelnewsasia.com/singapore/bee-cheng-hiang-data-breach-ai-pdpc-emails-6421711",
+      "date": "Wed, 30 Sep 2026 22:45:00 +0800"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Botswana condemned for slaughtering elephants for independence celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 12:06:28 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:05:45 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Flydubai &#039;terrorist&#039; wanted to crash plane, kill Israelis: Security minister",
-      "link": "https://www.channelnewsasia.com/world/flydubai-plane-diverted-israel-saudi-pilot-fight-6421401",
-      "date": "Wed, 30 Sep 2026 20:05:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France&#039;s Sekoia rolls out AI cybersecurity platform to its clients",
-      "link": "https://www.channelnewsasia.com/business/frances-sekoia-rolls-out-ai-cybersecurity-platform-its-clients-6421556",
-      "date": "Wed, 30 Sep 2026 20:02:23 +0800"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "‘Welcome back’: Macron and Sanchez embrace prospect of UK return to EU",
+      "link": "https://www.rfi.fr/en/international/20260930-welcome-back-macron-and-sanchez-embrace-prospect-of-uk-return-to-eu",
+      "date": "Wed, 30 Sep 2026 14:38:03 GMT"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Top Trump figures push to direct human rights funding to rightwing causes",
-      "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "date": "Wed, 30 Sep 2026 12:00:42 GMT"
+      "text": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "date": "Wed, 30 Sep 2026 14:16:33 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Price controls may look attractive, but costs often only emerge later: PM Wong",
-      "link": "https://www.channelnewsasia.com/singapore/price-rent-control-food-price-caps-6420821",
-      "date": "Wed, 30 Sep 2026 20:00:21 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Populism’s New Rallying Cry Is ‘Expropriation’",
+      "link": "https://foreignpolicy.com/2026/09/30/berlin-left-linke-expropriation-confiscation-housing-mayor/",
+      "date": "Wed, 30 Sep 2026 13:54:47 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thai floods disrupt factories, capital still at risk, PM says",
-      "link": "https://www.channelnewsasia.com/asia/thai-floods-capital-still-risk-6421491",
-      "date": "Wed, 30 Sep 2026 19:59:09 +0800"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+      "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "date": "Wed, 30 Sep 2026 12:47:15 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -80,81 +262,11 @@
       "date": "Wed, 30 Sep 2026 11:53:49 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Macron, Sanchez hold joint press conference during French president’s visit to Spain",
-      "link": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
-      "date": "Wed, 30 Sep 2026 11:49:56 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Flydubai flight to Israel diverted after attack on pilot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:43:35 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "From robots to cancer screenings, Asia’s next wave of AI startups is moving into the real world",
-      "link": "https://www.channelnewsasia.com/singapore/nextgen-tech-30-sgx-granite-asia-startups-artificial-intelligence-6421421",
-      "date": "Wed, 30 Sep 2026 19:43:10 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ireland vs Israel Nations League match will go ahead, coach confirms",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:36:35 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
       "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 30 Sep 2026 11:36:23 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-      "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:32:24 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Forced landing of Israel-bound flight: What we know so far",
-      "link": "https://www.france24.com/en/video/20260930-forced-landing-of-israel-bound-flight-what-we-know-so-far",
-      "date": "Wed, 30 Sep 2026 11:29:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Mixed reactions in Iraq on final day of US-led coalition withdrawal",
-      "link": "https://www.france24.com/en/video/20260930-mixed-reactions-in-iraq-on-final-day-of-us-led-coalition-withdrawal",
-      "date": "Wed, 30 Sep 2026 11:27:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "N Korea and S Korea exchange threats over DMZ blast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:19:10 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Why is the US withdrawing its troops from Iraq?",
-      "link": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
-      "date": "Wed, 30 Sep 2026 11:18:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Eiffel Tower chief to step down after female staff scandal",
-      "link": "https://www.france24.com/en/video/20260930-eiffel-tower-chief-to-step-down-after-female-staff-scandal",
-      "date": "Wed, 30 Sep 2026 11:11:41 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -164,53 +276,11 @@
       "date": "Wed, 30 Sep 2026 11:09:01 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260930-cornell-won-t-we-will-student-journalists-relentlessly-reporting-on-university-rape",
-      "date": "Wed, 30 Sep 2026 11:06:57 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Committee formed to review child safeguards in Islamic religious settings after sexual assault case",
-      "link": "https://www.channelnewsasia.com/singapore/committee-islamic-religious-settings-mosques-children-safeguards-sex-assault-6420921",
-      "date": "Wed, 30 Sep 2026 19:06:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Union calls for public transport workers to get better wages, bonuses following fare hikes",
-      "link": "https://www.channelnewsasia.com/singapore/public-transport-fare-hikes-better-wages-workers-union-6421231",
-      "date": "Wed, 30 Sep 2026 19:05:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
-      "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:03:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What’s behind French student protests that turned violent?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:01:19 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'People have been buying into the detoxification of the National Rally', French politics expert says",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20260930-people-have-been-buying-into-the-detoxification-of-the-national-rally-says-andrew-smith",
-      "date": "Wed, 30 Sep 2026 10:58:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Medicine prices soar in Iran as US blockade and sanctions hit hard",
-      "link": "https://www.france24.com/en/video/20260930-medicine-prices-soar-in-iran-as-us-blockade-and-sanctions-hit-hard",
-      "date": "Wed, 30 Sep 2026 10:39:05 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Six men found guilty of manslaughter over deadliest small boat Channel crossing",
+      "link": "https://news.sky.com/story/six-men-found-guilty-of-manslaughter-in-paris-over-deadliest-small-boat-channel-crossing-13593614",
+      "date": "Wed, 30 Sep 2026 11:53:00 +0100"
     },
     {
       "src": "RFI",
@@ -234,25 +304,11 @@
       "date": "Wed, 30 Sep 2026 10:48:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 08:59:38 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Kim Jong Un's sister issues warning as she denies South Korea land mine claims",
       "link": "https://news.sky.com/story/kim-jong-uns-sister-issues-warning-as-she-denies-south-korea-land-mine-claims-13593551",
       "date": "Wed, 30 Sep 2026 08:38:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 05:24:52 GMT"
     },
     {
       "src": "BBC World",
@@ -276,20 +332,6 @@
       "date": "Wed, 30 Sep 2026 02:40:07 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 23:15:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-      "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 22:33:13 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Spain’s Housing Reform",
@@ -302,13 +344,6 @@
       "text": "Was Xi’s U.S. Visit a Bust?",
       "link": "https://foreignpolicy.com/2026/09/29/china-us-xi-trump-summit-ai-trade/",
       "date": "Tue, 29 Sep 2026 21:35:09 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Is Egypt’s Diplomacy Clever or Clumsy?",
-      "link": "https://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/",
-      "date": "Tue, 29 Sep 2026 20:52:09 +0000"
     },
     {
       "src": "Sky News",
@@ -325,20 +360,6 @@
       "date": "Tue, 29 Sep 2026 20:01:00 +0100"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)",
-      "link": "https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/",
-      "date": "Tue, 29 Sep 2026 17:15:19 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Pakistan's battle over Imran Khan",
-      "link": "https://news.sky.com/story/pakistans-battle-over-imran-khan-13593387",
-      "date": "Tue, 29 Sep 2026 17:48:00 +0100"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Russia's spy agency opens criminal case against Lib Dem councillor",
@@ -351,55 +372,6 @@
       "text": "Man and woman charged with perjury following Conor McGregor's failed appeal over sexual assault finding",
       "link": "https://news.sky.com/story/man-and-woman-charged-with-perjury-following-conor-mcgregors-failed-appeal-over-sexual-assault-finding-13593281",
       "date": "Tue, 29 Sep 2026 14:22:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168488",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168486",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Clean your plate – to reduce food loss and waste",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168485",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "LIVE: Weighing nuclear risks amid rising tensions and war",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168483",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168482",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168481",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Yemen escalation fuels fears of further cholera, measles spread",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168480",
-      "date": "Tue, 29 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -428,13 +400,6 @@
       "text": "Houthi attacks put Turkey’s new Saudi defence pact to the test",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260928-houthi-attacks-put-turkey-s-new-saudi-defence-pact-to-the-test",
       "date": "Mon, 28 Sep 2026 14:20:23 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The Takeaway Day 6: General Debate ends with call to turn words into action",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168478",
-      "date": "Mon, 28 Sep 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -472,13 +437,6 @@
       "date": "Sun, 27 Sep 2026 12:40:15 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-      "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-      "date": "Sun, 27 Sep 2026 11:00:03 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "UK's PM urges 'calm' as thousands seek to thwart flashpoint N.Ireland parade",
@@ -491,20 +449,6 @@
       "text": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
       "link": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
       "date": "Sun, 27 Sep 2026 06:45:54 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Trump says he rejects Iran proposal on Strait of Hormuz",
-      "link": "https://www.rfi.fr/en/international/20260926-iran-proposes-hormuz-plan-trump-reportedly-refuses",
-      "date": "Sat, 26 Sep 2026 13:10:39 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "date": "Thu, 24 Sep 2026 15:29:42 GMT"
     }
   ]
 }
