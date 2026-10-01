@@ -1,27 +1,216 @@
 {
-  "updated": "2026-10-01T19:56:51.934Z",
-  "count": 71,
+  "updated": "2026-10-01T23:35:20.441Z",
+  "count": 70,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link",
+      "link": "https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link",
+      "date": "Thu, 01 Oct 2026 23:27:04 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Luxury cruising is changing. These new ships show where it’s headed",
+      "link": "https://www.channelnewsasia.com/experiences/new-luxury-cruise-ships-2026-6407721",
+      "date": "Fri, 02 Oct 2026 07:24:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Why so many people in sunny Singapore have Vitamin D deficiency – and what you should know",
+      "link": "https://www.channelnewsasia.com/wellness/vitamin-d-deficiency-singapore-levels-sunlight-supplements-6406856",
+      "date": "Fri, 02 Oct 2026 07:22:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New Mexico wants Meta to pay up to $40 billion in penalties after data privacy trial",
+      "link": "https://www.channelnewsasia.com/business/new-mexico-wants-meta-pay-up-40-billion-in-penalties-after-data-privacy-trial-6425646",
+      "date": "Fri, 02 Oct 2026 07:13:28 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What happened in the failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 22:52:19 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump vows to hit Iran &#039;very hard&#039; if linked to flydubai attack",
+      "link": "https://www.channelnewsasia.com/world/donald-trump-iran-flydubai-attack-6425611",
+      "date": "Fri, 02 Oct 2026 06:52:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazilian government calls for probe into US funding of far-right causes",
+      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 22:48:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nike plans more job cuts to boost sputtering turnaround, forecasts steep revenue drop",
+      "link": "https://www.channelnewsasia.com/business/nike-plans-more-job-cuts-boost-sputtering-turnaround-forecasts-steep-revenue-drop-6425411",
+      "date": "Fri, 02 Oct 2026 06:47:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK police arrest dual UK-Iranian man in Fairford air base investigation",
+      "link": "https://www.channelnewsasia.com/world/uk-iranian-man-arrested-fairford-air-base-investigation-6425226",
+      "date": "Fri, 02 Oct 2026 06:47:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 22:44:56 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French investigative site says antisemitic messages tied to Jordan Bardella, Le Pen's ally",
+      "link": "https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet",
+      "date": "Thu, 01 Oct 2026 22:41:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Comcast&#039;s NBCUniversal cuts streaming technology jobs",
+      "link": "https://www.channelnewsasia.com/business/comcasts-nbcuniversal-cuts-streaming-technology-jobs-6425601",
+      "date": "Fri, 02 Oct 2026 06:40:17 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 22:31:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 22:30:32 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 19:52:50 GMT"
+      "date": "Thu, 01 Oct 2026 22:28:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Migration deal: 'Really a scheme around political diplomacy between UK & France in post-Brexit era'",
+      "link": "https://www.france24.com/en/video/20261001-migration-deal-really-a-scheme-around-political-diplomacy-between-uk-france-in-post-brexit-era-1",
+      "date": "Thu, 01 Oct 2026 22:27:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+      "link": "https://www.channelnewsasia.com/business/openai-alerts-more-100-groups-about-rogue-ai-agent-activity-6425576",
+      "date": "Fri, 02 Oct 2026 06:22:58 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban",
+      "link": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
+      "date": "Thu, 01 Oct 2026 22:08:51 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Cornell rape allegations renew push to change New York sexual assault law",
-      "link": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 19:47:58 +0000"
+      "text": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 21:54:26 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "What’s driving Israeli settler violence in the occupied West Bank?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 19:45:37 +0000"
+      "text": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+      "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 21:53:16 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+      "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 21:33:15 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Hegseth Wants More",
+      "link": "https://foreignpolicy.com/2026/10/01/hegseth-speech-state-force-autonomous-musk-luckey-gingrich/",
+      "date": "Thu, 01 Oct 2026 21:28:10 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Violent Student Protests Loom Over France’s Budget Proposal",
+      "link": "https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-student-protests-lecornu-macron/",
+      "date": "Thu, 01 Oct 2026 21:26:25 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 21:22:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fake BBC report falsely implicates Indian passenger and pilot in Flydubai hijacking attempt",
+      "link": "https://www.france24.com/en/fake-bbc-report-falsely-implicates-indian-passenger-and-pilot-in-flydubai-hijacking-attempt",
+      "date": "Thu, 01 Oct 2026 21:11:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Fundamental demand': Saint-Denis students seek same opportunity as those in 'more privileged areas'",
+      "link": "https://www.france24.com/en/fundamental-demand-saint-denis-students-seek-same-opportunity-as-those-in-more-privileged-areas",
+      "date": "Thu, 01 Oct 2026 21:02:33 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Modi Faces Protest Threat Over Election Commission Scandal",
+      "link": "https://foreignpolicy.com/2026/10/01/india-modi-protest-election-commission-cockroach-movement/",
+      "date": "Thu, 01 Oct 2026 20:53:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 20:30:47 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ethiopia and Eritrea break diplomatic ties over conflict",
+      "link": "https://www.france24.com/en/ethiopia-and-eritrea-break-diplomatic-ties-over-conflict",
+      "date": "Thu, 01 Oct 2026 20:28:30 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 19:59:24 GMT"
     },
     {
       "src": "France 24",
@@ -31,81 +220,11 @@
       "date": "Thu, 01 Oct 2026 19:40:45 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Christa Pike gets \"life-saving medical care\" after surviving Tennessee execution",
-      "link": "https://www.channelnewsasia.com/world/christa-pike-hospital-execution-tennessee-6425326",
-      "date": "Fri, 02 Oct 2026 03:38:47 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 01 Oct 2026 19:38:30 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ireland v Austria game briefly halted by Stop the Game protesters",
-      "link": "https://www.channelnewsasia.com/sport/ireland-v-austria-game-briefly-halted-stop-game-protesters-6425351",
-      "date": "Fri, 02 Oct 2026 03:35:32 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France’s purchasing power crisis: Navigating the pinch",
-      "link": "https://www.france24.com/en/economy/20261001-france-s-purchasing-power-crisis-navigating-the-pinch",
-      "date": "Thu, 01 Oct 2026 19:26:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 19:25:58 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SoftBank completes final phase of $30 billion investment in OpenAI",
-      "link": "https://www.channelnewsasia.com/business/softbank-completes-final-phase-30-billion-investment-in-openai-6425316",
-      "date": "Fri, 02 Oct 2026 03:07:56 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "After Red Sea losses, Yemen’s government forces hold the line",
-      "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 19:05:25 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
-      "link": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 19:03:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Canada to fast track oil pipeline meant to diversify economy away from US",
-      "link": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 18:56:06 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 18:48:46 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "WBC heavyweight champion Kabayel&#039;s first defence confirmed for Duesseldorf on November 28",
-      "link": "https://www.channelnewsasia.com/sport/wbc-heavyweight-champion-kabayels-first-defence-confirmed-duesseldorf-november-28-6425301",
-      "date": "Fri, 02 Oct 2026 02:40:45 +0800"
     },
     {
       "src": "The Guardian",
@@ -115,39 +234,11 @@
       "date": "Thu, 01 Oct 2026 18:34:10 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "School protests spread as fires, blockades deepen unrest in France",
-      "link": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 18:18:18 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks",
-      "link": "https://www.channelnewsasia.com/business/california-ag-bonta-issues-subpoena-openai-over-ai-cybersecurity-risks-6425216",
-      "date": "Fri, 02 Oct 2026 02:10:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indian embassy in UAE says wounded flydubai captain in good health",
-      "link": "https://www.channelnewsasia.com/world/flydubai-captain-pilot-hospital-india-6425166",
-      "date": "Fri, 02 Oct 2026 01:55:42 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "GM hangs on to US sales crown, but Toyota closes in",
-      "link": "https://www.channelnewsasia.com/business/gm-hangs-us-sales-crown-toyota-closes-in-6425181",
-      "date": "Fri, 02 Oct 2026 01:53:34 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Messi becomes the majority owner of Spanish club Eldense",
-      "link": "https://www.channelnewsasia.com/sport/messi-becomes-majority-owner-spanish-club-eldense-6425176",
-      "date": "Fri, 02 Oct 2026 01:52:00 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Schools set alight by students in protests across France",
+      "link": "https://news.sky.com/story/french-schools-set-alight-by-students-in-violent-protests-over-teacher-shortages-and-run-down-buildings-13594112",
+      "date": "Thu, 01 Oct 2026 19:04:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -155,34 +246,6 @@
       "text": "Oil Is Again Flowing Out of Hormuz",
       "link": "https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/",
       "date": "Thu, 01 Oct 2026 17:48:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian children in Israeli military detention",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 17:44:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-      "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 17:35:58 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 17:32:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Guilty of all charges': Man City at centre of 'biggest scandal in football history', vows to appeal",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal",
-      "date": "Thu, 01 Oct 2026 16:37:15 GMT"
     },
     {
       "src": "Sky News",
@@ -199,13 +262,6 @@
       "date": "Thu, 01 Oct 2026 15:46:33 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Students face riot police as protests over school conditions escalate in France",
-      "link": "https://www.france24.com/en/students-face-riot-police-as-protests-over-school-conditions-escalate-in-france",
-      "date": "Thu, 01 Oct 2026 15:42:25 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Space-Launch Crash Is Coming",
@@ -213,39 +269,11 @@
       "date": "Thu, 01 Oct 2026 15:32:07 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Teens block high schools across France, demand better conditions",
-      "link": "https://www.france24.com/en/video/20261001-teens-block-high-schools-across-france-demand-better-conditions",
-      "date": "Thu, 01 Oct 2026 15:25:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rethinking traditional designs: A French twist on the kimono",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20261001-rethinking-traditional-designs-a-french-twist-on-the-kimono",
-      "date": "Thu, 01 Oct 2026 15:16:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cameroon govt announces payments as teachers strike continues",
-      "link": "https://www.france24.com/en/video/20261001-cameroon-govt-announces-payments-as-teachers-strike-continues",
-      "date": "Thu, 01 Oct 2026 14:56:25 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "‘Everyone Is Depleted’",
       "link": "https://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/",
       "date": "Thu, 01 Oct 2026 14:47:39 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "A blessing or a curse? New Caledonia's dwindling nickel industry",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry",
-      "date": "Thu, 01 Oct 2026 14:39:34 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -269,13 +297,6 @@
       "date": "Thu, 01 Oct 2026 14:21:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Briton jailed in India for nine years released on bail, rights group says",
-      "link": "https://news.sky.com/story/jagtar-singh-johal-who-was-jailed-in-india-for-nine-years-is-released-on-bail-rights-group-13594003",
-      "date": "Thu, 01 Oct 2026 13:36:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Family feud yields sour grapes at French drinks empire Castel",
@@ -292,7 +313,7 @@
     {
       "src": "UN News",
       "col": "#3b82f6",
-      "text": "No more execution attempts on Christa Pike, UN rights chief",
+      "text": "No more execution attempts on Christa Pike: UN rights chief",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168504",
       "date": "Thu, 01 Oct 2026 12:00:00 +0000"
     },
@@ -381,27 +402,6 @@
       "date": "Wed, 30 Sep 2026 20:56:17 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "U.S. Forces Leave Behind a Power Vacuum in Iraq",
-      "link": "https://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/",
-      "date": "Wed, 30 Sep 2026 20:31:31 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Far Can Russia Probe NATO’s Collective Defense?",
-      "link": "https://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/",
-      "date": "Wed, 30 Sep 2026 20:22:44 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Ethiopia’s Return to War Threatens to Engulf the Horn of Africa",
-      "link": "https://foreignpolicy.com/2026/09/30/ethiopia-return-civil-war-tigray-regional-impact-eritrea-horn-africa/",
-      "date": "Wed, 30 Sep 2026 20:05:04 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Trump administration diverts human rights funds to push far-right agenda abroad",
@@ -463,13 +463,6 @@
       "text": "US troops wrap up Iraq mission 12 years after Islamic State offensive",
       "link": "https://www.rfi.fr/en/international/20260930-us-troops-wrap-up-iraq-mission-12-years-after-islamic-state-offensive",
       "date": "Wed, 30 Sep 2026 10:29:21 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Kim Jong Un's sister issues warning as she denies South Korea land mine claims",
-      "link": "https://news.sky.com/story/kim-jong-uns-sister-issues-warning-as-she-denies-south-korea-land-mine-claims-13593551",
-      "date": "Wed, 30 Sep 2026 08:38:00 +0100"
     },
     {
       "src": "RFI",
