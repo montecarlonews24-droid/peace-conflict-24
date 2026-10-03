@@ -1,13 +1,202 @@
 {
-  "updated": "2026-10-03T02:36:29.217Z",
+  "updated": "2026-10-03T08:39:03.708Z",
   "count": 64,
   "items": [
     {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Games-India beat Pakistan in final to complete cricket double",
+      "link": "https://www.channelnewsasia.com/sport/games-india-beat-pakistan-in-final-complete-cricket-double-6428951",
+      "date": "Sat, 03 Oct 2026 16:28:01 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 08:26:06 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israeli air attack on Gaza City apartment kills at least five",
-      "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 02:25:23 +0000"
+      "text": "Polls open in Latvia against backdrop of perceived Russia threat",
+      "link": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 08:21:23 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "No fairytale return for Zidane as Italy hold France at the Stade de France",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261003-no-fairytale-return-for-zidane-as-italy-hold-france-at-the-stade-de-france",
+      "date": "Sat, 03 Oct 2026 08:20:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkish court detains football refereeing chief pending corruption trial",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 08:19:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India beat arch-rivals Pakistan to win Asian Games T20 cricket gold",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 08:18:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Floods sweep cars through streets after intense rain in Spain",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 08:17:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Flydubai co-pilot attacked pilot with axe, attempted &#039;terrorist attack&#039;, UAE says",
+      "link": "https://www.channelnewsasia.com/world/flydubai-co-pilot-attempted-terrorist-attack-uae-6428876",
+      "date": "Sat, 03 Oct 2026 16:12:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Transport operators to improve services after F1 fans left stranded in Sepang",
+      "link": "https://www.channelnewsasia.com/sport/transport-operators-improve-services-after-f1-fans-left-stranded-in-sepang-6428941",
+      "date": "Sat, 03 Oct 2026 16:11:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man City whistleblower Pinto to lose witness protection amid death threats",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 08:05:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 07:57:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 07:57:47 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "To reclaim its sovereignty, Senegal must approach debt differently",
+      "link": "https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 07:51:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Belgium&#039;s De Bruyne, Tielemans to miss France match due to suspension",
+      "link": "https://www.channelnewsasia.com/sport/belgiums-de-bruyne-tielemans-miss-france-match-due-suspension-6428916",
+      "date": "Sat, 03 Oct 2026 15:40:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "High school students in Paris&#039; deprived suburbs spark national protest movement",
+      "link": "https://www.channelnewsasia.com/world/france-students-police-clash-protests-6428896",
+      "date": "Sat, 03 Oct 2026 15:36:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia strikes second major bridge in Kyiv, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 07:25:09 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 UAE investigators say Flydubai co-pilot was planning 'terrorist act'",
+      "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+      "date": "Sat, 03 Oct 2026 07:14:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Islamic religious education providers teaching 10 or more must register with MUIS",
+      "link": "https://www.channelnewsasia.com/singapore/muis-islamic-religious-classes-rules-6428861",
+      "date": "Sat, 03 Oct 2026 15:08:00 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "date": "Sat, 03 Oct 2026 07:00:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore adults are getting more active, but eating more calories and salt: MOH, HPB surveys",
+      "link": "https://www.channelnewsasia.com/singapore/health-diet-calorie-food-salt-moh-hpb-6423211",
+      "date": "Sat, 03 Oct 2026 15:00:05 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia strikes another major bridge across Kyiv's Dnipro river",
+      "link": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+      "date": "Sat, 03 Oct 2026 06:40:29 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Marquez wins Japanese GP sprint to close in on Martin",
+      "link": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-sprint-close-in-martin-6428866",
+      "date": "Sat, 03 Oct 2026 14:38:35 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
+      "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+      "date": "Sat, 03 Oct 2026 06:17:45 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "North Korea 'fires ballistic missile' after Seoul demands apology",
+      "link": "https://news.sky.com/story/north-korea-fires-ballistic-missile-after-seoul-demands-apology-over-border-mine-blasts-13594567",
+      "date": "Sat, 03 Oct 2026 07:14:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Flydubai co-pilot 'attacked pilot with axe in suspected terrorist attack', UAE says",
+      "link": "https://news.sky.com/story/flydubai-co-pilot-attacked-pilot-with-axe-in-suspected-terrorist-attack-uae-says-13594565",
+      "date": "Sat, 03 Oct 2026 07:07:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 04:38:31 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Ten injured as car hits crowd in Australia in 'horrible incident'",
+      "link": "https://news.sky.com/story/horrible-incident-at-least-nine-injured-as-car-hits-crowd-in-australia-13594555",
+      "date": "Sat, 03 Oct 2026 04:34:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+      "link": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+      "date": "Sat, 03 Oct 2026 02:40:43 GMT"
     },
     {
       "src": "BBC World",
@@ -17,123 +206,11 @@
       "date": "Sat, 03 Oct 2026 02:23:07 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India vs Pakistan live: Asian Games cricket final",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 01:55:31 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Several injured in Australia as car crashes into crowd north of Sydney",
-      "link": "https://www.channelnewsasia.com/world/car-crashes-crowd-sydney-australia-6428581",
-      "date": "Sat, 03 Oct 2026 09:51:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview",
-      "link": "https://www.channelnewsasia.com/business/japan-shifts-messaging-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview-6428591",
-      "date": "Sat, 03 Oct 2026 09:50:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Schools ablaze as student protests spread across France",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 01:46:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dominican Republic bans Haiti from its stadiums after Nations League clash",
-      "link": "https://www.channelnewsasia.com/sport/dominican-republic-bans-haiti-its-stadiums-after-nations-league-clash-6428551",
-      "date": "Sat, 03 Oct 2026 09:24:53 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "North Korea fires ballistic missile toward sea, say South Korea and Japan",
-      "link": "https://www.channelnewsasia.com/east-asia/north-korea-south-korea-japan-missile-6428521",
-      "date": "Sat, 03 Oct 2026 09:11:12 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Woman told Cornell investigators she &#039;felt like bait&#039; during alleged gang rape",
-      "link": "https://www.channelnewsasia.com/world/cornell-woman-gang-rape-bait-6428421",
-      "date": "Sat, 03 Oct 2026 08:47:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US and Australia suspend diplomatic operations in Brazil before election",
-      "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 00:46:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump rules out diesel export ban after European release",
-      "link": "https://www.channelnewsasia.com/world/trump-diesel-export-ban-europe-6428441",
-      "date": "Sat, 03 Oct 2026 08:04:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "North Korea fires ballistic missile towards the sea, South Korea says",
-      "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 23:55:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Dutch royal house helped slave trade to survive, study finds",
-      "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 23:43:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "The Weeknd Singapore concert review: After Hours Til Dawn is a spectacular return after 8 years",
-      "link": "https://www.channelnewsasia.com/entertainment/weeknd-singapore-2026-after-hours-til-dawn-6428206",
-      "date": "Sat, 03 Oct 2026 07:39:40 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Women given shorts at Oktoberfest to prevent upskirting",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 02 Oct 2026 23:16:03 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pokemon events for fans in Singapore to enjoy as part of the franchise’s 30th anniversary",
-      "link": "https://www.channelnewsasia.com/living/pokemon-events-singapore-30th-anniversary-2026-6425766",
-      "date": "Sat, 03 Oct 2026 07:14:37 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 23:06:00 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-      "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 22:50:23 +0000"
     },
     {
       "src": "France 24",
@@ -166,6 +243,13 @@
     {
       "src": "France 24",
       "col": "#ef4444",
+      "text": "Nations League: France held by Italy in Zidane's homecoming after Olise stunner",
+      "link": "https://www.france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner",
+      "date": "Fri, 02 Oct 2026 20:58:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
       "text": "Ethiopian army pushes back Tigrayan rebels",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
       "date": "Fri, 02 Oct 2026 20:46:00 GMT"
@@ -178,32 +262,11 @@
       "date": "Fri, 02 Oct 2026 20:32:07 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 20:25:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
-      "link": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
-      "date": "Fri, 02 Oct 2026 19:31:27 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Where Does Russia’s Violent Imperialism Come From?",
       "link": "https://foreignpolicy.com/2026/10/02/russia-new-imperialism-book-review-budraitskis-matveev-putin-war-ukraine-authoritarianism-violence/",
       "date": "Fri, 02 Oct 2026 19:00:54 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement",
-      "date": "Fri, 02 Oct 2026 18:54:00 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -255,20 +318,6 @@
       "date": "Fri, 02 Oct 2026 16:32:07 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
-      "link": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
-      "date": "Fri, 02 Oct 2026 16:20:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
-      "date": "Fri, 02 Oct 2026 15:57:55 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Pashinyan Confronts the Karabakh Cause",
@@ -283,13 +332,6 @@
       "date": "Fri, 02 Oct 2026 15:30:12 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 15:26:37 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Moroccan intelligence accused of spying on journalists and human rights activists",
@@ -297,25 +339,11 @@
       "date": "Fri, 02 Oct 2026 15:18:07 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brazil: The craze for candidate merch ahead of elections",
-      "link": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
-      "date": "Fri, 02 Oct 2026 15:17:39 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
       "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
       "date": "Fri, 02 Oct 2026 15:13:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
-      "link": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
-      "date": "Fri, 02 Oct 2026 15:12:47 GMT"
     },
     {
       "src": "Sky News",
@@ -337,13 +365,6 @@
       "text": "Tear gas and fires on French streets as student protests turn violent",
       "link": "https://news.sky.com/story/tear-gas-and-fires-on-french-streets-as-student-protests-turn-violent-13594370",
       "date": "Fri, 02 Oct 2026 12:40:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "More than 4,000 deaths recorded in DR Congo Ebola outbreak",
-      "link": "https://news.sky.com/story/more-than-4000-deaths-recorded-in-dr-congo-ebola-outbreak-13594285",
-      "date": "Fri, 02 Oct 2026 10:14:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -372,27 +393,6 @@
       "text": "More than half of Europe exposed to extreme heat stress this summer",
       "link": "https://www.rfi.fr/en/international/20261002-europe-hit-by-four-of-its-10-worst-heatwaves-in-a-single-summer",
       "date": "Fri, 02 Oct 2026 07:01:31 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
-      "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
-      "date": "Fri, 02 Oct 2026 04:00:10 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "SpaceX flight led by first black female commander sets US speed record",
-      "link": "https://news.sky.com/story/spacex-flight-led-by-first-black-female-commander-sets-us-speed-record-13594191",
-      "date": "Fri, 02 Oct 2026 05:00:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Russia moves to control bear population after 22 people killed",
-      "link": "https://news.sky.com/story/russia-moves-to-control-bear-population-after-22-people-killed-in-attacks-13594068",
-      "date": "Thu, 01 Oct 2026 17:01:00 +0100"
     },
     {
       "src": "RFI",
