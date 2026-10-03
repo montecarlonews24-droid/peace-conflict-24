@@ -1,27 +1,118 @@
 {
-  "updated": "2026-10-03T18:02:33.424Z",
-  "count": 72,
+  "updated": "2026-10-03T21:30:49.975Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Medical plane with 6 on board missing off Massachusetts coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 21:16:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 21:15:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 21:02:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+      "link": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+      "date": "Sat, 03 Oct 2026 20:58:30 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 20:16:50 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+      "link": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "date": "Sat, 03 Oct 2026 20:16:01 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 20:10:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 19:14:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fernandes rejects talk of Portugal rift after Ronaldo&#039;s abrupt departure",
+      "link": "https://www.channelnewsasia.com/sport/fernandes-rejects-talk-portugal-rift-after-ronaldos-abrupt-departure-6430141",
+      "date": "Sun, 04 Oct 2026 03:00:45 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI safety employee quits, says &#039;time for trial and error is over&#039;",
+      "link": "https://www.channelnewsasia.com/business/openai-safety-employee-quits-says-time-trial-and-error-over-6430136",
+      "date": "Sun, 04 Oct 2026 03:00:19 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is the CJP changing India’s political landscape?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 19:00:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 18:49:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 18:23:29 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
+      "date": "Sat, 03 Oct 2026 18:08:42 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "England crush Croatia 7-0 as Spain stay perfect with Czech victory",
+      "link": "https://www.channelnewsasia.com/sport/england-crush-croatia-7-0-spain-stay-perfect-czech-victory-6429971",
+      "date": "Sun, 04 Oct 2026 02:06:46 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 03 Oct 2026 17:48:42 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 17:31:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 17:25:28 +0000"
     },
     {
       "src": "France 24",
@@ -52,13 +143,6 @@
       "date": "Sun, 04 Oct 2026 00:37:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:25:03 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Brazil tame India in 4-0 friendly win",
@@ -66,32 +150,11 @@
       "date": "Sun, 04 Oct 2026 00:18:55 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:17:23 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 03 Oct 2026 16:16:49 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:16:32 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Medical plane with 6 on board missing off Massachusetts coast",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 15:56:14 GMT"
     },
     {
       "src": "CNA",
@@ -108,20 +171,6 @@
       "date": "Sat, 03 Oct 2026 15:42:45 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What we know about the co-pilot accused in Flydubai attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:39:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Bordering on angry’: The state of play as US midterms enter final month",
-      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:18:28 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Air quality back to moderate across Singapore after central region hits unhealthy range",
@@ -129,16 +178,9 @@
       "date": "Sat, 03 Oct 2026 23:16:26 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tens of thousands protest in Spain after failed housing reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:06:40 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+      "text": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
       "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
       "date": "Sat, 03 Oct 2026 14:31:30 GMT"
     },
@@ -152,7 +194,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Ireland's football media call ends in chaos after question by Israeli journalist",
+      "text": "Ireland's football media call ends in chaos",
       "link": "https://news.sky.com/story/irelands-nations-league-media-call-ends-in-chaos-after-question-by-israeli-journalist-about-flydubai-13594700",
       "date": "Sat, 03 Oct 2026 15:18:00 +0100"
     },
@@ -162,13 +204,6 @@
       "text": "Why has Brazil accused the US of election interference?",
       "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 03 Oct 2026 13:52:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore’s sailors conclude Asian Games campaign with three silvers, one bronze",
-      "link": "https://www.channelnewsasia.com/sport/singapore-sailing-asian-games-silver-bronze-6429336",
-      "date": "Sat, 03 Oct 2026 21:50:00 +0800"
     },
     {
       "src": "Sky News",
@@ -192,32 +227,11 @@
       "date": "Sat, 03 Oct 2026 13:34:11 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why Chronos Chan puts seaweed, soy sauce and Sichuan pepper in gelato – and what drives his unusual creations",
-      "link": "https://www.channelnewsasia.com/cna-insider/up-close/gelato-toms-palette-ice-cream-maker-chronos-chan-6419081",
-      "date": "Sat, 03 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "What I learnt from starting my first business at age 11",
-      "link": "https://www.channelnewsasia.com/cna-insider/voices/first-business-age-11-young-entrepreneur-6418291",
-      "date": "Sat, 03 Oct 2026 21:30:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
       "link": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
       "date": "Sat, 03 Oct 2026 13:20:35 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168469",
-      "date": "Sat, 03 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -234,32 +248,11 @@
       "date": "Sat, 03 Oct 2026 09:48:12 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Barricades & the blame game: the French school protests",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
-      "date": "Sat, 03 Oct 2026 09:25:58 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
       "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
       "date": "Sat, 03 Oct 2026 09:00:56 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "No fairytale return for Zidane as Italy hold France at the Stade de France",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261003-no-fairytale-return-for-zidane-as-italy-hold-france-at-the-stade-de-france",
-      "date": "Sat, 03 Oct 2026 08:20:56 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
-      "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "date": "Sat, 03 Oct 2026 07:58:45 GMT"
     },
     {
       "src": "The Guardian",
@@ -386,55 +379,6 @@
       "text": "EU approves tougher migration rules in latest push to tighten borders",
       "link": "https://www.rfi.fr/en/international/20261002-eu-approves-tougher-migration-rules-in-latest-push-to-tighten-borders",
       "date": "Fri, 02 Oct 2026 13:13:36 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168516",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168515",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168513",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168512",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168511",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Escalating fighting in Yemen deepens food security crisis",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168509",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: WHO appeals for massive aid influx ahead of winter",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168508",
-      "date": "Fri, 02 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
