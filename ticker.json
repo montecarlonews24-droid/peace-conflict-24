@@ -1,83 +1,209 @@
 {
-  "updated": "2026-10-04T06:04:45.507Z",
+  "updated": "2026-10-04T12:35:39.391Z",
   "count": 72,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Marine arrested in Japan on suspicion of murder",
-      "link": "https://www.channelnewsasia.com/asia/okinawa-us-marine-arrested-murder-woman-6430491",
-      "date": "Sun, 04 Oct 2026 13:38:33 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "West Indies beat India in record chase as Hope hits 162 in third ODI",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 05:28:38 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philippines arrests 244 foreign workers in online scam crackdown",
-      "link": "https://www.channelnewsasia.com/asia/philippines-arrests-foreign-workers-online-scam-crackdown-6430481",
-      "date": "Sun, 04 Oct 2026 13:28:37 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Widespread damage after huge hailstones pound Paraguay capital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 05:14:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 05:00:40 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Bosnia general election 2026 explained in maps and charts",
-      "link": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 04:58:50 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
+      "link": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72",
+      "date": "Sun, 04 Oct 2026 12:12:24 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 04:57:20 GMT"
+      "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 12:09:04 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Four master tenants at Punggol East, Tebing Lane offered lease extension of up to a year",
-      "link": "https://www.channelnewsasia.com/singapore/punggol-east-tebing-lane-lease-extension-6430406",
-      "date": "Sun, 04 Oct 2026 12:26:00 +0800"
+      "text": "Hamilton says &#039;heart sank&#039; as tyre gamble backfired before stunning Sepang recovery",
+      "link": "https://www.channelnewsasia.com/sport/hamilton-says-heart-sank-tyre-gamble-backfired-stunning-sepang-recovery-6430786",
+      "date": "Sun, 04 Oct 2026 20:06:40 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
+      "link": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones",
+      "date": "Sun, 04 Oct 2026 12:01:27 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-      "link": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 04:10:17 +0000"
+      "text": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+      "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 11:58:14 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lula and Bolsonaro face off in Brazil presidential race",
+      "link": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race",
+      "date": "Sun, 04 Oct 2026 11:56:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cornell president breaks silence over alleged campus rape",
+      "link": "https://www.france24.com/en/cornell-president-breaks-silence-over-alleged-campus-rape",
+      "date": "Sun, 04 Oct 2026 11:53:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russell&#039;s championship dreams hit by cruel power unit failure in Sepang",
+      "link": "https://www.channelnewsasia.com/sport/russells-championship-dreams-hit-cruel-power-unit-failure-in-sepang-6430751",
+      "date": "Sun, 04 Oct 2026 19:34:55 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
+      "date": "Sun, 04 Oct 2026 11:17:45 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 04:09:13 +0000"
+      "text": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 11:15:34 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Pick-up truck overturns trying to carry military chopper in Russia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 04:06:05 +0000"
+      "text": "Iran says Hormuz to remain closed until US meets conditions",
+      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 11:11:30 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rugby league-Nawaqanitawase tries fire Roosters to 16th NRL title",
+      "link": "https://www.channelnewsasia.com/sport/rugby-league-nawaqanitawase-tries-fire-roosters-16th-nrl-title-6430711",
+      "date": "Sun, 04 Oct 2026 19:07:25 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 11:05:02 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 11:03:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 11:02:33 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel prepares to mark October 7",
+      "link": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
+      "date": "Sun, 04 Oct 2026 10:59:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is the Sudanese army gaining momentum against the RSF?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 10:56:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 10:55:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 10:44:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Red Bull&#039;s Verstappen wins Bahrain Grand Prix in Malaysia",
+      "link": "https://www.channelnewsasia.com/asia/f1-bahrain-grand-prix-malaysia-red-bull-verstappen-win-6430696",
+      "date": "Sun, 04 Oct 2026 18:44:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Athletes celebrated as curtain falls on eventful Aichi-Nagoya Asian Games",
+      "link": "https://www.channelnewsasia.com/sport/nagoya-asian-games-closing-ceremony-6430561",
+      "date": "Sun, 04 Oct 2026 18:39:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Indians protest election chief as police probe harassment claims",
+      "link": "https://www.channelnewsasia.com/asia/india-protest-election-chief-cockroach-janta-party-harrassment-claims-6430661",
+      "date": "Sun, 04 Oct 2026 18:29:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Verstappen wins chaotic rain-delayed Bahrain Grand Prix in Malaysia",
+      "link": "https://www.channelnewsasia.com/sport/verstappen-wins-chaotic-rain-delayed-bahrain-grand-prix-in-malaysia-6430686",
+      "date": "Sun, 04 Oct 2026 18:26:20 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran says Strait of Hormuz will not reopen until conditions are met",
+      "link": "https://www.channelnewsasia.com/world/iran-us-war-strait-hormuz-not-reopen-conditions-6430636",
+      "date": "Sun, 04 Oct 2026 18:12:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russian strike hits Kyiv amid Chancellor Merz visit",
+      "link": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
+      "date": "Sun, 04 Oct 2026 09:52:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazil: A portrait of Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "date": "Sun, 04 Oct 2026 09:49:19 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Brazil goes to polls in decisive election for future of Latin America",
+      "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "date": "Sun, 04 Oct 2026 08:53:01 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "'We manage together': Meet the psychologist helping Ukraine's veterans live again",
+      "link": "https://news.sky.com/story/we-manage-together-meet-the-psychologist-helping-ukraines-veterans-live-again-13594913",
+      "date": "Sun, 04 Oct 2026 09:02:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 06:19:17 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -94,13 +220,6 @@
       "date": "Sun, 04 Oct 2026 03:49:06 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TWG Tea opens its largest store in the world at Changi Airport – with its first permanent museum",
-      "link": "https://www.channelnewsasia.com/experiences/twg-tea-largest-store-changi-airport-6430376",
-      "date": "Sun, 04 Oct 2026 11:44:29 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
@@ -115,41 +234,6 @@
       "date": "Sun, 04 Oct 2026 03:38:48 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-      "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 03:33:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Myanmar migrants returned to war-torn nation from Malaysia",
-      "link": "https://www.channelnewsasia.com/asia/myanmar-migrants-malaysia-refugee-repatriation-6430341",
-      "date": "Sun, 04 Oct 2026 10:52:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iranian UN delegation duo &#039;kicked out&#039; of US: State Dept",
-      "link": "https://www.channelnewsasia.com/world/iran-delegates-unga-us-kick-out-6430311",
-      "date": "Sun, 04 Oct 2026 10:00:50 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India, Pakistan summon top diplomats over border incident",
-      "link": "https://www.channelnewsasia.com/asia/india-pakistan-border-incident-killed-diplomat-6429096",
-      "date": "Sun, 04 Oct 2026 09:39:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
-      "link": "https://www.channelnewsasia.com/world/israel-hamas-gaza-conflict-6430286",
-      "date": "Sun, 04 Oct 2026 08:48:22 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Cornell president says university 'must do better' after frat house rape allegations",
@@ -157,25 +241,11 @@
       "date": "Sun, 04 Oct 2026 00:11:25 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Latvia partial election results put PM's pro-Ukraine party ahead but coalition partners stumble",
-      "link": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
-      "date": "Sat, 03 Oct 2026 20:58:30 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
-      "link": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
-      "date": "Sat, 03 Oct 2026 20:16:01 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
-      "date": "Sat, 03 Oct 2026 18:08:42 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US father and son arrested after 'gas station heroin' deaths",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 22:39:06 GMT"
     },
     {
       "src": "BBC World",
@@ -185,46 +255,11 @@
       "date": "Sat, 03 Oct 2026 17:48:42 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
-      "link": "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns",
-      "date": "Sat, 03 Oct 2026 17:24:14 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 16:16:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
-      "link": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
-      "date": "Sat, 03 Oct 2026 15:42:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
-      "link": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "date": "Sat, 03 Oct 2026 14:31:30 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ireland's football media call ends in chaos",
       "link": "https://news.sky.com/story/irelands-nations-league-media-call-ends-in-chaos-after-question-by-israeli-journalist-about-flydubai-13594700",
       "date": "Sat, 03 Oct 2026 15:18:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 13:52:13 GMT"
     },
     {
       "src": "Sky News",
@@ -241,13 +276,6 @@
       "date": "Sat, 03 Oct 2026 14:37:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
-      "link": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
-      "date": "Sat, 03 Oct 2026 13:20:35 GMT"
-    },
-    {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
@@ -260,13 +288,6 @@
       "text": "At least 17 people killed in Kenya road crash",
       "link": "https://news.sky.com/story/at-least-17-people-killed-in-kenya-road-crash-13594661",
       "date": "Sat, 03 Oct 2026 12:23:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
-      "link": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
-      "date": "Sat, 03 Oct 2026 09:48:12 GMT"
     },
     {
       "src": "The Guardian",
@@ -290,25 +311,11 @@
       "date": "Sat, 03 Oct 2026 07:14:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 04:38:31 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ten injured as car hits crowd in Australia in 'horrible incident'",
       "link": "https://news.sky.com/story/horrible-incident-at-least-nine-injured-as-car-hits-crowd-in-australia-13594555",
       "date": "Sat, 03 Oct 2026 04:34:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-      "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-      "date": "Fri, 02 Oct 2026 21:12:29 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -442,13 +449,6 @@
       "text": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
       "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
       "date": "Fri, 02 Oct 2026 08:55:42 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Hero captain describes fight to open cockpit door while being attacked by co-pilot",
-      "link": "https://news.sky.com/story/flydubai-captain-says-he-fought-to-open-cockpit-door-while-still-being-attacked-13594247",
-      "date": "Fri, 02 Oct 2026 08:14:00 +0100"
     },
     {
       "src": "RFI",
