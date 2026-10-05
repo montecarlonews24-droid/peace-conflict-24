@@ -1244,6 +1244,11 @@ CONFLICT
       <input class="inp" id="support-subject" placeholder="Technical issue, billing, other..."/>
     </div>
     <div class="inp-group">
+      <label class="inp-label">Your Email (so we can reply)</label>
+      <input class="inp" id="support-email" type="email" inputmode="email" autocomplete="email" placeholder="you@example.com"/>
+      <div class="fs11 text-muted" style="margin-top:4px">Used only to reply to your message.</div>
+    </div>
+    <div class="inp-group">
       <label class="inp-label">Your Message</label>
       <textarea class="inp" id="support-msg" rows="4" placeholder="Describe your issue..." style="resize:none"></textarea>
     </div>
@@ -2188,11 +2193,14 @@ function closeSupport(){document.getElementById('support-modal').classList.add('
 function sendSupport(){
   const sub=document.getElementById('support-subject').value;
   const msg=document.getElementById('support-msg').value;
+  const emEl=document.getElementById('support-email');
+  const email=((emEl&&emEl.value)||'').trim();
   if(!sub||!msg){showToast('Please fill in all fields.');return;}
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){showToast('⚠️ Please enter a valid email so we can reply.');return;}
   fetch('https://formspree.io/f/mkoebpoj',{
     method:'POST',
     headers:{'Content-Type':'application/json','Accept':'application/json'},
-    body:JSON.stringify({subject:'[P&C24 Support] '+sub,message:msg})
+    body:JSON.stringify({subject:'[P&C24 Support] '+sub,message:msg,email:email,username:(STATE.user&&STATE.user.username)||'Anonymous',app:'Peace & Conflict 24'})
   }).then(r=>{
     if(r.ok){showToast('✅ Message sent! We will reply within 24h');}
     else{showToast('❌ Failed to send. Try again.');}
@@ -3296,6 +3304,12 @@ function openSupport() {
   document.getElementById('sup-name').value = '';
   document.getElementById('sup-message').value = '';
   document.getElementById('sup-subject').selectedIndex = 0;
+  // Pre-fill the reply email for signed-in users (guests type it themselves).
+  try {
+    const em = document.getElementById('support-email');
+    const ue = STATE.user && STATE.user.email;
+    if (em && !em.value && ue && /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(ue)) em.value = ue;
+  } catch (e) {}
   document.getElementById('support-sent').style.display = 'none';
   document.getElementById('support-modal').classList.remove('hidden');
 }
