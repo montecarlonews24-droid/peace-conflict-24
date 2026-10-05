@@ -4394,8 +4394,20 @@ document.addEventListener('DOMContentLoaded', function() {
 // 🌍 FEATURE 1 — WORLD RISK INDEX
 // ═══════════════════════════════════════════════════════════
 function computeWorldRiskIndex() {
-  const total = CONFLICTS.reduce((s, c) => s + (c.riskScore || 50), 0);
-  const avg   = Math.round(total / CONFLICTS.length);
+  // Attention-weighted average: conflicts the world's news is focused on right now
+  // count more (c.attention = coverage vs. an average conflict, set by the live
+  // engine; 1 = normal / no live data yet). A plain average of 40 conflicts never
+  // moved, and since coverage is relative, a surge on the worst wars actually
+  // pulled the old index DOWN. Even coverage still gives the same value as before.
+  const K = 1.5;
+  let num = 0, den = 0;
+  CONFLICTS.forEach(c => {
+    const a = (typeof c.attention === 'number' && isFinite(c.attention)) ? c.attention : 1;
+    const w = 1 + K * a;
+    num += (c.riskScore || 50) * w;
+    den += w;
+  });
+  const avg = den > 0 ? num / den : 50;
   const critical = CONFLICTS.filter(c => c.riskScore >= 85).length;
   const high     = CONFLICTS.filter(c => c.riskScore >= 70 && c.riskScore < 85).length;
   // Weight critical conflicts more
@@ -4535,6 +4547,8 @@ function updateLiveRiskScores() {
   });
 
   const expected = totalIntensity / CONFLICTS.length;
+  // Relative news attention per conflict (1 = average) — used by the World Risk Index.
+  CONFLICTS.forEach(c => { c.attention = expected > 0 ? intensity[c.id] / expected : 1; });
   CONFLICTS.forEach(c => {
     let move = 0;
     if (expected > 0) {
