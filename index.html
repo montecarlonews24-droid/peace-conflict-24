@@ -2659,6 +2659,12 @@ async function loadAllRSSFeeds() {
         }
       }
     });
+    // First live batch is in: start the ticker now (no 10s wait). Later batches only splice in
+    // new headlines after what is on screen, so the scroll never restarts or cuts a headline.
+    if (!_tickerLive && headlines.length > 0) {
+      _tickerLive = true;
+      renderTickerLive();
+    }
     // Small delay between batches to avoid rate limiting
     if (i + BATCH_SIZE < RSS_FEEDS.length) {
       await new Promise(r => setTimeout(r, 300));
@@ -2671,6 +2677,7 @@ async function loadAllRSSFeeds() {
     rssLoaded = true;
     updateNewsSourcesUI(results);
     try { updateLiveRiskScores(); } catch(e) { console.warn('[RISK] skipped:', e); }
+    _tickerLive = true;
     renderTicker();
     renderNewsFeed();
     renderNewsChips();
@@ -2705,15 +2712,19 @@ const _origRenderTicker = typeof renderTicker === 'function' ? renderTicker : nu
 let _tickerLastKey = '';
 let _tickerRenderTimer = null;
 
-// Startup hold: until real headlines arrive (cache or RSS) the bar shows "Loading...".
+// Startup hold: until the LIVE feeds deliver their first batch the bar shows "Please wait... Loading...".
+// (The cached ticker.json is hours old, so drawing it first and replacing it ~15-20s later is what made
+// the headline get cut and the list restart.)
 // Before, it first drew the built-in placeholder list and then swapped it 2-3 times
 // while the feeds loaded, which made the first ~40s jump, cut and repeat headlines.
-// Safety net: if nothing real arrives within 15s (offline), fall back to the old list.
+// Safety net: if no live data arrives within 25s (offline / slow), fall back to the cached/built-in list.
 let _tickerAllowStatic = false;
+let _tickerLive = false;            // true once the LIVE RSS feeds delivered their first batch
+let _tickerSeen = new Set();        // headlines that already scrolled into view (to avoid repeating them)
 setTimeout(function () {
   _tickerAllowStatic = true;
   if (typeof renderTickerLive === 'function') renderTickerLive();
-}, 15000);
+}, 25000);
 
 // Stable id per headline, so a re-render can find the headline that is on screen.
 function tickerKey(h) {
@@ -2763,11 +2774,26 @@ function scheduleTickerRender() {
   }, 10000);
 }
 
+// Builds ONE ticker unit (timestamp + headlines). Both halves of the strip must be this exact unit.
+function buildTickerUnit(headlines, timeStr, withTs) {
+  if (withTs === undefined) withTs = true;
+  return [
+    withTs ? `<span class="tick-item" data-k="ts"><span class="tick-src" style="color:#22c55e;font-size:10px">⟳ ${timeStr}</span><span class="tick-sep">◆</span></span>` : '',
+    ...headlines.map(h => {
+      const col = h.col || getSourceColor(h.src);
+      const timeLabel = h.date ? getRelativeTime(h.date) : '';
+      const srcLabel = h.src ? `<span style="color:#fff;font-weight:900;font-size:20px;margin-right:6px;letter-spacing:.05em;text-shadow:0 0 8px rgba(0,0,0,.5)">[${h.src}]</span> ` : '';
+      const link = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
+      return `<span class="tick-item" data-k="${tickerKey(h)}" ${link}>${srcLabel}<span style="color:rgba(255,255,255,.75);font-size:11px;margin-right:4px">${timeLabel}</span>${h.text}<span class="tick-sep">◆</span></span>`;
+    })
+  ].join('');
+}
+
 function renderTickerLive() {
   if (_tickerRenderTimer) { clearTimeout(_tickerRenderTimer); _tickerRenderTimer = null; }
   const el = document.getElementById('ticker-inner');
   if (!el) return;
-  if (!rssLoaded && !_tickerAllowStatic) return;   // still loading real data
+  if (!_tickerLive && !_tickerAllowStatic) return;   // still waiting for the live feeds
   const allHeadlines = getActiveHeadlines();
   if (allHeadlines.length === 0) return;
 
@@ -2782,20 +2808,20 @@ function renderTickerLive() {
   const now = new Date();
   const timeStr = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ' UTC';
 
-  // Build ONE unit (timestamp + headlines), then duplicate that exact unit.
-  // Both halves must be identical, otherwise translateX(-50%) lands in the
-  // middle of the list and headlines look like they repeat mid-cycle.
-  const unit = [
-    `<span class="tick-item" data-k="ts"><span class="tick-src" style="color:#22c55e;font-size:10px">⟳ ${timeStr}</span><span class="tick-sep">◆</span></span>`,
-    ...headlines.map(h => {
-      const col = h.col || getSourceColor(h.src);
-      const timeLabel = h.date ? getRelativeTime(h.date) : '';
-      const srcLabel = h.src ? `<span style="color:#fff;font-weight:900;font-size:20px;margin-right:6px;letter-spacing:.05em;text-shadow:0 0 8px rgba(0,0,0,.5)">[${h.src}]</span> ` : '';
-      const link = h.link ? `onclick="window.open('${h.link}','_blank')" style="cursor:pointer"` : '';
-      return `<span class="tick-item" data-k="${tickerKey(h)}" ${link}>${srcLabel}<span style="color:rgba(255,255,255,.75);font-size:11px;margin-right:4px">${timeLabel}</span>${h.text}<span class="tick-sep">◆</span></span>`;
-    })
-  ].join('');
-  const html = unit + unit;
+
+  // Speed calibration: the scroll speed (px/sec) is set ONCE from the width of the built-in
+  // headline list, exactly as the original first render did. Because we no longer draw that
+  // list on screen at startup, measure it here (hidden: the bar is still in its loading state)
+  // so the speed does not depend on how many headlines the first real list happens to have.
+  if (!tickerPxPerSec && typeof LIVE_HEADLINES !== 'undefined') {
+    try {
+      const calUnit = buildTickerUnit(LIVE_HEADLINES.slice(0, 40), timeStr);
+      el.innerHTML = calUnit + calUnit;
+      const calW = el.scrollWidth / 2;
+      if (calW > 0) setTickerPxPerSec(calW / TICKER_BASE_SECONDS);
+      el.innerHTML = '';
+    } catch (e) { el.innerHTML = ''; }
+  }
 
   // Save current animation position before update
   const computed = window.getComputedStyle(el);
@@ -2811,28 +2837,44 @@ function renderTickerLive() {
     }
   }
 
-  // Anchor: remember the headline sitting at the left edge of the bar and where it is,
-  // so after the swap we can put that same headline back in the same spot (no jump).
-  let anchorKey = null, anchorLeftOld = 0;
+  // Capture what is ON SCREEN right now (items touching the visible window) and remember which
+  // headlines have already scrolled into view. The visible items are kept untouched at the front of
+  // the new strip, so nothing on screen is ever cut or swapped mid-read; the new headlines continue
+  // after them, unseen ones first, so a headline you already read does not come straight back.
+  let keep = [], keepLeftOld = 0;
   try {
     const wrapEl = document.getElementById('ticker-wrap');
     const kids = el.children;
     if (wrapEl && kids.length > 1) {
-      const er = el.getBoundingClientRect();
-      const visLeft = wrapEl.getBoundingClientRect().left - er.left;   // visible left edge, in strip coords
-      const half = Math.floor(kids.length / 2);
-      for (let i = 0; i < half; i++) {
+      const er = el.getBoundingClientRect(), wr = wrapEl.getBoundingClientRect();
+      const visLeft = wr.left - er.left, visRight = wr.right - er.left;
+      const keepSeen = new Set();
+      for (let i = 0; i < kids.length; i++) {
         const r = kids[i].getBoundingClientRect();
-        const left = r.left - er.left;
-        if (left + r.width > visLeft + 2) {              // first item still (partly) visible
-          anchorKey = kids[i].getAttribute('data-k');
-          anchorLeftOld = left;
-          break;
+        const left = r.left - er.left, right = left + r.width;
+        const k = kids[i].getAttribute('data-k');
+        if (k && k !== 'ts' && left < visRight) _tickerSeen.add(k);
+        if (right > visLeft + 1 && left < visRight - 1 && !keepSeen.has(k) && keep.length < 4) {
+          if (!keep.length) keepLeftOld = left;
+          keepSeen.add(k);
+          keep.push({ key: k, html: kids[i].outerHTML });
         }
       }
     }
-  } catch (e) { anchorKey = null; }
+  } catch (e) { keep = []; }
+  if (_tickerSeen.size > 600) _tickerSeen = new Set(keep.map(x => x.key));
 
+  const keepKeys = new Set(keep.map(x => x.key));
+  const fresh = [], stale = [];
+  headlines.forEach(h => {
+    const k = tickerKey(h);
+    if (keepKeys.has(k)) return;
+    (_tickerSeen.has(k) ? stale : fresh).push(h);
+  });
+  const unit = keep.map(x => x.html).join('') + buildTickerUnit(fresh.concat(stale), timeStr, !keepKeys.has('ts'));
+  const html = unit + unit;
+
+  el.innerHTML = html;
   el.innerHTML = html;
 
   // Resume animation from current position without resetting.
@@ -2844,23 +2886,9 @@ function renderTickerLive() {
   if (!tickerPxPerSec && unitWidth > 0) setTickerPxPerSec(unitWidth / prevDur);
   const duration = applyTickerDuration(unitWidth);
 
-  // Position the new strip so the anchor headline stays exactly where it was.
-  // (The old code kept the same *fraction* of a differently-sized list, which landed
-  // in the middle of another headline: cut-off text and repeated news.)
-  // If the anchor is not in the new list, start cleanly from the first headline.
+  // Put the kept (on-screen) items back exactly where they were: they are now at strip position 0.
   let progress = 0;
-  if (anchorKey && unitWidth > 0) {
-    const nk = el.children;
-    const nhalf = Math.floor(nk.length / 2);
-    const er2 = el.getBoundingClientRect();
-    for (let i = 0; i < nhalf; i++) {
-      if (nk[i].getAttribute('data-k') === anchorKey) {
-        const leftNew = nk[i].getBoundingClientRect().left - er2.left;
-        progress = -(currentX + (anchorLeftOld - leftNew)) / unitWidth;
-        break;
-      }
-    }
-  }
+  if (keep.length && unitWidth > 0) progress = -(currentX + keepLeftOld) / unitWidth;
   if (!isFinite(progress)) progress = 0;
   progress = ((progress % 1) + 1) % 1;
   const delay = -(progress * duration);
