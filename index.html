@@ -2970,6 +2970,10 @@ document.addEventListener('DOMContentLoaded', function() {
               rssLoaded = true;
               renderTickerLive();
               renderNewsFeedLive();
+              // Score risk from the cached headlines right away, so the World Risk Index
+              // is live within a second instead of waiting ~30-60s for all 150 RSS feeds.
+              // (Safe to run again later: base scores are snapshotted once, never compounded.)
+              try { updateLiveRiskScores(); } catch(e) { console.warn('[RISK] cache scoring skipped:', e); }
               console.log('[TICKER] Loaded', data.items.length, 'cached headlines instantly');
               return true;
             }
