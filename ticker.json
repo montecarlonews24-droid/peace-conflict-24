@@ -1,27 +1,209 @@
 {
-  "updated": "2026-10-08T20:43:30.816Z",
+  "updated": "2026-10-09T00:45:28.066Z",
   "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Canadian writer Anne Carson wins 2026 Nobel Prize in Literature",
+      "link": "https://www.channelnewsasia.com/world/anne-carson-wins-2026-nobel-prize-literature-6442521",
+      "date": "Fri, 09 Oct 2026 08:22:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Exclusive-AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+      "link": "https://www.channelnewsasia.com/business/exclusive-ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-sources-say-6444791",
+      "date": "Fri, 09 Oct 2026 08:20:04 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 00:12:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "link": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 00:08:33 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 00:00:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US military to livestream firing squad execution of Fort Hood shooter",
+      "link": "https://www.channelnewsasia.com/world/us-army-livestream-execution-firing-squad-fort-hood-shooter-6444611",
+      "date": "Fri, 09 Oct 2026 07:57:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US files new torture charges against  Venezuela's Nicolas Maduro and wife Cilia Flores",
+      "link": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
+      "date": "Thu, 08 Oct 2026 23:56:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kenyan patient suspected of Ebola infection tests negative",
+      "link": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 23:53:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Japanese annual household spending drops for 9 straight months",
+      "link": "https://www.channelnewsasia.com/business/japanese-annual-household-spending-drops-9-straight-months-6444751",
+      "date": "Fri, 09 Oct 2026 07:47:48 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
+      "link": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
+      "date": "Thu, 08 Oct 2026 23:42:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+      "link": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 23:36:44 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 23:35:57 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man City charges: Mourinho jokes Premier League case will outlast him",
+      "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 23:31:34 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "IMF invites BOJ chief Ueda to speak on November 6",
+      "link": "https://www.channelnewsasia.com/business/imf-invites-boj-chief-ueda-speak-november-6-6444741",
+      "date": "Fri, 09 Oct 2026 07:30:39 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "7 reasons why G-Dragon is still K-pop’s ultimate fashion icon, 20 years on",
+      "link": "https://www.channelnewsasia.com/style-beauty/g-dragon-k-pop-fashion-icon-6399096",
+      "date": "Fri, 09 Oct 2026 07:27:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges",
+      "link": "https://www.channelnewsasia.com/business/characterai-chatbots-encouraged-users-cut-and-starve-themselves-kentucky-alleges-6444701",
+      "date": "Fri, 09 Oct 2026 07:11:38 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 23:11:10 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 22:54:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "1-hour PM2.5 reading in western Singapore rises to high range as haze persists",
+      "link": "https://www.channelnewsasia.com/singapore/haze-air-quality-unhealthy-psi-pm25-oct-9-6444671",
+      "date": "Fri, 09 Oct 2026 06:44:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Putin pledges Russia’s support to end US-led war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 22:30:37 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
+      "link": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
+      "date": "Thu, 08 Oct 2026 22:01:15 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Mecca Pact, Activated",
+      "link": "https://foreignpolicy.com/2026/10/08/mecca-pact-pakistan-turkey-saudi-houthi-yemen/",
+      "date": "Thu, 08 Oct 2026 21:49:14 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami",
+      "link": "https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami",
+      "date": "Thu, 08 Oct 2026 21:19:29 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How America and China Compare on AI",
+      "link": "https://foreignpolicy.com/2026/10/08/united-states-china-ai-artificial-intelligence-race-winning-matt-sheehan/",
+      "date": "Thu, 08 Oct 2026 21:00:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Black sea and black ops: How exposed is Europe to Ukraine war spillover?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover",
+      "date": "Thu, 08 Oct 2026 20:42:28 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+      "date": "Thu, 08 Oct 2026 20:40:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spain mourns Maricarmen Abascal, whose eviction sparked housing protests",
+      "link": "https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests",
+      "date": "Thu, 08 Oct 2026 20:35:36 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines",
+      "link": "https://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/",
+      "date": "Thu, 08 Oct 2026 20:34:49 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
       "text": "‘Nothing will stop us’: French student protests show few signs of ending",
       "link": "https://www.france24.com/en/france/20261008-nothing-will-stop-us-french-student-protests-show-few-signs-of-ending",
       "date": "Thu, 08 Oct 2026 20:22:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "After botched US execution, Christa Pike walking, mentally &#039;foggy&#039;: lawyer",
-      "link": "https://www.channelnewsasia.com/world/christa-pike-failed-execution-walking-6444421",
-      "date": "Fri, 09 Oct 2026 04:21:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SpaceX to acquire spectrum that enables Starlink Mobile services",
-      "link": "https://www.channelnewsasia.com/business/spacex-acquire-spectrum-enables-starlink-mobile-services-6444486",
-      "date": "Fri, 09 Oct 2026 04:21:23 +0800"
     },
     {
       "src": "The Guardian",
@@ -38,53 +220,11 @@
       "date": "Thu, 08 Oct 2026 20:17:01 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How much worse can Yemen’s humanitarian crisis become?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 20:06:08 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Explainer-The skilled foreign tech workers&#039; green card program under attack from Trump",
-      "link": "https://www.channelnewsasia.com/business/explainer-skilled-foreign-tech-workers-green-card-program-under-attack-trump-6444461",
-      "date": "Fri, 09 Oct 2026 04:04:20 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settlers take Palestinian olives, and their harvest traditions",
-      "link": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:57:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settlers systematically target the Palestinian olive harvest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:49:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models",
-      "link": "https://www.channelnewsasia.com/business/lawmakers-raise-alarm-google-plan-acquire-spirit-airlines-data-ai-models-6444451",
-      "date": "Fri, 09 Oct 2026 03:49:14 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India’s Cockroach movement says members detained as protests continue",
-      "link": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:49:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Prosecutors in Maradona death trial seek sentences up to 12 years",
-      "link": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:46:46 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Next Iran War Is This Iran War",
+      "link": "https://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/",
+      "date": "Thu, 08 Oct 2026 19:57:39 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -94,25 +234,11 @@
       "date": "Thu, 08 Oct 2026 19:44:15 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-      "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:43:39 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Where the Saudi-Houthi War Stands Now",
       "link": "https://foreignpolicy.com/2026/10/08/houthis-yemen-war-saudi-arabia-airport-oil-strikes-pakistan-turkey-syria/",
       "date": "Thu, 08 Oct 2026 19:28:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple names insider Steve Smith as new M&A chief, memo shows",
-      "link": "https://www.channelnewsasia.com/business/apple-names-insider-steve-smith-new-ma-chief-memo-shows-6444416",
-      "date": "Fri, 09 Oct 2026 03:20:32 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -122,32 +248,11 @@
       "date": "Thu, 08 Oct 2026 19:19:50 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man City charges: Maresca says players focused on Liverpool test",
-      "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:17:38 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-      "link": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 19:12:33 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Protesters blame 'vulture funds' for Spain's housing crisis",
       "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 08 Oct 2026 19:10:06 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Anthropic launches dashboard, animation tools for Claude",
-      "link": "https://www.channelnewsasia.com/business/anthropic-launches-dashboard-animation-tools-claude-6444391",
-      "date": "Fri, 09 Oct 2026 03:01:12 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -157,18 +262,11 @@
       "date": "Thu, 08 Oct 2026 18:36:37 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "High school students to turn out for new protests across France",
-      "link": "https://www.channelnewsasia.com/world/french-student-protests-school-teachers-strike-6443671",
-      "date": "Fri, 09 Oct 2026 02:30:48 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Exclusive-Trump AI task force leaders to meet on Thursday, vice chair says",
-      "link": "https://www.channelnewsasia.com/business/exclusive-trump-ai-task-force-leaders-meet-thursday-vice-chair-says-6444341",
-      "date": "Fri, 09 Oct 2026 02:14:57 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "src": "The Guardian",
@@ -176,13 +274,6 @@
       "text": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
       "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
       "date": "Thu, 08 Oct 2026 18:04:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Aaron Sorkin, Mikey Madison, Jeremy Allen White: The director and cast behind the Facebook sequel",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261008-aaron-sorkin-mikey-madison-jeremy-allen-white-the-director-and-cast-behind-the-facebook-sequel",
-      "date": "Thu, 08 Oct 2026 17:42:24 GMT"
     },
     {
       "src": "BBC World",
@@ -197,55 +288,6 @@
       "text": "Flights to Saudi capital suspended after Houthis 'attack on airport'",
       "link": "https://news.sky.com/story/airlines-suspend-flights-to-saudi-capital-after-houthis-claim-attack-on-airport-13596623",
       "date": "Thu, 08 Oct 2026 18:23:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 17:16:32 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "America’s Best Answer to the China-Russia Alliance",
-      "link": "https://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/",
-      "date": "Thu, 08 Oct 2026 17:13:51 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
-      "link": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
-      "date": "Thu, 08 Oct 2026 17:12:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
-      "link": "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
-      "date": "Thu, 08 Oct 2026 17:11:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The Russian-occupied town in Ukraine facing starvation",
-      "link": "https://www.france24.com/en/video/20261008-the-russian-occupied-town-in-ukraine-facing-starvation",
-      "date": "Thu, 08 Oct 2026 17:09:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As elections near, how are French political parties reacting to student protests?",
-      "link": "https://www.france24.com/en/video/20261008-as-elections-near-how-are-french-political-parties-reacting-to-student-protests",
-      "date": "Thu, 08 Oct 2026 17:08:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
-      "link": "https://www.france24.com/en/europe/20261008-two-latvian-men-arrested-at-uk-base-housing-us-and-nato-intelligence-hubs",
-      "date": "Thu, 08 Oct 2026 16:57:19 GMT"
     },
     {
       "src": "BBC World",
@@ -283,6 +325,13 @@
       "date": "Thu, 08 Oct 2026 15:02:32 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 14:33:23 GMT"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Anne Carson wins Nobel prize in literature 2026",
@@ -297,18 +346,18 @@
       "date": "Thu, 08 Oct 2026 14:42:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 12:32:12 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "date": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 12:04:25 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+      "date": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -346,13 +395,6 @@
       "date": "Thu, 08 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Residents airlifted to safety after flooding in central Chile",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 11:31:22 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Russia denies second case of 'plague' as WHO seeks to verify",
@@ -388,39 +430,11 @@
       "date": "Thu, 08 Oct 2026 04:10:58 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Leverage Middle Powers Have in the AI Race",
-      "link": "https://foreignpolicy.com/2026/10/08/leverage-middle-powers-ai-race/",
-      "date": "Thu, 08 Oct 2026 04:01:13 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "US puts inmate to death for first time since botched execution",
       "link": "https://news.sky.com/story/us-puts-inmate-to-death-for-first-time-since-botched-execution-of-christa-pike-13596335",
       "date": "Thu, 08 Oct 2026 02:18:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Pakistan’s Opposition on the March",
-      "link": "https://foreignpolicy.com/2026/10/07/pakistan-imran-khan-opposition-long-march-islamabad/",
-      "date": "Wed, 07 Oct 2026 21:36:17 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "IMF Chief Issues Stark Economic Warning for 2027",
-      "link": "https://foreignpolicy.com/2026/10/07/imf-speech-georgieva-economy-energy-oil-yields-ai-inflation/",
-      "date": "Wed, 07 Oct 2026 21:34:20 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
-      "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-      "date": "Wed, 07 Oct 2026 19:23:30 GMT"
     },
     {
       "src": "RFI",
@@ -448,20 +462,6 @@
       "col": "#3b82f6",
       "text": "Ukraine: UN condemns latest attacks and calls for civilian protection",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168548",
-      "date": "Wed, 07 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168547",
-      "date": "Wed, 07 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168546",
       "date": "Wed, 07 Oct 2026 12:00:00 +0000"
     },
     {
