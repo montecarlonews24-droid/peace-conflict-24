@@ -1,48 +1,223 @@
 {
-  "updated": "2026-10-10T14:52:25.689Z",
-  "count": 71,
+  "updated": "2026-10-10T19:00:43.071Z",
+  "count": 72,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:49:32 GMT"
+      "text": "Several injured in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 18:37:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man dies after tiger attack at UK zoo: police",
+      "link": "https://www.channelnewsasia.com/world/man-dies-after-tiger-attack-uk-zoo-police-6449651",
+      "date": "Sun, 11 Oct 2026 02:36:52 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:24:14 GMT"
+      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 18:36:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Augsburg score after eight seconds, fastest goal in Bundesliga history",
-      "link": "https://www.channelnewsasia.com/sport/augsburg-score-after-eight-seconds-fastest-goal-in-bundesliga-history-6448946",
+      "text": "Man United fans revive ticker taunt over Man City financial case",
+      "link": "https://www.channelnewsasia.com/sport/man-united-fans-revive-ticker-taunt-over-man-city-financial-case-6449646",
+      "date": "Sun, 11 Oct 2026 02:14:36 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+      "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 18:08:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Riyadh airport suspends operations after attack leaves multiple people wounded",
+      "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "date": "Sat, 10 Oct 2026 18:03:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
+      "link": "https://www.channelnewsasia.com/world/russian-attack-ukrainian-city-kills-20-day-after-trump-eases-diesel-sanctions-moscow-6449106",
+      "date": "Sun, 11 Oct 2026 02:02:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Nine killed in shooting in US state of Pennsylvania, including two children",
+      "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 17:48:45 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 17:44:26 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
+      "link": "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
+      "date": "Sat, 10 Oct 2026 17:41:10 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
+      "link": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
+      "date": "Sat, 10 Oct 2026 17:39:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+      "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 17:38:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Video shows rare albino Asian black bear",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 17:37:37 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alonso hails Caicedo’s impact as Chelsea crush Bournemouth",
+      "link": "https://www.channelnewsasia.com/sport/alonso-hails-caicedos-impact-chelsea-crush-bournemouth-6449091",
+      "date": "Sun, 11 Oct 2026 01:36:14 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Riyadh airport suspends operations after attack leaves several wounded",
+      "link": "https://www.channelnewsasia.com/world/riyadh-airport-suspends-operations-after-attack-leaves-several-wounded-6449071",
+      "date": "Sun, 11 Oct 2026 01:33:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Christa Pike discharged from hospital and returned to Tennessee prison",
+      "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 17:08:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 16:54:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 16:41:25 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India protests: New 'cockroach' movement leader named",
+      "link": "https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named",
+      "date": "Sat, 10 Oct 2026 16:14:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Africa: Anti-migrant unrest flares in Durban",
+      "link": "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "date": "Sat, 10 Oct 2026 16:12:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Kenya: Ebola tests negative as contact tracing continues",
+      "link": "https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues",
+      "date": "Sat, 10 Oct 2026 16:10:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
+      "link": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
+      "date": "Sat, 10 Oct 2026 16:09:13 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Midterms: \"It does look like the Republicans will lose control of the House of Representatives\"",
+      "link": "https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives",
+      "date": "Sat, 10 Oct 2026 16:04:13 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 15:45:36 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 15:23:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "French prodigy Seixas wins Giro di Lombardia, his first Monument",
+      "link": "https://www.channelnewsasia.com/sport/french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument-6449006",
+      "date": "Sat, 10 Oct 2026 23:23:25 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU says US deal lifting diesel sanctions 'funds' Russian war on Ukraine",
+      "link": "https://www.rfi.fr/en/international/20261010-eu-says-us-deal-lifting-diesel-sanctions-funds-russian-war-on-ukraine",
+      "date": "Sat, 10 Oct 2026 15:06:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Woman injures three people in third Poland school knife attack in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 14:58:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore, Brunei mark 50 years of defence ties with joint military parade",
+      "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-brunei-50-years-defence-ties-joint-military-parade-6448936",
+      "date": "Sat, 10 Oct 2026 22:49:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Augsburg score fastest Bundesliga goal but Bayern snatch comeback draw",
+      "link": "https://www.channelnewsasia.com/sport/augsburg-score-fastest-bundesliga-goal-bayern-snatch-comeback-draw-6448946",
       "date": "Sat, 10 Oct 2026 22:22:49 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is the US sanctioning the International Criminal Court?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 14:19:43 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rayo-Bilbao match abandoned after fans&#039; protest against club owner",
-      "link": "https://www.channelnewsasia.com/sport/rayo-bilbao-match-abandoned-after-fans-protest-against-club-owner-6448951",
-      "date": "Sat, 10 Oct 2026 22:18:51 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Abbas postpones Palestinian legislative elections to September 2027",
-      "link": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 14:18:09 +0000"
     },
     {
       "src": "BBC World",
@@ -52,116 +227,11 @@
       "date": "Sat, 10 Oct 2026 14:16:50 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lens see off Lyon as Ligue 1 season resumes after international break",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
-      "date": "Sat, 10 Oct 2026 14:10:33 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Has Yemen returned to ‘full-scale war’?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 14:10:24 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Portugal hits Ronaldo with provisional suspension for walking out on national team",
-      "link": "https://www.france24.com/en/sport/20261010-portugal-hits-ronaldo-with-provisional-suspension-for-walking-out-on-national-team",
-      "date": "Sat, 10 Oct 2026 14:02:06 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "When streets become a workplace: Gaza workers convert tents into offices",
-      "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:50:05 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
-      "link": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
-      "date": "Sat, 10 Oct 2026 13:45:14 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldo provisionally suspended after national team walkout, media reports say",
-      "link": "https://www.channelnewsasia.com/sport/ronaldo-provisionally-suspended-after-national-team-walkout-media-reports-say-6448901",
-      "date": "Sat, 10 Oct 2026 21:35:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Guimaraes grabs winner as Arsenal rally to beat Leeds",
-      "link": "https://www.channelnewsasia.com/sport/guimaraes-grabs-winner-arsenal-rally-beat-leeds-6448891",
-      "date": "Sat, 10 Oct 2026 21:33:39 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "When grandma says &#039;yes&#039; and mum says &#039;no&#039;, here&#039;s how to navigate the parenting tug-of-war",
-      "link": "https://www.channelnewsasia.com/cna-insider/adulting/parenting-grandparents-childcare-advice-caregiving-boundaries-6441421",
-      "date": "Sat, 10 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "‘In that moment, nothing else matters’: The thrill of horseback archery for two Singaporean riders",
-      "link": "https://www.channelnewsasia.com/cna-insider/in-pixels/thrill-horseback-archery-target-6438331",
-      "date": "Sat, 10 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "3 parking lots, but only room for 2: The squeeze at Singapore&#039;s older car parks",
-      "link": "https://www.channelnewsasia.com/cna-insider/ground-up/bigger-cars-parking-lots-tight-squeeze-6437911",
-      "date": "Sat, 10 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "High silver prices threaten Lucknow’s famed bridal nagra craft",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:25:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:23:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:09:09 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:08:35 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Cockroach' group leaders among hundreds detained in Delhi protest",
       "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 10 Oct 2026 12:29:31 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
       "src": "RFI",
@@ -176,55 +246,6 @@
       "text": "Candidate named Hitler Mussolini elected mayor in Peru",
       "link": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
       "date": "Sat, 10 Oct 2026 12:00:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027",
-      "link": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027",
-      "date": "Sat, 10 Oct 2026 11:58:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Palestinian president Abbas postpones legislative, presidential elections to September 2027",
-      "link": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027",
-      "date": "Sat, 10 Oct 2026 11:56:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "October 7 scars push Israel's first-time voters to right",
-      "link": "https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right",
-      "date": "Sat, 10 Oct 2026 11:01:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
-      "link": "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire",
-      "date": "Sat, 10 Oct 2026 11:00:08 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Palmer signs Chelsea contract until 2034",
-      "link": "https://www.channelnewsasia.com/sport/palmer-signs-chelsea-contract-until-2034-6448711",
-      "date": "Sat, 10 Oct 2026 18:44:38 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Severe injuries at French student protests draw scrutiny to police tactics",
-      "link": "https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics",
-      "date": "Sat, 10 Oct 2026 10:20:54 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 10:06:23 GMT"
     },
     {
       "src": "RFI",
@@ -248,25 +269,11 @@
       "date": "Sat, 10 Oct 2026 05:00:48 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 04:34:55 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
       "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
       "date": "Sat, 10 Oct 2026 00:50:52 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 22:30:22 GMT"
     },
     {
       "src": "Sky News",
@@ -493,11 +500,11 @@
       "date": "Thu, 08 Oct 2026 04:10:58 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "US top diplomat Rubio says West must choose ‘national power’ or decline",
-      "link": "https://www.rfi.fr/en/international/20261007-rubio-says-west-must-choose-between-national-power-or-decline",
-      "date": "Wed, 07 Oct 2026 17:57:56 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UK nationals told to avoid Saudi Arabia airport after missile strikes 'leave many wounded'",
+      "link": "https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284",
+      "date": "Tue, 14 Jul 2026 10:05:00 +0100"
     }
   ]
 }
