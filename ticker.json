@@ -1,27 +1,146 @@
 {
-  "updated": "2026-10-10T19:00:43.071Z",
-  "count": 72,
+  "updated": "2026-10-10T22:43:27.314Z",
+  "count": 71,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Several injured in attack on airport in Saudi capital Riyadh",
+      "text": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 18:37:10 GMT"
+      "date": "Sat, 10 Oct 2026 22:40:56 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Man dies after tiger attack at UK zoo: police",
-      "link": "https://www.channelnewsasia.com/world/man-dies-after-tiger-attack-uk-zoo-police-6449651",
-      "date": "Sun, 11 Oct 2026 02:36:52 +0800"
+      "text": "Odette’s longtime wine director Vincent Tan is leaving after 10 years to join Park90",
+      "link": "https://www.channelnewsasia.com/people/odette-wine-director-vincent-tan-park90-6441436",
+      "date": "Sun, 11 Oct 2026 06:17:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemeni government’s military says its forces advancing against Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 22:12:25 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 22:02:07 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: What’s in the melting Russian permafrost may be scarier than plague",
+      "link": "https://www.channelnewsasia.com/commentary/russia-siberia-plague-lab-researcher-death-permafrost-6445626",
+      "date": "Sun, 11 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Following a deadly train crash, Indonesia steps up safety reforms as experts push for long-term improvements",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-bekasi-deadly-train-crash-knkt-railway-reforms-6445411",
+      "date": "Sun, 11 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Inter rout Parma, De Bruyne double lifts Napoli",
+      "link": "https://www.channelnewsasia.com/sport/inter-rout-parma-de-bruyne-double-lifts-napoli-6449746",
+      "date": "Sun, 11 Oct 2026 05:49:10 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 21:40:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "PSG beat Le Mans 3-1 as Monaco stay top despite draw",
+      "link": "https://www.channelnewsasia.com/sport/psg-beat-le-mans-3-1-monaco-stay-top-despite-draw-6449741",
+      "date": "Sun, 11 Oct 2026 05:22:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 21:12:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Malawi motorists queue for days as fuel shortage bites",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 21:10:38 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 21:10:06 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India detains thousands, locks down Delhi to foil election chief protest",
+      "link": "https://www.channelnewsasia.com/asia/india-detains-thousands-lockdown-delhi-protest-6449736",
+      "date": "Sun, 11 Oct 2026 05:05:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+      "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 21:02:49 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 20:51:12 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Damage seen inside Saudi airport after third attack this week",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 20:43:19 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Philippines volcano erupts, creating 6km-high ash cloud",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 20:37:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spurs show fight as United&#039;s struggles deepen at Old Trafford",
+      "link": "https://www.channelnewsasia.com/sport/spurs-show-fight-uniteds-struggles-deepen-old-trafford-6449721",
+      "date": "Sun, 11 Oct 2026 04:07:50 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Isaias kills four, about 670,000 without power after landfall",
+      "link": "https://www.channelnewsasia.com/world/isaias-kills-four-about-670000-without-power-after-landfall-6449701",
+      "date": "Sun, 11 Oct 2026 04:04:17 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 18:36:23 GMT"
+      "date": "Sat, 10 Oct 2026 19:28:28 GMT"
     },
     {
       "src": "BBC World",
@@ -31,39 +150,11 @@
       "date": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man United fans revive ticker taunt over Man City financial case",
-      "link": "https://www.channelnewsasia.com/sport/man-united-fans-revive-ticker-taunt-over-man-city-financial-case-6449646",
-      "date": "Sun, 11 Oct 2026 02:14:36 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-      "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 18:08:46 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Riyadh airport suspends operations after attack leaves multiple people wounded",
+      "text": "At least two killed, multiple people wounded in attack on Riyadh airport",
       "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
       "date": "Sat, 10 Oct 2026 18:03:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
-      "link": "https://www.channelnewsasia.com/world/russian-attack-ukrainian-city-kills-20-day-after-trump-eases-diesel-sanctions-moscow-6449106",
-      "date": "Sun, 11 Oct 2026 02:02:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nine killed in shooting in US state of Pennsylvania, including two children",
-      "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 17:48:45 +0000"
     },
     {
       "src": "BBC World",
@@ -85,55 +176,6 @@
       "text": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
       "link": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
       "date": "Sat, 10 Oct 2026 17:39:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-      "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 17:38:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Video shows rare albino Asian black bear",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 17:37:37 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Alonso hails Caicedo’s impact as Chelsea crush Bournemouth",
-      "link": "https://www.channelnewsasia.com/sport/alonso-hails-caicedos-impact-chelsea-crush-bournemouth-6449091",
-      "date": "Sun, 11 Oct 2026 01:36:14 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Riyadh airport suspends operations after attack leaves several wounded",
-      "link": "https://www.channelnewsasia.com/world/riyadh-airport-suspends-operations-after-attack-leaves-several-wounded-6449071",
-      "date": "Sun, 11 Oct 2026 01:33:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Christa Pike discharged from hospital and returned to Tennessee prison",
-      "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 17:08:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 16:54:56 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 16:41:25 +0000"
     },
     {
       "src": "France 24",
@@ -171,25 +213,11 @@
       "date": "Sat, 10 Oct 2026 16:04:13 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
-      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 15:45:36 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 10 Oct 2026 15:23:47 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "French prodigy Seixas wins Giro di Lombardia, his first Monument",
-      "link": "https://www.channelnewsasia.com/sport/french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument-6449006",
-      "date": "Sat, 10 Oct 2026 23:23:25 +0800"
     },
     {
       "src": "RFI",
@@ -204,34 +232,6 @@
       "text": "Woman injures three people in third Poland school knife attack in a week",
       "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 10 Oct 2026 14:58:55 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore, Brunei mark 50 years of defence ties with joint military parade",
-      "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-brunei-50-years-defence-ties-joint-military-parade-6448936",
-      "date": "Sat, 10 Oct 2026 22:49:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Augsburg score fastest Bundesliga goal but Bayern snatch comeback draw",
-      "link": "https://www.channelnewsasia.com/sport/augsburg-score-fastest-bundesliga-goal-bayern-snatch-comeback-draw-6448946",
-      "date": "Sat, 10 Oct 2026 22:22:49 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:16:50 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 12:29:31 GMT"
     },
     {
       "src": "RFI",
@@ -437,13 +437,6 @@
       "date": "Fri, 09 Oct 2026 12:18:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Three killed in Houthi-claimed strikes on Saudi Arabian airport",
-      "link": "https://news.sky.com/story/three-killed-in-houthi-claimed-strikes-on-riyadh-airport-saudi-authorities-say-13596835",
-      "date": "Fri, 09 Oct 2026 12:07:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
@@ -502,7 +495,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "UK nationals told to avoid Saudi Arabia airport after missile strikes 'leave many wounded'",
+      "text": "At least 12 killed and hundreds injured in Saudi Arabia airport 'missile attack'",
       "link": "https://news.sky.com/story/uk-nationals-told-to-avoid-saudi-arabia-airport-after-missile-strikes-leave-many-wounded-13563284",
       "date": "Tue, 14 Jul 2026 10:05:00 +0100"
     }
