@@ -1,48 +1,160 @@
 {
-  "updated": "2026-10-11T19:02:40.479Z",
+  "updated": "2026-10-11T23:00:09.594Z",
   "count": 64,
   "items": [
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-      "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 18:47:57 +0000"
+      "text": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 22:49:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 22:45:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 22:24:07 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
+      "link": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
+      "date": "Sun, 11 Oct 2026 22:01:13 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Lazio keep pace at the top, 10-man Roma earn draw at Como, Milan held by Sassuolo",
-      "link": "https://www.channelnewsasia.com/sport/lazio-keep-pace-top-10-man-roma-earn-draw-como-milan-held-sassuolo-6451376",
-      "date": "Mon, 12 Oct 2026 02:40:26 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 18:25:42 +0000"
+      "text": "Why investment-linked policy sales have surged even as complaints rise",
+      "link": "https://www.channelnewsasia.com/singapore/ilp-investment-linked-policies-demand-complaint-6446421",
+      "date": "Mon, 12 Oct 2026 06:00:00 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Djibouti boat wreck leaves 139 migrants dead, 84 missing: UN",
-      "link": "https://www.channelnewsasia.com/world/djibouti-boat-wreck-leaves-139-migrants-dead-84-missing-un-6450621",
-      "date": "Mon, 12 Oct 2026 02:17:41 +0800"
+      "text": "Commentary: Liquidity fix for small and mid-caps on SGX requires more to be done",
+      "link": "https://www.channelnewsasia.com/commentary/sgx-small-mid-caps-weak-liquidity-more-6446281",
+      "date": "Mon, 12 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: What if the HR department&#039;s AI prefers resumes written by AI?",
+      "link": "https://www.channelnewsasia.com/commentary/jobs-apply-resume-ai-use-skills-hr-6450116",
+      "date": "Mon, 12 Oct 2026 05:59:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
+      "link": "https://www.channelnewsasia.com/world/uk-andy-burham-russia-interfere-brexit-6450551",
+      "date": "Mon, 12 Oct 2026 05:42:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "From pink to Paraiba: Why tourmaline is October’s most captivating birthstone",
+      "link": "https://www.channelnewsasia.com/obsessions/october-birthstone-tourmaline-jewellery-6433681",
+      "date": "Mon, 12 Oct 2026 05:42:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 21:36:40 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+      "link": "https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486",
+      "date": "Mon, 12 Oct 2026 05:16:49 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 21:12:44 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Lebanon’s first electric train hopes to revive railway system",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 18:00:51 +0000"
+      "text": "Waves crash into homes as excavators try to protect California properties",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 21:03:41 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Liverpool fans give Manchester City a fiery welcome at Anfield",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:52:27 +0000"
+      "text": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "link": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 20:57:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Two killed near Israeli-occupied area in south Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 20:46:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 20:44:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Man City beat Liverpool after guilty verdict",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 20:41:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zelenskyy welcomes US-announced energy ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 20:28:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+      "link": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+      "date": "Sun, 11 Oct 2026 19:42:09 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK PM Burnham to release details of dealings with Manchester City",
+      "link": "https://www.channelnewsasia.com/sport/uk-pm-burnham-release-details-dealings-manchester-city-6451426",
+      "date": "Mon, 12 Oct 2026 03:29:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Who’s singing now? Maresca wants Man City to drown out noise",
+      "link": "https://www.channelnewsasia.com/sport/whos-singing-now-maresca-wants-man-city-drown-out-noise-6451421",
+      "date": "Mon, 12 Oct 2026 03:26:57 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 19:08:04 GMT"
     },
     {
       "src": "France 24",
@@ -66,39 +178,11 @@
       "date": "Sun, 11 Oct 2026 17:41:49 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:39:26 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Ukraine: Coerced into a Corner?",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
       "date": "Sun, 11 Oct 2026 17:36:49 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ukraine&#039;s Zelenskyy tells ABC he will organise elections if Russia agrees to 60-day ceasefire",
-      "link": "https://www.channelnewsasia.com/world/ukraines-zelenskyy-tells-abc-he-will-organise-elections-if-russia-agrees-60-day-ceasefire-6450376",
-      "date": "Mon, 12 Oct 2026 01:36:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man City silence hostile Anfield with 3-0 win over Liverpool",
-      "link": "https://www.channelnewsasia.com/sport/man-city-silence-hostile-anfield-3-0-win-over-liverpool-6450601",
-      "date": "Mon, 12 Oct 2026 01:34:59 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Is the Yemen war entering a new phase?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:30:55 +0000"
     },
     {
       "src": "BBC World",
@@ -108,20 +192,6 @@
       "date": "Sun, 11 Oct 2026 17:27:24 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:14:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Who will represent us?’ Palestinians react to election delay",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:09:19 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
@@ -129,17 +199,10 @@
       "date": "Sun, 11 Oct 2026 16:44:37 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Saudi capital airport hit by second Houthi strike in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 16:41:37 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "At least 13 miners killed in airstrike",
-      "link": "https://news.sky.com/story/at-least-13-miners-killed-in-airstrike-on-sudan-egypt-border-says-medical-group-13597904",
+      "text": "'At least 72' miners killed in airstrike",
+      "link": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
       "date": "Sun, 11 Oct 2026 17:25:00 +0100"
     },
     {
@@ -148,41 +211,6 @@
       "text": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
       "link": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
       "date": "Sun, 11 Oct 2026 16:08:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
-      "link": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
-      "date": "Sun, 11 Oct 2026 16:07:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-      "link": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-      "date": "Sun, 11 Oct 2026 16:04:20 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Manchester City met at Anfield with boos and &#039;cheat&#039; taunts",
-      "link": "https://www.channelnewsasia.com/sport/manchester-city-met-anfield-boos-and-cheat-taunts-6450491",
-      "date": "Sun, 11 Oct 2026 23:55:21 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Struggling Corinthians sign Seedorf as manager",
-      "link": "https://www.channelnewsasia.com/sport/struggling-corinthians-sign-seedorf-manager-6450471",
-      "date": "Sun, 11 Oct 2026 23:39:11 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:32:23 GMT"
     },
     {
       "src": "BBC World",
@@ -197,20 +225,6 @@
       "text": "France urges Palestinians to reverse decision on delayed elections",
       "link": "https://www.rfi.fr/en/international/20261011-france-urges-palestinians-to-reverse-decision-on-delayed-elections",
       "date": "Sun, 11 Oct 2026 15:13:10 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump says Russia and Ukraine agree to &#039;energy ceasefire&#039;",
-      "link": "https://www.channelnewsasia.com/world/trump-says-russia-and-ukraine-agree-energy-ceasefire-6450451",
-      "date": "Sun, 11 Oct 2026 22:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "In pictures: Full throttle at the F1 Singapore Grand Prix 2026",
-      "link": "https://www.channelnewsasia.com/singapore/f1-singapore-grand-prix-2026-photos-6450296",
-      "date": "Sun, 11 Oct 2026 22:59:00 +0800"
     },
     {
       "src": "BBC World",
@@ -232,13 +246,6 @@
       "text": "Thousands without power in Florida and Alabama as Isaias moves north",
       "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
       "date": "Sun, 11 Oct 2026 13:45:27 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 13:38:55 GMT"
     },
     {
       "src": "BBC World",
@@ -309,13 +316,6 @@
       "text": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
       "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
       "date": "Sun, 11 Oct 2026 06:56:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 05:05:43 GMT"
     },
     {
       "src": "RFI",
