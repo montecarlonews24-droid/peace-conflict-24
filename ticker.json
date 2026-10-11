@@ -1,13 +1,83 @@
 {
-  "updated": "2026-10-10T22:43:27.314Z",
+  "updated": "2026-10-11T01:22:50.023Z",
   "count": 71,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 01:02:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 00:23:50 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 22:40:56 GMT"
+      "date": "Sun, 11 Oct 2026 00:21:52 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 00:00:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Real&#039;s Vinicius apologises after red card for hair pull against Villarreal",
+      "link": "https://www.channelnewsasia.com/sport/reals-vinicius-apologises-after-red-card-hair-pull-against-villarreal-6449791",
+      "date": "Sun, 11 Oct 2026 07:48:25 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 23:19:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Air quality remains unhealthy across Singapore amid haze",
+      "link": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
+      "date": "Sun, 11 Oct 2026 07:12:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US will learn from bruising friendly defeat by Spain, says Hayes",
+      "link": "https://www.channelnewsasia.com/sport/us-will-learn-bruising-friendly-defeat-spain-says-hayes-6449776",
+      "date": "Sun, 11 Oct 2026 06:58:41 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "She turned her kids’ old clothes into keepsakes – now it’s a thriving home business",
+      "link": "https://www.channelnewsasia.com/women/childrens-old-clothes-keepsakes-bears-quilts-6401706",
+      "date": "Sun, 11 Oct 2026 06:54:36 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Liverpool vs Man City: the top five clashes between Premier League giants",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 22:43:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "WHO says no plague case registered after Russian lab worker’s death",
+      "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 22:34:29 +0000"
     },
     {
       "src": "CNA",
@@ -17,18 +87,18 @@
       "date": "Sun, 11 Oct 2026 06:17:00 +0800"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 22:13:08 GMT"
+    },
+    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Yemeni government’s military says its forces advancing against Houthis",
       "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 22:12:25 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 22:02:07 GMT"
     },
     {
       "src": "CNA",
@@ -59,13 +129,6 @@
       "date": "Sat, 10 Oct 2026 21:40:20 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "PSG beat Le Mans 3-1 as Monaco stay top despite draw",
-      "link": "https://www.channelnewsasia.com/sport/psg-beat-le-mans-3-1-monaco-stay-top-despite-draw-6449741",
-      "date": "Sun, 11 Oct 2026 05:22:01 +0800"
-    },
-    {
       "src": "Al Jazeera",
       "col": "#f59e0b",
       "text": "Hundreds of doctors demand World Medical Association suspend Israel",
@@ -73,67 +136,11 @@
       "date": "Sat, 10 Oct 2026 21:12:04 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Malawi motorists queue for days as fuel shortage bites",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 21:10:38 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 21:10:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "India detains thousands, locks down Delhi to foil election chief protest",
-      "link": "https://www.channelnewsasia.com/asia/india-detains-thousands-lockdown-delhi-protest-6449736",
-      "date": "Sun, 11 Oct 2026 05:05:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 21:02:49 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 10 Oct 2026 20:51:12 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Damage seen inside Saudi airport after third attack this week",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 20:43:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Philippines volcano erupts, creating 6km-high ash cloud",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 20:37:17 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spurs show fight as United&#039;s struggles deepen at Old Trafford",
-      "link": "https://www.channelnewsasia.com/sport/spurs-show-fight-uniteds-struggles-deepen-old-trafford-6449721",
-      "date": "Sun, 11 Oct 2026 04:07:50 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Isaias kills four, about 670,000 without power after landfall",
-      "link": "https://www.channelnewsasia.com/world/isaias-kills-four-about-670000-without-power-after-landfall-6449701",
-      "date": "Sun, 11 Oct 2026 04:04:17 +0800"
     },
     {
       "src": "BBC World",
@@ -152,7 +159,7 @@
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "At least two killed, multiple people wounded in attack on Riyadh airport",
+      "text": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
       "link": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
       "date": "Sat, 10 Oct 2026 18:03:32 GMT"
     },
@@ -213,13 +220,6 @@
       "date": "Sat, 10 Oct 2026 16:04:13 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 15:23:47 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU says US deal lifting diesel sanctions 'funds' Russian war on Ukraine",
@@ -229,9 +229,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Woman injures three people in third Poland school knife attack in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:58:55 GMT"
+      "text": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
       "src": "RFI",
