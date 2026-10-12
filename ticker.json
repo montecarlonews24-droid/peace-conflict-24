@@ -1,41 +1,321 @@
 {
-  "updated": "2026-10-12T09:28:40.094Z",
+  "updated": "2026-10-12T19:12:31.840Z",
   "count": 64,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Microsoft president says milk faces more regulation than AI",
-      "link": "https://www.channelnewsasia.com/business/microsoft-president-says-milk-faces-more-regulation-ai-6452516",
-      "date": "Mon, 12 Oct 2026 17:22:44 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-      "link": "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-      "date": "Mon, 12 Oct 2026 09:21:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent",
-      "link": "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent",
-      "date": "Mon, 12 Oct 2026 09:19:32 GMT"
+      "text": "Carrick backs Man United to emerge from rough spell ahead of Atletico test",
+      "link": "https://www.channelnewsasia.com/sport/carrick-backs-man-united-emerge-rough-spell-ahead-atletico-test-6454181",
+      "date": "Tue, 13 Oct 2026 03:02:30 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Pakistan detains hundreds from ex-PM Khan&#039;s party in northern province: Police",
-      "link": "https://www.channelnewsasia.com/asia/pakistan-detains-hundreds-ex-pm-khans-party-in-northern-province-police-6452431",
-      "date": "Mon, 12 Oct 2026 17:06:00 +0800"
+      "text": "Trump administration plans to move AI testing agency officials to White House, The Information reports",
+      "link": "https://www.channelnewsasia.com/business/trump-administration-plans-move-ai-testing-agency-officials-white-house-information-reports-6454176",
+      "date": "Tue, 13 Oct 2026 03:01:53 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "China condemns Houthi attacks on Saudi Arabia, warns of escalation",
-      "link": "https://www.channelnewsasia.com/asia/china-condemns-houthi-attacks-saudi-arabia-6452441",
-      "date": "Mon, 12 Oct 2026 17:01:14 +0800"
+      "text": "Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels",
+      "link": "https://www.channelnewsasia.com/business/americas-have-glut-heavy-oil-due-freight-squeeze-asia-europe-scramble-barrels-6454171",
+      "date": "Tue, 13 Oct 2026 02:47:49 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "date": "Mon, 12 Oct 2026 18:33:12 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fridges in French supermarkets hit by cyber attack",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 18:31:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+      "link": "https://www.channelnewsasia.com/business/meta-releases-muse-wonder-ai-models-challenge-anthropic-and-openai-6454151",
+      "date": "Tue, 13 Oct 2026 02:26:14 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:24:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says",
+      "link": "https://www.channelnewsasia.com/business/dating-app-bumble-in-advanced-talks-go-private-1-billion-valuation-source-says-6454156",
+      "date": "Tue, 13 Oct 2026 02:23:53 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Egypt’s press union chief rejects pressure over detained journalists",
+      "link": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:21:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "French supermarkets suffer refrigerator shutdown after &#039;unprecedented&#039; cyberattack",
+      "link": "https://www.channelnewsasia.com/world/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack-6453906",
+      "date": "Tue, 13 Oct 2026 02:15:56 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:15:10 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Stolen Renoir paintings found behind wall in France following arrests",
+      "link": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:10:35 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bivol to defend light-heavy titles against Britain&#039;s Smith in Russia on Dec 12",
+      "link": "https://www.channelnewsasia.com/sport/bivol-defend-light-heavy-titles-against-britains-smith-in-russia-dec-12-6454096",
+      "date": "Tue, 13 Oct 2026 02:01:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:01:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zohran Mamdani orders use-of-force review for New York City police",
+      "link": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 17:50:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 17:39:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "India’s voter list changes sparks fresh protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 17:33:51 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 17:32:13 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 17:09:55 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French presidential candidate Glucksmann says 'battle begins' to unite fragmented left",
+      "link": "https://www.france24.com/en/france/20261012-french-presidential-candidate-glucksmann-says-battle-begins-to-unite-fragmented-left",
+      "date": "Mon, 12 Oct 2026 17:07:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 16:46:49 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Pope Leo cancels all public events ahead of lung surgery",
+      "link": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+      "date": "Mon, 12 Oct 2026 17:42:00 +0100"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "More than 100 foreign trekkers stranded in flood-hit region of Nepal, official says",
+      "link": "https://www.channelnewsasia.com/world/nepal-flood-100-stranded-trekkers-landslide-6453776",
+      "date": "Tue, 13 Oct 2026 00:37:15 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Fire destroys historic covered food market in Paris",
+      "link": "https://www.france24.com/en/france-fire-destroys-historic-covered-food-market-in-paris",
+      "date": "Mon, 12 Oct 2026 16:23:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands of Indians march to Supreme Court to oust election chief",
+      "link": "https://www.france24.com/en/thousands-of-indians-march-to-supreme-court-to-oust-election-chief",
+      "date": "Mon, 12 Oct 2026 16:23:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Saudi Arabia extends Riyadh aiport suspension, vows deadly response to Houthis strikes",
+      "link": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
+      "date": "Mon, 12 Oct 2026 16:21:57 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Chinese cars vs Europe: Who will win the battle for the market?",
+      "link": "https://www.france24.com/en/chinese-cars-vs-europe-who-will-win-the-battle-for-the-market",
+      "date": "Mon, 12 Oct 2026 16:20:54 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The revival of a classic: Citroën unveils new electric version of its 2CV",
+      "link": "https://www.france24.com/en/video/20261012-the-revival-of-a-classic-citro%C3%ABn-unveils-new-electric-version-of-its-2cv",
+      "date": "Mon, 12 Oct 2026 16:08:18 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Midterms 2026: Turning Point and the battle for Charlie Kirk’s legacy",
+      "link": "https://www.france24.com/en/video/20261012-midterms-2026-turning-point-and-the-battle-for-charlie-kirk-s-legacy",
+      "date": "Mon, 12 Oct 2026 15:59:52 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Nobel Peace Prize winner criticises Trump over 'negative and cruel' attacks",
+      "link": "https://news.sky.com/story/nobel-peace-prize-winner-navi-pillay-criticises-trump-over-negative-and-cruel-attacks-on-international-criminal-court-13598256",
+      "date": "Mon, 12 Oct 2026 16:59:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "French supermarket fridges heated to 50C in cyber attack - causing fires and food losses",
+      "link": "https://news.sky.com/story/hackers-heat-french-supermarket-fridges-to-50c-in-large-scale-cyber-attack-13598252",
+      "date": "Mon, 12 Oct 2026 16:56:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
+      "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 14:11:27 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Congresswoman insists she will not be 'silenced' after federal agents raid her home",
+      "link": "https://news.sky.com/story/congresswoman-insists-she-will-not-be-silenced-after-federal-agents-raid-her-home-13598219",
+      "date": "Mon, 12 Oct 2026 15:11:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 14:00:03 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 13:49:05 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Fugitive businessman taken into US custody in Venezuela bribery case",
+      "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "date": "Mon, 12 Oct 2026 13:14:14 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Former Irish Olympic swimming coach jailed over indecent assaults",
+      "link": "https://news.sky.com/story/former-irish-olympic-swimming-coach-jailed-over-indecent-assaults-13598158",
+      "date": "Mon, 12 Oct 2026 14:10:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
+      "link": "https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/",
+      "date": "Mon, 12 Oct 2026 13:09:36 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts",
+      "link": "https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/",
+      "date": "Mon, 12 Oct 2026 12:45:24 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Nikol Pashinyan says Armenia’s relations with Russia ‘can no longer be the same’",
+      "link": "https://www.rfi.fr/en/international/20261012-nikol-pashinyan-says-armenia-s-relations-with-russia-can-no-longer-be-the-same",
+      "date": "Mon, 12 Oct 2026 12:22:40 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Alleged Irish crime boss will 'vehemently defend' himself in court and apply for bail",
+      "link": "https://news.sky.com/story/daniel-kinahan-alleged-irish-crime-boss-will-vehemently-defend-himself-in-court-and-apply-for-bail-13598148",
+      "date": "Mon, 12 Oct 2026 12:34:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Can Brussels Budget Like a Superpower?",
+      "link": "https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/",
+      "date": "Mon, 12 Oct 2026 11:00:04 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Balkan temperatures swing as heavy rain heads for Greece",
+      "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "date": "Mon, 12 Oct 2026 10:48:26 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Oldest covered food market in Paris destroyed in fire",
+      "link": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
+      "date": "Mon, 12 Oct 2026 11:07:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Real Footprint of Trump’s Data Center Boom",
+      "link": "https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/",
+      "date": "Mon, 12 Oct 2026 10:00:29 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -45,123 +325,11 @@
       "date": "Mon, 12 Oct 2026 09:00:23 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Woman to be charged over alleged theft of Swarovski bracelet at Changi Airport",
-      "link": "https://www.channelnewsasia.com/singapore/woman-be-charged-over-alleged-theft-swarovski-bracelet-changi-airport-6452361",
-      "date": "Mon, 12 Oct 2026 16:58:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge",
-      "link": "https://www.channelnewsasia.com/business/dollar-firm-near-18-month-highs-gulf-unrest-us-inflation-keep-investors-edge-6451731",
-      "date": "Mon, 12 Oct 2026 16:57:46 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Riyadh airport extends suspension after weekend attacks",
-      "link": "https://www.channelnewsasia.com/world/riyadh-airport-cancel-flights-houthi-attacks-saudi-6452381",
-      "date": "Mon, 12 Oct 2026 16:56:46 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Delhi braces for more protests against election chief amid crackdown",
-      "link": "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:55:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:54:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MAS tightens financial roadshow guidelines, representatives must get consent before sales pitches",
-      "link": "https://www.channelnewsasia.com/singapore/financial-roadshow-rules-sales-pitches-mas-6452236",
-      "date": "Mon, 12 Oct 2026 16:54:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia introduces drone classes in public schools",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:47:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Photos: Gaza mothers endure endless lines as famine fears persist",
-      "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:46:41 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Saudi Arabia extends suspension of operations at Riyadh airport after deadly Houthi attacks",
-      "link": "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
-      "date": "Mon, 12 Oct 2026 08:41:12 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man devised &#039;deliberate scheme&#039; to rent home without paying through shell company, sued elderly landlords",
-      "link": "https://www.channelnewsasia.com/singapore/anthony-price-deliberate-scheme-rent-home-free-6451681",
-      "date": "Mon, 12 Oct 2026 16:40:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:17:50 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Marseille end five-game losing streak to climb out of Ligue 1 relegation zone",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone",
-      "date": "Mon, 12 Oct 2026 08:17:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Fire burns down Paris's oldest covered food market",
-      "link": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market",
-      "date": "Mon, 12 Oct 2026 08:02:55 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India opposition plans New Delhi protest to demand election chief resign",
-      "link": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:00:16 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 07:40:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "If Netanyahu goes, does anything really change for Palestinians?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 07:27:14 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: EU’s top diplomat says she will welcome Russia-Ukraine energy ceasefire ‘when it holds’",
-      "link": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire",
-      "date": "Mon, 12 Oct 2026 05:29:41 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Staff shot at school in France - as pupil detained",
+      "link": "https://news.sky.com/story/staff-shot-at-school-near-marseille-13598028",
+      "date": "Mon, 12 Oct 2026 07:18:00 +0100"
     },
     {
       "src": "BBC World",
@@ -171,88 +339,11 @@
       "date": "Mon, 12 Oct 2026 05:00:52 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Opposition leaders and journalists allege police abuses as fresh protests break out in India",
-      "link": "https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india",
-      "date": "Mon, 12 Oct 2026 04:33:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Melbourne Islamic leader linked to suspected Flydubai hijacker condemns 'false accusations'",
-      "link": "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations",
-      "date": "Mon, 12 Oct 2026 03:49:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-      "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:48:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump faces growing backlash over plans to import diesel from Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:18:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:13:51 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 22:45:58 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 21:36:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 21:12:44 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Poland detains man suspected of planning assassination of PM Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 17:27:24 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'At least 72' miners killed in airstrike",
-      "link": "https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904",
-      "date": "Sun, 11 Oct 2026 17:25:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France urges Palestinians to reverse decision on delayed elections",
       "link": "https://www.rfi.fr/en/international/20261011-france-urges-palestinians-to-reverse-decision-on-delayed-elections",
       "date": "Sun, 11 Oct 2026 15:13:10 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Pakistan's president declares state of emergency in province run by Imran Khan's party",
-      "link": "https://news.sky.com/story/pakistans-president-declares-state-of-emergency-in-khyber-pakhtunkhwa-province-run-by-imran-khans-party-13597796",
-      "date": "Sun, 11 Oct 2026 14:48:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -267,62 +358,6 @@
       "text": "Western leaders slam Houthi attack on Riyadh airport, warn citizens to stay away",
       "link": "https://www.rfi.fr/en/international/20261011-western-leaders-slam-houthi-attack-on-riyadh-airport-warn-citizens-to-stay-away",
       "date": "Sun, 11 Oct 2026 10:43:01 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Pope Leo to undergo surgery in coming days after nodule discovered on his lung",
-      "link": "https://news.sky.com/story/pope-leo-to-undergo-surgery-in-coming-days-after-nodule-discovered-on-his-lung-13597712",
-      "date": "Sun, 11 Oct 2026 11:25:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Four dead after Hurricane Isaias crashes into US - as Mexico braces itself for Category 4 storm",
-      "link": "https://news.sky.com/story/four-dead-as-hurricane-isaias-crashes-into-us-as-mexico-braces-itself-for-major-storm-13597710",
-      "date": "Sun, 11 Oct 2026 11:13:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Children among at least 139 dead after migrant boat capsizes",
-      "link": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
-      "date": "Sun, 11 Oct 2026 11:08:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'If we don't do it, nobody else will': Inside Ukraine's wartime postal service",
-      "link": "https://news.sky.com/story/inside-ukraines-wartime-postal-service-which-risks-everything-to-take-supplies-to-frontline-towns-13597690",
-      "date": "Sun, 11 Oct 2026 09:37:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "AI and nuclear war threaten human extinction by 2100, report warns",
-      "link": "https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676",
-      "date": "Sun, 11 Oct 2026 08:54:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Flash flooding triggered by landslide destroys homes in Nepal",
-      "link": "https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674",
-      "date": "Sun, 11 Oct 2026 08:46:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "date": "Sun, 11 Oct 2026 07:45:31 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-      "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
-      "date": "Sun, 11 Oct 2026 06:56:08 GMT"
     },
     {
       "src": "RFI",
@@ -381,34 +416,6 @@
       "date": "Fri, 09 Oct 2026 19:00:50 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Russian Sabotage in Europe Is No Longer ‘Symbolic’",
-      "link": "https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/",
-      "date": "Fri, 09 Oct 2026 18:51:28 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The United States Is Not Ready for the Arctic Age",
-      "link": "https://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/",
-      "date": "Fri, 09 Oct 2026 18:40:37 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Italy Spawned the Western Far Right",
-      "link": "https://foreignpolicy.com/2026/10/09/italy-far-right-book-review-nyt-rome-correspondent/",
-      "date": "Fri, 09 Oct 2026 18:20:38 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Life Was Like for a Jewish Artist in 1930s Berlin",
-      "link": "https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-li-music-against-night-rebecca-birrell-venus-vanishing/",
-      "date": "Fri, 09 Oct 2026 18:00:03 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -421,13 +428,6 @@
       "text": "Hunger and disease spread in Yemen as Houthi and government forces clash",
       "link": "https://www.rfi.fr/en/international/20261009-hunger-and-disease-spread-in-yemen-as-houthi-and-government-forces-clash",
       "date": "Fri, 09 Oct 2026 16:03:06 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU denies US pressure behind withdrawal from disinformation conference",
-      "link": "https://www.rfi.fr/en/international/20261009-eu-denies-us-pressure-behind-withdrawal-from-disinformation-conference",
-      "date": "Fri, 09 Oct 2026 11:53:04 GMT"
     },
     {
       "src": "The Guardian",
