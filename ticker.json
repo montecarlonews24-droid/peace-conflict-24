@@ -1,132 +1,209 @@
 {
-  "updated": "2026-10-12T02:06:51.432Z",
+  "updated": "2026-10-12T09:28:40.094Z",
   "count": 64,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Air quality unhealthy across Singapore amid sustained haze",
-      "link": "https://www.channelnewsasia.com/singapore/haze-air-quality-unhealthy-psi-pm25-6451716",
-      "date": "Mon, 12 Oct 2026 09:59:35 +0800"
+      "text": "Microsoft president says milk faces more regulation than AI",
+      "link": "https://www.channelnewsasia.com/business/microsoft-president-says-milk-faces-more-regulation-ai-6452516",
+      "date": "Mon, 12 Oct 2026 17:22:44 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "North Korea fires multiple ballistic missiles off east coast, Seoul says",
-      "link": "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul",
-      "date": "Mon, 12 Oct 2026 01:54:19 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Poland holds suspect in alleged assassination plot against PM Tusk",
-      "link": "https://www.channelnewsasia.com/world/poland-suspect-alleged-assassination-plot-pm-donald-tusk-6451726",
-      "date": "Mon, 12 Oct 2026 09:51:08 +0800"
+      "text": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
+      "link": "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
+      "date": "Mon, 12 Oct 2026 09:21:12 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
-      "link": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack",
-      "date": "Mon, 12 Oct 2026 01:41:18 GMT"
+      "text": "Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent",
+      "link": "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent",
+      "date": "Mon, 12 Oct 2026 09:19:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pakistan detains hundreds from ex-PM Khan&#039;s party in northern province: Police",
+      "link": "https://www.channelnewsasia.com/asia/pakistan-detains-hundreds-ex-pm-khans-party-in-northern-province-police-6452431",
+      "date": "Mon, 12 Oct 2026 17:06:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China condemns Houthi attacks on Saudi Arabia, warns of escalation",
+      "link": "https://www.channelnewsasia.com/asia/china-condemns-houthi-attacks-saudi-arabia-6452441",
+      "date": "Mon, 12 Oct 2026 17:01:14 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "From Xinjiang to the Front Lines of Syria",
+      "link": "https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/",
+      "date": "Mon, 12 Oct 2026 09:00:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Woman to be charged over alleged theft of Swarovski bracelet at Changi Airport",
+      "link": "https://www.channelnewsasia.com/singapore/woman-be-charged-over-alleged-theft-swarovski-bracelet-changi-airport-6452361",
+      "date": "Mon, 12 Oct 2026 16:58:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge",
+      "link": "https://www.channelnewsasia.com/business/dollar-firm-near-18-month-highs-gulf-unrest-us-inflation-keep-investors-edge-6451731",
+      "date": "Mon, 12 Oct 2026 16:57:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Riyadh airport extends suspension after weekend attacks",
+      "link": "https://www.channelnewsasia.com/world/riyadh-airport-cancel-flights-houthi-attacks-saudi-6452381",
+      "date": "Mon, 12 Oct 2026 16:56:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Delhi braces for more protests against election chief amid crackdown",
+      "link": "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:55:46 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:54:25 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "MAS tightens financial roadshow guidelines, representatives must get consent before sales pitches",
+      "link": "https://www.channelnewsasia.com/singapore/financial-roadshow-rules-sales-pitches-mas-6452236",
+      "date": "Mon, 12 Oct 2026 16:54:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia introduces drone classes in public schools",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:47:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Gaza mothers endure endless lines as famine fears persist",
+      "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:46:41 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
-      "link": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
-      "date": "Mon, 12 Oct 2026 01:28:27 GMT"
+      "text": "Live: Saudi Arabia extends suspension of operations at Riyadh airport after deadly Houthi attacks",
+      "link": "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
+      "date": "Mon, 12 Oct 2026 08:41:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man devised &#039;deliberate scheme&#039; to rent home without paying through shell company, sued elderly landlords",
+      "link": "https://www.channelnewsasia.com/singapore/anthony-price-deliberate-scheme-rent-home-free-6451681",
+      "date": "Mon, 12 Oct 2026 16:40:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Bridge washed away by torrent of water in Nepal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 01:24:26 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-      "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 01:12:35 +0000"
+      "text": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:17:50 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
-      "link": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
-      "date": "Mon, 12 Oct 2026 01:01:39 GMT"
+      "text": "Marseille end five-game losing streak to climb out of Ligue 1 relegation zone",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone",
+      "date": "Mon, 12 Oct 2026 08:17:18 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shares cautious in Asia as earnings loom, oil slips",
-      "link": "https://www.channelnewsasia.com/business/shares-cautious-in-asia-earnings-loom-oil-slips-6451656",
-      "date": "Mon, 12 Oct 2026 08:42:35 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-      "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:39:08 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "One dead in new attack on Saudi airport, a day after Houthi strike kills 13",
-      "link": "https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-attack-houthis-6451631",
-      "date": "Mon, 12 Oct 2026 08:26:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Fire burns down Paris's oldest covered food market",
+      "link": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market",
+      "date": "Mon, 12 Oct 2026 08:02:55 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-      "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:21:46 +0000"
+      "text": "India opposition plans New Delhi protest to demand election chief resign",
+      "link": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:00:16 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Ceuta or Sebta? Why one city has two names and a disputed status",
-      "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:14:46 +0000"
+      "text": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 07:40:31 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:00:00 +0000"
+      "text": "If Netanyahu goes, does anything really change for Palestinians?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 07:27:14 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US reverses course on Britain&#039;s testing of AI models, Telegraph says",
-      "link": "https://www.channelnewsasia.com/business/us-reverses-course-britains-testing-ai-models-telegraph-says-6451601",
-      "date": "Mon, 12 Oct 2026 07:48:32 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: EU’s top diplomat says she will welcome Russia-Ukraine energy ceasefire ‘when it holds’",
+      "link": "https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire",
+      "date": "Mon, 12 Oct 2026 05:29:41 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Electric shocks, tinnitus, frozen shoulder: Surprising perimenopause symptoms you may not know about",
-      "link": "https://www.channelnewsasia.com/women/perimenopause-unusual-symptoms-6402551",
-      "date": "Mon, 12 Oct 2026 07:33:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 05:00:52 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistani national killed in second Houthi strike on Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 23:20:46 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Opposition leaders and journalists allege police abuses as fresh protests break out in India",
+      "link": "https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india",
+      "date": "Mon, 12 Oct 2026 04:33:41 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-      "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 23:17:05 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Melbourne Islamic leader linked to suspected Flydubai hijacker condemns 'false accusations'",
+      "link": "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations",
+      "date": "Mon, 12 Oct 2026 03:49:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:48:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump faces growing backlash over plans to import diesel from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:18:45 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:13:51 GMT"
     },
     {
       "src": "BBC World",
@@ -136,30 +213,9 @@
       "date": "Sun, 11 Oct 2026 22:45:58 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
-      "link": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
-      "date": "Sun, 11 Oct 2026 22:01:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why investment-linked policy sales have surged even as complaints rise",
-      "link": "https://www.channelnewsasia.com/singapore/ilp-investment-linked-policies-demand-complaint-6446421",
-      "date": "Mon, 12 Oct 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: Liquidity fix for small and mid-caps on SGX requires more to be done",
-      "link": "https://www.channelnewsasia.com/commentary/sgx-small-mid-caps-weak-liquidity-more-6446281",
-      "date": "Mon, 12 Oct 2026 06:00:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "text": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 11 Oct 2026 21:36:40 GMT"
     },
@@ -169,41 +225,6 @@
       "text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
       "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 11 Oct 2026 21:12:44 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Putin has already broken Trump's 'energy ceasefire' with attack on power plant, says Zelenskyy",
-      "link": "https://news.sky.com/story/putin-has-already-broken-trumps-energy-ceasefire-with-attack-on-power-plant-says-zelenskyy-13597989",
-      "date": "Sun, 11 Oct 2026 21:58:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
-      "link": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-      "date": "Sun, 11 Oct 2026 19:42:09 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Orangutans released back into Borneo forest after devastating fires",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 19:08:04 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "A profile of Raphaël Glucksmann, the man who wants to be French President",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
-      "date": "Sun, 11 Oct 2026 17:50:02 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Raphaël Glucksmann wins French left-wing primary with 66% of vote",
-      "link": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
-      "date": "Sun, 11 Oct 2026 17:45:32 GMT"
     },
     {
       "src": "BBC World",
@@ -220,25 +241,11 @@
       "date": "Sun, 11 Oct 2026 17:25:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:18:52 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France urges Palestinians to reverse decision on delayed elections",
       "link": "https://www.rfi.fr/en/international/20261011-france-urges-palestinians-to-reverse-decision-on-delayed-elections",
       "date": "Sun, 11 Oct 2026 15:13:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 14:38:10 GMT"
     },
     {
       "src": "Sky News",
@@ -253,13 +260,6 @@
       "text": "Thousands without power in Florida and Alabama as Isaias moves north",
       "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
       "date": "Sun, 11 Oct 2026 13:45:27 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Homes and bridges swept away as fresh floods hit Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:03:52 GMT"
     },
     {
       "src": "RFI",
@@ -285,7 +285,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "At least 139 dead and 84 missing after boat capsizes",
+      "text": "Children among at least 139 dead after migrant boat capsizes",
       "link": "https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707",
       "date": "Sun, 11 Oct 2026 11:08:00 +0100"
     },
@@ -295,6 +295,13 @@
       "text": "'If we don't do it, nobody else will': Inside Ukraine's wartime postal service",
       "link": "https://news.sky.com/story/inside-ukraines-wartime-postal-service-which-risks-everything-to-take-supplies-to-frontline-towns-13597690",
       "date": "Sun, 11 Oct 2026 09:37:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "AI and nuclear war threaten human extinction by 2100, report warns",
+      "link": "https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676",
+      "date": "Sun, 11 Oct 2026 08:54:00 +0100"
     },
     {
       "src": "Sky News",
@@ -400,13 +407,6 @@
       "text": "What Life Was Like for a Jewish Artist in 1930s Berlin",
       "link": "https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-li-music-against-night-rebecca-birrell-venus-vanishing/",
       "date": "Fri, 09 Oct 2026 18:00:03 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What in the World?",
-      "link": "https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
-      "date": "Fri, 09 Oct 2026 17:15:31 +0000"
     },
     {
       "src": "The Guardian",
