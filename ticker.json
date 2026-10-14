@@ -1,160 +1,265 @@
 {
-  "updated": "2026-10-14T10:22:18.670Z",
-  "count": 71,
+  "updated": "2026-10-14T15:16:10.549Z",
+  "count": 63,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Turkish police raid opposition TV station, halting live broadcasts",
-      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 10:07:02 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 10:04:28 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
-      "link": "https://www.channelnewsasia.com/business/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-6458701",
-      "date": "Wed, 14 Oct 2026 18:02:36 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man sent explicit photos of wife and lover to family chat, but court declines to grant protection order",
-      "link": "https://www.channelnewsasia.com/singapore/man-explicit-photos-wife-lover-family-chat-protection-order-abuse-6458481",
-      "date": "Wed, 14 Oct 2026 17:58:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Super-Earths' might be better than our planet. But are they reachable?",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261014-super-earths-might-be-better-than-our-planet-but-are-they-reachable",
-      "date": "Wed, 14 Oct 2026 09:57:51 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
+      "link": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 15:06:18 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "How a radio glitch triggered a false hijack alert in Germany",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 09:53:54 +0000"
+      "text": "Manchester City vs PSG Live: Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/14/manchester-city-vs-psg-live-champions-league?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 15:00:00 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "A bear with a taste for honey: Winnie the Pooh turns 100",
-      "link": "https://www.france24.com/en/video/20261014-a-bear-with-a-taste-for-honey-winnie-the-pooh-turns-100",
-      "date": "Wed, 14 Oct 2026 09:48:57 GMT"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Painful Paradox of European Rearmament",
+      "link": "https://foreignpolicy.com/2026/10/14/europe-militarization-russia-paradox/",
+      "date": "Wed, 14 Oct 2026 14:58:19 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
-      "link": "https://www.france24.com/en/video/20261014-ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing",
-      "date": "Wed, 14 Oct 2026 09:45:57 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore keeping options open on haze prosecution against companies as it collects, reviews data: Grace Fu",
+      "link": "https://www.channelnewsasia.com/singapore/options-open-haze-prosecution-collects-reviews-data-grace-fu-6458601",
+      "date": "Wed, 14 Oct 2026 22:52:00 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
-      "link": "https://www.france24.com/en/video/20261014-spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclave",
-      "date": "Wed, 14 Oct 2026 09:43:39 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "No auto plants available in Italy for Chinese purchase, Italian minister says",
+      "link": "https://www.channelnewsasia.com/business/no-auto-plants-available-in-italy-chinese-purchase-italian-minister-says-6459761",
+      "date": "Wed, 14 Oct 2026 22:49:06 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine reports Russian attacks with no warnings, Trump says US still sharing intel",
-      "link": "https://www.france24.com/en/video/20261014-ukraine-reports-russian-attacks-with-no-warnings-trump-says-us-still-sharing-intel",
-      "date": "Wed, 14 Oct 2026 09:41:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French protests enter 4th week: Demonstrations backing students gather strength",
-      "link": "https://www.france24.com/en/video/20261014-french-protests-enter-4th-week-demonstrations-backing-students-gather-strength",
-      "date": "Wed, 14 Oct 2026 09:40:36 GMT"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "This Is Israel’s Haredi Election",
+      "link": "https://foreignpolicy.com/2026/10/14/israel-election-haredi-ultra-orthodox-religion-military-conscription/",
+      "date": "Wed, 14 Oct 2026 14:41:40 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Girl rescued from flaming apartment after Israeli attack on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 09:40:20 +0000"
+      "text": "Saudi national charged with planting a listening device at OpenAI offices",
+      "link": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:39:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "link": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:38:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spike in PM2.5 in Singapore catches people off guard, haze hits businesses and outdoor workers",
+      "link": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-businesses-outdoor-workers-poor-air-quality-6459106",
+      "date": "Wed, 14 Oct 2026 22:38:00 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
-      "link": "https://www.france24.com/en/video/20261014-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder",
-      "date": "Wed, 14 Oct 2026 09:39:35 GMT"
+      "text": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
+      "link": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy",
+      "date": "Wed, 14 Oct 2026 14:37:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What is potash, and why is the US importing it from Belarus?",
+      "link": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:36:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Palantir and London mayor&#039;s office settle lawsuit over UK police contract",
+      "link": "https://www.channelnewsasia.com/business/palantir-and-london-mayors-office-settle-lawsuit-over-uk-police-contract-6459671",
+      "date": "Wed, 14 Oct 2026 22:33:13 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "No need for knee-jerk reaction warns South Africa coach after test defeat",
+      "link": "https://www.channelnewsasia.com/sport/no-need-knee-jerk-reaction-warns-south-africa-coach-after-test-defeat-6459551",
+      "date": "Wed, 14 Oct 2026 22:25:04 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 14:18:18 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:08:45 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU Commission is in dialogue with Google, spokesperson says",
+      "link": "https://www.channelnewsasia.com/business/eu-commission-in-dialogue-google-spokesperson-says-6459441",
+      "date": "Wed, 14 Oct 2026 22:02:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mexico to require digital platforms to protect minors from violent, sexual content",
+      "link": "https://www.channelnewsasia.com/business/mexico-require-digital-platforms-protect-minors-violent-sexual-content-6459421",
+      "date": "Wed, 14 Oct 2026 22:02:20 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Trump fires Greece ambassador Guilfoyle over ethics scandal",
-      "link": "https://www.france24.com/en/video/20261014-trump-fires-greece-ambassador-guilfoyle-over-ethics-scandal",
-      "date": "Wed, 14 Oct 2026 09:35:51 GMT"
+      "text": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
+      "link": "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
+      "date": "Wed, 14 Oct 2026 14:00:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+      "link": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
+      "date": "Wed, 14 Oct 2026 13:58:45 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Ukrainian ex-officer stands trial in Germany over Nord Stream pipeline blasts",
+      "link": "https://www.rfi.fr/en/international/20261014-ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-pipeline-blasts",
+      "date": "Wed, 14 Oct 2026 13:58:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
+      "link": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
+      "date": "Wed, 14 Oct 2026 13:57:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cornell University bans fraternity parties after alleged gang rape",
+      "link": "https://www.france24.com/en/video/20261014-cornell-university-bans-fraternity-parties-after-alleged-gang-rape",
+      "date": "Wed, 14 Oct 2026 13:55:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "School closures persist in France as protests gain momentum",
+      "link": "https://www.france24.com/en/video/20261014-school-closures-persist-in-france-as-protests-gain-momentum",
+      "date": "Wed, 14 Oct 2026 13:53:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+      "link": "https://www.channelnewsasia.com/sport/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale-6459401",
+      "date": "Wed, 14 Oct 2026 21:52:34 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine asking US, SpaceX and NATO to clarify Starlink limitations",
+      "link": "https://www.france24.com/en/video/20261014-ukraine-asking-us-spacex-and-nato-to-clarify-starlink-limitations",
+      "date": "Wed, 14 Oct 2026 13:52:20 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yemen conflict escalates as Houthis say seized new strategic area",
+      "link": "https://www.france24.com/en/video/20261014-escalating-conflict-in-yemen-as-houthis-say-seized-new-strategic-area",
+      "date": "Wed, 14 Oct 2026 13:50:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Two scenarios for the Yemen war",
+      "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 13:50:28 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 09:32:54 GMT"
+      "date": "Wed, 14 Oct 2026 13:41:51 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fuel shortage triggers queues on resort island Bali",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-bali-fuel-shortage-supply-disruption-6458571",
-      "date": "Wed, 14 Oct 2026 17:24:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indonesia names over 200 people, nine firms as suspects over forest fires as transboundary haze worsens",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-individuals-companies-suspects-forest-fires-haze-6458531",
-      "date": "Wed, 14 Oct 2026 17:16:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Across the border, India’s ‘cockroach’ movement draws young Pakistani interest",
-      "link": "https://www.channelnewsasia.com/asia/pakistan-india-cockroach-protest-movement-youths-education-jobs-6458436",
-      "date": "Wed, 14 Oct 2026 17:15:36 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK media regulator says concerns persist over X&#039;s handling of illegal content",
-      "link": "https://www.channelnewsasia.com/business/uk-media-regulator-says-concerns-persist-over-xs-handling-illegal-content-6458561",
-      "date": "Wed, 14 Oct 2026 17:12:33 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US inflation rises more than expected - here's what is happening with prices",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 13:40:36 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "China’s exports surge amid AI-driven demand",
-      "link": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 09:05:17 +0000"
+      "text": "UK restaurateur claims losses after video calling for Gaza destruction",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 13:28:21 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Large dogs age more quickly than small dogs at a molecular level",
-      "link": "https://www.channelnewsasia.com/business/large-dogs-age-more-quickly-small-dogs-molecular-level-6458546",
-      "date": "Wed, 14 Oct 2026 17:03:55 +0800"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "date": "Wed, 14 Oct 2026 13:16:30 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "What we know about Pope Leo&#039;s lung cancer diagnosis",
-      "link": "https://www.channelnewsasia.com/world/pope-leo-lung-cancer-diagnosis-hospital-vatican-6457486",
-      "date": "Wed, 14 Oct 2026 17:03:00 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 13:11:17 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Children killed in arson attack named - as family calls for culprit to 'own up'",
+      "link": "https://news.sky.com/story/children-killed-in-waterford-arson-attack-named-as-family-calls-for-culprit-to-own-up-13599219",
+      "date": "Wed, 14 Oct 2026 12:58:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Ukrainian on trial in Germany over gas pipeline bombing",
+      "link": "https://news.sky.com/story/ukrainian-on-trial-in-germany-over-war-crime-bombing-of-nord-stream-pipeline-13599215",
+      "date": "Wed, 14 Oct 2026 12:47:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 11:17:51 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Turkish police raid opposition TV station, halting live broadcasts",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 10:50:11 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "More explosions heard in Saudi Arabia as pressure mounts on US to respond",
+      "link": "https://news.sky.com/story/more-explosions-heard-in-saudi-arabia-as-pressure-mounts-on-us-to-respond-13599168",
+      "date": "Wed, 14 Oct 2026 10:25:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -164,27 +269,6 @@
       "date": "Wed, 14 Oct 2026 09:00:29 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 08:53:40 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 08:51:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 08:51:27 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
@@ -192,32 +276,11 @@
       "date": "Wed, 14 Oct 2026 08:39:00 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How do Iranians move money abroad to avoid US sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 08:24:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says oil, gas and mineral exploration to begin in Greenland",
-      "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 08:08:42 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Pope has 'peaceful night' after lung cancer surgery, says Vatican",
       "link": "https://news.sky.com/story/pope-leo-has-peaceful-night-after-lung-cancer-surgery-says-vatican-13599141",
       "date": "Wed, 14 Oct 2026 08:58:00 +0100"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-      "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 07:57:45 +0000"
     },
     {
       "src": "Sky News",
@@ -250,9 +313,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 04:20:17 GMT"
+      "text": "World's oldest shipwreck found off coast of Turkey",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 05:00:35 GMT"
     },
     {
       "src": "Sky News",
@@ -292,20 +355,6 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Japanese journalist arrested in Russia on suspicion of spying",
-      "link": "https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988",
-      "date": "Tue, 13 Oct 2026 21:17:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 19:23:28 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Cancer found after Pope had part of his lung removed during 'successful' surgery",
       "link": "https://news.sky.com/story/popes-lung-surgery-was-successful-and-went-as-planned-vatican-says-13598965",
       "date": "Tue, 13 Oct 2026 19:13:00 +0100"
@@ -325,83 +374,6 @@
       "date": "Tue, 13 Oct 2026 15:55:56 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 15:52:15 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "800 million young people face a future without jobs",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168588",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168585",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Disasters cost $228 billion in housing losses every year",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Global action to end violence against children is lagging behind risks: UN expert",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168582",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How JFK Helped Pave the Way for Trump’s Crackdown on Dissent",
-      "link": "https://foreignpolicy.com/2026/10/13/trump-crackdown-dissent-history-jfk-william-worthy/",
-      "date": "Tue, 13 Oct 2026 11:00:02 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Formula One to return to Africa for first time in 30 years",
-      "link": "https://news.sky.com/story/formula-one-to-return-to-africa-as-rwanda-race-confirmed-for-early-2030s-13598765",
-      "date": "Tue, 13 Oct 2026 10:40:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Adult victims of arson attack which also killed two children are named",
-      "link": "https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691",
-      "date": "Tue, 13 Oct 2026 10:25:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU cautious over Trump’s ‘energy ceasefire’ as Russia continues Ukraine attacks",
@@ -409,25 +381,11 @@
       "date": "Tue, 13 Oct 2026 07:03:23 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
-      "link": "https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/",
-      "date": "Mon, 12 Oct 2026 13:09:36 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Nikol Pashinyan says Armenia’s relations with Russia ‘can no longer be the same’",
       "link": "https://www.rfi.fr/en/international/20261012-nikol-pashinyan-says-armenia-s-relations-with-russia-can-no-longer-be-the-same",
       "date": "Mon, 12 Oct 2026 12:22:40 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "General Assembly adopts pandemic declaration, but not by consensus",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168581",
-      "date": "Mon, 12 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -458,13 +416,6 @@
       "date": "Sat, 10 Oct 2026 15:06:41 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Exiled Ukrainian women prepare for life after war, with or without returning home",
-      "link": "https://www.rfi.fr/en/international/20261010-exiled-women-of-ukraine-prepare-for-life-after-war-with-or-without-returning-home",
-      "date": "Sat, 10 Oct 2026 12:25:31 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -491,13 +442,6 @@
       "text": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "date": "Fri, 09 Oct 2026 04:00:38 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "date": "Thu, 08 Oct 2026 20:20:31 GMT"
     }
   ]
 }
