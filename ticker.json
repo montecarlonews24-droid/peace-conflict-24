@@ -1,27 +1,216 @@
 {
-  "updated": "2026-10-13T21:22:33.948Z",
-  "count": 71,
+  "updated": "2026-10-14T00:24:27.747Z",
+  "count": 63,
   "items": [
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple&#039;s HomeView brings personalized Siri to smart home, takes on Amazon and Google",
-      "link": "https://www.channelnewsasia.com/business/apples-homeview-brings-personalized-siri-smart-home-takes-amazon-and-google-6457236",
-      "date": "Wed, 14 Oct 2026 05:17:21 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tupac Shakur killer sentenced to 40 years in prison",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 20:46:22 +0000"
-    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "date": "Wed, 14 Oct 2026 00:17:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore&#039;s economy grows 5.4% in Q3, down from 6.2% in previous quarter: Advance estimates",
+      "link": "https://www.channelnewsasia.com/singapore/gdp-forecast-q3-growth-meti-6455581",
+      "date": "Wed, 14 Oct 2026 08:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 23:42:57 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 23:42:22 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Thinking of you’, ‘stay strong’: Why words like these can fail when a loved one is going through the worst",
+      "link": "https://www.channelnewsasia.com/women/support-someone-cancer-grief-6423496",
+      "date": "Wed, 14 Oct 2026 07:36:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 23:31:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Isle of Wight fossil sheds light on enigmatic meat-eating dinosaurs",
+      "link": "https://www.channelnewsasia.com/business/isle-wight-fossil-sheds-light-enigmatic-meat-eating-dinosaurs-6457326",
+      "date": "Wed, 14 Oct 2026 07:07:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SoftBank junk bond sale raises stakes for CEO Son&#039;s all-in AI bet",
+      "link": "https://www.channelnewsasia.com/business/softbank-junk-bond-sale-raises-stakes-ceo-sons-all-in-ai-bet-6457321",
+      "date": "Wed, 14 Oct 2026 07:01:51 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Manchester United’s Martinez blasts board’s lack of investment",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:57:56 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:56:24 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Martinez slams Man Utd hierarchy after Atletico defeat",
+      "link": "https://www.channelnewsasia.com/sport/martinez-slams-man-utd-hierarchy-after-atletico-defeat-6457311",
+      "date": "Wed, 14 Oct 2026 06:44:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mauritius imposes curfew after night of unrest over police shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:41:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+      "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:33:50 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 22:29:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "GameStop CEO Cohen buys shares worth nearly $23 million",
+      "link": "https://www.channelnewsasia.com/business/gamestop-ceo-cohen-buys-shares-worth-nearly-23-million-6457296",
+      "date": "Wed, 14 Oct 2026 06:18:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man City vs PSG: Champions League – teams, predictions, line ups",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:17:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US trial begins for Rwandan-American accused of role in genocide",
+      "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 22:15:44 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK finance minister Healey to target online marketplaces in tax crackdown, The Times reports",
+      "link": "https://www.channelnewsasia.com/business/uk-finance-minister-healey-target-online-marketplaces-in-tax-crackdown-times-reports-6457271",
+      "date": "Wed, 14 Oct 2026 06:03:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘Modest take-up’: More than 90 families await childminders as pilot faces matching challenge",
+      "link": "https://www.channelnewsasia.com/singapore/childminding-nanny-baby-parents-caregiving-challenge-6456531",
+      "date": "Wed, 14 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
+      "link": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
+      "date": "Tue, 13 Oct 2026 21:59:44 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 21:59:39 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Limits of China’s Surveillance State",
+      "link": "https://foreignpolicy.com/2026/10/13/china-surveillance-state-covid-xinjiang-xi-jinping/",
+      "date": "Tue, 13 Oct 2026 21:50:59 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "India’s Growing Cockroach Problem",
+      "link": "https://foreignpolicy.com/2026/10/13/india-cockroach-movement-protests-arrests-jantar-mantar-modi/",
+      "date": "Tue, 13 Oct 2026 21:32:44 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "date": "Tue, 13 Oct 2026 21:29:08 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo has cancerous growth removed in lung operation",
+      "link": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation",
+      "date": "Tue, 13 Oct 2026 21:23:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "China is bringing car production to EU",
+      "link": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
+      "date": "Tue, 13 Oct 2026 21:23:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "date": "Tue, 13 Oct 2026 21:06:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+      "link": "https://www.france24.com/en/supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "date": "Tue, 13 Oct 2026 21:05:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Have Ukrainian strikes on Yandex data centres hit Russian online disinformation?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation",
+      "date": "Tue, 13 Oct 2026 20:59:32 GMT"
     },
     {
       "src": "France 24",
@@ -31,13 +220,6 @@
       "date": "Tue, 13 Oct 2026 20:44:58 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
-      "link": "https://www.channelnewsasia.com/world/tupac-murder-sentence-keffe-d-40-years-prison-6457156",
-      "date": "Wed, 14 Oct 2026 04:44:00 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Former gang leader sentenced to minimum 40 years for Tupac killing",
@@ -45,67 +227,11 @@
       "date": "Tue, 13 Oct 2026 20:33:25 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 20:33:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AT&T sells Mexico unit to Televisa, Fintech for $2 billion",
-      "link": "https://www.channelnewsasia.com/business/att-sells-mexico-unit-televisa-fintech-2-billion-6457171",
-      "date": "Wed, 14 Oct 2026 04:32:12 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump asks Greece ambassador to resign amid ethics scandal",
-      "link": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
-      "date": "Tue, 13 Oct 2026 20:29:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Kabila launches new coalition with M23",
-      "link": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
-      "date": "Tue, 13 Oct 2026 20:21:31 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French MPs pass sweeping bill to combat sexual and gender-based violence",
-      "link": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
-      "date": "Tue, 13 Oct 2026 20:03:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 20:02:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Saudi OpenAI engineer arrested by FBI over hidden recording device, US DOJ says",
-      "link": "https://www.channelnewsasia.com/business/saudi-openai-engineer-arrested-fbi-over-hidden-recording-device-us-doj-says-6457126",
-      "date": "Wed, 14 Oct 2026 04:02:08 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Scientists urge tighter AI controls to prevent global cyber risks",
-      "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 20:00:32 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-      "link": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
-      "date": "Tue, 13 Oct 2026 19:57:31 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Japanese journalist arrested in Russia on suspicion of spying",
+      "link": "https://news.sky.com/story/japanese-journalist-arrested-in-russia-on-suspicion-of-spying-13598988",
+      "date": "Tue, 13 Oct 2026 21:17:00 +0100"
     },
     {
       "src": "BBC World",
@@ -115,88 +241,11 @@
       "date": "Tue, 13 Oct 2026 19:51:14 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI could &#039;change the stakes&#039; on bioweapons: UK spy chief",
-      "link": "https://www.channelnewsasia.com/world/uk-mi5-spy-chief-ai-bioweapons-cyberattacks-6457066",
-      "date": "Wed, 14 Oct 2026 03:47:36 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 19:40:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-      "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 19:39:01 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's youth undergoing 'a crisis of hope'",
-      "link": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
-      "date": "Tue, 13 Oct 2026 19:33:56 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says Houthis trying to increase oil prices before US elections",
-      "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 19:33:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Will NATO’s ‘theory of victory’ work?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 19:32:16 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 19:24:50 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 13 Oct 2026 19:23:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-      "link": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
-      "date": "Tue, 13 Oct 2026 19:06:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AI limiting European workers&#039; bargaining power, ECB&#039;s Lane says",
-      "link": "https://www.channelnewsasia.com/business/ai-limiting-european-workers-bargaining-power-ecbs-lane-says-6457061",
-      "date": "Wed, 14 Oct 2026 02:35:42 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 18:25:28 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "date": "Tue, 13 Oct 2026 18:25:06 GMT"
     },
     {
       "src": "Sky News",
@@ -206,32 +255,11 @@
       "date": "Tue, 13 Oct 2026 19:13:00 +0100"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lawmakers ask FAA to pause use of new AI tool in DC-area flight management",
-      "link": "https://www.channelnewsasia.com/business/lawmakers-ask-faa-pause-use-new-ai-tool-in-dc-area-flight-management-6457021",
-      "date": "Wed, 14 Oct 2026 02:01:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New White House spokeswoman heavy on Trump praise, light on questions in debut",
-      "link": "https://www.channelnewsasia.com/world/white-house-press-secretary-zacharia-trump-6456881",
-      "date": "Wed, 14 Oct 2026 01:50:14 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
       "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
       "date": "Tue, 13 Oct 2026 17:42:03 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 17:10:50 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -246,48 +274,6 @@
       "text": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 13 Oct 2026 15:52:15 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "800 million young people face a future without jobs",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168588",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168585",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Disasters cost $228 billion in housing losses every year",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Global action to end violence against children is lagging behind risks: UN expert",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168582",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -323,13 +309,6 @@
       "text": "EU cautious over Trump’s ‘energy ceasefire’ as Russia continues Ukraine attacks",
       "link": "https://www.rfi.fr/en/international/20261013-eu-cautious-over-trump-s-energy-ceasefire-as-russia-continues-ukraine-attacks",
       "date": "Tue, 13 Oct 2026 07:03:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 05:02:34 GMT"
     },
     {
       "src": "Sky News",
@@ -374,27 +353,6 @@
       "date": "Mon, 12 Oct 2026 12:22:40 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "General Assembly adopts pandemic declaration, but not by consensus",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168581",
-      "date": "Mon, 12 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
-      "date": "Mon, 12 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Alleged Irish crime boss will 'vehemently defend' himself in court and apply for bail",
-      "link": "https://news.sky.com/story/daniel-kinahan-alleged-irish-crime-boss-will-vehemently-defend-himself-in-court-and-apply-for-bail-13598148",
-      "date": "Mon, 12 Oct 2026 12:34:00 +0100"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Can Brussels Budget Like a Superpower?",
@@ -407,13 +365,6 @@
       "text": "The Real Footprint of Trump’s Data Center Boom",
       "link": "https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/",
       "date": "Mon, 12 Oct 2026 10:00:29 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "From Xinjiang to the Front Lines of Syria",
-      "link": "https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/",
-      "date": "Mon, 12 Oct 2026 09:00:23 +0000"
     },
     {
       "src": "RFI",
@@ -463,13 +414,6 @@
       "text": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
       "date": "Fri, 09 Oct 2026 21:36:18 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Nobel Peace Prize Goes to Former ICC Judge",
-      "link": "https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/",
-      "date": "Fri, 09 Oct 2026 20:51:18 +0000"
     },
     {
       "src": "The Guardian",
