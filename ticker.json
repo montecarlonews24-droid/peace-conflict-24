@@ -1,97 +1,223 @@
 {
-  "updated": "2026-10-15T05:59:46.693Z",
-  "count": 71,
+  "updated": "2026-10-15T10:56:10.828Z",
+  "count": 70,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Batam blackout may have been caused by lightning, bat interference: Minister",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-batam-blackout-lightning-bat-disrupting-businesses-6461426",
-      "date": "Thu, 15 Oct 2026 13:50:52 +0800"
+      "text": "Saudi coalition says missile intercepted in Medina region",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-medina-missile-intercepted-houthi-6462156",
+      "date": "Thu, 15 Oct 2026 18:53:16 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-      "link": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-      "date": "Thu, 15 Oct 2026 05:49:13 GMT"
+      "text": "Kenya reports second Ebola case, family member of first patient",
+      "link": "https://www.france24.com/en/video/20261015-kenya-reports-second-ebola-case-family-member-of-first-patient",
+      "date": "Thu, 15 Oct 2026 10:39:48 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "PSG put on a show with win at Manchester City in Champions League thriller",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261015-psg-put-on-a-show-with-win-at-manchester-city-champions-league-thriller",
-      "date": "Thu, 15 Oct 2026 05:45:36 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AI boom puts growing strain on electricity grids, says Hitachi Energy CEO",
+      "link": "https://www.channelnewsasia.com/business/ai-boom-strain-electricity-grids-hitachi-energy-ceo-6461951",
+      "date": "Thu, 15 Oct 2026 18:37:53 +0800"
     },
     {
       "src": "RFI",
       "col": "#8b5cf6",
-      "text": "Ukraine’s Starlink disruptions expose US reliance as Europe has no ready alternative",
+      "text": "Belgian police raid Tshisekedi family properties in DRC mining investigation",
+      "link": "https://www.rfi.fr/en/international/20261015-belgian-police-raid-tshisekedi-family-properties-in-drc-mining-investigation",
+      "date": "Thu, 15 Oct 2026 10:32:45 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s Wipro beats second-quarter revenue expectations, deal bookings drop",
+      "link": "https://www.channelnewsasia.com/business/indias-wipro-beats-second-quarter-revenue-expectations-deal-bookings-drop-6462151",
+      "date": "Thu, 15 Oct 2026 18:26:33 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+      "link": "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile",
+      "date": "Thu, 15 Oct 2026 10:24:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Midtjylland game at Egnatia moved due to civil unrest in Tirana",
+      "link": "https://www.channelnewsasia.com/sport/midtjylland-game-egnatia-moved-due-civil-unrest-in-tirana-6462136",
+      "date": "Thu, 15 Oct 2026 18:22:47 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Dozens of children killed after roof collapses in Pakistani school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 10:21:43 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India retailers weigh impact of upcoming UPI transaction fees",
+      "link": "https://www.channelnewsasia.com/asia/upi-india-payment-charges-fees-digital-6462066",
+      "date": "Thu, 15 Oct 2026 18:20:10 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "A cultural stroll through Paris with photographer Nikos Aliagas and writer Jean-Paul Enthoven",
+      "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20261015-a-cultural-stroll-through-paris-with-photographer-nikos-aliagas-and-writer-jean-paul-enthoven",
+      "date": "Thu, 15 Oct 2026 10:16:34 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU leaders to clash over long-term budget, Ukraine support",
+      "link": "https://www.france24.com/en/video/20261015-eu-leaders-to-clash-over-long-term-budget-ukraine-support",
+      "date": "Thu, 15 Oct 2026 10:11:14 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU leaders head for showdown over bloc long-term budget",
+      "link": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget",
+      "date": "Thu, 15 Oct 2026 10:09:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
+      "link": "https://www.france24.com/en/video/20261015-musk-suggests-us-govt-behind-any-slowdown-in-ukraine-s-starshield-system",
+      "date": "Thu, 15 Oct 2026 10:08:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ex-inmate from Inside Maximum Security prison documentary gets jail after committing offences after release",
+      "link": "https://www.channelnewsasia.com/singapore/graceson-ang-inside-maximum-security-prison-jailed-6461646",
+      "date": "Thu, 15 Oct 2026 18:07:38 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Albanian students protest over education, jobs, clash with police",
+      "link": "https://www.france24.com/en/video/20261015-albanian-students-protest-over-education-jobs-clash-with-police",
+      "date": "Thu, 15 Oct 2026 10:06:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "China, North Korea open long-delayed border bridge",
+      "link": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
+      "date": "Thu, 15 Oct 2026 10:05:12 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AstraZeneca strikes $40 million AI drug discovery deal with insitro",
+      "link": "https://www.channelnewsasia.com/business/astrazeneca-strikes-40-million-ai-drug-discovery-deal-insitro-6462081",
+      "date": "Thu, 15 Oct 2026 18:03:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia says Ukraine resumes attacks on oil refineries",
+      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 10:02:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pan Pacific CEO upbeat on Southeast Asian tourism as regional travel demand rebounds",
+      "link": "https://www.channelnewsasia.com/business/pan-pacific-ceo-choe-peng-sum-tourism-rebound-southeast-asia-affluent-travellers-6461901",
+      "date": "Thu, 15 Oct 2026 18:01:30 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Long-delayed China-North Korea bridge officially opens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 10:00:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:35:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Could France trigger another Eurozone debt crisis?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:26:11 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The irony of OpenAI crying foul over spying",
+      "link": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:03:02 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The West Needs a Pax Biologica",
+      "link": "https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/",
+      "date": "Thu, 15 Oct 2026 09:00:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:44:58 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "White House defends new press secretary amid questions about her legal credentials",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 08:41:04 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+      "link": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:37:41 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "date": "Thu, 15 Oct 2026 08:00:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 07:20:45 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "School owner arrested after dozens of children killed in roof collapse",
+      "link": "https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466",
+      "date": "Thu, 15 Oct 2026 07:21:00 +0100"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Ukraine’s Starlink disruptions expose European reliance on US tech",
       "link": "https://www.rfi.fr/en/international/20261015-ukraine-s-starlink-disruptions-expose-us-reliance-as-europe-has-no-ready-alternative",
       "date": "Thu, 15 Oct 2026 05:38:27 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Restoring nature is key to a more resilient future",
-      "link": "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 05:24:40 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Proposed COE changes could reshape Singapore’s used car market, say dealers",
-      "link": "https://www.channelnewsasia.com/singapore/coe-premiums-second-hand-used-cars-resale-value-dealers-6461331",
-      "date": "Thu, 15 Oct 2026 13:24:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ericsson braces for component cost hit after third-quarter profit beat",
-      "link": "https://www.channelnewsasia.com/business/ericsson-braces-component-cost-hit-after-third-quarter-profit-beat-6461446",
-      "date": "Thu, 15 Oct 2026 13:20:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "TomTom to cut 200 jobs in reorganisation, targets €21 million in savings",
-      "link": "https://www.channelnewsasia.com/business/tomtom-cut-200-jobs-in-reorganisation-targets-eu21-million-in-savings-6461441",
-      "date": "Thu, 15 Oct 2026 13:13:27 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Figma CFO says design platform willing to put margins on the line to boost AI demand",
-      "link": "https://www.channelnewsasia.com/business/figma-cfo-says-design-platform-willing-put-margins-line-boost-ai-demand-6461406",
-      "date": "Thu, 15 Oct 2026 13:08:49 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Windies&#039; Hope worried about excess baggage after landing another Player of the Match award",
-      "link": "https://www.channelnewsasia.com/sport/windies-hope-worried-about-excess-baggage-after-landing-another-player-match-award-6461411",
-      "date": "Thu, 15 Oct 2026 13:05:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Remember Sogurt? The frozen yogurt chain is making a comeback after 8 years with new flavours",
-      "link": "https://www.channelnewsasia.com/dining/sogurt-frozen-yogurt-comeback-one-holland-village-6461161",
-      "date": "Thu, 15 Oct 2026 13:01:07 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hong Kong bus operators seek fare increases, citing increased fuel prices due to Middle East war",
-      "link": "https://www.channelnewsasia.com/east-asia/hong-kong-bus-fare-increases-middle-east-war-fuel-prices-6461241",
-      "date": "Thu, 15 Oct 2026 12:58:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel has detained more than 2,000 Palestinian children since 2023: report",
-      "link": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 04:43:15 +0000"
     },
     {
       "src": "BBC World",
@@ -101,27 +227,6 @@
       "date": "Thu, 15 Oct 2026 04:30:08 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 04:19:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Heavy rain causes mass pileup in Brazil tunnel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 04:19:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 04:15:55 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Trump’s Midterm Strategy Harks Back to 1970",
@@ -129,53 +234,11 @@
       "date": "Thu, 15 Oct 2026 04:01:54 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine live: Romania probes possible drone attack on tanker",
-      "link": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker",
-      "date": "Thu, 15 Oct 2026 03:52:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "link": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 03:50:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Albanian Ministry of Justice on fire as education protesters riot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 03:30:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-      "link": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 03:28:44 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
       "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 15 Oct 2026 03:26:36 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "North Korea tests two submarine-launched missiles, state media reports",
-      "link": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 03:23:49 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "White House defends new press secretary amid questions about her legal credentials",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 03:03:16 GMT"
     },
     {
       "src": "The Guardian",
@@ -192,32 +255,11 @@
       "date": "Thu, 15 Oct 2026 02:26:07 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
+      "src": "RFI",
+      "col": "#8b5cf6",
       "text": "EU leaders head into high-stakes budget battle as elections loom",
-      "link": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget",
-      "date": "Thu, 15 Oct 2026 01:59:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Thousands protest across Colombia against new right-wing president",
-      "link": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
-      "date": "Thu, 15 Oct 2026 01:57:26 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
-      "link": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
-      "date": "Wed, 14 Oct 2026 23:52:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-      "link": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
-      "date": "Wed, 14 Oct 2026 23:12:08 GMT"
+      "link": "https://www.rfi.fr/en/international/20261015-eu-leaders-head-for-showdown-over-bloc-budget",
+      "date": "Thu, 15 Oct 2026 01:59:33 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -227,16 +269,9 @@
       "date": "Wed, 14 Oct 2026 23:00:14 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Albania protests turn violent as protestors demand PM Rama's resignation",
-      "link": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
-      "date": "Wed, 14 Oct 2026 22:35:08 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+      "text": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 14 Oct 2026 22:19:13 GMT"
     },
@@ -297,13 +332,6 @@
       "date": "Wed, 14 Oct 2026 19:01:29 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why Hegseth Should Go",
-      "link": "https://foreignpolicy.com/2026/10/14/hegseth-impeachment-testosterone-execution-defense-war-trump/",
-      "date": "Wed, 14 Oct 2026 17:45:49 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Sally Rooney books withdrawn in UK over Palestine Action support",
@@ -334,7 +362,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Pope thanks wellwishers for prayers after cancer operation",
+      "text": "Pope thanks well-wishers for prayers after cancer operation",
       "link": "https://news.sky.com/story/pope-thanks-wellwishers-for-prayers-after-cancer-operation-13599253",
       "date": "Wed, 14 Oct 2026 14:26:00 +0100"
     },
@@ -416,13 +444,6 @@
       "date": "Wed, 14 Oct 2026 12:47:00 +0100"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "More explosions heard in Saudi Arabia as pressure mounts on US to respond",
-      "link": "https://news.sky.com/story/more-explosions-heard-in-saudi-arabia-as-pressure-mounts-on-us-to-respond-13599168",
-      "date": "Wed, 14 Oct 2026 10:25:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
@@ -444,13 +465,6 @@
       "date": "Wed, 14 Oct 2026 05:58:50 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "The US journalist who became Putin's political prisoner - with Evan Gershkovich",
-      "link": "https://news.sky.com/story/the-us-journalist-who-became-putins-political-prisoner-with-evan-gershkovich-13598924",
-      "date": "Wed, 14 Oct 2026 05:00:00 +0100"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Intense waves and floods batter California waterfront homes and boardwalks",
@@ -465,20 +479,6 @@
       "date": "Tue, 13 Oct 2026 07:03:23 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Nikol Pashinyan says Armenia’s relations with Russia ‘can no longer be the same’",
-      "link": "https://www.rfi.fr/en/international/20261012-nikol-pashinyan-says-armenia-s-relations-with-russia-can-no-longer-be-the-same",
-      "date": "Mon, 12 Oct 2026 12:22:40 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France urges Palestinians to reverse decision on delayed elections",
-      "link": "https://www.rfi.fr/en/international/20261011-france-urges-palestinians-to-reverse-decision-on-delayed-elections",
-      "date": "Sun, 11 Oct 2026 15:13:10 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -491,13 +491,6 @@
       "text": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
       "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "date": "Fri, 09 Oct 2026 16:30:09 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "date": "Fri, 09 Oct 2026 09:59:06 GMT"
     }
   ]
 }
