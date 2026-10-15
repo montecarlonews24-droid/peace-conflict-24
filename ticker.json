@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-14T22:45:57.571Z",
+  "updated": "2026-10-15T01:01:56.375Z",
   "count": 71,
   "items": [
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+      "link": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 00:24:03 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains very unhealthy in west",
+      "link": "https://www.channelnewsasia.com/singapore/haze-pm25-elevated-psi-very-unhealthy-6460876",
+      "date": "Thu, 15 Oct 2026 08:10:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mexican court closes case against official over 2023 detention centre fire",
+      "link": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 00:08:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US destroys dhow suspected of Iranian command and control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 23:58:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New World expects to issue $189 million of new notes after early debt exchange results",
+      "link": "https://www.channelnewsasia.com/business/new-world-expects-issue-189-million-new-notes-after-early-debt-exchange-results-6460896",
+      "date": "Thu, 15 Oct 2026 07:53:03 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
+      "link": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
+      "date": "Wed, 14 Oct 2026 23:52:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "This Singaporean shoemaker moved to Kyoto to make barefoot shoes by hand",
+      "link": "https://www.channelnewsasia.com/style-beauty/singaporean-shoemaker-kyoto-handmade-shoes-6414651",
+      "date": "Thu, 15 Oct 2026 07:20:12 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+      "link": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
+      "date": "Wed, 14 Oct 2026 23:12:08 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 23:03:10 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Algeria Sets Its Sights on the Sahel",
+      "link": "https://foreignpolicy.com/2026/10/14/algeria-sahel-african-politics-security/",
+      "date": "Wed, 14 Oct 2026 23:00:14 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "ICE rejects recommendation for body cameras that automatically record",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 22:57:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Martinez stands by Man Utd criticism after Atletico defeat",
+      "link": "https://www.channelnewsasia.com/sport/martinez-stands-man-utd-criticism-after-atletico-defeat-6460816",
+      "date": "Thu, 15 Oct 2026 06:46:44 +0800"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
@@ -45,34 +136,6 @@
       "date": "Thu, 15 Oct 2026 06:24:32 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "As luxury fashion loses its shine, Uniqlo and Zara are winning over shoppers",
-      "link": "https://www.channelnewsasia.com/obsessions/luxury-fashion-price-hikes-uniqlo-zara-6457601",
-      "date": "Thu, 15 Oct 2026 06:22:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports",
-      "link": "https://www.channelnewsasia.com/business/anthropic-revenue-jumps-168-billion-in-third-quarter-ft-reports-6460761",
-      "date": "Thu, 15 Oct 2026 06:14:23 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "They lost loved ones in Nepal’s flood but found a way through grief to help others",
-      "link": "https://www.channelnewsasia.com/cna-insider/insider/nepal-flood-wake-china-himalayas-natural-disaster-loss-resilience-6459271",
-      "date": "Thu, 15 Oct 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "‘Livelihood is my right’: Delhi businesses count cost of protests, police restrictions",
-      "link": "https://www.channelnewsasia.com/asia/livelihood-my-right-delhi-businesses-count-cost-protests-police-restrictions-6458911",
-      "date": "Thu, 15 Oct 2026 06:00:00 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Now We’re Seeing the Extent of American Decay",
@@ -99,13 +162,6 @@
       "text": "PSG beat Man City 4-2 in Champions League thriller",
       "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 21:35:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 21:35:27 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -145,16 +201,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "text": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 14 Oct 2026 20:55:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "West Indies beat India to level T20 series as Hope continues record run",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:52:25 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -162,34 +211,6 @@
       "text": "Environmentalists Are Wrong to Oppose the Senate’s Permitting Deal",
       "link": "https://foreignpolicy.com/2026/10/14/united-states-environmentalists-senate-clean-energy-fossil-fuels/",
       "date": "Wed, 14 Oct 2026 20:51:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli quadcopter drone drops bomb in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:47:46 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:42:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Sky turns orange as wildfires rage across Indonesia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:39:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "World’s oldest shipwreck found off coast of Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:33:20 +0000"
     },
     {
       "src": "France 24",
@@ -201,16 +222,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Student protesters attack government buildings in Tirana",
+      "text": "Student protesters attack government buildings in Albania",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 14 Oct 2026 20:29:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "What is Starshield, SpaceX's military version of Starlink?",
-      "link": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
-      "date": "Wed, 14 Oct 2026 20:15:58 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -218,13 +232,6 @@
       "text": "Modi’s Crackdown Is a Strategic Error",
       "link": "https://foreignpolicy.com/2026/10/14/india-protests-delhi-crackdown-modi-voter-rolls/",
       "date": "Wed, 14 Oct 2026 19:59:56 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
-      "link": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
-      "date": "Wed, 14 Oct 2026 19:56:42 GMT"
     },
     {
       "src": "RFI",
@@ -288,13 +295,6 @@
       "text": "Pope walking and recovering 'as expected' after surgery, doctors say",
       "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Wed, 14 Oct 2026 15:12:46 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Painful Paradox of European Rearmament",
-      "link": "https://foreignpolicy.com/2026/10/14/europe-militarization-russia-paradox/",
-      "date": "Wed, 14 Oct 2026 14:58:19 +0000"
     },
     {
       "src": "Sky News",
