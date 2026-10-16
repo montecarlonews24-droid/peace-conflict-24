@@ -1,139 +1,244 @@
 {
-  "updated": "2026-10-16T09:58:03.393Z",
-  "count": 72,
+  "updated": "2026-10-16T14:28:17.024Z",
+  "count": 64,
   "items": [
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Dad fined after son, 2, died in Cyprus hotel fall",
       "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 09:52:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore to send haze prevention notices to 7 companies in Indonesia responsible for fires",
-      "link": "https://www.channelnewsasia.com/singapore/haze-indonesia-companies-fire-grace-fu-6465556",
-      "date": "Fri, 16 Oct 2026 17:50:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mental health practitioners call for lower or no parental consent age as more youths seek help",
-      "link": "https://www.channelnewsasia.com/singapore/mental-health-practitioners-call-lower-parental-consent-age-more-youths-seek-help-6465381",
-      "date": "Fri, 16 Oct 2026 17:48:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
-      "link": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-press-conference-6465216",
-      "date": "Fri, 16 Oct 2026 17:44:51 +0800"
+      "date": "Fri, 16 Oct 2026 14:21:32 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "text": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 14:19:50 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 14:12:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "For fishermen, Britain&#039;s climate-driven octopus boom is an opportunity, and a threat",
+      "link": "https://www.channelnewsasia.com/business/fishermen-britains-climate-driven-octopus-boom-opportunity-and-threat-6466406",
+      "date": "Fri, 16 Oct 2026 22:02:31 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 14:02:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 14:01:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+      "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:56:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ethiopia announces instalment of interim government in Tigray",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:54:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:52:48 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Great Eastern Women’s Run cancelled due to worsening haze",
+      "link": "https://www.channelnewsasia.com/singapore/great-eastern-womens-run-cancelled-haze-air-quality-6466311",
+      "date": "Fri, 16 Oct 2026 21:50:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US&#039;s AI task force sets path for study and reviews, leader tells CNBC",
+      "link": "https://www.channelnewsasia.com/business/uss-ai-task-force-sets-path-study-and-reviews-leader-tells-cnbc-6466351",
+      "date": "Fri, 16 Oct 2026 21:47:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Martinez available for Leeds trip after Man United criticism, Carrick says",
+      "link": "https://www.channelnewsasia.com/sport/martinez-available-leeds-trip-after-man-united-criticism-carrick-says-6466341",
+      "date": "Fri, 16 Oct 2026 21:42:38 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South African rugby player found dead in French hotel ahead of Champions Cup debut",
+      "link": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+      "date": "Fri, 16 Oct 2026 13:40:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Central bankers eye higher rates as AI boom fuels scramble for cash",
+      "link": "https://www.channelnewsasia.com/business/central-bankers-eye-higher-rates-ai-boom-fuels-scramble-cash-6466336",
+      "date": "Fri, 16 Oct 2026 21:33:47 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "No relief in sight – what&#039;s driving pricier taxi and ride-hailing fares",
+      "link": "https://www.channelnewsasia.com/cna-insider/big-read/ride-hailing-taxi-private-hire-point-point-fares-rising-6461896",
+      "date": "Fri, 16 Oct 2026 21:30:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "After separation and divorce, we kept raising our children under one roof. Here&#039;s what it&#039;s been like",
+      "link": "https://www.channelnewsasia.com/cna-insider/voices/co-parenting-children-after-divorce-living-together-6455721",
+      "date": "Fri, 16 Oct 2026 21:30:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+      "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:26:47 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky says Ukraine has right to defend itself after Trump criticism",
       "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 09:34:30 GMT"
+      "date": "Fri, 16 Oct 2026 13:25:48 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Preschools to remain open even if schools close when haze hits hazardous level: Desmond Lee",
-      "link": "https://www.channelnewsasia.com/singapore/haze-o-level-exam-schools-close-preschools-open-6465126",
-      "date": "Fri, 16 Oct 2026 17:33:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How books are being scanned and destroyed to train artificial intelligence",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence",
-      "date": "Fri, 16 Oct 2026 09:31:56 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Haze may reach hazardous levels, says Grace Fu, as mask vending machines to be fully deployed by Friday night",
-      "link": "https://www.channelnewsasia.com/singapore/haze-hazardous-air-quality-masks-grace-fu-6465121",
-      "date": "Fri, 16 Oct 2026 17:31:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China&#039;s central bank to further open up Chinese financial markets to foreigners",
-      "link": "https://www.channelnewsasia.com/business/china-central-bank-open-up-financial-markets-foreigners-6465451",
-      "date": "Fri, 16 Oct 2026 17:30:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Shooter kills teacher, three children at Oregon elementary school",
-      "link": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
-      "date": "Fri, 16 Oct 2026 09:27:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US considers hitting Iran with 'Mother of All Bombs'",
-      "link": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
-      "date": "Fri, 16 Oct 2026 09:27:05 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-      "link": "https://www.channelnewsasia.com/business/stablecoin-issuer-circle-push-40-new-markets-ceo-says-6465526",
-      "date": "Fri, 16 Oct 2026 17:26:05 +0800"
+      "text": "NBA-Knicks chase back-to-back banner in NBA built to stop dynasties",
+      "link": "https://www.channelnewsasia.com/sport/nba-knicks-chase-back-back-banner-in-nba-built-stop-dynasties-6466271",
+      "date": "Fri, 16 Oct 2026 21:17:16 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "China-North Korea border bridge may do little to spur trade, experts say",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 09:21:40 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zelensky rallies European allies as Trump ties slump",
-      "link": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump",
-      "date": "Fri, 16 Oct 2026 09:21:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "EU leaders face budget divisions, discuss Ukraine at Brussels summit",
-      "link": "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit",
-      "date": "Fri, 16 Oct 2026 09:20:46 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "AWS, Microsoft can do more to address cloud services barriers, UK competition watchdog says",
-      "link": "https://www.channelnewsasia.com/business/aws-microsoft-can-do-more-address-cloud-services-barriers-uk-competition-watchdog-says-6465506",
-      "date": "Fri, 16 Oct 2026 17:19:32 +0800"
+      "text": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:13:12 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 09:17:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indian police launch New Delhi clampdown for Cockroach Party rally",
-      "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 09:17:47 +0000"
+      "text": "India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 13:09:56 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France to witness a 'crossroads of anger' as mass protests expected on Saturday",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261016-france-to-witness-a-crossroads-of-anger-as-mass-protests-expected-on-saturday",
-      "date": "Fri, 16 Oct 2026 08:53:57 GMT"
+      "text": "Ethiopia announces interim government in Tigray, aims for polls in six months",
+      "link": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
+      "date": "Fri, 16 Oct 2026 13:05:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo XIV celebrates mass in hospital while recovering from lung cancer operation",
+      "link": "https://www.france24.com/en/europe/20261016-pope-leo-xiv-celebrates-mass-in-hospital-while-recovering-from-lung-cancer-operation",
+      "date": "Fri, 16 Oct 2026 12:57:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'America, with this president, is not our ally. Trump is a liar': French MEP Bernard Guetta",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
+      "date": "Fri, 16 Oct 2026 12:55:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms",
+      "link": "https://www.france24.com/en/tv-shows/reporters/20261016-thanks-a-lot-trump-wyoming-conservatives-divided-ahead-us-midterms",
+      "date": "Fri, 16 Oct 2026 12:48:00 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Albanian protests turn violent: What we know",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 12:26:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member",
+      "date": "Fri, 16 Oct 2026 12:04:22 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Uruguay Bucks Regional Migration Trend",
+      "link": "https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/",
+      "date": "Fri, 16 Oct 2026 12:00:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Follow live: 'Ukraine is dependent on Starlink', Zelensky says in Brussels",
+      "link": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
+      "date": "Fri, 16 Oct 2026 11:46:07 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Drugs fuelling 'horrific' events seen in Waterford, says Irish justice minister",
+      "link": "https://news.sky.com/story/drugs-fuelling-horrific-events-seen-in-waterford-says-irish-justice-minister-13599933",
+      "date": "Fri, 16 Oct 2026 12:26:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Madeleine McCann prime suspect could face new rape trial",
+      "link": "https://news.sky.com/story/christian-b-madeleine-mccann-prime-suspect-could-face-new-rape-trial-as-prosecutors-fight-to-overturn-acquittal-13599922",
+      "date": "Fri, 16 Oct 2026 12:03:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Spring-summer 2027 ready-to-wear collections: Africa in the spotlight at Paris Fashion Week",
+      "link": "https://www.france24.com/en/tv-shows/fashion/20261016-spring-summer-2027-ready-to-wear-collections-africa-in-the-spotlight-at-paris-fashion-week",
+      "date": "Fri, 16 Oct 2026 10:58:23 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
+      "link": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
+      "date": "Fri, 16 Oct 2026 10:00:02 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Nicolas Maduro and wife deny new torture charges as 'false accusations'",
+      "link": "https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-deny-new-torture-charges-as-false-accusations-13599870",
+      "date": "Fri, 16 Oct 2026 10:00:00 +0100"
     },
     {
       "src": "BBC World",
@@ -141,27 +246,6 @@
       "text": "China tells Israel to stop 'forced establishment' of West Bank settlements",
       "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 16 Oct 2026 08:45:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 08:36:54 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "No, this oil tanker didn’t carry Russian diesel to the United States",
-      "link": "https://www.france24.com/en/americas/20261016-oil-tanker-carry-russian-diesel-united-states",
-      "date": "Fri, 16 Oct 2026 08:36:46 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-      "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 08:36:13 +0000"
     },
     {
       "src": "BBC World",
@@ -178,34 +262,6 @@
       "date": "Fri, 16 Oct 2026 09:14:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Students join Yellow Vest protest: Greater collective strength versus risk of losing distinct voice",
-      "link": "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands",
-      "date": "Fri, 16 Oct 2026 07:41:39 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Tesla unveils car that can drive upside down and jump through the air",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 07:10:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Israel’s elections will affect Palestinians",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 07:04:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
-      "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 06:41:15 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -220,25 +276,11 @@
       "date": "Fri, 16 Oct 2026 04:27:46 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 03:45:09 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Children aged 5, 8 and 11 killed in US school shooting",
       "link": "https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795",
       "date": "Fri, 16 Oct 2026 00:09:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -260,13 +302,6 @@
       "text": "Can Ukraine Afford Its Own Defense?",
       "link": "https://foreignpolicy.com/2026/10/15/ukraine-budget-gap-shortfall-defense-reform-corruption-eu-europe/",
       "date": "Thu, 15 Oct 2026 19:17:10 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Neanderthals capable of both violence and care, bones from Iraqi cave suggest",
-      "link": "https://news.sky.com/story/neanderthals-capable-of-both-violence-and-care-bones-from-iraqi-cave-suggest-13599736",
-      "date": "Thu, 15 Oct 2026 19:25:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -304,13 +339,6 @@
       "date": "Thu, 15 Oct 2026 15:38:09 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 15:26:16 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
@@ -332,62 +360,6 @@
       "date": "Thu, 15 Oct 2026 13:00:05 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan faces record hunger levels amid rampant rights violations",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168605",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "WHO urges vigilance after Kenya confirms second Ebola case",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168602",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168599",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
-      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Zelensky rallies European allies after defying Trump over Russia strikes",
@@ -395,32 +367,11 @@
       "date": "Thu, 15 Oct 2026 11:47:37 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Three dead as heavy rainfall and floods hit Istanbul",
-      "link": "https://news.sky.com/story/three-dead-and-2700-evacuated-as-heavy-rainfall-and-floods-shut-down-istanbul-13599536",
-      "date": "Thu, 15 Oct 2026 11:46:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Belgian police raid Tshisekedi family properties in DRC mining investigation",
       "link": "https://www.rfi.fr/en/international/20261015-belgian-police-raid-tshisekedi-family-properties-in-drc-mining-investigation",
       "date": "Thu, 15 Oct 2026 10:32:45 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Eerie orange smog shrouds Indonesian cities",
-      "link": "https://news.sky.com/story/eerie-orange-smog-shrouds-indonesian-cities-13599502",
-      "date": "Thu, 15 Oct 2026 10:06:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The West Needs a Pax Biologica",
-      "link": "https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/",
-      "date": "Thu, 15 Oct 2026 09:00:31 +0000"
     },
     {
       "src": "The Guardian",
@@ -442,13 +393,6 @@
       "text": "Ukraine’s Starlink disruptions expose European reliance on US tech",
       "link": "https://www.rfi.fr/en/international/20261015-ukraine-s-starlink-disruptions-expose-us-reliance-as-europe-has-no-ready-alternative",
       "date": "Thu, 15 Oct 2026 05:38:27 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-      "link": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-      "date": "Thu, 15 Oct 2026 02:45:42 GMT"
     },
     {
       "src": "RFI",
