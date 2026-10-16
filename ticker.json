@@ -1,34 +1,216 @@
 {
-  "updated": "2026-10-16T05:13:28.324Z",
-  "count": 63,
+  "updated": "2026-10-16T09:58:03.393Z",
+  "count": 72,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 09:52:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore to send haze prevention notices to 7 companies in Indonesia responsible for fires",
+      "link": "https://www.channelnewsasia.com/singapore/haze-indonesia-companies-fire-grace-fu-6465556",
+      "date": "Fri, 16 Oct 2026 17:50:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mental health practitioners call for lower or no parental consent age as more youths seek help",
+      "link": "https://www.channelnewsasia.com/singapore/mental-health-practitioners-call-lower-parental-consent-age-more-youths-seek-help-6465381",
+      "date": "Fri, 16 Oct 2026 17:48:04 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
+      "link": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-press-conference-6465216",
+      "date": "Fri, 16 Oct 2026 17:44:51 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 09:34:30 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Preschools to remain open even if schools close when haze hits hazardous level: Desmond Lee",
+      "link": "https://www.channelnewsasia.com/singapore/haze-o-level-exam-schools-close-preschools-open-6465126",
+      "date": "Fri, 16 Oct 2026 17:33:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How books are being scanned and destroyed to train artificial intelligence",
+      "link": "https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence",
+      "date": "Fri, 16 Oct 2026 09:31:56 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haze may reach hazardous levels, says Grace Fu, as mask vending machines to be fully deployed by Friday night",
+      "link": "https://www.channelnewsasia.com/singapore/haze-hazardous-air-quality-masks-grace-fu-6465121",
+      "date": "Fri, 16 Oct 2026 17:31:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China&#039;s central bank to further open up Chinese financial markets to foreigners",
+      "link": "https://www.channelnewsasia.com/business/china-central-bank-open-up-financial-markets-foreigners-6465451",
+      "date": "Fri, 16 Oct 2026 17:30:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Shooter kills teacher, three children at Oregon elementary school",
+      "link": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
+      "date": "Fri, 16 Oct 2026 09:27:58 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US considers hitting Iran with 'Mother of All Bombs'",
+      "link": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
+      "date": "Fri, 16 Oct 2026 09:27:05 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
+      "link": "https://www.channelnewsasia.com/business/stablecoin-issuer-circle-push-40-new-markets-ceo-says-6465526",
+      "date": "Fri, 16 Oct 2026 17:26:05 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "China-North Korea border bridge may do little to spur trade, experts say",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 09:21:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky rallies European allies as Trump ties slump",
+      "link": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump",
+      "date": "Fri, 16 Oct 2026 09:21:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "EU leaders face budget divisions, discuss Ukraine at Brussels summit",
+      "link": "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit",
+      "date": "Fri, 16 Oct 2026 09:20:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AWS, Microsoft can do more to address cloud services barriers, UK competition watchdog says",
+      "link": "https://www.channelnewsasia.com/business/aws-microsoft-can-do-more-address-cloud-services-barriers-uk-competition-watchdog-says-6465506",
+      "date": "Fri, 16 Oct 2026 17:19:32 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 09:17:50 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indian police launch New Delhi clampdown for Cockroach Party rally",
+      "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 09:17:47 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France to witness a 'crossroads of anger' as mass protests expected on Saturday",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20261016-france-to-witness-a-crossroads-of-anger-as-mass-protests-expected-on-saturday",
+      "date": "Fri, 16 Oct 2026 08:53:57 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 08:45:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 08:36:54 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "No, this oil tanker didn’t carry Russian diesel to the United States",
+      "link": "https://www.france24.com/en/americas/20261016-oil-tanker-carry-russian-diesel-united-states",
+      "date": "Fri, 16 Oct 2026 08:36:46 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
+      "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 08:36:13 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 08:27:16 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "British man fined for causing death of his two-year-old son in Cyprus",
+      "link": "https://news.sky.com/story/british-father-fined-for-causing-death-of-his-two-year-old-son-in-cyprus-13599857",
+      "date": "Fri, 16 Oct 2026 09:14:00 +0100"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Students join Yellow Vest protest: Greater collective strength versus risk of losing distinct voice",
+      "link": "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands",
+      "date": "Fri, 16 Oct 2026 07:41:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tesla unveils car that can drive upside down and jump through the air",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 07:10:42 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Israel’s elections will affect Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 07:04:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+      "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 06:41:15 +0000"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 16 Oct 2026 05:00:17 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Four killed fighting wildfires in Indonesian national park",
-      "link": "https://www.channelnewsasia.com/asia/four-killed-fighting-wildfires-in-indonesian-national-park-6465026",
-      "date": "Fri, 16 Oct 2026 12:59:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Saudi organisers say 2027 Asian Cup preparations remain on schedule",
-      "link": "https://www.channelnewsasia.com/sport/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-6465036",
-      "date": "Fri, 16 Oct 2026 12:55:50 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Infantino apologises amid calls for him to quit as FIFA president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 04:45:24 +0000"
     },
     {
       "src": "RFI",
@@ -38,151 +220,18 @@
       "date": "Fri, 16 Oct 2026 04:27:46 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NTU student creates website that estimates how many cigarettes’ worth of haze you&#039;ve breathed in",
-      "link": "https://www.channelnewsasia.com/living/singapore-haze-tracker-ntu-student-6464691",
-      "date": "Fri, 16 Oct 2026 12:26:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore-listed First Resources points to El Nino, says haze-linked fires were outside its operations",
-      "link": "https://www.channelnewsasia.com/singapore/haze-el-nino-first-resources-indonesia-6464761",
-      "date": "Fri, 16 Oct 2026 12:13:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Malaysia&#039;s economy grows 5.3% year-on-year in Q3: Advance estimate",
-      "link": "https://www.channelnewsasia.com/business/malaysia-economy-growth-q3-official-advance-estimate-6464966",
-      "date": "Fri, 16 Oct 2026 12:06:00 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Three children and teacher killed in US primary school shooting",
+      "text": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 16 Oct 2026 03:45:09 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indonesian stocks dive 11% as MSCI weighs market reclassification",
-      "link": "https://www.channelnewsasia.com/business/indonesia-stocks-msci-weigh-market-reclassification-6464081",
-      "date": "Fri, 16 Oct 2026 11:43:30 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China says can &#039;easily win&#039; confrontation with Philippines",
-      "link": "https://www.channelnewsasia.com/east-asia/china-easily-win-confrontation-philippines-6464791",
-      "date": "Fri, 16 Oct 2026 11:28:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Kiss confident Nawaqanitawase will return to the Wallabies fold",
-      "link": "https://www.channelnewsasia.com/sport/kiss-confident-nawaqanitawase-will-return-wallabies-fold-6464861",
-      "date": "Fri, 16 Oct 2026 11:17:25 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-      "link": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 02:56:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Residents douse workers with flaming gasoline during eviction in Peru",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 02:35:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Argentine students protest on campus over Milei’s austerity",
-      "link": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 02:11:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Peshawar mourns children killed in school roof collapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 02:01:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Progressives, AIPAC and the future of the Democratic Party",
-      "link": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 02:01:15 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
-      "link": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
-      "date": "Fri, 16 Oct 2026 01:50:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 01:36:45 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
-      "link": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 01:34:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Clashes erupt at protest over university funding law in Argentina",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 01:19:25 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Four dead, including three children, in Oregon school shooting",
-      "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-      "date": "Fri, 16 Oct 2026 00:57:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "19 injured as minibus crashes into train at Channel Tunnel entrance",
-      "link": "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance",
-      "date": "Fri, 16 Oct 2026 00:53:16 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France and Germany agree to ease EU car emissions rules in new deal",
-      "link": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
-      "date": "Thu, 15 Oct 2026 23:48:57 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Teenager kills three children and teacher at US primary school",
+      "text": "Children aged 5, 8 and 11 killed in US school shooting",
       "link": "https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795",
       "date": "Fri, 16 Oct 2026 00:09:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Zelensky rallies European allies as US support for Ukraine wanes",
-      "link": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
-      "date": "Thu, 15 Oct 2026 23:06:00 GMT"
     },
     {
       "src": "BBC World",
@@ -192,32 +241,11 @@
       "date": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Teen shooter kills three children and teacher at Oregon elementary school",
-      "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-      "date": "Thu, 15 Oct 2026 21:58:33 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "A Tale of Two Elon Musk Fights",
       "link": "https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/",
       "date": "Thu, 15 Oct 2026 21:46:09 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "date": "Thu, 15 Oct 2026 21:15:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "link": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "date": "Thu, 15 Oct 2026 21:07:06 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -248,13 +276,6 @@
       "date": "Thu, 15 Oct 2026 17:47:38 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 17:47:22 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "19 injured after Channel Tunnel collision between bus and train",
@@ -262,25 +283,18 @@
       "date": "Thu, 15 Oct 2026 18:19:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Maduro pleads not guilty to new torture-related charges in New York",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 16:52:44 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 16:50:18 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
       "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
       "date": "Thu, 15 Oct 2026 16:38:32 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Infantino offers apology but 'no answers' at Fifa meeting over World Cup plan",
+      "link": "https://www.rfi.fr/en/international/20261015-infantino-offers-apology-but-no-answers-at-fifa-meeting-over-world-cup-plan",
+      "date": "Thu, 15 Oct 2026 15:57:31 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -316,6 +330,69 @@
       "text": "The Radioactive Ore That Could Break China’s Grip on Rare Earths",
       "link": "https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/",
       "date": "Thu, 15 Oct 2026 13:00:05 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan faces record hunger levels amid rampant rights violations",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "WHO urges vigilance after Kenya confirms second Ebola case",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Zelensky rallies European allies after defying Trump over Russia strikes",
+      "link": "https://www.rfi.fr/en/international/20261015-zelensky-rallies-european-allies-as-trump-ties-slump",
+      "date": "Thu, 15 Oct 2026 11:47:37 GMT"
     },
     {
       "src": "Sky News",
@@ -402,25 +479,11 @@
       "date": "Wed, 14 Oct 2026 16:27:51 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Ukrainian ex-officer stands trial in Germany over Nord Stream pipeline blasts",
-      "link": "https://www.rfi.fr/en/international/20261014-ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-pipeline-blasts",
-      "date": "Wed, 14 Oct 2026 13:58:22 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
       "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
       "date": "Wed, 14 Oct 2026 13:16:30 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France warns citizens to avoid Riyadh, Jeddah and Dammam amid Houthi attacks",
-      "link": "https://www.rfi.fr/en/international/20261014-france-warns-citizens-to-avoid-riyadh-jeddah-and-dammam-amid-houthi-attacks",
-      "date": "Wed, 14 Oct 2026 05:58:50 GMT"
     },
     {
       "src": "Sky News",
