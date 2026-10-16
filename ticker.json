@@ -1,7 +1,238 @@
 {
-  "updated": "2026-10-16T14:28:17.024Z",
-  "count": 64,
+  "updated": "2026-10-16T18:15:09.885Z",
+  "count": 72,
   "items": [
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Empty Classrooms of ‘American Hagwon’",
+      "link": "https://foreignpolicy.com/2026/10/16/american-hagwon-book-review-min-jin-lee-south-korea-us-education/",
+      "date": "Fri, 16 Oct 2026 18:00:14 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Analysis:Why CoreWeave is in the crosshairs of the AI scare",
+      "link": "https://www.channelnewsasia.com/business/analysiswhy-coreweave-in-crosshairs-ai-scare-6467006",
+      "date": "Sat, 17 Oct 2026 01:50:41 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US records 4,410 measles cases as outbreak grows",
+      "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 17:40:18 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Indian police detain &#039;cockroach&#039; founder, student leaders ahead of Delhi rally",
+      "link": "https://www.channelnewsasia.com/world/indian-police-detain-cockroach-founder-student-leaders-ahead-delhi-rally-6466986",
+      "date": "Sat, 17 Oct 2026 01:31:20 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 17:28:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 17:05:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+      "link": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 17:03:52 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:54:49 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CoreWeave&#039;s CEO sold nearly $1 billion of stock since IPO, filings show",
+      "link": "https://www.channelnewsasia.com/business/coreweaves-ceo-sold-nearly-1-billion-stock-ipo-filings-show-6466916",
+      "date": "Sat, 17 Oct 2026 00:48:44 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "date": "Fri, 16 Oct 2026 16:47:35 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s president condemns environmental impact of war in Middle East",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:45:03 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
+      "link": "https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
+      "date": "Fri, 16 Oct 2026 16:42:50 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
+      "link": "https://www.channelnewsasia.com/sport/pant-awaits-fitness-clearance-bumrah-returns-new-zealand-tests-6466901",
+      "date": "Sat, 17 Oct 2026 00:36:48 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:35:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:34:26 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
+      "link": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
+      "date": "Fri, 16 Oct 2026 16:26:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Argentine demonstration over education cuts ends in clashes",
+      "link": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
+      "date": "Fri, 16 Oct 2026 16:25:39 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Russian drones kill three in Ukraine, cut power to over a million",
+      "link": "https://www.channelnewsasia.com/world/russia-ukraine-drone-attack-power-blackout-three-killed-6466786",
+      "date": "Sat, 17 Oct 2026 00:12:44 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Europe Can Flag Ships to Keep the Black Sea Open",
+      "link": "https://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/",
+      "date": "Fri, 16 Oct 2026 16:08:30 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
+      "link": "https://www.channelnewsasia.com/business/judge-rejects-cftc-gemini-bid-vacate-5-million-settlement-6466846",
+      "date": "Sat, 17 Oct 2026 00:07:27 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Real Madrid demand resignation of LaLiga chief after Nazi propaganda comparison",
+      "link": "https://www.channelnewsasia.com/sport/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-6466851",
+      "date": "Sat, 17 Oct 2026 00:06:45 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 16:00:30 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 15:59:30 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cost-of-living demonstrations to grip pre-election France",
+      "link": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
+      "date": "Fri, 16 Oct 2026 15:55:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "India detains top 'cockroach' leader as hundreds protest in capital",
+      "link": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
+      "date": "Fri, 16 Oct 2026 15:53:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Analysis:SpaceX&#039;s spectrum deal still leaves it far from rivaling telecom giants",
+      "link": "https://www.channelnewsasia.com/business/analysisspacexs-spectrum-deal-still-leaves-it-far-rivaling-telecom-giants-6466791",
+      "date": "Fri, 16 Oct 2026 23:43:03 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
+      "link": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
+      "date": "Fri, 16 Oct 2026 15:40:54 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France braces for massive protests: Yellow Vests to join students on Saturday",
+      "link": "https://www.france24.com/en/video/20261016-france-braces-for-massive-protests-yellow-vests-to-join-students-on-saturday",
+      "date": "Fri, 16 Oct 2026 15:38:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Italy prolongs Schengen suspension with Spain, talks loom",
+      "link": "https://www.france24.com/en/video/20261016-italy-prolongs-schengen-suspension-with-spain-talks-loom",
+      "date": "Fri, 16 Oct 2026 15:37:05 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
+      "link": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
+      "date": "Fri, 16 Oct 2026 15:36:16 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "France and Germany strike deal to boost Europe's struggling car industry",
+      "link": "https://www.rfi.fr/en/international/20261016-france-and-germany-strike-deal-to-boost-europe-s-struggling-car-industry",
+      "date": "Fri, 16 Oct 2026 14:38:29 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pope pictured for first time since surgery and cancer diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 14:36:39 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 14:31:04 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
@@ -17,179 +248,11 @@
       "date": "Fri, 16 Oct 2026 14:19:50 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 14:12:13 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "For fishermen, Britain&#039;s climate-driven octopus boom is an opportunity, and a threat",
-      "link": "https://www.channelnewsasia.com/business/fishermen-britains-climate-driven-octopus-boom-opportunity-and-threat-6466406",
-      "date": "Fri, 16 Oct 2026 22:02:31 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 14:02:24 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 14:01:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Russia help ease tensions between Pakistan and Afghanistan?",
-      "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:56:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ethiopia announces instalment of interim government in Tigray",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:54:06 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:52:48 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Great Eastern Women’s Run cancelled due to worsening haze",
-      "link": "https://www.channelnewsasia.com/singapore/great-eastern-womens-run-cancelled-haze-air-quality-6466311",
-      "date": "Fri, 16 Oct 2026 21:50:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US&#039;s AI task force sets path for study and reviews, leader tells CNBC",
-      "link": "https://www.channelnewsasia.com/business/uss-ai-task-force-sets-path-study-and-reviews-leader-tells-cnbc-6466351",
-      "date": "Fri, 16 Oct 2026 21:47:46 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Martinez available for Leeds trip after Man United criticism, Carrick says",
-      "link": "https://www.channelnewsasia.com/sport/martinez-available-leeds-trip-after-man-united-criticism-carrick-says-6466341",
-      "date": "Fri, 16 Oct 2026 21:42:38 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South African rugby player found dead in French hotel ahead of Champions Cup debut",
-      "link": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
-      "date": "Fri, 16 Oct 2026 13:40:05 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Central bankers eye higher rates as AI boom fuels scramble for cash",
-      "link": "https://www.channelnewsasia.com/business/central-bankers-eye-higher-rates-ai-boom-fuels-scramble-cash-6466336",
-      "date": "Fri, 16 Oct 2026 21:33:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "No relief in sight – what&#039;s driving pricier taxi and ride-hailing fares",
-      "link": "https://www.channelnewsasia.com/cna-insider/big-read/ride-hailing-taxi-private-hire-point-point-fares-rising-6461896",
-      "date": "Fri, 16 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "After separation and divorce, we kept raising our children under one roof. Here&#039;s what it&#039;s been like",
-      "link": "https://www.channelnewsasia.com/cna-insider/voices/co-parenting-children-after-divorce-living-together-6455721",
-      "date": "Fri, 16 Oct 2026 21:30:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-      "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:26:47 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky says Ukraine has right to defend itself after Trump criticism",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 13:25:48 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NBA-Knicks chase back-to-back banner in NBA built to stop dynasties",
-      "link": "https://www.channelnewsasia.com/sport/nba-knicks-chase-back-back-banner-in-nba-built-stop-dynasties-6466271",
-      "date": "Fri, 16 Oct 2026 21:17:16 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:13:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:09:56 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ethiopia announces interim government in Tigray, aims for polls in six months",
-      "link": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
-      "date": "Fri, 16 Oct 2026 13:05:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo XIV celebrates mass in hospital while recovering from lung cancer operation",
-      "link": "https://www.france24.com/en/europe/20261016-pope-leo-xiv-celebrates-mass-in-hospital-while-recovering-from-lung-cancer-operation",
-      "date": "Fri, 16 Oct 2026 12:57:23 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'America, with this president, is not our ally. Trump is a liar': French MEP Bernard Guetta",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
-      "date": "Fri, 16 Oct 2026 12:55:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Thanks a lot, Trump': Wyoming conservatives divided ahead of US midterms",
-      "link": "https://www.france24.com/en/tv-shows/reporters/20261016-thanks-a-lot-trump-wyoming-conservatives-divided-ahead-us-midterms",
-      "date": "Fri, 16 Oct 2026 12:48:00 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Albanian protests turn violent: What we know",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 12:26:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member",
-      "date": "Fri, 16 Oct 2026 12:04:22 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "What the Pope said to Putin in call days after lung cancer surgery",
+      "link": "https://news.sky.com/story/pope-leo-pictured-for-first-time-since-cancer-surgery-as-he-holds-mass-from-hospital-13599944",
+      "date": "Fri, 16 Oct 2026 13:22:00 +0100"
     },
     {
       "src": "Foreign Policy",
@@ -199,11 +262,46 @@
       "date": "Fri, 16 Oct 2026 12:00:27 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴Follow live: 'Ukraine is dependent on Starlink', Zelensky says in Brussels",
-      "link": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
-      "date": "Fri, 16 Oct 2026 11:46:07 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "WHO scales up Ebola readiness in 22 countries across three continents",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres urges faster action and financing to stop biodiversity loss",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "India's 'cockroach' party founder detained ahead of protest",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 11:44:31 GMT"
     },
     {
       "src": "Sky News",
@@ -220,13 +318,6 @@
       "date": "Fri, 16 Oct 2026 12:03:00 +0100"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spring-summer 2027 ready-to-wear collections: Africa in the spotlight at Paris Fashion Week",
-      "link": "https://www.france24.com/en/tv-shows/fashion/20261016-spring-summer-2027-ready-to-wear-collections-africa-in-the-spotlight-at-paris-fashion-week",
-      "date": "Fri, 16 Oct 2026 10:58:23 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
@@ -239,20 +330,6 @@
       "text": "Nicolas Maduro and wife deny new torture charges as 'false accusations'",
       "link": "https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-deny-new-torture-charges-as-false-accusations-13599870",
       "date": "Fri, 16 Oct 2026 10:00:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 08:45:54 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 08:27:16 GMT"
     },
     {
       "src": "Sky News",
@@ -332,32 +409,25 @@
       "date": "Thu, 15 Oct 2026 15:57:31 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Algeria’s New Bid for Regional Influence",
-      "link": "https://foreignpolicy.com/2026/10/15/algeria-foreign-policy-uae-break-united-states-western-sahara-dispute-morocco-tebboune/",
-      "date": "Thu, 15 Oct 2026 15:38:09 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
-      "date": "Thu, 15 Oct 2026 15:00:23 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why Spain Is Standing Up to Trump",
-      "link": "https://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/",
-      "date": "Thu, 15 Oct 2026 14:52:42 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Radioactive Ore That Could Break China’s Grip on Rare Earths",
-      "link": "https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/",
-      "date": "Thu, 15 Oct 2026 13:00:05 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+      "date": "Thu, 15 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -379,13 +449,6 @@
       "text": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
       "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "date": "Thu, 15 Oct 2026 08:00:25 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "School owner arrested after dozens of children killed in roof collapse",
-      "link": "https://news.sky.com/story/at-least-34-children-killed-in-pakistan-school-collapse-13599466",
-      "date": "Thu, 15 Oct 2026 07:21:00 +0100"
     },
     {
       "src": "RFI",
@@ -414,13 +477,6 @@
       "text": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
       "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
       "date": "Wed, 14 Oct 2026 19:01:29 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Nobel Prize winner Navi Pillay: 'You don't wait for a million people to be killed'",
-      "link": "https://www.rfi.fr/en/international/20261014-nobel-prize-winner-navi-pillay-you-don-t-wait-for-a-million-people-to-be-killed",
-      "date": "Wed, 14 Oct 2026 16:27:51 GMT"
     },
     {
       "src": "The Guardian",
