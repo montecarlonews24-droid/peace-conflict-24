@@ -1,20 +1,167 @@
 {
-  "updated": "2026-10-18T11:50:01.384Z",
-  "count": 70,
+  "updated": "2026-10-18T14:59:18.469Z",
+  "count": 63,
   "items": [
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
+      "link": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+      "date": "Sun, 18 Oct 2026 15:50:00 +0100"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Davidovich Fokina overcomes Jodar to claim Shanghai Masters crown",
-      "link": "https://www.channelnewsasia.com/sport/davidovich-fokina-overcomes-jodar-claim-shanghai-masters-crown-6469551",
-      "date": "Sun, 18 Oct 2026 19:35:00 +0800"
+      "text": "Ukraine sets Saint Petersburg refinery ablaze in large-scale drone attack",
+      "link": "https://www.channelnewsasia.com/world/ukraine-russia-saint-petersburg-strike-6469746",
+      "date": "Sun, 18 Oct 2026 22:48:23 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "link": "https://www.channelnewsasia.com/world/egypt-support-saudi-arabia-houthis-6468391",
+      "date": "Sun, 18 Oct 2026 22:31:15 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
-      "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 11:24:43 +0000"
+      "text": "France protests live: Macron to address nation after protests",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 14:26:11 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Trump now encouraging mail-in voting?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 14:09:16 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Like we had a war': France left reeling after nationwide violent protests",
+      "link": "https://www.france24.com/en/france/20261018-like-we-had-a-war-france-left-reeling-after-nationwide-violent-protests",
+      "date": "Sun, 18 Oct 2026 13:50:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why have France’s school protests become a wider political crisis?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:48:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudan army accused of drone strike on livestock market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:37:03 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: Escalating protests across Europe and the tragic capsize of a migrant boat",
+      "link": "https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat",
+      "date": "Sun, 18 Oct 2026 13:36:27 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Like we had a war': France counts cost of violent protests",
+      "link": "https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests",
+      "date": "Sun, 18 Oct 2026 13:17:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Was ancient India the world’s forgotten superpower?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:17:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza families fear food shortages as Israel halts commercial shipments",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:16:13 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France protests: \"There's a whole range of grievances at play\"",
+      "link": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play",
+      "date": "Sun, 18 Oct 2026 13:16:08 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Paris left reeling as student-led protests turn chaotic",
+      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:08:06 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Live: Trump says 'France is burning', blames 'immigration' for nationwide protests",
+      "link": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "date": "Sun, 18 Oct 2026 12:57:24 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 12:49:57 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 12:16:14 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Samsung to use TSMC technology for Nvidia&#039;s next-generation memory chips, Seoul newspaper reports",
+      "link": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
+      "date": "Sun, 18 Oct 2026 20:08:28 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 12:07:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
+      "link": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
+      "date": "Sun, 18 Oct 2026 12:03:23 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 11:57:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paris protests: A look at the aftermath",
+      "link": "https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath",
+      "date": "Sun, 18 Oct 2026 11:51:33 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Davidovich Fokina overcomes Jodar to claim Shanghai crown",
+      "link": "https://www.channelnewsasia.com/sport/davidovich-fokina-overcomes-jodar-claim-shanghai-crown-6469551",
+      "date": "Sun, 18 Oct 2026 19:35:00 +0800"
     },
     {
       "src": "CNA",
@@ -31,81 +178,11 @@
       "date": "Sun, 18 Oct 2026 11:15:04 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Out-of-control truck kills 13 at Hindu festival in India",
-      "link": "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india",
-      "date": "Sun, 18 Oct 2026 11:14:44 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
-      "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 11:11:26 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Riots in Tirana enter a fifth day as Albania's anti-government protests escalate",
-      "link": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
-      "date": "Sun, 18 Oct 2026 11:06:39 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 10:53:54 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
-      "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:48:18 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian karate champion Maryam Bsharat wins second world title",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:47:59 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:34:09 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia’s war in Ukraine puts Europe on edge",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:33:36 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-      "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:30:00 +0000"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Accenture looks to sell Chinese operations for up to $1.5 billion, FT reports",
       "link": "https://www.channelnewsasia.com/business/accenture-looks-sell-chinese-operations-up-15-billion-ft-reports-6469506",
       "date": "Sun, 18 Oct 2026 18:24:24 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 10:23:38 +0000"
     },
     {
       "src": "CNA",
@@ -117,58 +194,16 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Pope pledges gradual return to duties in first event since cancer surgery",
+      "text": "Pope makes public appearance a day after discharge from hospital following cancer surgery",
       "link": "https://news.sky.com/story/pope-makes-public-appearance-a-day-after-being-discharged-from-hospital-following-lung-cancer-surgery-13598963",
       "date": "Sun, 18 Oct 2026 10:53:00 +0100"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "&#039;Record&#039; 855 people arrested over Paris protest violence",
+      "text": "&#039;Like we had a war&#039;: France counts cost of violent protests",
       "link": "https://www.channelnewsasia.com/world/france-paris-protest-violence-people-arrested-police-6469426",
       "date": "Sun, 18 Oct 2026 17:45:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australia&#039;s Smith says head blow left him anxious in first test concussion scare",
-      "link": "https://www.channelnewsasia.com/sport/australias-smith-says-head-blow-left-him-anxious-in-first-test-concussion-scare-6469461",
-      "date": "Sun, 18 Oct 2026 17:27:40 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan to launch historic round-trip mission to Mars moon",
-      "link": "https://www.channelnewsasia.com/east-asia/japan-launch-historic-round-trip-mission-mars-moon-6469436",
-      "date": "Sun, 18 Oct 2026 17:20:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Haze disrupts daily routines, hits businesses in Singapore&#039;s west as PSI reaches very unhealthy level",
-      "link": "https://www.channelnewsasia.com/singapore/haze-western-region-daily-routines-psi-businesses-6469406",
-      "date": "Sun, 18 Oct 2026 17:17:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Protests \"brought the entire population together for a common purpose\"",
-      "link": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
-      "date": "Sun, 18 Oct 2026 09:05:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Who took part in Saturday's protests?",
-      "link": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
-      "date": "Sun, 18 Oct 2026 09:03:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Who was behind the violence at Saturday's protests?",
-      "link": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
-      "date": "Sun, 18 Oct 2026 09:01:22 GMT"
     },
     {
       "src": "The Guardian",
@@ -176,27 +211,6 @@
       "text": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
       "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
       "date": "Sun, 18 Oct 2026 09:00:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France protests: Did the government make the wrong decisions?",
-      "link": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-      "date": "Sun, 18 Oct 2026 09:00:22 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 08:52:41 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "PSG back on top of Ligue 1 after stunning Strasbourg comeback",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
-      "date": "Sun, 18 Oct 2026 08:48:15 GMT"
     },
     {
       "src": "The Guardian",
@@ -236,20 +250,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 23:52:38 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 22:09:50 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Anti-government protesters battle with police in Albania",
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 17 Oct 2026 20:53:00 GMT"
@@ -271,7 +271,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Israeli settlers attack European diplomats and French mayor in West Bank, Belgium says",
+      "text": "US condemns 'despicable' Israeli settler attack that seriously injured American photographer",
       "link": "https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419",
       "date": "Sat, 17 Oct 2026 18:38:00 +0100"
     },
@@ -281,20 +281,6 @@
       "text": "Man and woman charged with assault and criminal damage after fatal house fire",
       "link": "https://news.sky.com/story/man-and-woman-charged-with-assault-and-criminal-damage-after-fatal-house-fire-13600228",
       "date": "Sat, 17 Oct 2026 14:52:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "COP17: The world has a plan to save nature. Is it working?",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-      "date": "Sat, 17 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "date": "Sat, 17 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -316,6 +302,13 @@
       "text": "UK advises against all but essential travel to Saudi Arabia",
       "link": "https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096",
       "date": "Sat, 17 Oct 2026 11:21:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 09:58:17 GMT"
     },
     {
       "src": "Sky News",
@@ -393,48 +386,6 @@
       "text": "France and Germany strike deal to boost Europe's struggling car industry",
       "link": "https://www.rfi.fr/en/international/20261016-france-and-germany-strike-deal-to-boost-europe-s-struggling-car-industry",
       "date": "Fri, 16 Oct 2026 14:38:29 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "As disasters mount, next UN climate summit faces a test of trust",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168617",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "WHO scales up Ebola readiness in 22 countries across three continents",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Guterres urges faster action and financing to stop biodiversity loss",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
-      "date": "Fri, 16 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
