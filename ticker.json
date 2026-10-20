@@ -1,62 +1,244 @@
 {
-  "updated": "2026-10-20T14:00:37.810Z",
-  "count": 64,
+  "updated": "2026-10-20T18:33:15.641Z",
+  "count": 72,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Midterms: Trump seizes on unrest in France for political gain",
-      "link": "https://www.france24.com/en/video/20261020-midterms-trump-seizes-on-unrest-in-france-for-political-gain",
-      "date": "Tue, 20 Oct 2026 13:54:13 GMT"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU pushes for stronger Arctic presence amid Russian pressure and US uncertainty",
+      "link": "https://www.rfi.fr/en/international/20261020-eu-pushes-for-stronger-arctic-presence-amid-russian-pressure-and-us-uncertainty",
+      "date": "Tue, 20 Oct 2026 18:15:44 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How Ukraine Is Navigating Trump’s Latest U-Turn",
+      "link": "https://foreignpolicy.com/2026/10/20/ukraine-russia-talks-trump-starshield/",
+      "date": "Tue, 20 Oct 2026 18:13:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX investors, ahead of results, press Musk on Tesla merger",
+      "link": "https://www.channelnewsasia.com/business/spacex-investors-ahead-results-press-musk-tesla-merger-6476556",
+      "date": "Wed, 21 Oct 2026 02:13:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thigh injury ends Swiatek&#039;s season and WTA Finals bid",
+      "link": "https://www.channelnewsasia.com/sport/thigh-injury-ends-swiateks-season-and-wta-finals-bid-6475066",
+      "date": "Wed, 21 Oct 2026 02:12:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "EU unveils new Arctic strategy in face of US, Russia threats",
+      "link": "https://www.channelnewsasia.com/world/eu-unveils-new-arctic-strategy-in-face-us-russia-threats-6476331",
+      "date": "Wed, 21 Oct 2026 02:08:42 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NBA finalizing Europe league club deals, Tatum says",
+      "link": "https://www.channelnewsasia.com/sport/nba-finalizing-europe-league-club-deals-tatum-says-6476546",
+      "date": "Wed, 21 Oct 2026 02:04:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "CDC reports third measles death in the United States this year",
+      "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:58:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "German regulator fines Nomura over Commerzbank disclosure breaches",
+      "link": "https://www.channelnewsasia.com/business/german-regulator-fines-nomura-over-commerzbank-disclosure-breaches-6476471",
+      "date": "Wed, 21 Oct 2026 01:53:44 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meta tells Brazil court it treats Lula and Bolsonaro campaigns equally",
+      "link": "https://www.channelnewsasia.com/business/meta-tells-brazil-court-it-treats-lula-and-bolsonaro-campaigns-equally-6476426",
+      "date": "Wed, 21 Oct 2026 01:32:12 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meta&#039;s global affairs officer Joel Kaplan to leave company after 15 years",
+      "link": "https://www.channelnewsasia.com/business/metas-global-affairs-officer-joel-kaplan-leave-company-after-15-years-6476431",
+      "date": "Wed, 21 Oct 2026 01:31:41 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:31:26 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 13:51:40 GMT"
+      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 17:30:15 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:22:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How does language affect how we think?",
+      "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:09:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 16:59:55 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 16:59:06 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ben-Gvir mocks Gaza destruction in AI-generated video",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 16:51:02 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Alberta rejects move toward independence from Canada",
-      "link": "https://www.france24.com/en/video/20261020-alberta-rejects-move-toward-independence-from-canada",
-      "date": "Tue, 20 Oct 2026 13:51:33 GMT"
+      "text": "How French police are harnessing social media to identify looters",
+      "link": "https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters",
+      "date": "Tue, 20 Oct 2026 16:50:49 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 16:34:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 16:33:43 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+      "link": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+      "date": "Tue, 20 Oct 2026 16:24:47 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "date": "Tue, 20 Oct 2026 16:24:05 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "date": "Tue, 20 Oct 2026 16:11:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Local curfews imposed after protests",
+      "link": "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests",
+      "date": "Tue, 20 Oct 2026 16:09:44 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 15:58:57 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Genetic study shows seafarers from Easter Island settled Hawaii",
-      "link": "https://www.channelnewsasia.com/business/genetic-study-shows-seafarers-easter-island-settled-hawaii-6475911",
-      "date": "Tue, 20 Oct 2026 21:50:24 +0800"
+      "text": "AI startup ASI valued at $3 billion in latest funding round",
+      "link": "https://www.channelnewsasia.com/business/ai-startup-asi-valued-3-billion-in-latest-funding-round-6476266",
+      "date": "Tue, 20 Oct 2026 23:53:26 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Macron secures 200,000 tonnes of extra diesel per month from UAE, Bahrain",
-      "link": "https://www.france24.com/en/video/20261020-macron-secures-200-000-tonnes-of-extra-diesel-per-month-from-uae-bahrain",
-      "date": "Tue, 20 Oct 2026 13:49:14 GMT"
+      "text": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
+      "link": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1",
+      "date": "Tue, 20 Oct 2026 15:52:47 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "date": "Tue, 20 Oct 2026 15:41:44 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "France unrest: Public reacts to PM’s announcement of new targeted curfews",
-      "link": "https://www.france24.com/en/video/20261020-france-unrest-public-reacts-to-pm-s-announcement-of-new-targeted-curfews",
-      "date": "Tue, 20 Oct 2026 13:47:20 GMT"
+      "text": "US midterm elections: Trump approval rating falls to new low",
+      "link": "https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low",
+      "date": "Tue, 20 Oct 2026 15:22:29 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Norwegian explorer Erling Kagge: 'The Arctic is heating up in every way'",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261020-norwegian-explorer-erling-kagge-the-arctic-is-heating-up-in-every-way",
-      "date": "Tue, 20 Oct 2026 13:45:36 GMT"
+      "text": "From fine wine to no alcohol: The changing world of French sommeliers",
+      "link": "https://www.france24.com/en/tv-shows/france-in-focus/20261020-from-fine-wine-to-no-alcohol-the-changing-world-of-french-sommeliers",
+      "date": "Tue, 20 Oct 2026 14:54:22 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MOH releases N95 mask stockpile to retailers amid increased demand",
-      "link": "https://www.channelnewsasia.com/singapore/moh-n95-stockpile-cold-storage-sheng-siong-6475771",
-      "date": "Tue, 20 Oct 2026 21:43:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French PM vows 'massive' police deployment for new demonstrations Saturday",
+      "link": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
+      "date": "Tue, 20 Oct 2026 14:54:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "October 17 riots in France: Who's responsible?",
+      "link": "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible",
+      "date": "Tue, 20 Oct 2026 14:41:07 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What if No One Wins the Israeli Election?",
+      "link": "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/",
+      "date": "Tue, 20 Oct 2026 14:30:16 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Macron secures extra fuel for France from UAE and Bahrain during Gulf tour",
+      "link": "https://www.rfi.fr/en/international/20261020-macron-secures-extra-fuel-for-france-from-uae-and-bahrain-during-gulf-tour",
+      "date": "Tue, 20 Oct 2026 14:06:45 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -66,46 +248,11 @@
       "date": "Tue, 20 Oct 2026 13:40:57 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 French PM vows 'massive' police operation for new protests on Saturday",
-      "link": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-      "date": "Tue, 20 Oct 2026 13:38:02 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Google Cloud services largely back up in UK",
-      "link": "https://www.channelnewsasia.com/business/google-cloud-services-largely-back-up-in-uk-6475891",
-      "date": "Tue, 20 Oct 2026 21:37:16 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France's sociopolitical & economic crises: 'Large portion of population sympathizes' with protestors",
-      "link": "https://www.france24.com/en/video/20261020-france-s-sociopolitical-economic-crises-large-portion-of-population-sympathizes-with-protestors",
-      "date": "Tue, 20 Oct 2026 13:32:09 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Suspect arrested in France after fire at historic city hall",
       "link": "https://news.sky.com/story/suspect-arrested-in-france-after-fire-at-limoges-city-hall-13601372",
       "date": "Tue, 20 Oct 2026 14:31:00 +0100"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Six years on, France remembers slain teacher Samuel Paty",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261020-six-years-on-france-remembers-slain-teacher-samuel-paty",
-      "date": "Tue, 20 Oct 2026 13:28:07 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Indonesians protest over land-clearing fires",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 13:23:44 +0000"
     },
     {
       "src": "BBC World",
@@ -115,90 +262,6 @@
       "date": "Tue, 20 Oct 2026 13:23:32 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 13:20:33 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-      "link": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 13:00:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli attacks kill at least four Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:59:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
-      "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:58:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go",
-      "link": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:54:56 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Waymo to launch autonomous ride-hailing in Madrid next year",
-      "link": "https://www.channelnewsasia.com/business/waymo-launch-autonomous-ride-hailing-in-madrid-next-year-6475706",
-      "date": "Tue, 20 Oct 2026 20:50:33 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Suspect arrested after historic town hall set alight - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 12:45:43 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Indonesian firm APP says green label restrictions are not a suspension, no timeline for them to be lifted",
-      "link": "https://www.channelnewsasia.com/singapore/asia-pulp-paper-green-label-environment-council-6475346",
-      "date": "Tue, 20 Oct 2026 20:44:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-      "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:37:06 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ronaldo let Man United down, says club&#039;s former boss Ten Hag",
-      "link": "https://www.channelnewsasia.com/sport/ronaldo-let-man-united-down-says-clubs-former-boss-ten-hag-6475631",
-      "date": "Tue, 20 Oct 2026 20:36:25 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran denies collapse is close as US claims IRGC running out of money",
-      "link": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:29:58 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-      "link": "https://www.channelnewsasia.com/business/salesforce-deepens-ai-bets-566-billion-braze-deal-6475576",
-      "date": "Tue, 20 Oct 2026 20:09:15 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
@@ -206,18 +269,11 @@
       "date": "Tue, 20 Oct 2026 12:08:06 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MOM issues new guidelines for employers to adjust outdoor work based on hourly PM2.5 readings",
-      "link": "https://www.channelnewsasia.com/singapore/mom-guidelines-pm25-outdoor-work-6475416",
-      "date": "Tue, 20 Oct 2026 20:06:00 +0800"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
-      "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
-      "date": "Tue, 20 Oct 2026 12:00:36 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Yemen war continues to force families from homes amid hunger and disease",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+      "date": "Tue, 20 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -251,7 +307,7 @@
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Conciliator",
-      "link": "https://foreignpolicy.com/2026/10/20/the-conciliator/",
+      "link": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
       "date": "Tue, 20 Oct 2026 10:00:21 +0000"
     },
     {
@@ -260,20 +316,6 @@
       "text": "Albanians set fire to government buildings and clash with riot police in latest protests",
       "link": "https://news.sky.com/story/albanians-set-fire-to-government-buildings-and-clash-with-riot-police-in-latest-protests-13601275",
       "date": "Tue, 20 Oct 2026 10:47:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Australian MP hit by vehicle has leg amputated - as suspect's father says she is family friend",
-      "link": "https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264",
-      "date": "Tue, 20 Oct 2026 10:11:00 +0100"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Alberta voters reject plan for referendum to leave Canada",
-      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "date": "Tue, 20 Oct 2026 09:02:43 GMT"
     },
     {
       "src": "RFI",
@@ -302,13 +344,6 @@
       "text": "Trump's approval rating hits new record low as US midterms loom",
       "link": "https://news.sky.com/story/trumps-approval-rating-hits-new-record-low-as-us-midterms-loom-13601177",
       "date": "Tue, 20 Oct 2026 05:01:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 03:10:39 GMT"
     },
     {
       "src": "The Guardian",
@@ -360,25 +395,11 @@
       "date": "Mon, 19 Oct 2026 15:27:05 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Europe Is Finally Getting Tough on China. Now Comes the Hard Part.",
-      "link": "https://foreignpolicy.com/2026/10/19/europe-china-france-germany-trade-economy/",
-      "date": "Mon, 19 Oct 2026 15:13:51 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Drone attack near market kills 80 in Sudan",
       "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
       "date": "Mon, 19 Oct 2026 14:45:53 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Can Push Past Israeli-Palestinian Paralysis",
-      "link": "https://foreignpolicy.com/2026/10/19/trump-israel-palestine-gaza-west-bank-peace-elections/",
-      "date": "Mon, 19 Oct 2026 14:18:19 +0000"
     },
     {
       "src": "The Guardian",
@@ -388,11 +409,60 @@
       "date": "Mon, 19 Oct 2026 14:11:08 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-      "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
-      "date": "Mon, 19 Oct 2026 10:07:09 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UEFA writes to FIFA demanding answers on Trump-Infantino dealings",
+      "link": "https://news.sky.com/story/uefa-writes-to-fifa-demanding-answers-on-trump-infantino-dealings-13601000",
+      "date": "Mon, 19 Oct 2026 15:05:00 +0100"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza: Funding cuts leave half a million without food assistance",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -435,20 +505,6 @@
       "text": "War in Yemen: Houthis now ‘virtually independent’ in weapons production",
       "link": "https://www.rfi.fr/en/international/20261016-war-in-yemen-houthis-now-virtually-independent-in-weapons-production",
       "date": "Fri, 16 Oct 2026 04:27:46 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Infantino offers apology but 'no answers' at Fifa meeting over World Cup plan",
-      "link": "https://www.rfi.fr/en/international/20261015-infantino-offers-apology-but-no-answers-at-fifa-meeting-over-world-cup-plan",
-      "date": "Thu, 15 Oct 2026 15:57:31 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Zelensky rallies European allies after defying Trump over Russia strikes",
-      "link": "https://www.rfi.fr/en/international/20261015-zelensky-rallies-european-allies-as-trump-ties-slump",
-      "date": "Thu, 15 Oct 2026 11:47:37 GMT"
     }
   ]
 }
