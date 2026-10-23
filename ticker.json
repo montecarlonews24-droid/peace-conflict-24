@@ -1,62 +1,279 @@
 {
-  "updated": "2026-10-23T12:54:51.442Z",
-  "count": 64,
+  "updated": "2026-10-23T17:32:59.509Z",
+  "count": 62,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:48:52 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
-      "link": "https://www.channelnewsasia.com/sport/trabzonspor-goalkeeper-onana-escapes-injury-in-car-crash-in-turkey-6486621",
-      "date": "Fri, 23 Oct 2026 20:48:15 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Explainer-Why is Meta creating a new class of non-voting shares amid its AI growth?",
-      "link": "https://www.channelnewsasia.com/business/explainer-why-meta-creating-new-class-non-voting-shares-amid-its-ai-growth-6486616",
-      "date": "Fri, 23 Oct 2026 20:47:59 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:47:01 GMT"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
+      "link": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+      "date": "Fri, 23 Oct 2026 17:21:00 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
-      "link": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
-      "date": "Fri, 23 Oct 2026 12:45:49 GMT"
+      "text": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
+      "link": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
+      "date": "Fri, 23 Oct 2026 17:11:58 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:34:10 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Gaza : digging up the bodies from under the rubble",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
+      "date": "Fri, 23 Oct 2026 17:10:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+      "link": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
+      "date": "Fri, 23 Oct 2026 17:08:51 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Pitchwise to buy 42% Valencia CF stake, values the Spanish football club at $1.4 billion",
-      "link": "https://www.channelnewsasia.com/sport/pitchwise-buy-42-valencia-cf-stake-values-spanish-football-club-14-billion-6486561",
-      "date": "Fri, 23 Oct 2026 20:28:17 +0800"
+      "text": "Gunman kills one, wounds five in town outside Paris",
+      "link": "https://www.channelnewsasia.com/world/paris-gun-shooting-kills-one-five-injured-trappes-6487371",
+      "date": "Sat, 24 Oct 2026 01:05:49 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Are parents in France and Italy liable for damage caused by student protesters?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:18:01 +0000"
+      "text": "Many feared trapped after Kenya building collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 17:01:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indonesia seizes more than a tonne of ketamine from tanker",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 17:00:22 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 16:59:51 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Bayern Munich coach Vincent Kompany taken to hospital after collapsing at training",
+      "link": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791",
+      "date": "Fri, 23 Oct 2026 17:55:00 +0100"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil’s right has already changed the balance of power",
+      "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:41:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Stocks mixed, day after AI-related selloff; oil prices rise again",
+      "link": "https://www.channelnewsasia.com/business/stocks-mixed-day-after-ai-related-selloff-oil-prices-rise-again-6485001",
+      "date": "Sat, 24 Oct 2026 00:38:14 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:37:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US telecom operators wobble after report SpaceX in talks for cell sites",
+      "link": "https://www.channelnewsasia.com/business/us-telecom-operators-wobble-after-report-spacex-in-talks-cell-sites-6487406",
+      "date": "Sat, 24 Oct 2026 00:36:23 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 16:33:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: French student groups call for protests to continue after meeting with Macron",
+      "link": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
+      "date": "Fri, 23 Oct 2026 16:31:44 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:29:51 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/",
+      "date": "Fri, 23 Oct 2026 16:28:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "PwC confirms cybersecurity incident involving employee learning records",
+      "link": "https://www.channelnewsasia.com/business/pwc-confirms-cybersecurity-incident-involving-employee-learning-records-6487381",
+      "date": "Sat, 24 Oct 2026 00:22:07 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 16:19:36 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AT&T, T-Mobile tighten AI guardrails as autonomous networks remain years away",
+      "link": "https://www.channelnewsasia.com/business/att-t-mobile-tighten-ai-guardrails-autonomous-networks-remain-years-away-6487386",
+      "date": "Sat, 24 Oct 2026 00:18:59 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 16:17:02 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+      "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:08:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Bayern coach Kompany taken to hospital after collapsing during training session",
+      "link": "https://www.channelnewsasia.com/sport/bayern-coach-kompany-taken-hospital-after-collapsing-during-training-session-6487336",
+      "date": "Fri, 23 Oct 2026 23:56:47 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+      "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
+      "date": "Fri, 23 Oct 2026 15:56:28 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
+      "link": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
+      "date": "Fri, 23 Oct 2026 15:56:19 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+      "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 15:51:29 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 15:37:07 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump says he will fix any Starlink access problem in Ukraine",
+      "link": "https://www.channelnewsasia.com/business/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-6487286",
+      "date": "Fri, 23 Oct 2026 23:36:04 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Oil spill washes up on UAE beaches after tanker strike",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 15:30:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Poulter confirms LIV Golf exit to focus on senior golf and family",
+      "link": "https://www.channelnewsasia.com/sport/poulter-confirms-liv-golf-exit-focus-senior-golf-and-family-6487221",
+      "date": "Fri, 23 Oct 2026 23:22:32 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "AKAA art and design fair brings African artists to Paris",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris",
+      "date": "Fri, 23 Oct 2026 15:13:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 15:04:44 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Azerbaijan hijab ban exposes strain in ‘brotherly’ ties with Turkey",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20261023-azerbaijan-hijab-ban-exposes-strain-in-brotherly-ties-with-turkey",
+      "date": "Fri, 23 Oct 2026 14:50:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "PSG v Lyon moved as Paris prepares for more protests",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 14:18:41 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why the ‘Odds of Mischief Are High’ in These Midterms",
+      "link": "https://foreignpolicy.com/2026/10/23/midterm-elections-us-trump-democratic-party/",
+      "date": "Fri, 23 Oct 2026 14:12:59 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "date": "Fri, 23 Oct 2026 13:57:11 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Former Olympic marathon champion suspended after failed drugs test",
+      "link": "https://news.sky.com/story/kenyan-former-olympic-marathon-champion-suspended-after-failed-drugs-test-13602695",
+      "date": "Fri, 23 Oct 2026 14:42:00 +0100"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What’s Behind Turkish-Azerbaijani Tensions?",
+      "link": "https://foreignpolicy.com/2026/10/23/turkey-azerbaijan-aliev-erdogan-headscarf-ban/",
+      "date": "Fri, 23 Oct 2026 13:27:41 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Seven dead and 34 injured after shooting at church in Jordan",
+      "link": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "date": "Fri, 23 Oct 2026 13:57:00 +0100"
     },
     {
       "src": "BBC World",
@@ -66,81 +283,11 @@
       "date": "Fri, 23 Oct 2026 12:17:45 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:17:20 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ukraine plans independent satellite system as Starlink issues persist",
-      "link": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:16:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asian Cup to move to even years under AFC governance reforms",
-      "link": "https://www.channelnewsasia.com/sport/asian-cup-move-even-years-under-afc-governance-reforms-6486521",
-      "date": "Fri, 23 Oct 2026 20:10:50 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hyrox and Xenom aspire to make fitness &#039;largest sport on earth&#039;",
-      "link": "https://www.channelnewsasia.com/sport/hyrox-and-xenom-aspire-make-fitness-largest-sport-earth-6486496",
-      "date": "Fri, 23 Oct 2026 20:07:19 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "MSF looks to double regular volunteer pool by 2030 to tackle complex social needs: Masagos",
-      "link": "https://www.channelnewsasia.com/singapore/volunteer-3000-befriending-mentoring-fostering-masagos-msf-6486376",
-      "date": "Fri, 23 Oct 2026 20:00:27 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Bolivia and Chile Make Nice",
       "link": "https://foreignpolicy.com/2026/10/23/bolivia-chile-relations-thaw-kast-paz-lithium/",
       "date": "Fri, 23 Oct 2026 12:00:01 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Singapore's longevity industry: The quest for eternal youth",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-      "date": "Fri, 23 Oct 2026 11:53:53 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "British jets join French nuclear exercise for first time, France says",
-      "link": "https://www.channelnewsasia.com/world/british-jets-join-french-nuclear-exercise-first-time-6486406",
-      "date": "Fri, 23 Oct 2026 19:47:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rabada and Smith renew rivalry before Cape Town decider",
-      "link": "https://www.channelnewsasia.com/sport/rabada-and-smith-renew-rivalry-cape-town-decider-6486446",
-      "date": "Fri, 23 Oct 2026 19:44:13 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US-Iran war, then and now: How the landscape has changed since February",
-      "link": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 11:43:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 11:34:59 +0000"
     },
     {
       "src": "RFI",
@@ -150,83 +297,6 @@
       "date": "Fri, 23 Oct 2026 11:30:51 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "REPLAY: Laurent Nunez holds presser on security arrangements ahead of protests",
-      "link": "https://www.france24.com/en/replay-french-interior-minister-holds-presser-on-security-arrangements-ahead-of-protests",
-      "date": "Fri, 23 Oct 2026 11:29:17 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 11:27:35 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French authorities ban some student protests after weekend looting and clashes",
-      "link": "https://www.france24.com/en/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes",
-      "date": "Fri, 23 Oct 2026 11:21:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "SA faces rising tension as foreign national is killed amid anti-migrant protests",
-      "link": "https://www.france24.com/en/sa-faces-rising-tension-as-foreign-national-is-killed-amid-anti-migrant-protests",
-      "date": "Fri, 23 Oct 2026 11:08:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "One killed, four injured, including child, in drive-by shooting in Paris suburb",
-      "link": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
-      "date": "Fri, 23 Oct 2026 11:08:26 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "France tightens security in anticipation of weekend protests",
-      "link": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 11:05:13 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Claude Monet: 'Iris' becomes most expensive artwork sold at auction in France",
-      "link": "https://www.france24.com/en/video/20261023-claude-monet-iris-becomes-most-expensive-artwork-sold-at-auction-in-france",
-      "date": "Fri, 23 Oct 2026 11:04:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 11:01:08 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: Some 70,000 security forces will be mobilised for French protests on Saturday, says PM",
-      "link": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
-      "date": "Fri, 23 Oct 2026 10:58:20 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 10:14:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 10:14:33 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "European football giants to meet in London for NBA basketball talks",
@@ -234,25 +304,11 @@
       "date": "Fri, 23 Oct 2026 10:18:00 +0100"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 08:45:58 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting",
       "link": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577",
       "date": "Fri, 23 Oct 2026 09:03:00 +0100"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 05:16:37 GMT"
     },
     {
       "src": "RFI",
@@ -271,7 +327,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Terror probe after fatal shooting in Paris suburb",
+      "text": "Fatal shooting in Paris suburb 'clearly a terrorist crime', says minister",
       "link": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320",
       "date": "Fri, 23 Oct 2026 00:01:00 +0100"
     },
@@ -318,53 +374,11 @@
       "date": "Thu, 22 Oct 2026 15:00:29 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Brazil’s Sovereignty Is on the Ballot",
-      "link": "https://foreignpolicy.com/2026/10/22/brazil-election-lula-bolsonaro-trump-us-military-shield-americas/",
-      "date": "Thu, 22 Oct 2026 11:00:35 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "International Criminal Court wins EU's Sakharov human rights prize",
       "link": "https://www.rfi.fr/en/international/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
       "date": "Thu, 22 Oct 2026 10:47:34 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Could AI Disinformation Disrupt the Midterms?",
-      "link": "https://foreignpolicy.com/2026/10/22/midterm-election-ai-disinformation-openai-anthropic-microsoft/",
-      "date": "Thu, 22 Oct 2026 10:00:44 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "France reports first Shamonda virus case in human who later died",
-      "link": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182",
-      "date": "Thu, 22 Oct 2026 09:38:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "North Korea plans to resume propaganda broadcasts along border with South Korea",
-      "link": "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125",
-      "date": "Thu, 22 Oct 2026 06:44:00 +0100"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What a New Rebel Alliance Means for Congo",
-      "link": "https://foreignpolicy.com/2026/10/21/what-a-new-rebel-alliance-means-for-congo/",
-      "date": "Thu, 22 Oct 2026 00:36:19 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
-      "link": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
-      "date": "Wed, 21 Oct 2026 20:34:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -395,20 +409,6 @@
       "date": "Wed, 21 Oct 2026 13:40:08 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Garda investigation launched as two bodies found in Ireland",
-      "link": "https://news.sky.com/story/garda-investigation-launched-as-two-bodies-found-in-ireland-13601860",
-      "date": "Wed, 21 Oct 2026 11:19:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
-      "link": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
-      "date": "Wed, 21 Oct 2026 09:48:00 +0100"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Millions of Afghans to face food insecurity by next year, UN warns",
@@ -423,13 +423,6 @@
       "date": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "date": "Tue, 20 Oct 2026 19:18:03 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU pushes for stronger Arctic presence amid Russian pressure and US uncertainty",
@@ -442,13 +435,6 @@
       "text": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
       "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "date": "Tue, 20 Oct 2026 16:24:05 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Macron secures extra fuel for France from UAE and Bahrain during Gulf tour",
-      "link": "https://www.rfi.fr/en/international/20261020-macron-secures-extra-fuel-for-france-from-uae-and-bahrain-during-gulf-tour",
-      "date": "Tue, 20 Oct 2026 14:06:45 GMT"
     }
   ]
 }
