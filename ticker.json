@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-24T21:17:15.563Z",
-  "count": 64,
+  "updated": "2026-10-24T23:26:33.366Z",
+  "count": 63,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 23:02:06 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore haze: Air quality unhealthy, PM2.5 readings elevated across country",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-pm25-readings-elevated-across-country-6489876",
+      "date": "Sun, 25 Oct 2026 06:59:54 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Behind the facade of this Emerald Hill shophouse is a home full of surprises",
+      "link": "https://www.channelnewsasia.com/remarkable-living/emerald-hill-shophouse-interior-design-6481481",
+      "date": "Sun, 25 Oct 2026 06:48:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What can a biological age test actually tell you?",
+      "link": "https://www.channelnewsasia.com/wellness/biological-age-tests-6466301",
+      "date": "Sun, 25 Oct 2026 06:46:43 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy death’",
+      "link": "https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916",
+      "date": "Sun, 25 Oct 2026 06:45:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 22:35:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How have Democrats’ policies shifted since the last major US election?",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 22:28:37 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Antonelli on pole for US Grand Prix with F1 title in sight",
+      "link": "https://www.channelnewsasia.com/sport/antonelli-pole-us-grand-prix-f1-title-in-sight-6489861",
+      "date": "Sun, 25 Oct 2026 06:14:25 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Is indoor air safer? 7 things to know and ways to stay protected in this prolonged haze season",
+      "link": "https://www.channelnewsasia.com/cna-insider/insider/haze-indoor-air-expired-n95-masks-air-purifiers-protect-6488636",
+      "date": "Sun, 25 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Trump should reject Putin’s plan for a great powers summit",
+      "link": "https://www.channelnewsasia.com/commentary/trump-xi-putin-summit-apec-ukraine-war-6485936",
+      "date": "Sun, 25 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "As Thailand courts data centres, a new reservoir raises questions over water and wildlife",
+      "link": "https://www.channelnewsasia.com/asia/thailand-data-centres-water-elephants-6465091",
+      "date": "Sun, 25 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 21:39:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 21:36:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 21:30:11 +0000"
+    },
     {
       "src": "The Guardian",
       "col": "#005689",
@@ -10,11 +108,25 @@
       "date": "Sat, 24 Oct 2026 21:10:23 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China urges US to halt proposed expansion of outbound investment curbs",
-      "link": "https://www.channelnewsasia.com/world/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-6489791",
-      "date": "Sun, 25 Oct 2026 05:09:22 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 21:09:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 21:08:51 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Train slams into crane that collapsed onto railway line in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 21:02:55 +0000"
     },
     {
       "src": "France 24",
@@ -31,74 +143,11 @@
       "date": "Sat, 24 Oct 2026 20:52:55 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Thousands protest in Italy under heavy security",
-      "link": "https://www.channelnewsasia.com/world/thousands-protest-in-italy-under-heavy-security-6489781",
-      "date": "Sun, 25 Oct 2026 04:51:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Violent clashes as Albanian government cracks down on protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 20:39:08 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Could Israel’s military crackdown influence Tuesday’s election?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 20:37:02 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "UK police say &#039;claims&#039; over Meghan Markle&#039;s dad not sent to other law enforcement",
-      "link": "https://www.channelnewsasia.com/world/uk-police-say-claims-over-meghan-markles-dad-not-sent-other-law-enforcement-6489761",
-      "date": "Sun, 25 Oct 2026 04:28:58 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 20:03:29 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spurs celebrate ending Chelsea hoodoo with 2-0 win",
-      "link": "https://www.channelnewsasia.com/sport/spurs-celebrate-ending-chelsea-hoodoo-2-0-win-6489756",
-      "date": "Sun, 25 Oct 2026 03:56:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "North Korea&#039;s Kim returns home after visit to Chinese border city",
-      "link": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-returns-home-after-visit-chinese-border-city-6489741",
-      "date": "Sun, 25 Oct 2026 03:48:02 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sat, 24 Oct 2026 19:12:51 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 19:11:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands join Paris protests as authorities clamp down on disorder",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 19:01:52 +0000"
     },
     {
       "src": "France 24",
@@ -108,20 +157,6 @@
       "date": "Sat, 24 Oct 2026 18:42:27 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Burnley dismiss coach Hayen after 14 games",
-      "link": "https://www.channelnewsasia.com/sport/burnley-dismiss-coach-hayen-after-14-games-6489721",
-      "date": "Sun, 25 Oct 2026 02:39:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lazio go top with win over Parma as Roma rally to draw 3-3 at Napoli",
-      "link": "https://www.channelnewsasia.com/sport/lazio-go-top-win-over-parma-roma-rally-draw-3-3-napoli-6489716",
-      "date": "Sun, 25 Oct 2026 02:38:01 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "“Witkoff should step down” says Ukraine Committee Chief",
@@ -129,32 +164,11 @@
       "date": "Sat, 24 Oct 2026 18:37:05 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands gather at new Albanian antigovernment rally",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 18:30:56 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
       "link": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
       "date": "Sat, 24 Oct 2026 18:21:55 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Clashes break out in Paris, other cities amid fresh protests",
-      "link": "https://www.channelnewsasia.com/world/clashes-break-out-in-paris-other-cities-amid-fresh-protests-6489221",
-      "date": "Sun, 25 Oct 2026 02:11:57 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kim Jong Un crosses new bridge linking North Korea and China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 18:00:20 +0000"
     },
     {
       "src": "France 24",
@@ -169,13 +183,6 @@
       "text": "France: Clashes erupt as protests sweep across cities",
       "link": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
       "date": "Sat, 24 Oct 2026 17:50:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 17:21:42 GMT"
     },
     {
       "src": "France 24",
@@ -208,6 +215,13 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
+      "text": "British and French paratroopers take part in major wargame in Germany",
+      "link": "https://news.sky.com/story/british-and-french-paratroopers-take-part-in-major-wargame-in-germany-13603116",
+      "date": "Sat, 24 Oct 2026 15:07:00 +0100"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
       "text": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
       "link": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095",
       "date": "Sat, 24 Oct 2026 14:29:00 +0100"
@@ -225,13 +239,6 @@
       "text": "Young Israeli voters lean right, as election puts Netanyahu to the test",
       "link": "https://www.rfi.fr/en/international/20261024-young-israeli-voters-lean-right-as-election-puts-netanyahu-to-the-test",
       "date": "Sat, 24 Oct 2026 11:45:55 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:46:53 GMT"
     },
     {
       "src": "The Guardian",
@@ -253,13 +260,6 @@
       "text": "Bahamas police investigate after British woman dies trying to rescue sons",
       "link": "https://news.sky.com/story/bahamas-police-investigate-after-british-woman-dies-trying-to-rescue-sons-13602998",
       "date": "Sat, 24 Oct 2026 10:25:00 +0100"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
-      "link": "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938",
-      "date": "Sat, 24 Oct 2026 05:15:00 +0100"
     },
     {
       "src": "The Guardian",
@@ -358,13 +358,6 @@
       "text": "What’s Behind Turkish-Azerbaijani Tensions?",
       "link": "https://foreignpolicy.com/2026/10/23/turkey-azerbaijan-aliev-erdogan-headscarf-ban/",
       "date": "Fri, 23 Oct 2026 13:27:41 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Seven dead and 34 injured after shooting at church in Jordan",
-      "link": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
-      "date": "Fri, 23 Oct 2026 13:57:00 +0100"
     },
     {
       "src": "RFI",
