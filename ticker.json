@@ -1,48 +1,174 @@
 {
-  "updated": "2026-10-24T02:13:40.689Z",
-  "count": 62,
+  "updated": "2026-10-24T07:27:10.241Z",
+  "count": 70,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kim Jong Un tells North Korean army units to prepare for &#039;new-era military build-up&#039;",
+      "link": "https://www.channelnewsasia.com/east-asia/kim-jong-un-tells-north-korean-army-units-prepare-new-era-military-build-up-6488631",
+      "date": "Sat, 24 Oct 2026 15:17:46 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 07:09:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Protests against cost of living expected in Italy under heavy security",
+      "link": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security",
+      "date": "Sat, 24 Oct 2026 07:08:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "North Korea’s Kim Jong Un arrives in China, South Korean media says",
+      "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 07:07:20 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "COP17 puts Armenia’s environmental record in the spotlight",
+      "link": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 06:52:41 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 06:51:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Keeping the world safe when no one is in charge",
+      "link": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 06:45:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lionel Messi receives top Spanish award in recognition of social work",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 06:44:29 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Has Vivek Ramaswamy’s attack ad against Amy Acton backfired?",
+      "link": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 06:21:11 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "France prepares for day of protest a week after nationwide riots",
+      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 06:19:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mumbai Indians promote Pollard to head coach, replacing Jayawardene",
+      "link": "https://www.channelnewsasia.com/sport/mumbai-indians-promote-pollard-head-coach-replacing-jayawardene-6488591",
+      "date": "Sat, 24 Oct 2026 13:56:54 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 05:31:01 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israel launches West Bank operation after attack days before election",
+      "link": "https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581",
+      "date": "Sat, 24 Oct 2026 13:31:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Benjamin Netanyahu reshaped Israel’s institutions",
+      "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 05:29:07 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French police deploy in large numbers, major Paris museums close ahead of new protests",
+      "link": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
+      "date": "Sat, 24 Oct 2026 05:27:48 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Hundreds of protests expected in France amid high tensions and heavy police presence",
+      "link": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+      "date": "Sat, 24 Oct 2026 04:59:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Majority of parents and youths prefer tiered access to social media over outright ban: MDDI",
+      "link": "https://www.channelnewsasia.com/singapore/social-media-ban-teens-parents-access-6486036",
+      "date": "Sat, 24 Oct 2026 12:40:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "65 harmful apps, 24 wrongly age-rated found in Singapore review of over 7,000 apps",
+      "link": "https://www.channelnewsasia.com/singapore/imda-review-app-store-harmful-wrong-age-rated-6485906",
+      "date": "Sat, 24 Oct 2026 12:40:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Marquez wins thrilling Australian MotoGP sprint to retake championship lead",
+      "link": "https://www.channelnewsasia.com/sport/marquez-wins-thrilling-australian-motogp-sprint-retake-championship-lead-6488526",
+      "date": "Sat, 24 Oct 2026 12:26:24 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Suspect arrested over fire at Nazis' WWII 'Eagle's Nest' retreat",
+      "link": "https://news.sky.com/story/suspect-arrested-over-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938",
+      "date": "Sat, 24 Oct 2026 05:15:00 +0100"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 03:51:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past",
+      "link": "https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446",
+      "date": "Sat, 24 Oct 2026 11:34:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australian MP's condition improves after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 01:55:15 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
       "text": "Pentagon designates China-funded Confucius Institutes as US national security threat",
       "link": "https://www.channelnewsasia.com/east-asia/pentagon-designates-china-funded-confucius-institutes-us-national-security-threat-6488301",
       "date": "Sat, 24 Oct 2026 09:27:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-      "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 01:21:18 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Marquez shrugs off crash to take pole at wet Australian Grand Prix",
-      "link": "https://www.channelnewsasia.com/sport/marquez-shrugs-crash-take-pole-wet-australian-grand-prix-6488276",
-      "date": "Sat, 24 Oct 2026 09:01:45 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-      "link": "https://www.channelnewsasia.com/world/iran-war-gulf-undersea-cables-6487421",
-      "date": "Sat, 24 Oct 2026 08:54:03 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Syrians protest Israel’s incursions near occupied Golan Heights",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 00:50:05 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US could strike Iran this weekend, envoy says",
-      "link": "https://www.channelnewsasia.com/world/iran-war-us-could-strike-soon-6488231",
-      "date": "Sat, 24 Oct 2026 08:40:14 +0800"
     },
     {
       "src": "The Guardian",
@@ -52,81 +178,18 @@
       "date": "Sat, 24 Oct 2026 00:30:02 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
-      "link": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 00:27:21 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sitting all day? This mobility routine can help you loosen up",
-      "link": "https://www.channelnewsasia.com/wellness/mobility-routine-sitting-6456071",
-      "date": "Sat, 24 Oct 2026 07:27:38 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Michelin-starred Nae:um&#039;s team opens Italian restaurant Osteria Da Su, with pastas from S$22",
-      "link": "https://www.channelnewsasia.com/dining/osteria-da-su-naeum-italian-food-korean-chef-6485231",
-      "date": "Sat, 24 Oct 2026 07:26:50 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "They didn’t want to inherit the family business. Now, Tan Ser Seng’s 3rd generation owners are fighting for its traditions",
-      "link": "https://www.channelnewsasia.com/dining/tan-ser-seng-turtle-soup-third-gen-owners-6485146",
-      "date": "Sat, 24 Oct 2026 07:25:51 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 23:25:11 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "France boosts police presence, hoping to prevent repeat of riots",
-      "link": "https://www.channelnewsasia.com/world/france-protests-security-police-presence-6488186",
-      "date": "Sat, 24 Oct 2026 07:16:47 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Typhoon Champi hits Taiwan, killing one and injuring 350",
-      "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 23:10:54 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-      "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 22:33:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is Israel increasing its presence in the Balkans?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 22:01:52 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 00:05:43 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Argentina drops investigation into President Milei over crypto fraud",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 20:59:39 GMT"
+      "text": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 23:08:23 GMT"
     },
     {
       "src": "France 24",
@@ -150,13 +213,6 @@
       "date": "Fri, 23 Oct 2026 20:22:10 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 20:18:13 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Real Danger of Big Tech",
@@ -171,20 +227,6 @@
       "date": "Fri, 23 Oct 2026 19:46:30 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 19:42:08 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 19:30:19 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Why Putin’s Defenders Are Increasingly American",
@@ -194,9 +236,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 18:52:17 GMT"
+      "text": "Trump administration sues to block certification of upcoming Alaska election",
+      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 18:49:14 GMT"
     },
     {
       "src": "France 24",
@@ -234,27 +276,6 @@
       "date": "Fri, 23 Oct 2026 17:21:00 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
-      "link": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
-      "date": "Fri, 23 Oct 2026 17:11:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Gaza : digging up the bodies from under the rubble",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
-      "date": "Fri, 23 Oct 2026 17:10:15 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
-      "link": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
-      "date": "Fri, 23 Oct 2026 17:08:51 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
@@ -267,20 +288,6 @@
       "text": "What in the World?",
       "link": "https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/",
       "date": "Fri, 23 Oct 2026 16:28:02 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 15:37:07 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Oil spill washes up on UAE beaches after tanker strike",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 15:30:47 GMT"
     },
     {
       "src": "RFI",
@@ -325,18 +332,60 @@
       "date": "Fri, 23 Oct 2026 13:57:00 +0100"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Soil mapping aims to boost agricultural production in Kenya",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Student-led movement seeks to unseat ruling party in Serbian election",
       "link": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election",
       "date": "Fri, 23 Oct 2026 11:30:51 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "European football giants to meet in London for NBA basketball talks",
-      "link": "https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607",
-      "date": "Fri, 23 Oct 2026 10:18:00 +0100"
     },
     {
       "src": "Sky News",
@@ -379,6 +428,13 @@
       "text": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
       "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
       "date": "Thu, 22 Oct 2026 15:00:29 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+      "date": "Thu, 22 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
