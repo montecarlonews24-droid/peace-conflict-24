@@ -1,209 +1,293 @@
 {
-  "updated": "2026-10-26T13:40:18.010Z",
-  "count": 72,
+  "updated": "2026-10-26T19:37:03.986Z",
+  "count": 64,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Lula wins Brazil election but faces uphill battle to govern",
-      "link": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
-      "date": "Mon, 26 Oct 2026 13:38:09 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Anthropic&#039;s IPO: A close look at AI frontrunner&#039;s rapid growth, spiraling costs",
-      "link": "https://www.channelnewsasia.com/business/anthropics-ipo-close-look-ai-frontrunners-rapid-growth-spiraling-costs-6493421",
-      "date": "Mon, 26 Oct 2026 21:31:43 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 19:27:21 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Anthropic unveils details of planned historic stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 13:27:43 GMT"
+      "text": "'Maxxing' selected as Dictionary.com word of the year",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 19:16:28 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "LIV Golf appoints former TaylorMade CEO Mark King as senior adviser",
+      "link": "https://www.channelnewsasia.com/sport/liv-golf-appoints-former-taylormade-ceo-mark-king-senior-adviser-6494246",
+      "date": "Tue, 27 Oct 2026 03:02:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Machado ready to meet Venezuela leader after shock return",
+      "link": "https://www.channelnewsasia.com/world/machado-rodriguez-venezuela-return-exile-talks-eu-6494226",
+      "date": "Tue, 27 Oct 2026 02:58:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says",
+      "link": "https://www.channelnewsasia.com/business/alibaba-ai-model-secretly-tried-reach-beijing-server-in-test-rival-cohere-says-6494236",
+      "date": "Tue, 27 Oct 2026 02:51:23 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 13:20:23 +0000"
+      "text": "Trump faces private citizens lawsuit over limiting White House media access",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 18:29:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Brazil’s real sinks after Lula’s re-election victory",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 18:27:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 18:26:19 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Egypt parliament authorises military support to Saudi Arabia",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-egypt-military-defence-support-yemen-6493911",
+      "date": "Tue, 27 Oct 2026 02:25:18 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "New Zealand welcome back eight players but no Savea for November fixtures",
+      "link": "https://www.channelnewsasia.com/sport/new-zealand-welcome-back-eight-players-no-savea-november-fixtures-6494206",
+      "date": "Tue, 27 Oct 2026 02:25:07 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Could the midterms change US military support for Israel?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 18:05:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US midterm elections 2026 in maps and charts",
+      "link": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 18:00:07 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Belgrade in rapture as Serbian students topple Vucic in historic election",
-      "link": "https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election",
-      "date": "Mon, 26 Oct 2026 13:19:40 GMT"
+      "text": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+      "link": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+      "date": "Mon, 26 Oct 2026 17:59:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zelenskyy says peace talks with Russia, US to restart",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 17:58:14 +0000"
     },
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "date": "Mon, 26 Oct 2026 13:14:41 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Australia give Smith chance to prove fitness ahead of decider",
-      "link": "https://www.channelnewsasia.com/sport/australia-give-smith-chance-prove-fitness-ahead-decider-6493371",
-      "date": "Mon, 26 Oct 2026 21:14:38 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Espart ruled out for seven weeks as Barca lose another defender to injury",
-      "link": "https://www.channelnewsasia.com/sport/espart-ruled-out-seven-weeks-barca-lose-another-defender-injury-6493376",
-      "date": "Mon, 26 Oct 2026 21:14:17 +0800"
+      "text": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "date": "Mon, 26 Oct 2026 17:56:50 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israel expands expulsions in occupied West Bank to cement control",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 13:11:08 +0000"
+      "text": "How Venezuela’s earthquake amputees adapt to life without limbs",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 17:55:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Algeria’s president orders troop deployment to neighbouring Niger",
+      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 17:55:47 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "date": "Mon, 26 Oct 2026 17:38:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French student union leaders call for 'continued mobilisation' after meeting PM",
+      "link": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
+      "date": "Mon, 26 Oct 2026 17:37:05 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Britain sanctions Sudanese commanders over weaponised rape",
+      "link": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 17:32:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Brazil: What does Lula's re-election mean for the Amazon?",
+      "link": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
+      "date": "Mon, 26 Oct 2026 17:18:55 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US singer Chris Brown avoids jail over London nightclub brawl",
+      "link": "https://www.channelnewsasia.com/world/chris-brown-london-nightclub-court-us-singer-6493891",
+      "date": "Tue, 27 Oct 2026 01:18:41 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+      "link": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+      "date": "Mon, 26 Oct 2026 17:11:03 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "date": "Mon, 26 Oct 2026 17:10:31 GMT"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Anthropic reveals loss as it plans to sell public shares for first time",
-      "link": "https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009",
-      "date": "Mon, 26 Oct 2026 13:09:00 +0000"
+      "text": "Vatican issues Pope health update ahead of South America trip",
+      "link": "https://news.sky.com/story/pope-in-good-health-and-trip-to-south-america-will-go-ahead-as-planned-vatican-says-13604112",
+      "date": "Mon, 26 Oct 2026 17:09:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Leaders across Americas react to Brazil President Lula's re-election",
+      "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election",
+      "date": "Mon, 26 Oct 2026 17:05:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli candidate Eisenkot pledges to unite country as Netanyahu deems him 'soft' on Iran",
+      "link": "https://www.france24.com/en/middle-east/20261026-israeli-candidate-eisenkot-pledges-to-unite-israelis-as-netanyahu-deems-him-soft-on-iran",
+      "date": "Mon, 26 Oct 2026 16:58:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+      "link": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress",
+      "date": "Mon, 26 Oct 2026 16:54:22 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Anthropic&#039;s IPO filing shows explosive growth, risks and staggering costs",
-      "link": "https://www.channelnewsasia.com/business/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs-6493346",
-      "date": "Mon, 26 Oct 2026 21:05:02 +0800"
+      "text": "Sinner set to return at postponed Six Kings Slam",
+      "link": "https://www.channelnewsasia.com/sport/sinner-set-return-postponed-six-kings-slam-6493876",
+      "date": "Tue, 27 Oct 2026 00:50:51 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel election: unable to vote from abroad, expats have to fly home",
+      "link": "https://www.france24.com/en/israel-election-unable-to-vote-from-abroad-expats-have-to-fly-home",
+      "date": "Mon, 26 Oct 2026 16:47:57 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house",
-      "link": "https://www.channelnewsasia.com/business/cadence-unveils-nvidia-backed-ai-models-chipmakers-can-run-in-house-6493316",
-      "date": "Mon, 26 Oct 2026 21:03:13 +0800"
+      "text": "Wall St rises as Anthropic&#039;s IPO filing sharpens focus on AI trade",
+      "link": "https://www.channelnewsasia.com/world/wall-st-rises-anthropics-ipo-filing-sharpens-focus-ai-trade-6493796",
+      "date": "Tue, 27 Oct 2026 00:43:33 +0800"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "T-Mobile debuts wireless plans with customizable perks from streaming to food delivery",
-      "link": "https://www.channelnewsasia.com/business/t-mobile-debuts-wireless-plans-customizable-perks-streaming-food-delivery-6493321",
-      "date": "Mon, 26 Oct 2026 21:02:57 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Why Melania Trump's ceasefire will be lifeline for besieged Ukrainians in Oleshky",
+      "link": "https://news.sky.com/story/why-melania-trumps-ceasefire-will-be-lifeline-for-besieged-ukrainians-in-oleshky-13604094",
+      "date": "Mon, 26 Oct 2026 16:34:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who are the Israeli candidates trying to unseat Netanyahu?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 13:02:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 13:02:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Has Pakistan reopened its border with Iran for trade?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 13:01:16 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China’s Overcapacity Has a Mind of Its Own",
+      "link": "https://foreignpolicy.com/2026/10/26/beijing-overcapacity-exports-manufacturing/",
+      "date": "Mon, 26 Oct 2026 16:28:58 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 12:57:58 GMT"
+      "text": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 16:27:17 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "EU accepts Temu plan to remedy Digital Services Act breach",
-      "link": "https://www.channelnewsasia.com/business/eu-accepts-temu-plan-remedy-digital-services-act-breach-6493281",
-      "date": "Mon, 26 Oct 2026 20:55:21 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 15:46:31 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 12:54:05 +0000"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "date": "Mon, 26 Oct 2026 15:07:23 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "America’s Least Bad Option in Iran",
+      "link": "https://foreignpolicy.com/2026/10/26/iran-war-trump-options-escalation-blockade-hormuz/",
+      "date": "Mon, 26 Oct 2026 14:55:56 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Macron promises 'concrete measures' over protest demands - amid fears of Halloween unrest",
+      "link": "https://news.sky.com/story/macron-promises-concrete-measures-over-protest-demands-amid-fears-of-halloween-unrest-13604048",
+      "date": "Mon, 26 Oct 2026 14:44:00 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 12:52:16 GMT"
+      "date": "Mon, 26 Oct 2026 14:34:52 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Atkinson replaces injured Smith in England training squad",
-      "link": "https://www.channelnewsasia.com/sport/atkinson-replaces-injured-smith-in-england-training-squad-6493246",
-      "date": "Mon, 26 Oct 2026 20:48:19 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US Marine indicted for murder and robbery of woman in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 14:13:18 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
-      "link": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
-      "date": "Mon, 26 Oct 2026 12:47:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel braces for national elections seen as a referendum on Netanyahu",
-      "link": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
-      "date": "Mon, 26 Oct 2026 12:35:55 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Football: Who will win the 2026 Ballon d'Or?",
-      "link": "https://www.france24.com/en/video/20261026-football-who-will-win-the-2026-ballon-d-or",
-      "date": "Mon, 26 Oct 2026 12:33:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Macron vows ‘concrete’ measures to address student demands after unrest",
-      "link": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
-      "date": "Mon, 26 Oct 2026 12:25:21 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 12:23:44 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French PM meets student representatives after weeks of protests",
-      "link": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
-      "date": "Mon, 26 Oct 2026 12:20:14 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Manchester United crisis: What are the top five problems facing the club?",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 12:18:12 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
-      "link": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
-      "date": "Mon, 26 Oct 2026 12:13:13 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Anthropic reveals plans for blockbuster IPO",
+      "link": "https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009",
+      "date": "Mon, 26 Oct 2026 13:09:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -211,6 +295,13 @@
       "text": "Could Victory for Netanyahu Mean Mass Emigration?",
       "link": "https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/",
       "date": "Mon, 26 Oct 2026 12:00:55 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+      "link": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953",
+      "date": "Mon, 26 Oct 2026 11:27:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -262,13 +353,6 @@
       "date": "Mon, 26 Oct 2026 09:57:07 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Three men arrested in shootout after deadly attack on church in Jordan",
-      "link": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900",
-      "date": "Mon, 26 Oct 2026 08:27:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France's Macron leads congratulations for Lula's presidential victory in Brazil",
@@ -283,39 +367,11 @@
       "date": "Mon, 26 Oct 2026 06:59:36 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-      "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "date": "Mon, 26 Oct 2026 06:44:33 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 06:16:15 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-      "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-      "date": "Mon, 26 Oct 2026 05:27:12 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Mon, 26 Oct 2026 05:20:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Australian murderer loses bid to eat Vegemite in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 04:05:28 GMT"
     },
     {
       "src": "Sky News",
@@ -325,27 +381,6 @@
       "date": "Mon, 26 Oct 2026 00:06:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 23:33:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 22:11:13 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Talks between Ukraine, Russia and US to be held next month",
-      "link": "https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718",
-      "date": "Sun, 25 Oct 2026 18:09:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "High turnout in Serbia as student movement takes on Vucic at the polls",
@@ -353,39 +388,11 @@
       "date": "Sun, 25 Oct 2026 14:01:55 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Why do planes keep circling before landing? The UN has a plan to fix it",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168666",
-      "date": "Sun, 25 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Bus and lorry collide killing 22, including passengers returning from funeral",
-      "link": "https://news.sky.com/story/bus-and-lorry-collide-in-kenya-killling-22-including-passengers-returning-from-funeral-13603491",
-      "date": "Sun, 25 Oct 2026 09:41:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France and Britain test NATO readiness with major airborne exercise in Germany",
       "link": "https://www.rfi.fr/en/international/20261025-france-and-britain-test-nato-readiness-with-major-airborne-exercise-in-germany",
       "date": "Sun, 25 Oct 2026 07:57:30 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British and French paratroopers take part in major wargame in Germany",
-      "link": "https://news.sky.com/story/british-and-french-paratroopers-take-part-in-major-wargame-in-germany-13603116",
-      "date": "Sat, 24 Oct 2026 15:07:00 +0100"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "date": "Sat, 24 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -416,20 +423,6 @@
       "date": "Fri, 23 Oct 2026 19:00:30 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Filming Among the Rubble of Nazi Germany",
-      "link": "https://foreignpolicy.com/2026/10/23/fatherland-nazis-postwar-trauma-rubble-movies/",
-      "date": "Fri, 23 Oct 2026 18:23:42 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How to Make a Monster",
-      "link": "https://foreignpolicy.com/2026/10/23/field-notes-extinction-eoghan-walls-review-ireland-great-famine-auks/",
-      "date": "Fri, 23 Oct 2026 18:00:22 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Azerbaijan hijab ban exposes strain in ‘brotherly’ ties with Turkey",
@@ -444,48 +437,6 @@
       "date": "Fri, 23 Oct 2026 13:57:11 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN marks 81 years of global cooperation",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168665",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168662",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan: Drone strikes killed at least 306 people in three weeks",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Soil mapping aims to boost agricultural production in Kenya",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
-      "date": "Fri, 23 Oct 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Student-led movement seeks to unseat ruling party in Serbian election",
@@ -498,13 +449,6 @@
       "text": "‘Generational rage’ drives young Europeans to fight to be heard",
       "link": "https://www.rfi.fr/en/international/20261023-generational-rage-young-europeans-fight-to-be-heard",
       "date": "Fri, 23 Oct 2026 02:37:05 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "date": "Thu, 22 Oct 2026 21:53:28 GMT"
     }
   ]
 }
