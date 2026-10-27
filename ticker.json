@@ -1,48 +1,251 @@
 {
-  "updated": "2026-10-27T19:43:42.589Z",
+  "updated": "2026-10-27T23:17:30.513Z",
   "count": 64,
   "items": [
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Dutch zookeeper dies after being mauled in leopard enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 19:30:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 19:28:12 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
-      "link": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 19:12:35 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump says he’ll respect US midterm results if elections are ‘honest’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 19:11:27 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "King Charles confronts calls for slavery apology during Caribbean tour",
+      "link": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
+      "date": "Tue, 27 Oct 2026 23:14:34 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Norway, Finland leaders hold &#039;frank and substantive&#039; talk with Putin",
-      "link": "https://www.channelnewsasia.com/world/norway-finland-russia-putin-ukraine-war-6497676",
-      "date": "Wed, 28 Oct 2026 03:01:56 +0800"
+      "text": "Does ethnicity affect the type of breast cancer you develop and how easily it&#039;s detected?",
+      "link": "https://www.channelnewsasia.com/women/breast-cancer-ethnicity-singapore-6474356",
+      "date": "Wed, 28 Oct 2026 07:14:04 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
+      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+      "date": "Tue, 27 Oct 2026 22:58:53 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "From Formula One outsider to 300 starts: Perez marks milestone in Mexico",
+      "link": "https://www.channelnewsasia.com/sport/formula-one-outsider-300-starts-perez-marks-milestone-in-mexico-6498006",
+      "date": "Wed, 28 Oct 2026 06:58:42 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 22:56:32 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fourth-tier Fleetwood stun Arsenal in League Cup shootout",
+      "link": "https://www.channelnewsasia.com/sport/fourth-tier-fleetwood-stun-arsenal-in-league-cup-shootout-6497986",
+      "date": "Wed, 28 Oct 2026 06:40:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 22:31:31 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 22:29:31 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Orange crush: Timepieces that make a bold statement",
+      "link": "https://www.channelnewsasia.com/obsessions/orange-luxury-watches-hermes-omega-hublot-6485951",
+      "date": "Wed, 28 Oct 2026 06:21:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Espanyol sack Gonzalez following shock Sestao defeat",
+      "link": "https://www.channelnewsasia.com/sport/espanyol-sack-gonzalez-following-shock-sestao-defeat-6497961",
+      "date": "Wed, 28 Oct 2026 06:13:30 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 19:01:16 GMT"
+      "text": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 22:11:08 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "date": "Tue, 27 Oct 2026 22:03:00 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Too late, too far, too little choice: Why surplus food apps face challenges matching meals with takers",
+      "link": "https://www.channelnewsasia.com/singapore/food-rescue-apps-surplus-food-discount-6495796",
+      "date": "Wed, 28 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Singapore’s next big technology bet cannot wait till we’ve figured out AI",
+      "link": "https://www.channelnewsasia.com/commentary/singapore-ai-quantum-tech-jobs-investment-6494781",
+      "date": "Wed, 28 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘My hands start itching’: Inside Indonesia’s online gambling addiction",
+      "link": "https://www.channelnewsasia.com/asia/my-hands-start-itching-inside-indonesias-online-gambling-addiction-6464871",
+      "date": "Wed, 28 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 21:47:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel: First exit polls show no clear winner, Arab parties make gains",
+      "link": "https://www.france24.com/en/video/20261027-israel-first-exit-polls-show-no-clear-winner-arab-parties-make-gains",
+      "date": "Tue, 27 Oct 2026 21:41:42 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Bolsonaro and family to be granted US visas after election loss",
+      "link": "https://news.sky.com/story/bolsonaro-and-family-to-be-granted-us-visas-after-election-loss-state-department-says-13604558",
+      "date": "Tue, 27 Oct 2026 21:35:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 21:28:33 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Party Plenums Matter So Much to Xi",
+      "link": "https://foreignpolicy.com/2026/10/27/china-ccp-fifth-plenum-xi-jinping-politics-corruption/",
+      "date": "Tue, 27 Oct 2026 21:28:22 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bibi's moment of truth: Israel votes in first general election since October 7",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
+      "date": "Tue, 27 Oct 2026 21:26:10 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Forever Wars: Why can’t America stop?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 21:21:08 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Decoding Israel’s Election Results",
+      "link": "https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-likud-eisenkot-yashar-hamas-gaza-war/",
+      "date": "Tue, 27 Oct 2026 21:19:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Will players in the Gulf establish a new security framework?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 21:14:12 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 21:12:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 21:12:27 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 21:09:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Brazil's defeated candidate Flavio Bolsonaro heads to US, sources say",
+      "link": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+      "date": "Tue, 27 Oct 2026 20:49:40 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Trump’s Tariffs Will Have Another Day in Court",
+      "link": "https://foreignpolicy.com/2026/10/27/trump-tariffs-trade-war-court-ieepa/",
+      "date": "Tue, 27 Oct 2026 20:46:52 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 20:44:40 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted",
+      "link": "https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-eisenkot-palestinians-gaza/",
+      "date": "Tue, 27 Oct 2026 20:39:45 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+      "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+      "date": "Tue, 27 Oct 2026 20:23:46 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Live: Israeli exit polls show narrow edge for opposition but no clear majority against Netanyahu",
+      "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+      "date": "Tue, 27 Oct 2026 20:16:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+      "link": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
+      "date": "Tue, 27 Oct 2026 19:44:07 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Dutch zookeeper dies after being mauled by leopard",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 19:30:37 GMT"
     },
     {
       "src": "France 24",
@@ -50,83 +253,6 @@
       "text": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
       "link": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
       "date": "Tue, 27 Oct 2026 18:59:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "How student assemblies brought down the Serbian government",
-      "link": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
-      "date": "Tue, 27 Oct 2026 18:58:25 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Deadly tornado strikes construction site in Turkiye",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 18:52:07 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mercedes spent millions on nurturing Antonelli after Ferrari said no",
-      "link": "https://www.channelnewsasia.com/sport/mercedes-spent-millions-nurturing-antonelli-after-ferrari-said-no-6497711",
-      "date": "Wed, 28 Oct 2026 02:49:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
-      "link": "https://www.channelnewsasia.com/business/hacking-attempts-against-us-federal-election-commission-system-triggered-outage-email-shows-6497701",
-      "date": "Wed, 28 Oct 2026 02:44:50 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 18:43:41 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia jails IT worker for 13 years for donating money to Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 18:42:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 18:41:28 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
-      "link": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 18:38:13 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-      "link": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 18:35:05 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
-      "link": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
-      "date": "Tue, 27 Oct 2026 18:34:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "🔴Live: Israeli election committee refuses Netanyahu's request to extend voting hours",
-      "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
-      "date": "Tue, 27 Oct 2026 18:30:47 GMT"
     },
     {
       "src": "BBC World",
@@ -138,72 +264,9 @@
     {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "date": "Tue, 27 Oct 2026 18:27:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-      "link": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
-      "date": "Tue, 27 Oct 2026 18:27:15 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
-      "link": "https://www.channelnewsasia.com/business/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-6497686",
-      "date": "Wed, 28 Oct 2026 02:25:28 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Trump says will respect US midterm results &#039;if they&#039;re honest&#039;",
-      "link": "https://www.channelnewsasia.com/world/trump-us-midterms-election-respect-honest-results-6497496",
-      "date": "Wed, 28 Oct 2026 01:59:29 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Smith’s absence a pain in the neck for Australia’s reshuffled top six batting",
-      "link": "https://www.channelnewsasia.com/sport/smiths-absence-pain-in-neck-australias-reshuffled-top-six-batting-6497571",
-      "date": "Wed, 28 Oct 2026 01:55:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early",
-      "link": "https://www.channelnewsasia.com/business/asm-international-expects-q4-sales-above-forecasts-hit-2030-goal-three-years-early-6497561",
-      "date": "Wed, 28 Oct 2026 01:50:27 +0800"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
       "text": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
       "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
       "date": "Tue, 27 Oct 2026 17:35:50 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NFL-49ers&#039; Kittle says sour taste from first loss will fuel team",
-      "link": "https://www.channelnewsasia.com/sport/nfl-49ers-kittle-says-sour-taste-first-loss-will-fuel-team-6497531",
-      "date": "Wed, 28 Oct 2026 01:25:32 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
-      "link": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
-      "date": "Tue, 27 Oct 2026 17:08:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israelis vote in a tense election: What's at stake?",
-      "link": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
-      "date": "Tue, 27 Oct 2026 16:59:06 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -213,39 +276,11 @@
       "date": "Tue, 27 Oct 2026 16:52:34 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel elections: voter turnout reaches 55% by 4pm local time",
-      "link": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
-      "date": "Tue, 27 Oct 2026 16:52:33 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "date": "Tue, 27 Oct 2026 16:46:23 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Iraqi court jails seven French nationals over Islamic State membership",
       "link": "https://www.rfi.fr/en/international/20261027-iraqi-court-jails-seven-french-nationals-over-islamic-state-membership",
       "date": "Tue, 27 Oct 2026 16:30:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 15:13:24 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 14:29:39 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -260,13 +295,6 @@
       "text": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 27 Oct 2026 13:25:54 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Defeated Brazilian presidential candidate 'ordered to hand over passports'",
-      "link": "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365",
-      "date": "Tue, 27 Oct 2026 13:01:00 +0000"
     },
     {
       "src": "Sky News",
@@ -297,20 +325,6 @@
       "date": "Tue, 27 Oct 2026 11:00:58 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Global Push to Keep Kids Off Social Media",
-      "link": "https://foreignpolicy.com/2026/10/27/social-media-age-restrictions-australia-china-india/",
-      "date": "Tue, 27 Oct 2026 10:00:05 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "China Is Building Its Way Around Europe’s EV Tariffs",
-      "link": "https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy/",
-      "date": "Tue, 27 Oct 2026 09:00:18 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Mbappe apologises for 'ill-judged' Mao remark after being dropped by Chinese brands",
@@ -332,13 +346,6 @@
       "date": "Tue, 27 Oct 2026 07:38:00 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "China Takes Its Lawfare to Sea",
-      "link": "https://foreignpolicy.com/2026/10/27/panama-canal-china-maritime-lawfare/",
-      "date": "Tue, 27 Oct 2026 04:01:59 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ebola cases in DRC surpass 10,000 as nurse treating patients is killed by machete-wielding mob",
@@ -351,13 +358,6 @@
       "text": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
       "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 27 Oct 2026 01:46:38 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Serbia’s Student Protesters Deserve a Nobel Prize",
-      "link": "https://foreignpolicy.com/2026/10/26/serbia-elections-students-nobel-prize/",
-      "date": "Mon, 26 Oct 2026 21:06:07 +0000"
     },
     {
       "src": "The Guardian",
