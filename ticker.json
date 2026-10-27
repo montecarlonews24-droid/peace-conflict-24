@@ -1,13 +1,244 @@
 {
-  "updated": "2026-10-27T14:42:46.142Z",
-  "count": 72,
+  "updated": "2026-10-27T19:43:42.589Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 19:30:37 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 19:28:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
+      "link": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 19:12:35 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says he’ll respect US midterm results if elections are ‘honest’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 19:11:27 +0000"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Exclusive-Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
-      "link": "https://www.channelnewsasia.com/business/exclusive-neocloud-firm-argentum-ai-in-talks-5-billion-ai-chip-financing-sources-say-6497031",
-      "date": "Tue, 27 Oct 2026 22:33:14 +0800"
+      "text": "Norway, Finland leaders hold &#039;frank and substantive&#039; talk with Putin",
+      "link": "https://www.channelnewsasia.com/world/norway-finland-russia-putin-ukraine-war-6497676",
+      "date": "Wed, 28 Oct 2026 03:01:56 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 19:01:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
+      "link": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
+      "date": "Tue, 27 Oct 2026 18:59:43 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "How student assemblies brought down the Serbian government",
+      "link": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
+      "date": "Tue, 27 Oct 2026 18:58:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Deadly tornado strikes construction site in Turkiye",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 18:52:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mercedes spent millions on nurturing Antonelli after Ferrari said no",
+      "link": "https://www.channelnewsasia.com/sport/mercedes-spent-millions-nurturing-antonelli-after-ferrari-said-no-6497711",
+      "date": "Wed, 28 Oct 2026 02:49:06 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
+      "link": "https://www.channelnewsasia.com/business/hacking-attempts-against-us-federal-election-commission-system-triggered-outage-email-shows-6497701",
+      "date": "Wed, 28 Oct 2026 02:44:50 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 18:43:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Russia jails IT worker for 13 years for donating money to Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 18:42:48 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 18:41:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
+      "link": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 18:38:13 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+      "link": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 18:35:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+      "link": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+      "date": "Tue, 27 Oct 2026 18:34:19 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Live: Israeli election committee refuses Netanyahu's request to extend voting hours",
+      "link": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+      "date": "Tue, 27 Oct 2026 18:30:47 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Norway and Finland leaders hold rare call with Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 18:28:23 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "date": "Tue, 27 Oct 2026 18:27:32 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+      "link": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
+      "date": "Tue, 27 Oct 2026 18:27:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
+      "link": "https://www.channelnewsasia.com/business/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-6497686",
+      "date": "Wed, 28 Oct 2026 02:25:28 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump says will respect US midterm results &#039;if they&#039;re honest&#039;",
+      "link": "https://www.channelnewsasia.com/world/trump-us-midterms-election-respect-honest-results-6497496",
+      "date": "Wed, 28 Oct 2026 01:59:29 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Smith’s absence a pain in the neck for Australia’s reshuffled top six batting",
+      "link": "https://www.channelnewsasia.com/sport/smiths-absence-pain-in-neck-australias-reshuffled-top-six-batting-6497571",
+      "date": "Wed, 28 Oct 2026 01:55:06 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early",
+      "link": "https://www.channelnewsasia.com/business/asm-international-expects-q4-sales-above-forecasts-hit-2030-goal-three-years-early-6497561",
+      "date": "Wed, 28 Oct 2026 01:50:27 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+      "date": "Tue, 27 Oct 2026 17:35:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NFL-49ers&#039; Kittle says sour taste from first loss will fuel team",
+      "link": "https://www.channelnewsasia.com/sport/nfl-49ers-kittle-says-sour-taste-first-loss-will-fuel-team-6497531",
+      "date": "Wed, 28 Oct 2026 01:25:32 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
+      "link": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
+      "date": "Tue, 27 Oct 2026 17:08:44 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israelis vote in a tense election: What's at stake?",
+      "link": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+      "date": "Tue, 27 Oct 2026 16:59:06 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Israel a Good Ally?",
+      "link": "https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/",
+      "date": "Tue, 27 Oct 2026 16:52:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israel elections: voter turnout reaches 55% by 4pm local time",
+      "link": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+      "date": "Tue, 27 Oct 2026 16:52:33 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "date": "Tue, 27 Oct 2026 16:46:23 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Iraqi court jails seven French nationals over Islamic State membership",
+      "link": "https://www.rfi.fr/en/international/20261027-iraqi-court-jails-seven-french-nationals-over-islamic-state-membership",
+      "date": "Tue, 27 Oct 2026 16:30:57 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 15:13:24 GMT"
     },
     {
       "src": "BBC World",
@@ -17,116 +248,11 @@
       "date": "Tue, 27 Oct 2026 14:29:39 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Deli Hub Catering suspended after 53 develop gastroenteritis symptoms at two MOE kindergartens",
-      "link": "https://www.channelnewsasia.com/singapore/deli-hub-catering-suspended-gastroenteritis-moe-kindergartens-6496906",
-      "date": "Tue, 27 Oct 2026 22:27:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Palestinians protest against military demolitions in West Bank as Israelis vote",
-      "link": "https://www.channelnewsasia.com/world/palestinians-protest-against-military-demolitions-in-west-bank-israelis-vote-6496861",
-      "date": "Tue, 27 Oct 2026 22:24:31 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 14:23:05 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Space Junk Is a Problem We Know How to Solve",
       "link": "https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/",
       "date": "Tue, 27 Oct 2026 14:08:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "King Charles’s Caribbean tour: Will he discuss slavery reparations?",
-      "link": "https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 14:05:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:59:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
-      "link": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:54:43 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Putellas completes remarkable comeback with record-equalling third Ballon d&#039;Or",
-      "link": "https://www.channelnewsasia.com/sport/putellas-completes-remarkable-comeback-record-equalling-third-ballon-dor-6496871",
-      "date": "Tue, 27 Oct 2026 21:54:10 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Intel to buy quantum firm Classiq for about $2.3 billion, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/intel-buy-quantum-firm-classiq-about-23-billion-bloomberg-news-reports-6496851",
-      "date": "Tue, 27 Oct 2026 21:46:30 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Revisiting the delicate art of French patisserie",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20261027-revisiting-the-delicate-art-of-french-patisserie",
-      "date": "Tue, 27 Oct 2026 13:45:37 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-      "link": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:45:01 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "High inflation to persist globally into next year, Reuters poll shows",
-      "link": "https://www.channelnewsasia.com/business/high-inflation-persist-globally-next-year-reuters-poll-shows-6496826",
-      "date": "Tue, 27 Oct 2026 21:40:04 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-      "link": "https://www.channelnewsasia.com/business/apple-launches-m6-macbook-pro-and-imac-pitches-faster-device-ai-6496821",
-      "date": "Tue, 27 Oct 2026 21:39:05 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:34:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-      "link": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:29:47 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
-      "link": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:26:32 +0000"
     },
     {
       "src": "BBC World",
@@ -136,67 +262,18 @@
       "date": "Tue, 27 Oct 2026 13:25:54 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iranians brace for renewed attacks after Israeli, US elections",
-      "link": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
-      "date": "Tue, 27 Oct 2026 13:23:32 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Defeated Brazilian presidential candidate 'ordered to hand over passports'",
+      "link": "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365",
+      "date": "Tue, 27 Oct 2026 13:01:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 13:23:32 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Essen gates sealed as Leipzig Cup welcome turns concrete",
-      "link": "https://www.channelnewsasia.com/sport/essen-gates-sealed-leipzig-cup-welcome-turns-concrete-6496776",
-      "date": "Tue, 27 Oct 2026 21:21:28 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli election: A referendum on 'Bibi' Netanyahu?",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
-      "date": "Tue, 27 Oct 2026 12:52:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli PM casts his ballot as voters voice opposition to Netanyahu outside polling stations",
-      "link": "https://www.france24.com/en/israeli-pm-casts-his-ballot-as-voters-voice-opposition-to-netanyahu-outside-polling-stations",
-      "date": "Tue, 27 Oct 2026 12:42:27 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "England's Kane wins Ballon d'Or, Putellas claims women's award",
-      "link": "https://www.france24.com/en/england-s-kane-wins-ballon-d-or-putellas-claims-women-s-award",
-      "date": "Tue, 27 Oct 2026 12:37:19 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Localised Russia-Ukraine ceasefire starts Ukrainian town facing starvation",
-      "link": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
-      "date": "Tue, 27 Oct 2026 12:34:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Get the Flock out': Americans respond to AI cameras in bipartisan backlash",
-      "link": "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections",
-      "date": "Tue, 27 Oct 2026 12:26:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ballon d’Or winner Harry Kane delivers emotional acceptance speech",
-      "link": "https://www.france24.com/en/ballon-d-or-winner-harry-kane-delivers-emotional-acceptance-speech",
-      "date": "Tue, 27 Oct 2026 12:20:50 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "At least 62 killed and thousands displaced in gunmen attack in Nigeria",
+      "link": "https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353",
+      "date": "Tue, 27 Oct 2026 12:02:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -204,41 +281,6 @@
       "text": "Trump Has Lost the Foreign-Policy Debate",
       "link": "https://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/",
       "date": "Tue, 27 Oct 2026 12:00:54 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168677",
-      "date": "Tue, 27 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168676",
-      "date": "Tue, 27 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "American rapper Macklemore begins 'Free Palestine' tour",
-      "link": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
-      "date": "Tue, 27 Oct 2026 11:57:27 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 11:53:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 11:11:33 GMT"
     },
     {
       "src": "Sky News",
@@ -306,30 +348,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 27 Oct 2026 02:40:17 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
       "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 27 Oct 2026 01:46:38 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "date": "Tue, 27 Oct 2026 00:00:03 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-      "date": "Mon, 26 Oct 2026 23:02:17 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -337,27 +358,6 @@
       "text": "Serbia’s Student Protesters Deserve a Nobel Prize",
       "link": "https://foreignpolicy.com/2026/10/26/serbia-elections-students-nobel-prize/",
       "date": "Mon, 26 Oct 2026 21:06:07 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Vucic’s Reign Is Over",
-      "link": "https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-protests-lula-brazil/",
-      "date": "Mon, 26 Oct 2026 20:40:17 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "How the streets and social media drove Lula to a historic comeback in Brazil",
-      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "date": "Mon, 26 Oct 2026 17:56:50 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Vatican issues Pope health update ahead of South America trip",
-      "link": "https://news.sky.com/story/pope-in-good-health-and-trip-to-south-america-will-go-ahead-as-planned-vatican-says-13604112",
-      "date": "Mon, 26 Oct 2026 17:09:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -372,55 +372,6 @@
       "text": "Macron promises 'concrete measures' over protest demands - amid fears of Halloween unrest",
       "link": "https://news.sky.com/story/macron-promises-concrete-measures-over-protest-demands-amid-fears-of-halloween-unrest-13604048",
       "date": "Mon, 26 Oct 2026 14:44:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Women and girls’ share of civilian war deaths doubles since 2021",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168673",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "In Egypt, Guterres warns against Iran-US escalation",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ebola: UN officials condemn killing of nurse in DR Congo",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168667",
-      "date": "Mon, 26 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-      "link": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953",
-      "date": "Mon, 26 Oct 2026 11:27:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -498,13 +449,6 @@
       "text": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
       "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
       "date": "Fri, 23 Oct 2026 13:57:11 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Student-led movement seeks to unseat ruling party in Serbian election",
-      "link": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election",
-      "date": "Fri, 23 Oct 2026 11:30:51 GMT"
     }
   ]
 }
