@@ -1,62 +1,258 @@
 {
-  "updated": "2026-10-29T13:24:01.909Z",
-  "count": 64,
+  "updated": "2026-10-29T19:02:52.116Z",
+  "count": 72,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France: Trappes racist shooting suspect transferred to French court",
-      "link": "https://www.france24.com/en/video/20261029-france-trappes-racist-shooting-suspect-transferred-to-french-court",
-      "date": "Thu, 29 Oct 2026 13:22:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Niger: Guards accused of 'cruel, inhuman' treatment after 33 die in detention",
-      "link": "https://www.france24.com/en/video/20261029-niger-guards-accused-of-cruel-inhuman-treatment-after-33-die-in-detention",
-      "date": "Thu, 29 Oct 2026 13:17:57 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "&#039;So shameful&#039;: Top Kenyan runners dismayed over Jepchirchir doping case",
+      "link": "https://www.channelnewsasia.com/sport/so-shameful-top-kenyan-runners-dismayed-over-jepchirchir-doping-case-6504796",
+      "date": "Fri, 30 Oct 2026 02:53:22 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Finland launches criminal probe of suspected environmental damage at Google data centre site",
-      "link": "https://www.channelnewsasia.com/business/finland-launches-criminal-probe-suspected-environmental-damage-google-data-centre-site-6503686",
-      "date": "Thu, 29 Oct 2026 21:16:06 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Very disturbing details': Trappes shooting suspect admits targeting victims by race, religion",
-      "link": "https://www.france24.com/en/video/20261029-very-disturbing-details-trappes-shooting-suspect-admits-targeting-victims-by-race-religion",
-      "date": "Thu, 29 Oct 2026 13:10:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain begins three days of mourning after train crash kills 69",
-      "link": "https://www.france24.com/en/video/20261029-spain-begins-three-days-of-mourning-after-train-crash-kills-69",
-      "date": "Thu, 29 Oct 2026 13:01:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israelis await final election results as difficult choices lie ahead",
-      "link": "https://www.france24.com/en/video/20261029-israelis-await-final-election-results-as-difficult-choices-lie-ahead",
-      "date": "Thu, 29 Oct 2026 12:59:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain's train crash kills 69 people: What exactly happened?",
-      "link": "https://www.france24.com/en/video/20261029-spain-s-train-crash-kills-69-people-what-exactly-happened",
-      "date": "Thu, 29 Oct 2026 12:53:20 GMT"
+      "text": "OpenAI says human intent at center of updated AI model guidelines",
+      "link": "https://www.channelnewsasia.com/business/openai-says-human-intent-center-updated-ai-model-guidelines-6504786",
+      "date": "Fri, 30 Oct 2026 02:45:42 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:53:11 +0000"
+      "text": "Texas Republican group seeks to block certification of state’s election",
+      "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:40:01 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Machado says Trump opened &#039;floodgate to freedom&#039; for Venezuela",
+      "link": "https://www.channelnewsasia.com/world/venezuela-machado-maduro-trump-freedom-6504766",
+      "date": "Fri, 30 Oct 2026 02:36:45 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+      "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:30:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cornell begins no-confidence vote after alleged gang rape",
+      "link": "https://www.channelnewsasia.com/world/cornell-university-no-confidence-vote-gang-rape-6504741",
+      "date": "Fri, 30 Oct 2026 02:26:01 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Finland launches criminal probe of suspected environmental damage by Google",
+      "link": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:24:13 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Al Jazeera marks 30th anniversary with network overhaul",
+      "link": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:20:07 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+      "link": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
+      "date": "Thu, 29 Oct 2026 18:15:38 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+      "link": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:11:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
+      "link": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
+      "date": "Thu, 29 Oct 2026 18:09:28 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "At least 14 people killed in attack on Ukraine train station",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 18:03:21 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Martian meteorite found in the Sahara is 4.1 billion years old",
+      "link": "https://www.channelnewsasia.com/business/martian-meteorite-found-in-sahara-41-billion-years-old-6504496",
+      "date": "Fri, 30 Oct 2026 02:02:50 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Microsoft expects to raise $25 billion in US bond sale, source says",
+      "link": "https://www.channelnewsasia.com/business/microsoft-expects-raise-25-billion-in-us-bond-sale-source-says-6504501",
+      "date": "Fri, 30 Oct 2026 02:01:30 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Afghanistan&#039;s Rashid becomes first men&#039;s player to claim 200 T20I wickets",
+      "link": "https://www.channelnewsasia.com/sport/afghanistans-rashid-becomes-first-mens-player-claim-200-t20i-wickets-6504506",
+      "date": "Fri, 30 Oct 2026 02:01:28 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "date": "Thu, 29 Oct 2026 17:49:47 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "date": "Thu, 29 Oct 2026 17:46:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Arsenal lose appeal against Dowman red card, FA says",
+      "link": "https://www.channelnewsasia.com/sport/arsenal-lose-appeal-against-dowman-red-card-fa-says-6504336",
+      "date": "Fri, 30 Oct 2026 01:44:14 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
+      "link": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 17:28:18 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+      "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+      "date": "Thu, 29 Oct 2026 17:25:17 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
+      "link": "https://www.france24.com/en/an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-never-have-happened",
+      "date": "Thu, 29 Oct 2026 17:15:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "DR Congo: A centre celebrates the discharge of last Ebola patients",
+      "link": "https://www.france24.com/en/video/20261029-dr-congo-a-centre-celebrates-the-discharge-of-last-ebola-patients",
+      "date": "Thu, 29 Oct 2026 17:13:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ireland becomes refuge for anti-Trump Americans",
+      "link": "https://www.france24.com/en/tv-shows/reporters/20261029-ireland-becomes-refuge-for-anti-trump-americans",
+      "date": "Thu, 29 Oct 2026 17:08:46 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 17:02:59 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ian McEwan speculates on 'What We Can Know' in the 22nd century",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20261029-ian-mcewan-speculates-on-what-we-can-know-in-the-22nd-century",
+      "date": "Thu, 29 Oct 2026 16:29:20 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "FIFA to double Women's World Cup prize money - but it doesn't match men's tournament",
+      "link": "https://news.sky.com/story/fifa-to-double-womens-world-cup-prize-money-but-it-doesnt-match-mens-tournament-13605433",
+      "date": "Thu, 29 Oct 2026 16:25:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
+      "link": "https://www.france24.com/en/americas/20261029-flavio-bolsonaro-s-great-escape-is-this-the-beginning-of-the-end-for-bolsonarism",
+      "date": "Thu, 29 Oct 2026 16:19:17 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+      "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
+      "date": "Thu, 29 Oct 2026 16:19:14 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Google parent company takes $500bn market hit over AI fears",
+      "link": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+      "date": "Thu, 29 Oct 2026 16:06:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 15:47:20 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
+      "link": "https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395",
+      "date": "Thu, 29 Oct 2026 15:18:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 14:58:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 14:17:35 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Albanian MPs set off flares in parliament after weeks of anti-government protests",
+      "link": "https://news.sky.com/story/albanian-opposition-mps-disrupt-parliament-with-flares-after-weeks-of-anti-government-protests-13605349",
+      "date": "Thu, 29 Oct 2026 13:45:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 13:44:39 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
       "src": "BBC World",
@@ -66,130 +262,39 @@
       "date": "Thu, 29 Oct 2026 12:49:17 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US 2026: Georgia’s African Americans mobilise for the midterms",
-      "link": "https://www.france24.com/en/video/20261029-us-2026-georgia-s-african-americans-mobilise-for-the-midterms",
-      "date": "Thu, 29 Oct 2026 12:49:09 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "link": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:46:29 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Afghan farmers pushed to opium farming to make a living",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/title-afghan-farmers-pushed-to-opium-farming-to-make-a-living?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:42:11 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Osaka knocked out in Tokyo by teenager Pohankova in second round",
-      "link": "https://www.channelnewsasia.com/sport/osaka-knocked-out-in-tokyo-teenager-pohankova-in-second-round-6503586",
-      "date": "Thu, 29 Oct 2026 20:40:17 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korean prosecutors press for death sentence in Yoon martial law case",
-      "link": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:36:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:32:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "link": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:29:05 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "USA: Barack Obama slams Donald Trump in final midterm push",
-      "link": "https://www.france24.com/en/video/20261029-usa-barack-obama-slams-donald-trump-in-final-midterm-push",
-      "date": "Thu, 29 Oct 2026 12:28:13 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russian drone strike on Ukraine train station kills 13",
-      "link": "https://www.channelnewsasia.com/world/russian-drone-strike-ukraine-train-station-kills-13-6503511",
-      "date": "Thu, 29 Oct 2026 20:28:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 12:27:31 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dortmund&#039;s Karetsas could be fit to face Bayern says coach Kovac",
-      "link": "https://www.channelnewsasia.com/sport/dortmunds-karetsas-could-be-fit-face-bayern-says-coach-kovac-6503516",
-      "date": "Thu, 29 Oct 2026 20:26:48 +0800"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Police to examine Thomas Markle's digital devices after child sex abuse image claims",
-      "link": "https://news.sky.com/story/police-in-philippines-to-examine-thomas-markle-seniors-digital-devices-after-child-sex-abuse-image-claims-13605307",
-      "date": "Thu, 29 Oct 2026 12:26:00 +0000"
+      "text": "Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next",
+      "link": "https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308",
+      "date": "Thu, 29 Oct 2026 12:28:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assault?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:10:57 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Russia drone strike on Ukrainian railway station kills 13",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
-      "date": "Thu, 29 Oct 2026 12:10:22 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Nature is making a comeback – now restoration funding must quadruple",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168700",
+      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation",
-      "link": "https://www.channelnewsasia.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-6503416",
-      "date": "Thu, 29 Oct 2026 20:02:22 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore closes car loan loophole by extending financing curbs to individually owned private-hire cars",
-      "link": "https://www.channelnewsasia.com/singapore/private-hire-car-loan-loophole-individually-owned-6503006",
-      "date": "Thu, 29 Oct 2026 20:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Spanish rescuers search for victims as train crash death toll rises to 69",
-      "link": "https://www.channelnewsasia.com/world/spanish-rescuers-search-victims-train-crash-death-toll-rises-69-6502846",
-      "date": "Thu, 29 Oct 2026 19:55:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Roux de Bezieux named head of French Alps 2030 committee, organisers say",
-      "link": "https://www.channelnewsasia.com/sport/roux-de-bezieux-named-head-french-alps-2030-committee-organisers-say-6503381",
-      "date": "Thu, 29 Oct 2026 19:45:25 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -201,28 +306,14 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Could she stand? Lagarde quits European Central Bank ahead of French election",
+      "text": "Will she stand? Lagarde quits European Central Bank ahead of French election",
       "link": "https://news.sky.com/story/lagarde-quits-european-central-bank-ahead-of-french-election-13605291",
       "date": "Thu, 29 Oct 2026 11:31:00 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 11:27:05 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 11:22:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "text": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 29 Oct 2026 11:07:35 GMT"
     },
@@ -262,27 +353,6 @@
       "date": "Thu, 29 Oct 2026 02:03:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Details of thousands of US immigration agents leaked in major hack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 01:30:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 01:14:01 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "US makes interest rate decision - as Bank of England verdict looms",
-      "link": "https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142",
-      "date": "Wed, 28 Oct 2026 23:51:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Bangladesh Measles Outbreak Is a ‘Warning Sign’",
@@ -302,34 +372,6 @@
       "text": "Flávio Bolsonaro Becomes a Florida Man",
       "link": "https://foreignpolicy.com/2026/10/28/flavio-bolsonaro-flees-brazil-florida-trump-presidential-election-lula/",
       "date": "Wed, 28 Oct 2026 21:35:31 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "EU backs away from offer to Canada to start ‘associate member’ talks",
-      "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-      "date": "Wed, 28 Oct 2026 21:27:33 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 28 Oct 2026 21:16:30 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-      "date": "Wed, 28 Oct 2026 20:15:07 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Defiant Bolsonaro breaks silence after fleeing Brazil for the US",
-      "link": "https://news.sky.com/story/flavio-bolsonaro-insists-he-is-leader-of-brazil-despite-losing-election-run-off-13605006",
-      "date": "Wed, 28 Oct 2026 19:48:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -360,6 +402,34 @@
       "date": "Wed, 28 Oct 2026 14:16:24 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Higher Ground: How New York is raising a park to hold back the sea",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+      "date": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "date": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "UN human rights chief urges better protection of civilians in conflicts",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+      "date": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Backing for UN call to end Cuba embargo falls to 20-year low",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+      "date": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Spanish high-speed train collision kills dozens and injures more than 100",
@@ -374,25 +444,11 @@
       "date": "Wed, 28 Oct 2026 10:05:19 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Knife attacker shot dead by police outside Israeli embassy",
-      "link": "https://news.sky.com/story/serbia-knife-attacker-shot-dead-by-police-outside-israeli-embassy-in-belgrade-13604683",
-      "date": "Wed, 28 Oct 2026 10:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
       "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
       "date": "Wed, 28 Oct 2026 09:37:49 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Zookeeper dies after leopard attack",
-      "link": "https://news.sky.com/story/zookeeper-dies-after-being-attacked-by-leopard-13604687",
-      "date": "Wed, 28 Oct 2026 08:36:00 +0000"
     },
     {
       "src": "RFI",
