@@ -1,167 +1,286 @@
 {
-  "updated": "2026-10-30T16:03:43.949Z",
-  "count": 72,
+  "updated": "2026-10-30T20:55:28.720Z",
+  "count": 64,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 20:41:51 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 20:34:46 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "October ends with a thud for Intel, Reddit, AI stalwarts",
+      "link": "https://www.channelnewsasia.com/business/october-ends-thud-intel-reddit-ai-stalwarts-6508591",
+      "date": "Sat, 31 Oct 2026 04:34:04 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Leclerc fastest in Mexico practice, Antonelli returns from sickness",
+      "link": "https://www.channelnewsasia.com/sport/leclerc-fastest-in-mexico-practice-antonelli-returns-sickness-6508576",
+      "date": "Sat, 31 Oct 2026 04:28:31 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 20:13:36 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 20:10:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Port Sudan families can barely afford water as shortages persist",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 20:10:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 20:00:10 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Canada and EU announce new alliance open to like-minded countries",
+      "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "date": "Fri, 30 Oct 2026 19:42:15 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How 20-year-old Kimi Antonelli is making F1 history",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 19:39:03 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "What to know about California’s midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 19:38:49 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 19:34:36 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
+      "link": "https://www.channelnewsasia.com/business/oil-jumps-2-settles-6-month-highs-fears-escalation-in-iran-6505721",
+      "date": "Sat, 31 Oct 2026 03:26:29 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+      "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 19:16:30 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Russia the Disruptor",
+      "link": "https://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/",
+      "date": "Fri, 30 Oct 2026 19:15:49 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "AI Isn’t a Revolution—Yet",
+      "link": "https://foreignpolicy.com/2026/10/30/artificial-intelligence-ai-revolution-technology-history-luddites/",
+      "date": "Fri, 30 Oct 2026 19:00:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 18:55:36 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Fame, Fortune, and Murder in 1960s France",
+      "link": "https://foreignpolicy.com/2026/10/30/french-history-edward-chisholm-murder-paris-68-alain-delon-scandal/",
+      "date": "Fri, 30 Oct 2026 18:45:17 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oil prices set for fourth straight monthly gains as tanker attack highlights supply risks",
+      "link": "https://www.channelnewsasia.com/world/oil-prices-set-fourth-straight-monthly-gains-tanker-attack-highlights-supply-risks-6508426",
+      "date": "Sat, 31 Oct 2026 02:43:00 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
+      "link": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
+      "date": "Fri, 30 Oct 2026 18:37:58 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Norris says he never blames equipment if a teammate beats him",
+      "link": "https://www.channelnewsasia.com/sport/norris-says-he-never-blames-equipment-if-teammate-beats-him-6508411",
+      "date": "Sat, 31 Oct 2026 02:21:32 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China says stealth attack drone makes first takeoff, landing on amphibious ship",
+      "link": "https://www.channelnewsasia.com/world/china-says-stealth-attack-drone-makes-first-takeoff-landing-amphibious-ship-6507981",
+      "date": "Sat, 31 Oct 2026 02:16:16 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Netflix’s ‘The New Stanford Prison Experiment’ for Real?",
+      "link": "https://foreignpolicy.com/2026/10/30/netflix-new-stanford-prison-experiment-review/",
+      "date": "Fri, 30 Oct 2026 18:15:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "MAGA: Why Trump's movement is fracturing?",
+      "link": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
+      "date": "Fri, 30 Oct 2026 18:01:38 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "‘I Welcome Their Hatred’",
+      "link": "https://foreignpolicy.com/2026/10/30/fdr-madison-square-garden-speech-new-deal-democrats/",
+      "date": "Fri, 30 Oct 2026 18:00:42 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat",
+      "link": "https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874",
+      "date": "Fri, 30 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
+      "link": "https://www.channelnewsasia.com/business/alliant-targets-1-gw-new-data-center-contracts-in-six-months-power-demand-surges-6507986",
+      "date": "Sat, 31 Oct 2026 01:55:57 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US SEC&#039;s top cop says agency is monitoring AI corporate disclosures",
+      "link": "https://www.channelnewsasia.com/business/us-secs-top-cop-says-agency-monitoring-ai-corporate-disclosures-6507991",
+      "date": "Sat, 31 Oct 2026 01:55:27 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/10/30/news-quiz-lula-brazil-election-serbia-vucic-israel-china-fifth-plenum-ccp/",
+      "date": "Fri, 30 Oct 2026 17:47:37 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Trump’s Hail Mary on Fuel Prices Fell Short",
+      "link": "https://foreignpolicy.com/2026/10/30/trump-russia-diesel-deal-putin-prices-midterms-iran-war/",
+      "date": "Fri, 30 Oct 2026 17:31:38 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 17:25:20 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
+      "link": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
+      "date": "Fri, 30 Oct 2026 17:11:53 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 15:59:17 GMT"
+      "date": "Fri, 30 Oct 2026 17:07:19 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "LNG traded by Singapore-based firms usually does not physically pass through Singapore, says METI",
-      "link": "https://www.channelnewsasia.com/singapore/lng-singapore-indonesia-ship-export-6507706",
-      "date": "Fri, 30 Oct 2026 23:55:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
-      "link": "https://www.channelnewsasia.com/business/meta-settles-teen-during-trial-testing-claims-social-media-caused-depression-eating-disorders-6507796",
-      "date": "Fri, 30 Oct 2026 23:53:32 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
+      "link": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
+      "date": "Fri, 30 Oct 2026 16:58:51 GMT"
     },
     {
       "src": "Foreign Policy",
       "col": "#1a73e8",
-      "text": "U.S. Allies Have Midterm Fever",
-      "link": "https://foreignpolicy.com/2026/10/30/us-midterm-elections-europe-canada-democrats-congress-trump/",
-      "date": "Fri, 30 Oct 2026 15:52:23 +0000"
+      "text": "The Security Challenges Facing the Next Israeli Leader",
+      "link": "https://foreignpolicy.com/2026/10/30/israel-wars-netanyahu-eisenkot-election-gaza-lebanon-iran/",
+      "date": "Fri, 30 Oct 2026 16:58:37 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 15:50:23 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
+      "date": "Fri, 30 Oct 2026 16:51:42 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Medvedev clinches ATP Finals berth by reaching Vienna semi-finals",
-      "link": "https://www.channelnewsasia.com/sport/medvedev-clinches-atp-finals-berth-reaching-vienna-semi-finals-6507786",
-      "date": "Fri, 30 Oct 2026 23:48:14 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
+      "link": "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
+      "date": "Fri, 30 Oct 2026 16:44:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
+      "link": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
+      "date": "Fri, 30 Oct 2026 16:29:01 GMT"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "US tech stocks see sharp falls over AI cost fears",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 15:46:28 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 15:37:03 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
-      "link": "https://www.channelnewsasia.com/business/big-tech-returns-smallest-share-cash-shareholders-in-15-years-given-ai-spending-6507756",
-      "date": "Fri, 30 Oct 2026 23:35:41 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump reverses course, reinstates cancelled campaign rallies",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 15:35:39 +0000"
+      "text": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 16:26:11 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
-      "link": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
-      "date": "Fri, 30 Oct 2026 15:34:46 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spain working to identify train crash dead as relatives' anguish grows",
-      "link": "https://www.france24.com/en/video/20261030-spain-working-to-identify-train-crash-dead-as-relatives-anguish-grows",
-      "date": "Fri, 30 Oct 2026 15:34:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
-      "link": "https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump",
-      "date": "Fri, 30 Oct 2026 15:34:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
-      "date": "Fri, 30 Oct 2026 15:34:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Deeply hurt': Convicted murderer Christa Pike speaks out after botched execution",
-      "link": "https://www.france24.com/en/americas/20261030-deeply-hurt-convicted-murderer-christa-pike-speaks-out-after-botched-execution",
-      "date": "Fri, 30 Oct 2026 15:29:10 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 15:26:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel's election ends in deadlock as final results show no clear winner",
-      "link": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner",
-      "date": "Fri, 30 Oct 2026 15:24:24 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Israel’s Coalition Wrangling Could Play Out",
-      "link": "https://foreignpolicy.com/2026/10/30/israel-election-netanyahu-majority-coalition-likud-yashar-eisenkot-dahlia-scheindlin/",
-      "date": "Fri, 30 Oct 2026 15:21:23 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pulisic extends contract with AC Milan",
-      "link": "https://www.channelnewsasia.com/sport/pulisic-extends-contract-ac-milan-6507696",
-      "date": "Fri, 30 Oct 2026 23:20:20 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 15:17:11 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-      "link": "https://www.channelnewsasia.com/business/nasdaq-faces-2-trillion-wipeout-in-october-ai-spending-fears-deepen-6507681",
-      "date": "Fri, 30 Oct 2026 23:11:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chelsea&#039;s Alonso backs Estevao for bigger role ahead of Man United clash",
-      "link": "https://www.channelnewsasia.com/sport/chelseas-alonso-backs-estevao-bigger-role-ahead-man-united-clash-6507656",
-      "date": "Fri, 30 Oct 2026 23:07:21 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 15:06:00 +0000"
+      "text": "Could US midterms impact the EU? Transatlantic ties hit new low after Trump-Putin diesel deal",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal",
+      "date": "Fri, 30 Oct 2026 16:24:10 GMT"
     },
     {
       "src": "BBC World",
@@ -174,7 +293,7 @@
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Bugatti CEO chases down car thief - then offers him lift home",
-      "link": "https://news.sky.com/story/bugattis-ceo-mate-rimac-down-car-thief-then-offers-him-lift-home-13605756",
+      "link": "https://news.sky.com/story/bugattis-ceo-mate-rimac-chases-down-car-thief-then-offers-him-lift-home-13605756",
       "date": "Fri, 30 Oct 2026 14:52:00 +0000"
     },
     {
@@ -185,55 +304,6 @@
       "date": "Fri, 30 Oct 2026 14:48:22 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Life Is Like by the Strait of Hormuz Right Now",
-      "link": "https://foreignpolicy.com/2026/10/30/life-in-strait-of-hormuz-bandar-abbas/",
-      "date": "Fri, 30 Oct 2026 14:47:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 14:40:19 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France braces for new wave of protests, govt warns of 'very high' violence risk",
-      "link": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
-      "date": "Fri, 30 Oct 2026 14:35:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Black Sea shipping under growing threats as drones hit container ships",
-      "link": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
-      "date": "Fri, 30 Oct 2026 14:27:51 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fenerbahce appoint Dutchman Kuyt as interim coach",
-      "link": "https://www.channelnewsasia.com/sport/fenerbahce-appoint-dutchman-kuyt-interim-coach-6507531",
-      "date": "Fri, 30 Oct 2026 22:27:48 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian, Ukrainian humanitarian officials enter Oleshky",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 14:19:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-      "link": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 14:18:07 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
@@ -241,46 +311,11 @@
       "date": "Fri, 30 Oct 2026 14:08:41 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 12:25:53 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Venezuela’s Exiled Opposition Leader Comes Home",
-      "link": "https://foreignpolicy.com/2026/10/30/venezuela-machado-elections-us-rubio-rodriguez-oil/",
-      "date": "Fri, 30 Oct 2026 12:00:01 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-      "date": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Yemen war makes reaching assistance too dangerous for many",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "date": "Fri, 30 Oct 2026 12:00:00 +0000"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "AI-powered 'doorbell cameras' tested to alert people to approaching polar bears",
       "link": "https://news.sky.com/story/ai-powered-doorbell-cameras-tested-to-cut-risk-of-rising-human-encounters-with-polar-bears-13605711",
       "date": "Fri, 30 Oct 2026 11:49:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 11:23:06 GMT"
     },
     {
       "src": "Sky News",
@@ -297,20 +332,6 @@
       "date": "Fri, 30 Oct 2026 10:07:16 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Promised Poland More Troops. They’re Still Not There.",
-      "link": "https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/",
-      "date": "Fri, 30 Oct 2026 10:00:10 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Russia’s Next Mobilization Is Already Happening",
-      "link": "https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/",
-      "date": "Fri, 30 Oct 2026 06:51:46 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -325,13 +346,6 @@
       "date": "Fri, 30 Oct 2026 05:00:45 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 01:35:40 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Crypto industry suffers 'largest bank heist in human history'",
@@ -344,27 +358,6 @@
       "text": "Race to find new head of European Central Bank after Lagarde leaves early",
       "link": "https://www.rfi.fr/en/international/20261029-race-to-find-new-head-of-european-central-bank-after-lagarde-leaves-early",
       "date": "Thu, 29 Oct 2026 22:00:06 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Big of a Threat Are the Houthis?",
-      "link": "https://foreignpolicy.com/2026/10/29/houthis-yemen-war-saudi-arabia-red-sea-shipping-threat-iran/",
-      "date": "Thu, 29 Oct 2026 21:33:20 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The EU and Canada Struggle to Define Their Relationship",
-      "link": "https://foreignpolicy.com/2026/10/29/eu-associate-member-canada-von-der-leyen-carney-trump-trade/",
-      "date": "Thu, 29 Oct 2026 20:12:18 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-      "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-      "date": "Thu, 29 Oct 2026 17:49:47 GMT"
     },
     {
       "src": "Sky News",
@@ -386,55 +379,6 @@
       "text": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
       "link": "https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395",
       "date": "Thu, 29 Oct 2026 15:18:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next",
-      "link": "https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308",
-      "date": "Thu, 29 Oct 2026 12:28:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI is changing the way we think. The question is whether we’ll notice in time",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Russia drone strike on Ukrainian railway station kills 13",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Nature is making a comeback – now restoration funding must quadruple",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168700",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
