@@ -1,111 +1,223 @@
 {
-  "updated": "2026-10-30T02:43:39.485Z",
+  "updated": "2026-10-30T09:10:24.293Z",
   "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Singapore employment growth picks up in Q3, but retrenchments continue to rise",
-      "link": "https://www.channelnewsasia.com/singapore/singapore-q3-employment-growth-retrenchments-unemployment-mom-6505601",
-      "date": "Fri, 30 Oct 2026 10:30:23 +0800"
+      "text": "Man jailed and fined for spitting at police officers, urinating in their direction",
+      "link": "https://www.channelnewsasia.com/singapore/changi-airport-transit-crime-urine-6506311",
+      "date": "Fri, 30 Oct 2026 17:03:37 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 09:02:31 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Liquidators agree sale of China Evergrande property management unit",
+      "link": "https://www.channelnewsasia.com/east-asia/evergrande-property-sale-private-equity-6506426",
+      "date": "Fri, 30 Oct 2026 16:55:44 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Netanyahu bloc in lead without majority in Israel election, say official results",
+      "text": "Russia's bastion of free press Novaya Gazeta shuts down under Kremlin pressure",
+      "link": "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure",
+      "date": "Fri, 30 Oct 2026 08:42:24 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Martin cuts Sepang practice short to aid recovery from wrist fracture",
+      "link": "https://www.channelnewsasia.com/sport/martin-cuts-sepang-practice-short-aid-recovery-wrist-fracture-6506401",
+      "date": "Fri, 30 Oct 2026 16:39:08 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
+      "link": "https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396",
+      "date": "Fri, 30 Oct 2026 16:38:40 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:36:11 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "How Kenyans got caught in $130m US ghost student scam",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 08:32:35 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Cursor says up to 5,000 users affected by tampered Claude Code extension",
+      "link": "https://www.channelnewsasia.com/business/cursor-says-up-5000-users-affected-tampered-claude-code-extension-6506376",
+      "date": "Fri, 30 Oct 2026 16:32:32 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:24:43 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sudan investigation maps commanders linked to wartime rape",
+      "link": "https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:20:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+      "link": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:20:30 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Everton beat Newcastle to set up League Cup quarterfinal with Fleetwood",
+      "link": "https://www.aljazeera.com/sports/2026/10/30/everton-beat-newcastle-to-set-up-league-cup-quarterfinal-with-fleetwood?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:19:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "China ruling party says it &#039;eliminated dangers&#039; after 33 expelled",
+      "link": "https://www.channelnewsasia.com/east-asia/china-communist-party-expels-33-figures-corruption-graft-crackdown-6506306",
+      "date": "Fri, 30 Oct 2026 16:15:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kenya’s 2029 World Athletics bid: A win for Africa under scrutiny",
+      "link": "https://www.aljazeera.com/news/2026/10/30/kenyas-2029-world-athletics-bid-a-win-for-africa-under-scrutiny?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 08:14:49 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+      "link": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 07:51:08 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
+      "link": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss",
+      "date": "Fri, 30 Oct 2026 07:38:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Panasonic&#039;s battery unit posts higher Q2 operating profit, lifts forecast",
+      "link": "https://www.channelnewsasia.com/business/panasonics-battery-unit-posts-higher-q2-operating-profit-lifts-forecast-6506256",
+      "date": "Fri, 30 Oct 2026 15:37:04 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "South Korea to respond firmly to North Korean breaches of border, security aide says",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-respond-firmly-north-korean-breaches-border-security-aide-says-6505861",
+      "date": "Fri, 30 Oct 2026 15:31:44 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine war live: Russia strikes Kyiv as aid convoy heads for stricken town of Oleshky",
+      "link": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
+      "date": "Fri, 30 Oct 2026 07:28:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French minister warns of 'very high' violence risk as country braces for Halloween protests",
+      "link": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
+      "date": "Fri, 30 Oct 2026 06:57:15 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Russia’s Next Mobilization Is Already Happening",
+      "link": "https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/",
+      "date": "Fri, 30 Oct 2026 06:51:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French presidential hopeful Édouard Philippe quizzed in embezzlement case",
+      "link": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case",
+      "date": "Fri, 30 Oct 2026 06:36:18 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but backlash was traumatic",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 06:10:50 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 06:02:23 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Binance hit by $6.3 billion security breach in potential record crypto heist",
+      "link": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
+      "date": "Fri, 30 Oct 2026 03:48:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 03:24:12 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Netanyahu bloc leads but lacks majority, Israel's official results show",
       "link": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
       "date": "Fri, 30 Oct 2026 02:29:17 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea seeks criminal charges, 3-year exam ban for cheating with AI glasses",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korea-ai-smart-glasses-students-cheating-6505571",
-      "date": "Fri, 30 Oct 2026 10:28:59 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Grieving Spain demands answers for latest rail disaster that killed 69 people",
-      "link": "https://www.channelnewsasia.com/world/spain-demands-answers-latest-rail-disaster-6505556",
-      "date": "Fri, 30 Oct 2026 10:21:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan&#039;s Nikkei slumps 3% as tech stocks tumble on AI worries",
-      "link": "https://www.channelnewsasia.com/business/japans-nikkei-slumps-3-tech-stocks-tumble-ai-worries-6505716",
-      "date": "Fri, 30 Oct 2026 10:20:28 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Audemars Piguet officially launches certified pre-owned programme The Watch Keepers",
-      "link": "https://www.channelnewsasia.com/obsessions/audemars-piguet-certified-pre-owned-program-watch-keepers-6502166",
-      "date": "Fri, 30 Oct 2026 10:13:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
-      "link": "https://www.channelnewsasia.com/business/yen-steady-boj-ai-jitters-drive-treasury-rally-weigh-dollar-6505611",
-      "date": "Fri, 30 Oct 2026 09:52:22 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Beyond Trump: US midterms offer early test in battle for White House in 2028",
-      "link": "https://www.channelnewsasia.com/world/usa-us-midterms-early-test-2028-presidential-election-6504756",
-      "date": "Fri, 30 Oct 2026 09:46:56 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen",
-      "link": "https://www.channelnewsasia.com/world/cryptocurrency-binance-hack-funds-losses-6505586",
-      "date": "Fri, 30 Oct 2026 09:45:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump administration renews bid to block Alaska election results",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 01:30:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 01:05:26 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "EU force helicopter crash kills four in Bosnia",
-      "link": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:56:49 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
-      "link": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:44:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Armenian parliament turns into a boxing ring, third time in a month",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:36:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
-      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:29:24 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 01:35:40 GMT"
     },
     {
       "src": "France 24",
@@ -115,18 +227,11 @@
       "date": "Fri, 30 Oct 2026 00:22:55 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:11:20 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "What does bourbon have to do with the US midterms?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 00:08:50 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Student-backed election winners demand sweeping resignations in Serbia",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 00:17:28 GMT"
     },
     {
       "src": "RFI",
@@ -143,39 +248,11 @@
       "date": "Thu, 29 Oct 2026 21:48:35 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Across Africa: Real estate scams growing in Ivory Coast",
-      "link": "https://www.france24.com/en/across-africa-real-estate-scams-growing-in-ivory-coast",
-      "date": "Thu, 29 Oct 2026 21:43:05 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "How Big of a Threat Are the Houthis?",
       "link": "https://foreignpolicy.com/2026/10/29/houthis-yemen-war-saudi-arabia-red-sea-shipping-threat-iran/",
       "date": "Thu, 29 Oct 2026 21:33:20 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "ECB President Lagarde steps down in order to speak out",
-      "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
-      "date": "Thu, 29 Oct 2026 21:01:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 20:21:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
-      "link": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-      "date": "Thu, 29 Oct 2026 20:21:52 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -185,25 +262,11 @@
       "date": "Thu, 29 Oct 2026 20:12:18 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-      "date": "Thu, 29 Oct 2026 20:06:36 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Thu, 29 Oct 2026 20:05:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-      "link": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-      "date": "Thu, 29 Oct 2026 20:02:03 GMT"
     },
     {
       "src": "Sky News",
@@ -241,13 +304,6 @@
       "date": "Thu, 29 Oct 2026 17:46:38 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 17:02:59 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "FIFA to double Women's World Cup prize money - but it doesn't match men's tournament",
@@ -257,7 +313,7 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+      "text": "Why Google stock has plunged $500bn in a single day",
       "link": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
       "date": "Thu, 29 Oct 2026 16:06:00 +0000"
     },
@@ -267,34 +323,6 @@
       "text": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
       "link": "https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395",
       "date": "Thu, 29 Oct 2026 15:18:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 14:58:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 14:17:35 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 13:44:39 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
       "src": "Sky News",
@@ -367,13 +395,6 @@
       "date": "Thu, 29 Oct 2026 11:31:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 29 Oct 2026 11:07:35 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Is the UAE the Missing Link in the Fight Against the Houthis?",
@@ -407,13 +428,6 @@
       "text": "Girl injured in wolf attack at wildlife park",
       "link": "https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151",
       "date": "Thu, 29 Oct 2026 02:03:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Bangladesh Measles Outbreak Is a ‘Warning Sign’",
-      "link": "https://foreignpolicy.com/2026/10/28/bangladesh-measles-outbreak-vaccination-crisis-health/",
-      "date": "Wed, 28 Oct 2026 22:22:20 +0000"
     },
     {
       "src": "The Guardian",
@@ -484,20 +498,6 @@
       "text": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
       "date": "Mon, 26 Oct 2026 15:07:23 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "date": "Mon, 26 Oct 2026 11:00:40 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-      "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-      "date": "Mon, 26 Oct 2026 09:59:27 GMT"
     },
     {
       "src": "RFI",
