@@ -1,20 +1,202 @@
 {
-  "updated": "2026-10-31T11:44:26.918Z",
-  "count": 71,
+  "updated": "2026-10-31T16:24:59.768Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+      "link": "https://www.channelnewsasia.com/business/meta-builds-humanoid-robot-chinese-startup-fourier-information-says-6509811",
+      "date": "Sun, 01 Nov 2026 00:13:30 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 15:50:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 15:43:46 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 15:16:20 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Reserve driver Hirakawa replaces Ocon for F1 race debut with Haas",
+      "link": "https://www.channelnewsasia.com/sport/reserve-driver-hirakawa-replaces-ocon-f1-race-debut-haas-6509791",
+      "date": "Sat, 31 Oct 2026 23:15:35 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Spanish village gathers for memorial Mass for train crash victims",
+      "link": "https://www.channelnewsasia.com/world/spain-train-crash-victim-memorial-mass-6509721",
+      "date": "Sat, 31 Oct 2026 23:13:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 15:09:59 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Binance replenishes 90% of assets stolen in security incident",
+      "link": "https://www.channelnewsasia.com/business/binance-replenishes-90-assets-stolen-in-security-incident-6509761",
+      "date": "Sat, 31 Oct 2026 22:59:09 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pressure piles on Man United&#039;s Carrick after 2-0 defeat at Chelsea",
+      "link": "https://www.channelnewsasia.com/sport/pressure-piles-man-uniteds-carrick-after-2-0-defeat-chelsea-6509726",
+      "date": "Sat, 31 Oct 2026 22:49:57 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
+      "link": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
+      "date": "Sat, 31 Oct 2026 14:39:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 14:31:37 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ethiopian PM puts ministers through military training",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 14:28:15 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
+      "link": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+      "date": "Sat, 31 Oct 2026 14:28:10 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haze probe: Five Singapore-registered companies agree to engage assessors",
+      "link": "https://www.channelnewsasia.com/singapore/haze-probe-companies-agree-engage-assessors-6509691",
+      "date": "Sat, 31 Oct 2026 22:27:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 14:20:23 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran&#039;s supreme leader warns US, Israel against new attacks",
+      "link": "https://www.channelnewsasia.com/world/iran-supreme-leader-warn-us-israel-new-attacks-6509621",
+      "date": "Sat, 31 Oct 2026 22:09:49 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 13:35:51 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Burnham opens door to formal apology for Britain’s slave trade",
+      "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 13:19:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "On the Norway-Russia border, the Sámi people face a growing divide",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 12:58:28 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 12:55:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+      "link": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+      "date": "Sat, 31 Oct 2026 12:45:49 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Can Latino discontent loosen Republican grip on Florida?",
+      "link": "https://www.rfi.fr/en/international/20261031-can-latino-discontent-loosen-republican-grip-on-florida-us-midterms",
+      "date": "Sat, 31 Oct 2026 12:44:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+      "link": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+      "date": "Sat, 31 Oct 2026 12:31:49 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 12:21:25 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester United captain Fernandes returns to starting lineup at Chelsea",
+      "link": "https://www.channelnewsasia.com/sport/manchester-united-captain-fernandes-returns-starting-lineup-chelsea-6509501",
+      "date": "Sat, 31 Oct 2026 20:05:53 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Man dies and another injured after attack at centre housing migrants",
+      "link": "https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071",
+      "date": "Sat, 31 Oct 2026 12:05:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+      "date": "Sat, 31 Oct 2026 12:00:00 +0000"
+    },
     {
       "src": "UN News",
       "col": "#3b82f6",
       "text": "Somalia looks to the future as the UN&#039;s political mission closes",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
       "date": "Sat, 31 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 11:18:14 GMT"
     },
     {
       "src": "France 24",
@@ -38,62 +220,6 @@
       "date": "Sat, 31 Oct 2026 11:13:44 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US campaign for control of Congress enters final weekend",
-      "link": "https://www.channelnewsasia.com/world/us-midterm-election-campaign-congress-final-weekend-6509386",
-      "date": "Sat, 31 Oct 2026 19:13:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands protest across Italy over living costs and military spending",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 11:07:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UFC champion Islam Makhachev says his next fight will be ‘one of last’",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 11:02:05 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:53:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:49:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Ambani’s Jio became India’s second-largest company",
-      "link": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:39:15 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Democrats win the US Senate? 10 key midterm races to watch",
-      "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:38:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
-      "link": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:24:21 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "Trump vs MAGA: Why his movement is splitting",
@@ -101,88 +227,11 @@
       "date": "Sat, 31 Oct 2026 10:11:47 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Power bills and data centers cast rare spotlight on utilities in US midterms",
-      "link": "https://www.channelnewsasia.com/business/power-bills-and-data-centers-cast-rare-spotlight-utilities-in-us-midterms-6509406",
-      "date": "Sat, 31 Oct 2026 18:08:54 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Education under fire: Gaza’s children face death on their way to school",
-      "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 10:00:17 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
-      "link": "https://www.channelnewsasia.com/world/residents-russian-controlled-ukrainian-town-arrive-in-belarus-6509371",
-      "date": "Sat, 31 Oct 2026 17:59:23 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "PSG secure 9th consecutive win thanks to Achraf Hakimi hat-trick",
       "link": "https://www.france24.com/en/tv-shows/sports/20261031-psg-secure-9th-consecutive-win-thanks-to-achraf-hakimi-hat-trick",
       "date": "Sat, 31 Oct 2026 09:51:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Atmosphere of fear': Trump moves to curtail voting rights ahead of the midterms",
-      "link": "https://www.france24.com/en/americas/20261031-united-states-atmosphere-of-fear-trump-moves-to-curtail-voting-rights-ahead-of-the-midterms",
-      "date": "Sat, 31 Oct 2026 09:40:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Senegal hosts Africa’s first ever Youth Olympic Games",
-      "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-      "date": "Sat, 31 Oct 2026 09:37:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Protesters gather at Poland's Top court",
-      "link": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
-      "date": "Sat, 31 Oct 2026 09:31:23 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shooting at California Halloween store kills one, wounds six",
-      "link": "https://www.channelnewsasia.com/world/shooting-california-halloween-store-kills-one-wounds-six-6509311",
-      "date": "Sat, 31 Oct 2026 17:02:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pakistan military &#039;cautiously optimistic&#039; on Iran-US mediation",
-      "link": "https://www.channelnewsasia.com/asia/pakistan-military-cautiously-optimistic-iran-us-mediation-6509251",
-      "date": "Sat, 31 Oct 2026 16:02:08 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Acosta wins Malaysian GP sprint, Marc Marquez extends championship lead",
-      "link": "https://www.channelnewsasia.com/sport/acosta-wins-malaysian-gp-sprint-marc-marquez-extends-championship-lead-6509256",
-      "date": "Sat, 31 Oct 2026 15:46:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Vietnam’s Cam Ranh is more than a beach getaway",
-      "link": "https://www.channelnewsasia.com/experiences/cam-ranh-vietnam-beaches-culture-6494991",
-      "date": "Sat, 31 Oct 2026 15:29:58 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Melaka state election: Anwar&#039;s PH, Muhyiddin&#039;s Bersatu avoid clashes in 4 seats as candidates confirmed",
-      "link": "https://www.channelnewsasia.com/asia/melaka-state-election-ph-bersatu-anwar-muhyiddin-6502106",
-      "date": "Sat, 31 Oct 2026 14:47:41 +0800"
     },
     {
       "src": "BBC World",
@@ -213,13 +262,6 @@
       "date": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 00:40:43 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
@@ -227,25 +269,11 @@
       "date": "Fri, 30 Oct 2026 22:47:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 22:11:52 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The World’s Biggest Crypto Heist",
       "link": "https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/",
       "date": "Fri, 30 Oct 2026 20:44:08 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
       "src": "The Guardian",
@@ -367,13 +395,6 @@
       "date": "Fri, 30 Oct 2026 11:49:00 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Banished: The Taliban's War On Women - tickets go live for Sky News documentary screening",
-      "link": "https://news.sky.com/story/banished-the-talibans-war-on-women-tickets-go-live-for-alex-crawford-documentary-screening-13605684",
-      "date": "Fri, 30 Oct 2026 11:20:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
@@ -420,13 +441,6 @@
       "col": "#3b82f6",
       "text": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
       "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "date": "Thu, 29 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "AI is changing the way we think. The question is whether we’ll notice in time",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168704",
       "date": "Thu, 29 Oct 2026 12:00:00 +0000"
     },
     {
@@ -491,13 +505,6 @@
       "text": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
       "date": "Mon, 26 Oct 2026 15:07:23 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Serbia's student movement ousts longtime leader Vucic",
-      "link": "https://www.rfi.fr/en/international/20261026-serbia-s-student-movement-ousts-longtime-leader-vucic",
-      "date": "Mon, 26 Oct 2026 09:57:07 GMT"
     }
   ]
 }
