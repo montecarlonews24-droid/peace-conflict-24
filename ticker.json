@@ -1,83 +1,223 @@
 {
-  "updated": "2026-11-03T18:30:27.079Z",
-  "count": 56,
+  "updated": "2026-11-03T23:34:53.622Z",
+  "count": 72,
   "items": [
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Stocks wobble on concerns over AI and US midterms",
-      "link": "https://www.channelnewsasia.com/world/stocks-wobble-concerns-over-ai-and-us-midterms-6517776",
-      "date": "Wed, 04 Nov 2026 02:24:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sailing-Defending Route du Rhum champion drops out after foil damage",
-      "link": "https://www.channelnewsasia.com/sport/sailing-defending-route-du-rhum-champion-drops-out-after-foil-damage-6517766",
-      "date": "Wed, 04 Nov 2026 02:13:33 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ex-FIFA governance chief says Infantino ineligible for re-election, members urged to act",
-      "link": "https://www.channelnewsasia.com/sport/ex-fifa-governance-chief-says-infantino-ineligible-re-election-members-urged-act-6517771",
-      "date": "Wed, 04 Nov 2026 02:11:09 +0800"
+      "text": "Eating less, exercising more but still gaining belly fat – menopause may be the reason",
+      "link": "https://www.channelnewsasia.com/women/menopause-belly-weight-gain-abdominal-fat-women-6478231",
+      "date": "Wed, 04 Nov 2026 07:21:43 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Greenland parliament approves security deal with US, Denmark",
-      "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 18:05:48 +0000"
+      "text": "First polls close in pivotal US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 23:03:42 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "China tells Philippines to stop politicians crossing &#039;red lines&#039;",
-      "link": "https://www.channelnewsasia.com/world/china-philippines-south-china-sea-wang-yi-6517661",
-      "date": "Wed, 04 Nov 2026 01:58:36 +0800"
+      "text": "Meta raises $15 billion in five-part US bond sale",
+      "link": "https://www.channelnewsasia.com/business/meta-raises-15-billion-in-five-part-us-bond-sale-6518121",
+      "date": "Wed, 04 Nov 2026 06:50:11 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Canada will not let Russians compete at ice hockey tournament, says Carney",
+      "link": "https://www.channelnewsasia.com/sport/canada-will-not-let-russians-compete-ice-hockey-tournament-says-carney-6518106",
+      "date": "Wed, 04 Nov 2026 06:48:10 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 03 Nov 2026 22:45:59 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US midterm election results live: Polls start closing in some states",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 22:30:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+      "date": "Tue, 03 Nov 2026 22:28:56 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "PSG hit Villarreal for six as Bayern win and Man United fight back",
+      "link": "https://www.channelnewsasia.com/sport/psg-hit-villarreal-six-bayern-win-and-man-united-fight-back-6518081",
+      "date": "Wed, 04 Nov 2026 06:21:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 22:19:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rena Lee elected to International Court of Justice, becoming first Singaporean judge",
+      "link": "https://www.channelnewsasia.com/singapore/rena-lee-icj-singapore-judge-international-court-justice-6516371",
+      "date": "Wed, 04 Nov 2026 06:16:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Skyworks tumbles as sluggish smartphone market weighs on forecast",
+      "link": "https://www.channelnewsasia.com/business/skyworks-tumbles-sluggish-smartphone-market-weighs-forecast-6518061",
+      "date": "Wed, 04 Nov 2026 06:09:36 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "One dead and another missing in suspected grizzly bear attack in Canada",
+      "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+      "date": "Tue, 03 Nov 2026 22:08:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: When stock analysts move markets, should retail investors follow?",
+      "link": "https://www.channelnewsasia.com/commentary/stock-market-analyst-downgrade-what-it-means-retail-investors-ocbc-sheng-siong-6515921",
+      "date": "Wed, 04 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "From satellites to spaceports, Thailand seeks a bigger role in Asia&#039;s space race",
+      "link": "https://www.channelnewsasia.com/asia/thailand-asia-space-satellites-launch-6515341",
+      "date": "Wed, 04 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 03 Nov 2026 21:53:38 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump tariffs hitting small businesses",
+      "link": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
+      "date": "Tue, 03 Nov 2026 21:45:39 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "President Zelenskyy says US elections will impact war in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 21:43:19 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Texans vote in most expensive Senate race in US history",
+      "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 21:41:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netanyahu’s eight-seat problem",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 21:19:13 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Africa braces for some job losses as AGOA ends",
+      "link": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
+      "date": "Tue, 03 Nov 2026 21:18:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Palestinian families return home after Israeli siege of Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 21:15:17 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US astronauts vote from space in 2026 midterm elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+      "date": "Tue, 03 Nov 2026 21:03:24 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump promised a 'Golden Age'. What has he delivered at home?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
+      "date": "Tue, 03 Nov 2026 20:56:49 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Chinese AI Stocks Are Slumping, Too",
+      "link": "https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/",
+      "date": "Tue, 03 Nov 2026 20:49:19 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Seven flights across Europe targeted by suspected bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 17:56:03 GMT"
+      "date": "Tue, 03 Nov 2026 20:42:47 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Argentina name first squad of post-Messi era for November friendlies",
-      "link": "https://www.channelnewsasia.com/sport/argentina-name-first-squad-post-messi-era-november-friendlies-6517726",
-      "date": "Wed, 04 Nov 2026 01:46:39 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Spain's transport minister to resign after train crash killed 69 people",
+      "link": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
+      "date": "Tue, 03 Nov 2026 20:32:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Gravenberch misses Fenerbahce clash but weekend return possible, says Iraola",
-      "link": "https://www.channelnewsasia.com/sport/gravenberch-misses-fenerbahce-clash-weekend-return-possible-says-iraola-6517716",
-      "date": "Wed, 04 Nov 2026 01:40:41 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trickle or tsunami? Democrats eye gains in US midterm elections",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
+      "date": "Tue, 03 Nov 2026 19:18:13 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 17:26:02 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Midterms live: Voting under way to determine control of Congress and the future of Trump's agenda",
+      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "date": "Tue, 03 Nov 2026 18:42:49 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russian strikes on Dnipro kill two, injure 20 others",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 17:24:08 +0000"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "China Won’t Bail Out Trump’s Lost War",
+      "link": "https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/",
+      "date": "Tue, 03 Nov 2026 18:04:35 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 17:22:45 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's dermatology crisis: Patients desperate for appointments",
+      "link": "https://www.france24.com/en/tv-shows/france-in-focus/20261103-france-s-dermatology-crisis-patients-desperate-for-appointments",
+      "date": "Tue, 03 Nov 2026 17:34:50 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Family wealth, Epstein, ‘vanity projects’: How Democrats plan to investigate Trump after midterms",
+      "link": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms",
+      "date": "Tue, 03 Nov 2026 17:30:16 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -87,27 +227,6 @@
       "date": "Tue, 03 Nov 2026 17:19:19 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rahm explains decision behind LIV exit, has not talked to PGA Tour about potential return",
-      "link": "https://www.channelnewsasia.com/sport/rahm-explains-decision-behind-liv-exit-has-not-talked-pga-tour-about-potential-return-6517691",
-      "date": "Wed, 04 Nov 2026 01:15:28 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 17:03:24 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Barcelona vs Aston Villa LIVE: Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 17:00:00 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
@@ -115,31 +234,10 @@
       "date": "Tue, 03 Nov 2026 16:57:41 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 16:49:10 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Committee seeks outside investors for new commercial venture",
-      "link": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
-      "date": "Wed, 04 Nov 2026 00:42:26 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Opposition party organiser killed before South Africa elections",
-      "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-      "date": "Tue, 03 Nov 2026 16:39:00 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Quiet Revolution in U.S.-Cypriot Relations",
-      "link": "https://foreignpolicy.com/2026/11/03/cuprus-united-states-turkey-foreign-policy-security-defense/",
+      "link": "https://foreignpolicy.com/2026/11/03/cyprus-united-states-turkey-foreign-policy-security-defense/",
       "date": "Tue, 03 Nov 2026 16:36:13 +0000"
     },
     {
@@ -206,11 +304,39 @@
       "date": "Tue, 03 Nov 2026 12:00:08 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 11:51:08 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gender equality pays off for business – so why are companies pulling back?",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "BBC World",
@@ -232,13 +358,6 @@
       "text": "Spanish footballer dies after on-field collision",
       "link": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
       "date": "Tue, 03 Nov 2026 10:20:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Tenerife striker De Miguel dies after on-field collision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 09:09:18 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -276,20 +395,6 @@
       "date": "Tue, 03 Nov 2026 01:55:00 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Closing Midterm Message",
-      "link": "https://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/",
-      "date": "Mon, 02 Nov 2026 22:03:19 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Reigniting War With Iran Would Be a ‘Huge Gamble’",
-      "link": "https://foreignpolicy.com/2026/11/02/trump-iran-war-midterms-military-readiness-missiles-capabilities/",
-      "date": "Mon, 02 Nov 2026 21:06:08 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
@@ -311,6 +416,27 @@
       "date": "Mon, 02 Nov 2026 15:11:00 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission&#039;s phased closure",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "'Everything is destroyed': Hackers target refrigerators in new cyber attacks",
@@ -323,20 +449,6 @@
       "text": "Miami voters weigh local hardship and America's global role as early voting ends",
       "link": "https://www.rfi.fr/en/international/20261102-miami-voters-weigh-local-hardship-and-america-s-global-role-as-early-voting-ends",
       "date": "Mon, 02 Nov 2026 07:57:25 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British backpackers in Australia could face changes to visa rules",
-      "link": "https://news.sky.com/story/british-backpackers-in-australia-could-face-rural-work-visa-requirement-13606930",
-      "date": "Mon, 02 Nov 2026 06:47:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-      "date": "Sun, 01 Nov 2026 22:26:11 GMT"
     },
     {
       "src": "RFI",
