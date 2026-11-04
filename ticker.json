@@ -1,153 +1,279 @@
 {
-  "updated": "2026-11-04T03:37:15.025Z",
-  "count": 72,
+  "updated": "2026-11-04T11:40:15.171Z",
+  "count": 64,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What consequences for Israel as Democrats win the US midterm elections?",
+      "link": "https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections",
+      "date": "Wed, 04 Nov 2026 11:32:43 GMT"
+    },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Japanese yakiniku chain Gyu-Kaku to close last Singapore outlet at CHIJMES on Nov 15",
-      "link": "https://www.channelnewsasia.com/dining/gyu-kaku-singapore-last-outlet-chijmes-closing-6518996",
-      "date": "Wed, 04 Nov 2026 11:22:44 +0800"
+      "text": "AI sales startup Nooks secures $500 million in funding for expansion",
+      "link": "https://www.channelnewsasia.com/business/ai-sales-startup-nooks-secures-500-million-in-funding-expansion-6523911",
+      "date": "Wed, 04 Nov 2026 19:31:49 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wilson and Rodon return to Wales squad for Nations League fixtures",
+      "link": "https://www.channelnewsasia.com/sport/wilson-and-rodon-return-wales-squad-nations-league-fixtures-6523876",
+      "date": "Wed, 04 Nov 2026 19:26:04 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-      "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 03:16:37 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state",
-      "link": "https://www.channelnewsasia.com/world/keisha-lance-bottoms-wins-georgia-race-first-black-woman-elected-governor-us-state-6519866",
-      "date": "Wed, 04 Nov 2026 10:57:54 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Man under police probe for alleged cheating over use of shell companies to avoid rent",
-      "link": "https://www.channelnewsasia.com/singapore/minlaw-shell-companies-property-rent-police-6518916",
-      "date": "Wed, 04 Nov 2026 10:57:00 +0800"
+      "text": "‘Seismic shift’: World reacts to US midterm election results",
+      "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 11:24:50 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Midterms: Abdul El-Sayed, Mike Rogers face off for Michigan Senate seat",
-      "link": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
-      "date": "Wed, 04 Nov 2026 02:53:45 GMT"
+      "text": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+      "link": "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+      "date": "Wed, 04 Nov 2026 11:24:24 GMT"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "US midterm elections: Democrats flip Senate seat in North Carolina",
-      "link": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina",
-      "date": "Wed, 04 Nov 2026 02:46:07 GMT"
+      "text": "Ethiopia expands hydropower ambitions",
+      "link": "https://www.france24.com/en/video/20261104-ethiopia-expands-hydropower-ambitions",
+      "date": "Wed, 04 Nov 2026 11:19:36 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why Democrats may struggle to rein in Trump’s foreign policy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 11:16:40 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "From Kansas to Texas, Democrats win big in Republican heartlands",
+      "link": "https://www.france24.com/en/video/20261104-from-kansas-to-texas-democrats-win-big-in-republican-heartlands",
+      "date": "Wed, 04 Nov 2026 11:15:51 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US midterms bring surge of historic firsts for women and members of minority groups",
+      "link": "https://www.france24.com/en/americas/20261104-us-midterms-bring-surge-of-historic-firsts-women-members-minority-groups",
+      "date": "Wed, 04 Nov 2026 11:15:39 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Korea pushes digital detox for young people addicted to screens",
+      "link": "https://www.france24.com/en/tv-shows/focus/20261104-south-korea-pushes-digital-detox-for-young-people-addicted-to-screens",
+      "date": "Wed, 04 Nov 2026 11:14:16 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Midterms: Trump acknowledges role of Iran war, congratulates Dems",
+      "link": "https://www.france24.com/en/video/20261104-midterms-trump-acknowledges-role-of-iran-war-congratulates-dems",
+      "date": "Wed, 04 Nov 2026 11:13:53 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 11:12:58 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 04 Nov 2026 02:38:07 GMT"
+      "text": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 11:12:15 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Seven flights across Europe targeted by suspected bomb threats",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 02:36:18 +0000"
+      "text": "Can Russia compete with the US, China and the EU in Africa?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 11:03:33 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Tokyo’s Mr Cheesecake by former Michelin restaurant chef opens first Singapore pop-up",
-      "link": "https://www.channelnewsasia.com/dining/mr-cheesecake-singapore-pop-up-ion-orchard-6518516",
-      "date": "Wed, 04 Nov 2026 10:35:29 +0800"
+      "text": "India&#039;s payments authority NPCI forms unit to push into AI, blockchain tech",
+      "link": "https://www.channelnewsasia.com/business/indias-payments-authority-npci-forms-unit-push-ai-blockchain-tech-6523796",
+      "date": "Wed, 04 Nov 2026 19:02:15 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
-      "link": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 02:25:51 +0000"
+      "text": "‘I will not delete my posts’: Inside Uganda’s crackdown on online critics",
+      "link": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 10:59:31 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "AMD&#039;s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-      "link": "https://www.channelnewsasia.com/business/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-6519501",
-      "date": "Wed, 04 Nov 2026 10:12:22 +0800"
+      "text": "Belgian court backs home-grown player rules, rejects Royal Antwerp challenge",
+      "link": "https://www.channelnewsasia.com/sport/belgian-court-backs-home-grown-player-rules-rejects-royal-antwerp-challenge-6523771",
+      "date": "Wed, 04 Nov 2026 18:57:59 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Oil edges down as investors await US midterm election results",
-      "link": "https://www.channelnewsasia.com/business/oil-edges-down-investors-await-us-midterm-election-results-6519506",
-      "date": "Wed, 04 Nov 2026 10:10:18 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Ballot shortages reported in Dearborn, Michigan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 02:09:42 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kazakhstan releases second tiger into the wild",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 01:39:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How Singapore employers are embracing inclusive hiring",
-      "link": "https://www.channelnewsasia.com/brand-studio/how-singapore-employers-are-embracing-inclusive-hiring-6515386",
-      "date": "Wed, 04 Nov 2026 09:39:29 +0800"
+      "text": "Paul says he will retire from boxing if he loses to Doumbe",
+      "link": "https://www.channelnewsasia.com/sport/paul-says-he-will-retire-boxing-if-he-loses-doumbe-6523776",
+      "date": "Wed, 04 Nov 2026 18:54:33 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "🔴 Midterms live: Democrat Roy Cooper flips first Senate seat, follow the results",
-      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-      "date": "Wed, 04 Nov 2026 01:38:44 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Democrat Roy Cooper flips North Carolina US Senate seat",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 01:36:33 +0000"
+      "text": "US voters back abortion rights and reject Trump's gerrymandering in state ballot measures",
+      "link": "https://www.france24.com/en/americas/20261104-us-voters-back-abortion-rights-and-reject-trump-s-gerrymandering-in-state-ballot-measures",
+      "date": "Wed, 04 Nov 2026 10:49:40 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Making work work for all",
-      "link": "https://www.channelnewsasia.com/brand-studio/making-work-work-all-6510636",
-      "date": "Wed, 04 Nov 2026 09:34:00 +0800"
+      "text": "Andorra teammate defends Owono after collision with Tenerife player De Miguel",
+      "link": "https://www.channelnewsasia.com/sport/andorra-teammate-defends-owono-after-collision-tenerife-player-de-miguel-6523746",
+      "date": "Wed, 04 Nov 2026 18:45:27 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 01:13:49 +0000"
+      "text": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+      "link": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 10:44:46 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "UN elects five judges to International Court of Justice amid record cases",
-      "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-      "date": "Wed, 04 Nov 2026 01:03:12 +0000"
+      "text": "Who holds the power today? Governments or corporations?",
+      "link": "https://www.aljazeera.com/video/doha-debates/2026/11/4/who-holds-the-power-today-governments-or-corporations?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 10:40:33 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
-      "link": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
-      "date": "Tue, 03 Nov 2026 23:46:02 GMT"
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Democrats win control of House and Senate: Key US midterms takeaways",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+      "date": "Wed, 04 Nov 2026 10:39:52 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
+      "link": "https://www.channelnewsasia.com/business/tencent-rolls-out-ai-model-trained-limited-cybersecurity-data-amid-hacking-fears-6523736",
+      "date": "Wed, 04 Nov 2026 18:37:24 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Trump says US will halt 'contentious' aid to Israel by year's end",
+      "link": "https://www.rfi.fr/en/international/20261104-trump-says-us-will-halt-contentious-aid-to-israel-by-year-s-end",
+      "date": "Wed, 04 Nov 2026 10:34:38 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fonseca leaves Lyon to become Sporting coach",
+      "link": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
+      "date": "Wed, 04 Nov 2026 18:33:44 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran's chief negotiator says Americans voted 'no to war'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 10:11:39 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "French judges open inquiry into complaint of Israeli war crime",
+      "link": "https://www.rfi.fr/en/international/20261104-french-judges-open-inquiry-into-complaint-of-israeli-war-crime",
+      "date": "Wed, 04 Nov 2026 08:27:39 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 07:39:38 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South Carolina elects Democratic senator for first time in almost three decades",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 07:32:02 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Florida Republicans fend off Democrats as state elects first black governor",
+      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 07:12:21 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Cyber attack threatens French blood banks",
+      "link": "https://news.sky.com/story/cyber-attack-threatens-french-blood-banks-13606660",
+      "date": "Wed, 04 Nov 2026 06:13:00 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Why Are Indonesians Dying in Ukraine?",
+      "link": "https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukraine-war-recruitment/",
+      "date": "Wed, 04 Nov 2026 06:00:45 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "'Expect the worst': What results mean for the world",
+      "link": "https://news.sky.com/story/expect-the-worst-what-results-mean-for-the-world-dominic-waghorn-13607794",
+      "date": "Wed, 04 Nov 2026 05:57:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 05:39:36 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "ANC faces anger over poor services as South Africans vote in local elections",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "date": "Wed, 04 Nov 2026 04:00:23 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Democrats win US Congress in midterm rout of Trump",
+      "link": "https://www.rfi.fr/en/international/20261104-democrats-win-us-congress-in-midterm-rout-of-trump",
+      "date": "Wed, 04 Nov 2026 03:54:05 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 02:11:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 04 Nov 2026 00:03:19 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -157,20 +283,6 @@
       "date": "Tue, 03 Nov 2026 23:02:31 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spanish transport minister resigns days after deadly train crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 22:45:59 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
-      "date": "Tue, 03 Nov 2026 22:28:56 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "One dead and another missing in suspected grizzly bear attack in Canada",
@@ -178,46 +290,11 @@
       "date": "Tue, 03 Nov 2026 22:08:50 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 21:53:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump tariffs hitting small businesses",
-      "link": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
-      "date": "Tue, 03 Nov 2026 21:45:39 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South Africa braces for some job losses as AGOA ends",
-      "link": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
-      "date": "Tue, 03 Nov 2026 21:18:25 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump promised a 'Golden Age'. What has he delivered at home?",
-      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
-      "date": "Tue, 03 Nov 2026 20:56:49 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Chinese AI Stocks Are Slumping, Too",
       "link": "https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/",
       "date": "Tue, 03 Nov 2026 20:49:19 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Seven flights across Europe targeted by suspected bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 20:42:47 GMT"
     },
     {
       "src": "Sky News",
@@ -241,13 +318,6 @@
       "date": "Tue, 03 Nov 2026 17:19:19 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 16:57:41 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Quiet Revolution in U.S.-Cypriot Relations",
@@ -255,32 +325,11 @@
       "date": "Tue, 03 Nov 2026 16:36:13 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 16:19:29 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Americans vote in midterms set to upend Trump presidency",
       "link": "https://www.rfi.fr/en/international/20261103-americans-vote-in-midterms-set-to-upend-trump-presidency",
       "date": "Tue, 03 Nov 2026 15:22:05 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Libya's top religious authority rules against wearing Nike clothes",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 14:56:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 03 Nov 2026 13:55:47 GMT"
     },
     {
       "src": "Sky News",
@@ -316,48 +365,6 @@
       "text": "Can Washington Afford to Deter Chinese Cyber Activity?",
       "link": "https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-deterrence-hackers-competition/",
       "date": "Tue, 03 Nov 2026 12:00:08 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168728",
-      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gender equality pays off for business – so why are companies pulling back?",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168726",
-      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "date": "Tue, 03 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Iran Is Talking Peace but Preparing for War",
-      "link": "https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/",
-      "date": "Tue, 03 Nov 2026 10:59:55 +0000"
     },
     {
       "src": "Sky News",
@@ -409,67 +416,11 @@
       "date": "Mon, 02 Nov 2026 15:33:46 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "FIFA to share documents relating to World Cup sell-off plan",
-      "link": "https://news.sky.com/story/fifa-to-partially-release-documents-relating-to-world-cup-sell-off-plan-13605768",
-      "date": "Mon, 02 Nov 2026 15:11:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission&#039;s phased closure",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168720",
-      "date": "Mon, 02 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "'Everything is destroyed': Hackers target refrigerators in new cyber attacks",
-      "link": "https://news.sky.com/story/hackers-target-refrigerators-in-ireland-and-european-countries-in-new-wave-of-cyber-attacks-13607013",
-      "date": "Mon, 02 Nov 2026 10:39:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Miami voters weigh local hardship and America's global role as early voting ends",
       "link": "https://www.rfi.fr/en/international/20261102-miami-voters-weigh-local-hardship-and-america-s-global-role-as-early-voting-ends",
       "date": "Mon, 02 Nov 2026 07:57:25 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "'Working in Russia is like being a deep-sea diver', BBC's man in Moscow tells RFI",
-      "link": "https://www.rfi.fr/en/international/20261101-working-in-russia-is-like-being-a-deep-sea-diver-bbc-s-man-in-moscow-tells-rfi",
-      "date": "Sun, 01 Nov 2026 16:43:39 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Florida Keys business owners reveal contrasting views of Trump's America",
-      "link": "https://www.rfi.fr/en/international/20261101-florida-keys-business-owners-reveal-contrasting-views-of-trump-s-america",
-      "date": "Sun, 01 Nov 2026 11:08:16 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Why war makes Ukraine media more determined than ever to hold power to account",
-      "link": "https://www.rfi.fr/en/international/20261101-why-war-makes-ukraine-media-more-determined-than-ever-to-hold-power-to-account",
-      "date": "Sun, 01 Nov 2026 07:52:09 GMT"
     },
     {
       "src": "The Guardian",
@@ -498,13 +449,6 @@
       "text": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
       "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
       "date": "Wed, 28 Oct 2026 09:37:49 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "date": "Mon, 26 Oct 2026 15:07:23 GMT"
     }
   ]
 }
