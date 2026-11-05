@@ -1,48 +1,272 @@
 {
-  "updated": "2026-11-05T15:39:28.398Z",
-  "count": 72,
+  "updated": "2026-11-05T21:38:05.025Z",
+  "count": 70,
   "items": [
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 21:25:57 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "California governor commutes sentences for state's 548 death row inmates",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 21:25:48 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Post-Midterms AI Reckoning",
+      "link": "https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/",
+      "date": "Thu, 05 Nov 2026 21:23:32 +0000"
+    },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
-      "link": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
-      "date": "Thu, 05 Nov 2026 15:27:11 GMT"
+      "text": "Nigeria court bars opposition candidate two months before election",
+      "link": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+      "date": "Thu, 05 Nov 2026 21:22:18 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Nasdaq set for correction as investors reassess AI spending boom",
-      "link": "https://www.channelnewsasia.com/business/nasdaq-set-correction-investors-reassess-ai-spending-boom-6528326",
-      "date": "Thu, 05 Nov 2026 23:21:04 +0800"
+      "text": "From star maps to meteorites: 9 watches that bring the cosmos to your wrist",
+      "link": "https://www.channelnewsasia.com/obsessions/celestial-watches-star-maps-meteorites-6515016",
+      "date": "Fri, 06 Nov 2026 05:22:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "France workers strike, march for &#039;dignified wage&#039;",
+      "link": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+      "date": "Fri, 06 Nov 2026 05:10:52 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Why has Cristiano Ronaldo retired from international football?",
-      "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 15:14:05 +0000"
+      "text": "Saudi coalition intercepts missile fired towards Medina",
+      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 20:48:47 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Google plans $17 billion Wyoming data center amid rising threats of curbs",
+      "link": "https://www.channelnewsasia.com/business/google-plans-17-billion-wyoming-data-center-amid-rising-threats-curbs-6529006",
+      "date": "Fri, 06 Nov 2026 04:47:30 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Jerusalem Daily: Settler pogroms in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 15:10:42 +0000"
+      "text": "Why are wealthy countries failing developing nations?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 20:45:47 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Ronaldo in records: International milestones from the football icon",
-      "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 15:09:31 +0000"
+      "text": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 20:43:46 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French protests: 'It's only when public, private sector act together that you can make changes'",
+      "link": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+      "date": "Thu, 05 Nov 2026 20:39:49 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
-      "link": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 15:01:35 +0000"
+      "text": "Mass protests in France driven by nationwide strike action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 20:11:37 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+      "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 20:07:04 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
+      "link": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
+      "date": "Thu, 05 Nov 2026 19:59:48 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Who could be behind hoax bomb threats to European air travel?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 19:58:40 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Top US civil rights official resigns",
+      "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 19:48:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Eight killed in series of shootings in western Turkey",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 19:32:54 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 19:31:28 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Hamilton says he won&#039;t be silenced, still frustrated after Mexico clash",
+      "link": "https://www.channelnewsasia.com/sport/hamilton-says-he-wont-be-silenced-still-frustrated-after-mexico-clash-6528836",
+      "date": "Fri, 06 Nov 2026 03:27:26 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Eight dead in mass shooting in rural west Türkiye: officials",
+      "link": "https://www.channelnewsasia.com/world/turkiye-manhunt-gun-shooting-eight-dead-6528826",
+      "date": "Fri, 06 Nov 2026 03:25:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+      "link": "https://www.channelnewsasia.com/business/spacex-tesla-extend-losses-midterm-results-cloud-data-center-merger-outlook-6528816",
+      "date": "Fri, 06 Nov 2026 03:18:44 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Brazil revels in return of two home drivers to F1 grid at Interlagos",
+      "link": "https://www.channelnewsasia.com/sport/brazil-revels-in-return-two-home-drivers-f1-grid-interlagos-6528821",
+      "date": "Fri, 06 Nov 2026 03:13:29 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 19:08:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Siberian burial site reveals ancient use of cannabis as an intoxicant",
+      "link": "https://www.channelnewsasia.com/business/siberian-burial-site-reveals-ancient-use-cannabis-intoxicant-6528796",
+      "date": "Fri, 06 Nov 2026 03:02:12 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Division among US Democrats over Schumer’s leadership role",
+      "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
+      "date": "Thu, 05 Nov 2026 18:53:04 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Family of footballer who died after on-pitch collision pay tribute to him",
+      "link": "https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553",
+      "date": "Thu, 05 Nov 2026 18:50:00 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "date": "Thu, 05 Nov 2026 18:48:07 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Portugal: Cristiano Ronaldo announces his international retirement",
+      "link": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
+      "date": "Thu, 05 Nov 2026 18:16:53 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Meghan&apos;s brother a &apos;person of interest&apos; in child abuse image claims",
+      "link": "https://news.sky.com/story/meghans-brother-a-person-of-interest-in-fathers-child-sex-abuse-image-claims-13608538",
+      "date": "Thu, 05 Nov 2026 18:12:00 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What Does Morocco’s First Woman Leader Actually Mean for the Country?",
+      "link": "https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/",
+      "date": "Thu, 05 Nov 2026 18:00:23 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "French protests see numbers surge as unions join strikes over high cost of living",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 17:59:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Myanmar: Civilians under fire from military junta",
+      "link": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
+      "date": "Thu, 05 Nov 2026 17:58:28 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Paraguay President Santiago Peña resigns after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 17:40:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 17:39:48 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
+      "link": "https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/",
+      "date": "Thu, 05 Nov 2026 17:39:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'",
+      "link": "https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape",
+      "date": "Thu, 05 Nov 2026 17:36:48 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paraguay's president Peña impeached moments after resigning over banking scandal",
+      "link": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
+      "date": "Thu, 05 Nov 2026 17:33:53 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
+      "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+      "date": "Thu, 05 Nov 2026 17:05:44 GMT"
     },
     {
       "src": "RFI",
@@ -52,158 +276,18 @@
       "date": "Thu, 05 Nov 2026 14:57:40 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Apple seeks about $7 billion from bond sale, Bloomberg News reports",
-      "link": "https://www.channelnewsasia.com/business/apple-seeks-about-7-billion-bond-sale-bloomberg-news-reports-6528256",
-      "date": "Thu, 05 Nov 2026 22:57:36 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Can Iran’s new supreme leader make peace from behind the scenes?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 14:45:46 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel's main Arab list backs Eisenkot to form government after election",
-      "link": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
-      "date": "Thu, 05 Nov 2026 14:43:59 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russell Brand found guilty of rape and sexual assault by UK court",
-      "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 14:43:09 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "France holds new strikes and protests as unions demand immediate answers",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 14:42:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Bringing the magic of Harry Potter to life through music",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20261105-bringing-the-magic-of-harry-potter-to-life-through-music",
-      "date": "Thu, 05 Nov 2026 14:30:51 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-      "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 14:30:37 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 14:29:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "British comedian Russell Brand found guilty of rape, sexual assault",
-      "link": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
-      "date": "Thu, 05 Nov 2026 14:26:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France faces new protests as government seeks to prevent violence",
-      "link": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
-      "date": "Thu, 05 Nov 2026 14:19:53 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Zealand&#039;s European-born duo complete unlikely journeys to test rugby",
-      "link": "https://www.channelnewsasia.com/sport/new-zealands-european-born-duo-complete-unlikely-journeys-test-rugby-6528016",
-      "date": "Thu, 05 Nov 2026 22:19:30 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Could the US midterms further isolate Israel in Washington?",
-      "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 14:19:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Scotland at full strength for clash with All Blacks",
-      "link": "https://www.channelnewsasia.com/sport/scotland-full-strength-clash-all-blacks-6527981",
-      "date": "Thu, 05 Nov 2026 22:15:03 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French bank hit by cyberattack, hackers steal $100 million",
-      "link": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million",
-      "date": "Thu, 05 Nov 2026 14:09:56 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "‘Why did this happen?’: Parents of man jailed for murdering sister speak of the brother he once was",
-      "link": "https://www.channelnewsasia.com/singapore/parents-man-brother-murder-sister-family-lost-regret-6527466",
-      "date": "Thu, 05 Nov 2026 22:08:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Box expands Nvidia partnership, unveils AI workflow builder",
-      "link": "https://www.channelnewsasia.com/business/box-expands-nvidia-partnership-unveils-ai-workflow-builder-6527896",
-      "date": "Thu, 05 Nov 2026 22:06:06 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Endangered Hawaiian bird uses beak and body to dig out its dinner",
-      "link": "https://www.channelnewsasia.com/business/endangered-hawaiian-bird-uses-beak-and-body-dig-out-its-dinner-6527901",
-      "date": "Thu, 05 Nov 2026 22:04:17 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Woman linked to Cambodia-based scam syndicate Prince Holding Group arrested at Changi Airport",
-      "link": "https://www.channelnewsasia.com/singapore/woman-arrested-prince-group-cambodia-scam-karen-chen-6527776",
-      "date": "Thu, 05 Nov 2026 21:58:00 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 13:51:03 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261105-south-african-star-zolani-mahola-from-waka-waka-with-shakira-to-people-power",
-      "date": "Thu, 05 Nov 2026 13:34:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'It's fascinating to see a human becoming a person': Author Clémentine Goldszal",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261105-it-s-fascinating-to-see-a-human-becoming-a-person-author-cl%C3%A9mentine-goldszal",
-      "date": "Thu, 05 Nov 2026 13:17:45 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Republican losses show Trump is 'not necessarily the best person to latch on to'",
       "link": "https://www.rfi.fr/en/international/20261105-republican-losses-show-trump-is-not-necessarily-the-best-person-to-latch-on-to-midterms",
       "date": "Thu, 05 Nov 2026 12:05:31 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "date": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -227,39 +311,11 @@
       "date": "Thu, 05 Nov 2026 10:30:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 09:04:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 03:47:56 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 02:09:23 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Americans Care About Foreign Policy. Now Democrats Must Listen to Them.",
       "link": "https://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/",
       "date": "Wed, 04 Nov 2026 23:23:56 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 04 Nov 2026 23:12:47 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -311,32 +367,11 @@
       "date": "Wed, 04 Nov 2026 19:25:00 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "For Ukrainians, U.S. Midterm Results Bring Some Hope",
-      "link": "https://foreignpolicy.com/2026/11/04/us-midterms-democrats-ukraine-russia/",
-      "date": "Wed, 04 Nov 2026 18:41:21 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "British healthcare worker with Ebola evacuated from DR Congo to UK",
       "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
       "date": "Wed, 04 Nov 2026 18:18:37 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump’s Next Trade War Could Be With Congress",
-      "link": "https://foreignpolicy.com/2026/11/04/midterms-democrats-trump-tariffs-trade-war-congress/",
-      "date": "Wed, 04 Nov 2026 18:02:50 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What Democrats can and can't do with their new power after taking Congress",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 04 Nov 2026 18:01:27 GMT"
     },
     {
       "src": "Sky News",
@@ -351,13 +386,6 @@
       "text": "ANC faces anger over poor services as South Africans vote in local elections",
       "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "date": "Wed, 04 Nov 2026 14:50:47 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Where Democrats Can Thwart Trump’s Foreign Policy",
-      "link": "https://foreignpolicy.com/2026/11/04/midterm-election-results-democrats-congress-trump-iran-war-oversight/",
-      "date": "Wed, 04 Nov 2026 14:23:05 +0000"
     },
     {
       "src": "RFI",
@@ -409,13 +437,6 @@
       "date": "Wed, 04 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghan children face narrowing path to education, UN agencies report",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168732",
-      "date": "Wed, 04 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Trump says US will halt 'contentious' aid to Israel by end of year",
@@ -430,32 +451,11 @@
       "date": "Wed, 04 Nov 2026 08:27:39 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Cyber attack threatens French blood banks",
-      "link": "https://news.sky.com/story/cyber-attack-threatens-french-blood-banks-13606660",
-      "date": "Wed, 04 Nov 2026 06:13:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Democrats take both houses of Congress as midterm voters rebuke Trump",
       "link": "https://www.rfi.fr/en/international/20261104-democrats-win-us-congress-in-midterm-rout-of-trump",
       "date": "Wed, 04 Nov 2026 03:54:05 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "One dead and another missing in suspected grizzly bear attack in Canada",
-      "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-      "date": "Tue, 03 Nov 2026 22:08:50 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Spain&apos;s transport minister to resign after train crash killed 69 people",
-      "link": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
-      "date": "Tue, 03 Nov 2026 20:32:00 +0000"
     },
     {
       "src": "RFI",
@@ -467,23 +467,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Bomb threats reported on multiple flights, including two from UK airports",
-      "link": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
-      "date": "Tue, 03 Nov 2026 12:37:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "Spanish footballer dies after on-field collision",
       "link": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
       "date": "Tue, 03 Nov 2026 10:20:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "British troops will be allowed to fire at Russian forces if attacked during multinational mission",
-      "link": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
-      "date": "Tue, 03 Nov 2026 01:55:00 +0000"
     },
     {
       "src": "The Guardian",
