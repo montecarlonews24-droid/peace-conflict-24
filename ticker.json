@@ -1,34 +1,202 @@
 {
-  "updated": "2026-11-06T01:51:32.919Z",
-  "count": 62,
+  "updated": "2026-11-06T08:39:41.292Z",
+  "count": 61,
   "items": [
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump calls midterms 'crooked', demands Alaska votes go to Republican candidate",
+      "link": "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate",
+      "date": "Fri, 06 Nov 2026 08:20:00 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 01:44:03 GMT"
+      "text": "Somalia's top court rejects president's term extension amid political crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 08:18:10 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "California governor commutes sentences of more than 500 people on death row",
-      "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 01:39:35 +0000"
+      "text": "Abdul El-Sayed did not have to become less Muslim to win",
+      "link": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:53:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Can America ever return to pre-Trump politics?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:51:09 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "India&#039;s Deepavali gold buyers opt for lighter jewellery, exchange old pieces amid high prices",
-      "link": "https://www.channelnewsasia.com/asia/india-deepavali-gold-prices-jewellery-6527506",
-      "date": "Fri, 06 Nov 2026 09:34:19 +0800"
+      "text": "India&#039;s Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+      "link": "https://www.channelnewsasia.com/business/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-6530541",
+      "date": "Fri, 06 Nov 2026 15:46:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "BOJ to hike in December, seek terminal rate of 2%, says ex-central bank top economist",
+      "link": "https://www.channelnewsasia.com/business/boj-hike-in-december-seek-terminal-rate-2-says-ex-central-bank-top-economist-6530521",
+      "date": "Fri, 06 Nov 2026 15:42:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Malaysian ex-PM Najib leaves jail for house arrest after paying fine",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+      "date": "Fri, 06 Nov 2026 15:38:00 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 01:28:03 GMT"
+      "text": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 07:33:41 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+      "link": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:32:08 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Cristiano Ronaldo brings his international football career to an end",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
+      "date": "Fri, 06 Nov 2026 07:32:03 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+      "link": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:30:04 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "LIV defectors face awkward return to tours they abandoned",
+      "link": "https://www.channelnewsasia.com/sport/liv-defectors-face-awkward-return-tours-they-abandoned-6530501",
+      "date": "Fri, 06 Nov 2026 15:28:55 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+      "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:28:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+      "link": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:24:26 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Global tech stocks plunge over fears of AI curbs in US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:24:20 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "North Korea&#039;s army of world-class hackers is secret weapon that took down Binance",
+      "link": "https://www.channelnewsasia.com/asia/north-korea-army-hackers-took-down-binance-6530186",
+      "date": "Fri, 06 Nov 2026 15:17:57 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "South Africa's ANC party on track to face 'nightmare' losses in municipal elections",
+      "link": "https://www.france24.com/en/africa/20261106-south-africa-anc-party-on-track-to-face-nightmare-losses-in-municipal-elections",
+      "date": "Fri, 06 Nov 2026 07:15:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel’s President Herzog to name candidate to form government on Sunday",
+      "link": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 07:09:42 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261106-leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "date": "Fri, 06 Nov 2026 07:08:47 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Genetic testing subsidies for hereditary breast, ovarian cancer to start on Dec 1",
+      "link": "https://www.channelnewsasia.com/singapore/genetic-testing-hereditary-breast-ovarian-cancer-subsidies-dec-1-6530326",
+      "date": "Fri, 06 Nov 2026 15:07:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
+      "link": "https://www.channelnewsasia.com/business/tesla-wind-down-cybertruck-production-texas-factory-musk-says-6530476",
+      "date": "Fri, 06 Nov 2026 15:05:37 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol",
+      "link": "https://www.channelnewsasia.com/singapore/grab-autonomous-vehicle-traffic-incident-6530421",
+      "date": "Fri, 06 Nov 2026 15:02:59 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Macau jails pro-democracy campaigner in city's first national security case",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 06:46:21 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "date": "Fri, 06 Nov 2026 06:16:22 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+      "link": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+      "date": "Fri, 06 Nov 2026 05:02:06 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+      "link": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "date": "Fri, 06 Nov 2026 04:31:40 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump signs order to preserve Oval Office as national monument",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 04:29:25 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 02:08:57 GMT"
     },
     {
       "src": "The Guardian",
@@ -38,81 +206,11 @@
       "date": "Fri, 06 Nov 2026 01:22:49 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NZ opener Conway ruled out of remainder of India ODI series",
-      "link": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581",
-      "date": "Fri, 06 Nov 2026 09:15:38 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How MoneyMax is rethinking traditional pawnbroking",
-      "link": "https://www.channelnewsasia.com/brand-studio/how-moneymax-rethinking-traditional-pawnbroking-6515176",
-      "date": "Fri, 06 Nov 2026 09:15:08 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Shares plunge in Tokyo and Seoul after US tech rout",
-      "link": "https://www.channelnewsasia.com/business/shares-plunge-tokyo-seoul-us-tech-rout-ai-stocks-6529531",
-      "date": "Fri, 06 Nov 2026 09:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan to spend proceeds from BOJ&#039;s ETF sales on growth areas, PM says",
-      "link": "https://www.channelnewsasia.com/business/japan-spend-proceeds-bojs-etf-sales-growth-areas-pm-says-6529516",
-      "date": "Fri, 06 Nov 2026 08:48:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nearly 90 million displaced facing severe climate risks: UN",
-      "link": "https://www.channelnewsasia.com/sustainability/un-displaced-severe-climate-risks-6529426",
-      "date": "Fri, 06 Nov 2026 08:28:53 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Marco Rubio denies plans to resign as 2028 speculation grows",
+      "text": "Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'",
       "link": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
       "date": "Fri, 06 Nov 2026 00:24:59 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Rubio denies plans to leave post for White House bid",
-      "link": "https://www.channelnewsasia.com/world/marco-rubio-white-house-presidential-bid-us-midterms-6529406",
-      "date": "Fri, 06 Nov 2026 08:21:49 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 00:19:57 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Turkiye’s parliament ratifies Mecca defence agreement",
-      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 00:15:22 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OCBC third-quarter net profit up 3% on-year, above forecasts",
-      "link": "https://www.channelnewsasia.com/singapore/ocbc-earnings-q3-2026-net-profit-6529241",
-      "date": "Fri, 06 Nov 2026 08:11:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 00:06:31 +0000"
     },
     {
       "src": "BBC World",
@@ -122,23 +220,9 @@
       "date": "Fri, 06 Nov 2026 00:02:57 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 00:00:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-      "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 23:46:52 +0000"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Three in four displaced people live in climate danger zones, UN says",
+      "text": "Three-quarters of world's displaced people face severe climate risks, UN says",
       "link": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
       "date": "Thu, 05 Nov 2026 23:34:08 GMT"
     },
@@ -164,18 +248,11 @@
       "date": "Thu, 05 Nov 2026 22:37:16 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Generation Z and young voters help redefine US politics after midterms",
-      "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 21:49:31 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Africa’s ANC on track for new lows in local polls",
-      "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-      "date": "Thu, 05 Nov 2026 21:48:16 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 05 Nov 2026 22:00:33 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -192,34 +269,6 @@
       "date": "Thu, 05 Nov 2026 21:23:32 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nigeria court bars opposition candidate two months before election",
-      "link": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
-      "date": "Thu, 05 Nov 2026 21:22:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "French protests: 'It's only when public, private sector act together that you can make changes'",
-      "link": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
-      "date": "Thu, 05 Nov 2026 20:39:49 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
-      "link": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
-      "date": "Thu, 05 Nov 2026 19:59:48 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Eight killed in series of shootings in western Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 19:32:54 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Breakaway league LIV Golf to fold after filing for bankruptcy",
@@ -232,20 +281,6 @@
       "text": "Family of footballer who died after on-pitch collision pay tribute to him",
       "link": "https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553",
       "date": "Thu, 05 Nov 2026 18:50:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-      "date": "Thu, 05 Nov 2026 18:48:07 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Portugal: Cristiano Ronaldo announces his international retirement",
-      "link": "https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement",
-      "date": "Thu, 05 Nov 2026 18:16:53 GMT"
     },
     {
       "src": "Sky News",
@@ -262,46 +297,11 @@
       "date": "Thu, 05 Nov 2026 18:00:23 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "French protests see numbers surge as unions join strikes over high cost of living",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 17:59:53 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Myanmar: Civilians under fire from military junta",
-      "link": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
-      "date": "Thu, 05 Nov 2026 17:58:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Paraguay President Santiago Peña resigns after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 17:40:40 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 05 Nov 2026 17:39:48 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
       "link": "https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/",
       "date": "Thu, 05 Nov 2026 17:39:27 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'",
-      "link": "https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape",
-      "date": "Thu, 05 Nov 2026 17:36:48 GMT"
     },
     {
       "src": "RFI",
@@ -365,13 +365,6 @@
       "text": "British healthcare worker with Ebola evacuated from DR Congo to UK",
       "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
       "date": "Wed, 04 Nov 2026 18:18:37 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Goalkeeper involved in collision with Spanish footballer who died releases statement",
-      "link": "https://news.sky.com/story/goalkeeper-involved-in-collision-with-spanish-footballer-who-died-releases-statement-13608023",
-      "date": "Wed, 04 Nov 2026 16:23:00 +0000"
     },
     {
       "src": "The Guardian",
