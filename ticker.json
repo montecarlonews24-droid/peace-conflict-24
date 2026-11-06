@@ -1,76 +1,272 @@
 {
-  "updated": "2026-11-06T16:24:30.922Z",
-  "count": 70,
+  "updated": "2026-11-06T21:39:48.248Z",
+  "count": 69,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Singapore has plenty of shopping malls. But do they all feel the same?",
+      "link": "https://www.channelnewsasia.com/people/singapore-shopping-malls-design-future-6516001",
+      "date": "Sat, 07 Nov 2026 05:37:08 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+      "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 21:22:57 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "OpenAI secures $11 billion funding at $1.25 trillion valuation, Bloomberg News reports",
+      "link": "https://www.channelnewsasia.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-6532301",
+      "date": "Sat, 07 Nov 2026 05:18:06 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Audio recording disabled on practice courts at WTA Finals after Pegula comments livestreamed",
+      "link": "https://www.channelnewsasia.com/sport/audio-recording-disabled-practice-courts-wta-finals-after-pegula-comments-livestreamed-6532306",
+      "date": "Sat, 07 Nov 2026 05:16:09 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
+      "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
+      "date": "Fri, 06 Nov 2026 21:14:49 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump names migration hardliner Miller new chief of staff",
+      "link": "https://www.channelnewsasia.com/world/trump-miller-new-chief-staff-migration-us-6532261",
+      "date": "Sat, 07 Nov 2026 05:06:43 +0800"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 16:23:16 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "LTA directs Grab to pause some AV testing after near miss with schoolgirl in Punggol",
-      "link": "https://www.channelnewsasia.com/singapore/lta-grab-pause-av-vehicle-testing-punggol-near-miss-schoolgirl-6531876",
-      "date": "Sat, 07 Nov 2026 00:10:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Sailing-France&#039;s Dorange withdraws from Route du Rhum after collision damage",
-      "link": "https://www.channelnewsasia.com/sport/sailing-frances-dorange-withdraws-route-du-rhum-after-collision-damage-6531906",
-      "date": "Sat, 07 Nov 2026 00:09:31 +0800"
+      "date": "Fri, 06 Nov 2026 21:06:25 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 16:04:19 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Protesters break into Microsoft AI data centre site in Amsterdam",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:48:10 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-      "link": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:44:48 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:42:43 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Republicans redrew this Texas district to win – it narrowly worked",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/republicans-redrew-this-texas-district-to-win-it-narrowly-worked?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:42:17 +0000"
+      "text": "Protesters break into Microsoft data centre site in Amsterdam",
+      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 21:04:40 +0000"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
-      "link": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
-      "date": "Fri, 06 Nov 2026 15:36:34 GMT"
+      "text": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+      "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+      "date": "Fri, 06 Nov 2026 20:51:37 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-      "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:35:57 +0000"
+      "text": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 20:48:25 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kenyan starvation cult leader sentenced to 200 years for child murders",
+      "link": "https://www.channelnewsasia.com/world/kenya-paul-mackenzie-mass-murder-sentenced-prison-6532176",
+      "date": "Sat, 07 Nov 2026 04:34:32 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Boy, 6, dies in hospital after house fire that killed four members of his family",
+      "link": "https://news.sky.com/story/boy-6-dies-in-hospital-after-house-fire-that-killed-four-members-of-his-family-13609051",
+      "date": "Fri, 06 Nov 2026 20:29:00 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 20:28:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 20:27:09 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+      "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 20:22:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How ‘Street Medics’ protect French protesters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 20:17:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+      "date": "Fri, 06 Nov 2026 20:08:32 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
+      "link": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241",
+      "date": "Sat, 07 Nov 2026 04:03:21 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "A German Movie Previews Its Far-Right Future",
+      "link": "https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/",
+      "date": "Fri, 06 Nov 2026 20:00:36 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ferrari seek reset after costly Hamilton-Leclerc clash",
+      "link": "https://www.channelnewsasia.com/sport/ferrari-seek-reset-after-costly-hamilton-leclerc-clash-6532226",
+      "date": "Sat, 07 Nov 2026 03:52:29 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wall Street stocks in relief rally after heavy AI-related selloff",
+      "link": "https://www.channelnewsasia.com/business/wall-street-stocks-in-relief-rally-after-heavy-ai-related-selloff-6529361",
+      "date": "Sat, 07 Nov 2026 03:52:11 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
+      "date": "Fri, 06 Nov 2026 19:49:25 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "‘Call of Duty’ Has a Message for Hegseth",
+      "link": "https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/",
+      "date": "Fri, 06 Nov 2026 19:45:52 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+      "date": "Fri, 06 Nov 2026 19:42:46 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+      "date": "Fri, 06 Nov 2026 19:23:24 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "‘Wild Horse Nine’ Looks Away From Chile’s History",
+      "link": "https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-martin-mcdonagh-chile-cia-coup-history-conspiracy/",
+      "date": "Fri, 06 Nov 2026 19:15:24 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Two New Stand-Out Novels From Ireland and South Africa",
+      "link": "https://foreignpolicy.com/2026/11/06/international-fiction-releases-louise-kennedy-stations-keletso-mopai-we-belong-trees/",
+      "date": "Fri, 06 Nov 2026 19:00:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "What Trump’s midterms debacle could mean for US support for Ukraine",
+      "link": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine",
+      "date": "Fri, 06 Nov 2026 18:49:19 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What in the World?",
+      "link": "https://foreignpolicy.com/2026/11/06/news-quiz-russia-ukraine-us-midterm-elections-trump-democrats/",
+      "date": "Fri, 06 Nov 2026 18:20:41 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Do the Democrats Have a Cohesive Economic Plan?",
+      "link": "https://foreignpolicy.com/2026/11/06/economy-election-congress-trade-affordability-artificial-intelligence-trump-democrats/",
+      "date": "Fri, 06 Nov 2026 17:41:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US midterms mark 'the beginning of the end' for Trump, John Bolton says",
+      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
+      "date": "Fri, 06 Nov 2026 17:26:53 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How America Was Swept by an Anti-Trump Wave",
+      "link": "https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/",
+      "date": "Fri, 06 Nov 2026 17:14:38 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Suez Crisis at 70 reveals the humiliation France tried to keep hidden",
+      "link": "https://www.rfi.fr/en/international/20261106-suez-canal-crisis-at-70-reveals-the-humiliation-france-tried-to-keep-hidden-ina",
+      "date": "Fri, 06 Nov 2026 17:01:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe: What we know about the hoax bomb threats disrupting flights",
+      "link": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
+      "date": "Fri, 06 Nov 2026 16:59:02 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "British comedian Russell Brand found guilty of rape and three sexual assaults",
+      "link": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults",
+      "date": "Fri, 06 Nov 2026 16:45:41 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Israel's Arab parties emerge as kingmakers after decades of discrimination",
+      "link": "https://www.rfi.fr/en/international/20261106-israel-s-arab-parties-emerge-as-kingmakers-after-decades-of-discrimination",
+      "date": "Fri, 06 Nov 2026 16:45:17 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "How a World War I Crackdown Predicted ICE",
+      "link": "https://foreignpolicy.com/2026/11/06/backderf-dissidents-review-cartoonists-censorship-press-freedom-ice/",
+      "date": "Fri, 06 Nov 2026 16:30:26 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 16:12:22 GMT"
     },
     {
       "src": "BBC World",
@@ -80,11 +276,11 @@
       "date": "Fri, 06 Nov 2026 15:33:52 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Third seed Shelton edges past Paul to reach Paris last four",
-      "link": "https://www.channelnewsasia.com/sport/third-seed-shelton-edges-past-paul-reach-paris-last-four-6531851",
-      "date": "Fri, 06 Nov 2026 23:27:58 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 06 Nov 2026 15:30:42 GMT"
     },
     {
       "src": "BBC World",
@@ -94,74 +290,11 @@
       "date": "Fri, 06 Nov 2026 15:25:35 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New bomb threats target European broadcasters, air traffic",
-      "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:24:54 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Firefly inks $1.3 billion deal to supply engines for new AST SpaceMobile &#039;Blacklift&#039; rocket",
-      "link": "https://www.channelnewsasia.com/business/firefly-inks-13-billion-deal-supply-engines-new-ast-spacemobile-blacklift-rocket-6531826",
-      "date": "Fri, 06 Nov 2026 23:18:10 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
-      "link": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 15:14:35 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Ikitau returns as Australia move Suaalii to wing",
-      "link": "https://www.channelnewsasia.com/sport/ikitau-returns-australia-move-suaalii-wing-6531816",
-      "date": "Fri, 06 Nov 2026 23:11:03 +0800"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
-      "text": "Kenyan doomsday sect leader jailed for 200 years over 191 murders",
+      "text": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
       "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
       "date": "Fri, 06 Nov 2026 15:08:43 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "China keeps a close eye on US midterm shake-up",
-      "link": "https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up",
-      "date": "Fri, 06 Nov 2026 15:03:23 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The International Power Broker Trying to Normalize Hamas",
-      "link": "https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/",
-      "date": "Fri, 06 Nov 2026 14:59:23 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo embarks on Latin America trip with a first stop in Uruguay",
-      "link": "https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay",
-      "date": "Fri, 06 Nov 2026 14:58:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "California governor to grant clemency to all 548 death row inmates in state",
-      "link": "https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state",
-      "date": "Fri, 06 Nov 2026 14:54:44 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Itoje returns and Fin Smith fit for England&#039;s Australia test",
-      "link": "https://www.channelnewsasia.com/sport/itoje-returns-and-fin-smith-fit-englands-australia-test-6531741",
-      "date": "Fri, 06 Nov 2026 22:53:17 +0800"
     },
     {
       "src": "BBC World",
@@ -171,48 +304,6 @@
       "date": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fox completes $22 billion Roku deal to expand digital reach",
-      "link": "https://www.channelnewsasia.com/business/fox-completes-22-billion-roku-deal-expand-digital-reach-6531686",
-      "date": "Fri, 06 Nov 2026 22:38:02 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Injured Saka will be out for weeks, says Arteta",
-      "link": "https://www.channelnewsasia.com/sport/injured-saka-will-be-out-weeks-says-arteta-6531691",
-      "date": "Fri, 06 Nov 2026 22:35:29 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The women who rode the blue wave",
-      "link": "https://www.france24.com/en/tv-shows/the-51/20261106-the-women-who-rode-the-blue-wave",
-      "date": "Fri, 06 Nov 2026 14:15:28 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
-      "link": "https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries",
-      "date": "Fri, 06 Nov 2026 13:48:11 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Paraguay's Peña offers resignation amid banking scandal, protests",
-      "link": "https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests",
-      "date": "Fri, 06 Nov 2026 13:45:58 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
-      "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us",
-      "date": "Fri, 06 Nov 2026 13:38:36 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
@@ -220,25 +311,11 @@
       "date": "Fri, 06 Nov 2026 13:03:38 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Will the Blue Tsunami Affect Latin America?",
-      "link": "https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/",
-      "date": "Fri, 06 Nov 2026 13:00:32 +0000"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Russian extremist group denies sending hoax bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Kenyan doomsday cult leader jailed for 200 years over 191 murders",
-      "link": "https://news.sky.com/story/kenyan-doomsday-cult-leader-jailed-for-200-years-over-murder-of-191-people-13608808",
-      "date": "Fri, 06 Nov 2026 12:50:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -292,58 +369,9 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 09:19:57 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-      "date": "Fri, 06 Nov 2026 06:16:22 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 02:08:57 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 06 Nov 2026 00:02:57 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Foreign Policy Shaped These 3 Critical Midterm Races",
-      "link": "https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/",
-      "date": "Thu, 05 Nov 2026 22:53:29 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "U.S. Foes React to the GOP’s Midterm Wipeout",
-      "link": "https://foreignpolicy.com/2026/11/05/midterm-results-trump-iran-russia-china-north-korea/",
-      "date": "Thu, 05 Nov 2026 22:37:16 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Hoax Bomb Threats Disrupt Air Traffic Across Europe",
-      "link": "https://foreignpolicy.com/2026/11/05/hoax-bomb-threats-europe-airlines-hybrid-warfare-russia/",
-      "date": "Thu, 05 Nov 2026 21:34:07 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Post-Midterms AI Reckoning",
-      "link": "https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/",
-      "date": "Thu, 05 Nov 2026 21:23:32 +0000"
     },
     {
       "src": "Sky News",
@@ -365,20 +393,6 @@
       "text": "Meghan&apos;s brother a &apos;person of interest&apos; in child abuse image claims",
       "link": "https://news.sky.com/story/meghans-brother-a-person-of-interest-in-fathers-child-sex-abuse-image-claims-13608538",
       "date": "Thu, 05 Nov 2026 18:12:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What Does Morocco’s First Woman Leader Actually Mean for the Country?",
-      "link": "https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/",
-      "date": "Thu, 05 Nov 2026 18:00:23 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
-      "link": "https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/",
-      "date": "Thu, 05 Nov 2026 17:39:27 +0000"
     },
     {
       "src": "RFI",
@@ -423,13 +437,6 @@
       "date": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Cristiano Ronaldo bows out from national team with emotional message",
-      "link": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
-      "date": "Thu, 05 Nov 2026 10:30:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Democrats sweep Congress leaving defiant Trump a lame-duck president",
@@ -470,20 +477,6 @@
       "text": "Trump says US will halt 'contentious' aid to Israel by end of year",
       "link": "https://www.rfi.fr/en/international/20261104-trump-says-us-will-halt-contentious-aid-to-israel-by-year-s-end",
       "date": "Wed, 04 Nov 2026 10:34:38 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "French judges open inquiry into allegation of Israeli war crime",
-      "link": "https://www.rfi.fr/en/international/20261104-french-judges-open-inquiry-into-complaint-of-israeli-war-crime",
-      "date": "Wed, 04 Nov 2026 08:27:39 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Democrats take both houses of Congress as midterm voters rebuke Trump",
-      "link": "https://www.rfi.fr/en/international/20261104-democrats-win-us-congress-in-midterm-rout-of-trump",
-      "date": "Wed, 04 Nov 2026 03:54:05 GMT"
     },
     {
       "src": "The Guardian",
