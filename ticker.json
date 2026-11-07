@@ -1,111 +1,160 @@
 {
-  "updated": "2026-11-07T01:22:46.813Z",
-  "count": 69,
+  "updated": "2026-11-07T07:23:51.953Z",
+  "count": 63,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China&#039;s giant pandas make public debut at US zoo",
-      "link": "https://www.channelnewsasia.com/world/china-panda-us-zoo-atlanta-6532496",
-      "date": "Sat, 07 Nov 2026 09:14:29 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Lampard says hair pull warranted Coventry penalty",
-      "link": "https://www.channelnewsasia.com/sport/lampard-says-hair-pull-warranted-coventry-penalty-6532521",
-      "date": "Sat, 07 Nov 2026 09:11:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "After years of robust growth, a tough 2027 ahead for Singapore banks: Analysts",
-      "link": "https://www.channelnewsasia.com/singapore/dbs-uob-ocbc-banks-earnings-outlook-6531376",
-      "date": "Sat, 07 Nov 2026 09:03:51 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "NBA steps up Mexico growth push as franchise ambitions remain on hold",
-      "link": "https://www.channelnewsasia.com/sport/nba-steps-up-mexico-growth-push-franchise-ambitions-remain-hold-6532501",
-      "date": "Sat, 07 Nov 2026 08:51:28 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Protesters break into Microsoft data centre site in Amsterdam as Europe’s backlash spreads",
-      "link": "https://www.channelnewsasia.com/world/data-centre-protesters-microsoft-amsterdam-europe-6531886",
-      "date": "Sat, 07 Nov 2026 08:47:42 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Paraguay's President Santiago Peña impeached and arrested after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 07 Nov 2026 07:20:00 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-      "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 00:31:41 +0000"
+      "text": "Qatari PM says US willing to seek solution to war with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 07:10:37 +0000"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 00:21:49 +0000"
+      "text": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 07:09:12 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "I discovered Chiang Mai’s quieter side: Coffee farms, village stays and forest bathing",
-      "link": "https://www.channelnewsasia.com/travel/chiang-mai-forest-bathing-coffee-farms-village-stays-6492371",
-      "date": "Sat, 07 Nov 2026 08:14:44 +0800"
+      "text": "Stand on either side of escalators? Commuters reluctant to ditch &#039;keep left&#039; habit in SMRT trial",
+      "link": "https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751",
+      "date": "Sat, 07 Nov 2026 15:07:48 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 07:05:01 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 07 Nov 2026 06:59:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Beachcombers in Morocco hunt for hidden treasure",
+      "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 06:47:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Do not investigate Trump’s corporate allies until he leaves office",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 06:38:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "How the Iran war helped Democrats win the midterms",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 06:26:58 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 06:21:04 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Governing party ahead in early results of New Zealand’s knife-edge vote",
+      "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 06:20:27 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ousted Paraguay president under house arrest after bank collapse",
+      "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+      "date": "Sat, 07 Nov 2026 06:18:38 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "NBA-Warriors&#039; Porzingis stepping away from basketball to prioritize health",
-      "link": "https://www.channelnewsasia.com/sport/nba-warriors-porzingis-stepping-away-basketball-prioritize-health-6532466",
-      "date": "Sat, 07 Nov 2026 08:13:24 +0800"
+      "text": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "link": "https://www.channelnewsasia.com/business/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-6532841",
+      "date": "Sat, 07 Nov 2026 14:05:28 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "How healthy is seaweed? Here’s what it can do for your body",
-      "link": "https://www.channelnewsasia.com/wellness/seaweed-health-benefits-recipes-6479161",
-      "date": "Sat, 07 Nov 2026 08:10:29 +0800"
+      "text": "Malaysia&#039;s king says Najib&#039;s conditional pardon is unambiguous, warns against disputing it",
+      "link": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831",
+      "date": "Sat, 07 Nov 2026 14:03:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 00:00:00 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Meghan&apos;s father in court charged with possessing child abuse material",
+      "link": "https://news.sky.com/story/meghans-father-thomas-markle-appears-in-court-charged-with-possessing-child-abuse-material-13609134",
+      "date": "Sat, 07 Nov 2026 05:42:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New Zealanders head to polls on final day of voting",
-      "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 23:48:01 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Malaysia to give US$2,400 in aid to families of 54 citizens missing in Nepal-Tibet floods",
+      "link": "https://www.channelnewsasia.com/asia/nepal-tibet-floods-malaysia-aid-families-missing-6532726",
+      "date": "Sat, 07 Nov 2026 13:36:00 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-      "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 23:33:28 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India&#039;s Shami keeps white-ball focus after ending test career",
+      "link": "https://www.channelnewsasia.com/sport/indias-shami-keeps-white-ball-focus-after-ending-test-career-6532806",
+      "date": "Sat, 07 Nov 2026 13:22:16 +0800"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 23:07:22 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UK has &apos;new pair of eyes&apos; in space as new military satellite enters orbit",
+      "link": "https://news.sky.com/story/uk-has-new-pair-of-eyes-in-space-after-military-satellite-titania-enters-orbit-13609133",
+      "date": "Sat, 07 Nov 2026 03:30:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US urges China to honour Busan trade deal commitments",
-      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 23:00:37 +0000"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Man arrested after alleged assault in River Valley, car overturns following police chase",
+      "link": "https://www.channelnewsasia.com/singapore/police-chase-overturned-car-river-valley-assault-6532596",
+      "date": "Sat, 07 Nov 2026 11:28:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Oscar-winning Chilean filmmaker Sebastian Lelio dies at 52",
+      "link": "https://www.channelnewsasia.com/entertainment/sebastian-lelio-chilean-filmmaker-death-6532581",
+      "date": "Sat, 07 Nov 2026 11:10:46 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Everton&#039;s Dewsbury-Hall does his talking on the pitch after England omission",
+      "link": "https://www.channelnewsasia.com/sport/evertons-dewsbury-hall-does-his-talking-pitch-after-england-omission-6532611",
+      "date": "Sat, 07 Nov 2026 11:05:50 +0800"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "date": "Sat, 07 Nov 2026 01:55:11 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -113,13 +162,6 @@
       "text": "Global AI Stocks React to U.S. Midterm Results",
       "link": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/",
       "date": "Fri, 06 Nov 2026 21:59:39 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-      "date": "Fri, 06 Nov 2026 21:37:30 +0000"
     },
     {
       "src": "France 24",
@@ -248,13 +290,6 @@
       "date": "Fri, 06 Nov 2026 17:41:27 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "US midterms mark 'the beginning of the end' for Trump, John Bolton says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
-      "date": "Fri, 06 Nov 2026 17:26:53 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Suez Crisis at 70 reveals the humiliation France tried to keep hidden",
@@ -285,13 +320,6 @@
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 15:30:42 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
       "text": "New wave of bomb threats hit European airlines",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 06 Nov 2026 15:25:35 GMT"
@@ -318,13 +346,6 @@
       "date": "Fri, 06 Nov 2026 13:03:38 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian extremist group denies sending hoax bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
@@ -339,53 +360,11 @@
       "date": "Fri, 06 Nov 2026 12:10:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Three-quarters of world's displaced people 'on frontlines of climate crisis'",
       "link": "https://www.rfi.fr/en/international/20261106-three-quarters-of-world-s-displaced-people-on-frontlines-of-climate-crisis",
       "date": "Fri, 06 Nov 2026 11:12:38 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-      "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-      "date": "Fri, 06 Nov 2026 09:54:12 GMT"
     },
     {
       "src": "Sky News",
@@ -421,27 +400,6 @@
       "text": "Republican losses show Trump is 'not necessarily the best person to latch on to'",
       "link": "https://www.rfi.fr/en/international/20261105-republican-losses-show-trump-is-not-necessarily-the-best-person-to-latch-on-to-midterms",
       "date": "Thu, 05 Nov 2026 12:05:31 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Children at risk as war zone attacks on water and sanitation more than triple",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
