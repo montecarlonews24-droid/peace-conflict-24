@@ -1,41 +1,237 @@
 {
-  "updated": "2026-11-09T02:47:17.207Z",
-  "count": 69,
+  "updated": "2026-11-09T10:30:23.846Z",
+  "count": 62,
   "items": [
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Asian stocks steady as AI, Middle East jitters recede",
-      "link": "https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041",
-      "date": "Mon, 09 Nov 2026 10:39:26 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mediacorp celebrates Deepavali with evening of entertainment and festive cheer",
-      "link": "https://www.channelnewsasia.com/entertainment/mediacorp-deepavali-2026-countdown-6534861",
-      "date": "Mon, 09 Nov 2026 10:36:01 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea says Nvidia issues won&#039;t affect contracted GPU supplies",
-      "link": "https://www.channelnewsasia.com/business/south-korea-says-nvidia-issues-wont-affect-contracted-gpu-supplies-6535111",
-      "date": "Mon, 09 Nov 2026 10:27:35 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Dems set to go after Hegseth, Musk following midterms rout",
+      "link": "https://www.france24.com/en/video/20261109-dems-set-to-go-after-hegseth-musk-following-midterms-rout",
+      "date": "Mon, 09 Nov 2026 10:19:49 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-      "date": "Mon, 09 Nov 2026 02:23:11 +0000"
+      "text": "At least one person killed as Russia and Ukraine trade strikes overnight",
+      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 10:08:45 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paris police officers go on trial over 2020 beating of Black man",
+      "link": "https://www.france24.com/en/france/20261109-paris-police-officers-go-on-trial-over-2020-beating-of-black-man",
+      "date": "Mon, 09 Nov 2026 10:08:03 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "New Zealand’s centrist kingmaker says populism failing voters worldwide",
-      "link": "https://www.channelnewsasia.com/world/new-zealand-election-politics-populism-failing-voters-worldwide-6535066",
-      "date": "Mon, 09 Nov 2026 10:11:41 +0800"
+      "text": "China extends suspension of new rare earth controls until January",
+      "link": "https://www.channelnewsasia.com/east-asia/china-extends-suspensions-new-rare-earths-controls-6535736",
+      "date": "Mon, 09 Nov 2026 18:06:06 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lights to go out at Russia&#039;s Novaya Gazeta, independent newspaper known for its fearless reporting",
+      "link": "https://www.channelnewsasia.com/world/russia-independent-newspaper-winding-up-operations-novaya-gazeta-6535766",
+      "date": "Mon, 09 Nov 2026 17:59:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran’s authorities harden domestic security controls amid US strike threats",
+      "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 09:56:13 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran defends two-day proposal for peace talks after US rejects conditions",
+      "link": "https://www.channelnewsasia.com/world/iran-defends-peace-talks-proposal-us-6535786",
+      "date": "Mon, 09 Nov 2026 17:53:58 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
+      "link": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises",
+      "date": "Mon, 09 Nov 2026 09:53:53 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Turkey courts Egypt to tip the scales in eastern Mediterranean power game",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20261109-turkey-courts-egypt-to-tip-the-scales-in-eastern-mediterranean-power-game",
+      "date": "Mon, 09 Nov 2026 09:49:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French PM holds 'social conference':  just 'an exercise in PR'?",
+      "link": "https://www.france24.com/en/video/20261109-french-pm-holds-social-conference-just-an-exercise-in-pr",
+      "date": "Mon, 09 Nov 2026 09:47:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Nazi vanity project': Eagle's Nest in Bavarian Alps a symbol of regime's 'conquest of nature'",
+      "link": "https://www.france24.com/en/nazi-vanity-project-eagle-s-nest-in-bavarian-alps-a-symbol-of-regime-s-conquest-of-nature",
+      "date": "Mon, 09 Nov 2026 09:45:59 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The DNA that Unmasked a Killer | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/11/9/the-dna-that-unmasked-a-killer-true-crime-reports?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 09:36:53 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 09:27:35 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Warner backs Khawaja&#039;s comments about ball-tampering scandal",
+      "link": "https://www.channelnewsasia.com/sport/warner-backs-khawajas-comments-about-ball-tampering-scandal-6535751",
+      "date": "Mon, 09 Nov 2026 17:22:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Indonesia considers bug sweeps, tighter controls on spy tools after wiretap scandal",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-bug-sweeps-tighter-controls-wiretapping-scandal-6535671",
+      "date": "Mon, 09 Nov 2026 17:11:33 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine",
+      "link": "https://www.france24.com/en/europe/20261109-we-call-it-war-life-balance-daryna-s-daily-struggle-to-live-survive-in-wartime-ukraine",
+      "date": "Mon, 09 Nov 2026 09:10:50 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "NextDC pauses uncontracted projects after Australian data centre woes",
+      "link": "https://www.channelnewsasia.com/business/nextdc-pauses-uncontracted-projects-after-australian-data-centre-woes-6535716",
+      "date": "Mon, 09 Nov 2026 16:51:58 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 08:49:17 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "A chance encounter with wushu at her community centre led Ng Zhe Nin to Youth Olympic gold",
+      "link": "https://www.channelnewsasia.com/singapore/ng-zhe-nin-youth-olympic-gold-wushu-taijiquan-interview-6535681",
+      "date": "Mon, 09 Nov 2026 16:45:18 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump says his immigration policy ‘too tough’ for voters",
+      "link": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 08:35:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US top Democrat backs impeachment of Pete Hegseth",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 08:26:50 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "From affair allegations to Nvidia probe: How the Jensen Huang controversy unfolded",
+      "link": "https://www.channelnewsasia.com/east-asia/jensen-huang-affair-alice-huang-nvidia-timeline-6535611",
+      "date": "Mon, 09 Nov 2026 16:26:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Trump ‘only kidding’ about Dana White press secretary role",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 08:18:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 08:16:57 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Experts Are Taking Their Revenge Again",
+      "link": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/",
+      "date": "Mon, 09 Nov 2026 08:08:55 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump says deportation crackdown was 'too tough' after midterm setback",
+      "link": "https://www.france24.com/en/americas/20261109-trump-says-deportation-crackdown-was-too-tough-after-midterm-setback",
+      "date": "Mon, 09 Nov 2026 08:02:00 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+      "link": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+      "date": "Mon, 09 Nov 2026 07:56:16 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Poland braces for tense week after deadly shooting deepens political divisions",
+      "link": "https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions",
+      "date": "Mon, 09 Nov 2026 07:43:11 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 07:26:09 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 06:00:26 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 05:30:37 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Is Hegseth the New Rumsfeld?",
+      "link": "https://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/",
+      "date": "Mon, 09 Nov 2026 05:01:06 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 09 Nov 2026 02:50:13 GMT"
     },
     {
       "src": "The Guardian",
@@ -45,158 +241,11 @@
       "date": "Mon, 09 Nov 2026 02:11:25 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Mitsui Chemicals and DBJ to buy JSR for $11.6 billion, filing shows",
-      "link": "https://www.channelnewsasia.com/business/mitsui-chemicals-and-dbj-buy-jsr-116-billion-filing-shows-6535076",
-      "date": "Mon, 09 Nov 2026 10:11:02 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
-      "link": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-      "date": "Mon, 09 Nov 2026 02:05:00 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Chinese energy storage firm RelyEZ jumps on Hong Kong debut",
-      "link": "https://www.channelnewsasia.com/business/chinese-energy-storage-firm-relyez-jumps-hong-kong-debut-6535021",
-      "date": "Mon, 09 Nov 2026 09:36:21 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-      "date": "Mon, 09 Nov 2026 01:19:09 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Gauff bests Pegula in thrilling clash, Noskova beats Kostyuk in WTA Finals",
-      "link": "https://www.channelnewsasia.com/sport/gauff-bests-pegula-in-thrilling-clash-noskova-beats-kostyuk-in-wta-finals-6535006",
-      "date": "Mon, 09 Nov 2026 09:16:47 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-      "link": "https://www.channelnewsasia.com/business/us-dollar-holds-payrolls-gains-nz-dollar-rises-after-election-6535011",
-      "date": "Mon, 09 Nov 2026 09:16:08 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump vows comeback as parties clash over Democrat prosecution threats",
-      "link": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
-      "date": "Mon, 09 Nov 2026 01:13:10 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "India’s night lights up for Diwali",
-      "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
-      "date": "Mon, 09 Nov 2026 00:24:04 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-      "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
-      "date": "Mon, 09 Nov 2026 00:07:02 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "date": "Mon, 09 Nov 2026 00:00:34 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nvidia CEO’s affair sparks Chinese espionage probe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 23:58:53 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mexican mayor found alive after hours-long abduction",
-      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 23:55:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-      "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 23:39:47 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 23:34:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
-      "link": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
-      "date": "Sun, 08 Nov 2026 23:02:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
-      "link": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
-      "date": "Sun, 08 Nov 2026 22:23:19 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 21:37:36 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo in Latin America: Papal Politics and Peru",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261108-pope-leo-in-latin-america-papal-politics-and-peru",
-      "date": "Sun, 08 Nov 2026 21:16:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
-      "link": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
-      "date": "Sun, 08 Nov 2026 21:10:13 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo in Latin America: Papal Politics and Peru",
-      "link": "https://www.france24.com/en/pope-leo-in-latin-america-papal-politics-and-peru",
-      "date": "Sun, 08 Nov 2026 20:51:53 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "AI giant Nvidia launches investigation into CEO&apos;s affair with &apos;Chinese spy&apos;",
       "link": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
       "date": "Sun, 08 Nov 2026 20:41:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-      "link": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
-      "date": "Sun, 08 Nov 2026 20:40:33 GMT"
     },
     {
       "src": "BBC World",
@@ -213,25 +262,18 @@
       "date": "Sun, 08 Nov 2026 17:51:17 GMT"
     },
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 08 Nov 2026 17:51:03 GMT"
+    },
+    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Seven dead and 114 injured in train crash near Cairo",
       "link": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
       "date": "Sun, 08 Nov 2026 14:55:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 14:42:09 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "src": "RFI",
@@ -253,13 +295,6 @@
       "text": "How African philosophies inspired a new approach to staging film festivals in Manchester",
       "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
       "date": "Sun, 08 Nov 2026 12:00:39 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168756",
-      "date": "Sun, 08 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -285,37 +320,9 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Briton among six killed by &apos;far-right&apos; gunman in Krakow rampage",
-      "link": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
-      "date": "Sun, 08 Nov 2026 02:19:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 21:36:16 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 19:17:22 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168759",
-      "date": "Sat, 07 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 06:59:48 GMT"
+      "text": "Finland&apos;s navy chief says Russia&apos;s presence in the Baltic Sea may have peaked for now",
+      "link": "https://news.sky.com/story/finlands-navy-chief-says-russias-presence-in-the-baltic-sea-may-have-peaked-for-now-13609763",
+      "date": "Sun, 08 Nov 2026 01:01:00 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -360,20 +367,6 @@
       "date": "Fri, 06 Nov 2026 19:00:27 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "What in the World?",
-      "link": "https://foreignpolicy.com/2026/11/06/news-quiz-russia-ukraine-us-midterm-elections-trump-democrats/",
-      "date": "Fri, 06 Nov 2026 18:20:41 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Do the Democrats Have a Cohesive Economic Plan?",
-      "link": "https://foreignpolicy.com/2026/11/06/economy-election-congress-trade-affordability-artificial-intelligence-trump-democrats/",
-      "date": "Fri, 06 Nov 2026 17:41:27 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Suez Crisis at 70 reveals the humiliation France tried to keep hidden",
@@ -402,46 +395,18 @@
       "date": "Fri, 06 Nov 2026 12:48:37 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-      "date": "Fri, 06 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Three-quarters of world's displaced people 'on frontlines of climate crisis'",
       "link": "https://www.rfi.fr/en/international/20261106-three-quarters-of-world-s-displaced-people-on-frontlines-of-climate-crisis",
       "date": "Fri, 06 Nov 2026 11:12:38 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Gunman suspected of killing six people in Polish city of Krakow has died, police say",
+      "link": "https://news.sky.com/story/gunman-suspected-of-killing-six-people-in-polish-city-of-krakow-has-died-police-say-13608464",
+      "date": "Thu, 05 Nov 2026 15:39:00 +0000"
     },
     {
       "src": "RFI",
@@ -458,13 +423,6 @@
       "date": "Thu, 05 Nov 2026 12:05:31 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Democrats sweep Congress leaving defiant Trump a lame-duck president",
@@ -477,13 +435,6 @@
       "text": "British healthcare worker with Ebola evacuated from DR Congo to UK",
       "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
       "date": "Wed, 04 Nov 2026 18:18:37 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Democratic midterm wins threaten data centre boom in key US states",
-      "link": "https://www.rfi.fr/en/international/20261104-democratic-wins-threaten-data-centre-boom-in-key-us-states",
-      "date": "Wed, 04 Nov 2026 13:49:24 GMT"
     }
   ]
 }
