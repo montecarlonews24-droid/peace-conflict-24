@@ -1,27 +1,188 @@
 {
-  "updated": "2026-11-10T23:48:13.987Z",
+  "updated": "2026-11-11T03:27:51.287Z",
   "count": 72,
   "items": [
     {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 11 Nov 2026 03:26:42 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "LIVE: Ukraine, Russia hold second day of US mediated talks in Abu Dhabi",
+      "link": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
+      "date": "Wed, 11 Nov 2026 03:22:45 GMT"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "US House blocks path to impeach Defense Secretary Pete Hegseth",
-      "link": "https://www.channelnewsasia.com/world/us-house-representatives-block-path-impeach-defense-secretary-pete-hegseth-6540901",
-      "date": "Wed, 11 Nov 2026 07:29:00 +0800"
+      "text": "UN peacekeepers say came under fire in southern Lebanon",
+      "link": "https://www.channelnewsasia.com/world/united-nations-peacekeepers-fired-upon-lebanon-6541561",
+      "date": "Wed, 11 Nov 2026 11:15:52 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Shibuya Crossing in Joo Chiat? Scramble crossing trial to take place from Nov 16",
+      "link": "https://www.channelnewsasia.com/singapore/joo-chiat-pedestrian-scramble-crossing-traffic-trial-6541466",
+      "date": "Wed, 11 Nov 2026 11:06:25 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "French far-right author Zemmour launches second presidential bid",
-      "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 23:23:12 +0000"
+      "text": "El Salvador fires missiles on Haitian gang hideout",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 03:00:23 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Vaginal dryness, painful sex, recurring UTIs: The menopause changes women think they have to endure",
-      "link": "https://www.channelnewsasia.com/women/menopause-genitourinary-syndrome-symptoms-6495281",
-      "date": "Wed, 11 Nov 2026 07:22:00 +0800"
+      "text": "SIA defends new Business Class seats following public outcry, says colours, materials and finishes ‘carefully selected’",
+      "link": "https://www.channelnewsasia.com/singapore/singapore-airlines-business-class-seats-design-6539191",
+      "date": "Wed, 11 Nov 2026 10:59:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "GOP-led House report slams systemic failures in handling of Epstein case",
+      "link": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 02:58:26 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 11 Nov 2026 02:47:59 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 11 Nov 2026 02:41:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Fullerton Health server supporting migrant worker care programme hit by cybersecurity incident",
+      "link": "https://www.channelnewsasia.com/singapore/fullerton-health-migrant-worker-care-plan-cybersecurity-incident-6541451",
+      "date": "Wed, 11 Nov 2026 10:39:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nine seriously injured in South Korea bus crash involving 32 vehicles",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-bus-crash-bundang-6541546",
+      "date": "Wed, 11 Nov 2026 10:38:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US attempts new peace push at first Russia-Ukraine talks in nine months",
+      "link": "https://www.channelnewsasia.com/world/united-states-peace-talks-russia-ukraine-abu-dhabi-6541471",
+      "date": "Wed, 11 Nov 2026 10:34:17 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pope Leo draws million-strong crowd at Argentine vigil, urges youth not to chase clicks",
+      "link": "https://www.channelnewsasia.com/world/pope-leo-argentine-vigil-south-america-6541501",
+      "date": "Wed, 11 Nov 2026 10:29:24 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US judge says Trump’s US$10 billion BBC defamation case can proceed",
+      "link": "https://www.channelnewsasia.com/world/us-judge-trump-bbc-defamation-case-jan-6-6541491",
+      "date": "Wed, 11 Nov 2026 10:22:19 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 02:12:22 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+      "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 02:07:15 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
+      "link": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
+      "date": "Wed, 11 Nov 2026 01:53:51 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Boat capsized off Senegal's northwest coast leaving 39 dead",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
+      "date": "Wed, 11 Nov 2026 01:50:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 01:44:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Republicans block Hegseth impeachment motion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 01:43:42 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Haiti PM praises Bukele after Salvadoran troops help destroy gang headquarters",
+      "link": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
+      "date": "Wed, 11 Nov 2026 01:41:43 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 01:11:04 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 11 Nov 2026 01:01:20 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Spain holds state funeral for 69 victims of deadly train crash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+      "date": "Wed, 11 Nov 2026 00:42:41 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Wed, 11 Nov 2026 00:18:07 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Attempt to impeach Trump&apos;s defence secretary blocked",
+      "link": "https://news.sky.com/story/pete-hegseth-attempt-to-impeach-trumps-defence-secretary-blocked-13610811",
+      "date": "Wed, 11 Nov 2026 00:10:00 +0000"
     },
     {
       "src": "France 24",
@@ -29,13 +190,6 @@
       "text": "Teddy Riner candidacy 'illustrative of this hunger for an alternative' to Le Pen or Mélenchon",
       "link": "https://www.france24.com/en/video/20261110-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon",
       "date": "Tue, 10 Nov 2026 23:13:58 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Japan manufacturers&#039; mood hits more than 5-year high on chip demand: Reuters poll",
-      "link": "https://www.channelnewsasia.com/business/japan-manufacturers-mood-hits-more-5-year-high-chip-demand-reuters-poll-6540871",
-      "date": "Wed, 11 Nov 2026 07:04:25 +0800"
     },
     {
       "src": "Foreign Policy",
@@ -52,27 +206,6 @@
       "date": "Tue, 10 Nov 2026 22:42:42 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia expels Moldovan diplomat in tit-for-tat move",
-      "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 22:41:07 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 22:36:14 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Pegula keeps WTA Finals hopes alive, Kostyuk eliminated",
-      "link": "https://www.channelnewsasia.com/sport/pegula-keeps-wta-finals-hopes-alive-kostyuk-eliminated-6540826",
-      "date": "Wed, 11 Nov 2026 06:28:51 +0800"
-    },
-    {
       "src": "France 24",
       "col": "#ef4444",
       "text": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
@@ -87,97 +220,6 @@
       "date": "Tue, 10 Nov 2026 22:25:48 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 22:17:45 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US SEC seeks to close Musk, Tesla settlement fund",
-      "link": "https://www.channelnewsasia.com/business/us-sec-seeks-close-musk-tesla-settlement-fund-6540771",
-      "date": "Wed, 11 Nov 2026 06:06:09 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "UNIFIL patrol comes under fire in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 22:03:50 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US poll shows death penalty lost majority support for first time since 1971",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 22:03:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Commentary: ASEAN must hold the line on Five-Point Consensus for Myanmar’s reintegration",
-      "link": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
-      "date": "Wed, 11 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "As Chinese EVs reshape Thailand&#039;s car industry, higher taxes bring new uncertainty",
-      "link": "https://www.channelnewsasia.com/asia/thailand-ev-prices-chinese-imports-6538306",
-      "date": "Wed, 11 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CNA Explains: Why Singapore is a prime target for disinformation campaigns",
-      "link": "https://www.channelnewsasia.com/singapore/cna-explains-cna-verify-disinformation-campaigns-influence-operations-6538141",
-      "date": "Wed, 11 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
-      "link": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
-      "date": "Tue, 10 Nov 2026 21:57:47 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "IBM’s biggest division ends most US foreign worker sponsorships",
-      "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 21:55:49 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
-      "link": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
-      "date": "Tue, 10 Nov 2026 21:53:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
-      "link": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
-      "date": "Tue, 10 Nov 2026 21:40:18 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO",
-      "link": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo",
-      "date": "Tue, 10 Nov 2026 21:39:05 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 21:21:55 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "What Progressives Could Do on Israel",
@@ -185,32 +227,18 @@
       "date": "Tue, 10 Nov 2026 21:02:51 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "2026 Midterms: Blue wave or anti-establishment backlash?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 21:00:55 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "White House announces funds for law enforcement programme in several cities",
-      "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-      "date": "Tue, 10 Nov 2026 21:00:01 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Spain's king and queen attend memorial service for rail crash victims",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 20:46:40 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "U.S.-Mediated Russia-Ukraine Talks Make Little Headway",
       "link": "https://foreignpolicy.com/2026/11/10/us-russia-ukraine-peace-talks-progress-cease-fire-donbas/",
       "date": "Tue, 10 Nov 2026 20:34:28 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US Army soldier suspected of spying for Russia arrested in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 10 Nov 2026 20:20:04 GMT"
     },
     {
       "src": "BBC World",
@@ -234,13 +262,6 @@
       "date": "Tue, 10 Nov 2026 19:01:33 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 18:33:51 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Ex-investigator admits depriving war crimes probe of potentially valuable information",
@@ -253,13 +274,6 @@
       "text": "Anti-homosexuality laws in Trinidad and Tobago overturned",
       "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 10 Nov 2026 18:04:18 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Israel's new parliament sworn in as leaders compete to form government",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 17:03:16 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -297,13 +311,6 @@
       "date": "Tue, 10 Nov 2026 15:23:35 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 10 Nov 2026 15:21:18 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Democrats Have a Mandate to Tackle Corruption. Here’s How.",
@@ -316,6 +323,13 @@
       "text": "And What About Europe’s Center-Left?",
       "link": "https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/",
       "date": "Tue, 10 Nov 2026 14:09:50 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168782",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "UN News",
@@ -364,13 +378,6 @@
       "col": "#3b82f6",
       "text": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Climate crisis could push 141 million more women into extreme poverty",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
       "date": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
@@ -435,13 +442,6 @@
       "text": "Turkey courts Egypt to tip the scales in eastern Mediterranean power game",
       "link": "https://www.rfi.fr/en/podcasts/international-report/20261109-turkey-courts-egypt-to-tip-the-scales-in-eastern-mediterranean-power-game",
       "date": "Mon, 09 Nov 2026 09:49:21 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "At least 14 dead after boat carrying migrants found near Crete",
-      "link": "https://news.sky.com/story/at-least-14-dead-after-boat-carrying-migrants-found-near-crete-13610083",
-      "date": "Mon, 09 Nov 2026 09:17:00 +0000"
     },
     {
       "src": "The Guardian",
