@@ -1,83 +1,209 @@
 {
-  "updated": "2026-11-12T01:07:27.042Z",
-  "count": 64,
+  "updated": "2026-11-12T08:29:46.102Z",
+  "count": 72,
   "items": [
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Why AI ads and foreign meddling did not seem to sway the US midterm elections",
+      "link": "https://www.channelnewsasia.com/world/us-midterms-elections-ai-ads-foreign-interference-6545281",
+      "date": "Thu, 12 Nov 2026 16:23:10 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Gibran: Indonesian golden child brought down in diploma scandal",
+      "link": "https://www.channelnewsasia.com/asia/indonesia-vp-gibran-rakabuming-raka-profile-education-scandal-6545426",
+      "date": "Thu, 12 Nov 2026 16:15:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Mississippi elects first Black Senator since 1874",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 08:12:40 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "How Nvidia scandal, US midterm losses could affect Trump’s hand with Xi - and what it means for Beijing",
+      "link": "https://www.channelnewsasia.com/east-asia/trump-xi-apec-nvidia-scandal-us-midterms-6545226",
+      "date": "Thu, 12 Nov 2026 16:06:59 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Photos: Protesters clash with police after housing cost rallies in Spain",
+      "link": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 08:01:29 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 12 Nov 2026 07:59:33 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Who is Nvidia CEO Jensen Huang?",
+      "link": "https://www.france24.com/en/who-is-nvidia-ceo-jensen-huang",
+      "date": "Thu, 12 Nov 2026 07:54:59 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Wheelock Place renamed LANDMARK Orchard after Hongkong Land acquisition",
+      "link": "https://www.channelnewsasia.com/singapore/wheelock-place-renamed-landmark-orchard-hong-kong-6545291",
+      "date": "Thu, 12 Nov 2026 15:53:48 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "‘We need to be exposed’: Gavin Lee&#039;s Lions welcome Brazil, Paraguay challenge",
+      "link": "https://www.channelnewsasia.com/sport/singapore-lions-brazil-paraguay-football-matches-6545346",
+      "date": "Thu, 12 Nov 2026 15:49:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 12 Nov 2026 07:45:52 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Kia India plans $2 billion investment in Andhra Pradesh plant, to add 12,000 jobs",
+      "link": "https://www.channelnewsasia.com/business/kia-india-plans-2-billion-investment-in-andhra-pradesh-plant-add-12000-jobs-6545361",
+      "date": "Thu, 12 Nov 2026 15:41:22 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
+      "link": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
+      "date": "Thu, 12 Nov 2026 07:39:55 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 07:38:05 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+      "link": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 07:37:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Chinese university bought advanced Nvidia chips despite US curbs",
+      "link": "https://www.channelnewsasia.com/east-asia/china-northwestern-polytechnical-university-bought-nvidia-chips-6541951",
+      "date": "Thu, 12 Nov 2026 15:34:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
+      "link": "https://www.channelnewsasia.com/world/us-envoys-arrive-in-moscow-latest-round-ukrainian-peace-talks-putin-6545326",
+      "date": "Thu, 12 Nov 2026 15:25:47 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trappes racist attack suspect says he acted 'on behalf of France'",
+      "link": "https://www.france24.com/en/france/20261112-trappes-racist-attack-suspect-says-he-acted-behalf-france",
+      "date": "Thu, 12 Nov 2026 07:08:48 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+      "link": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 06:49:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Indonesia vice president resigns amid dispute over eligibility",
+      "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 06:38:01 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sheikh Hasina must return to Bangladesh to face her sentence",
+      "link": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 06:37:06 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "It is time for a change of leadership in the Democratic Party in the US",
+      "link": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss",
+      "date": "Thu, 12 Nov 2026 06:26:01 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 12 Nov 2026 06:12:05 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "New York building collapse kills at least two, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 12 Nov 2026 05:12:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nvidia board weighs ouster of CEO Jensen Huang amid spy scandal",
+      "link": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
+      "date": "Thu, 12 Nov 2026 04:05:14 GMT"
+    },
     {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 12 Nov 2026 01:00:04 GMT"
+      "date": "Thu, 12 Nov 2026 04:00:30 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Alibaba AI chip unit T-Head files for Hong Kong IPO",
-      "link": "https://www.channelnewsasia.com/business/alibaba-chip-unit-thead-files-hong-kong-ipo-6544301",
-      "date": "Thu, 12 Nov 2026 08:39:40 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Paraguay partially refunds Ueno Bank depositors after collapse",
+      "link": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse",
+      "date": "Thu, 12 Nov 2026 03:11:52 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russian ambassador to US dies: Foreign ministry",
-      "link": "https://www.channelnewsasia.com/world/russian-ambassador-us-dies-foreign-ministry-6544281",
-      "date": "Thu, 12 Nov 2026 08:31:27 +0800"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Fiery clashes erupt in Spain as millions join general strike",
+      "link": "https://news.sky.com/story/fiery-clashes-erupt-in-spain-as-millions-join-general-strike-13611270",
+      "date": "Thu, 12 Nov 2026 02:41:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cameroon: Who is really calling the shots?",
-      "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
-      "date": "Thu, 12 Nov 2026 00:29:33 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australian teen missing in bush for six days rescued alive",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Thu, 12 Nov 2026 02:40:18 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "date": "Thu, 12 Nov 2026 00:18:46 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Democrat Colom wins Mississippi Senate seat, becomes state&#039;s first Black senator since 1874",
-      "link": "https://www.channelnewsasia.com/world/mississippi-senate-scott-colom-democrat-us-midterms-6544221",
-      "date": "Thu, 12 Nov 2026 08:11:29 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "date": "Thu, 12 Nov 2026 00:06:50 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar near one-month high as yen edges toward 160",
-      "link": "https://www.channelnewsasia.com/business/dollar-near-one-month-high-yen-edges-toward-160-6544211",
-      "date": "Thu, 12 Nov 2026 08:05:12 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-      "date": "Thu, 12 Nov 2026 00:00:44 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Andreeva reaches WTA Finals semis, Svitolina fights back to beat Muchova",
-      "link": "https://www.channelnewsasia.com/sport/andreeva-reaches-wta-finals-semis-svitolina-fights-back-beat-muchova-6544191",
-      "date": "Thu, 12 Nov 2026 07:58:58 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Barcelona erupts in violence after general strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
-      "date": "Wed, 11 Nov 2026 23:50:01 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukraine live: US envoys Witkoff and Kushner arrive in Russia to meet Putin",
+      "link": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+      "date": "Thu, 12 Nov 2026 02:31:55 GMT"
     },
     {
       "src": "France 24",
@@ -94,81 +220,11 @@
       "date": "Wed, 11 Nov 2026 23:47:17 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Pope Leo XIV returns to second homeland Peru to a nationwide welcome",
-      "link": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome",
-      "date": "Wed, 11 Nov 2026 23:43:24 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Your wardrobe is full but you&#039;ve got nothing to wear – why buying more clothes isn’t the answer",
-      "link": "https://www.channelnewsasia.com/style-beauty/why-you-have-nothing-wear-6495791",
-      "date": "Thu, 12 Nov 2026 07:42:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Polymarket cuts jobs, contracts as prediction market competition heats up",
-      "link": "https://www.channelnewsasia.com/business/polymarket-cuts-jobs-contracts-prediction-market-competition-heats-up-6544106",
-      "date": "Thu, 12 Nov 2026 07:20:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-      "link": "https://www.channelnewsasia.com/business/instant-view-nvidia-preparing-oust-ceo-jensen-huang-wsj-reports-6544111",
-      "date": "Thu, 12 Nov 2026 07:19:04 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-      "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-      "date": "Wed, 11 Nov 2026 23:05:34 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Nvidia preparing to oust CEO amid reports of a second affair",
-      "link": "https://news.sky.com/story/nvidia-shares-hit-52-week-low-amid-claims-ceo-jensen-huang-had-second-affair-13611255",
-      "date": "Wed, 11 Nov 2026 22:56:00 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israeli strikes hit medical complex as nine killed across Gaza",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-      "date": "Wed, 11 Nov 2026 22:55:37 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "New York building collapse kills one person and injures 12",
-      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 11 Nov 2026 22:55:26 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
       "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
       "date": "Wed, 11 Nov 2026 22:50:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "European leaders gather in Dublin under the shadow of hybrid threats",
-      "link": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
-      "date": "Wed, 11 Nov 2026 22:46:57 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-      "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-      "date": "Wed, 11 Nov 2026 22:34:43 +0000"
     },
     {
       "src": "Foreign Policy",
@@ -192,20 +248,6 @@
       "date": "Wed, 11 Nov 2026 22:19:17 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
-      "date": "Wed, 11 Nov 2026 22:13:05 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
-      "link": "https://www.france24.com/en/gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
-      "date": "Wed, 11 Nov 2026 22:11:46 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -220,39 +262,11 @@
       "date": "Wed, 11 Nov 2026 22:01:17 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russia and Ukraine agree to major prisoner swap as peace talks end",
-      "link": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
-      "date": "Wed, 11 Nov 2026 21:46:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Tshisekedi paves way for constitutional change",
-      "link": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
-      "date": "Wed, 11 Nov 2026 21:39:46 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
       "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
       "date": "Wed, 11 Nov 2026 19:00:33 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Famed ship SS United States to be sunk off coast of Florida",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 11 Nov 2026 18:42:27 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 11 Nov 2026 18:38:45 GMT"
     },
     {
       "src": "BBC World",
@@ -290,13 +304,6 @@
       "date": "Wed, 11 Nov 2026 17:32:23 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 11 Nov 2026 16:38:07 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
@@ -311,11 +318,32 @@
       "date": "Wed, 11 Nov 2026 15:22:58 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Wed, 11 Nov 2026 14:56:11 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168788",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168787",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -351,6 +379,34 @@
       "text": "Sophie visits refugee camps on trip to Bangladesh",
       "link": "https://news.sky.com/story/sophie-visits-rohingya-refugee-camps-on-trip-to-bangladesh-13610686",
       "date": "Tue, 10 Nov 2026 15:38:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168782",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168781",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168779",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168778",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
