@@ -1,83 +1,272 @@
 {
-  "updated": "2026-11-13T10:37:29.927Z",
-  "count": 70,
+  "updated": "2026-11-13T18:13:29.564Z",
+  "count": 69,
   "items": [
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Guinea opens illegal gold mining trial, 1,200 people arrested",
-      "link": "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested",
-      "date": "Fri, 13 Nov 2026 10:28:40 GMT"
+      "text": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
+      "date": "Fri, 13 Nov 2026 17:46:16 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pope returns to &#039;beloved&#039; Peruvian hometown",
+      "link": "https://www.channelnewsasia.com/world/pope-leo-peru-visit-south-america-tour-6550281",
+      "date": "Sat, 14 Nov 2026 01:46:16 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "'No war and no peace' between the US and Iran 'cannot continue', Iraqi FM says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
-      "date": "Fri, 13 Nov 2026 10:28:30 GMT"
+      "text": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+      "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+      "date": "Fri, 13 Nov 2026 17:28:54 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
-      "link": "https://www.france24.com/en/video/20261113-toera-s-homecoming-madagascar-s-slain-king-joins-his-ancestors-after-129-years",
-      "date": "Fri, 13 Nov 2026 10:27:02 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Pochettino wants to end tenure as US coach on high note",
+      "link": "https://www.channelnewsasia.com/sport/pochettino-wants-end-tenure-us-coach-high-note-6550301",
+      "date": "Sat, 14 Nov 2026 01:14:31 +0800"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Amnesty criticises South Sudan, UN over failure to heed massacre warnings",
-      "link": "https://www.france24.com/en/video/20261113-amnesty-criticises-south-sudan-un-over-failure-to-heed-massacre-warnings",
-      "date": "Fri, 13 Nov 2026 10:25:47 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU leaders gather in Dublin as Ukraine peace talks overshadow AI summit",
-      "link": "https://www.rfi.fr/en/international/20261113-eu-leaders-gather-in-dublin-as-ukraine-peace-talks-overshadow-ai-summit",
-      "date": "Fri, 13 Nov 2026 10:24:32 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
-      "link": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
-      "date": "Fri, 13 Nov 2026 10:13:57 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "As world gripped by climate emergency, COP31’s empty chairs signal low ambitions",
-      "link": "https://www.france24.com/en/video/20261113-as-world-gripped-by-climate-emergency-cop31-s-empty-chairs-signal-low-ambitions",
-      "date": "Fri, 13 Nov 2026 10:12:17 GMT"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 17:12:46 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-      "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 10:11:38 +0000"
+      "text": "The fight over Canadian steelworker jobs",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 17:10:43 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
-      "link": "https://www.channelnewsasia.com/world/iaea-un-report-concern-iran-nuclear-plant-6549176",
-      "date": "Fri, 13 Nov 2026 18:11:01 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korea says Nvidia will keep GPU pledges after Huang&#039;s resignation",
-      "link": "https://www.channelnewsasia.com/business/south-korea-says-nvidia-will-keep-gpu-pledges-after-huangs-resignation-6549171",
-      "date": "Fri, 13 Nov 2026 18:07:07 +0800"
+      "text": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+      "link": "https://www.channelnewsasia.com/business/nvidia-approached-arm-ceo-haas-succeed-huang-ft-reports-6550286",
+      "date": "Sat, 14 Nov 2026 01:08:10 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "Potential 'national security crisis' as Nvidia ex-CEO summoned by US Congress",
-      "link": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
-      "date": "Fri, 13 Nov 2026 10:00:52 GMT"
+      "text": "The Nvidia affair: Are markets about to fall out of love with AI?",
+      "link": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
+      "date": "Fri, 13 Nov 2026 17:02:40 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "COP31 talks face early friction over future of fossil fuels",
+      "link": "https://www.channelnewsasia.com/world/cop31-fossil-fuels-turkiye-climate-talks-6550236",
+      "date": "Sat, 14 Nov 2026 00:52:45 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector",
+      "link": "https://www.channelnewsasia.com/business/neoclouds-ai-stocks-slide-again-nvidia-turmoil-rattles-sector-6550256",
+      "date": "Sat, 14 Nov 2026 00:50:11 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "November 13 Paris attacks: Eleven years later, France pays tribute to victims",
+      "link": "https://www.france24.com/en/november-13-paris-attacks-eleven-years-later-france-pays-tribute-to-victims",
+      "date": "Fri, 13 Nov 2026 16:47:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Crossing Afghanistan along the 'highway of death'",
+      "link": "https://www.france24.com/en/tv-shows/revisited/20261113-crossing-afghanistan-along-the-highway-of-death",
+      "date": "Fri, 13 Nov 2026 16:47:34 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+      "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 16:44:56 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
+      "date": "Fri, 13 Nov 2026 16:41:45 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 16:40:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "El Niño fuels climate disasters: The high price of inaction",
+      "link": "https://www.france24.com/en/tv-shows/access-asia/20261113-el-ni%C3%B1o-fuels-climate-disasters-the-high-price-of-inaction",
+      "date": "Fri, 13 Nov 2026 16:35:47 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Jerusalem Daily: Baby dies from cold in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 16:34:24 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+      "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 16:31:50 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Iran targeted US radar system in Bahrain",
+      "link": "https://www.channelnewsasia.com/world/iran-us-radar-system-bahrain-strike-guards-6550196",
+      "date": "Sat, 14 Nov 2026 00:30:02 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 16:22:33 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Uber says US drivers&#039; license data stolen in data breach",
+      "link": "https://www.channelnewsasia.com/business/uber-says-us-drivers-license-data-stolen-in-data-breach-6550231",
+      "date": "Sat, 14 Nov 2026 00:21:43 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
+      "link": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
+      "date": "Fri, 13 Nov 2026 16:15:44 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Women&#039;s 2027 World Cup tickets go on sale from December",
+      "link": "https://www.channelnewsasia.com/sport/womens-2027-world-cup-tickets-go-sale-december-6550201",
+      "date": "Sat, 14 Nov 2026 00:05:33 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 16:01:45 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Turkiye and Qatar sign mutual defence agreement",
+      "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 15:49:51 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Democratic Senate leader Schumer set to face leadership challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 15:48:07 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 15:43:39 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 15:42:52 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 15:40:08 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Congress Can Do More to Defend U.S. Alliances",
+      "link": "https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs/",
+      "date": "Fri, 13 Nov 2026 14:32:37 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Algerian writer Kamel Daoud sentenced to five years over prize-winning novel",
+      "link": "https://www.rfi.fr/en/international/20261113-algerian-writer-kamel-daoud-sentenced-to-five-years-over-prize-winning-novel",
+      "date": "Fri, 13 Nov 2026 14:19:30 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Pope Leo’s South America Tour",
+      "link": "https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/",
+      "date": "Fri, 13 Nov 2026 13:00:49 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 12:28:28 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "COP31: New initiative targets AI and reliable climate change information",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 11:43:27 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Ukraine peace talks overshadow AI summit as EU leaders gather in Dublin",
+      "link": "https://www.rfi.fr/en/international/20261113-eu-leaders-gather-in-dublin-as-ukraine-peace-talks-overshadow-ai-summit",
+      "date": "Fri, 13 Nov 2026 10:24:32 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -87,97 +276,6 @@
       "date": "Fri, 13 Nov 2026 10:00:03 +0000"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'One of the biggest outages ever': Disruption to Microsoft services enters second day",
-      "link": "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
-      "date": "Fri, 13 Nov 2026 09:59:22 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What we know about the global Microsoft outage",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 09:59:20 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Dollar set for best week in two months, yen tests 160",
-      "link": "https://www.channelnewsasia.com/business/dollar-set-best-week-in-two-months-yen-tests-160-6548216",
-      "date": "Fri, 13 Nov 2026 17:56:57 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "China warns against new export controls on US chips after Nvidia scandal",
-      "link": "https://www.channelnewsasia.com/east-asia/china-warns-against-new-export-controls-us-chips-after-nvidia-scandal-6549111",
-      "date": "Fri, 13 Nov 2026 17:48:50 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Singapore&#039;s healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
-      "link": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
-      "date": "Fri, 13 Nov 2026 17:45:07 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "With every rainfall, Gaza risks losing access to power and healthcare",
-      "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 09:43:30 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Quantum Systems says grounded German military drones flying again after cyberattack",
-      "link": "https://www.channelnewsasia.com/business/quantum-systems-says-grounded-german-military-drones-flying-again-after-cyberattack-6549106",
-      "date": "Fri, 13 Nov 2026 17:41:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Hosts sought for three future Africa Cup of Nations finals",
-      "link": "https://www.channelnewsasia.com/sport/hosts-sought-three-future-africa-cup-nations-finals-6549096",
-      "date": "Fri, 13 Nov 2026 17:33:41 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Microsoft hit by global outages: What happened and why?",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 09:30:55 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "No clear link between recent data breaches; incidents appear to be result of &#039;opportunistic attacks&#039;: PDPC",
-      "link": "https://www.channelnewsasia.com/singapore/pdpc-cyberattacks-cybersecurity-attacks-connection-6548991",
-      "date": "Fri, 13 Nov 2026 17:19:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pope Leo XIV warns on pressures facing modern families",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 09:11:37 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Who gets to tell the world’s news?",
-      "link": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 08:51:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 08:49:59 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Storm Charles causes floods and flight cancellations across southern Europe",
@@ -185,53 +283,11 @@
       "date": "Fri, 13 Nov 2026 08:49:19 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Washington residents hold vigil after deadly shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 08:06:44 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Australia’s friendly against Jordan moved to Qatar over security concerns",
-      "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 07:59:31 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Watch: How Microsoft services went down around the world",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 07:18:17 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
       "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Fri, 13 Nov 2026 07:01:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 03:57:01 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 02:48:29 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 02:01:35 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -248,25 +304,11 @@
       "date": "Thu, 12 Nov 2026 20:50:22 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 12 Nov 2026 20:09:16 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Russia’s Cheapest Weapon in Its Hybrid War Is Fear",
       "link": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/",
       "date": "Thu, 12 Nov 2026 18:51:15 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 12 Nov 2026 18:47:35 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -346,13 +388,6 @@
       "date": "Thu, 12 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-      "date": "Thu, 12 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France's Macron to pay state visit to Cambodia during Francophonie summit",
@@ -388,20 +423,6 @@
       "date": "Wed, 11 Nov 2026 22:50:37 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "How Democrats Will Wield Power on Foreign Policy",
-      "link": "https://foreignpolicy.com/2026/11/11/democratic-congress-foreign-policy-priorities-jason-crow-working-class-americans/",
-      "date": "Wed, 11 Nov 2026 22:34:18 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Hoax Bomb Threats Target Hundreds of European Schools",
-      "link": "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/",
-      "date": "Wed, 11 Nov 2026 22:23:16 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
@@ -414,27 +435,6 @@
       "text": "Pope ends Argentina visit with unity plea after pushing back against Milei&apos;s agenda",
       "link": "https://news.sky.com/story/pope-ends-argentina-visit-with-unity-plea-after-subtly-pushing-back-against-javier-mileis-austerity-agenda-13611182",
       "date": "Wed, 11 Nov 2026 18:03:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168783",
-      "date": "Wed, 11 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Four grizzly bears killed mother and daughter in Canada",
-      "link": "https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812",
-      "date": "Wed, 11 Nov 2026 01:57:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -463,13 +463,6 @@
       "text": "G7 talks in Paris weigh up impact of US midterms on Trump's foreign policy",
       "link": "https://www.rfi.fr/en/international/20261109-g7-talks-in-paris-weigh-impact-of-us-midterms-on-trump-s-foreign-policy",
       "date": "Mon, 09 Nov 2026 10:41:40 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Turkey courts Egypt to tip the scales in eastern Mediterranean power game",
-      "link": "https://www.rfi.fr/en/podcasts/international-report/20261109-turkey-courts-egypt-to-tip-the-scales-in-eastern-mediterranean-power-game",
-      "date": "Mon, 09 Nov 2026 09:49:21 GMT"
     },
     {
       "src": "The Guardian",
