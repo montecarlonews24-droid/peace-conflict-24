@@ -1,139 +1,237 @@
 {
-  "updated": "2026-11-15T07:58:37.097Z",
-  "count": 62,
+  "updated": "2026-11-15T15:16:57.946Z",
+  "count": 71,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Cape Verde could make election history with first female president",
-      "link": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
-      "date": "Sun, 15 Nov 2026 07:56:14 GMT"
-    },
-    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Drone ownership ban comes into force in Beijing over security concerns",
-      "link": "https://www.channelnewsasia.com/east-asia/drone-ownership-ban-comes-force-in-beijing-over-security-concerns-6552761",
-      "date": "Sun, 15 Nov 2026 15:39:19 +0800"
+      "text": "Iran says supertanker with 2 million barrels of oil sank in Gulf",
+      "link": "https://www.channelnewsasia.com/world/iran-hormuz-supertanker-2-million-oil-barrels-sink-mine-6553161",
+      "date": "Sun, 15 Nov 2026 23:11:29 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-      "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 07:30:21 +0000"
+      "text": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 15:01:54 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "ASEAN should focus on digital economy, energy resilience, broadening networks amid global uncertainty: PM Wong",
-      "link": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-6552066",
-      "date": "Sun, 15 Nov 2026 15:18:38 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "ASEAN summit: Who’s attending and what’s at stake?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 07:11:24 +0000"
+      "text": "McIlroy equals Montgomerie record with eighth Race to Dubai title",
+      "link": "https://www.channelnewsasia.com/sport/mcilroy-equals-montgomerie-record-eighth-race-dubai-title-6553146",
+      "date": "Sun, 15 Nov 2026 22:57:14 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 07:10:31 GMT"
+      "text": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 14:56:21 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:55:40 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Fascism built the AI bubble. What will burst it?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:55:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines",
+      "link": "https://www.channelnewsasia.com/asia/asean-philippines-south-china-sea-myanmar-haze-6553056",
+      "date": "Sun, 15 Nov 2026 22:41:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Tenerife return to action with emotional De Miguel tribute after striker&#039;s death",
+      "link": "https://www.channelnewsasia.com/sport/tenerife-return-action-emotional-de-miguel-tribute-after-strikers-death-6553126",
+      "date": "Sun, 15 Nov 2026 22:40:59 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 14:33:59 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Twenty Years of Al Jazeera English: The Counternarrative",
+      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:29:41 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+      "link": "https://www.channelnewsasia.com/world/romania-black-sea-drone-strike-ships-6552996",
+      "date": "Sun, 15 Nov 2026 22:25:00 +0800"
     },
     {
       "src": "France 24",
       "col": "#ef4444",
-      "text": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-      "link": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
-      "date": "Sun, 15 Nov 2026 07:04:31 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Israel: Making the Holy Land burn",
-      "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 06:49:14 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "The French Republic’s forgotten promise of equality",
-      "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 06:44:27 +0000"
+      "text": "Why the Nvidia scandal is bad news for Europe’s AI ambitions",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
+      "date": "Sun, 15 Nov 2026 14:16:24 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Figure Skating-Malinin opens season in style with Skate America title",
-      "link": "https://www.channelnewsasia.com/sport/figure-skating-malinin-opens-season-in-style-skate-america-title-6552731",
-      "date": "Sun, 15 Nov 2026 14:43:16 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Philippines, Australia sign updated defence agreement",
-      "link": "https://www.channelnewsasia.com/world/philippines-australia-sign-updated-defence-agreement-6552726",
-      "date": "Sun, 15 Nov 2026 14:38:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Harrison submits Nunes to retain women&#039;s UFC bantamweight belt",
-      "link": "https://www.channelnewsasia.com/sport/harrison-submits-nunes-retain-womens-ufc-bantamweight-belt-6552721",
-      "date": "Sun, 15 Nov 2026 14:26:05 +0800"
+      "text": "Cyclist killed in Changi tipper truck accident identified as national triathlete Russell Lee",
+      "link": "https://www.channelnewsasia.com/singapore/triathlete-russell-lee-cyclist-changi-tipper-truck-accident-6553021",
+      "date": "Sun, 15 Nov 2026 22:14:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 06:11:00 +0000"
+      "text": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:12:09 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Bahrain issues first threat alerts since September as Iran says it attacked US base",
-      "link": "https://www.channelnewsasia.com/world/bahrain-alert-threat-iran-attacks-us-base-6552596",
-      "date": "Sun, 15 Nov 2026 14:05:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Korean police probes top exam scorer after AI cheating confession",
-      "link": "https://www.channelnewsasia.com/east-asia/south-korean-police-probes-top-exam-scorer-after-ai-cheating-confession-6552626",
-      "date": "Sun, 15 Nov 2026 13:16:00 +0800"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US probes nationwide flights stoppage as travel disruptions persist",
+      "link": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
+      "date": "Sun, 15 Nov 2026 14:09:20 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 05:05:02 +0000"
+      "text": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+      "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 14:02:08 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-      "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 04:44:57 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Chinese spy, chip sales, Trump ties... The Nvidia scandal deepens",
+      "link": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
+      "date": "Sun, 15 Nov 2026 14:00:56 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Video shows moment of Brooklyn building collapse from inside",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-      "date": "Sun, 15 Nov 2026 04:31:55 +0000"
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "The week in pictures: Spain protests, Pope Leo's Peru 'homecoming' and Rocky fans in Philly",
+      "link": "https://www.france24.com/en/europe/20261115-the-week-in-pictures-spain-protests-pope-leo-peru-homecoming-rocky-fans-philly-rosalia",
+      "date": "Sun, 15 Nov 2026 13:59:21 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "French Cyril Gane retains MMA heavyweaight title agianst Josh Hokit",
+      "link": "https://www.france24.com/en/french-cyril-gane-retains-mma-heavyweaight-title-agianst-josh-hokit",
+      "date": "Sun, 15 Nov 2026 13:58:29 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Nations grapple with loss of 1.5°C target at UN climate summit",
-      "link": "https://www.channelnewsasia.com/sustainability/nations-grapple-loss-15degc-target-un-climate-summit-6552556",
-      "date": "Sun, 15 Nov 2026 12:02:00 +0800"
+      "text": "Alpine skiing-Pinheiro Braathen wins Levi slalom ahead of Noel",
+      "link": "https://www.channelnewsasia.com/sport/alpine-skiing-pinheiro-braathen-wins-levi-slalom-ahead-noel-6553076",
+      "date": "Sun, 15 Nov 2026 21:58:07 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+      "link": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+      "date": "Sun, 15 Nov 2026 13:55:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:54:05 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France's presidential race heats up",
+      "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
+      "date": "Sun, 15 Nov 2026 13:49:25 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza families bury bodies of loved ones trapped for years under rubble",
+      "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 13:45:02 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ronaldo Jr takes next Portugal step as dad exits international scene",
+      "link": "https://www.channelnewsasia.com/sport/ronaldo-jr-takes-next-portugal-step-dad-exits-international-scene-6553071",
+      "date": "Sun, 15 Nov 2026 21:43:41 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Iran targets US military base in Bahrain with drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 13:42:58 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 13:37:45 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
+      "link": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault",
+      "date": "Sun, 15 Nov 2026 13:36:53 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 11:06:32 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 09:26:37 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
+      "link": "https://www.rfi.fr/en/international/20261115-tensions-and-economic-turbulence-in-cambodia-as-it-hosts-francophonie-summit",
+      "date": "Sun, 15 Nov 2026 08:33:13 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 08:17:41 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Hamas says senior commander killed in Israeli airstrike",
+      "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "date": "Sun, 15 Nov 2026 05:16:00 +0000"
     },
     {
       "src": "BBC World",
@@ -141,90 +239,6 @@
       "text": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss",
       "date": "Sun, 15 Nov 2026 03:21:04 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 15 Nov 2026 02:49:45 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 22:37:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 22:09:40 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
-      "link": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
-      "date": "Sat, 14 Nov 2026 20:51:24 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-      "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-      "date": "Sat, 14 Nov 2026 20:35:22 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Macron says limiting Ukraine aid would pave way to 'another war'",
-      "link": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
-      "date": "Sat, 14 Nov 2026 20:15:43 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Italy fines Meta €805m over accessing users' photos",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 18:28:06 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'No justice, no peace': Fifth round of protests sweep across France",
-      "link": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france",
-      "date": "Sat, 14 Nov 2026 18:23:25 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Philippines wins first Eurovision Song Contest Asia",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 18:17:58 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 18:00:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
-      "link": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
-      "date": "Sat, 14 Nov 2026 17:33:37 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Youth Olympic Games organisers hail Senegal's capability to host major events",
-      "link": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
-      "date": "Sat, 14 Nov 2026 17:25:51 GMT"
     },
     {
       "src": "RFI",
@@ -250,13 +264,6 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Former SAS chief blames state for breaking &apos;moral contract&apos; with soldiers",
-      "link": "https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211",
-      "date": "Sat, 14 Nov 2026 14:33:00 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
       "text": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
       "link": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
       "date": "Sat, 14 Nov 2026 13:12:00 +0000"
@@ -267,6 +274,13 @@
       "text": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
       "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
       "date": "Sat, 14 Nov 2026 13:00:44 GMT"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "When the rains fail: Preparing for drought in Central America",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+      "date": "Sat, 14 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "Sky News",
@@ -360,6 +374,48 @@
       "date": "Fri, 13 Nov 2026 14:19:30 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "COP31: Climate finance falls short as calls grow for polluters to pay",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168802",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "COP31: New initiative targets AI and reliable climate change information",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000"
+    },
+    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Ukraine peace talks overshadow AI summit as EU leaders gather in Dublin",
@@ -395,11 +451,18 @@
       "date": "Thu, 12 Nov 2026 13:01:37 GMT"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "France's Macron to pay state visit to Cambodia during Francophonie summit",
-      "link": "https://www.rfi.fr/en/international/20261112-france-s-macron-to-pay-state-visit-to-cambodia-during-francophonie-summit",
-      "date": "Thu, 12 Nov 2026 11:32:49 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+      "date": "Thu, 12 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Israeli strike on Gaza hospital kills six, health ministry says",
+      "link": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
+      "date": "Thu, 12 Nov 2026 11:32:00 +0000"
     },
     {
       "src": "The Guardian",
