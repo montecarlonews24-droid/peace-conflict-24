@@ -1,41 +1,286 @@
 {
-  "updated": "2026-11-17T17:57:24.762Z",
-  "count": 60,
+  "updated": "2026-11-18T00:20:02.094Z",
+  "count": 69,
   "items": [
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Has empire shaped today’s world?",
-      "link": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 17:45:00 +0000"
+      "text": "Forensic experts claim Epstein was strangled to death",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 00:17:23 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why China’s Shenzhen was chosen for APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 00:16:26 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "CNA Now: Trump in Asia amid trade tensions, plus other news as it happens",
+      "link": "https://www.channelnewsasia.com/singapore/trump-asia-trade-tensions-cna-now-6558371",
+      "date": "Wed, 18 Nov 2026 08:14:38 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "date": "Wed, 18 Nov 2026 00:00:27 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:38:38 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "What to expect at Boutiques Singapore 2026: From homegrown labels to international finds",
+      "link": "https://www.channelnewsasia.com/style-beauty/boutiques-singapore-2026-what-expect-6538581",
+      "date": "Wed, 18 Nov 2026 07:28:57 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+      "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:28:54 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Top spy agency suffers network outage, the latest US technical failure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:19:12 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 23:09:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "European tech startups set for second-strongest funding year",
+      "link": "https://www.channelnewsasia.com/business/european-tech-startups-set-second-strongest-funding-year-6560591",
+      "date": "Wed, 18 Nov 2026 07:03:43 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 17:42:26 GMT"
+      "text": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 23:03:39 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
+      "link": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
+      "date": "Tue, 17 Nov 2026 22:50:32 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Thomas Markle charged over child sex abuse material in Philippines",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 22:44:15 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US bankruptcy judge approves Spirit Airlines data sale to Google",
+      "link": "https://www.channelnewsasia.com/business/us-bankruptcy-judge-approves-spirit-airlines-data-sale-google-6560551",
+      "date": "Wed, 18 Nov 2026 06:27:16 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 17:34:27 +0000"
+      "text": "Russian military plane crash in Siberia kills 19",
+      "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+      "date": "Tue, 17 Nov 2026 22:21:16 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Haaland&#039;s late penalty sends Norway into Nations League quarters, Portugal top group",
+      "link": "https://www.channelnewsasia.com/sport/haalands-late-penalty-sends-norway-nations-league-quarters-portugal-top-group-6560546",
+      "date": "Wed, 18 Nov 2026 06:20:15 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "link": "https://www.channelnewsasia.com/business/nvidia-board-says-it-does-not-intend-reinstate-jensen-huang-ceo-6560516",
+      "date": "Wed, 18 Nov 2026 06:12:36 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "WHO sounds the alarm on antimicrobial resistance threat",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261117-who-sounds-the-alarm-on-antimicrobial-resistance-threat",
+      "date": "Tue, 17 Nov 2026 22:08:28 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "WHO sounds the alarm on antimicrobial resistance threat",
+      "link": "https://www.france24.com/en/who-sounds-the-alarm-on-antimicrobial-resistance-threat",
+      "date": "Tue, 17 Nov 2026 22:03:30 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Commentary: Why information resilience matters more than ever for Singapore’s national security",
+      "link": "https://www.channelnewsasia.com/commentary/disinformation-campaign-haze-singapore-information-resilience-6558396",
+      "date": "Wed, 18 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "US chip export curbs test Southeast Asia’s AI ambitions, but offer chance to toughen regulatory oversight",
+      "link": "https://www.channelnewsasia.com/singapore/us-ai-chip-export-control-southeast-asia-singapore-6558276",
+      "date": "Wed, 18 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+      "link": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+      "date": "Tue, 17 Nov 2026 21:52:41 +0000"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "date": "Tue, 17 Nov 2026 21:49:29 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+      "date": "Tue, 17 Nov 2026 21:40:56 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "US, Mexico and Bolivia lose measles-free status as deaths mount",
+      "link": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
+      "date": "Tue, 17 Nov 2026 21:30:23 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Israeli parliament elects Eisenkot ally Matan Kahana as new Knesset speaker",
+      "link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
+      "date": "Tue, 17 Nov 2026 21:26:27 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 21:24:35 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
+      "link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
+      "date": "Tue, 17 Nov 2026 21:24:31 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "AI imagery complicates Nigeria's election prep",
+      "link": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
+      "date": "Tue, 17 Nov 2026 21:20:27 GMT"
     },
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Police in Philippines pursue three charges against Thomas Markle Sr over child sex abuse images",
-      "link": "https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346",
-      "date": "Tue, 17 Nov 2026 17:34:00 +0000"
+      "text": "William and Kate host glittering Earthshot Prize ceremony in Mumbai",
+      "link": "https://news.sky.com/story/william-and-kate-host-glittering-earthshot-prize-ceremony-in-mumbai-13613397",
+      "date": "Tue, 17 Nov 2026 21:08:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Religious ruling revives memories in Israel of Rabin assassination",
-      "link": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 17:33:18 +0000"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian military plane crashes, killing all 19 on board",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 21:06:11 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Major setbacks for Netanyahu ahead of vote to name new Knesset speaker",
+      "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
+      "date": "Tue, 17 Nov 2026 21:05:20 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 21:04:00 GMT"
+    },
+    {
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+      "date": "Tue, 17 Nov 2026 20:59:56 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "5 Freshmen Democratic Lawmakers to Watch",
+      "link": "https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/",
+      "date": "Tue, 17 Nov 2026 20:31:45 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Tue, 17 Nov 2026 20:30:20 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Will Iraqi Kurdistan Break Apart?",
+      "link": "https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/",
+      "date": "Tue, 17 Nov 2026 19:13:40 +0000"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Russia accuses France of direct involvement in Ukraine war following RFI report",
+      "link": "https://www.rfi.fr/en/international/20261117-russia-accuses-france-of-direct-involvement-in-ukraine-war-following-rfi-report",
+      "date": "Tue, 17 Nov 2026 19:00:33 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "Ecuador’s Fraught Mining Boom",
+      "link": "https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/",
+      "date": "Tue, 17 Nov 2026 17:44:42 +0000"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Police in Philippines pursue three charges against Thomas Markle Sr",
+      "link": "https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346",
+      "date": "Tue, 17 Nov 2026 17:34:00 +0000"
     },
     {
       "src": "BBC World",
@@ -45,20 +290,6 @@
       "date": "Tue, 17 Nov 2026 17:19:57 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Costa Rican journalist shot dead in first such killing in 25 years",
-      "link": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-      "date": "Tue, 17 Nov 2026 17:19:12 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Wall Street dips ahead of Nvidia&#039;s first earnings since scandal",
-      "link": "https://www.channelnewsasia.com/world/wall-street-dips-ahead-nvidias-first-earnings-scandal-6560031",
-      "date": "Wed, 18 Nov 2026 01:12:58 +0800"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "European Rearmament Risks Political Peril",
@@ -66,88 +297,11 @@
       "date": "Tue, 17 Nov 2026 17:11:46 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "US loses measles elimination status after 26 years amid record case numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 17:10:03 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "CAIR defends civil rights work against Trump’s ‘smear’",
-      "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 17:09:49 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Springbok coach Erasmus suspended for six matches over TMO criticism",
-      "link": "https://www.channelnewsasia.com/sport/springbok-coach-erasmus-suspended-six-matches-over-tmo-criticism-6560011",
-      "date": "Wed, 18 Nov 2026 01:01:04 +0800"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 16:56:38 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-      "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 16:53:25 +0000"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The AI Safety Debate Has a Human Rights Blind Spot",
-      "link": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/",
+      "link": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate-regulation-united-nations/",
       "date": "Tue, 17 Nov 2026 16:53:25 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Nations haggle over draft climate deal at UN talks",
-      "link": "https://www.channelnewsasia.com/world/cop31-climate-deal-fossil-fuels-un-talks-6559956",
-      "date": "Wed, 18 Nov 2026 00:53:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Former England and Arsenal midfielder Storey dies at 81",
-      "link": "https://www.channelnewsasia.com/sport/former-england-and-arsenal-midfielder-storey-dies-81-6560001",
-      "date": "Wed, 18 Nov 2026 00:52:07 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Photos: Tens of thousands rally in France over living standards and wages",
-      "link": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 16:39:01 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
-      "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 16:38:28 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'A lot of anger and a weak government': Why are French public sector workers striking?",
-      "link": "https://www.france24.com/en/video/20261117-a-lot-of-anger-and-a-weak-government-why-are-french-public-sector-workers-striking",
-      "date": "Tue, 17 Nov 2026 16:34:48 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Deutsche Bank leaks: German lender's dealings with Russian oligarchs under scrutiny",
-      "link": "https://www.france24.com/en/video/20261117-deutsche-bank-leaks-german-lender-s-dealings-with-russian-oligarchs-under-scrutiny",
-      "date": "Tue, 17 Nov 2026 16:31:47 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -157,95 +311,11 @@
       "date": "Tue, 17 Nov 2026 16:27:29 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Head, Starc among players released before IPL 2027 auction",
-      "link": "https://www.channelnewsasia.com/sport/head-starc-among-players-released-ipl-2027-auction-6559986",
-      "date": "Wed, 18 Nov 2026 00:26:27 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Organisers hoping for 'joyful' demonstration as French public workers strike",
-      "link": "https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
-      "date": "Tue, 17 Nov 2026 16:17:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Shenzhen: Inside ‘China’s Silicon Valley’",
-      "link": "https://www.france24.com/en/video/20261117-shenzhen-inside-china-s-silicon-valley",
-      "date": "Tue, 17 Nov 2026 16:16:10 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Deutsche Bank shares drop after reports exposing Epstein payments, Russia dealings",
-      "link": "https://www.france24.com/en/video/20261117-deutsche-bank-shares-drop-after-reports-exposing-epstein-payments-russia-dealings",
-      "date": "Tue, 17 Nov 2026 16:14:34 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Election-winning student movement enters Serbia’s new parliament",
-      "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
-      "date": "Tue, 17 Nov 2026 16:13:48 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Serbia's student-backed MPs take seats in parliament after election win",
-      "link": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
-      "date": "Tue, 17 Nov 2026 15:48:34 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-      "link": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
-      "date": "Tue, 17 Nov 2026 15:44:54 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Urban Zulu and '100 Reasons to Stay Single in Lagos': Telling African stories on their own terms",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
-      "date": "Tue, 17 Nov 2026 15:44:37 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Highly classified US national security communications network is down, CNN reports",
-      "link": "https://www.channelnewsasia.com/business/highly-classified-us-national-security-communications-network-down-cnn-reports-6559891",
-      "date": "Tue, 17 Nov 2026 23:42:01 +0800"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
       "text": "How the attack on Crimean Bridge unfolded",
       "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
       "date": "Tue, 17 Nov 2026 15:38:10 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 15:36:11 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "England&#039;s Bethell to have knee surgery, will miss South Africa tour",
-      "link": "https://www.channelnewsasia.com/sport/englands-bethell-have-knee-surgery-will-miss-south-africa-tour-6559876",
-      "date": "Tue, 17 Nov 2026 23:26:40 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Fils digs deep to see off Jodar for first ATP Finals win",
-      "link": "https://www.channelnewsasia.com/sport/fils-digs-deep-see-jodar-first-atp-finals-win-6559851",
-      "date": "Tue, 17 Nov 2026 23:21:05 +0800"
     },
     {
       "src": "RFI",
@@ -255,17 +325,10 @@
       "date": "Tue, 17 Nov 2026 13:03:13 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 12:54:32 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "America Can’t Racially Profile Its Way to AI Supremacy",
-      "link": "https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/",
+      "link": "https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/",
       "date": "Tue, 17 Nov 2026 12:49:13 +0000"
     },
     {
@@ -276,11 +339,46 @@
       "date": "Tue, 17 Nov 2026 12:46:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Tue, 17 Nov 2026 09:27:44 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "RFI",
@@ -297,11 +395,11 @@
       "date": "Tue, 17 Nov 2026 07:01:48 GMT"
     },
     {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
-      "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
-      "date": "Tue, 17 Nov 2026 06:00:05 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "UK sanctions eight firms building Israeli settlements in the West Bank",
+      "link": "https://news.sky.com/story/uk-sanctions-eight-firms-building-israeli-settlements-in-the-west-bank-13612666",
+      "date": "Tue, 17 Nov 2026 06:12:00 +0000"
     },
     {
       "src": "Sky News",
@@ -318,32 +416,11 @@
       "date": "Tue, 17 Nov 2026 01:10:59 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Trump Kicks Off Asia Tour",
-      "link": "https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-midterms-nvidia-trade-security/",
-      "date": "Mon, 16 Nov 2026 21:35:11 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Middle East Is Finally on Its Own",
-      "link": "https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/",
-      "date": "Mon, 16 Nov 2026 20:49:31 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "France's covert military operation in Ukraine revealed by RFI investigation",
       "link": "https://www.rfi.fr/en/international/20261116-france-s-covert-military-operation-in-ukraine-revealed-by-rfi-investigation",
       "date": "Mon, 16 Nov 2026 19:49:44 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "A Diminished Trump Could Get Played in Asia",
-      "link": "https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/",
-      "date": "Mon, 16 Nov 2026 17:37:50 +0000"
     },
     {
       "src": "RFI",
@@ -360,20 +437,6 @@
       "date": "Mon, 16 Nov 2026 17:12:14 GMT"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Japan’s Defense Lessons From Ukraine and the Middle East",
-      "link": "https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/",
-      "date": "Mon, 16 Nov 2026 16:08:29 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "US to further curb China&apos;s access to Nvidia chips",
-      "link": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
-      "date": "Mon, 16 Nov 2026 14:59:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Francophonie summit delays secretary-general vote after Rwanda-DRC deadlock",
@@ -388,25 +451,25 @@
       "date": "Mon, 16 Nov 2026 13:16:36 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168820",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000"
+    },
+    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
       "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
       "date": "Mon, 16 Nov 2026 10:19:08 GMT"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Delaware hit by rare November tornado",
-      "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-      "date": "Mon, 16 Nov 2026 09:27:06 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
-      "link": "https://www.rfi.fr/en/international/20261115-tensions-and-economic-turbulence-in-cambodia-as-it-hosts-francophonie-summit",
-      "date": "Sun, 15 Nov 2026 08:33:13 GMT"
     },
     {
       "src": "The Guardian",
