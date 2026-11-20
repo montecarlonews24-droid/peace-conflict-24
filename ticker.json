@@ -1,139 +1,307 @@
 {
-  "updated": "2026-11-20T10:39:57.793Z",
-  "count": 72,
+  "updated": "2026-11-20T18:53:42.510Z",
+  "count": 71,
   "items": [
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Poland says Russian missile hit its territory during attack on Ukraine",
-      "link": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
-      "date": "Fri, 20 Nov 2026 10:38:51 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iraqi forces strike compromise with powerful pro-Iran militia",
-      "link": "https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia",
-      "date": "Fri, 20 Nov 2026 10:36:47 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Outcry as fossil fuels scrubbed from draft UN climate deal",
-      "link": "https://www.france24.com/en/video/20261120-outcry-as-fossil-fuels-scrubbed-from-draft-un-climate-deal",
-      "date": "Fri, 20 Nov 2026 10:33:20 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Brussels, London eye 'reset' deal at Burnham's EU summit",
-      "link": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
-      "date": "Fri, 20 Nov 2026 10:28:09 GMT"
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "UK finds fix for fridge and freezer vulnerability after European hacks",
+      "link": "https://www.channelnewsasia.com/business/uk-finds-fix-fridge-and-freezer-vulnerability-after-european-hacks-6570341",
+      "date": "Sat, 21 Nov 2026 02:35:24 +0800"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Anthropic&#039;s post-debut stumble delivers reality check for AI trade",
-      "link": "https://www.channelnewsasia.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-6569081",
-      "date": "Fri, 20 Nov 2026 18:22:14 +0800"
+      "text": "Scotland lose captain Darge for Japan game",
+      "link": "https://www.channelnewsasia.com/sport/scotland-lose-captain-darge-japan-game-6570331",
+      "date": "Sat, 21 Nov 2026 02:32:54 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Italy gives green light to Tesla self-driving system ahead of EU approval",
+      "link": "https://www.channelnewsasia.com/business/italy-gives-green-light-tesla-self-driving-system-ahead-eu-approval-6570321",
+      "date": "Sat, 21 Nov 2026 02:25:27 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Boeing leaves open possibility of more layoffs amid stalled production plans",
+      "link": "https://www.channelnewsasia.com/world/boeing-leaves-open-possibility-more-layoffs-amid-stalled-production-plans-6570286",
+      "date": "Sat, 21 Nov 2026 02:12:09 +0800"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "What the Yalta Comparison Really Reveals About Shenzhen",
+      "link": "https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-history-china/",
+      "date": "Fri, 20 Nov 2026 18:12:07 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Mercedes gets German approval for assisted point-to-point driving",
+      "link": "https://www.channelnewsasia.com/business/mercedes-gets-german-approval-assisted-point-point-driving-6570296",
+      "date": "Sat, 21 Nov 2026 02:11:26 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Trump says US to penalize firms building data centers abroad",
+      "link": "https://www.channelnewsasia.com/business/trump-says-us-penalize-firms-building-data-centers-abroad-6570291",
+      "date": "Sat, 21 Nov 2026 02:08:03 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Manchester United chief defends club&#039;s strategy despite managerial turnover",
+      "link": "https://www.channelnewsasia.com/sport/manchester-united-chief-defends-clubs-strategy-despite-managerial-turnover-6570266",
+      "date": "Sat, 21 Nov 2026 02:02:56 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+      "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:54:55 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Three Kyiv bridges hit during major Russian missile attack",
+      "text": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 17:54:37 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 17:49:48 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Apollo, Goldman lead $44 billion SpaceX GPU debt financing",
+      "link": "https://www.channelnewsasia.com/business/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-6570241",
+      "date": "Sat, 21 Nov 2026 01:45:43 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:44:18 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 17:36:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
+      "link": "https://www.france24.com/en/video/20261120-%F0%9F%A6%9B-usa-fiona-cincinnati-zoo-s-famous-hippo-has-died",
+      "date": "Fri, 20 Nov 2026 17:35:32 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Protests held across Europe over wages, services, high living costs",
+      "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:32:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
+      "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "date": "Fri, 20 Nov 2026 17:26:57 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar’s emir calls for diplomacy to end regional conflicts",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:18:58 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
+      "link": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
+      "date": "Fri, 20 Nov 2026 17:06:59 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Top US Democrat warns Trump admin against destroying records",
+      "link": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:05:42 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+      "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 17:05:32 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "A cultural stroll through Paris with singer-songwriters Mariam Doumbia and Zaho",
+      "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20261120-a-cultural-stroll-through-paris-with-singer-songwriters-mariam-doumbia-and-zaho",
+      "date": "Fri, 20 Nov 2026 17:04:59 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 16:54:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "‘A more expensive EU is not a better EU’: Austria's Minister for Europe, Claudia Bauer",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer",
+      "date": "Fri, 20 Nov 2026 16:53:27 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+      "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 16:40:35 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
+      "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "date": "Fri, 20 Nov 2026 16:30:04 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Photography: A very French history",
+      "link": "https://www.france24.com/en/video/20261120-photography-a-very-french-history",
+      "date": "Fri, 20 Nov 2026 16:28:29 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France investigates actor Depardieu, writer Houellebecq over alleged gang rape",
+      "link": "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape",
+      "date": "Fri, 20 Nov 2026 16:27:56 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+      "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+      "date": "Fri, 20 Nov 2026 16:13:57 +0000"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "ICJ Finds Myanmar Committed Genocide. What Comes Next?",
+      "link": "https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/",
+      "date": "Fri, 20 Nov 2026 15:57:04 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 15:55:16 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 15:55:02 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Cost of living protests set to continue across Europe over weekend",
+      "link": "https://www.rfi.fr/en/international/20261120-protesters-join-forces-across-europe-against-high-living-costs",
+      "date": "Fri, 20 Nov 2026 13:45:42 GMT"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Anthropic among big fallers in global stock market rout",
+      "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
+      "date": "Fri, 20 Nov 2026 13:39:00 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 10:20:08 GMT"
+      "date": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "SK Hynix to become top shareholder in rival Kioxia after bond conversion",
-      "link": "https://www.channelnewsasia.com/business/sk-hynix-become-top-shareholder-in-rival-kioxia-after-bond-conversion-6569061",
-      "date": "Fri, 20 Nov 2026 18:18:32 +0800"
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Other Summitry in Shenzhen",
+      "link": "https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/",
+      "date": "Fri, 20 Nov 2026 13:00:10 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "South Africa make lock change for Ireland match",
-      "link": "https://www.channelnewsasia.com/sport/south-africa-make-lock-change-ireland-match-6569046",
-      "date": "Fri, 20 Nov 2026 18:11:53 +0800"
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Texas death-row inmate screams as execution takes more than one hour",
+      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 12:42:37 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The far right is 'missing the butt' of the GTA VI joke: It's them!",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
-      "date": "Fri, 20 Nov 2026 10:11:52 GMT"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Searching for the next Messi at the Under-17 World Cup",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 10:03:11 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ATP approves $350 million compensation plan, delays doubles decision",
-      "link": "https://www.channelnewsasia.com/sport/atp-approves-350-million-compensation-plan-delays-doubles-decision-6569016",
-      "date": "Fri, 20 Nov 2026 18:01:43 +0800"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia unleashes retaliatory barrage on Kyiv bridges",
-      "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 09:54:00 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "They sold their flat and invested S$500,000 to open Indian restaurant The Mango Tree despite having no F&B experience",
-      "link": "https://www.channelnewsasia.com/dining/chinese-malay-couple-open-indian-restaurant-6568561",
-      "date": "Fri, 20 Nov 2026 17:51:31 +0800"
+      "src": "The Guardian",
+      "col": "#005689",
+      "text": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+      "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+      "date": "Fri, 20 Nov 2026 11:00:31 GMT"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Myanmar says international court&#039;s genocide ruling &#039;not fair&#039;",
-      "link": "https://www.channelnewsasia.com/asia/myanmar-icj-genocide-rohingya-not-fair-6568946",
-      "date": "Fri, 20 Nov 2026 17:36:33 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Former French prime minister Dominique de Villepin announces presidential bid",
-      "link": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
-      "date": "Fri, 20 Nov 2026 09:31:33 GMT"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "ECB&#039;s Lagarde: cyber threat boosted by AI is my top worry",
-      "link": "https://www.channelnewsasia.com/business/ecbs-lagarde-cyber-threat-boosted-ai-my-top-worry-6568936",
-      "date": "Fri, 20 Nov 2026 17:30:25 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Russia pummels Ukraine after Putin vowed &#039;painful&#039; attack",
-      "link": "https://www.channelnewsasia.com/world/russia-strike-ukraine-invasion-putin-missile-drone-6568896",
-      "date": "Fri, 20 Nov 2026 17:21:00 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-      "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 09:16:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Pakistan minister visits India for first time since 2025 war",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 09:11:57 +0000"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Myanmar rejects UN court&apos;s genocide ruling as &apos;unfair&apos;",
+      "link": "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272",
+      "date": "Fri, 20 Nov 2026 09:15:00 +0000"
     },
     {
       "src": "The Guardian",
@@ -143,62 +311,6 @@
       "date": "Fri, 20 Nov 2026 09:03:20 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Russia’s day-long attack on Kyiv damages embassies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 08:56:08 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
-      "link": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
-      "date": "Fri, 20 Nov 2026 08:37:27 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "El Salvador’s Bukele seeks third term after constitution change",
-      "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 08:21:34 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Europe's youth set to join mass cost of living protests in 25 countries",
-      "link": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
-      "date": "Fri, 20 Nov 2026 07:57:53 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "US robbery suspects charged over alleged $22M train heist spree",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 07:56:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-      "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-      "date": "Fri, 20 Nov 2026 07:56:03 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "UK and EU to agree youth mobility scheme, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 07:14:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Nigeria moves to end jail terms for attempted suicide",
-      "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 06:32:17 GMT"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Race to be next UN secretary general exposes divisions among world powers",
@@ -206,25 +318,11 @@
       "date": "Fri, 20 Nov 2026 05:00:24 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 00:50:24 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 00:13:21 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 23:33:51 GMT"
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "EU and UK agree 'landmark' deal at Burnham's Brussels summit",
+      "link": "https://www.rfi.fr/en/international/20261120-eu-and-uk-agree-landmark-deal-at-burnham-s-brussels-summit",
+      "date": "Fri, 20 Nov 2026 02:00:32 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -262,13 +360,6 @@
       "date": "Thu, 19 Nov 2026 20:35:00 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 20:07:02 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Shenzhen Was No Yalta Conference",
@@ -290,20 +381,6 @@
       "date": "Thu, 19 Nov 2026 17:55:24 +0000"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Thu, 19 Nov 2026 17:38:22 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Is This the Beginning of the End for Modi?",
-      "link": "https://foreignpolicy.com/2026/11/19/india-protests-election-fraud-modi-corruption-education-students/",
-      "date": "Thu, 19 Nov 2026 17:28:42 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "EU warns UK to make up its mind on Brexit before further talks",
@@ -316,13 +393,6 @@
       "text": "EU reveals it suffered &apos;AI-powered&apos; cyber attack",
       "link": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
       "date": "Thu, 19 Nov 2026 15:38:00 +0000"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "The Gulf Is America’s Next AI Security Test",
-      "link": "https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/",
-      "date": "Thu, 19 Nov 2026 15:26:55 +0000"
     },
     {
       "src": "RFI",
@@ -367,32 +437,11 @@
       "date": "Thu, 19 Nov 2026 12:00:00 +0000"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "No government approval needed to form or join a group, UN rights committee says",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168837",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "World’s top court finds Myanmar guilty of genocide against Rohingya",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168836",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Race to replant five South African baobabs after export blocked",
       "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
       "date": "Thu, 19 Nov 2026 11:03:24 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "UEFA challenges FIFA over access to Infantino World Cup sell-off papers - as presidency rivals revealed",
-      "link": "https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862",
-      "date": "Thu, 19 Nov 2026 09:32:00 +0000"
     },
     {
       "src": "RFI",
@@ -407,13 +456,6 @@
       "text": "Mistral boss denies French AI firm is Macron's 'personal project'",
       "link": "https://www.rfi.fr/en/international/20261119-mistral-boss-denies-french-ai-firm-is-macron-s-personal-project",
       "date": "Thu, 19 Nov 2026 06:41:19 GMT"
-    },
-    {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why Did Trump Attend ASEAN?",
-      "link": "https://foreignpolicy.com/2026/11/19/trump-asia-trip-asean-manila-summit/",
-      "date": "Thu, 19 Nov 2026 06:00:31 +0000"
     },
     {
       "src": "The Guardian",
@@ -437,60 +479,11 @@
       "date": "Wed, 18 Nov 2026 22:31:41 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Israeli troops launch ground operation in central Gaza",
-      "link": "https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724",
-      "date": "Wed, 18 Nov 2026 20:29:00 +0000"
-    },
-    {
-      "src": "The Guardian",
-      "col": "#005689",
-      "text": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-      "date": "Wed, 18 Nov 2026 20:24:19 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "OpenAI partners with NATO to strengthen alliance's cyber defences",
       "link": "https://www.rfi.fr/en/international/20261118-openai-partners-with-nato-to-strengthen-alliance-s-cyber-defences",
       "date": "Wed, 18 Nov 2026 19:33:31 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Xi, Trump and Putin prepare for historic summit, but will it reset the world order?",
-      "link": "https://www.rfi.fr/en/international/20261118-xi-trump-and-putin-prepare-for-historic-summit-but-will-it-reset-the-world-order",
-      "date": "Wed, 18 Nov 2026 19:33:13 GMT"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "William and Kate meet India&apos;s PM as they wrap up royal visit",
-      "link": "https://news.sky.com/story/prince-william-and-kate-meet-indias-pm-narendra-modi-as-they-wrap-up-royal-visit-13613699",
-      "date": "Wed, 18 Nov 2026 18:54:00 +0000"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Alaska flips to Democrats, giving party 56–44 US Senate majority",
-      "link": "https://www.rfi.fr/en/international/20261118-alaska-flips-to-democrats-giving-party-56%E2%80%9344-us-senate-majority",
-      "date": "Wed, 18 Nov 2026 16:39:21 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "COP31 deadlock persists as countries launch new ‘climate reality check’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-      "date": "Wed, 18 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Patients running out of options as antibiotics stop working against common infections",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-      "date": "Wed, 18 Nov 2026 12:00:00 +0000"
     },
     {
       "src": "The Guardian",
