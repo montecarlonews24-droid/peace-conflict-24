@@ -1,48 +1,209 @@
 {
-  "updated": "2026-11-23T01:51:35.903Z",
-  "count": 69,
+  "updated": "2026-11-23T09:55:38.832Z",
+  "count": 60,
   "items": [
     {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "'Let down on all sides': Pacific island nations express despair over COP31 failure",
+      "link": "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
+      "date": "Mon, 23 Nov 2026 09:35:45 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 09:33:59 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 09:33:46 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 09:30:16 +0000"
+    },
+    {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Search for Indonesia factory fire missing to resume on Nov 23, as police remove 24 body bags",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-factory-fire-search-resume-body-bags-victims-6573141",
-      "date": "Mon, 23 Nov 2026 09:31:12 +0800"
+      "text": "Vietnam firm breaks ground on rare earth materials plant",
+      "link": "https://www.channelnewsasia.com/business/vietnam-firm-breaks-ground-rare-earth-materials-plant-6574461",
+      "date": "Mon, 23 Nov 2026 17:13:38 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "AirAsia posts narrower third-quarter loss as fuel costs bite",
+      "link": "https://www.channelnewsasia.com/business/airasia-third-quarter-loss-fuel-costs-6574456",
+      "date": "Mon, 23 Nov 2026 17:13:00 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "AI superintelligence ‘arriving’ warns top Meta executive",
+      "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 09:08:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+      "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 08:53:10 +0000"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 01:23:43 GMT"
+      "text": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 08:53:01 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Pop star Miley Cyrus weds drummer Maxx Morando in California",
-      "link": "https://www.channelnewsasia.com/entertainment/miley-cyrus-married-maxx-morando-6572831",
-      "date": "Mon, 23 Nov 2026 09:23:35 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "CNA Now: Singapore, China to hold high-level bilateral talks, plus other news as it happens",
-      "link": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-nov-23-6568956",
-      "date": "Mon, 23 Nov 2026 09:01:00 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Can restored wetlands help protect San Francisco Bay from rising seas?",
-      "link": "https://www.channelnewsasia.com/world/cna-correspondent-san-francisco-bay-climate-change-rising-sea-levels-coastline-6568276",
-      "date": "Mon, 23 Nov 2026 09:00:00 +0800"
+      "text": "Leishman, Herbert have no regrets about joining LIV despite tour&#039;s collapse",
+      "link": "https://www.channelnewsasia.com/sport/leishman-herbert-have-no-regrets-about-joining-liv-despite-tours-collapse-6574386",
+      "date": "Mon, 23 Nov 2026 16:44:56 +0800"
     },
     {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "text": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 08:41:08 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Ralph Lauren brings the romance of an American lakeside retreat to Singapore with its Holiday Experience",
+      "link": "https://www.channelnewsasia.com/experiences/ralph-lauren-marina-bay-sands-holiday-experience-6555086",
+      "date": "Mon, 23 Nov 2026 16:39:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 08:36:57 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thai appeal court halves jail term of opposition lawmaker convicted of royal insult",
+      "link": "https://www.channelnewsasia.com/asia/thailand-appeal-court-jail-term-opposition-lawmaker-6574201",
+      "date": "Mon, 23 Nov 2026 16:29:49 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Thousands evacuated after &#039;unknown substance&#039; released at UK concert",
+      "link": "https://www.channelnewsasia.com/world/thousands-evacuated-unknown-substance-released-uk-concert-don-toliver-6574081",
+      "date": "Mon, 23 Nov 2026 16:22:28 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+      "link": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 08:08:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Rain delays the toss ahead of second test between S. Africa and Bangladesh",
+      "link": "https://www.channelnewsasia.com/sport/rain-delays-toss-ahead-second-test-between-s-africa-and-bangladesh-6574261",
+      "date": "Mon, 23 Nov 2026 15:49:27 +0800"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 07:47:32 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "date": "Mon, 23 Nov 2026 07:37:09 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "India draw feels like a win for New Zealand skipper Latham",
+      "link": "https://www.channelnewsasia.com/sport/india-draw-feels-win-new-zealand-skipper-latham-6574216",
+      "date": "Mon, 23 Nov 2026 15:19:30 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Ligue 1: Marseille lose to Le Mans after being two goals up at home",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261123-ligue-1-marseille-lose-to-le-mans-after-being-up-2-goals-at-home",
+      "date": "Mon, 23 Nov 2026 06:41:41 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Five takeaways from the failed climate talks COP31",
+      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 06:33:50 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "UN warns Libya must not become stage for Russia-Ukraine war after drone strikes",
+      "link": "https://www.rfi.fr/en/international/20261123-un-warns-libya-must-not-become-stage-for-russia-ukraine-war-after-drone-strikes",
+      "date": "Mon, 23 Nov 2026 06:33:00 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Live: Zelensky confirms Ukraine’s military struck Russian ships in Libyan waters",
+      "link": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
+      "date": "Mon, 23 Nov 2026 06:10:26 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "France seeks fresh start with Israel as Lebanon peacekeeping deadline looms",
+      "link": "https://www.rfi.fr/en/international/20261123-france-seeks-fresh-start-with-israel-as-lebanon-peacekeeping-deadline-looms",
+      "date": "Mon, 23 Nov 2026 05:41:30 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 05:33:17 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Mon, 23 Nov 2026 00:50:35 GMT"
+      "date": "Mon, 23 Nov 2026 05:15:06 GMT"
+    },
+    {
+      "src": "Foreign Policy",
+      "col": "#1a73e8",
+      "text": "The Democratic Party’s Three Conflicting Camps on AI",
+      "link": "https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/",
+      "date": "Mon, 23 Nov 2026 05:01:00 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
+      "link": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+      "date": "Mon, 23 Nov 2026 02:15:34 GMT"
     },
     {
       "src": "France 24",
@@ -73,102 +234,11 @@
       "date": "Mon, 23 Nov 2026 00:43:36 GMT"
     },
     {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 00:39:51 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "South Korea’s stock market tumbles as AI bubble fears mount",
-      "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 00:18:03 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Cameroon’s ex-rebels caught between hiding and broken promises",
-      "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-      "date": "Mon, 23 Nov 2026 00:03:30 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 23:59:22 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Mystery of the red stream in Turkiye",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 23:57:58 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Lion on the loose in Turkiye sparks fear among residents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 23:40:48 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Atletico boss Simeone surpasses Aragones with record 345th LaLiga win",
-      "link": "https://www.channelnewsasia.com/sport/atletico-boss-simeone-surpasses-aragones-record-345th-laliga-win-6573471",
-      "date": "Mon, 23 Nov 2026 07:25:51 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 23:22:59 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "She survived bone cancer and two amputations – now this 20-year-old wants to be seen beyond her disability",
-      "link": "https://www.channelnewsasia.com/women/chloe-chew-bone-cancer-survivor-wheelchair-para-fencing-6555046",
-      "date": "Mon, 23 Nov 2026 07:19:28 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-      "link": "https://www.channelnewsasia.com/business/openai-scientist-proposes-industry-ai-limits-tied-model-intelligence-metric-6573461",
-      "date": "Mon, 23 Nov 2026 07:09:20 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Esposito hat-trick not enough as Atalanta hold Inter in eight-goal thriller",
-      "link": "https://www.channelnewsasia.com/sport/esposito-hat-trick-not-enough-atalanta-hold-inter-in-eight-goal-thriller-6573451",
-      "date": "Mon, 23 Nov 2026 06:38:48 +0800"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian ship attacked near Benghazi in suspected drone attack",
-      "link": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-      "date": "Sun, 22 Nov 2026 22:37:45 GMT"
-    },
-    {
       "src": "BBC World",
       "col": "#bb1919",
-      "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 22:37:43 GMT"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Trump to host private dinner for largest owners of his meme coin",
-      "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 22:37:38 +0000"
+      "text": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Mon, 23 Nov 2026 00:08:00 GMT"
     },
     {
       "src": "The Guardian",
@@ -176,41 +246,6 @@
       "text": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
       "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
       "date": "Sun, 22 Nov 2026 21:33:44 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
-      "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-      "date": "Sun, 22 Nov 2026 21:29:16 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 20:28:09 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
-      "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
-      "date": "Sun, 22 Nov 2026 20:16:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
-      "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
-      "date": "Sun, 22 Nov 2026 19:41:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "What's next after no deal at COP31 climate talks?",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 18:57:24 GMT"
     },
     {
       "src": "BBC World",
@@ -234,39 +269,11 @@
       "date": "Sun, 22 Nov 2026 14:22:44 GMT"
     },
     {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Three killed and dozens missing after fire at Indonesian factory",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 14:05:20 GMT"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168852",
-      "date": "Sun, 22 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168855",
-      "date": "Sun, 22 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Who gets Europe's scrap? Industry fights over future of waste exports",
       "link": "https://www.rfi.fr/en/international/20261122-who-gets-europe-s-scrap-industry-fights-over-future-of-waste-exports",
       "date": "Sun, 22 Nov 2026 11:53:28 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "South Korea education minister resigns over exam cheating scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 09:20:45 GMT"
     },
     {
       "src": "Sky News",
@@ -332,20 +339,6 @@
       "date": "Sat, 21 Nov 2026 13:05:31 GMT"
     },
     {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-      "date": "Sat, 21 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "date": "Sat, 21 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "Haitians excited but uneasy as El Salvador troops fight gangs",
@@ -395,13 +388,6 @@
       "date": "Fri, 20 Nov 2026 19:00:51 +0000"
     },
     {
-      "src": "Foreign Policy",
-      "col": "#1a73e8",
-      "text": "Why BAAJA Matters",
-      "link": "https://foreignpolicy.com/2026/11/20/baaja-permitting-reform-affordability-climate-change-renewable-energy-us-policy/",
-      "date": "Fri, 20 Nov 2026 18:58:35 +0000"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Cost of living protests set to continue across Europe over weekend",
@@ -409,60 +395,11 @@
       "date": "Fri, 20 Nov 2026 13:45:42 GMT"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Anthropic among big fallers in global stock market rout",
-      "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
-      "date": "Fri, 20 Nov 2026 13:39:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168854",
-      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "src": "UN News",
-      "col": "#3b82f6",
-      "text": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-      "date": "Fri, 20 Nov 2026 12:00:00 +0000"
-    },
-    {
       "src": "The Guardian",
       "col": "#005689",
       "text": "California’s coastal communities on alert as biggest waves in years hit state",
       "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "date": "Fri, 20 Nov 2026 09:03:20 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU and UK agree 'landmark' deal at Burnham's Brussels summit",
-      "link": "https://www.rfi.fr/en/international/20261120-eu-and-uk-agree-landmark-deal-at-burnham-s-brussels-summit",
-      "date": "Fri, 20 Nov 2026 02:00:32 GMT"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "EU warns UK to make up its mind on Brexit before further talks",
-      "link": "https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks",
-      "date": "Thu, 19 Nov 2026 17:07:21 GMT"
     },
     {
       "src": "The Guardian",
