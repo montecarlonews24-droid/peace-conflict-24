@@ -1,69 +1,244 @@
 {
-  "updated": "2026-11-28T03:36:53.972Z",
-  "count": 56,
+  "updated": "2026-11-28T12:30:49.409Z",
+  "count": 64,
   "items": [
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Parts of US clean up after Thanksgiving storm lashes East Coast",
-      "link": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 03:00:00 +0000"
+      "text": "Tarantulas, scorpions and more found in luggage at Peru airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 12:21:52 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "O&#039;Rourke returns to New Zealand squad for test tour of Australia",
-      "link": "https://www.channelnewsasia.com/sport/orourke-returns-new-zealand-squad-test-tour-australia-6589006",
-      "date": "Sat, 28 Nov 2026 10:52:56 +0800"
+      "text": "Indian police disperse protest outside Meta offices with water cannon",
+      "link": "https://www.channelnewsasia.com/asia/india-meta-police-protest-water-cannon-6589406",
+      "date": "Sat, 28 Nov 2026 20:17:00 +0800"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Argentina's bid to stop Falkland Islands oil drilling rejected",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 12:15:45 GMT"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Bulgarians demand action by French after Marseille match violence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 02:30:27 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
-      "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 02:08:11 +0000"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Taiwan votes in local elections to choose mayors, other leaders",
-      "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 02:05:27 +0000"
+      "text": "Manchester United vs Brentford LIVE: Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 12:06:46 +0000"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Lawsuits won&#039;t affect Google&#039;s investments in Malaysia: PM",
-      "link": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-lawsuits-google-investments-6588976",
-      "date": "Sat, 28 Nov 2026 10:05:00 +0800"
+      "text": "Iraq FA dismisses coach Arnold exit talk",
+      "link": "https://www.channelnewsasia.com/sport/iraq-fa-dismisses-coach-arnold-exit-talk-6589391",
+      "date": "Sat, 28 Nov 2026 20:03:58 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 01:55:03 +0000"
+      "text": "India fumble chances as New Zealand finish day two on top in Christchurch",
+      "link": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 11:54:40 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 11:35:34 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 11:30:07 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Israel unity government talks stall: What happens now?",
+      "link": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 11:29:21 +0000"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "The perfect storm behind Congo’s deadliest Ebola outbreak",
+      "link": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 11:27:34 +0000"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France holds nationwide protests against violence towards women",
+      "link": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
+      "date": "Sat, 28 Nov 2026 11:25:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+      "link": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
+      "date": "Sat, 28 Nov 2026 11:23:55 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 11:18:37 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Three days in the dark: How prepared are we for the lights to go out?",
+      "link": "https://www.france24.com/en/europe/20261128-three-days-dark-how-prepared-we-lights-go-out-france-cyber-attack-refrigerators-security",
+      "date": "Sat, 28 Nov 2026 11:17:11 GMT"
     },
     {
       "src": "CNA",
       "col": "#84cc16",
-      "text": "Britain&#039;s Princess Catherine climbs mountains, fights cancer in intimate documentary Heal",
-      "link": "https://www.channelnewsasia.com/entertainment/princess-catherine-cancer-documentary-heal-6588646",
-      "date": "Sat, 28 Nov 2026 09:32:00 +0800"
+      "text": "Bezzecchi sets lap record to snatch Valencia pole from Marquez",
+      "link": "https://www.channelnewsasia.com/sport/bezzecchi-sets-lap-record-snatch-valencia-pole-marquez-6589376",
+      "date": "Sat, 28 Nov 2026 19:07:53 +0800"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Taiwan holds elections to choose mayors and other local leaders",
+      "link": "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
+      "date": "Sat, 28 Nov 2026 11:06:49 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Europe prepares for a very cold winter as temperatures are expected to drop",
+      "link": "https://www.france24.com/en/europe-prepares-for-a-very-cold-winter-as-temperatures-are-expected-to-drop",
+      "date": "Sat, 28 Nov 2026 11:03:40 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "Outbreak of diarrhea amongst young children in Gabon, Africa",
+      "link": "https://www.france24.com/en/outbreak-of-diarrhea-amongst-young-children-in-gabon-africa",
+      "date": "Sat, 28 Nov 2026 11:00:40 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "France holds nationwide protests against violence towards women",
+      "link": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+      "date": "Sat, 28 Nov 2026 10:59:52 GMT"
+    },
+    {
+      "src": "France 24",
+      "col": "#ef4444",
+      "text": "More children reunited with their families amid war in Ukraine",
+      "link": "https://www.france24.com/en/more-children-reunited-with-their-families-amid-war-in-ukraine",
+      "date": "Sat, 28 Nov 2026 10:53:48 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Lack of Italian players in Serie A forces Mancini to turn to youth",
+      "link": "https://www.channelnewsasia.com/sport/lack-italian-players-in-serie-forces-mancini-turn-youth-6589346",
+      "date": "Sat, 28 Nov 2026 18:51:59 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Israeli strike killed two staff outside Gaza clinic, medical charity MSF says",
+      "link": "https://www.rfi.fr/en/international/20261128-israeli-strike-killed-two-staff-outside-gaza-clinic-medical-charity-msf-says",
+      "date": "Sat, 28 Nov 2026 10:44:24 GMT"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Saudi, Houthis trade strikes targeting capitals",
+      "link": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336",
+      "date": "Sat, 28 Nov 2026 18:37:00 +0800"
     },
     {
       "src": "Al Jazeera",
       "col": "#f59e0b",
-      "text": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-      "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 01:00:00 +0000"
+      "text": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 10:36:41 +0000"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 10:34:58 GMT"
+    },
+    {
+      "src": "Al Jazeera",
+      "col": "#f59e0b",
+      "text": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+      "link": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+      "date": "Sat, 28 Nov 2026 10:32:42 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "De Villiers drafted into Springbok starting side",
+      "link": "https://www.channelnewsasia.com/sport/de-villiers-drafted-springbok-starting-side-6589331",
+      "date": "Sat, 28 Nov 2026 18:05:00 +0800"
+    },
+    {
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Keep Russia-Ukraine war out of the Mediterranean, Italy tells Zelenskyy",
+      "link": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
+      "date": "Sat, 28 Nov 2026 10:01:00 +0000"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "5 community healthcare bodies launch SG Health Alliance to tackle chronic disease risks",
+      "link": "https://www.channelnewsasia.com/singapore/sg-health-alliance-healthcare-diabetes-stroke-heart-cancer-kidney-disease-chronic-6589296",
+      "date": "Sat, 28 Nov 2026 17:44:51 +0800"
+    },
+    {
+      "src": "CNA",
+      "col": "#84cc16",
+      "text": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+      "link": "https://www.channelnewsasia.com/world/israel-gaza-strike-doctors-without-borders-6589316",
+      "date": "Sat, 28 Nov 2026 17:41:00 +0800"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Turkey pushes for Black Sea shipping deal as UN warns global food crisis looms",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20261128-turkey-pushes-for-black-sea-shipping-deal-as-un-warns-global-food-crisis-looms",
+      "date": "Sat, 28 Nov 2026 09:19:50 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 07:31:14 GMT"
+    },
+    {
+      "src": "RFI",
+      "col": "#8b5cf6",
+      "text": "Deal or no deal? UK and EU haggle over tuition fees",
+      "link": "https://www.rfi.fr/en/international/20261128-deal-or-no-deal-uk-and-eu-haggle-over-tuition-fees",
+      "date": "Sat, 28 Nov 2026 06:23:31 GMT"
+    },
+    {
+      "src": "BBC World",
+      "col": "#bb1919",
+      "text": "Eight killed in Peruvian military helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&amp;at_campaign=rss",
+      "date": "Sat, 28 Nov 2026 04:19:16 GMT"
     },
     {
       "src": "BBC World",
@@ -75,65 +250,16 @@
     {
       "src": "Sky News",
       "col": "#06b6d4",
-      "text": "Son of Hamas chief and his family survive Israeli airstrike, group says",
+      "text": "Doctors Without Borders &apos;outraged&apos; after staff killed in Gaza",
       "link": "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
       "date": "Sat, 28 Nov 2026 00:33:00 +0000"
     },
     {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "New Zealand 330 for eight at lunch in second test v India",
-      "link": "https://www.channelnewsasia.com/sport/new-zealand-330-eight-lunch-in-second-test-v-india-6588861",
-      "date": "Sat, 28 Nov 2026 08:25:55 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Jamaica rout Costa Rica to secure Women&#039;s World Cup berth",
-      "link": "https://www.channelnewsasia.com/sport/jamaica-rout-costa-rica-secure-womens-world-cup-berth-6588851",
-      "date": "Sat, 28 Nov 2026 08:22:13 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "How long does it take to get out of shape? Here&#039;s what happens when you take a break from exercise",
-      "link": "https://www.channelnewsasia.com/wellness/exercise-fitness-break-6569671",
-      "date": "Sat, 28 Nov 2026 08:16:44 +0800"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "Why I walked over 200km across Spain in 9 days after burning out at work",
-      "link": "https://www.channelnewsasia.com/travel/spain-camino-de-santiago-walk-career-burnout-6562446",
-      "date": "Sat, 28 Nov 2026 08:14:40 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 00:12:20 +0000"
-    },
-    {
-      "src": "CNA",
-      "col": "#84cc16",
-      "text": "US Black Friday online sales to cross $13 billion, Adobe says",
-      "link": "https://www.channelnewsasia.com/business/us-black-friday-online-sales-cross-13-billion-adobe-says-6588836",
-      "date": "Sat, 28 Nov 2026 08:06:42 +0800"
-    },
-    {
-      "src": "Al Jazeera",
-      "col": "#f59e0b",
-      "text": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-      "date": "Sat, 28 Nov 2026 00:00:00 +0000"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "S&P revises France's outlook from 'stable' to 'negative'",
-      "link": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
-      "date": "Fri, 27 Nov 2026 22:00:20 GMT"
+      "src": "Sky News",
+      "col": "#06b6d4",
+      "text": "Court rejects Argentina&apos;s bid to block Falklands oil drilling project",
+      "link": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
+      "date": "Sat, 28 Nov 2026 00:01:00 +0000"
     },
     {
       "src": "BBC World",
@@ -143,95 +269,11 @@
       "date": "Fri, 27 Nov 2026 21:55:53 GMT"
     },
     {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Uganda to withdraw troops from DR Congo",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
-      "date": "Fri, 27 Nov 2026 21:44:29 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
-      "link": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
-      "date": "Fri, 27 Nov 2026 21:09:12 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
-      "date": "Fri, 27 Nov 2026 20:43:44 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 20:34:45 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
-      "date": "Fri, 27 Nov 2026 20:14:37 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 20:06:31 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 18:42:50 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "The AI revolution: Will I lose my job?",
-      "link": "https://www.france24.com/en/tv-shows/the-51/20261127-the-ai-revolution-will-i-lose-my-job",
-      "date": "Fri, 27 Nov 2026 18:39:38 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
-      "link": "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
-      "date": "Fri, 27 Nov 2026 18:31:42 GMT"
-    },
-    {
-      "src": "France 24",
-      "col": "#ef4444",
-      "text": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
-      "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
-      "date": "Fri, 27 Nov 2026 18:18:46 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 18:00:40 GMT"
-    },
-    {
       "src": "RFI",
       "col": "#8b5cf6",
       "text": "Housing and migration shape Spanish election as far right eyes power",
       "link": "https://www.rfi.fr/en/international/20261127-housing-and-migration-shape-spanish-election-as-far-right-eyes-power-vox-sanchez",
       "date": "Fri, 27 Nov 2026 17:00:23 GMT"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Brazil pushes back on Macron calling its meat 'doped'",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 15:54:15 GMT"
     },
     {
       "src": "RFI",
@@ -262,18 +304,25 @@
       "date": "Fri, 27 Nov 2026 12:44:11 GMT"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "date": "Fri, 27 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Putting survivors at the centre of gender-based violence services",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "date": "Fri, 27 Nov 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Latin America’s ‘Orange Wave’ Is Not Spurning China",
       "link": "https://foreignpolicy.com/2026/11/27/latin-america-trump-china-right-wing-economics-orange-wave/",
       "date": "Fri, 27 Nov 2026 11:00:22 +0000"
-    },
-    {
-      "src": "BBC World",
-      "col": "#bb1919",
-      "text": "Millions of wives in South Asia unprotected from marital rape - study",
-      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&amp;at_campaign=rss",
-      "date": "Fri, 27 Nov 2026 08:13:43 GMT"
     },
     {
       "src": "RFI",
@@ -311,13 +360,6 @@
       "date": "Thu, 26 Nov 2026 17:16:00 +0000"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Why France and Vanuatu are fighting over two uninhabited volcanic islands",
-      "link": "https://www.rfi.fr/en/international/20261126-why-france-and-vanuatu-are-fighting-over-two-uninhabited-volcanic-islands-hunter-matthew",
-      "date": "Thu, 26 Nov 2026 17:00:40 GMT"
-    },
-    {
       "src": "Sky News",
       "col": "#06b6d4",
       "text": "Airline suspends all flights - as carrier faces bankruptcy",
@@ -325,25 +367,11 @@
       "date": "Thu, 26 Nov 2026 16:36:00 +0000"
     },
     {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Five countries bordering Russia withdraw from global landmine ban treaty",
-      "link": "https://www.rfi.fr/en/international/20261126-five-countries-bordering-russia-withdraw-from-global-landmine-ban-treaty",
-      "date": "Thu, 26 Nov 2026 15:11:22 GMT"
-    },
-    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "The Top 10 Reasons to Be Thankful in 2026",
       "link": "https://foreignpolicy.com/2026/11/26/thanksgiving-trump-thankful-list/",
       "date": "Thu, 26 Nov 2026 15:02:44 +0000"
-    },
-    {
-      "src": "RFI",
-      "col": "#8b5cf6",
-      "text": "Iraq sentences eight French Islamic State members to life as prosecutions continue",
-      "link": "https://www.rfi.fr/en/international/20261126-iraq-sentences-eight-french-islamic-state-members-to-life-as-prosecutions-continue",
-      "date": "Thu, 26 Nov 2026 14:04:12 GMT"
     },
     {
       "src": "Foreign Policy",
@@ -360,18 +388,32 @@
       "date": "Thu, 26 Nov 2026 12:33:15 +0000"
     },
     {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168878",
+      "date": "Thu, 26 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Maritime trade stagnates amid geopolitical uncertainty",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "date": "Thu, 26 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+      "date": "Thu, 26 Nov 2026 12:00:00 +0000"
+    },
+    {
       "src": "Foreign Policy",
       "col": "#1a73e8",
       "text": "Pedro Sánchez’s Big Bet",
       "link": "https://foreignpolicy.com/2026/11/26/spain-election-housing-crisis-sanchez-feijoo/",
       "date": "Thu, 26 Nov 2026 11:00:29 +0000"
-    },
-    {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Myanmar says it will not comply with &apos;inappropriate&apos; ICJ genocide orders",
-      "link": "https://news.sky.com/story/myanmar-says-it-will-not-comply-with-inappropriate-icj-genocide-orders-13616762",
-      "date": "Thu, 26 Nov 2026 10:48:00 +0000"
     },
     {
       "src": "Sky News",
@@ -388,11 +430,25 @@
       "date": "Thu, 26 Nov 2026 00:36:17 +0000"
     },
     {
-      "src": "Sky News",
-      "col": "#06b6d4",
-      "text": "Two children among six dead in plane crash",
-      "link": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273",
-      "date": "Wed, 25 Nov 2026 06:38:00 +0000"
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "src": "UN News",
+      "col": "#3b82f6",
+      "text": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000"
     }
   ]
 }
